@@ -88,6 +88,16 @@
     "change_icon": "Klikk for å bytte ikon",
     "char_sheet": "Rolle liste",
     "characters": "Velg Roller",
-    "download": "Last ned {0} App"
+    "download": "Last ned {0} App",
+    "edition": "Velg Utgave",
+    "error_audio4": "Endre en innstilling",
+    "fabled": "Legg Til Fabel",
+    "fullscreen": "Fullskjerm",
+    "gather": "Samle Spillerene Dine",
+    "help": "Hjelp",
+    "leave": "Forlat Spill",
+    "night_info": "Natt info",
+    "prompt_timer_text": "Velg en lengde og (valgfritt) navn på stoppeklokken:",
+    "prompt_timer_title": "Start en stoppeklokke"
   }
 }
