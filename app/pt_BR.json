@@ -10,7 +10,18 @@
     "button_close": "Fechar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
-    "button_logout": "Deslogar"
+    "button_logout": "Deslogar",
+    "button_search": "Procurar",
+    "button_send": "Enviar",
+    "cookie_policy": "Política de Cookies",
+    "privacy_policy": "Política de Privacidade",
+    "session-tags": {
+      "cameras": {
+        "label": "Câmeras",
+        "title": "Se câmeras estão sendo usadas nessa sessão",
+        "value_0": "Opcional"
+      }
+    }
   },
   "user": {
     "id": "ID do Usuário",
