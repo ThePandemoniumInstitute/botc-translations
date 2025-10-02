@@ -23,7 +23,64 @@
       }
     }
   },
+  "tabs": {
+    "bluffs": {
+      "drag": "Você pode arrastar esta aba para qualquer lugar da tela.",
+      "title": "Blefes"
+    },
+    "character": {
+      "download": "Baixar Cenário JSON",
+      "error_popout": "Erro criando janela",
+      "error_save": "Erro salvando arquivo",
+      "other_nights": "Exceto a\nprimeira noite",
+      "popout": "Aba de Personagem em Pop-out"
+    },
+    "characters": {
+      "title": "Personagens"
+    },
+    "chat": {
+      "channels": {
+        "bmr_0": "Taverna",
+        "bmr_1": "Cabana",
+        "bmr_2": "Pântano",
+        "bmr_3": "Fazenda",
+        "bmr_4": "Caravana",
+        "custom_0": "Loja de Poções",
+        "custom_1": "Torre",
+        "custom_2": "Catedral",
+        "custom_3": "Fogueira",
+        "custom_4": "Ribeira",
+        "snv_0": "Herbário",
+        "snv_1": "Estufa",
+        "snv_2": "Cavernas",
+        "snv_3": "Templo",
+        "snv_4": "Tenda do Circo",
+        "tb_0": "Monastério",
+        "tb_1": "Igreja",
+        "tb_2": "Cemitério",
+        "tb_3": "Biblioteca",
+        "tb_4": "Laboratório"
+      },
+      "chats": "Conversas",
+      "following": "Você está seguindo este jogador.",
+      "night": "Caiu a noite...",
+      "nomination": "Um jogador foi nomeado!",
+      "title": "Voz"
+    },
+    "text": {
+      "channels": {
+        "spectator": "Espectadores",
+        "system": "Sessão"
+      }
+    }
+  },
   "user": {
+    "avatar_enabled": "Avatar visível",
+    "camera_enabled": "Câmera visível",
+    "error_avatar_text": "O avatar que você selecionou tem um tamanho de {0}MB, mas o tamanho máximo é {1}MB.",
+    "error_avatar_title": "Tamanho do arquivo muito grande",
+    "gain": "Ganho",
+    "group_subscription": "Assinatura Coletiva",
     "id": "ID do Usuário",
     "mic_volume": "Volume do Microfone",
     "new_user": "Novo Usuário",
@@ -51,6 +108,10 @@
   "version": {
     "character_distribution": "Distribuição de personagens",
     "players_alive": "{0} / {1} jogadores vivos",
+    "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
+    "since": "desde {0}",
+    "warning_browser": "Você está utilizando um navegador antigo ou não suportado",
+    "warning_update": "A versão do seu aplicativo está desatualizada",
     "warning_update2": "{0}, a última versão é a {1}!"
   }
 }
