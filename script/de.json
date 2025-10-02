@@ -1,1 +1,27 @@
-{}
+{
+  "author": "von ",
+  "edition": {
+    "base-three": "Grundspiel",
+    "carousel": "Carousel",
+    "custom": "Sonstige",
+    "homebrew": "Eigenkreationen",
+    "kickstarter": "Kickstarter"
+  },
+  "keyword": {
+    "demon": "Dämon|Dämonen",
+    "fabled": "Legende|Legenden",
+    "first-night": "Erste Nacht",
+    "minion": "Scherge|Schergen",
+    "other-nights": "Weitere Nächte",
+    "outsider": "Außenseiter|Außenseiter",
+    "townsfolk": "Bürger|Bürger",
+    "traveller": "Reisender|Reisende"
+  },
+  "new-script": "Neues Skript",
+  "print": {
+    "not-first-night": "* Nicht in der ersten Nacht"
+  },
+  "quick-add": "Schnell hinzufügen…",
+  "scripts": "Skripte",
+  "search-character": "Charakter suchen…"
+}
