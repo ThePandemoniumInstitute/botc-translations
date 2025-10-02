@@ -84,13 +84,36 @@
       "following": "Você está seguindo este jogador.",
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
+      "spectator": "Espectador",
       "title": "Voz"
     },
     "text": {
       "channels": {
+        "public": "Público",
         "spectator": "Espectadores",
         "system": "Sessão"
-      }
+      },
+      "prompt_user": "A {0}",
+      "system": {
+        "death": "{0} morreu.",
+        "end_evil": "O jogo terminou e o time do Mal venceu!",
+        "end_good": "O jogo terminou e o time do Bem venceu!",
+        "grim_deny": "{0} teve acesso negado ao Grimório.",
+        "grim_receive": "{0} recebeu acesso ao Grimório.",
+        "grim_remove": "{0} não tem mais acesso ao Grimório.",
+        "grim_request": "{0} solicitou acesso ao Grimório.",
+        "join": "{0} se juntou ao jogo.",
+        "leave": "{0} saiu do jogo.",
+        "phase": "{0} começou.",
+        "revive": "{0} reviveu.",
+        "seat_claim": "{0} ocupou o assento {1}.",
+        "seat_vacate": "{0} deixou o assento {1}.",
+        "start": "O jogo começou e os personagens foram enviados!",
+        "storyteller_add": "{0} se tornou o Narrador.",
+        "storyteller_remove": "{0} deixou de ser o Narrador.",
+        "vote": "{0} utilizou seu Voto Fantasma."
+      },
+      "title": "Texto"
     }
   },
   "user": {
