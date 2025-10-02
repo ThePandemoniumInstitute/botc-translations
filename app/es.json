@@ -10,6 +10,22 @@
       "special-tpi": "Empleado de TPI"
     },
     "botc_online": "BOTC en línea",
-    "button_cancel": "Cancelar"
+    "button_cancel": "Cancelar",
+    "button_close": "Cerrar",
+    "button_confirm": "Confirmar",
+    "button_continue": "Continuar",
+    "button_logout": "Cerrar Sesión",
+    "button_search": "Buscar",
+    "button_send": "Enviar",
+    "cookie_policy": "Política de Cookies",
+    "privacy_policy": "Política de Privacidad",
+    "session-tags": {
+      "cameras": {
+        "label": "Cámaras",
+        "title": "Si se están utilizando cámaras en esta sesión de juego",
+        "value_0": "Opcional",
+        "value_1": "Obligatorio"
+      }
+    }
   }
 }
