@@ -24,7 +24,22 @@
         "label": "Cámaras",
         "title": "Si se están utilizando cámaras en esta sesión de juego",
         "value_0": "Opcional",
-        "value_1": "Obligatorio"
+        "value_1": "Obligatorio",
+        "value_2": "Apagado"
+      },
+      "difficulty": {
+        "label": "Dificultad",
+        "title": "El nivel de experiencia esperado de los jugadores en esta sesión de juego",
+        "value_0": "Promedio",
+        "value_1": "Experimentado",
+        "value_2": "Principiante"
+      },
+      "grimoire": {
+        "label": "Acceso al Grimoire",
+        "title": "Si los espectadores reciben acceso al Grimoire",
+        "value_0": "Siempre pregunta",
+        "value_1": "No",
+        "value_2": "Sí"
       }
     }
   }
