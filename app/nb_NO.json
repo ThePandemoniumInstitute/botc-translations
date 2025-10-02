@@ -58,6 +58,21 @@
         "value_2": "Nei"
       }
     },
-    "terms_of_use": "Bruksvilkår"
+    "terms_of_use": "Bruksvilkår",
+    "title": "Blod på klokketårnet"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "Send roller",
+      "open-eyes": "Åpne/Lukk øyne",
+      "pointing": "Velg spiller"
+    },
+    "demon": "Demon|Demoner",
+    "fabled": "Fabel|Fabel",
+    "phases": {
+      "day": "Første Dag|Dag",
+      "end": "Imellom spill",
+      "first_night": "Første natt"
+    }
   }
 }
