@@ -63,5 +63,50 @@
     "title": "Sangre en la Torre del Reloj en Línea",
     "trademark": "\"Blood on the Clocktower\" es una marca registrada de Steven Medway y The Pandemonium Institute.",
     "unnamed_user": "Usador sin nombre"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "Distribuir Personajes",
+      "ghost-votes": "Devolver Votos Fantasmas",
+      "grimoire": "Revelar el Grimoire",
+      "open-eyes": "Abrir/Cerrar los Ojos",
+      "pointing": "Elige un Jugador"
+    },
+    "demon": "Demonio|Demonios",
+    "fabled": "Personaje Mítico|Personajes Míticos",
+    "minion": "Esbirro|Esbirros",
+    "outsider": "Forastero|Forasteros",
+    "phases": {
+      "day": "Primer Día|Día {n}",
+      "end": "Entre juegos",
+      "first_night": "Primera Noche",
+      "night": "Primera Noche|Noche {n}",
+      "other_nights": "Otras Noches",
+      "start": "Preparando la Noche 1"
+    },
+    "player": "Jugador {0}",
+    "players": "Jugadores",
+    "seat": "Asiento {0}",
+    "shroud": "Marca de la Muerte",
+    "storyteller": "Cuentista {0}",
+    "storytellers": "Los Cuentistas",
+    "token": "Ficha",
+    "townsfolk": "Aldeano|Aldeanos",
+    "traveller": "Viajero|Viajeros"
+  },
+  "main-menu": {
+    "cast_vote": "Emitir Voto",
+    "change_icon": "Haga clic para cambiar el icono",
+    "char_sheet": "Página de Personajes",
+    "characters": "Elige Personajes",
+    "clear_grim": "Despejar Grimoire",
+    "download": "Descargar {0} App",
+    "edition": "Eligir Edición",
+    "error_audio3": "Es posible que también tangas que {0} en Firefox para escuchar el audio de la aplicación.",
+    "error_audio4": "Cambiar configuración",
+    "fabled": "Agregar Personaje Mítico",
+    "fullscreen": "Pantalla Completa",
+    "gather": "Reúne a Sus Jugadores",
+    "gong_attention": "Gong de Atención"
   }
 }
