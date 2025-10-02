@@ -61,7 +61,9 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "שלח דמויות",
-      "open-eyes": "לפתוח/לסגור את העיניים"
-    }
+      "open-eyes": "לפתוח/לסגור את העיניים",
+      "pointing": "בחר שחקן"
+    },
+    "demon": "שד|שדים"
   }
 }
