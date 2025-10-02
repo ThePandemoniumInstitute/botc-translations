@@ -1,8 +1,16 @@
 {
   "common": {
     "account-levels": {
-      "free": "Grátis"
-    }
+      "free": "Grátis",
+      "special-moderator": "Moderador",
+      "special-tpi": "Equipe do TPI"
+    },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Cancelar",
+    "button_close": "Fechar",
+    "button_confirm": "Confirmar",
+    "button_continue": "Continuar",
+    "button_logout": "Deslogar"
   },
   "user": {
     "id": "ID do Usuário",
