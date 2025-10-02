@@ -1,7 +1,63 @@
 {
   "common": {
     "account-levels": {
-      "free": "Gratis"
-    }
+      "free": "Gratis",
+      "patreon-demon": "Demon nivå",
+      "patreon-minion": "Undersått",
+      "patreon-townsfolk": "Byfolk",
+      "special-moderator": "Moderator",
+      "special-tpi": "TPI Personale"
+    },
+    "botc_online": "BOTC På Nett",
+    "button_cancel": "Avbryt",
+    "button_close": "Lukk",
+    "button_confirm": "Bekreft",
+    "button_continue": "Fortsett",
+    "button_logout": "Logg ut",
+    "button_search": "Søk",
+    "button_send": "Send",
+    "cookie_policy": "Retningslinjer for Informasjonskapsler",
+    "privacy_policy": "Personvernserklæring",
+    "session-tags": {
+      "cameras": {
+        "label": "Kameraer",
+        "title": "Om kameraer brukes i denne spillsesjonen",
+        "value_0": "Valgfritt",
+        "value_1": "Påkrevd",
+        "value_2": "Av"
+      },
+      "difficulty": {
+        "label": "Vanskelighetsgrad",
+        "title": "Det forventete ferdighetsnivået til spillere i denne spillsesjonen",
+        "value_0": "Gjennomsnittlig",
+        "value_1": "Veteran",
+        "value_2": "Begynner"
+      },
+      "grimoire": {
+        "label": "Gromoire-tilgang",
+        "title": "Om spektatorer har tilgang til Grimoiren",
+        "value_0": "Spør",
+        "value_1": "Nei",
+        "value_2": "Ja"
+      },
+      "streaming": {
+        "label": "Spillet Blir Strømmet",
+        "title": "Spillsesjonen blir strømmet direkte",
+        "value_0": "Nei",
+        "value_1": "Ja"
+      },
+      "subscription": {
+        "label": "Abonnement påkrevd",
+        "title": "Deltakelse i dette spillet krever et aktivt abonnement"
+      },
+      "travellers": {
+        "label": "Reisende",
+        "title": "Om reisende er tillatt i denne spillsesjonen",
+        "value_0": "Valgfritt",
+        "value_1": "Ja",
+        "value_2": "Nei"
+      }
+    },
+    "terms_of_use": "Bruksvilkår"
   }
 }
