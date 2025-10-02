@@ -19,7 +19,26 @@
       "cameras": {
         "label": "Câmeras",
         "title": "Se câmeras estão sendo usadas nessa sessão",
-        "value_0": "Opcional"
+        "value_0": "Opcional",
+        "value_1": "Obrigatório",
+        "value_2": "Desligada"
+      },
+      "difficulty": {
+        "label": "Dificuldade",
+        "title": "O nível de experiência esperada dos jogadores nessa sessão",
+        "value_0": "Intermediário",
+        "value_1": "Veterano",
+        "value_2": "Iniciante"
+      },
+      "grimoire": {
+        "label": "Acesso ao Grimório",
+        "title": "Se espectadores recebem acesso ao Grimório",
+        "value_0": "Peça",
+        "value_1": "Não",
+        "value_2": "Sim"
+      },
+      "streaming": {
+        "label": "Jogo Streamado"
       }
     }
   },
