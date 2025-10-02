@@ -5,7 +5,6 @@
       "name": "Bad Moon Rising"
     },
     "custom": {
-      "description": "",
       "name": "Eigenes Skript"
     },
     "homebrew": {
@@ -21,10 +20,6 @@
     }
   },
   "jinxes": {
-    "alchemist-boffin": "",
-    "alchemist-marionette": "",
-    "alchemist-mastermind": "",
-    "alchemist-organgrinder": "",
     "alchemist-spy": "An Alchemist-Spy has no Spy ability & a Spy is in play. After each execution, a living Alchemist-Spy may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight.",
     "alchemist-summoner": "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]",
     "alchemist-widow": "An Alchemist-Widow has no Widow ability & a Widow is in play. After each execution, a living Alchemist-Widow may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight.",
