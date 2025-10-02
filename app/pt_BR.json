@@ -3,5 +3,12 @@
     "account-levels": {
       "free": "Grátis"
     }
+  },
+  "user": {
+    "id": "ID do Usuário",
+    "mic_volume": "Volume do Microfone"
+  },
+  "version": {
+    "warning_update2": "{0}, a última versão é a {1}!"
   }
 }
