@@ -1,0 +1,36 @@
+{
+  "keyword": {
+    "townsfolk": "Townsfolk|Townsfolk",
+    "outsider": "Outsider|Outsiders",
+    "minion": "Minion|Minions",
+    "demon": "Demon|Demons",
+    "traveller": "Traveller|Travellers",
+    "fabled": "Fabled|Fabled",
+    "first-night": "First Night",
+    "other-nights": "Other Nights"
+  },
+  "edition": {
+    "base-three": "Base",
+    "kickstarter": "Kickstarter",
+    "carousel": "Carousel",
+    "homebrew": "Homebrew",
+    "custom": "Custom"
+  },
+  "print": {
+    "not-first-night": "* Not the first night"
+  },
+  "scripts": "Scripts",
+  "author": "by ",
+  "quick-add": "Quick add …",
+  "search-character": "Search characters …",
+  "new-script": "New Script",
+  "toggle-all": "Toggle All",
+  "undo": "Undo",
+  "redo": "Redo",
+  "autosort": "Auto-sort",
+  "help": "Help",
+  "show-all": "All Characters",
+  "search-names": "Search names",
+  "search-abilities": "Search abilities",
+  "new-bootlegger-rule": "New bootlegger rule …"
+}
