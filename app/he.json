@@ -1,1 +1,67 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "חינם",
+      "patreon-demon": "דרגת השד",
+      "patreon-minion": "דרגת המיניון",
+      "patreon-townsfolk": "דרגת העיירה",
+      "special-free": "ללא תשלום",
+      "special-moderator": "מנהל",
+      "special-tpi": "צוות TPI"
+    },
+    "botc_online": "BOTC אונליין",
+    "button_cancel": "ביטול",
+    "button_close": "סגור",
+    "button_confirm": "אישור",
+    "button_continue": "המשך",
+    "button_logout": "התנתק",
+    "button_search": "חפש",
+    "button_send": "שלח",
+    "cookie_policy": "מדיניות קובצי עוגיות",
+    "privacy_policy": "מדיניות פרטיות",
+    "session-tags": {
+      "cameras": {
+        "label": "מצלמות",
+        "title": "במקרה שנעשה שימוש במצלמות במפגש זה",
+        "value_0": "אופציונלי",
+        "value_1": "נדרש",
+        "value_2": "כיבוי"
+      },
+      "difficulty": {
+        "label": "רמת קושי",
+        "title": "רמת הניסיון המצופה מהשחקנים במפגש זה",
+        "value_0": "ממוצע",
+        "value_2": "מתחיל"
+      },
+      "grimoire": {
+        "value_0": "שאל",
+        "value_1": "לא",
+        "value_2": "כן"
+      },
+      "streaming": {
+        "label": "המשחק משודר",
+        "title": "המשחק ישודר בשידור חי",
+        "value_0": "לא",
+        "value_1": "כן"
+      },
+      "subscription": {
+        "label": "נדרש מנוי",
+        "title": "הצטרפות למשחק זה דורשת מנוי פעיל"
+      },
+      "travellers": {
+        "value_0": "אופציונאלי",
+        "value_1": "כן",
+        "value_2": "לא"
+      }
+    },
+    "terms_of_use": "תנאי שימוש",
+    "trademark": "\"Blood on the Clocktower\" הוא סימן מסחרי של סטיבן מדווי ו-The Pandemonium Institute.",
+    "unnamed_user": "שחקן ללא שם"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "שלח דמויות",
+      "open-eyes": "לפתוח/לסגור את העיניים"
+    }
+  }
+}
