@@ -5,7 +5,7 @@
       "name": "Bad Moon Rising"
     },
     "custom": {
-      "description": "To play with a custom script, you need to select the characters you want to play with in the official Script Tool and then upload the generated \"custom-list.json\" either directly here or provide a URL to such a hosted JSON file. To load it, you can also drag & drop the script file onto this screen or paste the JSON from your clipboard.",
+      "description": "",
       "name": "Eigenes Skript"
     },
     "homebrew": {
@@ -21,10 +21,10 @@
     }
   },
   "jinxes": {
-    "alchemist-boffin": "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has.",
-    "alchemist-marionette": "An Alchemist-Marionette has no Marionette ability & the Marionette is in play.",
-    "alchemist-mastermind": "An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play.",
-    "alchemist-organgrinder": "If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play. If both are sober, both are drunk.",
+    "alchemist-boffin": "",
+    "alchemist-marionette": "",
+    "alchemist-mastermind": "",
+    "alchemist-organgrinder": "",
     "alchemist-spy": "An Alchemist-Spy has no Spy ability & a Spy is in play. After each execution, a living Alchemist-Spy may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight.",
     "alchemist-summoner": "The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]",
     "alchemist-widow": "An Alchemist-Widow has no Widow ability & a Widow is in play. After each execution, a living Alchemist-Widow may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight.",
