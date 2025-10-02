@@ -98,6 +98,31 @@
     "leave": "Forlat Spill",
     "night_info": "Natt info",
     "prompt_timer_text": "Velg en lengde og (valgfritt) navn på stoppeklokken:",
-    "prompt_timer_title": "Start en stoppeklokke"
+    "prompt_timer_title": "Start en stoppeklokke",
+    "prompt_vacate_text": "Du er for øyeblikket i ett aktivt spill, er du sikker på at du vil forlate setet ditt?",
+    "prompt_vacate_title": "Forlat Sete",
+    "push_to_talk": "Trykk [{0}] for å prate",
+    "raise_hand": "Løft hånd",
+    "rules": "Les reglene",
+    "settings": "Innstillinger",
+    "show_users": "Vis Brukere [{0}]",
+    "storyteller_add": "Bli historiefortelleren",
+    "tab_during_game": "Under Spillet",
+    "tab_new_game": "Nytt Spill",
+    "tab_playing": "Spiller",
+    "user_list": "Bruker Liste",
+    "vacate_seat": "Forlat Sete",
+    "vote_history": "Stemme Historie"
+  },
+  "modals": {
+    "dialogue": {
+      "button_evil": "De Onde vant",
+      "button_good": "De Gode Vant",
+      "button_no": "Nei",
+      "button_yes": "Ja",
+      "error": {
+        "add_player": "Kan ikke legge til spiller"
+      }
+    }
   }
 }
