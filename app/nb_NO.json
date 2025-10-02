@@ -70,9 +70,24 @@
     "demon": "Demon|Demoner",
     "fabled": "Fabel|Fabel",
     "phases": {
-      "day": "Første Dag|Dag",
+      "day": "Første Dag|Dag{n}",
       "end": "Imellom spill",
-      "first_night": "Første natt"
-    }
+      "first_night": "Første natt",
+      "night": "Første Natt|Natt{n}",
+      "other_nights": "Andre Netter",
+      "start": "Forbereder Natt 1"
+    },
+    "player": "Spiller {0}",
+    "players": "Spillere",
+    "seat": "Sete{0}",
+    "storyteller": "Historieforteller {0}",
+    "storytellers": "Historiefortellerene"
+  },
+  "main-menu": {
+    "cast_vote": "Stem",
+    "change_icon": "Klikk for å bytte ikon",
+    "char_sheet": "Rolle liste",
+    "characters": "Velg Roller",
+    "download": "Last ned {0} App"
   }
 }
