@@ -121,8 +121,56 @@
       "button_no": "Nei",
       "button_yes": "Ja",
       "error": {
-        "add_player": "Kan ikke legge til spiller"
+        "add_player": "Kan ikke legge til spiller",
+        "add_storyteller": "Feil med å legge til Historieforteller"
       }
+    },
+    "settings": {
+      "shortcuts": {
+        "toggleEdition": "Velg Versjon"
+      }
+    }
+  },
+  "overlays": {
+    "pointing": {
+      "you_pointed": "Du pekte på:"
+    },
+    "reveal": {
+      "button_remaining": "Gjennstående spillere",
+      "button_result": "Spill resultat",
+      "evil": "Ond",
+      "good": "God",
+      "result": "{0} Har vunnet!"
+    },
+    "rules": {
+      "button_select": "Velg Karakterene",
+      "text": "Du er klar til å {0}",
+      "title": "Velg Karakterer"
+    },
+    "towninfo": {
+      "alive": "I live",
+      "button_gather": "Samle Spillerene Dine",
+      "script_by": "Ved{0}",
+      "text_player": "Historiefortelleren må legge til flere spillere før du kan begynne.",
+      "text_st": "For å starte må du først {0}",
+      "timer_ended": "Ferdig",
+      "title": "Velkommen til {0}."
+    },
+    "vote": {
+      "accusation": "Anklage",
+      "button_countdown": "Nedtelling",
+      "button_defense": "Gå til Forsvar",
+      "button_hand_down": "NED",
+      "button_hand_up": "OPP",
+      "button_mark": "Merk",
+      "button_mark_remove": "Fjern Merke",
+      "button_pause": "Pause",
+      "button_reset": "Tilbakestill",
+      "button_restart": "Start på nytt",
+      "button_resume": "Fortsett",
+      "button_start": "Start",
+      "countdown_go": "Start",
+      "defense": "Forsvar"
     }
   }
 }
