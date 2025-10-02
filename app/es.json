@@ -40,7 +40,28 @@
         "value_0": "Siempre pregunta",
         "value_1": "No",
         "value_2": "Sí"
+      },
+      "streaming": {
+        "label": "El juego se transmite en directo",
+        "title": "Esta sesión de juego se transmitirá en vivo",
+        "value_0": "No",
+        "value_1": "Sí"
+      },
+      "subscription": {
+        "label": "Se Requiere Suscripción",
+        "title": "Necesita una suscripción activa para unirte a este juego"
+      },
+      "travellers": {
+        "label": "Viajeros",
+        "title": "Si los viajeros pueden unirse a esta sesión de juego",
+        "value_0": "Opcional",
+        "value_1": "Sí",
+        "value_2": "No"
       }
-    }
+    },
+    "terms_of_use": "Términos de uso",
+    "title": "Sangre en la Torre del Reloj en Línea",
+    "trademark": "\"Blood on the Clocktower\" es una marca registrada de Steven Medway y The Pandemonium Institute.",
+    "unnamed_user": "Usador sin nombre"
   }
 }
