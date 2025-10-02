@@ -1,1 +1,15 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratis",
+      "patreon-demon": "Nivel demonio",
+      "patreon-minion": "Nivel de esbirro",
+      "patreon-townsfolk": "Nivel de aldeano",
+      "special-free": "De favor",
+      "special-moderator": "Moderador",
+      "special-tpi": "Empleado de TPI"
+    },
+    "botc_online": "BOTC en línea",
+    "button_cancel": "Cancelar"
+  }
+}
