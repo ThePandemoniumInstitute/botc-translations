@@ -6,7 +6,16 @@
   },
   "user": {
     "id": "ID do Usuário",
-    "mic_volume": "Volume do Microfone"
+    "mic_volume": "Volume do Microfone",
+    "new_user": "Novo Usuário",
+    "pronouns": "pronomes",
+    "registration": "Registro",
+    "statistics": "Estatísticas",
+    "stats": {
+      "edition": "Edições Mais\nJogadas",
+      "homebrew": "Um Personagem Caseiro",
+      "loading": "Carregando estatísticas..."
+    }
   },
   "version": {
     "warning_update2": "{0}, a última versão é a {1}!"
