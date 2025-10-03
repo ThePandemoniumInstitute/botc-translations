@@ -10,7 +10,7 @@
     "button_close": "Fechar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
-    "button_logout": "Deslogar",
+    "button_logout": "Desconectar-Se",
     "button_search": "Procurar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
@@ -94,13 +94,14 @@
     "char_sheet": "Ficha de Personagens",
     "characters": "Selecione as Personagens",
     "clear_grim": "Apagar Grimório",
-    "download": "Baixar {0} Aplicativo",
+    "download": "Baixar Aplicativo {0}",
     "edition": "Selecionar Edição",
     "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar.",
     "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo.",
     "error_audio4": "mudar uma configuração",
     "fabled": "Adicionar uma Lenda",
-    "fullscreen": "Tela cheia",
+    "fullscreen": "Tela Cheia",
+    "gong_attention": "Gongo da Atenção",
     "grim_access": "O acesso ao Grimório lhe foi concedido",
     "grim_request": "Um espectador requisitou o acesso ao Grimório",
     "help": "Ajuda",
@@ -123,6 +124,7 @@
     "rules": "Ler As Regras",
     "session_expires": "No momento não há nenhum usuário com um nível de Lacaio, essa sessão pode expirar às {0}.",
     "set_timer": "Cooque um Temporizador",
+    "settings": "Configurações",
     "show_grim": "Mostre o Grimório",
     "show_town": "Mostrar Praça da Cidade",
     "tab_app": "Aplicativo",
@@ -143,8 +145,16 @@
       "prompt": {
         "leave_text": "Você tem certeza que deseja sair do jogo atual e retornar ao Lobby?",
         "leave_text_player": "Você tem certeza que deseja desocupar seu assento e retornar ao Lobby?",
-        "leave_title": "Retornar ao Lobby"
+        "leave_title": "Retornar ao Lobby",
+        "pronouns_placeholder": "Pronomes",
+        "pronouns_text": "Insira seus Pronomes:",
+        "pronouns_title": "Insira seus Pronomes",
+        "username_text": "Insira seu Usuário:",
+        "username_title": "Insira seu Usuário"
       }
+    },
+    "edition": {
+      "button_url": "URL"
     },
     "help": {
       "button_send": "Enviar Dados de Depuração da Sessão",
@@ -185,12 +195,62 @@
       "title": "Regras"
     },
     "settings": {
+      "background_placeholder": "URL do plano de fundo personalizado",
+      "background_text": "Insira o URL de um plano de fundo personalizado ou deixe-o em branco para remover um plano de fundo personalizado.",
+      "background_title": "Plano de Fundo Personalizado",
+      "button_edit": "Editar Conta",
+      "option_disabled": "Desabilitado",
+      "patreon_link": "Conectar Conta do Patreon",
+      "patreon_perks": "Carregamento de avatares e placas de identificação especiais estão disponíveis com uma {0} paga!",
+      "patreon_perks2": "assinatura no Patreon",
+      "patreon_update": "Atualizar Estado do Patreon",
+      "setting_animations": "Mostrar Animações",
+      "setting_auto_gain": "Controle de Ganho Automático",
+      "setting_avatar_size": "Tamanho dos Avatares dos Jogadores",
+      "setting_background": "Imagem de Plano de Fundo",
+      "setting_camera": "Câmera",
+      "setting_colorblind": "Modo Daltônico: {0}",
+      "setting_cosmetics": "Mostrar Cosméticos de Jogadores",
+      "setting_echo_cancellation": "Cancelamento de Eco",
+      "setting_general_volume": "Volume geral",
+      "setting_homebrew": "Mostrar Imagens Personalizados / Ícones Caseiros",
+      "setting_microphone": "Microfone",
+      "setting_noise_suppression": "Supressão de Ruídos",
+      "setting_positioning": "Permitir Movimentação das Abas Laterais",
+      "setting_ptt": "Pressionar para Falar",
+      "setting_reminder_zoom": "Tamanho das Fichas de Lembrete",
+      "setting_video_hidden": "Ocultar Sua Própria Câmera",
+      "setting_video_mirrored": "Espelhar Sua Própria Câmera",
+      "setting_volume": "Volume dos Efeitos Sonoros",
+      "setting_zoom": "Tamanho das Fichas dos Jogadores",
+      "setup": "Problemas com o Microfone ou com a Câmera?",
       "shortcuts": {
         "modalRules": "Ler as Regras",
+        "toggleFullscreen": "Tela Cheia",
         "toggleNightOrder": "Ordem da Noite",
         "toggleReference": "Referência de Personagens",
         "toggleTownSquare": "Mostrar Praça da Cidade"
-      }
+      },
+      "sounds": {
+        "attentionGong": "Gongo da atenção",
+        "chatJoin": "Entrada em conversas públicas",
+        "chatLeave": "Saída de conversas públicas",
+        "countdown": "Contagem regressiva",
+        "privateJoin": "Entrada em conversas privadas",
+        "privateRequest": "Solicitação de conversas privadas",
+        "timerGong": "Gongo do fim do temporizador",
+        "voteCast": "Confirmação de voto",
+        "voteTick": "Tique do relógio de votação",
+        "voteTickShort": "Tique do relógio de votação (<1s)"
+      },
+      "tab_advanced": "Avançado",
+      "tab_chat": "Conversas",
+      "tab_game": "Jogo",
+      "tab_general": "Geral",
+      "tab_shortcuts": "Atalhos",
+      "tab_user": "Usuário",
+      "title": "Configurações do Aplicativo",
+      "title_sound": "Volume dos Efeitos Sonoros"
     },
     "signal": {
       "cards": {
@@ -391,6 +451,7 @@
       "following": "Você está seguindo este jogador.",
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
+      "request_private": "Solicitar Conversa Privada",
       "spectator": "Espectador",
       "title": "Voz"
     },
