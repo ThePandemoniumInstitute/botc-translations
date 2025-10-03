@@ -819,7 +819,7 @@
     },
     "update": {
       "description": "Du använder version {0} just nu, men den senaste versionen är {1}.",
-      "download": "Ladda ner den senaste {label} versionen här.",
+      "download": "Ladda ner den senaste {label}-versionen här.",
       "reload": "Ladda om sidan eller rensa webbläsarens cache för att uppdatera.",
       "title": "Uppdatera appen"
     },
@@ -881,7 +881,7 @@
     },
     "shroud_add": "Spelarna kan inte se den här svepningen. Klicka igen på dagen för att göra den synlig.",
     "shroud_remove": "Spelarna kan fortfarande se den här svepningen. Klicka igen på dagen för att ta bort den.",
-    "toggle_status": "Ändra status"
+    "toggle_status": "Ändra tillstånd"
   },
   "session": {
     "access": "Tillgång",
@@ -1053,6 +1053,7 @@
   },
   "version": {
     "character_distribution": "Rollfördelning",
+    "download": "Ladda ner och installera den senaste {0}-versionen här.",
     "players_alive": "{0}/{1} spelare lever",
     "reload": "Ladda om sidan eller rensa browserns cache för att hämta den senaste versionen.",
     "since": "sedan {0}",
