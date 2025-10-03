@@ -42,6 +42,16 @@
       }
     }
   },
+  "pages": {
+    "banned": {
+      "description": "Sua conta foi {0} devido às suas ações recentes e não pode mais ser usada para jogar no aplicativo.",
+      "description_banned": "banida",
+      "expires": "Sua conta foi banida até:",
+      "expires2": "Evite cometer ofensas repetidas ou você poderá receber um banimento permanente.",
+      "footer1": "Se precisar de ajuda, entre em contato conosco por meio de {0}.",
+      "footer2": "Lembre-se:"
+    }
+  },
   "tabs": {
     "bluffs": {
       "drag": "Você pode arrastar esta aba para qualquer lugar da tela.",
