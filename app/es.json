@@ -250,7 +250,10 @@
         "username_text": "Por favor ingrese su Nombre de Usuario:",
         "username_title": "Ingrese su Nombre de Usario"
       },
-      "terms": "Al utilizar Sangre en la Torre del Reloj en Línea, usted reconoce que ha leído y acepta los siguientes términos y políticas:"
+      "terms": "Al utilizar Sangre en la Torre del Reloj en Línea, usted reconoce que ha leído y acepta los siguientes términos y políticas:",
+      "terms_confirm": "Yo confirmo que he leído y acepto estos términos y políticas.",
+      "timer_paused": "Pausa para Nominaciones y Votaciones",
+      "timer_start": "Comenzar"
     }
   }
 }
