@@ -53,6 +53,7 @@
       },
       "travellers": {
         "label": "Voyageur·euses",
+        "title": "Si les voyageurs sont autorisés durant cette partie",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
