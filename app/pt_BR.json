@@ -81,8 +81,11 @@
     "player": "Jogador {0}",
     "players": "Jogadores",
     "seat": "Assento {0}",
+    "shroud": "Mortalha",
     "storyteller": "Narrador {0}",
     "storytellers": "os Narradores",
+    "token": "Ficha",
+    "townsfolk": "Cidadão|Cidadãos",
     "traveller": "Viajante|Viajantes"
   },
   "main-menu": {
@@ -92,7 +95,55 @@
     "clear_grim": "Apagar Grimório",
     "download": "Baixar {0} Aplicativo",
     "edition": "Selecionar Edição",
-    "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar."
+    "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar.",
+    "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo."
+  },
+  "modals": {
+    "dialogue": {
+      "error": {
+        "chat_text": "Conexão perdida com o servidor de conversas, tentando reconectar...\n Mensagem de erro: {0}",
+        "server2_text": "Conexão perdida com o servidor do jogo, tentando reconectar...\n Mensagem de erro: {0}",
+        "server_title": "Servidor do Jogo Desconectado"
+      }
+    },
+    "help": {
+      "button_send": "Enviar Dados de Depuração da Sessão",
+      "button_stop": "Parar de Enviar Dados de Depuração",
+      "link_0": "rastreador de problemas",
+      "link_1": "por email",
+      "link_2": "aqui",
+      "link_3": "nossa loja online",
+      "session_debug": "Você está encontrando algum erro? Você pode enviar informações sobre sua sessão e histórico recente para nosso rastreador de erros, o que nos ajudará a identificar os problemas que você está enfrentando:",
+      "session_debug2": "A sessão do seu aplicativo está sendo rastreada agora e será enviada automaticamente para nós. Você sempre pode interromper esse processo manualmente clicando no botão abaixo ou recarregando o aplicativo.",
+      "text1": "Este aplicativo (versão {version}) está atualmente Em Desenvolvimento.",
+      "text2": "Você pode enviar feedback por meio da página do {0} ou {1}. Você pode atualizar o endereço de email e a senha da sua conta {2}. Se você quiser comprar o jogo físico, dê uma olhada em {3}.",
+      "welcome": "Bem-vindo ao {0}!"
+    },
+    "reminder": {
+      "custom_favorite": "Salvo como favorito",
+      "custom_note": "Nota personalizada",
+      "custom_text": "Insira um lembrete personalizado para adicionar a {0}",
+      "custom_title": "Adicionar Lembrete Personalizado",
+      "tab1": "Lembretes Relevantes",
+      "tab2": "Outros Lembretes",
+      "title": "Adicionar Lembrete a {0}"
+    },
+    "role": {
+      "error_character": "Nenhum personagem correspondente a {0} encontrado.",
+      "error_traveller": "Nenhum viajante correspondente a {0} encontrado.",
+      "tab_character": "Personagens Disponíveis",
+      "tab_traveller": "Outros Viajantes",
+      "title": "Selecionar um {target} {alignment}",
+      "title_alignment_e": "Mau",
+      "title_alignment_g": "Bom",
+      "title_alignment_r": "normal",
+      "title_target_bluff": "blefe",
+      "title_target_other": "personagem",
+      "title_target_player": "personagem para {0}"
+    },
+    "roles": {
+      "button_distribute": ""
+    }
   },
   "pages": {
     "banned": {
@@ -157,7 +208,7 @@
       "recover_password": "Recuperar Senha",
       "register": "Registrar",
       "subscribe": "Inscrever-se na Lista de Discussão",
-      "title": "Bem-vindo ao Blood On the Clocktower Online - Em Construção!",
+      "title": "Bem-vindo ao Blood On the Clocktower Online - Em Desenvolvimento!",
       "username": "Usuário"
     },
     "update": {
@@ -176,6 +227,59 @@
       "error_verified": "Já verificada",
       "error_wrong": "Código incorreto, tente novamente."
     }
+  },
+  "player": {
+    "menu": {
+      "alignment": "Alterar Alinhamento",
+      "character": "Alterar Personagem",
+      "chat": "Solicitar Conversa Privada",
+      "empty": "Assento Vazio",
+      "empty_text": "Você realmente deseja remover este jogador do seu assento no meio do jogo?",
+      "follow": "Seguir Jogador",
+      "nominate": "Nomear Jogador",
+      "unfollow": "Deixar de Seguir Jogador",
+      "wake": "Acordar",
+      "whisper": "Enviar Mensagem de Texto"
+    },
+    "name": {
+      "claim": "Clique para reivindicar",
+      "connecting": "Este jogador está se conectando à conversa de voz.",
+      "follow": "Você está seguindo este jogador.",
+      "listening": "Este jogador está escutando a conversa de voz.",
+      "offline": "Este jogador está offline no momento.",
+      "remove_text": "Você realmente deseja remover o Assento {0}?\n Ele está sendo ocupado por {1}.",
+      "remove_title": "Remover Assento",
+      "seat_text": "(isto só será visível para você)",
+      "seat_title": "Alterar Nome do Assento"
+    },
+    "overlay": {
+      "eyes_open": "Está com os olhos abertos"
+    },
+    "reminders": {
+      "edit": "Editar Lembrete {0}",
+      "edit_placeholder": "Nota personalizada",
+      "edit_text": "Edite o lembrete personalizado para {0}",
+      "edit_title": "Editar Lembrete",
+      "flip": "Virar Lembrete {0}",
+      "remove": "Remover Lembrete {0}",
+      "saved_favorite": "Salvo como favorito"
+    },
+    "shroud_add": "Esta mortalha não é visível para os jogadores. Clique novamente durante o dia para torná-la visível.",
+    "shroud_remove": "Esta mortalha ainda está visível para os jogadores. Clique novamente durante o dia para removê-la."
+  },
+  "session": {
+    "copy": "Clique para copiar",
+    "language": "Idioma das Conversas",
+    "server": "Servidor das Conversas:",
+    "server_name": "Nome",
+    "session_name": "Nome da Sessão",
+    "subscription_needed": "Assinatura necessária",
+    "tags": "Etiquetas para Jogo Público",
+    "title_create": "Criar sessão de jogo",
+    "title_current": "Sessão do jogo atual",
+    "visibility": "Visibilidade",
+    "visibility_private": "Privado",
+    "visibility_public": "Público"
   },
   "tabs": {
     "bluffs": {
@@ -265,16 +369,16 @@
     "registration": "Registro",
     "statistics": "Estatísticas",
     "stats": {
-      "edition": "Edições Mais\nJogadas",
+      "edition": "Edições Mais\n Jogadas",
       "homebrew": "Um Personagem Caseiro",
       "loading": "Carregando estatísticas...",
       "none": "Nada",
-      "player": "Partidas\nJogadas",
+      "player": "Partidas\n Jogadas",
       "player_wins": "% de Vitória",
-      "role": "Personagens Mais\nRecebidos",
+      "role": "Personagens Mais\n Recebidos",
       "st_evil_wins": "{0}% de Vitória do Mal",
-      "storyteller": "Partidas\nNarradas",
-      "warning": "As estatísticas estão sendo geradas...\nCheque novamente mais tarde!"
+      "storyteller": "Partidas\n Narradas",
+      "warning": "As estatísticas estão sendo geradas...\n Cheque novamente mais tarde!"
     },
     "stats_hidden": "Oculto",
     "stats_private": "Privado",
@@ -288,6 +392,7 @@
     "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
     "since": "desde {0}",
     "warning_browser": "Você está utilizando um navegador antigo ou não suportado",
+    "warning_browser2": "{0}, o que pode causar problemas com o aplicativo. Baixe as atualizações mais recentes do navegador ou utilize um navegador diferente. O aplicativo funciona melhor no Firefox e no Chrome.",
     "warning_update": "A versão do seu aplicativo está desatualizada",
     "warning_update2": "{0}, a última versão é a {1}!"
   }
