@@ -2,21 +2,21 @@
   "common": {
     "account-levels": {
       "free": "Gratuit",
-      "patreon-demon": "Niveau de Demon",
-      "patreon-minion": "Niveau de Minion",
-      "patreon-townsfolk": "Niveau de Townsfolk",
+      "patreon-demon": "Niveau du Demon",
+      "patreon-minion": "Niveau de Servant'e",
+      "patreon-townsfolk": "Niveau de Villageois'e",
       "special-free": "Offert",
-      "special-moderator": "Modérateur",
+      "special-moderator": "Modérateur'ice",
       "special-tpi": "Personnel de TPI"
     },
     "botc_online": "BOTC En Ligne",
     "button_cancel": "Annuler",
     "button_close": "Fermer",
     "button_confirm": "Confirmer",
-    "button_logout": "Déconnecter",
+    "button_logout": "Se déconnecter",
     "button_search": "Chercher",
     "button_send": "Envoyer",
-    "cookie_policy": "Politique de les Cookies",
+    "cookie_policy": "Politique de Cookies",
     "privacy_policy": "Politique de Confidentialité",
     "session-tags": {
       "cameras": {
@@ -27,13 +27,13 @@
       },
       "difficulty": {
         "label": "Difficulté",
-        "title": "L'étage d'expérience attendu de les joueurs dans cette séance du jour",
+        "title": "Le niveau d'expérience des joueur'euses pour cette partie",
         "value_0": "Moyenne",
-        "value_1": "Chevronné",
-        "value_2": "Débutant"
+        "value_1": "Expérimenté'e",
+        "value_2": "Débutant'e"
       },
       "grimoire": {
-        "label": "L'accès de le Grimoire",
+        "label": "Accès au Grimoire",
         "value_0": "Demander",
         "value_1": "Non",
         "value_2": "Oui"
