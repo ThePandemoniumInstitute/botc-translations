@@ -1,1 +1,23 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Безкоштовний",
+      "special-moderator": "Модератор"
+    },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Скасувати",
+    "button_close": "Закрити",
+    "button_confirm": "Підтвердити",
+    "button_continue": "Продовжити",
+    "button_logout": "Вийти",
+    "button_search": "Пошук",
+    "button_send": "Відправити",
+    "cookie_policy": "Політика cookie",
+    "privacy_policy": "Політика конфіденційності",
+    "session-tags": {
+      "cameras": {
+        "label": "Камери"
+      }
+    }
+  }
+}
