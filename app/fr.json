@@ -1,1 +1,8 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratuit",
+      "patreon-demon": "Niveau de Demon"
+    }
+  }
+}
