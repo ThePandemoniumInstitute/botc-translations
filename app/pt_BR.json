@@ -10,7 +10,7 @@
     "button_close": "Fechar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
-    "button_logout": "Desconectar-Se",
+    "button_logout": "Desconectar-se",
     "button_search": "Procurar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
@@ -45,12 +45,12 @@
       },
       "subscription": {
         "label": "Necessário Assinatura",
-        "title": "para participar desse jogo é necessário uma Assinatura ativa"
+        "title": "Para participar desse jogo é necessário uma assinatura ativa"
       },
       "travellers": {
         "label": "Viajantes",
         "title": "Se Viajantes são permitidos nessa partida",
-        "value_0": "Talvez",
+        "value_0": "Opcional",
         "value_1": "Sim",
         "value_2": "Não"
       }
@@ -62,8 +62,10 @@
   },
   "grimoire": {
     "abilities": {
+      "distribute-roles": "Distruibuir Papéis",
+      "ghost-votes": "Devolver os Votos Fantasma",
       "grimoire": "Mostre o Grimório",
-      "open-eyes": "Abre/Feche os Olhos",
+      "open-eyes": "Abra/Fecha os Olhos",
       "pointing": "Escolha um Jogador"
     },
     "demon": "Demônio|Demônios",
@@ -101,6 +103,7 @@
     "error_audio4": "mudar uma configuração",
     "fabled": "Adicionar uma Lenda",
     "fullscreen": "Tela Cheia",
+    "gather": "Chamar Seus Jogadores",
     "gong_attention": "Gongo da Atenção",
     "gong_recall": "Retornar à Praça da Cidade",
     "grim_access": "O acesso ao Grimório lhe foi concedido",
@@ -110,13 +113,14 @@
     "leave": "Sair do Jogo",
     "mute_cam": "Desabilitar sua câmera [{0}]",
     "mute_mic": "Mute seu microfone [{0}]",
+    "night_info": "Informação da Noite",
     "night_info_text": "O Narrador acordou você esta noite!",
     "night_sheet": "Ficha de Ordem da Noite",
-    "prompt_clear_player": "Você tem certeza que deseja remover todos os personagens dos jogadores e marcadores?",
-    "prompt_clear_st": "Isso apagará o Grimório e Marcadores para todos, incluindo você. Você tem certeza?",
+    "prompt_clear_player": "Você tem certeza que deseja remover todos os personagens dos jogadores e fichas de lembrete?",
+    "prompt_clear_st": "Isso apagará o Grimório e fichas de Lembrete para todos, incluindo você. Você tem certeza?",
     "prompt_clear_title": "Apagar Grimório e Fichas de Lembrete",
     "prompt_timer_text": "Escolha a duração e (opcional) título para o temporizador:",
-    "prompt_timer_title": "Coloque um Temporizador",
+    "prompt_timer_title": "Coloque um temporizador",
     "prompt_vacate_text": "Você está no meio da uma partida, tem certeza que quer sair do seu assento?",
     "prompt_vacate_title": "Assento Vago",
     "push_to_talk": "Aperte [{0}] para falar",
