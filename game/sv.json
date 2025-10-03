@@ -452,7 +452,8 @@
       "flavor": "Drömmar från saligas hem är ej bedrägliga sken."
     },
     "fibbin": {
-      "ability": "En gång per spel kanske 1 god spelare får falsk info."
+      "ability": "En gång per spel kanske 1 god spelare får falsk info.",
+      "flavor": "Tihihi. Hihi."
     },
     "fiddler": {
       "ability": "En gång per spel väljer Demonen privat en motspelare; alla spelare väljer vem av de 2 spelarna som vinner."
