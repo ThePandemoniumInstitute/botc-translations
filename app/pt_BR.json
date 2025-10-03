@@ -115,8 +115,10 @@
     "prompt_timer_text": "Escolha a duração e (opcional) título para o temporizador",
     "rules": "Ler As Regras",
     "show_town": "Mostrar Praça da Cidade",
+    "tab_app": "Aplicativo",
     "tab_during_game": "Durante o Jogo",
-    "tab_playing": "Jogabilidade"
+    "tab_playing": "Jogabilidade",
+    "user_list": "Lista de Usuários"
   },
   "modals": {
     "dialogue": {
@@ -174,6 +176,7 @@
     "settings": {
       "shortcuts": {
         "modalRules": "Ler as Regras",
+        "toggleNightOrder": "Ordem da Noite",
         "toggleReference": "Referência de Personagens",
         "toggleTownSquare": "Mostrar Praça da Cidade"
       }
