@@ -224,6 +224,54 @@
       "password": "Passord",
       "register": "Registrer",
       "username": "Brukernavn"
+    },
+    "update": {
+      "description": "Du bruker for øyeblikket versjon {0}, men den nyeste versjonen er {1}.",
+      "download": "Last ned den nyeste {label} versjonen her."
+    },
+    "verification": {
+      "button_resend": "Send kode på nytt",
+      "link": "Du kan endre det her."
     }
+  },
+  "player": {
+    "menu": {
+      "character": "Endre karakter",
+      "empty": "Tøm Sete",
+      "empty_title": "Tøm setet til {0}",
+      "follow": "Følg Spiller",
+      "nominate": "Nominer Spiller",
+      "unfollow": "Slutt å følge Spiller",
+      "wake": "Vekk",
+      "whisper": "Send Tekst Melding"
+    },
+    "name": {
+      "follow": "Du følger denne spilleren.",
+      "move": "Flytt denne spilleren.",
+      "remove": "Fjern denne spilleren.",
+      "remove_title": "Fjern Sete",
+      "seat_text": "(dette vil bare være synlig for deg)",
+      "seat_title": "Endre Sete Navn"
+    },
+    "overlay": {
+      "eyes_open": "Har øynene sine åpne",
+      "night_info_received": "Natt info motatt",
+      "night_info_sent": "Natt info sendt",
+      "nominate": "nominer denne spilleren",
+      "point": "Pek å denne spilleren"
+    },
+    "reminders": {
+      "add": "Legg til påminnelse",
+      "edit": "Rediger påminnelse{0}",
+      "edit_title": "Forandre påminnelse",
+      "remove": "Fjern Påminnelse{0}",
+      "saved_favorite": "Lagret som favoritt"
+    }
+  },
+  "session": {
+    "access": "Tilgang",
+    "copy": "Klikk for å kopiere",
+    "created": "Laget {0} siden av {1}.",
+    "free": "Gratis for alle"
   }
 }
