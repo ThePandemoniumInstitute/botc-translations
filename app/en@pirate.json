@@ -16,7 +16,22 @@
         "value_0": "Fair",
         "value_1": "Rough",
         "value_2": "Calm"
+      },
+      "grimoire": {
+        "label": "Map Sight",
+        "value_1": "Nay"
+      },
+      "streaming": {
+        "value_0": "Nay"
       }
+    }
+  },
+  "grimoire": {
+    "demon": "Beast o' the sea|Beasts o' the sea",
+    "minion": "Scallywag|Scallywags",
+    "outsider": "Stowaway|Stowaways",
+    "phases": {
+      "end": "Land ho"
     }
   }
 }
