@@ -91,7 +91,8 @@
     "characters": "Selecione as Personagens",
     "clear_grim": "Apagar Grimório",
     "download": "Baixar {0} Aplicativo",
-    "edition": "Selecionar Edição"
+    "edition": "Selecionar Edição",
+    "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar."
   },
   "pages": {
     "banned": {
