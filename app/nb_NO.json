@@ -5,6 +5,7 @@
       "patreon-demon": "Demon nivå",
       "patreon-minion": "Undersått",
       "patreon-townsfolk": "Byfolk",
+      "special-free": "Gratis",
       "special-moderator": "Moderator",
       "special-tpi": "TPIs personale"
     },
@@ -59,7 +60,9 @@
       }
     },
     "terms_of_use": "Bruksvilkår",
-    "title": "Blod på klokketårnet Online"
+    "title": "Blod på klokketårnet Online",
+    "trademark": "\"Blood on the Clocktower\" er et varemerke tilhørende Steven Medway og The Pandemonium Institute.",
+    "unnamed_user": "Bruker uten navn"
   },
   "grimoire": {
     "abilities": {
@@ -98,6 +101,7 @@
     "clear_grim": "Tøm Grimoire",
     "download": "Last ned {0} App",
     "edition": "Velg utgave",
+    "error_audio": "Nettleseren din hindret applikasjonen i å {0}. Vennligst klikk her for å starte samtalen.",
     "error_audio4": "Endre en innstilling",
     "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
