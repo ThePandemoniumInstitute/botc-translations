@@ -2,7 +2,7 @@
   "common": {
     "account-levels": {
       "free": "Gratuit",
-      "patreon-demon": "Niveau du Demon",
+      "patreon-demon": "Niveau du Démon",
       "patreon-minion": "Niveau de Servant'e",
       "patreon-townsfolk": "Niveau de Villageois'e",
       "special-free": "Offert",
@@ -69,6 +69,7 @@
       "ghost-votes": "Restituer les votes fantômes",
       "grimoire": "Montrer le Grimoire"
     },
+    "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
     "minion": "Sbire | Sbires",
     "phases": {
@@ -76,6 +77,7 @@
       "end": "Entre deux sessions",
       "first_night": "Première Nuit",
       "night": "Première Nuit|Nuit {n}",
+      "other_nights": "Autres Nuits",
       "start": "Préparation de la Nuit 1"
     },
     "player": "Joueur·euse {0}",
