@@ -11,6 +11,32 @@
     "button_cancel": "Anuluj",
     "button_close": "Zamknij",
     "button_confirm": "Potwierdź",
-    "button_continue": "Kontynuuj"
+    "button_continue": "Kontynuuj",
+    "button_logout": "Wyloguj",
+    "button_send": "Wyślij",
+    "session-tags": {
+      "cameras": {
+        "label": "Kamery",
+        "value_0": "Opcjonalne",
+        "value_2": "Wyłączone"
+      },
+      "difficulty": {
+        "value_0": "Przeciętny",
+        "value_2": "Początkujący"
+      },
+      "grimoire": {
+        "value_1": "Nie",
+        "value_2": "Tak"
+      },
+      "streaming": {
+        "value_0": "Nie",
+        "value_1": "Tak"
+      },
+      "travellers": {
+        "label": "Podróżnicy",
+        "value_1": "Tak",
+        "value_2": "Nie"
+      }
+    }
   }
 }
