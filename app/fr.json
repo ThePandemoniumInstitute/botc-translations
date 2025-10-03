@@ -16,6 +16,25 @@
     "button_logout": "Déconnecter",
     "button_search": "Chercher",
     "button_send": "Envoyer",
-    "cookie_policy": "Politique de les Cookies"
+    "cookie_policy": "Politique de les Cookies",
+    "privacy_policy": "Politique de Confidentialité",
+    "session-tags": {
+      "cameras": {
+        "label": "Les Caméras",
+        "value_0": "Optionnel",
+        "value_1": "Obligatoire",
+        "value_2": "Éteint"
+      },
+      "difficulty": {
+        "label": "Difficulté",
+        "title": "L'étage d'expérience attendu de les joueurs dans cette séance du jour",
+        "value_0": "Moyenne",
+        "value_1": "Chevronné",
+        "value_2": "Débutant"
+      },
+      "grimoire": {
+        "label": "L'accès de le Grimoire"
+      }
+    }
   }
 }
