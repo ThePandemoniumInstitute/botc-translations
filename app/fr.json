@@ -67,7 +67,8 @@
     "abilities": {
       "distribute-roles": "Distribuer les rôles",
       "ghost-votes": "Restituer les votes fantômes",
-      "grimoire": "Montrer le Grimoire"
+      "grimoire": "Montrer le Grimoire",
+      "open-eyes": "Ouvrir/Fermer les Yeux"
     },
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
@@ -94,6 +95,7 @@
     "cast_vote": "Voter",
     "change_icon": "Cliquer pour changer d’icône",
     "char_sheet": "Feuille de Personnage",
+    "characters": "Choisir les Rôles",
     "clear_grim": "Vider le Grimoire",
     "download": "Télécharger App {0}",
     "error_audio": "Votre navigateur empêche l'application de {0}. Appuyez ici pour commencer à discuter.",
@@ -149,7 +151,10 @@
     "announcement": {
       "description": "Que souhaitez-vous annoncer ?",
       "error": "Erreur lors de l’envoi de l’annonce",
-      "input_session": "Nom de la session (optionnel)"
+      "input_session": "Nom de la session (optionnel)",
+      "input_text": "Le contenu de votre annonce",
+      "input_title": "Titre de l'annonce",
+      "title": "Faire une annonce"
     },
     "dialogue": {
       "button_evil": "Le Mal a gagné",
@@ -165,10 +170,15 @@
         "avatar_pixel": "Votre image est trop grande. Veuillez réduire sa taille en dessous de 4000x4000 avant de tenter à nouveau.",
         "avatar_size": "Votre fichier est trop gros. Veuillez réessayer avec une image dont la taille n'excède pas 5 MB.",
         "avatar_type": "Votre fichier n'a pas été reconnu comme étant une image.",
+        "bluffs": "Erreur en changeant les bluffs",
         "chat2_text": "Le serveur de discussion semble hors ligne",
         "chat2_title": "Serveur de Discussion Déconnecté",
+        "chat_text": "Connexion au serveur de discussion perdue, tentative de reconnexion...\n Message d'erreur : {0}",
+        "chat_title": "Une erreur s'est produite lors de la connexion aux discussions",
         "clear_grim": "Impossible de vider le Grimoire",
         "connection": "Une erreur de connexion s'est produite",
+        "edition_change": "Erreur lors du changement d'édition",
+        "end": "Erreur en finissant la partie",
         "eyes_close": "Impossible de fermer les yeux",
         "eyes_open": "Impossible d'ouvrir les yeux",
         "generic": "Une erreur s'est produite",
@@ -176,6 +186,7 @@
         "link_text": "Une erreur est survenu en connectant votre compte Patreon. Veuillez réessayer.",
         "link_title": "Erreur lors de la connexion au compte Patreon",
         "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être actualisée.",
+        "loading_title": "Erreur en chargeant les données de l'app",
         "missing_edition": "Une édition contenue dans cette partie n'a pas pu être trouvée.",
         "missing_edition_title": "Erreur en chargeant l'édition",
         "missing_roles": "Cette session contient des personnages personnalisés qui ne peuvent pas être trouvés. Veuillez les charger avant de rejoindre ! Rôles manquants : {0}",
