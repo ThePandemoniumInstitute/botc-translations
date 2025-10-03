@@ -64,11 +64,14 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Send roller",
+      "grimoire": "Vis Grimoire",
       "open-eyes": "Åpne/Lukk øynene",
       "pointing": "Velg spiller"
     },
     "demon": "Demon|Demoner",
     "fabled": "Fabel|Fabel",
+    "minion": "Håndlager|Håndlagere",
+    "outsider": "Outsider|Outsiders",
     "phases": {
       "day": "Første Dag|Dag{n}",
       "end": "Mellom spill",
@@ -80,29 +83,40 @@
     "player": "Spiller {0}",
     "players": "Spillere",
     "seat": "Sete {0}",
+    "shroud": "Likklede",
     "storyteller": "Historieforteller {0}",
-    "storytellers": "Historiefortellerene"
+    "storytellers": "Historiefortellerene",
+    "token": "Brikke",
+    "townsfolk": "Bygdefolk|Bygdefolk",
+    "traveller": "Reisende|Reisere"
   },
   "main-menu": {
     "cast_vote": "Stem",
     "change_icon": "Klikk for å bytte ikon",
     "char_sheet": "Rolleoversikt",
     "characters": "Velg roller",
+    "clear_grim": "Tøm Grimoire",
     "download": "Last ned {0} App",
     "edition": "Velg utgave",
     "error_audio4": "Endre en innstilling",
     "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
     "gather": "Samle spillerne",
+    "grim_access": "Du har blitt gitt tilgang til Grimoire",
+    "grim_request": "En tilskuer har blitt gitt Grimoire tilgang",
     "help": "Hjelp",
     "leave": "Forlat spill",
+    "mute_cam": "Skru av kameraet ditt[{0}]",
     "night_info": "Nattinfo",
+    "night_info_text": "Fortelleren vekket deg i natt!",
     "prompt_timer_text": "Velg lengde og (valgfritt) navn på nedtellingen:",
     "prompt_timer_title": "Start en nedtelling",
     "prompt_vacate_text": "Du er for øyeblikket i et aktivt spill, er du sikker på at du vil forlate setet ditt?",
     "prompt_vacate_title": "Forlat sete",
     "push_to_talk": "Trykk [{0}] for å prate",
     "raise_hand": "Løft hånd",
+    "request_private": "Forespør privat samtale",
+    "reveal_grim": "Vis Grimoire",
     "rules": "Les reglene",
     "settings": "Innstillinger",
     "show_users": "Vis brukere [{0}]",
@@ -115,14 +129,24 @@
     "vote_history": "Stemme Historikk"
   },
   "modals": {
+    "announcement": {
+      "description": "Hva vil du annonsere?",
+      "error": "Feil i å sende annonsering",
+      "input_text": "Din annonserings tekst",
+      "input_title": "Annonserings tittel",
+      "title": "Lag en annonsering"
+    },
     "dialogue": {
       "button_evil": "De Onde vant",
       "button_good": "De Gode Vant",
       "button_no": "Nei",
       "button_yes": "Ja",
+      "close_timer": "Denne meldingen vil lukke seg selv i {n}s.",
       "error": {
         "add_player": "Kan ikke legge til spiller",
-        "add_storyteller": "Feil med å legge til Historieforteller"
+        "add_storyteller": "Feil med å legge til Historieforteller",
+        "avatar_generic": "Noe gikk galt i å opplaste din avatar.",
+        "avatar_pixel": "Bildet ditt var for stort. Hver så snill og skaler det ned til 4000x4000 før du opplaster igjen."
       }
     },
     "reminder": {
@@ -130,7 +154,16 @@
     },
     "settings": {
       "shortcuts": {
-        "toggleEdition": "Velg Utgave"
+        "toggleEdition": "Velg Utgave",
+        "toggleFullscreen": "Fullskjerm",
+        "toggleNightSignal": "Vis Natt Info",
+        "toggleRoles": "Velg Karakterer",
+        "toggleTownSquare": "Vis Torget",
+        "toggleVideoMuted": "veksle Kamera",
+        "toggleVoteHistory": "Stemme Historie"
+      },
+      "sounds": {
+        "countdown": "Nedtelling"
       }
     },
     "update": {
