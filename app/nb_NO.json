@@ -125,6 +125,9 @@
         "add_storyteller": "Feil med å legge til Historieforteller"
       }
     },
+    "reminder": {
+      "custom_favorite": "Lagret som favoritt"
+    },
     "settings": {
       "shortcuts": {
         "toggleEdition": "Velg Utgave"
