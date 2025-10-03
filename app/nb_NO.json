@@ -103,6 +103,7 @@
     "edition": "Velg utgave",
     "error_audio": "Nettleseren din hindret applikasjonen i å {0}. Vennligst klikk her for å starte samtalen.",
     "error_audio2": "automatisk avspilling av stemmechat",
+    "error_audio3": "Det kan også hende at du må {0} i Firefox for å høre lyd fra applikasjonen.",
     "error_audio4": "Endre en innstilling",
     "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
