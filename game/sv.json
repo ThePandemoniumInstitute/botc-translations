@@ -1,1 +1,50 @@
-{}
+{
+  "editions": {
+    "bmr": {
+      "description": "… är ett dödens spektakel. Demoner dödar flera gånger per natt, och Kumpanerna kan också hjälpa till. Goda spelare kan ta stora risker för att få pålitlig information, men kan råka döda sina vänner på kuppen. Lyckligtvis finns många sätt att hålla spelare vid liv långt efter att deras tid är inne. Men om det goda laget inte kan avgöra vilka Kumpaner och Demoner som är i spel är deras undergång förvissad.",
+      "name": "Bad Moon Rising"
+    },
+    "custom": {
+      "description": "För att spela med ett eget manus måste du välja vilka roller du vill spela med i den officiella Manusskaparen och därefter ladda upp den genererade JSON-filen. Du kan ladda in den direkt i appen eller ange en URL som JSON-filen finns på. Du kan också dra och släppa filen på den här skärmen eller kopiera och klistra in filinnehållet.",
+      "name": "Hemgjort manus"
+    },
+    "homebrew": {
+      "name": "Hembryggt"
+    },
+    "snv": {
+      "description": "… är den galnaste av de tre utgåvorna i baspaketet. Goda karaktärer får fantastisk information varenda natt, men det onda laget är mycket hotande och kan sprida enorm förvirring. Roller kan byta lag, spelare kan byta roller, och till och med de onda kan ha svårt att hålla koll på varandra. Här möter vi också för första gången galenskap, som sätter ytterligare käppar i hjulen.",
+      "name": "Sects & Violets"
+    },
+    "tb": {
+      "description": "… har lite av allt. Vissa roller får information passivt, vissa måste agera för att identifiera spelarna, och vissa vill bara lura Demonen att attackera dem. Både goda och onda kan göra väl valda uppoffringar för att få övertaget.\nTrouble Brewing är en ganska typisk demonjakt, men det onda laget har flera knep för att sprida desinformation, så de goda spelarna måste vara beredda att ifrågasätta det de tror sig veta för att kunna överleva.",
+      "name": "Trouble Brewing"
+    }
+  },
+  "jinxes": {
+    "alchemist-boffin": "Om Alkemisten har Labbråttans förmåga så får Alkemisten inte veta vilken förmåga Demonen har.",
+    "alchemist-marionette": "En Alkemist-Marionett har inte Marionettens förmåga och Marionetten är i spel.",
+    "alchemist-mastermind": "En Alkemist-Konspiratör har inte Konspiratörens förmåga och Konspiratören är inte i spel.",
+    "alchemist-organgrinder": "Om Alkemisten har Positivhalarens förmåga så är Positivhalaren i spel, och om båda är nyktra så är båda fulla.",
+    "alchemist-spy": "En Alkemist-Spion har inte Spionens förmåga och Spionen är i spel. Varje dag efter avrättningsfasen kan den levande Alkemisten öppet gissa vilken levande spelare som är Spionen. Om hen gissar rätt måste Demonen välja Spionen inatt.",
+    "alchemist-summoner": "En Alkemist-Åkallare får inga bluffar, och väljer Demon men inte spelare. Om hen dör innan det händer så vinner det onda laget. [Ingen Demon]",
+    "alchemist-widow": "En Alkemist-Änka har inte Änkans förmåga och Änkan är i spel. Efter varje avrättning får den levande Alkemist-Änkan öppet gissa vilken levande spelare som är Änkan. Om hen gissar rätt måste Demonen välja Änkan inatt.",
+    "alchemist-wraith": "En Alkemist-Vålnad har inte Vålnadens förmåga och Vålnaden är i spel. Efter varje avrättning får den levande Alkemist-Vålnaden öppet gissa vilken levande spelare som är Vålnaden. Om hen gissar rätt måste Demonen välja Vålnaden inatt.",
+    "alhadikhia-mastermind": "Om al Hadikhia dör av avrättning och Konspiratören lever så väljer al Hadikhia 3 goda spelare inatt; om alla 3 väljer att leva så vinner de onda, annars vinner de goda.",
+    "alhadikhia-princess": "Om Prinsessan nominerade och avrättade en spelare på sin första dag så dör ingen av al Hadikhias förmåga inatt.",
+    "alhadikhia-scarletwoman": "Om det skulle finnas två Demoner varav en var Röda Damen så blir Röda Damen till Röda Damen igen.",
+    "alsaahir-vizier": "Berättaren meddelar inte att Vesiren är i spel.",
+    "atheist-riot": "Om Berättaren nomineras under kravallerna måste spelarna rösta. Om Berättaren döms avslutas spelet, annars nominerar Berättaren igen.",
+    "balloonist-marionette": "Om Marionetten tror sig vara Ballongfararen så kanske 1 extra Utböling har lagts till.",
+    "banshee-leviathan": "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga.",
+    "banshee-riot": "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga.",
+    "banshee-vortox": "Om Vortox dödar Bansheen så får alla spelare veta att Bansheen har dött.",
+    "baron-heretic": "Endast 1 av rollerna får vara i spel.",
+    "baron-plaguedoctor": "Om Berättaren skulle få Baronens förmåga så blir upp till två spelare till Utbölingar.",
+    "boffin-cultleader": "Om Demonen har Kultledarens förmåga så kan hen inte bli god av den förmågan.",
+    "boffin-drunk": "Om Demonen skulle ha Fyllots förmåga så väljer Labbråttan en Bybo som får Fyllots förmåga istället.",
+    "boffin-goon": "Om Demonen har Hejdukens förmåga så kan hen inte bli god av den förmågan.",
+    "boffin-heretic": "Demonen kan inte ha Kättarens förmåga.",
+    "boffin-ogre": "Demonen kan inte ha Trollets förmåga.",
+    "boffin-politician": "Demonen kan inte ha Politikerns förmåga."
+  }
+}
