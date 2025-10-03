@@ -12,6 +12,10 @@
     "botc_online": "BOTC En Ligne",
     "button_cancel": "Annuler",
     "button_close": "Fermer",
-    "button_confirm": "Confirmer"
+    "button_confirm": "Confirmer",
+    "button_logout": "Déconnecter",
+    "button_search": "Chercher",
+    "button_send": "Envoyer",
+    "cookie_policy": "Politique de les Cookies"
   }
 }
