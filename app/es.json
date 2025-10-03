@@ -128,10 +128,13 @@
     "push_to_talk": "Presione [{0}] para hablar",
     "raise_hand": "Levantar la Mano",
     "request_private": "Solicitar Chat Privado",
-    "reveal_grim": "Mostrar Grimoire",
+    "reveal_grim": "Revelar Grimoire",
     "rules": "Leer las Reglas",
     "session_expires": "Actualmente no hay ningún cuenta de nivel Esbirro en esta sesión y podría caducar {0}.",
     "set_timer": "Establecer Temporizador",
-    "settings": "Configuración"
+    "settings": "Configuración",
+    "show_grim": "Mostrar Grimoire",
+    "show_town": "Mostrar Plaza del Pueblo",
+    "show_users": "Mostrar Usuarios {0}"
   }
 }
