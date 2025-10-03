@@ -4,6 +4,9 @@
       "name": "Hjemmebrygg"
     }
   },
+  "jinxes": {
+    "legion-politician": "Politikeren kan registreres som ond for Legion."
+  },
   "reminders": {
     "2nd": "2.",
     "abnormal": "Abnormal",
