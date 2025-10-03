@@ -13,6 +13,7 @@
     "button_cancel": "Annuler",
     "button_close": "Fermer",
     "button_confirm": "Confirmer",
+    "button_continue": "Poursuivre",
     "button_logout": "Se déconnecter",
     "button_search": "Chercher",
     "button_send": "Envoyer",
@@ -21,6 +22,7 @@
     "session-tags": {
       "cameras": {
         "label": "Les Caméras",
+        "title": "Les caméras sont actives durant cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
         "value_2": "Éteint"
@@ -34,9 +36,103 @@
       },
       "grimoire": {
         "label": "Accès au Grimoire",
+        "title": "Les spectateurs peuvent recevoir l'accès au grimoire",
         "value_0": "Demander",
         "value_1": "Non",
         "value_2": "Oui"
+      },
+      "streaming": {
+        "label": "Partie Diffusée",
+        "title": "La partie sera diffusée en temps réel",
+        "value_0": "Non",
+        "value_1": "Oui"
+      },
+      "subscription": {
+        "label": "Abonnement Requis",
+        "title": "Rejoindre cette partie requiert un abonnement actif"
+      },
+      "travellers": {
+        "value_0": "Optionnel",
+        "value_1": "Oui",
+        "value_2": "Non"
+      }
+    },
+    "terms_of_use": "Conditions d'Utilisation",
+    "title": "Blood on the Clocktower En Ligne",
+    "trademark": "\"Blood on the Clocktower\" est une marque déposée par Steven Medway et The Pandemonium Institute.",
+    "unnamed_user": "Utilisateur sans nom"
+  },
+  "grimoire": {
+    "phases": {
+      "day": "Premier jour|Jour {n}",
+      "end": "Entre deux sessions",
+      "first_night": "Première Nuit",
+      "night": "Première Nuit|Nuit {n}"
+    },
+    "player": "Joueur {0}",
+    "players": "Joueurs",
+    "seat": "Siège {0}",
+    "storyteller": "Conteur {0}",
+    "townsfolk": "Villageois|Villageois"
+  },
+  "main-menu": {
+    "cast_vote": "Voter",
+    "change_icon": "Clicker pour changer d’icône",
+    "char_sheet": "Feuille de Personnage",
+    "clear_grim": "Vider le Grimoire",
+    "download": "Télécharger App {0}",
+    "error_audio": "Votre navigateur empêche l'application d'{0}. Appuyez ici pour commencer à discuter.",
+    "error_audio2": "activer automatiquement le chat vocal",
+    "error_audio3": "Il est possible que vous deviez {0} dans Firefox pour que le son de l'application fonctionne.",
+    "error_audio4": "changer un paramètre",
+    "fullscreen": "Plein Écran",
+    "grim_access": "Vous avez maintenant accès au Grimoire",
+    "grim_request": "Un spectateur a demandé l'accès au Grimoire",
+    "help": "Aide",
+    "json_schema": "Schéma JSON de Script",
+    "leave": "Quitter la partie",
+    "mute_cam": "Désactiver votre caméra [{0}]",
+    "mute_mic": "Désactiver votre microphone [{0}]",
+    "night_info": "Info de Nuit",
+    "night_info_text": "Le conteur vous a réveillé cette nuit !",
+    "prompt_clear_player": "Êtes-vous sûr de vouloir retirer l'intégralité des jetons de rôles et d'aide-mémoire ?",
+    "prompt_clear_st": "Cela videra le grimoire et retira toutes les aides-mémoire pour vous et tous les joueurs. Êtes-vous sûr ?",
+    "prompt_clear_title": "Vider Le Grimoire Et Les Aides-Mémoire",
+    "prompt_timer_text": "Choisissez une durée et (optionnel) un titre pour ce chrono :",
+    "prompt_timer_title": "Mettre un chrono",
+    "prompt_vacate_text": "Vous êtes actuellement dans une partie en cours, êtes-vous sûr de vouloir quitter votre siège ?",
+    "prompt_vacate_title": "Quitter Son Siège",
+    "push_to_talk": "Appuyez sur [{0}] pour parler",
+    "raise_hand": "Lever La Main",
+    "request_private": "Demander Une Conversation Privé",
+    "reveal_grim": "Révéler Le Grimoire",
+    "rules": "Lire Les Règles",
+    "set_timer": "Mettre Un Chrono",
+    "settings": "Paramètres",
+    "show_grim": "Montrer Le Grimoire",
+    "tab_app": "App",
+    "tab_during_game": "En Cours De Jeu",
+    "tab_new_game": "Nouvelle Partie",
+    "tab_playing": "En Jeu",
+    "to_day": "Passer à la Phase Jour",
+    "to_night": "Passer à la Phase Nuit",
+    "user_list": "Liste d'Utilisateur",
+    "vacate_seat": "Quitter Son Siège",
+    "vote_history": "Historique Des Votes"
+  },
+  "modals": {
+    "dialogue": {
+      "button_no": "Non",
+      "button_yes": "Oui",
+      "close_timer": "Cette pop-up se fermera automatiquement dans {n}s.",
+      "error": {
+        "add_player": "Impossible d'ajouter un joueur",
+        "add_storyteller": "Erreur en ajoutant un Conteur",
+        "avatar": "Erreur lors de l'upload de l'avatar",
+        "avatar_generic": "Une erreur s'est produite lors de l'upload de votre avatar.",
+        "avatar_pixel": "Votre image est trop grande. Veuillez réduire sa taille en dessous de 4000x4000 avant de l'uploader à nouveau.",
+        "avatar_size": "Votre fichier est trop gros. Veuillez réessayer avec une image dont la taille n'excède pas 5 MB.",
+        "avatar_type": "Votre fichier n'a pas été reconnu comme étant une image."
       }
     }
   }
