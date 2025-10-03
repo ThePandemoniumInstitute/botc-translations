@@ -71,11 +71,17 @@
     "minion": "Scallywag|Scallywags",
     "outsider": "Stowaway|Stowaways",
     "phases": {
-      "end": "Land ho"
+      "day": "New Sun|Sun {n}",
+      "end": "Land ho",
+      "first_night": "New Moon",
+      "night": "New Moon|Moon {n}",
+      "other_nights": "Waxing Moons"
     },
     "player": "Matey {0}",
     "players": "Mateys",
+    "seat": "Cabin {0}",
     "storyteller": "Captain {0}",
+    "storytellers": "the Captains",
     "townsfolk": "Crewmate|Crewmates"
   },
   "main-menu": {
@@ -88,6 +94,7 @@
     "night_info_text": "The Captain roused ye this moon!",
     "request_private": "Ask t' Talk Alone",
     "reveal_grim": "Show the Map",
+    "storyteller_remove": "Give up the Captain's hat",
     "tab_new_game": "New Journey"
   },
   "modals": {
