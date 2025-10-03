@@ -1,1 +1,12 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "special-moderator": "Moderador"
+    },
+    "session-tags": {
+      "cameras": {
+        "value_1": "Requerido"
+      }
+    }
+  }
+}
