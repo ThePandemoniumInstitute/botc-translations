@@ -189,7 +189,15 @@
         "link_text": "Hubo un error al vincular su cuenta a Patreon. Por favor inténtalo de nuevo.",
         "link_title": "Error al vincular la cuenta a Patreon",
         "loading_text": "Algo salió mal al intentar cargar los datos de la aplicación, la página se volverá a cargar.",
-        "loading_title": "Error al cargar los datos de la aplicación"
+        "loading_title": "Error al cargar los datos de la aplicación",
+        "missing_edition": "Esta sesión contiene una edición que no se puede encontrar.",
+        "missing_edition_title": "Error al cargar la edición",
+        "missing_roles": "Este sesión contiene personajes personalizados que no se encuentran. ¡Por favor, cárgalos antes de unirte! Personajes faltantes: {0}",
+        "missing_roles_title": "Error al cargar personajes personalizados",
+        "move_player": "No se puede mover el jugador",
+        "offline": "El servidor parece estar fuera de línea",
+        "remove_player": "No se puede quitar el jugador",
+        "remove_storyteller": "Error al eliminar el Cuentista"
       }
     }
   }
