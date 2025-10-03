@@ -189,21 +189,88 @@
         "remove_player": "Kan ikke fjerne spiller",
         "remove_storyteller": "Feil med å fjerne forteller",
         "sending_roles": "Feil med å sende roller",
+        "session": "Feil i å skape spill økt",
         "session_banned": "Du er blokkert.",
+        "session_full": "Denne økten har allerede 25 brukere.",
+        "session_public": "Du kan ikke bli med i offentlige økter.",
+        "session_rejoin": "Du kan ikke bli med i denne spill økten igjen enda.",
+        "session_subscription": "Du trenger ett abonnement for å bli med i denne spill økten.",
         "start": "Feil i å starte spill",
+        "subscription": "abonnement kreves",
+        "subscription_text": "Du trenger ett abonnement for å bli med i denne spill økten.",
+        "subscription_title": "Ingen Patreon abonnement funnet",
+        "unauthorized": "Uautorisert",
+        "update": "Feil i å oppdatere spillet",
+        "update_game": "Kan ikke oppdatere øktdata",
         "user_not_found": "Bruker ikke funnet.",
         "user_text": "Noe gikk galt:{0}",
-        "vacating": "Feil med å forlate setet"
+        "vacating": "Feil med å forlate setet",
+        "video_text": "Nettleseren din hindret applikasjonen i å spille av videochat automatisk. Lukk denne meldingen for å starte chatten.",
+        "video_title": "Feil ved oppstart av videochat"
       },
       "prompt": {
+        "chat_text": "Appen har problemer med å nå chat-serveren {0}, vil du bytte til {1}?",
+        "chat_title": "Bytt chat server",
+        "join_placeholder": "Økt ID",
+        "join_text": "Vennligst skriv inn nummeret eller navnet på spilløkten du vil bli med i",
         "join_title": "Bli med i ett spill",
         "leave_text": "Er du sikker på at du vil forlate det nåværende spillet og gå tilbake til lobbyen?",
         "leave_text_player": "Er du sikker på at du vil forlate setet ditt og gå tilbake til lobbyen?",
-        "leave_title": "Tilbake til lobby"
-      }
+        "leave_title": "Tilbake til lobby",
+        "pronouns_placeholder": "Pronomen",
+        "pronouns_text": "Vennligst skriv inn pronomenene dine:",
+        "pronouns_title": "Skriv inn pronomenene dine",
+        "storyteller_text": "Har du lyst til å bli en forteller og se grimoiret?",
+        "terms": "Oppdatert tjenestevilkår",
+        "username_placeholder": "Brukernavn",
+        "username_text": "Vennligst skriv inn brukernavnet ditt:",
+        "username_title": "Skriv inn brukernavnet ditt"
+      },
+      "terms": "Ved bruk av Blood on the Clocktower Online, du bekrefter at du har lest og godtar følgende vilkår og retningslinjer:",
+      "terms_confirm": "Jeg bekrefter at jeg har lest og godtar disse vilkårene og retningslinjene.",
+      "timer_paused": "Pause under nominasjoner og avstemninger",
+      "timer_start": "Start",
+      "timer_title": "Timer tittel (valgfritt)",
+      "unit_minutes": "minutter",
+      "unit_seconds": "sekunder"
+    },
+    "edition": {
+      "button_clear": "Tøm Grimoire",
+      "button_paste": "Lim inn",
+      "button_upload": "Opplast",
+      "button_url": "URL",
+      "custom_placeholder": "Tilpasset Manus URL",
+      "difficulty": "Vansklighet:",
+      "difficulty_beginner": "Nybegynner",
+      "difficulty_intermediate": "Mellomnivå",
+      "difficulty_various": "Varierende",
+      "error_character": "For mange karakterer",
+      "error_character_text": "Dette manuset har mer enn 200 karakterer - hver så snill og fjern noen av dem.",
+      "error_script": "Manus er ikke gyldig",
+      "error_size": "Fil størrelse for stor",
+      "error_size_text": "Manuset du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
+      "homebrew_title": "Tilpassede bilder skrudd av",
+      "release_script": "{role}Karakter utgivelses manus:",
+      "theme": "Tema:",
+      "theme_generic": "Generiskt tema:",
+      "title": "Velg en utgave:",
+      "upload_custom": "Opplast tilpasset manus JSON"
+    },
+    "fabled": {
+      "title": "Legg til"
+    },
+    "help": {
+      "button_stop": "Stopp å sende feilsøkings data",
+      "link_0": "Problem følger",
+      "link_1": "via epost",
+      "link_2": "her",
+      "link_3": "vår online butikk",
+      "welcome": "Velkommen til {0}!"
     },
     "reminder": {
-      "custom_favorite": "Lagret som favoritt"
+      "custom_favorite": "Lagret som favoritt",
+      "custom_note": "Tilpasset notat",
+      "tab1": "Relevante påminnelser"
     },
     "settings": {
       "shortcuts": {
