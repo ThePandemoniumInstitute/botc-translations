@@ -17,8 +17,8 @@
     "button_send": "Enviar",
     "session-tags": {
       "cameras": {
-        "label": "Camaras",
-        "title": "Si camaras están siendo usadas en esta sesión de juego",
+        "label": "Cámaras",
+        "title": "Si se están usando cámaras en esta sesión de juego",
         "value_0": "Opcional",
         "value_1": "Requerido"
       },
@@ -29,31 +29,31 @@
         "value_2": "Principiante"
       },
       "grimoire": {
-        "label": "Acceso a el Grimorio",
+        "label": "Acceso al Grimorio",
         "title": "Si los espectadores reciben acceso al Grimorio",
         "value_0": "Preguntar",
         "value_1": "No",
-        "value_2": "Si"
+        "value_2": "Sí"
       },
       "streaming": {
-        "label": "El Juego Esta Transmitido",
-        "title": "La sesion de el juego sera transmitida en vivo",
+        "label": "El juego se transmite en directo",
+        "title": "Esta sesión de juego se transmitirá en vivo",
         "value_0": "No",
-        "value_1": "Si"
+        "value_1": "Sí"
       },
       "subscription": {
-        "label": "Suscripción Requerida",
-        "title": "Unirse a este juego requiere una suscripción activa"
+        "label": "Se requiere suscripción",
+        "title": "Para unirte a este juego requieres una suscripción activa"
       },
       "travellers": {
-        "label": "Viajero",
-        "title": "Si viajeros son permitidos en esta sesión de juego",
+        "label": "Viajeros",
+        "title": "Si se permite viajeros en esta sesión de juego",
         "value_0": "Opcional",
-        "value_1": "Si",
+        "value_1": "Sí",
         "value_2": "No"
       }
     },
-    "terms_of_use": "Términos y condiciones de uso",
+    "terms_of_use": "Términos de uso",
     "title": "Blood on the Clocktower En Línea"
   },
   "user": {
