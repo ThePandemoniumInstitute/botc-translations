@@ -197,7 +197,24 @@
         "move_player": "No se puede mover el jugador",
         "offline": "El servidor parece estar fuera de línea",
         "remove_player": "No se puede quitar el jugador",
-        "remove_storyteller": "Error al eliminar el Cuentista"
+        "remove_storyteller": "Error al eliminar el Cuentista",
+        "request_grim": "No se puede solicitar Grimoire",
+        "sending_roles": "Error al enviar personajes",
+        "server2_text": "Se perdió la conexión con el servidor del juego, intentando reconectarme...\n Mensaje de error: {0}",
+        "server_change": "No se puede cambiar el servidor de chat",
+        "server_text": "La conexión se agotó mientras se esperaba al servidor del juego.",
+        "server_title": "Servidor de Juego Desconectado",
+        "session": "Error al crear sesión de juego",
+        "session_banned": "Está prohibido.",
+        "session_full": "Esta sesión ya tiene 25 usuarios.",
+        "session_general": "Error al conectarse a la sesión.",
+        "session_locked": "La sesión de juego ha sido bloqueada.\n Sólo los jugadores y Cuentistas sentados pueden unirse.",
+        "session_not_found": "Sesión de juego no encontrada.",
+        "session_public": "No puede unirte a sesiones de juego públicas.",
+        "session_rejoin": "Todavía no puede volver a unirte a esta sesión de juego.",
+        "session_subscription": "Necesitas una suscripción para unirte a esta sesión de juego.",
+        "session_unverified": "Debe verificar su cuenta antes de poder unirte a sesiones de juego públicas.",
+        "signal": "Error al enviar la señal nocturna"
       }
     }
   }
