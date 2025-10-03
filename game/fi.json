@@ -1,1 +1,250 @@
-{}
+{
+  "jinxes": {
+    "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
+    "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
+    "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
+    "bountyhunter-kazali": "Jos Kazali muuttaa Palkkionmetsästäjän Kätyriksi, pahaa Kyläläistä ei lisätä.",
+    "bountyhunter-philosopher": "Jos Filosofi saa Palkkionmetsästäjän kyvyn, yksi Kyläläinen saattaa muuttua pahaksi.",
+    "butler-cannibal": "Jos Kannibaali saa Hovimestarin kyvyn, Kannibaali saa tietää tästä.",
+    "cannibal-juggler": "Jos Jonglööri arvaa ensimmäisenä päivänään ja kuolee teloitukseen, elävä Kannibaali saa tänä yönä tietää, kuinka moni Jonglöörin arvauksista osui oikeaan.",
+    "lilmonsta-psychopath": "Jos Psykopaatti vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
+    "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
+    "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
+    "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
+    "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
+    "recluse-sage": "Hylkiö saattaa näyttäytyä Demonina Tietäjälle."
+  },
+  "reminders": {
+    "2nd": "2.",
+    "3attacks": "3 Hyökkäystä",
+    "3votes": "3 Ääntä",
+    "abnormal": "Epänormaali",
+    "abouttodie": "Kuolee",
+    "actstwice": "Toimii Kahdesti",
+    "alive": "Elossa",
+    "amigo": "Amigo",
+    "cannotdie": "Ei voi kuolla",
+    "chosen": "Valittu",
+    "correct": "Oikein",
+    "cursed": "Kirottu",
+    "day1": "Päivä 1",
+    "day2": "Päivä 2",
+    "day3": "Päivä 3",
+    "day4": "Päivä 4",
+    "day5": "Päivä 5",
+    "dead": "Kuollut",
+    "demonnotvoted": "Demoni ei äänestänyt",
+    "demonvoted": "Demoni äänesti",
+    "diedtoday": "Kuoli tänään",
+    "doesntkill": "Ei tapa",
+    "drunk": "Juopunut",
+    "drunk1": "Juopunut 1",
+    "drunk2": "Juopunut 2",
+    "drunk3": "Juopunut 3",
+    "everyoneisdrunk": "Kaikki ovat juopuneita",
+    "evil": "Paha",
+    "evilwakes": "Paha herää",
+    "falseinfo": "Väärää tietoa",
+    "friend": "Ystävä",
+    "good": "Hyvä",
+    "goodplayerexecuted": "Hyvä pelaaja teloitettiin",
+    "grandchild": "Lapsenlapsi",
+    "guessused": "Arvaus käytetty",
+    "haircutstonight": "Hiustenleikkuu tänä yönä",
+    "hasability": "Saanut kyvyn",
+    "isthealchemist": "On Alkemisti",
+    "isthedemon": "On Demoni",
+    "isthedrunk": "On Juoppo",
+    "isthemarionette": "On Marionetti",
+    "isthephilosopher": "On Filosofi",
+    "know": "Tietää",
+    "lunch": "Lounas",
+    "master": "Isäntä",
+    "minion": "Kätyri",
+    "negativevote": "Negatiivinen ääni",
+    "night1": "Yö 1",
+    "night2": "Yö 2",
+    "night3": "Yö 3",
+    "noability": "Ei kykyä",
+    "nomoreevil": "Ei enää paha",
+    "once": "Ennen",
+    "outsider": "Muukalainen",
+    "poisoned": "Myrkytetty",
+    "protected": "Suojattu",
+    "safe": "Turvassa",
+    "soberhealthy": "Selvä & terve",
+    "somethingbad": "Jotain ikävää",
+    "survivesexecution": "Selviytyy teloituksesta",
+    "teapartytonight": "Teekutsut tänä yönä",
+    "townsfolk": "Kyläläinen",
+    "turnsevil": "Muuttuu pahaksi",
+    "twin": "Kaksonen",
+    "visitor": "Vieras",
+    "whoopsie": "Hupsista",
+    "wrong": "Väärä"
+  },
+  "roles": {
+    "acrobat": {
+      "ability": "Joka yö*, valitse yksi pelaaja: jos tämä on tai tulee olemaan juopunut tai myrkytetty tänä yönä, kuolet.",
+      "name": "Akrobaatti",
+      "other": "Akrobaatti valitsee yhden pelaajan. :reminder:"
+    },
+    "alchemist": {
+      "name": "Alkemisti"
+    },
+    "amnesiac": {
+      "flavor": "Hetkinen. Mitä. Kuka? Ah, selvä. Odotas. Mitä?"
+    },
+    "angel": {
+      "ability": "Jotain ikävää saattaa tapahtua sille, joka on eniten vastuussa uuden pelaajan kuolemasta.",
+      "name": "Enkeli"
+    },
+    "apprentice": {
+      "ability": "1. yönäsi saat jonkin Kyläläisen kyvyn (jos olet hyvä) tai jonkin Kätyrin kyvyn (jos olet paha)."
+    },
+    "artist": {
+      "flavor": "Mon Dieu! C'est lumineux! Luomukseni, hän on... kuinka se sanotaan... Magnifique! Dieu est révélé! Oui.",
+      "name": "Taiteilija"
+    },
+    "assassin": {
+      "ability": "Kerran pelissä, yöllä*, valitse pelaaja: tämä kuolee, vaikka jostain syystä ei muuten voisi.",
+      "name": "Salamurhaaja",
+      "other": "Salamurhaaja saattaa valita pelaajan. :reminder: :reminder:"
+    },
+    "atheist": {
+      "name": "Ateisti"
+    },
+    "balloonist": {
+      "first": "Näytä kuka tahansa pelaaja. :muistutus:"
+    },
+    "banshee": {
+      "other": "Jos Demoni tappoi Bansheen tänä yönä, ilmoita kaikille pelaajille, että Banshee on kuollut. :muistutus:"
+    },
+    "barber": {
+      "ability": "Jos kuolit tänään tai tänä yönä, Demoni voi valita kaksi pelaajaa (ei toista Demonia), jotka vaihtavat hahmoja keskenään.",
+      "name": "Parturi"
+    },
+    "baron": {
+      "ability": "Pelissä on ylimääräisiä Muukalaisia. [+2 Muukalaista]",
+      "name": "Paroni"
+    },
+    "beggar": {
+      "name": "Kerjäläinen"
+    },
+    "bishop": {
+      "name": "Piispa"
+    },
+    "bonecollector": {
+      "name": "Luunkerääjä"
+    },
+    "bountyhunter": {
+      "ability": "Aloitat pelin tietäen 1 pahan pelaajan. Jos tietämäsi pelaaja kuolee, saat tietää toisen pahan pelaajan tänä yönä. [1 Kyläläinen on paha]",
+      "name": "Palkkionmetsästäjä"
+    },
+    "buddhist": {
+      "ability": "Veteraanipelaajien on oltava puhumatta jokaisen päivän ensimmäiset 2 minuuttia.",
+      "name": "Buddhalainen"
+    },
+    "bureaucrat": {
+      "ability": "Joka yö, valitse pelaaja (ei itseäsi): tämän ääni vastaa 3 ääntä huomenna.",
+      "first": "Byrokraatti valitsee pelaajan. :reminder:",
+      "name": "Byrokraatti",
+      "other": "Byrokraatti valitsee pelaajan. :reminder:"
+    },
+    "butcher": {
+      "ability": "Joka päivä, 1. teloituksen jälkeen, voit tehdä uuden esityksen.",
+      "name": "Teurastaja"
+    },
+    "butler": {
+      "ability": "Joka yö, valitse pelaaja (ei itseäsi): saat äänestää huomenna vain, jos tämä äänestää myös.",
+      "first": "Hovimestari valitsee pelaajan. :reminder:",
+      "flavor": "Kyllä, herra... Ei, herra... Tietenkin, herra.",
+      "name": "Hovimestari",
+      "other": "Hovimestari valitsee pelaajan. :reminder:"
+    },
+    "cannibal": {
+      "flavor": "En tykkää klovneista. Maistuvat hassulta.",
+      "name": "Kannibaali"
+    },
+    "chambermaid": {
+      "ability": "Joka yö, valitse kaksi elävää pelaajaa (ei itseäsi): saat tietää, kuinka moni heräsi tänä yönä kykynsä vuoksi.",
+      "first": "Kamarineito valitsee 2 elävää pelaajaa. Anna sormimerkki.",
+      "name": "Kamarineito"
+    },
+    "chef": {
+      "first": "Anna sormimerkki.",
+      "name": "Kokki"
+    },
+    "choirboy": {
+      "ability": "Jos Demoni tappaa Kuninkaan, saat tietää, kuka pelaajista on Demoni. [+Kuningas]",
+      "name": "Kuoropoika",
+      "other": "Jos Demoni tappoi Kuninkaan, osoita Demonin pelaajaa."
+    },
+    "clockmaker": {
+      "ability": "Aloitat pelisi tietäen, kuinka monta askelta on Demonista tämän lähimpään Kätyriin.",
+      "first": "Anna sormimerkki.",
+      "name": "Kellomestari"
+    },
+    "courtier": {
+      "ability": "Kerran pelissä, yöllä, valitse hahmo: tämä on juopunut 3 yön & 3 päivän ajan."
+    },
+    "cultleader": {
+      "ability": "Joka yö, omaksut yhden elävän naapurisi puolen. Jos kaikki hyvät pelaajat päättävät liittyä kulttiisi, joukkueesi voittaa.",
+      "name": "Kulttijohtaja"
+    },
+    "damsel": {
+      "name": "Neito"
+    },
+    "dawn": {
+      "name": "Aamu"
+    },
+    "demoninfo": {
+      "name": "Demoni-info"
+    },
+    "deviant": {
+      "ability": "Jos olit hauska tänään, et voi kuolla karkotukseen."
+    },
+    "devilsadvocate": {
+      "first": "Paholaisen Asianajaja valitsee elävän pelaajan. :reminder:",
+      "name": "Paholaisen Asianajaja"
+    },
+    "djinn": {
+      "ability": "Käytä Djinnin erikoissääntöä. Kaikki pelaajat tietävät, mikä se on.",
+      "name": "Djinni"
+    },
+    "doomsayer": {
+      "ability": "Jos 4 tai useampi pelaaja on elossa, jokainen elävä pelaaja voi julkisesti päättää (kerran pelissä), että hänen omalla puolellaan oleva pelaaja kuolee."
+    },
+    "dreamer": {
+      "ability": "Joka yö, valitse pelaaja (ei itseäsi tai Kiertolaisia): saat tietää 1 hyvän & 1 pahan hahmon, joista 1 on oikein.",
+      "first": "Unennäkijä osoittaa pelaajaa. Näytä 1 hyvän & 1 pahan hahmon merkki, joista 1 on osoitetun pelaajan hahmo.",
+      "name": "Unennäkijä"
+    },
+    "drunk": {
+      "ability": "Et tiedä olevasi Juoppo. Uskot olevasi jokin kyläläishahmo, mutta et ole.",
+      "name": "Juoppo"
+    },
+    "duchess": {
+      "name": "Herttuatar"
+    },
+    "dusk": {
+      "first": "Aloita yövaihe.",
+      "name": "Ilta",
+      "other": "Aloita yövaihe."
+    },
+    "empath": {
+      "ability": "Joka yö, saat tietää kuinka moni 2 elävästä naapuristasi on paha.",
+      "first": "Anna sormimerkki.",
+      "name": "Empaatti",
+      "other": "Anna sormimerkki."
+    },
+    "engineer": {
+      "ability": "Kerran pelissä, yöllä, valitse mitkä Kätyrit tai mikä Demoni on pelissä.",
+      "name": "Insinööri"
+    },
+    "eviltwin": {
+      "ability": "Sinä ja yksi vastapuolen pelaaja tiedätte toisenne. Jos hyvä pelaaja teloitetaan, paha voittaa. Hyvä ei voi voittaa, jos kumpikin teistä on elossa.",
+      "name": "Paha Kaksonen"
+    }
+  }
+}
