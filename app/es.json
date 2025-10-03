@@ -135,6 +135,41 @@
     "settings": "Configuración",
     "show_grim": "Mostrar Grimoire",
     "show_town": "Mostrar Plaza del Pueblo",
-    "show_users": "Mostrar Usuarios {0}"
+    "show_users": "Mostrar Usuarios {0}",
+    "storyteller_add": "Convertirse el Cuentista",
+    "storyteller_remove": "Renunciar como Cuentista",
+    "tab_app": "Aplicación",
+    "tab_during_game": "Durante el Juego",
+    "tab_new_game": "Nuevo Juego",
+    "tab_playing": "Jugando",
+    "to_day": "Pasar a la Fase Diurna",
+    "to_night": "Pasar a la Fase Nocturna",
+    "user_list": "Lista de Usuarios",
+    "vacate_seat": "Desocupar Asiento",
+    "vote_history": "Historial de Votaciones"
+  },
+  "modals": {
+    "announcement": {
+      "description": "¿Qué quiere anunciar?",
+      "error": "Error al Enviar el Anuncio",
+      "input_session": "Nombre de Sesión (Opcional)",
+      "input_text": "El texto de su anuncio",
+      "input_title": "Título de anuncio",
+      "title": "Hacer un anuncio"
+    },
+    "dialogue": {
+      "button_evil": "El mal ganó",
+      "button_good": "Buena gana",
+      "button_no": "No",
+      "button_yes": "Sí",
+      "close_timer": "Esta ventana emergente se cerrará en {n} segundos.",
+      "error": {
+        "add_player": "No se puede agregar jugador",
+        "add_storyteller": "Error al agregar Cuentista",
+        "avatar": "Error al cargar el avatar",
+        "avatar_generic": "Algo salió mal al cargar su avatar.",
+        "avatar_pixel": "Su imagen era demasiado grande. Por favor redúcela a menos de 4000x4000 antes de volver a subirla."
+      }
+    }
   }
 }
