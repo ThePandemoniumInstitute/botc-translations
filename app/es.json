@@ -269,7 +269,10 @@
       "custom_text": "Ingrese la URL a un archivo script-personalizado.json",
       "custom_title": "Cargar Script Personalizado",
       "difficulty": "Dificultad:",
-      "difficulty_beginner": "Principiante"
+      "difficulty_beginner": "Principiante",
+      "difficulty_intermediate": "Intermedio",
+      "difficulty_various": "Varios",
+      "error_character": "Demasiados personajes"
     }
   }
 }
