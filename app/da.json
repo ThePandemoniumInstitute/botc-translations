@@ -28,6 +28,7 @@
         "value_2": "Begynder"
       },
       "grimoire": {
+        "label": "Grimoire-adgang",
         "value_0": "Spørg",
         "value_1": "Nej",
         "value_2": "Ja"
