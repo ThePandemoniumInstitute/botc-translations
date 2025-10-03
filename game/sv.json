@@ -269,10 +269,12 @@
     },
     "angel": {
       "ability": "Något dåligt kanske händer den som är mest ansvarig för att en ny spelare dör.",
+      "first": "Meddela vilka spelare som är skyddade av Ängeln. Lägg till påminnelsen *SKYDDAD* vid de spelarna.",
       "flavor": "Låt den som är utan synd våga kröka ett hår på min utvalda, ty den dåren skall jag hugga ned med tusen stormars vrede."
     },
     "apprentice": {
       "ability": "Din första natt får du en Bybos förmåga (om du är god) eller en Kumpans (om du är ond).",
+      "first": "Visa Lärlingen kortet *DU ÄR* och en Bybos eller Kumpans rollbricka. Byt ut Lärlingsbrickan mot den nya rollbrickan i grimoaren och sätt påminnelsen *ÄR LÄRLINGEN* bredvid.",
       "flavor": "Många år har jag vandrat och studerat hantverket. Vilket hantverk? Bara det enkla folkets. Inget att oroa sig för. Inte än."
     },
     "artist": {
@@ -289,6 +291,7 @@
     },
     "balloonist": {
       "ability": "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]",
+      "first": "Visa en spelare. :reminder:",
       "flavor": "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert uppifrån, eller vad säger du? Ser du barnen som fiskar vid floden, under pilen? Ser du solens glans i cirkusens tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!"
     },
     "banshee": {
@@ -301,6 +304,7 @@
     },
     "barista": {
       "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter och får sann info, eller 2) kan använda sin förmåga två gånger. Hen får veta vilket.",
+      "first": "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk/nykter/sann info eller aktivera förmågan två gånger).",
       "flavor": "Kaffe utan grädde? Jag är hemskt ledsen, men grädden är slut – går det bra utan mjölk istället?"
     },
     "baron": {
@@ -317,6 +321,7 @@
     },
     "boffin": {
       "ability": "Demonen (även om hen är full eller förgiftad) har en god rolls förmåga (inte en som är i spel). Ni vet båda vilken.",
+      "first": "Väck Labbråttan och Demonen. Visa dem den goda rollens bricka. Söv Labbråttan och Demonen.",
       "flavor": "Stjärnväte, massivt, inert; kol, syre, neon, allt är förstört. Molekylärt kaos, entropi, skapar nya kosmiska fenomen, återfödsel ur atomiskt kaos, tät, kollapsande materia. Allt i en liten, liten flaska."
     },
     "bonecollector": {
@@ -333,14 +338,17 @@
     },
     "bountyhunter": {
       "ability": "I början får du veta 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]",
+      "first": "Peka på spelaren markerad *VISAD*.",
       "flavor": "Ensam strövar jag på dessa gator, som stinker av korruption. Stanken nästlar sig in i näsan som bränner av avsmak. Och förväntan. Denna erbarmliga plats blir sjukare för var natt som går. Och jag… jag är boten."
     },
     "buddhist": {
       "ability": "De 2 första minuterna varje dag får veteranspelare inte prata.",
+      "first": "Meddela vilka spelare som påverkas av Buddisten.",
       "flavor": "Om du är tyst som en sönderslagen gonggong har du nått nirvana. Högmod finns inte hos dig."
     },
     "bureaucrat": {
       "ability": "Varje natt väljer du en spelare (inte dig själv); imorgon räknas hens röst som 3.",
+      "first": "Byråkraten väljer en spelare. :reminder:",
       "flavor": "Skriv på här. Och här. Och här. Ooooooch här. Det borde vara allt, förutsatt att allas underskrifter är läsliga. Vi har inte haft något strul på en evighet. Igår förmiddag, om jag minns rätt…"
     },
     "butcher": {
@@ -349,6 +357,7 @@
     },
     "butler": {
       "ability": "Varje natt väljer du en spelare (inte dig själv); imorgon får du bara rösta om hen också röstar.",
+      "first": "Butlern väljer en spelare. :reminder:",
       "flavor": "Ja, herrn. Nej, herrn. Naturligtvis, herrn."
     },
     "cannibal": {
@@ -357,6 +366,7 @@
     },
     "cerenovus": {
       "ability": "Varje natt väljer du en spelare och en god roll; hen är ”galen” om att hen är den rollen imorgon, annars kanske hen avrättas.",
+      "first": "Cerenovus väljer en spelare och en roll. :reminder: Söv Cerenovus. Väck den valda spelaren. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG*, Cerenovus bricka och sedan den valda rollens bricka.",
       "flavor": "Verkligheten är bara en uppfattning. Närmare bestämt min uppfattning."
     },
     "chambermaid": {
@@ -456,364 +466,484 @@
       "flavor": "Tihihi. Hihi."
     },
     "fiddler": {
-      "ability": "En gång per spel väljer Demonen privat en motspelare; alla spelare väljer vem av de 2 spelarna som vinner."
+      "ability": "En gång per spel väljer Demonen privat en motspelare; alla spelare väljer vem av de 2 spelarna som vinner.",
+      "flavor": "Jag sätter mitt liv på att du inte kan slå mig i fiolduell, din skelögda gammelgädda! Du och jag får ta oss en svängom uppe på berget, så ska du se att den skrattar bäst som dansar sist!"
     },
     "fisherman": {
-      "ability": "En gång per spel, på dagen, kan du be Berättaren om tips för att hjälpa ditt lag att vinna."
+      "ability": "En gång per spel, på dagen, kan du be Berättaren om tips för att hjälpa ditt lag att vinna.",
+      "flavor": "Jag har alltid älskat den här delen av älven. Ser du hur solskenet bildar en regnbåge från klostret till marknaden? Här fångade man alltid störst fisk. Och ju äldre jag blir, desto större var de."
     },
     "flowergirl": {
-      "ability": "Varje natt* får du veta om en Demon röstade idag."
+      "ability": "Varje natt* får du veta om en Demon röstade idag.",
+      "flavor": "Gårdagens violer har vissnat och dött, men idag blommar vallmon."
     },
     "fool": {
-      "ability": "Första gången du dör överlever du."
+      "ability": "Första gången du dör överlever du.",
+      "flavor": "… och kungen sa ”Vafalls?! Jag har då aldrig haft gummipantalonger, för att inte tala om någon skinnflöjt!” Haha!"
     },
     "fortuneteller": {
-      "ability": "Varje natt väljer du 2 spelare; du får veta om någon av dem är Demon. 1 god spelare registreras som Demon för dig."
+      "ability": "Varje natt väljer du 2 spelare; du får veta om någon av dem är Demon. 1 god spelare registreras som Demon för dig.",
+      "flavor": "Jag känner en stor ondska i din själ! Fast… det skulle kunna vara din parfym. Jag är allergisk mot fläder."
     },
     "gambler": {
-      "ability": "Varje natt* väljer du en spelare och gissar hens roll; om du gissar fel dör du."
+      "ability": "Varje natt* väljer du en spelare och gissar hens roll; om du gissar fel dör du.",
+      "flavor": "Krona så vinner jag. Klave så förlorar du."
     },
     "gangster": {
-      "ability": "En gång om dagen kan du välja att döda en levande granne, om din andra levande granne går med på det."
+      "ability": "En gång om dagen kan du välja att döda en levande granne, om din andra levande granne går med på det.",
+      "flavor": "Fina skor. Det vore synd om du råkade ut för en olycka och de blev förstörda. Apropå det, fina manschettknappar."
     },
     "gardener": {
-      "ability": "Berättaren bestämmer 1 eller flera spelares karaktär."
+      "ability": "Berättaren bestämmer 1 eller flera spelares karaktär.",
+      "flavor": "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen."
     },
     "general": {
-      "ability": "Varje natt får du veta vilket lag som Berättaren tror har övertaget: de goda, de onda eller varken eller."
+      "ability": "Varje natt får du veta vilket lag som Berättaren tror har övertaget: de goda, de onda eller varken eller.",
+      "flavor": "Jag har inte tid för citat."
     },
     "gnome": {
-      "ability": "Alla får veta en spelare på ditt lag. Du kan välja att döda alla som nominerar hen."
+      "ability": "Alla får veta en spelare på ditt lag. Du kan välja att döda alla som nominerar hen.",
+      "flavor": "Vad det är bra att jag har dig. Vad det är bra att du har mig. Vad det är bra att vi har oss, och jättebra är det förstås att vi får träffas varje dag, och va tillsammans, du och jag, för ingen, nä ingen, vill va ensam."
     },
     "goblin": {
-      "ability": "Om du öppet säger att du är Vätten när du nomineras, och därefter avrättas, så vinner ditt lag."
+      "ability": "Om du öppet säger att du är Vätten när du nomineras, och därefter avrättas, så vinner ditt lag.",
+      "flavor": "Du vill inte förolämpa vättarna. Det vill du verkligen, verkligen inte… Apropå ingenting, kan jag få mer tårta?"
     },
     "godfather": {
-      "ability": "I början får du veta vilka Utbölingar som är i spel. Om en Utböling dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]"
+      "ability": "I början får du veta vilka Utbölingar som är i spel. Om en Utböling dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
+      "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut."
     },
     "golem": {
-      "ability": "Du får bara nominera en gång per spel. Den du nominerar dör om hen inte är Demonen."
+      "ability": "Du får bara nominera en gång per spel. Den du nominerar dör om hen inte är Demonen.",
+      "flavor": "Golem hjälpa? Golem krossa! Golem hjälpa."
     },
     "goon": {
-      "ability": "Varje natt blir den första spelaren som väljer dig med sin förmåga full fram till skymningen. Du går över till hens lag."
+      "ability": "Varje natt blir den första spelaren som väljer dig med sin förmåga full fram till skymningen. Du går över till hens lag.",
+      "flavor": "Ja, boss. Gubben har fattat vinken nu, det har jag sett till. Han behövde inte en andra omgång. Nej, boss, behövs ingen läkare – det är bara ett knivsår. Inget en god natts sömn inte fixar."
     },
     "gossip": {
-      "ability": "Varje dag kan du öppet påstå något. Inatt dör en spelare om påståendet stämde."
+      "ability": "Varje dag kan du öppet påstå något. Inatt dör en spelare om påståendet stämde.",
+      "flavor": "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla."
     },
     "grandmother": {
-      "ability": "I början får du veta en god spelare och hens roll. Om hen dödas av Demonen dör du också."
+      "ability": "I början får du veta en god spelare och hens roll. Om hen dödas av Demonen dör du också.",
+      "flavor": "Ta på dig en jacka om du går ut, raring. Och termosen. Och halsduken. Du vet att jag har ett svagt hjärta. Vad skulle jag ta mig till om du blev förkyld… eller värre?"
     },
     "gunslinger": {
-      "ability": "Varje dag, efter dagens första omröstning, kan du välja en spelare som röstade; hen dör."
+      "ability": "Varje dag, efter dagens första omröstning, kan du välja en spelare som röstade; hen dör.",
+      "flavor": "Det är hög tid att någon tar saken i egna händer. Denna någon… är jag."
     },
     "harlot": {
-      "ability": "Varje natt* väljer du en levande spelare; om hen går med på det får du veta hens roll, men ni båda kanske dör."
+      "ability": "Varje natt* väljer du en levande spelare; om hen går med på det får du veta hens roll, men ni båda kanske dör.",
+      "flavor": "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat. Jag är bra på att lyssna. Mycket, mycket bra."
     },
     "harpy": {
-      "ability": "Varje natt väljer du 2 spelare; imorgon är den första galen om att den andra är ond, annars kanske en eller båda dör."
+      "ability": "Varje natt väljer du 2 spelare; imorgon är den första galen om att den andra är ond, annars kanske en eller båda dör.",
+      "flavor": "En dag så skön jag än ej såg, ej heller en skugga så grym över mig hänga."
     },
     "hatter": {
-      "ability": "Om du dör får Kumpanerna och Demonen välja nya Kumpan- och Demonroller att vara."
+      "ability": "Om du dör får Kumpanerna och Demonen välja nya Kumpan- och Demonroller att vara.",
+      "flavor": "En hatt, två hatt, tre hatt, te hatt, fyr hatt, dyr hatt, fem hatt, kläm hatt, sex hatt, spex hatt."
     },
     "hellslibrarian": {
-      "ability": "Något dåligt kanske händer den som pratar när Berättaren har bett om tystnad."
+      "ability": "Något dåligt kanske händer den som pratar när Berättaren har bett om tystnad.",
+      "flavor": "Schhhhh. Du måste vara tyst. Det är bäst att inte störa vikarien; den lär ha ett himla temperament."
     },
     "heretic": {
-      "ability": "Vinnarlaget förlorar och förlorarlaget vinner, även om du är död."
+      "ability": "Vinnarlaget förlorar och förlorarlaget vinner, även om du är död.",
+      "flavor": "När haglet gått igenom taket och krossat glaset i katedralfönstren så smälter det åter ner i jorden, som ett döende lamm i ökensolen. Så lyder dårens parabel."
     },
     "hermit": {
-      "ability": "Du har alla Utbölingars förmågor. [−0 eller −1 Utböling]"
+      "ability": "Du har alla Utbölingars förmågor. [−0 eller −1 Utböling]",
+      "flavor": "På jordens förlorade och bortglömda platser kallar själens ljus."
     },
     "highpriestess": {
-      "ability": "Varje natt får du veta vilken spelare Berättaren tycker att du främst borde prata med."
+      "ability": "Varje natt får du veta vilken spelare Berättaren tycker att du främst borde prata med.",
+      "flavor": "Bakom personligheten finns ett liv som bär personligheter som masker. Ibland tar livet av sig masken, och djupet står till svars för djupet."
     },
     "huntsman": {
-      "ability": "En gång per spel, på natten, kan du välja en levande spelare; om du väljer Ungmön blir hen en Bybo som inte är i spel. [+Ungmön]"
+      "ability": "En gång per spel, på natten, kan du välja en levande spelare; om du väljer Ungmön blir hen en Bybo som inte är i spel. [+Ungmön]",
+      "flavor": "Stugan är bekväm och varm. Min yxa står vid dörren, mina kängor torkar vid eldstaden, och hjortgrytan kokar… Men hör! Ett skrik ekar i dalen! Regnet och leran och kölden, den kalla vinden döljer lukten av vargar, men jag vet vägen och rör mig snabbt. Jag kommer."
     },
     "imp": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Om du dödar dig själv på det sättet blir en Kumpan till Djävulen."
+      "ability": "Varje natt* väljer du en spelare; hen dör. Om du dödar dig själv på det sättet blir en Kumpan till Djävulen.",
+      "flavor": "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och göra vår by till ruiner. Lita inte på någon. Men om ni måste lita på någon, lita på mig."
     },
     "innkeeper": {
-      "ability": "Varje natt* väljer du 2 spelare; de kan inte dö inatt, men 1 är full till skymningen."
+      "ability": "Varje natt* väljer du 2 spelare; de kan inte dö inatt, men 1 är full till skymningen.",
+      "flavor": "Kom in, kära vandrare, och vila dina trötta ben. Drick och var glad, för den ondas härer kommer inte ofreda dig inatt."
     },
     "investigator": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Kumpan."
+      "ability": "I början får du veta att 1 av 2 spelare är en viss Kumpan.",
+      "flavor": "Det är en fin kväll för en promenad, inte sant, herr Morozov? Eller borde jag säga… BARON Morozov?"
     },
     "judge": {
-      "ability": "En gång per spel, när någon annan nominerat, kan du tvinga avrättningen att gå igenom eller inte."
+      "ability": "En gång per spel, när någon annan nominerat, kan du tvinga avrättningen att gå igenom eller inte.",
+      "flavor": "Jag förklarar den svarande skyldig till mord, bedrägeri, mordbrand, stöld, föregivande av allmän ställning, obehörigt arbete som läkare, förtal, kungamord och nedskräpning."
     },
     "juggler": {
-      "ability": "Din första dag kan du öppet gissa upp till 5 spelares roller. Den natten får du veta hur många rätt du hade."
+      "ability": "Din första dag kan du öppet gissa upp till 5 spelares roller. Den natten får du veta hur många rätt du hade.",
+      "flavor": "Nästa trick har efterfrågats av flera. Jag behöver en blomma, en bönpåse, en leksaksorm, en pensel och en bensindriven häcksax. Jag varnar er, det här tricket kan bli mitt sista. Oj då."
     },
     "kazali": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är Kumpaner. ±? Utbölingar]"
+      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är Kumpaner. ±? Utbölingar]",
+      "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig."
     },
     "king": {
-      "ability": "Varje natt med minst lika många döda som levande spelare får du veta 1 levande roll. Demonen vet att du är Kungen."
+      "ability": "Varje natt med minst lika många döda som levande spelare får du veta 1 levande roll. Demonen vet att du är Kungen.",
+      "flavor": "Tungt är att dö förgäten och utan namn, // Dock tyngre, fader, är det att leva. // Bliv ej så mörk! Att leva förmår jag ej, // men lyda jag kan, jag lyder och dör."
     },
     "klutz": {
-      "ability": "När du får veta att du dött väljer du öppet 1 levande spelare; om hen är ond förlorar ditt lag."
+      "ability": "När du får veta att du dött väljer du öppet 1 levande spelare; om hen är ond förlorar ditt lag.",
+      "flavor": "Oj då."
     },
     "knight": {
-      "ability": "I början får du veta 2 spelare som inte är Demonen."
+      "ability": "I början får du veta 2 spelare som inte är Demonen.",
+      "flavor": "När en man ljuger mördar han ock en del av världen."
     },
     "legion": {
-      "ability": "Varje natt* kan en spelare dö. Röstar bara onda avrättas ingen. Du registreras också som Kumpan. [De flesta är Legionen]"
+      "ability": "Varje natt* kan en spelare dö. Röstar bara onda avrättas ingen. Du registreras också som Kumpan. [De flesta är Legionen]",
+      "flavor": "Vi är den kalla vinden en vinterdag. Vi är skuggan en månlös natt. Vi är giftet i ditt te och viskningen i ditt öra. Vi är överallt."
     },
     "leviathan": {
-      "ability": "Om mer än 1 god spelare avrättas vinner de onda. Alla vet att du är i spel. Efter dag 5 vinner de onda."
+      "ability": "Om mer än 1 god spelare avrättas vinner de onda. Alla vet att du är i spel. Efter dag 5 vinner de onda.",
+      "flavor": "Till det sista kämpar jag mot dig. Från dödsrikets hjärta riktar jag mitt järn mot dig. Med mitt sista andetag slungar jag emot dig mitt utmanande hat."
     },
     "librarian": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Utböling (eller att 0 är med)."
+      "ability": "I början får du veta att 1 av 2 spelare är en viss Utböling (eller att 0 är med).",
+      "flavor": "Naturligtvis. I vanliga fall skulle det gå alldeles utmärkt att låna Codex Malificarium från biblioteksvalvet, men du verkar inte ha ett lånekonto hos oss."
     },
     "lilmonsta": {
-      "ability": "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kan en spelare dö. [+1 Kumpan]"
+      "ability": "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kan en spelare dö. [+1 Kumpan]",
+      "flavor": "Steg 1: Va söt. Steg 2: Ta övej väden. Steg 3: Äta fjukost."
     },
     "lleech": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död."
+      "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död.",
+      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjär– jag menar paj! Ja, mumsiga paj. Det var det jag höll på att säga."
     },
     "lordoftyphon": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]"
+      "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]",
+      "flavor": "I kosmos förgätna avkrokar, där stjärnorna viskar hemligheter till intet, vilar en sanning så djup att minsta skymt av den kan driva dödliga till vansinne."
     },
     "lunatic": {
-      "ability": "Du tror att du är en Demon, men det är du inte. Demonen vet vem du är och vilka du väljer på natten."
+      "ability": "Du tror att du är en Demon, men det är du inte. Demonen vet vem du är och vilka du väljer på natten.",
+      "flavor": "Jag är natten… tror jag."
     },
     "lycanthrope": {
-      "ability": "Varje natt* väljer du en levande spelare; om hen är god dör hen och Demonen dödar inte inatt. En god spelare registreras som ond."
+      "ability": "Varje natt* väljer du en levande spelare; om hen är god dör hen och Demonen dödar inte inatt. En god spelare registreras som ond.",
+      "flavor": "Bakom civilisationens tunna fernissa döljer sig ett ylande vanvett."
     },
     "magician": {
-      "ability": "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon."
+      "ability": "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon.",
+      "flavor": "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs förvunnit! Spårlöst borta! Tack så mycket, och god natt!"
     },
     "marionette": {
-      "ability": "Du tror att du är en god roll, men det är du inte. Demonen vet vem du är. [Granne med Demonen]"
+      "ability": "Du tror att du är en god roll, men det är du inte. Demonen vet vem du är. [Granne med Demonen]",
+      "flavor": "Ord, ord. Det är allt vi har att gå på."
     },
     "mastermind": {
-      "ability": "Om Demonen dör av avrättning (så spelet skulle ta slut) pågår spelet 1 dag till. Om en spelare avrättas då förlorar hens lag."
+      "ability": "Om Demonen dör av avrättning (så spelet skulle ta slut) pågår spelet 1 dag till. Om en spelare avrättas då förlorar hens lag.",
+      "flavor": "Monstrets tentakler har spikats upp på kyrkporten. Mödrar och barn dansar på gatorna… Utmärkt. Allting går precis enligt plan."
     },
     "mathematician": {
-      "ability": "Varje natt får du veta hur många spelares förmågor som fungerat onormalt sedan gryningen p.g.a. andra spelares förmågor."
+      "ability": "Varje natt får du veta hur många spelares förmågor som fungerat onormalt sedan gryningen p.g.a. andra spelares förmågor.",
+      "flavor": "Varje givet konsistent formellt system x, inom vilket en viss mängd elementär aritmetik kan utföras, är ofullständigt; det vill säga att det finns uttalanden på språket i x som varken kan bekräftas eller falsifieras i x. Ergo, du är full."
     },
     "matron": {
-      "ability": "Varje dag kan du välja upp till 3 par spelare som byter plats. Spelarna får inte lämna sina platser för privata samtal."
+      "ability": "Varje dag kan du välja upp till 3 par spelare som byter plats. Spelarna får inte lämna sina platser för privata samtal.",
+      "flavor": "Fröken Lunneblom, dämpa er. Herr Rudbeck, fyra fingrar räcker för tekoppen. Jag vet att ni är niobarnsfar, men ålder – eller brist därpå – är aldrig en ursäkt för dålig hyfs."
     },
     "mayor": {
-      "ability": "Om bara 3 spelare lever och ingen avrättas vinner ditt lag. Om du dör på natten kanske en annan spelare dör istället."
+      "ability": "Om bara 3 spelare lever och ingen avrättas vinner ditt lag. Om du dör på natten kanske en annan spelare dör istället.",
+      "flavor": "Vi måste åsidosätta våra olikheter och sätta stopp för det vanvettiga dödandet. Vi är ju alla skattebetalare. Eller ja, de flesta av oss."
     },
     "mezepheles": {
-      "ability": "I början får du veta ett hemligt ord. Den första goda spelaren som säger ordet blir ond den natten."
+      "ability": "I början får du veta ett hemligt ord. Den första goda spelaren som säger ordet blir ond den natten.",
+      "flavor": "Pass på, min vän! Du skall förnimma mer sinnesfröjd i denna timma än på ett år av vanligt tråkigt slag."
     },
     "minstrel": {
-      "ability": "Om en Kumpan dör av avrättning blir alla andra spelare (utom Resenärer) fulla fram till skymningen imorgon."
+      "ability": "Om en Kumpan dör av avrättning blir alla andra spelare (utom Resenärer) fulla fram till skymningen imorgon.",
+      "flavor": "Somna, min nymf! Dröm om min lyra // till dess vår sol går opp klockan fyra // och du dig sträcker // och armarna räcker // till min kanna och min famn // eldad av mitt blod och namn."
     },
     "monk": {
-      "ability": "Varje natt* väljer du en spelare (inte dig själv); hen är skyddad från Demonen inatt."
+      "ability": "Varje natt* väljer du en spelare (inte dig själv); hen är skyddad från Demonen inatt.",
+      "flavor": "Det blåser en grym och dödlig vind inatt. Kom, broder, och ta skydd i klostret medan stormen rasar. Jag svär vid mitt liv att du är säker här."
     },
     "moonchild": {
-      "ability": "När du får veta att du dött väljer du öppet 1 levande spelare. Om hen var god dör hen inatt."
+      "ability": "När du får veta att du dött väljer du öppet 1 levande spelare. Om hen var god dör hen inatt.",
+      "flavor": "Skorpionen ser mot älskarna, och du har ett beslut att fatta. För silver till min hand, och ditt öde skall avslöjas. För stål mot min hals, och ditt öde skall beseglas."
     },
     "mutant": {
-      "ability": "Om du är ”galen” om att du är Utböling kanske du blir avrättad."
+      "ability": "Om du är ”galen” om att du är Utböling kanske du blir avrättad.",
+      "flavor": "Jag är inget monster! Jag är en människa! Ha barmhärtighet!"
     },
     "nightwatchman": {
-      "ability": "En gång per spel, på natten, kan du välja en spelare; hen får veta att du är Nattvakten."
+      "ability": "En gång per spel, på natten, kan du välja en spelare; hen får veta att du är Nattvakten.",
+      "flavor": "Natten är kall och ensam, men jag har månen, stjärnorna, den kalla vinden och ljudet av läderkängor mot kullersten till sällskap. Där borta flimrar ett ljus i ett dunkelt fönster…"
     },
     "noble": {
-      "ability": "I början får du veta 3 spelare, varav exakt 1 är ond."
+      "ability": "I början får du veta 3 spelare, varav exakt 1 är ond.",
+      "flavor": "Sarkasm är förvisso den lägsta formen av humor. Men för att bemöta er kritik, min gode herre, är det alltjämt en form av humor."
     },
     "nodashii": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Dina 2 Bybogrannar är förgiftade."
+      "ability": "Varje natt* väljer du en spelare; hen dör. Dina 2 Bybogrannar är förgiftade.",
+      "flavor": "Vid Arnochs synder känner jag din stank. Vid den fördömda solen och hennes eländiga skara flinande gudar korrumperar jag dig. Vid den välsignade natten och det oheliga havets hemliga djup avslutar jag ditt ynkliga liv på detta plan."
     },
     "ogre": {
-      "ability": "Din första natt väljer du en spelare (inte dig själv); du är på hens lag (du vet inte vilket), även om du är full eller förgiftad."
+      "ability": "Din första natt väljer du en spelare (inte dig själv); du är på hens lag (du vet inte vilket), även om du är full eller förgiftad.",
+      "flavor": "\\<grymt\\>\\<flin\\>\\</grymt\\>"
     },
     "ojo": {
-      "ability": "Varje natt väljer du en roll*; hen dör. Om rollen inte är i spel väljer Berättaren vem som dör."
+      "ability": "Varje natt väljer du en roll*; hen dör. Om rollen inte är i spel väljer Berättaren vem som dör.",
+      "flavor": "Jag ser dig, klart som ett bål på en månfri natt."
     },
     "oracle": {
-      "ability": "Varje natt* får du veta hur många döda spelare som är onda."
+      "ability": "Varje natt* får du veta hur många döda spelare som är onda.",
+      "flavor": "Endast de utvalda får se på andra sidan floret. De döda är rolösa, och de pekar tysta mot den kalla norden."
     },
     "organgrinder": {
-      "ability": "Alla spelare blundar vid röstning och resultatet är hemligt. Varje natt väljer du om du ska vara full till skymningen."
+      "ability": "Alla spelare blundar vid röstning och resultatet är hemligt. Varje natt väljer du om du ska vara full till skymningen.",
+      "flavor": "Veven snurrar runt i dans. Dansa med, glöm vett och sans."
     },
     "pacifist": {
-      "ability": "Avrättade goda spelare kanske inte dör."
+      "ability": "Avrättade goda spelare kanske inte dör.",
+      "flavor": "Misstro alla i vilka impulsen att straffa är stark."
     },
     "philosopher": {
-      "ability": "En gång per spel, på natten, kan du välja en god roll; du får dess förmåga. Om rollen redan är i spel blir hen full."
+      "ability": "En gång per spel, på natten, kan du välja en god roll; du får dess förmåga. Om rollen redan är i spel blir hen full.",
+      "flavor": "Om det är någonting som är verkligt så är det öl. Drick, för imorgon kan vi vara döda."
     },
     "pithag": {
-      "ability": "Varje natt* väljer du en spelare och en roll; om rollen inte är i spel blir spelaren den. Om en Demon skapas dör spelare godtyckligt."
+      "ability": "Varje natt* väljer du en spelare och en roll; om rollen inte är i spel blir spelaren den. Om en Demon skapas dör spelare godtyckligt.",
+      "flavor": "Kringom kitteln gå med flit; innanmätet kasta dit. Padda, du, som under sten, dar och nätter trettien, sov och sög av gift dig stinn – gå du först i kitteln in!"
     },
     "pixie": {
-      "ability": "I början får du veta 1 Bybo som är i spel. Om du är galen om att du är den rollen får du dess förmåga när den dör."
+      "ability": "I början får du veta 1 Bybo som är i spel. Om du är galen om att du är den rollen får du dess förmåga när den dör.",
+      "flavor": "Bro, bro, breja, stockar och stenar, barn går mellan grenar. Vem ska älvan vara? Svara! Folk hugger skogen, så den hugger barn – vem ska jag ta?"
     },
     "plaguedoctor": {
-      "ability": "När du dör får Berättaren en Kumpanförmåga."
+      "ability": "När du dör får Berättaren en Kumpanförmåga.",
+      "flavor": "Stå stilla. Det tar tid för kroppen att läka. Mer myrra."
     },
     "po": {
-      "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 inatt."
+      "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 inatt.",
+      "flavor": "Vill du ha en blomma? Jag är så ensam…"
     },
     "poisoner": {
-      "ability": "Varje natt väljer du en spelare; hen är förgiftad inatt och imorgon."
+      "ability": "Varje natt väljer du en spelare; hen är förgiftad inatt och imorgon.",
+      "flavor": "Tillsätt förening alfa till förening beta… INTE FÖR MYCKET!"
     },
     "politician": {
-      "ability": "Om du är mest ansvarig för att ditt lag förlorade byter du lag och vinner, även om du är död."
+      "ability": "Om du är mest ansvarig för att ditt lag förlorade byter du lag och vinner, även om du är död.",
+      "flavor": "Jag tror inte att det är den viktigaste frågan. Jag förstår att det är intressant, men nu pratar vi konstitutionella frågor."
     },
     "poppygrower": {
-      "ability": "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt."
+      "ability": "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt.",
+      "flavor": "I den djupa skogens dolda lunder växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar."
     },
     "preacher": {
-      "ability": "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga."
+      "ability": "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga.",
+      "flavor": "Hellre rik och frisk än fattig och sjuk."
     },
     "princess": {
-      "ability": "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten."
+      "ability": "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten.",
+      "flavor": "Våra ord är blodhundar bundna med silkestrådar, mitt herrskap. Väv dem med vänlighet, så inte tyglarna tvinnas upp och hovet slits i stycken."
     },
     "professor": {
-      "ability": "En gång per spel, på natten*, kan du välja en död spelare; om du väljer en Bybo återupplivas hen."
+      "ability": "En gång per spel, på natten*, kan du välja en död spelare; om du väljer en Bybo återupplivas hen.",
+      "flavor": "Processen är enkel. Fäst hydraulkonfabulatorn i den modifierade chi-matrisförstärkaren, tillsätt 20 ml pseudodorafin, och håll hans z-nivå över 20 %, så ska du se att det ordnar sig med din make. Nu behöver vi bara ett blixtnedslag."
     },
     "psychopath": {
-      "ability": "Varje dag innan nominering kan du öppet välja en spelare; hen dör. Om du avrättas dör du bara om du förlorar sten-sax-påse."
+      "ability": "Varje dag innan nominering kan du öppet välja en spelare; hen dör. Om du avrättas dör du bara om du förlorar sten-sax-påse.",
+      "flavor": "Tittut!"
     },
     "pukka": {
-      "ability": "Varje natt väljer du en spelare; hen är förgiftad. Förra förgiftade spelaren dör och blir sedan frisk."
+      "ability": "Varje natt väljer du en spelare; hen är förgiftad. Förra förgiftade spelaren dör och blir sedan frisk.",
+      "flavor": "Du har varit så vänlig som välkomnat mig till ditt vackra hem. Jag ber om ursäkt för att jag råkade riva dig. Det kanske var en struntsak, men jag vill ändå att du tar denna gyllene tandpetare som ett tecken på min ånger."
     },
     "puzzlemaster": {
-      "ability": "1 spelare är full, även om du dör. Om du gissar vem (en chans) får du veta vem Demonen är, annars får du falsk info."
+      "ability": "1 spelare är full, även om du dör. Om du gissar vem (en chans) får du veta vem Demonen är, annars får du falsk info.",
+      "flavor": "Börjar man tro att en sak bara är en annan sak så är man oftast på väg att begå ett misstag. Tålamod, tålamod. Förväxla inte det som borde vara med det som är."
     },
     "ravenkeeper": {
-      "ability": "Om du dör på natten väcks du och väljer en spelare; du får veta hens roll."
+      "ability": "Om du dör på natten väcks du och väljer en spelare; du får veta hens roll.",
+      "flavor": "Mina fåglar kommer hämnas mig! Flyg! Flyg, mina vackra och plikttrogna vänner! Till godset och till älven! Till gränderna och salongerna! Flyg!"
     },
     "recluse": {
-      "ability": "Du kan registreras som ond och som Kumpan eller Demon, även om du är död."
+      "ability": "Du kan registreras som ond och som Kumpan eller Demon, även om du är död.",
+      "flavor": "Di va’na förbasta åhäver å kom’ å nada på marska mi. Ska fan te å skrata eft’er! Kas! Ja dreter i döbler ja å di gör bäst di i å höll se hissed frå tôfta mi. Kas, sa ja!"
     },
     "revolutionary": {
-      "ability": "Alla vet att 2 grannspelare är på samma lag. En gång per spel registreras en av dem fel."
+      "ability": "Alla vet att 2 grannspelare är på samma lag. En gång per spel registreras en av dem fel.",
+      "flavor": "Enade vi falla, söndrade vi gå i stå."
     },
     "riot": {
-      "ability": "Dag 3 blir Kumpaner till Kravallen och nominerade dör men nominerar en levande spelare direkt. Detta måste hända."
+      "ability": "Dag 3 blir Kumpaner till Kravallen och nominerade dör men nominerar en levande spelare direkt. Detta måste hända.",
+      "flavor": "¡Larga vida a la revolución! ¡Mi revolución!"
     },
     "sage": {
-      "ability": "Om Demonen dödar dig får du veta att hen är 1 av 2 spelare."
+      "ability": "Om Demonen dödar dig får du veta att hen är 1 av 2 spelare.",
+      "flavor": "Dessa digra volymer döljer hemligheten, det är jag säker på! Den väntar oss mellan orden. Mer ljus, pojk! Mer bläck! Språket är märkligt, ja, men den infernaliska gåtan vecklar långsamt ut sig."
     },
     "sailor": {
-      "ability": "Varje natt väljer du en levande spelare; hen eller du är full fram till skymningen. Du kan inte dö."
+      "ability": "Varje natt väljer du en levande spelare; hen eller du är full fram till skymningen. Du kan inte dö.",
+      "flavor": "Jag kan supa omkull vem som helst! Du! Pratkvarnen! Tror du att du kan klå mig! Inte? Du då, mormor? Har du nånsin smakat McKillys karibiska rom förut? Det ger garanterat hår på bröstet! Kliv ombord!"
     },
     "saint": {
-      "ability": "Om du dör av avrättning förlorar ditt lag."
+      "ability": "Om du dör av avrättning förlorar ditt lag.",
+      "flavor": "Vishet föder fred. Tålamod föder vishet. Frukta ej, ty dagen kommer när också fruktan flyr. Låt oss be, och må vår enade vision göra helgon av oss alla."
     },
     "savant": {
-      "ability": "Varje dag kan du prata med Berättaren privat och få 2 påståenden: 1 sant och 1 falskt."
+      "ability": "Varje dag kan du prata med Berättaren privat och få 2 påståenden: 1 sant och 1 falskt.",
+      "flavor": "Sjuttiotvå tändstickor på golvet… solen går ner tidigt, men månen är oförändrad… ett avslitet tygstycke… ondska på godset… tre gånger tre… den vi litade på är inte det han utger sig för… grönt ljus betyder magnesium… rester, men mönstret är fel… Sjuttiotvå tändstickor på golvet…"
     },
     "scapegoat": {
-      "ability": "Om en spelare på ditt lag avrättas kanske du avrättas istället."
+      "ability": "Om en spelare på ditt lag avrättas kanske du avrättas istället.",
+      "flavor": "God afton! Tack så mycket för att ni ville bjuda mig till er bal. Jag är inte härifrån, men ni verkar ju vara ett riktigt trevligt gäng! Vi kommer säkert bli goda vänner. Vad ska ni ha allt rep till?"
     },
     "scarletwoman": {
-      "ability": "Om 5 eller fler spelare lever och Demonen dör blir du Demonen. (Resenärer räknas inte.)"
+      "ability": "Om 5 eller fler spelare lever och Demonen dör blir du Demonen. (Resenärer räknas inte.)",
+      "flavor": "Du har visat mig Purpurlågans hemligheter. Vi har delat säng i eld och lust och djuriskt umgänge, och jag är för alltid din tjänare. Men inatt, min kära, är jag din mästare."
     },
     "seamstress": {
-      "ability": "En gång per spel, på natten, kan du välja 2 spelare (inte dig själv); du får veta om de är på samma lag."
+      "ability": "En gång per spel, på natten, kan du välja 2 spelare (inte dig själv); du får veta om de är på samma lag.",
+      "flavor": "Hörde du att främlingen i kaschmirrock uppvaktade unga Isabella? Och att hon sa ja? Och det är ändå ingenting emot vad Harry och jonglören gjorde på marknaden! Du anar inte vad jag skulle kunna berätta om jag varit en skvallerbytta… oj oj oj."
     },
     "sentinel": {
-      "ability": "Det kan vara 1 Utböling mer eller mindre i spel."
+      "ability": "Det kan vara 1 Utböling mer eller mindre i spel.",
+      "flavor": "Namn. Dokument. Vapen."
     },
     "shabaloth": {
-      "ability": "Varje natt* väljer du 2 spelare; de dör. En död spelare du valde igår natt kanske återupplivas."
+      "ability": "Varje natt* väljer du 2 spelare; de dör. En död spelare du valde igår natt kanske återupplivas.",
+      "flavor": "Blarg f’taag nm mataan! No sho gumtha m’sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
     "shugenja": {
-      "ability": "I början får du veta om närmsta onda spelare är medurs eller moturs från dig. Om det är lika blir svaret godtyckligt."
+      "ability": "I början får du veta om närmsta onda spelare är medurs eller moturs från dig. Om det är lika blir svaret godtyckligt.",
+      "flavor": "これは夢。それも夢。すべて夢です。"
     },
     "slayer": {
-      "ability": "En gång per spel, på dagen, kan du öppet välja en spelare; om du väljer Demonen dör hen."
+      "ability": "En gång per spel, på dagen, kan du öppet välja en spelare; om du väljer Demonen dör hen.",
+      "flavor": "Dö."
     },
     "snakecharmer": {
-      "ability": "Varje natt väljer du en levande spelare; en vald Demon byter roll och lag med dig och är sedan förgiftad."
+      "ability": "Varje natt väljer du en levande spelare; en vald Demon byter roll och lag med dig och är sedan förgiftad.",
+      "flavor": "Effendi… jag är en enkel man, men en enda ton från min gyllene flöjt kan tämja den vildaste djinn, inshallah. Man brukar säga att fler har hängts av girighet än av rep, men inte jag, effendi… inte jag."
     },
     "snitch": {
-      "ability": "Varje Kumpan får 3 bluffar."
+      "ability": "Varje Kumpan får 3 bluffar.",
+      "flavor": "Det var Johan."
     },
     "soldier": {
-      "ability": "Du är säker från Demonen."
+      "ability": "Du är säker från Demonen.",
+      "flavor": "Som David sa till Goljat, som Theseus sa till Minotauren, som Arjuna sa till Bhagadatta… Nej."
     },
     "spiritofivory": {
-      "ability": "Det kan inte finnas mer än 1 extra ond spelare."
+      "ability": "Det kan inte finnas mer än 1 extra ond spelare.",
+      "flavor": "Ödemarken kallar. Ben reser sig till kött och faller till stoft. Den stora anden växer. Den stora anden vakar. Den stora anden leder vägen. Människan lyssnar, eller möter sitt öde."
     },
     "spy": {
-      "ability": "Varje natt ser du grimoaren. Du kan registreras som god och Bybo eller Utböling, även om du är död."
+      "ability": "Varje natt ser du grimoaren. Du kan registreras som god och Bybo eller Utböling, även om du är död.",
+      "flavor": "Vi föds alla som spioner. Det är inget att skämmas för; skammen är den att de hemligheter som finns att upptäcka är så banala och så få."
     },
     "steward": {
-      "ability": "I början får du veta 1 god spelare."
+      "ability": "I början får du veta 1 god spelare.",
+      "flavor": "Hur VÅGAR ni anklaga Hennes Nåd för oförrätter? Jag har känt henne i hela mitt liv! Nio år!"
     },
     "stormcatcher": {
-      "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är."
+      "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är.",
+      "flavor": "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat."
     },
     "summoner": {
-      "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon du väljer. [Ingen Demon]"
+      "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon du väljer. [Ingen Demon]",
+      "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret."
     },
     "sweetheart": {
-      "ability": "När du dör blir 1 spelare full."
+      "ability": "När du dör blir 1 spelare full.",
+      "flavor": "Jag kommer aldrig glömma henne. Aldrig."
     },
     "tealady": {
-      "ability": "Om båda dina levande grannar är goda kan de inte dö."
+      "ability": "Om båda dina levande grannar är goda kan de inte dö.",
+      "flavor": "Är du kall kan te värma. Är du för varm kan te svalka. Är du nedstämd kan te fröjda. Är du upprymd kan te lugna."
     },
     "thief": {
-      "ability": "Varje natt väljer du en spelare (inte dig själv); hens röst räknas negativt imorgon."
+      "ability": "Varje natt väljer du en spelare (inte dig själv); hens röst räknas negativt imorgon.",
+      "flavor": "Jag har inte gjort nåt. Jag var inte ens i den gränden igår kväll! Det var inte jag som stal borgmästare Brunos portfölj med alla tjusiga dokument. Förresten var den för tung för att bära med sig."
     },
     "tinker": {
-      "ability": "Du kan dö när som helst."
+      "ability": "Du kan dö när som helst.",
+      "flavor": "Jag tror jag vet vad problemet är. Som tur är så har jag en idé! En smärre justering är allt som krävs för att få katapulten att skjuta dubbelt så långt…"
     },
     "towncrier": {
-      "ability": "Varje natt* får du veta om en Kumpan nominerade idag."
+      "ability": "Varje natt* får du veta om en Kumpan nominerade idag.",
+      "flavor": "Hör upp! Hör upp! Häxkonst i labyrinten! Savant avslöjar allt! Byn i fara! Hör upp!"
     },
     "toymaker": {
-      "ability": "Demonen kan välja att inte attackera och måste välja detta minst en gång per spel. De onda får vanlig startinfo."
+      "ability": "Demonen kan välja att inte attackera och måste välja detta minst en gång per spel. De onda får vanlig startinfo.",
+      "flavor": "Den surrar! Den går i trappor! Den värmer om natten! Den smakar socker! Ungarna älskar den! Får jag presentera, den splitter nya… Värme-vandrar-surrar-automat-mojängen! Rolig för liten som stor!"
     },
     "undertaker": {
-      "ability": "Varje natt* får du veta vilken roll som dog av avrättning idag."
+      "ability": "Varje natt* får du veta vilken roll som dog av avrättning idag.",
+      "flavor": "Hmmm… vad har vi här då? Vänstra kängan är sliten ner till hälen, med flintspån under spännet… Så klär sig en man i det militära."
     },
     "vigormortis": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]"
+      "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]",
+      "flavor": "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av vattnet jag ger kommer aldrig gå törstig, för vattnet ska i honom vara en källa som ger evigt liv."
     },
     "villageidiot": {
-      "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]"
+      "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]",
+      "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så."
     },
     "virgin": {
-      "ability": "Om den första som nominerar dig är Bybo avrättas hen omedelbart."
+      "ability": "Om den första som nominerar dig är Bybo avrättas hen omedelbart.",
+      "flavor": "Jag bär ingen skuld. Låt dem som är utan synd lida i mitt ställe. Mitt anseende låter sig inte befläckas av era giftiga anklagelser."
     },
     "vizier": {
-      "ability": "Alla vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstade kan du välja att avrätta direkt."
+      "ability": "Alla vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstade kan du välja att avrätta direkt.",
+      "flavor": "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ”rättvisa” och ”nåd”. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig."
     },
     "vortox": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Bybors förmågor ger falsk info. Om ingen avrättas en dag vinner de onda."
+      "ability": "Varje natt* väljer du en spelare; hen dör. Bybors förmågor ger falsk info. Om ingen avrättas en dag vinner de onda.",
+      "flavor": "Natt är dag. Rätt är fel. Bak är svag. Fram är hel. Ner är bort. Upp är kvar. Följ med mig. Här finns svar."
     },
     "voudon": {
-      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50% majoritet behövs inte."
+      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50% majoritet behövs inte.",
+      "flavor": "Bien venu. Sitt. Ta ett djupt andetag. Beträd de dödas land. Se med deras ögon. Tala med deras röst. Yon sel lang se janm ase."
     },
     "washerwoman": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Bybo."
+      "ability": "I början får du veta att 1 av 2 spelare är en viss Bybo.",
+      "flavor": "Blodfläckar på smokingen? Nej, det är matlagningssherry. Så vårdslöst."
     },
     "widow": {
-      "ability": "Din första natt ser du grimoaren och väljer en spelare; hen är förgiftad. 1 god spelare vet att Änkan är i spel."
+      "ability": "Din första natt ser du grimoaren och väljer en spelare; hen är förgiftad. 1 god spelare vet att Änkan är i spel.",
+      "flavor": "Mer vin? Château d’Ergot ’07 är en mycket speciell årgång. Ja, sannerligen speciell."
     },
     "witch": {
-      "ability": "Varje natt väljer du en spelare; om hen nominerar imorgon dör hen. Om bara 3 spelare lever förlorar du denna förmåga."
+      "ability": "Varje natt väljer du en spelare; om hen nominerar imorgon dör hen. Om bara 3 spelare lever förlorar du denna förmåga.",
+      "flavor": "Tre droppar getblod. En hårlock, avsliten i vrede. Namnet är talat, skuggan är kastad. Gå med vänster fot först längs törnestigen, och se dig inte om."
     },
     "wizard": {
-      "ability": "En gång per spel får du önska dig något. Om önskan uppfylls kan den få en kostnad och ge en ledtråd om sin natur."
+      "ability": "En gång per spel får du önska dig något. Om önskan uppfylls kan den få en kostnad och ge en ledtråd om sin natur.",
+      "flavor": "Varje man och varje kvinna är en stjärna. Kärlek är lagen, kärlek under vilja."
     },
     "wraith": {
-      "ability": "Du får öppna ögonen på natten. Du vaknar med andra onda spelare."
+      "ability": "Du får öppna ögonen på natten. Du vaknar med andra onda spelare.",
+      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
     },
     "xaan": {
-      "ability": "På natt X är alla Bybor förgiftade till skymningen. [X Utbölingar]"
+      "ability": "På natt X är alla Bybor förgiftade till skymningen. [X Utbölingar]",
+      "flavor": "Se dem falla. En efter en. Efter två, efter tre, efter fem."
     },
     "yaggababble": {
-      "ability": "I början får du veta en hemlig fras. För varje gång du sa den öppet idag kan en spelare dö."
+      "ability": "I början får du veta en hemlig fras. För varje gång du sa den öppet idag kan en spelare dö.",
+      "flavor": "Mord på Rue Morgue? Фальшивые новости! Hundar på Baskervillemyren? Фальшивые новости! Död på Nilen? Фальшивые новости!"
     },
     "zealot": {
-      "ability": "Om minst 5 spelare lever måste du alltid rösta för avrättning."
+      "ability": "Om minst 5 spelare lever måste du alltid rösta för avrättning.",
+      "flavor": "Jag tycker om att prata med dig. Ditt sinne tilltalar mig. Det liknar mitt, förutom det att du råkar vara helt från vettet."
     },
     "zombuul": {
-      "ability": "Varje natt* efter en dag när ingen dog väljer du en spelare; hen dör. Första gången du dör lever du men registreras som död."
+      "ability": "Varje natt* efter en dag när ingen dog väljer du en spelare; hen dör. Första gången du dör lever du men registreras som död.",
+      "flavor": "Jag. Förstår inte. Dig. Medmänniska. Visa mig. Jorden. Där den heliga. Sover. Jag måste. Också sova. Snart."
     }
   }
 }
