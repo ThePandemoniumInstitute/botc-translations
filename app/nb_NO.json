@@ -132,10 +132,105 @@
       "shortcuts": {
         "toggleEdition": "Velg Utgave"
       }
+    },
+    "update": {
+      "general": "Generelle forandringer",
+      "other": "Andre Forandringer",
+      "title": "Nye Oppdateringer:"
+    },
+    "user": {
+      "button_add_st": "Legg til Forteller",
+      "button_cancel_st": "Avbryt Forteller Forespørsel",
+      "button_kick_user": "Kast ut Bruker",
+      "button_remove_st": "Fjern Forteller",
+      "error": "Det var en feil med å laste bruker detaljer.",
+      "grimoire_access_grant": "Gi Grimoire tilgang",
+      "grimoire_access_revoke": "Fjern Grimoire Tilgang",
+      "loading": "Laster bruker...",
+      "prompt_kick": "Vil du virkelig fjerne {0}fra dette spillet?",
+      "title": "Bruker profil"
+    },
+    "users": {
+      "grim_access": "Grimoire Tilgang",
+      "new_user": "Ny Bruker",
+      "official_mod": "Offisiel Moderator",
+      "official_tpi": "Offisiel TPI",
+      "offline": "Frakoblet",
+      "st_requested": "Forteller Forespurt",
+      "type_player": "Spiller|{n} Spillere",
+      "type_spectator": "Tilskuer|{n} Tilskuere",
+      "type_storyteller": "Forteller|{n} Fortellere"
+    },
+    "verification": {
+      "button_reset": "Tilbakestill",
+      "code": "Kode",
+      "code_sent": "En kode har blitt sendt til ditt telefonnummer, hver så snill skriv det inn for å verifisere din bruker!",
+      "country_code": "Landskode",
+      "error_402": "Engangs telefonnummer kan ikke brukes for bruker verifikasjon.",
+      "error_403": "Dette telefonnummeret brukes av en annen bruker. Om du tror dette er feil, hver så snill og kontakt oss på {0}.",
+      "error_assigned": "Dette telefonnummeret brukes allerede av en annen bruker, hver så snill of bruk ett annet telefon nummer.",
+      "error_cooldown": "Du har nådd the maksimalet nummeret av forsøk. Hver så snill og vent minst 10 minutter før du prøver igjen.",
+      "error_other": "Noe gikk galt: {0}. Hver så snill og prøv igjen.",
+      "error_pending": "Feil kode. Hver så snill og prøv igjen.",
+      "error_restart": "Du har nådd maksimalts anntall forsøk. Hver så snill å legg inn telefonnummeret ditt igjen.",
+      "phone": "Telefonnummer",
+      "success": "Verifikasjon vellykket! Du kan lukke dette vinduet nå.",
+      "text_body2": "Offentlige spill",
+      "text_title": "Hvorfor trengs dette?",
+      "title": "Bruker verifikasjon"
+    },
+    "votehistory": {
+      "clear": "Tøm stemme historie",
+      "execution": "Henrettelse",
+      "exile": "Forvise",
+      "majority": "Flertall",
+      "nominee": "Nominert",
+      "phase": "Fase",
+      "title": "Stemme historie",
+      "type": "Type",
+      "votes": "Stemmer"
     }
   },
   "overlays": {
+    "attention": {
+      "return": "Hver så snill og kom tilbake til torget nå!"
+    },
+    "firstnight": {
+      "button_begin": "Start første natt",
+      "gardener_button": "Send karakterer",
+      "reminders": "Legg til alle nødvendige {0} påminnelser.",
+      "title": "Forbered Første Natt"
+    },
+    "gatherplayers": {
+      "button_add": "Legg til sete",
+      "button_select": "Velg en Utgave",
+      "button_shuffle": "Bland Seter",
+      "clear_text": "Er du sikker på at du vil fjerne alle spillere?",
+      "clear_title": "Fjern alle spillere",
+      "shuffle_text": "Er du sikker på at du vil randomisere seter?",
+      "shuffle_title": "Randomiser seter",
+      "text": "Legg til, bland eller fjern spilleres seter her.",
+      "text2": "Når det er nok seter for alle, {0}",
+      "title": "Samle spillerene dine",
+      "warning": "Du trenger minst 7 spillere for ett normalt spill i Ravenswood Bluff."
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Lukk",
+        "button_open": "Åpne",
+        "button_peek": "Titt",
+        "state_false": "Lukket",
+        "state_open-eyes": "Åpen",
+        "state_peek-eyes": "Titter",
+        "text": "Dine øyne er {0}"
+      }
+    },
     "pointing": {
+      "button_countdown": "Nedtelling",
+      "countdown_freeze": "Frys",
+      "nobody": "Ingen",
+      "prompt": "Klik på en spiller for å peke på dem!",
+      "title_locked": "Valgt spiller:|Valgte spillere:",
       "you_pointed": "Du pekte på:"
     },
     "reveal": {
@@ -143,7 +238,9 @@
       "button_result": "Spill resultat",
       "evil": "Ond",
       "good": "God",
-      "result": "{0} har vunnet!"
+      "prompt": "Advarsel: Dette vil avslutte spillet og vise girmoret til alle spillere!\nHvem vant spillet?",
+      "result": "{0} har vunnet!",
+      "title": "Vis grimoire"
     },
     "rules": {
       "button_select": "Velg Karakterene",
@@ -309,7 +406,14 @@
         "tb_1": "Kirke",
         "tb_2": "Kirkegård",
         "tb_3": "Bibliotek"
-      }
+      },
+      "night": "Natt har startet...",
+      "nomination": "En spiller har blitt nominert!",
+      "outgoing": "Utgående",
+      "request_private": "Forespør privat samtale",
+      "requests": "Samtale forespørsel",
+      "reset_position": "Tilbakestill posisjon",
+      "spectator": "Tillskuer"
     }
   }
 }
