@@ -1,1 +1,36 @@
-{}
+{
+  "roles": {
+    "acrobat": {
+      "ability": "Ev'ry moon*, pick a matey: if they is or get tipsy or seasick this moon, ye be joining the Locker.",
+      "other": "The Acrobat picks a matey. :reminder:"
+    },
+    "alchemist": {
+      "ability": "Ye work a Scallywag trade. If'n ye use it, the Captain might tell ye to pick som'n else."
+    },
+    "alsaahir": {
+      "ability": "Ev'ry sun, if'n you figure out on the deck whose the Scallywag(s) and whose the Beast(s) o' the sea, the good'uns prevail."
+    },
+    "amnesiac": {
+      "ability": "Ye forgot what yer trade be. Ev'ry sun, tell the Captain privately what it is: learn how right ye be."
+    },
+    "artist": {
+      "ability": "Once a journey, in the sun, ask the Captain alone any Yarr/Nar question."
+    },
+    "assassin": {
+      "ability": "Once in yer journey, under the moon*, pick a matey: they join the locker, even if'n they shouldn'."
+    },
+    "atheist": {
+      "ability": "The Captain dont need'n follow the statutes, and if made to walk the plank, the good'uns prevail, even if yer in the locker. [No ne'erdowells]"
+    },
+    "balloonist": {
+      "ability": "Ev'ry moon, ye learn a matey of a different rank to the last. [+0 or +1 Stowaway]"
+    },
+    "banshee": {
+      "ability": "If the Beast o' the sea sends you to the locker, all mateys know it. Then, ye can accuse twice each sun and vote twice per accusal.",
+      "name": "Siren"
+    },
+    "baron": {
+      "ability": "Thar be extra stowaways aboard [+2 stowaways]"
+    }
+  }
+}
