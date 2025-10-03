@@ -185,8 +185,62 @@
         "update_player": "Erreur en modifiant le joueur",
         "update_storyteller": "Erreur en modifiant le Conteur",
         "user_text": "Quelque chose s'est mal passé : {0}",
-        "video_text": "Votre navigateur a empêché l'application de lancer automatiquement la discussion vidéo, veuillez fermer ce message pour lancer la discussion."
-      }
+        "video_text": "Votre navigateur a empêché l'application de lancer automatiquement la discussion vidéo, veuillez fermer ce message pour lancer la discussion.",
+        "video_title": "Erreur en initialisant la conversation vidéo"
+      },
+      "prompt": {
+        "chat_title": "Changer de Serveur de Discussion",
+        "join_placeholder": "Identifiant de Session",
+        "join_text": "Veuillez entrer le numéro ou le nom de la partie que vous voulez rejoindre",
+        "join_title": "Rejoindre une partie",
+        "leave_title": "Retourner à l'Accueil",
+        "pronouns_placeholder": "Pronoms",
+        "pronouns_text": "Veuillez entrer vos Pronoms :",
+        "pronouns_title": "Entrez vos Pronoms"
+      },
+      "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
+      "terms_confirm": "Je confirme avoir lu et accepté les conditions et politiques.",
+      "timer_paused": "En pause pendant les Nominations et les Votes",
+      "timer_start": "Démarrer",
+      "unit_minutes": "minutes",
+      "unit_seconds": "secondes"
+    },
+    "edition": {
+      "button_clear": "Vider le Grimoire",
+      "button_paste": "Coller",
+      "button_upload": "Charger",
+      "button_url": "URL",
+      "clear_title": "Vider le Grimoire et les Jetons de Rappel",
+      "custom_placeholder": "URL du Script Personnalisé",
+      "custom_text": "Entrer l'URL vers un fichier .json de script personnalisé",
+      "custom_title": "Charger un Script Personnalisé",
+      "difficulty": "Difficulté :",
+      "difficulty_beginner": "Débutant",
+      "difficulty_intermediate": "Intermédiaire",
+      "difficulty_various": "Divers",
+      "error_character": "Trop de personnages",
+      "error_character_text": "Ce script contient plus de 200 personnages - veuillez en retirer une partie.",
+      "error_custom": "Erreur en chargeant le script personnalisé",
+      "error_loading": "Certains rôles de personnage n'ont pas pu être chargés : {0}",
+      "error_script": "Le Script n'est pas valide",
+      "error_script_text": "Ce script a été chargé mais contient des erreurs. Cela signifie généralement que certaines lignes ne devraient pas s'y trouver, comme spécifié dans le schéma officiel JSON des scripts personnalisés.",
+      "error_size": "Taille du fichier trop grande",
+      "error_size_text": "Le script que vous avez choisi a une taille de {0} Mo, mais la taille maximale est {1} Mo.",
+      "homebrew_description": "Les images personnalisés des scripts maison ont été remplacées par des icônes génériques pour des raisons de sécurité. Vous pouvez les autoriser dans le menu des Paramètres.",
+      "homebrew_title": "Images Personnalisées Désactivées",
+      "theme": "Thème :",
+      "title": "Choisir une édition :",
+      "upload_custom": "Charger un JSON pour un Script Personnalisé"
+    },
+    "fabled": {
+      "title": "Ajouter un personnage Légendaire"
+    },
+    "help": {
+      "button_send": "Envoyer les Données de Debug de la Partie",
+      "button_stop": "Arrêter d'envoyer les Données de Debug",
+      "link_1": "par e-mail",
+      "link_2": "ici",
+      "link_3": "notre boutique en ligne"
     }
   }
 }
