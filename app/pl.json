@@ -3,7 +3,8 @@
     "account-levels": {
       "free": "Darmowe",
       "patreon-demon": "poziom \"Demon\"",
-      "patreon-minion": "poziom \"Sługus\""
+      "patreon-minion": "poziom \"Sługus\"",
+      "patreon-townsfolk": "poziom \"Mieszczanin\""
     }
   }
 }
