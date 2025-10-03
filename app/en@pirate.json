@@ -28,6 +28,9 @@
     }
   },
   "grimoire": {
+    "abilities": {
+      "pointing": "Pick Matey"
+    },
     "demon": "Beast o' the sea|Beasts o' the sea",
     "minion": "Scallywag|Scallywags",
     "outsider": "Stowaway|Stowaways",
