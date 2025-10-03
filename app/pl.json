@@ -1,1 +1,8 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Darmowe",
+      "patreon-demon": "poziom \"Demon\""
+    }
+  }
+}
