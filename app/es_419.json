@@ -3,9 +3,14 @@
     "account-levels": {
       "special-moderator": "Moderador"
     },
+    "button_confirm": "Confirmar",
     "session-tags": {
       "cameras": {
+        "value_0": "Opcional",
         "value_1": "Requerido"
+      },
+      "grimoire": {
+        "label": "Acceso a el Grimorio"
       }
     }
   }
