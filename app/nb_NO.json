@@ -145,7 +145,7 @@
       "description": "Hva vil du annonsere?",
       "error": "Feil i å sende annonsering",
       "input_session": "Økt nav (frivillig)",
-      "input_text": "Din annonserings tekst",
+      "input_text": "Din annonseringstekst",
       "input_title": "Annonserings tittel",
       "title": "Lag en annonsering"
     },
