@@ -1,1 +1,21 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Бесплатно",
+      "patreon-demon": "Уровень Демона",
+      "patreon-minion": "Уровень Приспешника",
+      "patreon-townsfolk": "Уровень Горожанина",
+      "special-free": "Комплиментарный",
+      "special-moderator": "Модератор",
+      "special-tpi": "Сотрудники TPI"
+    },
+    "button_cancel": "Отмена",
+    "button_close": "Закрыть",
+    "button_confirm": "Подтвердить",
+    "button_continue": "Продолжить",
+    "button_logout": "Выйти из аккаунта",
+    "button_search": "Искать",
+    "button_send": "Отправить",
+    "cookie_policy": "Политика использования Cookie"
+  }
+}
