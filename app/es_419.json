@@ -3,14 +3,38 @@
     "account-levels": {
       "special-moderator": "Moderador"
     },
+    "botc_online": "BOTC En línea",
+    "button_cancel": "Cancelar",
+    "button_close": "Cerrar",
     "button_confirm": "Confirmar",
+    "button_continue": "Continuar",
+    "button_logout": "Cerrar sesión",
+    "button_search": "Buscar",
+    "button_send": "Enviar",
     "session-tags": {
       "cameras": {
         "value_0": "Opcional",
         "value_1": "Requerido"
       },
+      "difficulty": {
+        "label": "Dificultad",
+        "value_2": "Principiante"
+      },
       "grimoire": {
-        "label": "Acceso a el Grimorio"
+        "label": "Acceso a el Grimorio",
+        "title": "Si los espectadores reciben acceso al Grimorio",
+        "value_0": "Preguntar",
+        "value_1": "No",
+        "value_2": "Si"
+      },
+      "streaming": {
+        "label": "El Juego Esta Transmitido",
+        "title": "La sesion de el juego sera transmitida en vivo",
+        "value_0": "No",
+        "value_1": "Si"
+      },
+      "subscription": {
+        "label": "Suscripción Requerida"
       }
     }
   }
