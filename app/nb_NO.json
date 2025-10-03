@@ -28,10 +28,10 @@
       },
       "difficulty": {
         "label": "Vanskelighetsgrad",
-        "title": "Det forventete ferdighetsnivået til spillere i denne spillsesjonen",
+        "title": "Det forventede ferdighetsnivået til spillere i denne spillsesjonen",
         "value_0": "Gjennomsnittlig",
         "value_1": "Veteran",
-        "value_2": "Begynner"
+        "value_2": "Nybegynner"
       },
       "grimoire": {
         "label": "Gromoire-tilgang",
