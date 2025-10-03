@@ -181,6 +181,7 @@
         "end": "Erreur lors de la fin du jeu",
         "eyes_close": "Impossible de fermer les yeux",
         "eyes_open": "Impossible d'ouvrir les yeux",
+        "fabled": "Erreur en changeant les légendaires",
         "generic": "Une erreur s'est produite",
         "kick": "Impossible d'expulser l'utilisateur·ice",
         "link_text": "Une erreur est survenu en connectant votre compte Patreon. Veuillez réessayer.",
