@@ -2,7 +2,8 @@
   "common": {
     "account-levels": {
       "free": "Darmowe",
-      "patreon-demon": "poziom \"Demon\""
+      "patreon-demon": "poziom \"Demon\"",
+      "patreon-minion": "poziom \"Sługus\""
     }
   }
 }
