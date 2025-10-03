@@ -1,1 +1,22 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Common",
+      "patreon-demon": "Beast o' the sea tier",
+      "patreon-minion": "Scallywag tier",
+      "patreon-townsfolk": "Crewmate tier",
+      "special-moderator": "Privateer",
+      "special-tpi": "Admiralty"
+    },
+    "button_confirm": "Aye",
+    "button_continue": "Onward",
+    "session-tags": {
+      "difficulty": {
+        "label": "Waters",
+        "value_0": "Fair",
+        "value_1": "Rough",
+        "value_2": "Calm"
+      }
+    }
+  }
+}
