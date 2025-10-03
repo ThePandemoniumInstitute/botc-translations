@@ -253,7 +253,23 @@
       "terms": "Al utilizar Sangre en la Torre del Reloj en Línea, usted reconoce que ha leído y acepta los siguientes términos y políticas:",
       "terms_confirm": "Yo confirmo que he leído y acepto estos términos y políticas.",
       "timer_paused": "Pausa para Nominaciones y Votaciones",
-      "timer_start": "Comenzar"
+      "timer_start": "Comenzar",
+      "timer_title": "Título del temporizador (opcional)",
+      "unit_minutes": "minutos",
+      "unit_seconds": "segundos"
+    },
+    "edition": {
+      "button_clear": "Borrar Grimorio",
+      "button_paste": "Pegar",
+      "button_upload": "Subir",
+      "button_url": "URL",
+      "clear_description": "Esto borrará los tokens del Grimorio y el Recordatorio para ti y para todos los demás. ¿Está seguro?",
+      "clear_title": "Borrar Grimorio y Tokens del Recordatorio",
+      "custom_placeholder": "URL de Script Personalizado",
+      "custom_text": "Ingrese la URL a un archivo script-personalizado.json",
+      "custom_title": "Cargar Script Personalizado",
+      "difficulty": "Dificultad:",
+      "difficulty_beginner": "Principiante"
     }
   }
 }
