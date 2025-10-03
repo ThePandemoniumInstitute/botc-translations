@@ -91,19 +91,35 @@
   "main-menu": {
     "cast_vote": "Votar",
     "change_icon": "Clique para mudar o ícone",
+    "char_sheet": "Ficha de Personagens",
     "characters": "Selecione as Personagens",
     "clear_grim": "Apagar Grimório",
     "download": "Baixar {0} Aplicativo",
     "edition": "Selecionar Edição",
     "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar.",
-    "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo."
+    "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo.",
+    "leave": "Sair do Jogo",
+    "night_sheet": "Ficha de Ordem da Noite",
+    "prompt_clear_player": "Você tem certeza que deseja remover todos os personagens dos jogadores e fichas de lembrete?",
+    "prompt_clear_title": "Apagar Grimório e Fichas de Lembrete",
+    "rules": "Ler As Regras",
+    "show_town": "Mostrar Praça da Cidade",
+    "tab_during_game": "Durante o Jogo",
+    "tab_playing": "Jogabilidade"
   },
   "modals": {
     "dialogue": {
+      "button_no": "Não",
+      "button_yes": "Sim",
       "error": {
         "chat_text": "Conexão perdida com o servidor de conversas, tentando reconectar...\n Mensagem de erro: {0}",
         "server2_text": "Conexão perdida com o servidor do jogo, tentando reconectar...\n Mensagem de erro: {0}",
         "server_title": "Servidor do Jogo Desconectado"
+      },
+      "prompt": {
+        "leave_text": "Você tem certeza que deseja sair do jogo atual e retornar ao Lobby?",
+        "leave_text_player": "Você tem certeza que deseja desocupar seu assento e retornar ao Lobby?",
+        "leave_title": "Retornar ao Lobby"
       }
     },
     "help": {
@@ -140,6 +156,29 @@
       "title_target_bluff": "blefe",
       "title_target_other": "personagem",
       "title_target_player": "personagem para {0}"
+    },
+    "rules": {
+      "title": "Regras"
+    },
+    "settings": {
+      "shortcuts": {
+        "modalRules": "Ler as Regras",
+        "toggleReference": "Referência de Personagens",
+        "toggleTownSquare": "Mostrar Praça da Cidade"
+      }
+    },
+    "signal": {
+      "cards": {
+        "yes": "Sim"
+      }
+    }
+  },
+  "overlays": {
+    "attention": {
+      "return": "Retorne à Praça da Cidade, agora!"
+    },
+    "towninfo": {
+      "return": "Retornar ao Grimório (Atalho: {0})"
     }
   },
   "pages": {
@@ -253,6 +292,7 @@
       "eyes_open": "Está com os olhos abertos"
     },
     "reminders": {
+      "add": "Adicionar Lembrete",
       "edit": "Editar Lembrete {0}",
       "edit_placeholder": "Nota personalizada",
       "edit_text": "Edite o lembrete personalizado para {0}",
@@ -266,7 +306,13 @@
   },
   "session": {
     "copy": "Clique para copiar",
+    "free": "Gratuito para todos",
     "language": "Idioma das Conversas",
+    "locked": "Narradores e Jogadores",
+    "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
+    "name_placeholder": "Nome da sessão de jogo",
+    "prompt_public_text": "Você tem certeza que deseja tornar a sessão do jogo visível ao público?\n Isso permitirá que qualquer pessoa veja e participe do seu jogo.",
+    "prompt_public_title": "Tornar a Sessão do Jogo Pública",
     "server": "Servidor das Conversas:",
     "server_name": "Nome",
     "session_name": "Nome da Sessão",
