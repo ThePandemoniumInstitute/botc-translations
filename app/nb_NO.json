@@ -146,7 +146,26 @@
         "add_player": "Kan ikke legge til spiller",
         "add_storyteller": "Feil med å legge til Historieforteller",
         "avatar_generic": "Noe gikk galt i å opplaste din avatar.",
-        "avatar_pixel": "Bildet ditt var for stort. Hver så snill og skaler det ned til 4000x4000 før du opplaster igjen."
+        "avatar_pixel": "Bildet ditt var for stort. Hver så snill og skaler det ned til 4000x4000 før du opplaster igjen.",
+        "avatar_size": "Filen din var for stor. Hver så snill og prøv igjen med ett bilde med en filstørrelse mindre enn 5 MB.",
+        "avatar_type": "Filen din var ikke gjenkjent som ett bilde.",
+        "edition_change": "Feil i å bytte utgave",
+        "generic": "En feil har skjedd",
+        "move_player": "Kan ikke flytte spiller",
+        "remove_player": "Kan ikke fjerne spiller",
+        "remove_storyteller": "Feil med å fjerne forteller",
+        "sending_roles": "Feil med å sende roller",
+        "session_banned": "Du er blokkert.",
+        "start": "Feil i å starte spill",
+        "user_not_found": "Bruker ikke funnet.",
+        "user_text": "Noe gikk galt:{0}",
+        "vacating": "Feil med å forlate setet"
+      },
+      "prompt": {
+        "join_title": "Bli med i ett spill",
+        "leave_text": "Er du sikker på at du vil forlate det nåværende spillet og gå tilbake til lobbyen?",
+        "leave_text_player": "Er du sikker på at du vil forlate setet ditt og gå tilbake til lobbyen?",
+        "leave_title": "Tilbake til lobby"
       }
     },
     "reminder": {
