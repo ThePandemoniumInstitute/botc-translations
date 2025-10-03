@@ -184,6 +184,7 @@
         "update_game": "Impossible de mettre à jour les données de la partie",
         "update_player": "Erreur en modifiant le joueur",
         "update_storyteller": "Erreur en modifiant le Conteur",
+        "user_not_found": "Utilisateur introuvable.",
         "user_text": "Quelque chose s'est mal passé : {0}",
         "video_text": "Votre navigateur a empêché l'application de lancer automatiquement la discussion vidéo, veuillez fermer ce message pour lancer la discussion.",
         "video_title": "Erreur en initialisant la conversation vidéo"
