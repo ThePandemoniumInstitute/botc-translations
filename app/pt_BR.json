@@ -38,8 +38,31 @@
         "value_2": "Sim"
       },
       "streaming": {
-        "label": "Jogo Streamado"
+        "label": "Jogo Streamado",
+        "title": "Essa sessão será transmitida ao vivo",
+        "value_0": "Não",
+        "value_1": "Sim"
+      },
+      "subscription": {
+        "label": "Necessário Assinatura",
+        "title": "para participar desse jogo é necessário uma Assinatura ativa"
+      },
+      "travellers": {
+        "label": "Viajantes",
+        "title": "Se Viajantes são permitidos nessa partida",
+        "value_0": "Talvez",
+        "value_1": "Sim",
+        "value_2": "Não"
       }
+    },
+    "terms_of_use": "Termos de Uso",
+    "title": "Blood on the Clocktower Online",
+    "trademark": "\"Blood on the Clocktower\" é uma marca registrada de Steven Medway e The Pandemonium Institute.",
+    "unnamed_user": "Usuário sem nome"
+  },
+  "grimoire": {
+    "abilities": {
+      "grimoire": "Mostre o Grimório"
     }
   },
   "pages": {
