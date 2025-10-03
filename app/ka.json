@@ -1,1 +1,10 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "უფასო",
+      "patreon-demon": "დემონის დონე",
+      "patreon-minion": "მინიონის დონე",
+      "patreon-townsfolk": "მოქალაქის დონე"
+    }
+  }
+}
