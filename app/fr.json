@@ -33,7 +33,10 @@
         "value_2": "Débutant"
       },
       "grimoire": {
-        "label": "L'accès de le Grimoire"
+        "label": "L'accès de le Grimoire",
+        "value_0": "Demander",
+        "value_1": "Non",
+        "value_2": "Oui"
       }
     }
   }
