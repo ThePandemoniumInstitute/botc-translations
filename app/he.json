@@ -34,6 +34,8 @@
         "value_2": "מתחיל"
       },
       "grimoire": {
+        "label": "גישה לגרימואר",
+        "title": "במקרה שבו צופים מקבלים גישה לגרימואר",
         "value_0": "שאל",
         "value_1": "לא",
         "value_2": "כן"
@@ -55,16 +57,19 @@
       }
     },
     "terms_of_use": "תנאי שימוש",
+    "title": "Blood on the Clocktower אונליין",
     "trademark": "\"Blood on the Clocktower\" הוא סימן מסחרי של סטיבן מדווי ו-The Pandemonium Institute.",
     "unnamed_user": "שחקן ללא שם"
   },
   "grimoire": {
     "abilities": {
       "distribute-roles": "שלח דמויות",
+      "grimoire": "הצג גרימואר",
       "open-eyes": "לפתוח/לסגור את העיניים",
       "pointing": "בחר שחקן"
     },
     "demon": "שד|שדים",
+    "minion": "מיניון|מיניונים",
     "phases": {
       "day": "יום ראשון|יום{n}",
       "end": "בין משחקים",
@@ -75,6 +80,8 @@
     },
     "player": "שחקן {0}",
     "players": "שחקנים",
-    "seat": "מושב {0}"
+    "seat": "מושב {0}",
+    "storyteller": "מספר הסיפור",
+    "storytellers": "מספרי הסיפורים"
   }
 }
