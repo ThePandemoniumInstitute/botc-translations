@@ -1,1 +1,107 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratis",
+      "patreon-demon": "Dæmon niveau",
+      "patreon-minion": "Håndlanger niveau",
+      "special-tpi": "TPI Personale"
+    },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Annullere",
+    "button_close": "Luk",
+    "button_confirm": "Bekræft",
+    "button_continue": "Fortsæt",
+    "button_logout": "Log ud",
+    "button_search": "Søg",
+    "button_send": "Send",
+    "session-tags": {
+      "cameras": {
+        "label": "Kameraer",
+        "value_0": "Valgfrit",
+        "value_1": "Påkrævet",
+        "value_2": "Fra"
+      },
+      "difficulty": {
+        "label": "Sværhedsgrad",
+        "value_0": "Gennemsnitlig",
+        "value_1": "Veteran",
+        "value_2": "Begynder"
+      },
+      "grimoire": {
+        "value_0": "Spørg",
+        "value_1": "Nej",
+        "value_2": "Ja"
+      },
+      "streaming": {
+        "label": "Spil Streames",
+        "value_0": "Nej",
+        "value_1": "Ja"
+      },
+      "subscription": {
+        "label": "Abonnement Påkrævet"
+      },
+      "travellers": {
+        "value_0": "Valgfrit",
+        "value_1": "Ja",
+        "value_2": "Nej"
+      }
+    },
+    "title": "Blood on the Clocktower Online",
+    "trademark": "\"Blood on the Clocktower\" er et varemærke tilhørende Steven Medway og The Pandemonium Institute."
+  },
+  "grimoire": {
+    "abilities": {
+      "grimoire": "Vis Grimoire",
+      "pointing": "Vælg Spiller"
+    },
+    "demon": "Dæmon|Dæmoner",
+    "minion": "Håndlanger|Håndlangere",
+    "phases": {
+      "day": "Første Dag|Dag {n}",
+      "end": "Imellem spil",
+      "first_night": "Første Nat",
+      "night": "Første Nat|Nat {n}",
+      "other_nights": "Andre Nætter",
+      "start": "Forbereder Nat 1"
+    },
+    "player": "Spiller {0}",
+    "players": "Spillere",
+    "seat": "Sæde {0}",
+    "storyteller": "Fortæller {0}",
+    "storytellers": "Fortællerne",
+    "token": "Brik",
+    "townsfolk": "Borger|Borgere",
+    "traveller": "Rejsende|Rejsende"
+  },
+  "main-menu": {
+    "cast_vote": "Stem",
+    "change_icon": "Klik for at ændre ikon",
+    "char_sheet": "Karakterark",
+    "clear_grim": "Tøm Grimoire",
+    "edition": "Vælg Udgave",
+    "error_audio": "Din browser forhindrede appen i at {0}. Klik her for at starte chatten.",
+    "gather": "Saml Dine Spillere",
+    "gong_recall": "Tilbagekald til Torvet",
+    "grim_access": "Du har fået adgang til Grimoiren",
+    "help": "Hjælp",
+    "leave": "Forlad Spil",
+    "mute_cam": "Deaktiver dit kamera [{0}]",
+    "mute_mic": "Sluk din mikrofon [{0}]",
+    "night_info": "Natinfo",
+    "night_info_text": "Fortælleren vækkede dig i nat!",
+    "prompt_timer_text": "Vælg en varighed og (valgfri) titel for timeren:",
+    "prompt_timer_title": "Sæt en timer",
+    "prompt_vacate_text": "Du er i øjeblikket i et aktivt spil, er du sikker på at du vil forlade dit sæde?",
+    "prompt_vacate_title": "Forlad Sæde",
+    "push_to_talk": "Tryk [{0}] for at tale",
+    "raise_hand": "Rejs Hånd",
+    "reveal_grim": "Afslør Grimoire",
+    "rules": "Læs Reglerne",
+    "set_timer": "Sæt Timer",
+    "settings": "Indstillinger",
+    "show_grim": "Vis Grimoire",
+    "show_town": "Vis Torvet",
+    "show_users": "Vis Brugere [{0}]",
+    "storyteller_add": "Bliv til Fortælleren"
+  }
+}
