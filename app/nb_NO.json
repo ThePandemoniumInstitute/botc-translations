@@ -34,14 +34,14 @@
         "value_2": "Nybegynner"
       },
       "grimoire": {
-        "label": "Gromoire-tilgang",
-        "title": "Om spektatorer har tilgang til Grimoiren",
+        "label": "Grimoire-tilgang",
+        "title": "Om tilskuere har tilgang til Grimoiret",
         "value_0": "Spør",
         "value_1": "Nei",
         "value_2": "Ja"
       },
       "streaming": {
-        "label": "Spillet Blir Strømmet",
+        "label": "Spillet blir strømmet",
         "title": "Spillsesjonen blir strømmet direkte",
         "value_0": "Nei",
         "value_1": "Ja"
