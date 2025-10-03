@@ -4,7 +4,13 @@
       "free": "Darmowe",
       "patreon-demon": "poziom „Demon”",
       "patreon-minion": "poziom „Sługus”",
-      "patreon-townsfolk": "poziom „Mieszczanin”"
-    }
+      "patreon-townsfolk": "poziom „Mieszczanin”",
+      "special-moderator": "Moderator"
+    },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Anuluj",
+    "button_close": "Zamknij",
+    "button_confirm": "Potwierdź",
+    "button_continue": "Kontynuuj"
   }
 }
