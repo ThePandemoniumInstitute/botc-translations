@@ -62,8 +62,36 @@
   },
   "grimoire": {
     "abilities": {
-      "grimoire": "Mostre o Grimório"
-    }
+      "grimoire": "Mostre o Grimório",
+      "open-eyes": "Abre/Feche os Olhos",
+      "pointing": "Escolha um Jogador"
+    },
+    "demon": "Demônio|Demônios",
+    "fabled": "Lenda|Lendas",
+    "minion": "Lacaio|Lacaios",
+    "outsider": "Forasteiro|Forasteiros",
+    "phases": {
+      "day": "Primeiro Dia|Dia{n}",
+      "end": "Entre partidas",
+      "first_night": "Primeira Noite",
+      "night": "Primeira Noite|Noite{n}",
+      "other_nights": "Outras Noites",
+      "start": "Preparando a Noite 1"
+    },
+    "player": "Jogador {0}",
+    "players": "Jogadores",
+    "seat": "Assento {0}",
+    "storyteller": "Narrador {0}",
+    "storytellers": "os Narradores",
+    "traveller": "Viajante|Viajantes"
+  },
+  "main-menu": {
+    "cast_vote": "Votar",
+    "change_icon": "Clique para mudar o ícone",
+    "characters": "Selecione as Personagens",
+    "clear_grim": "Apagar Grimório",
+    "download": "Baixar {0} Aplicativo",
+    "edition": "Selecionar Edição"
   },
   "pages": {
     "banned": {
