@@ -168,6 +168,7 @@
         "session_full": "La partie a déjà 25 utilisateurs.",
         "session_general": "Erreur de connexion à la partie.",
         "session_locked": "Cette partie a été verrouillée.\nSeuls les Joueurs avec une place et le Conteur peuvent rejoindre.",
+        "session_not_found": "Partie Introuvable.",
         "session_public": "Vous ne pouvez pas rejoindre les parties publiques.",
         "session_rejoin": "Vous ne pouvez pas encore rejoindre cette partie.",
         "session_subscription": "Il vous faut un abonnement pour rejoindre cette partie.",
