@@ -106,7 +106,7 @@
     "error_audio2": "inicie automáticamente el chat de voz",
     "error_audio3": "Es posible que también tangas que {0} en Firefox para escuchar el audio de la aplicación.",
     "error_audio4": "cambiar alguna configuración",
-    "fabled": "Añadir fábula",
+    "fabled": "Añadir Fábula",
     "fullscreen": "Pantalla Completa",
     "gather": "Reúne a Tus Jugadores",
     "gong_attention": "Toque de Gong",
@@ -292,7 +292,7 @@
       "upload_custom": "Cargar Guion Personalizado JSON"
     },
     "fabled": {
-      "title": "Agregar Personaje Mítico"
+      "title": "Agregar Fábula"
     },
     "help": {
       "button_send": "Enviar Datos de Depuración de la Sesión",
@@ -416,7 +416,113 @@
       "setting_st_nomination": "Cuentista: Tipo de Nominación",
       "setting_st_vote": "Cuentista: Período de votación",
       "setting_st_whisper": "Cuentista: Permitir Susurros de Texto",
-      "setting_tutorial": "Mostrar los Pasos del Tutorial de la Aplicación"
+      "setting_tutorial": "Mostrar los Pasos del Tutorial de la Aplicación",
+      "setting_video_deafen": "Mostrar Transmisiones de Cámara",
+      "setting_video_hidden": "Ocultar Su Propio Video",
+      "setting_video_mirrored": "Reflejar su Propio Video",
+      "setting_video_unnamed": "Entrada de video sin nombre",
+      "setting_volume": "Volumen de los Efectos de Sonido",
+      "setting_zoom": "Tamaño de las Fichas de Jugador",
+      "setup": "¿Problemas con su Micrófono o Cámara?",
+      "shortcut_add": "Botón Agregar",
+      "shortcut_escape": "Presione Escape para restablecer el atajo",
+      "shortcut_record": "Presione la tecla que desea asignar a {0}",
+      "shortcut_reset": "Restablecer todos los atajos",
+      "shortcut_reset_confirm": "¿Quiere restablecer todos los atajos? Esto es irreversible.",
+      "shortcut_touch": "Soporte Táctil (Deslizar, etc.)",
+      "shortcut_touch_text": "Soporte para gestos táctiles como deslizar hacia arriba o hacia abajo",
+      "shortcuts": {
+        "acceptChat1": "Aceptar Solicitud de Chat 1",
+        "acceptChat2": "Aceptar Solicitud de Chat 2",
+        "acceptChat3": "Aceptar Solicitud de Chat 3",
+        "attentionGong": "Recordatorio / Atención Gong",
+        "castVote": "Emitir Voto / Marcar Jugador",
+        "leaveChat": "Dejar un Chat",
+        "leaveSession": "Abandonar una Sesión",
+        "modalRules": "Leer las Reglas",
+        "modalSettings": "Configuración",
+        "modalShortcuts": "Atajos",
+        "modalUsers": "Usuarios",
+        "modeFabled": "Agregar Fábula",
+        "modeGather": "Reúne a sus Jugadores",
+        "raiseHand": "Levantar la Mano",
+        "revealGrimoire": "Revelar Grimorio",
+        "setTimer": "Establecer Temporizador",
+        "toggleAudioDeafened": "Silenciar Chat de Voz",
+        "toggleAudioMuted": "Silenciar el Micrófono / Pulsar para Hablar",
+        "toggleEdition": "Elegir Edición",
+        "toggleFullscreen": "Pantalla Completa",
+        "toggleNight": "Activar o Desactivar la Fase Nocturna",
+        "toggleNightOrder": "Orden Nocturna",
+        "toggleNightSignal": "Mostrar Información de la Noche",
+        "toggleReference": "Página de Personajes",
+        "toggleRoles": "Elige Personajes",
+        "toggleTownSquare": "Mostrar la Plaza",
+        "toggleVideoMuted": "Activar o Desactivar la Cámara",
+        "toggleVoteHistory": "Historial de Votaciones",
+        "toggleWhisper": "Mensaje de Chat / Texto"
+      },
+      "sounds": {
+        "attentionGong": "Gong de Atención",
+        "chatJoin": "Entrar al chat público",
+        "chatLeave": "Salir del chat público",
+        "countdown": "Cuenta Atrás",
+        "privateJoin": "Entrar al chat privado",
+        "privateRequest": "Solicitud de chat privado",
+        "timerGong": "Gong de fin de temporizador",
+        "voteCast": "Voto emitido",
+        "voteTick": "tictac del reloj de votación",
+        "voteTickShort": "tictac del reloj de votación (<1s)"
+      },
+      "tab_advanced": "Avanzada",
+      "tab_chat": "Chat",
+      "tab_game": "Juego",
+      "tab_general": "General",
+      "tab_shortcuts": "Atajos",
+      "tab_user": "Usuario",
+      "title": "Configuración de la Aplicación",
+      "title_avatar": "Elige un Avatar",
+      "title_sound": "Volumen de los Efectos de Sonido"
+    },
+    "setup": {
+      "audio_devices": "Dispositivos de Audio",
+      "audio_error": "No se Puede Obtener la Transmisión de Audio",
+      "audio_unnamed": "Dispositivo de Audio sin Nombre",
+      "browser": "Navegador:",
+      "button_rerun": "Repetición",
+      "button_start": "Comenzar",
+      "cam_blocked": "El acceso a la Cámara está Bloqueado",
+      "cam_query": "Consulta de permisos de cámara",
+      "capture_audio": "Capturar audio",
+      "capture_video": "Capturar video",
+      "get_devices": "Obtener lista de dispositivos",
+      "mic_blocked": "El acceso al micrófono está bloqueado",
+      "mic_cam_blocked": "No se puede acceder a la cámara ni al micrófono",
+      "mic_cam_query": "Acceder a la cámara y al micrófono",
+      "mic_only": "Acceso solo al micrófono",
+      "mic_query": "Consultando permisos de micrófono",
+      "no_devices": "No se encontraron dispositivos adecuados",
+      "self_listen": "Escuchase a ti mismo",
+      "start": "Comenzar",
+      "step": "Paso {0}:",
+      "text": "Esta configuración intentará acceder a su cámara web y micrófono cuando presione {0}. Si hay algún error, lo mostrará debajo de cada paso.",
+      "title": "Configurar el micrófono y la cámara",
+      "video_devices": "Dispositivos de Video",
+      "video_error": "No se puede obtener la transmisión de video",
+      "video_unnamed": "Dispositivo de video sin nombre"
+    },
+    "signal": {
+      "bluffs": "Faroles:",
+      "cards": {
+        "ability": "¿Desea Usar su habilidad?",
+        "acknowledge": "Entiendo",
+        "anticlockwise": "Antihorario"
+      }
+    }
+  },
+  "overlays": {
+    "firstnight": {
+      "button_begin": "Comenzar la Primera Fase Nocturna"
     }
   }
 }
