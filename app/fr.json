@@ -132,7 +132,18 @@
         "avatar_generic": "Une erreur s'est produite lors de l'upload de votre avatar.",
         "avatar_pixel": "Votre image est trop grande. Veuillez réduire sa taille en dessous de 4000x4000 avant de l'uploader à nouveau.",
         "avatar_size": "Votre fichier est trop gros. Veuillez réessayer avec une image dont la taille n'excède pas 5 MB.",
-        "avatar_type": "Votre fichier n'a pas été reconnu comme étant une image."
+        "avatar_type": "Votre fichier n'a pas été reconnu comme étant une image.",
+        "chat2_text": "Le serveur de discussion semble hors ligne",
+        "chat2_title": "Serveur de Discussion Déconnecté",
+        "clear_grim": "Impossible de vider le Grimoire",
+        "connection": "Une erreur de connexion s'est produite",
+        "eyes_close": "Impossible de fermer les yeux",
+        "eyes_open": "Impossible d'ouvrir les yeux",
+        "generic": "Une erreur s'est produite",
+        "kick": "Impossible d'expulser l'utilisateur",
+        "link_text": "Une erreur est survenu en connectant votre compte Patreon. Veuillez réessayer.",
+        "link_title": "Erreur lors de la connexion au compte Patreon",
+        "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être actualisée."
       }
     }
   }
