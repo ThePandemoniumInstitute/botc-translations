@@ -170,7 +170,52 @@
       "button_resume": "Fortsett",
       "button_start": "Start",
       "countdown_go": "Start",
-      "defense": "Forsvar"
+      "defense": "Forsvar",
+      "majority": "Flertall er {0} stemme|Flertall er {0} stemmer",
+      "pointing": "Peker på {0}",
+      "secret_vote": "Hemmelig Stemme"
+    }
+  },
+  "pages": {
+    "banned": {
+      "description": "Din bruker har blitt{0} på grunn av nylig oppførsel og kan ikke lenger brukes for å spille på den offisielle appen.",
+      "description_banned": "blokkert",
+      "expires": "Din bruker har blitt blokkert til:",
+      "footer2": "Husk:",
+      "permanent": "Din bruker har blitt blokkert permanent.",
+      "reason": "Følgende beskrivelse har blitt gitt:",
+      "title": "Bruker blokkert"
+    },
+    "clock": {
+      "description_mins": "1 minutt|{n} minutter",
+      "description_online": "pålogget"
+    },
+    "lobby": {
+      "button_create_game": "Lag Spill",
+      "button_help": "Hjelp",
+      "button_join_game": "Bli med på ett privat spill",
+      "button_local_play": "Lokalt Spill",
+      "button_quit": "Forlat",
+      "button_settings": "Innstillinger",
+      "characters": "Karakterer",
+      "create_game": "Lag Nytt Spill",
+      "edition_by": "av{author}",
+      "fabled": "Fabel",
+      "forced_private": "Du kan ikke lenger spille i offentlige spill.",
+      "free_tier_free": "Gratis",
+      "game": "Spill",
+      "language": "Språk",
+      "loading": "Laster spill...",
+      "no_games": "Ingen offentlige spill funnet.",
+      "page": "Side {page} av {total}",
+      "phase": "Fase",
+      "players": "Spillere",
+      "show_private": "Vis private spill",
+      "stats": "{0} brukere er i {1} {2} spill",
+      "stats_public": "offentlig",
+      "storyteller": "Historieforteller",
+      "updating": "Oppdaterer...",
+      "welcome": "Velkommen til {0}!"
     }
   }
 }
