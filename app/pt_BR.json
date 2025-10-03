@@ -140,9 +140,6 @@
       "title_target_bluff": "blefe",
       "title_target_other": "personagem",
       "title_target_player": "personagem para {0}"
-    },
-    "roles": {
-      "button_distribute": ""
     }
   },
   "pages": {
