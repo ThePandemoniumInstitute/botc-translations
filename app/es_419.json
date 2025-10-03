@@ -47,8 +47,17 @@
       },
       "travellers": {
         "label": "Viajero",
-        "title": "Si viajeros son permitidos en esta sesión de juego"
+        "title": "Si viajeros son permitidos en esta sesión de juego",
+        "value_0": "Opcional",
+        "value_1": "Si",
+        "value_2": "No"
       }
-    }
+    },
+    "terms_of_use": "Términos y condiciones de uso",
+    "title": "Blood on the Clocktower En Línea"
+  },
+  "user": {
+    "stats_private": "Privado",
+    "stats_public": "Público"
   }
 }
