@@ -93,13 +93,13 @@
     "error_audio4": "Endre en innstilling",
     "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
-    "gather": "Samle spillerene",
+    "gather": "Samle spillerne",
     "help": "Hjelp",
     "leave": "Forlat spill",
     "night_info": "Nattinfo",
     "prompt_timer_text": "Velg lengde og (valgfritt) navn på nedtellingen:",
     "prompt_timer_title": "Start en nedtelling",
-    "prompt_vacate_text": "Du er for øyeblikket i ett aktivt spill, er du sikker på at du vil forlate setet ditt?",
+    "prompt_vacate_text": "Du er for øyeblikket i et aktivt spill, er du sikker på at du vil forlate setet ditt?",
     "prompt_vacate_title": "Forlat sete",
     "push_to_talk": "Trykk [{0}] for å prate",
     "raise_hand": "Løft hånd",
@@ -112,7 +112,7 @@
     "tab_playing": "Spiller",
     "user_list": "Bruker Liste",
     "vacate_seat": "Forlat Sete",
-    "vote_history": "Stemme Historie"
+    "vote_history": "Stemme Historikk"
   },
   "modals": {
     "dialogue": {
@@ -127,7 +127,7 @@
     },
     "settings": {
       "shortcuts": {
-        "toggleEdition": "Velg Versjon"
+        "toggleEdition": "Velg Utgave"
       }
     }
   },
@@ -140,7 +140,7 @@
       "button_result": "Spill resultat",
       "evil": "Ond",
       "good": "God",
-      "result": "{0} Har vunnet!"
+      "result": "{0} har vunnet!"
     },
     "rules": {
       "button_select": "Velg Karakterene",
@@ -150,7 +150,7 @@
     "towninfo": {
       "alive": "I live",
       "button_gather": "Samle Spillerene Dine",
-      "script_by": "Ved{0}",
+      "script_by": "av{0}",
       "text_player": "Historiefortelleren må legge til flere spillere før du kan begynne.",
       "text_st": "For å starte må du først {0}",
       "timer_ended": "Ferdig",
@@ -178,13 +178,13 @@
   },
   "pages": {
     "banned": {
-      "description": "Din bruker har blitt{0} på grunn av nylig oppførsel og kan ikke lenger brukes for å spille på den offisielle appen.",
-      "description_banned": "blokkert",
-      "expires": "Din bruker har blitt blokkert til:",
+      "description": "Din konto har blitt {0} på grunn av nylig oppførsel og kan ikke lenger brukes for å spille på appen.",
+      "description_banned": "utestengt",
+      "expires": "Din bruker har blitt utestengt til:",
       "footer2": "Husk:",
-      "permanent": "Din bruker har blitt blokkert permanent.",
-      "reason": "Følgende beskrivelse har blitt gitt:",
-      "title": "Bruker blokkert"
+      "permanent": "Din bruker har blitt utestengt permanent.",
+      "reason": "Følgende begrunnelse har blitt gitt:",
+      "title": "Konto Utestengt"
     },
     "clock": {
       "description_mins": "1 minutt|{n} minutter",
@@ -193,13 +193,13 @@
     "lobby": {
       "button_create_game": "Lag Spill",
       "button_help": "Hjelp",
-      "button_join_game": "Bli med på ett privat spill",
+      "button_join_game": "Bli med i et privat spill",
       "button_local_play": "Lokalt Spill",
       "button_quit": "Forlat",
       "button_settings": "Innstillinger",
       "characters": "Karakterer",
       "create_game": "Lag Nytt Spill",
-      "edition_by": "av{author}",
+      "edition_by": "av {author}",
       "fabled": "Fabel",
       "forced_private": "Du kan ikke lenger spille i offentlige spill.",
       "free_tier_free": "Gratis",
@@ -218,9 +218,9 @@
       "welcome": "Velkommen til {0}!"
     },
     "login": {
-      "accept": "Godta {0}, {1} & {2}.",
-      "description": "Hver så snill og logg inn eller lag en bruker for å fortsette:",
-      "error_password": "Passord er ikke like",
+      "accept": "Godta vår {0}, {1} & {2}.",
+      "description": "Vennligst logg inn eller lag en bruker for å fortsette:",
+      "error_password": "Passordene er ikke like",
       "password": "Passord",
       "register": "Registrer",
       "username": "Brukernavn"
@@ -251,20 +251,20 @@
       "remove": "Fjern denne spilleren.",
       "remove_title": "Fjern Sete",
       "seat_text": "(dette vil bare være synlig for deg)",
-      "seat_title": "Endre Sete Navn"
+      "seat_title": "Endre Setenavn"
     },
     "overlay": {
       "eyes_open": "Har øynene sine åpne",
-      "night_info_received": "Natt info motatt",
-      "night_info_sent": "Natt info sendt",
-      "nominate": "nominer denne spilleren",
-      "point": "Pek å denne spilleren"
+      "night_info_received": "Nattinfo mottatt",
+      "night_info_sent": "Nattinfo sendt",
+      "nominate": "Nominer denne spilleren",
+      "point": "Pek på denne spilleren"
     },
     "reminders": {
-      "add": "Legg til påminnelse",
-      "edit": "Rediger påminnelse{0}",
-      "edit_title": "Forandre påminnelse",
-      "remove": "Fjern Påminnelse{0}",
+      "add": "Legg til Påminnelse",
+      "edit": "Rediger Påminnelse{0}",
+      "edit_title": "Rediger Påminnelse",
+      "remove": "Fjern Påminnelse {0}",
       "saved_favorite": "Lagret som favoritt"
     }
   },
@@ -287,21 +287,21 @@
       "title": "Karakterer"
     },
     "chat": {
-      "accept": "Godta forespørsel",
+      "accept": "Godta Forespørsel",
       "channels": {
         "bmr_1": "Hytte",
         "bmr_2": "Sump",
-        "bmr_3": "våningshus",
+        "bmr_3": "Gårdshus",
         "custom_0": "Trylledrikkbutikk",
         "custom_1": "Tårn",
         "custom_2": "Katedral",
         "custom_3": "Leirbål",
-        "custom_4": "elvebredden",
+        "custom_4": "Elvebredden",
         "snv_0": "Urtehage",
         "snv_1": "Drivhus",
         "snv_2": "Huler",
         "snv_3": "Tempel",
-        "snv_4": "Sirkus telt",
+        "snv_4": "Sirkustelt",
         "tb_0": "Kloster",
         "tb_1": "Kirke",
         "tb_2": "Kirkegård",
