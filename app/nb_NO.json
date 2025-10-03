@@ -216,6 +216,14 @@
       "storyteller": "Historieforteller",
       "updating": "Oppdaterer...",
       "welcome": "Velkommen til {0}!"
+    },
+    "login": {
+      "accept": "Godta {0}, {1} & {2}.",
+      "description": "Hver så snill og logg inn eller lag en bruker for å fortsette:",
+      "error_password": "Passord er ikke like",
+      "password": "Passord",
+      "register": "Registrer",
+      "username": "Brukernavn"
     }
   }
 }
