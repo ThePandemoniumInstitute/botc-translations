@@ -272,6 +272,41 @@
     "access": "Tilgang",
     "copy": "Klikk for å kopiere",
     "created": "Laget {0} siden av {1}.",
-    "free": "Gratis for alle"
+    "free": "Gratis for alle",
+    "server_name": "Navn",
+    "visibility": "Synlighet",
+    "visibility_private": "Privat",
+    "visibility_public": "Offentlig"
+  },
+  "storyteller": {
+    "follow": "Følg Historieforteller",
+    "title": "Historiefortellere"
+  },
+  "tabs": {
+    "characters": {
+      "title": "Karakterer"
+    },
+    "chat": {
+      "accept": "Godta forespørsel",
+      "channels": {
+        "bmr_1": "Hytte",
+        "bmr_2": "Sump",
+        "bmr_3": "våningshus",
+        "custom_0": "Trylledrikkbutikk",
+        "custom_1": "Tårn",
+        "custom_2": "Katedral",
+        "custom_3": "Leirbål",
+        "custom_4": "elvebredden",
+        "snv_0": "Urtehage",
+        "snv_1": "Drivhus",
+        "snv_2": "Huler",
+        "snv_3": "Tempel",
+        "snv_4": "Sirkus telt",
+        "tb_0": "Kloster",
+        "tb_1": "Kirke",
+        "tb_2": "Kirkegård",
+        "tb_3": "Bibliotek"
+      }
+    }
   }
 }
