@@ -649,7 +649,167 @@
       "shuffle_title": "Aleatorizar asientos",
       "text": "Añade, mezcla o elimina los asientos de los jugadores aquí.",
       "text2": "Cuando haya suficientes asientos para todos, {0}",
-      "title": "Reúne a tus jugadores"
+      "title": "Reúne a tus jugadores",
+      "warning": "Necesitas sl menos 7 jugadores para una partida normal en Ravenswood Bluff."
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Cerrar",
+        "button_open": "Abrir",
+        "button_peek": "Mirar",
+        "state_false": "Cerrado",
+        "state_open-eyes": "Abierto",
+        "state_peek-eyes": "Mirando",
+        "text": "Tus ojos están {0}",
+        "tooltip_false": "No verás ninguna señal de otro jugador por la noche y no podrás mandar mensajes privados a nadie salvo a tus vecinos y al Narrador.",
+        "tooltip_open-eyes": "Podrás mandar y recibir mensajes privados de todos y a todos los jugadores sin importar donde estén sentados. Podrás ver el contenido de todas las señales nocturnas que se envíen y se reciban, pero hay una posibilidad de que alguien te pille.",
+        "tooltip_peek-eyes": "Podrás mandar y recibir mensajes privados de todos y a todos los jugadores sin importar donde estén sentados. Podrás ver quién envía y quién recibe señales nocturnas, pero no el contenido. Nadie puede atraparte haciéndolo."
+      }
+    },
+    "pointing": {
+      "button_countdown": "Cuenta atrás",
+      "countdown_freeze": "Congelado",
+      "nobody": "Nadie",
+      "prompt": "¡Haz click en un jugador para señalarle!",
+      "title_locked": "Jugador elegido:|Jugadores elegidos:",
+      "title_open": "Selección actual:|Selecciones actuales:",
+      "you_pointed": "Has señalado a:"
+    },
+    "reveal": {
+      "button_remaining": "Jugadores restantes",
+      "button_result": "Resultado del juego",
+      "evil": "Malvado",
+      "good": "Bueno",
+      "prompt": "Atención: ¡Esto finalizará la partida y enseñará el Grimorio al resto de jugadores!\n¿Quién ha ganado la partida?",
+      "result": "{0} ha ganado!",
+      "text": "Revela el resultado del juego y a cada jugador haciendo click en su ficha. Puedes pasar el cursor sobre la ficha para echar un vistazo a su personaje.",
+      "title": "Revelar el Grimorio"
+    },
+    "rules": {
+      "button_select": "Elige los personajes",
+      "text": "Estás preparado para {0}",
+      "text2": "Los viajeros deberán ser asignados a los jugadores antes de elegir a los personajes.",
+      "title": "Elige Personajes"
+    },
+    "towninfo": {
+      "alive": "Vivo",
+      "button_gather": "Reúne a tus Jugadores",
+      "return": "Volver al Grimorio (Atajo: {0})",
+      "text_player": "El Narrador necesita añadir más jugadores antes de que podáis empezar.",
+      "text_st": "Para empezar, primero necesitas {0}",
+      "timer_ended": "Finalizado",
+      "title": "Bienvenido a {0}."
+    },
+    "vote": {
+      "accusation": "Acusa­ción",
+      "button_chat": "Chat abierto",
+      "button_countdown": "Cuenta atrás",
+      "button_hand_down": "ABAJO",
+      "button_hand_up": "ARRIBA",
+      "button_mark": "Marca",
+      "button_mark_remove": "­Quitar marca",
+      "button_pause": "Pausa",
+      "button_reset": "Reinicio",
+      "button_restart": "Reanudar",
+      "button_resume": "Continuar",
+      "button_start": "Empezar",
+      "no_majority": "No se necesita la mayoría",
+      "pointing": "Señalando a {0}",
+      "secret": "El voto será secreto.",
+      "secret_vote": "Voto secreto",
+      "votes": "{0} voto para empatar, {1} para ejecutar|{0} votos para empatar, {1} para ejecutar",
+      "warning_shortcuts": "¡Los atajos están desactivados!"
+    },
+    "whisper": {
+      "muted": "Este jugador está apagado / silenciado en el chat de voz.",
+      "video_muted": "Este jugador tiene la cámara apagada / desactivada."
+    }
+  },
+  "pages": {
+    "banned": {
+      "description": "Tu cuenta ha sido {0} debido a tus acciones recientes y no puede seguir usándose para jugar en la App.",
+      "description_banned": "suspendido",
+      "expires": "Tu cuenta ha sido suspendida hasta:",
+      "expires2": "Por favor abstente de repetir comportamientos prohibidos o recibirás una suspensión permanente.",
+      "footer1": "Si necesitas asistencia, por favor contáctenos vía {0}.",
+      "footer2": "Recuerda:",
+      "footer3": "Asesina con elegancia y muere con dignidad.",
+      "permanent": "Tu cuenta ha sido suspendida permanentemente.",
+      "reason": "Se ha proporcionado la siguiente razón:",
+      "title": "Cuenta suspendida"
+    },
+    "clock": {
+      "description_mins": "1 minuto|{n} minutos",
+      "description_online": "En línea",
+      "return": "Volver a la App",
+      "title": "Por favor, ajusta el reloj de tu ordenador"
+    },
+    "lobby": {
+      "button_create_game": "Crear partida",
+      "button_help": "Ayuda",
+      "button_join_game": "Unirse a partida privada",
+      "button_local_play": "Partida local",
+      "button_quit": "Salir",
+      "button_settings": "Ajustes",
+      "button_verify": "Verificar cuenta",
+      "characters": "Personajes",
+      "create_game": "Crear nueva partida",
+      "edition_by": "Por {author}",
+      "forced_private": "No puedes jugar en partidas públicas.",
+      "free_tier_verify": "verifica tu cuenta",
+      "game": "Partida",
+      "language": "Idioma",
+      "loading": "Cargando partidas...",
+      "no_games": "No se han encontrado partidas públicas.",
+      "page": "Página {page} de {total}",
+      "phase": "Fase",
+      "players": "Jugadores",
+      "script": "Guión",
+      "show_private": "Mostrar partidas privadas",
+      "spectators": "Espectadores",
+      "stats": "{0} usuarios están en {1}{2} partidas",
+      "stats_public": "pública",
+      "storyteller": "Narrador",
+      "updating": "Actualizando...",
+      "welcome": "¡Bienvenido a {0}!"
+    },
+    "login": {
+      "description": "Por favor, inicia sesión o regístrate para continuar:",
+      "email": "Cuenta de correo electrónico",
+      "error_captcha": "Por favor completa el captcha",
+      "error_password": "Las contraseñas no coinciden",
+      "login": "Iniciar sesión",
+      "password": "Contraseña",
+      "password_confirm": "Confirmar contraseña",
+      "password_reset": "Las instrucciones para crear una nueva contraseña se han mandado al correo electrónico asociado.",
+      "recover_password": "Recuperar contraseña",
+      "register": "Registrar",
+      "subscribe": "Suscribirse a la lista de correos",
+      "title": "Bienvenido a Blood on the Clocktower en línea - ¡En construcción!",
+      "username": "Nombre de usuario"
+    },
+    "update": {
+      "reload": "Por favor vuelve a cargar la pagina o borra el caché de tu explorador para actualizar.",
+      "title": "Por favor, actualiza tu app"
+    },
+    "verification": {
+      "button_resend": "Volver a mandar el código",
+      "code": "Código de 6 dígitos",
+      "description": "Por favor verifica tu cuenta para continuar. Hemos mandado un código a tu correo electrónico - introdúcelo para proceder. ¿No puedes acceder a ese correo electrónico?",
+      "email_success": "Correo electrónico enviado.",
+      "error_429": "Por favor espera al menos {0} segundos antes de volver a intentarlo.",
+      "error_disposable": "Cuentas de correo electrónico desechables no pueden ser usadas para verificar la cuenta.",
+      "error_verified": "Ya verificado",
+      "error_wrong": "Código incorrecto, por favor, vuelve a intentarlo.",
+      "link": "Puedes cambiarlo aquí."
+    }
+  },
+  "player": {
+    "menu": {
+      "alignment": "Cambiar alineamiento",
+      "character": "Cambiar personaje",
+      "chat": "Solicitar chat privado",
+      "empty": "Asiento vacío"
     }
   }
 }
