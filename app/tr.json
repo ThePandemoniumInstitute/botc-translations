@@ -1,1 +1,66 @@
-{}
+{
+  "common": {
+    "button_cancel": "İptal",
+    "button_close": "Kapat",
+    "button_confirm": "Onayla",
+    "button_continue": "Devam et",
+    "button_logout": "Çıkış yap",
+    "button_search": "Ara",
+    "button_send": "Gönder",
+    "cookie_policy": "Çerez Politikası",
+    "privacy_policy": "Gizlilik Politikası",
+    "session-tags": {
+      "cameras": {
+        "label": "Kameralar",
+        "title": "Bu oyun oturumunda kameralar açık",
+        "value_0": "İsteğe bağlı",
+        "value_1": "Zorunlu",
+        "value_2": "Kapalı"
+      },
+      "difficulty": {
+        "label": "Zorluk",
+        "title": "Bu oyun oturumunda ki oyunculardan beklenen deneyim seviyesi",
+        "value_0": "Ortalama",
+        "value_1": "Tecrübeli",
+        "value_2": "Acemi"
+      },
+      "grimoire": {
+        "label": "Grimoire Erişimi",
+        "title": "İzleyiciler Grimoire erişimi edinebilir",
+        "value_0": "Sor",
+        "value_1": "Hayır",
+        "value_2": "Evet"
+      },
+      "streaming": {
+        "label": "Oyun yayınlanıyor",
+        "title": "Bu oyun oturumu yayınlanacaktır",
+        "value_0": "Hayır",
+        "value_1": "Evet"
+      },
+      "subscription": {
+        "label": "Abonelik Gerekiyor",
+        "title": "Bu oyuna katılmak aktif bir abonelik gerektiriyor"
+      },
+      "travellers": {
+        "label": "Gezginler",
+        "value_0": "Seçime bağlı",
+        "value_1": "Evet",
+        "value_2": "Hayır"
+      }
+    },
+    "terms_of_use": "Kullanım Koşulları",
+    "unnamed_user": "İsimsiz kullanıcı"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "Rolleri dağıt",
+      "ghost-votes": "Hayalet Oylarını Geri Ver",
+      "grimoire": "Grimoire'ı Göster",
+      "open-eyes": "Gözleri Kapat/Aç",
+      "pointing": "Oyuncu Seç"
+    },
+    "demon": "Şeytan|Şeytanlar",
+    "fabled": "Efsane|Efsaneler",
+    "minion": "Yardakçı|Yardakçılar"
+  }
+}
