@@ -38,7 +38,7 @@
         "value_2": "Evet"
       },
       "streaming": {
-        "label": "Oyun yayınlanıyor",
+        "label": "Oyun Yayınlanıyor",
         "title": "Bu oyun oturumu yayınlanacaktır",
         "value_0": "Hayır",
         "value_1": "Evet"
@@ -80,6 +80,7 @@
   "main-menu": {
     "cast_vote": "Oy Kullan",
     "change_icon": "Simgeyi değiştirmek için tıkla",
-    "char_sheet": "Karakter Kâğıdı"
+    "char_sheet": "Karakter Kâğıdı",
+    "characters": "Karakterleri Seç"
   }
 }
