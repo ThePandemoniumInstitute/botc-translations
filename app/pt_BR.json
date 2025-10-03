@@ -82,7 +82,7 @@
       "description_mins": "1 minuto|{n} minutos",
       "description_online": "online",
       "return": "Retornar ao Aplicativo",
-      "title": "Por favor, ajuste o relógio do seu computador"
+      "title": "Ajuste o relógio do seu computador"
     },
     "lobby": {
       "button_create_game": "Criar Jogo",
@@ -117,14 +117,35 @@
     },
     "login": {
       "accept": "Aceite nossos {0}, {1} e {2}.",
-      "description": "Por favor, faça login ou crie uma conta para continuar:",
+      "description": "Faça login ou crie uma conta para continuar:",
       "email": "Endereço de Email",
-      "error_captcha": "Por favor, complete o captcha",
+      "error_captcha": "Complete o captcha",
       "error_password": "As senhas não coincidem",
-      "login": "Usuário",
+      "login": "Login",
       "password": "Senha",
       "password_confirm": "Confirmação da Senha",
-      "password_reset": "As instruções para redefinir sua senha foram enviadas para o endereço de email associado."
+      "password_reset": "As instruções para redefinir sua senha foram enviadas para o endereço de email associado.",
+      "recover_password": "Recuperar Senha",
+      "register": "Registrar",
+      "subscribe": "Inscrever-se na Lista de Discussão",
+      "title": "Bem-vindo ao Blood On the Clocktower Online - Em Construção!",
+      "username": "Usuário"
+    },
+    "update": {
+      "description": "Atualmente, você está utilizando a versão {0}, mas a versão mais recente é {1}.",
+      "download": "Baixe a versão mais recente {label} aqui.",
+      "reload": "Recarregue a página ou limpe o cachê do seu navegador para atualizar.",
+      "title": "Atualize seu Aplicativo"
+    },
+    "verification": {
+      "button_resend": "Reenviar código",
+      "code": "Código de 6 dígitos",
+      "description": "Verifique sua conta para continuar. Enviamos um código para seu endereço de email. Insira-o para continuar. Não consegue acessar esse endereço de email?",
+      "email_success": "Email enviado com sucesso.",
+      "error_429": "Aguarde pelo menos {0} segundos antes de tentar novamente.",
+      "error_disposable": "Endereços de email descartáveis não podem ser usados para verificação de conta.",
+      "error_verified": "Já verificada",
+      "error_wrong": "Código incorreto, tente novamente."
     }
   },
   "tabs": {
