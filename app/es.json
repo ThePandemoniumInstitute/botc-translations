@@ -168,7 +168,18 @@
         "add_storyteller": "Error al agregar Cuentista",
         "avatar": "Error al cargar el avatar",
         "avatar_generic": "Algo salió mal al cargar su avatar.",
-        "avatar_pixel": "Su imagen era demasiado grande. Por favor redúcela a menos de 4000x4000 antes de volver a subirla."
+        "avatar_pixel": "Su imagen era demasiado grande. Por favor redúcela a menos de 4000x4000 antes de volver a subirla.",
+        "avatar_size": "Su archivo era demasiado grande. Por favor inténtelo de nuevo con una imagen de menos de 5 MB.",
+        "avatar_type": "Su archivo no fue reconocido como imagen.",
+        "bluffs": "Error al actualizar los faroles",
+        "chat2_text": "El chat parece estar desconectado",
+        "chat2_title": "Servidor de Chat Desconectado",
+        "chat_text": "Se perdió la conexión con el servidor de chat, intentando reconectarme...\n Mensaje de error: {0}",
+        "chat_title": "Se produjo un error de conexión de chat",
+        "claiming": "Error al reclamar el asiento",
+        "clear_grim": "No se puede borrar el Grimoire",
+        "connection": "Se produjo un error de conexión",
+        "edition_change": "Error al cambiar la edición"
       }
     }
   }
