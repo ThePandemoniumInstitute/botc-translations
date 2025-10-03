@@ -292,9 +292,37 @@
       "custom_favorite": "Lagret som favoritt",
       "custom_note": "Egendefinert notat",
       "tab1": "Relevante påminnelser",
-      "tab2": "Andre Påminnelser"
+      "tab2": "Andre Påminnelser",
+      "title": "Legg til hjelpebrikke til {0}"
+    },
+    "role": {
+      "error_character": "Ingen karakter som ligner {0}funnet.",
+      "error_traveller": "Ingen reisende som ligner {0}funnet.",
+      "tab_character": "Tilgjengelige karakterer",
+      "tab_traveller": "Andre reisende",
+      "title": "Velg en{alignment} {target}",
+      "title_alignment_e": "Ond",
+      "title_alignment_g": "God",
+      "title_target_bluff": "bløff",
+      "title_target_other": "karakter",
+      "title_target_player": "karakter for {0}"
+    },
+    "roles": {
+      "button_distribute": "Send ut {0} karakterer",
+      "button_shuffle": "Bland",
+      "button_sort": "Sorter",
+      "title": "velg karakterene for{0}",
+      "title_players": "spillere",
+      "warning": "Advrsel: det er karakterer valgt som kan midifisere spill oppsetter! Du må regne med disse selv."
+    },
+    "rules": {
+      "title": "Regler"
     },
     "settings": {
+      "background_placeholder": "URL til bakgrunnsbilde",
+      "button_always": "Alltid",
+      "button_edit": "Endre bruker",
+      "button_setup": "Kjør oppsettet",
       "shortcuts": {
         "toggleEdition": "Velg Utgave",
         "toggleFullscreen": "Fullskjerm",
