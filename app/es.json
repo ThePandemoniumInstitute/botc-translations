@@ -265,14 +265,47 @@
       "button_url": "URL",
       "clear_description": "Esto borrará los tokens del Grimorio y el Recordatorio para ti y para todos los demás. ¿Está seguro?",
       "clear_title": "Borrar Grimorio y Tokens del Recordatorio",
-      "custom_placeholder": "URL de Script Personalizado",
-      "custom_text": "Ingrese la URL a un archivo script-personalizado.json",
-      "custom_title": "Cargar Script Personalizado",
+      "custom_placeholder": "URL de Guion Personalizado",
+      "custom_text": "Ingrese la URL a un archivo guion-personalizado.json",
+      "custom_title": "Cargar Guion Personalizado",
       "difficulty": "Dificultad:",
       "difficulty_beginner": "Principiante",
       "difficulty_intermediate": "Intermedio",
       "difficulty_various": "Varios",
-      "error_character": "Demasiados personajes"
+      "error_character": "Demasiados personajes",
+      "error_character_text": "Este guion contiene más de 200 personajes - por favor elimine algunos de ellos.",
+      "error_custom": "Error al cargar el guion personalizado",
+      "error_loading": "Algunos personajes no se pueden cargar: {0}",
+      "error_script": "El guion no es válido",
+      "error_size": "El tamaño del archivo es demasiado grande",
+      "error_size_text": "El guion que elegiste tiene un tamaño de {0}MB, pero el tamaño máximo es de {1}MB.",
+      "homebrew_description": "Las imágenes personalizadas de guiones de Homebrew se han reemplazado por iconos genéricos por razones de seguridad. Puede habilitarlos en el menú de configuración.",
+      "homebrew_title": "Imágenes Personalizadas Deshabilitadas",
+      "release_script": "Guion de Lanzamiento del Personaje {role}:",
+      "theme": "Tema:",
+      "theme_generic": "Tema genérico:",
+      "title": "Elige una edición:",
+      "upload_custom": "Cargar Guion Personalizado JSON"
+    },
+    "fabled": {
+      "title": "Agregar Personaje Mítico"
+    },
+    "help": {
+      "button_send": "Enviar Datos de Depuración de la Sesión",
+      "button_stop": "Detener el Envío de Datos de Depuración",
+      "link_0": "Rastreador de problemas",
+      "link_1": "por correo electrónico",
+      "link_2": "aquí",
+      "link_3": "nuestra tienda en línea",
+      "session_debug": "¿Tienes algún error? Puede enviar información sobre su sesión e historial reciente a nuestro sistema de seguimiento de errores, lo que nos ayudará a identificar los problemas que tiene:",
+      "session_debug2": "Tu sesión en la aplicación se está rastreando y se nos enviará automáticamente. Puede detener este rastreo manualmente haciendo clic en el botón de abajo o recargando la aplicación.",
+      "text1": "Esta aplicación (versión {version}) está actualmente en construcción.",
+      "text2": "Puede enviar comentarios a través de la página {0} o {1}. Puede actualizar la dirección de correo electrónico y la contraseña de su cuenta {2}. Si quiere comprar el juego físico, echa un vistazo a {3}.",
+      "welcome": "¡Bienvenido a {0}!"
+    },
+    "reminder": {
+      "custom_favorite": "Guardado como favorito",
+      "custom_note": "Nota personalizada"
     }
   }
 }
