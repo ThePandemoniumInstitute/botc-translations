@@ -180,6 +180,7 @@
         "chat2_title": "Serveur de Chat Déconnecté",
         "chat_text": "Connexion perdue avec le serveur de chat, tentative de reconnexion…\n Message d’erreur : {0}",
         "chat_title": "Une erreur de connexion au chat s'est produite",
+        "claiming": "Erreur en récupérant un siège",
         "clear_grim": "Impossible de vider le Grimoire",
         "connection": "Une erreur de connexion s'est produite",
         "edition_change": "Erreur lors du changement d'édition",
