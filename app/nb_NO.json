@@ -291,7 +291,8 @@
     "reminder": {
       "custom_favorite": "Lagret som favoritt",
       "custom_note": "Egendefinert notat",
-      "tab1": "Relevante påminnelser"
+      "tab1": "Relevante påminnelser",
+      "tab2": "Andre Påminnelser"
     },
     "settings": {
       "shortcuts": {
