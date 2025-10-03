@@ -1,5 +1,11 @@
 {
   "common": {
+    "account-levels": {
+      "free": "Bedava",
+      "patreon-demon": "Şeytan katmanı",
+      "patreon-minion": "Yardakçı katmanı",
+      "patreon-townsfolk": "Kasabalı katmanı"
+    },
     "button_cancel": "İptal",
     "button_close": "Kapat",
     "button_confirm": "Onayla",
@@ -61,6 +67,19 @@
     },
     "demon": "Şeytan|Şeytanlar",
     "fabled": "Efsane|Efsaneler",
-    "minion": "Yardakçı|Yardakçılar"
+    "minion": "Yardakçı|Yardakçılar",
+    "players": "Oyuncular",
+    "seat": "Koltuk {0}",
+    "shroud": "Kefen",
+    "storyteller": "Hikâyeci {0}",
+    "storytellers": "Hikâyeciler",
+    "token": "Pul",
+    "townsfolk": "Kasabalı|Kasabalılar",
+    "traveller": "Gezgin|Gezginler"
+  },
+  "main-menu": {
+    "cast_vote": "Oy Kullan",
+    "change_icon": "Simgeyi değiştirmek için tıkla",
+    "char_sheet": "Karakter Kâğıdı"
   }
 }
