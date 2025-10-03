@@ -34,6 +34,7 @@
       },
       "travellers": {
         "label": "Podróżnicy",
+        "value_0": "Opcjonalne",
         "value_1": "Tak",
         "value_2": "Nie"
       }
