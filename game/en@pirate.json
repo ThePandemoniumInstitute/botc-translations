@@ -1,4 +1,7 @@
 {
+  "reminders": {
+    "redherring": "Bloody Herring"
+  },
   "roles": {
     "acrobat": {
       "ability": "Ev'ry moon*, pick a matey: if they is or get tipsy or seasick this moon, ye be joining the Locker.",
