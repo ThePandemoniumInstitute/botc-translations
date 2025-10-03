@@ -2,7 +2,14 @@
   "common": {
     "account-levels": {
       "free": "Gratuit",
-      "patreon-demon": "Niveau de Demon"
-    }
+      "patreon-demon": "Niveau de Demon",
+      "patreon-minion": "Niveau de Minion",
+      "patreon-townsfolk": "Niveau de Townsfolk",
+      "special-free": "Offert",
+      "special-moderator": "Modérateur",
+      "special-tpi": "Personnel de TPI"
+    },
+    "botc_online": "BOTC En Ligne",
+    "button_cancel": "Annuler"
   }
 }
