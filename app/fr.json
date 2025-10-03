@@ -52,6 +52,7 @@
         "title": "Rejoindre cette partie requiert un abonnement actif"
       },
       "travellers": {
+        "label": "Voyageur",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
@@ -110,6 +111,7 @@
     "set_timer": "Mettre Un Chrono",
     "settings": "Paramètres",
     "show_grim": "Montrer Le Grimoire",
+    "storyteller_remove": "Se retirer en temps que Conteur",
     "tab_app": "App",
     "tab_during_game": "En Cours De Jeu",
     "tab_new_game": "Nouvelle Partie",
@@ -122,6 +124,8 @@
   },
   "modals": {
     "dialogue": {
+      "button_evil": "Le mal gagne",
+      "button_good": "Le bien gagne",
       "button_no": "Non",
       "button_yes": "Oui",
       "close_timer": "Cette pop-up se fermera automatiquement dans {n}s.",
