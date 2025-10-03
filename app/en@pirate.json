@@ -32,6 +32,22 @@
     "outsider": "Stowaway|Stowaways",
     "phases": {
       "end": "Land ho"
-    }
+    },
+    "player": "Matey {0}",
+    "players": "Mateys",
+    "storyteller": "Captain {0}",
+    "townsfolk": "Crewmate|Crewmates"
+  },
+  "main-menu": {
+    "cast_vote": "Say Aye",
+    "char_sheet": "Station List",
+    "characters": "Choose Stations",
+    "edition": "Choose Sea",
+    "grim_access": "The Captain let you see the Map",
+    "night_info": "Moon's Knowin'",
+    "night_info_text": "The Captain roused ye this moon!",
+    "request_private": "Ask t' Talk Alone",
+    "reveal_grim": "Show the Map",
+    "tab_new_game": "New Journey"
   }
 }
