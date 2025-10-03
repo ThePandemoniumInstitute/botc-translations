@@ -5,7 +5,7 @@
       "patreon-demon": "Nivel demonio",
       "patreon-minion": "Nivel de esbirro",
       "patreon-townsfolk": "Nivel de aldeano",
-      "special-free": "De favor",
+      "special-free": "De obsequio",
       "special-moderator": "Moderador",
       "special-tpi": "Empleado de TPI"
     },
@@ -62,7 +62,7 @@
     "terms_of_use": "Términos de uso",
     "title": "Sangre en la Torre del Reloj en Línea",
     "trademark": "\"Blood on the Clocktower\" es una marca registrada de Steven Medway y The Pandemonium Institute.",
-    "unnamed_user": "Usador sin nombre"
+    "unnamed_user": "Usuario sin nombre"
   },
   "grimoire": {
     "abilities": {
