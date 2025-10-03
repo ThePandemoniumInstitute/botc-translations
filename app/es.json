@@ -516,7 +516,10 @@
       "cards": {
         "ability": "¿Desea Usar su habilidad?",
         "acknowledge": "Entiendo",
-        "anticlockwise": "Antihorario"
+        "anticlockwise": "Antihorario",
+        "bluffs": "Estos personajes no están en juego",
+        "choice": "Elige",
+        "claim": "Este jugador es"
       }
     }
   },
