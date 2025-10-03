@@ -179,7 +179,17 @@
         "claiming": "Error al reclamar el asiento",
         "clear_grim": "No se puede borrar el Grimoire",
         "connection": "Se produjo un error de conexión",
-        "edition_change": "Error al cambiar la edición"
+        "edition_change": "Error al cambiar la edición",
+        "end": "Error al finalizar el juego",
+        "eyes_close": "Incapaz de cerrar los ojos",
+        "eyes_open": "Incapaz de abrir los ojos",
+        "fabled": "Error al actualizar personaje mítico",
+        "generic": "Ocurrió un error",
+        "kick": "Incapaz de patear al usuario",
+        "link_text": "Hubo un error al vincular su cuenta a Patreon. Por favor inténtalo de nuevo.",
+        "link_title": "Error al vincular la cuenta a Patreon",
+        "loading_text": "Algo salió mal al intentar cargar los datos de la aplicación, la página se volverá a cargar.",
+        "loading_title": "Error al cargar los datos de la aplicación"
       }
     }
   }
