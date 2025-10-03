@@ -1,7 +1,11 @@
 {
   "common": {
     "account-levels": {
-      "special-moderator": "Moderador"
+      "patreon-demon": "Nivel Demonio",
+      "patreon-minion": "Nivel Secuaz",
+      "patreon-townsfolk": "Nivel Aldeano",
+      "special-moderator": "Moderador",
+      "special-tpi": "Empleado de TPI"
     },
     "botc_online": "BOTC En línea",
     "button_cancel": "Cancelar",
@@ -13,11 +17,15 @@
     "button_send": "Enviar",
     "session-tags": {
       "cameras": {
+        "label": "Camaras",
+        "title": "Si camaras están siendo usadas en esta sesión de juego",
         "value_0": "Opcional",
         "value_1": "Requerido"
       },
       "difficulty": {
         "label": "Dificultad",
+        "value_0": "Promedio",
+        "value_1": "Veterano",
         "value_2": "Principiante"
       },
       "grimoire": {
@@ -34,7 +42,12 @@
         "value_1": "Si"
       },
       "subscription": {
-        "label": "Suscripción Requerida"
+        "label": "Suscripción Requerida",
+        "title": "Unirse a este juego requiere una suscripción activa"
+      },
+      "travellers": {
+        "label": "Viajero",
+        "title": "Si viajeros son permitidos en esta sesión de juego"
       }
     }
   }
