@@ -2,6 +2,12 @@
   "common": {
     "account-levels": {
       "free": "Gratis"
+    },
+    "trademark": "\"Blood on the Clocktower\" is een handelsmerk van Steven Medway en The Pandemonium Institute."
+  },
+  "grimoire": {
+    "abilities": {
+      "pointing": "Kies een speler"
     }
   }
 }
