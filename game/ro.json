@@ -1,1 +1,14 @@
-{}
+{
+  "editions": {
+    "bmr": {
+      "description": "...este o extravaganță a morții. Demonii ucid de mai multe ori pe noapte, iar Minionii se implică și ei în această acțiune. Jucătorii buni își pot asuma riscuri mari pentru a primi informație de încredere, dar în acest proces s-ar putea să își ucidă accidental prietenii. Din fericire, există multe modalități de a menține jucători în viață cu mult după ce le-a trecut termenul de expirare. Cu toate acestea, dacă echipa bună nu poate să determine care dintre Minioni și Demoni sunt în joc, mai mult ca sigur vor avea parte de o soartă sumbră.",
+      "name": "Răsăritul Lunii Malefice"
+    },
+    "custom": {
+      "name": "Scenariu Personalizat"
+    },
+    "snv": {
+      "name": "Secte & Violete"
+    }
+  }
+}
