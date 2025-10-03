@@ -9,5 +9,28 @@
     "abilities": {
       "pointing": "Kies een speler"
     }
+  },
+  "main-menu": {
+    "error_audio4": "verander een instelling",
+    "prompt_vacate_title": "Verlaten Stoel",
+    "vacate_seat": "Verlaten Stoel"
+  },
+  "modals": {
+    "dialogue": {
+      "error": {
+        "avatar_generic": "Er ging iets fout bij het je avatar."
+      }
+    },
+    "edition": {
+      "clear_title": "Wis Grimoire en Herinnering Fisches"
+    },
+    "help": {
+      "link_0": "probleem jager",
+      "link_3": "onze online winkel",
+      "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:"
+    },
+    "settings": {
+      "css_text": "Je kunt hier het uiterlijk van je app aanpassen door een URL naar een aangepast CSS bestand of de CSS code zelf in te voeren. Het Pandemonium Institute is niet verantwoordelijk voor CSS code die door andere gebruikers wordt aangeleverd. Het laden van schadelijke CSS code kan je app onbruikbaar maken."
+    }
   }
 }
