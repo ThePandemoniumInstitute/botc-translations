@@ -1,5 +1,58 @@
 {
+  "editions": {
+    "homebrew": {
+      "name": "Hjemmebrygg"
+    }
+  },
   "reminders": {
-    "abouttodie": "Kommer til å dø"
+    "2nd": "2.",
+    "abnormal": "Abnormal",
+    "abouttodie": "Kommer til å dø",
+    "alive": "Levende",
+    "chosen": "Valgt",
+    "correct": "Korrekt",
+    "cursed": "Forbannet",
+    "dead": "Død",
+    "drunk": "Full",
+    "evil": "Ond",
+    "friend": "Venn",
+    "good": "God",
+    "grandchild": "Barnebarn",
+    "know": "Kjenner",
+    "lunch": "Lunsj",
+    "mad": "Gal",
+    "poisoned": "Forgiftet",
+    "protected": "Beskyttet",
+    "safe": "Trygg",
+    "townsfolk": "Innbygger",
+    "twin": "Tvilling",
+    "visitor": "Besøkende",
+    "wrong": "Feil"
+  },
+  "roles": {
+    "acrobat": {
+      "name": "Akrobat"
+    },
+    "alchemist": {
+      "name": "Alkymist"
+    },
+    "angel": {
+      "name": "Engel"
+    },
+    "apprentice": {
+      "name": "Lærling"
+    },
+    "artist": {
+      "name": "Kunstner"
+    },
+    "assassin": {
+      "name": "Snikmorder"
+    },
+    "atheist": {
+      "name": "Ateist"
+    },
+    "barber": {
+      "name": "Barberer"
+    }
   }
 }
