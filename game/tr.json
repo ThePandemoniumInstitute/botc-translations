@@ -323,6 +323,7 @@
     },
     "flowergirl": {
       "ability": "Her gece*, bugün bir Şeytanın oy kullanıp kullanmadığını öğrenirsin.",
+      "name": "Çiçekçi",
       "other": "Olumlu ya da olumsuz kafa salla."
     },
     "fool": {
@@ -659,6 +660,9 @@
       "ability": "Her gün, Hikâyeciyi ziyaret edip gizlice 2 şey öğrenebilirsin: 1'i doğru, 1'i ise yanlış.",
       "flavor": "Yerde yetmiş iki tane kibrit... güneş erken batıyor ama ay değişmiyor... yırtık bir kumaş parçası... köşkte kötü güçler... üç çarpı üç... güvendiğimiz kişi göründüğü gibi değil... yeşil ışık magnezyum demek... kalıntı ama deseni yanlış... Yerde yetmiş iki tane kibrit...",
       "name": "Savant"
+    },
+    "scapegoat": {
+      "name": "Günâh Keçisi"
     },
     "scarletwoman": {
       "name": "Kızıl Kadın"
