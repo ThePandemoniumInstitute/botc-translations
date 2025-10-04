@@ -102,6 +102,7 @@
     "download": "Last ned {0} App",
     "edition": "Velg utgave",
     "error_audio": "Nettleseren din hindret applikasjonen i å {0}. Vennligst klikk her for å starte samtalen.",
+    "error_audio2": "automatisk avspilling av stemmechat",
     "error_audio4": "Endre en innstilling",
     "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
