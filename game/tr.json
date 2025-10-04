@@ -22,6 +22,36 @@
     "alive": "Hayatta",
     "diedtoday": "Bugün Öldü",
     "doesntkill": "Öldürmüyor",
-    "drunk": "Sarhoş"
+    "drunk": "Sarhoş",
+    "storytellerability": "Hikâyeci'nin Yeteneği",
+    "townsfolk": "Kasabalı",
+    "turnsevil": "Kötüye Döner",
+    "twin": "İkiz",
+    "visitor": "Ziyaretçi",
+    "wrong": "Yanlış"
+  },
+  "roles": {
+    "acrobat": {
+      "name": "Akrobat"
+    },
+    "alchemist": {
+      "name": "Simyacı"
+    },
+    "amnesiac": {
+      "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
+    },
+    "artist": {
+      "ability": "Oyunda bir kez, gündüz boyunca, Hikâyeci'ye gizli bir şekilde herhangi bir evet/hayır sorusu sorabilirsin.",
+      "name": "Sanatçı"
+    },
+    "assassin": {
+      "ability": "Oyunda bir kez, gecede*, bir oyuncu seç: herhangi bir sebepten dolayı ölemiyorlarsa bile, ölürler.",
+      "flavor": "..."
+    },
+    "bishop": {
+      "ability": "Sadece Hikâyeci aday gösterebilir. Her gün en az 1 karşıt oyuncu her gün aday gösterilmelidir.",
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
+      "name": "Piskopos"
+    }
   }
 }
