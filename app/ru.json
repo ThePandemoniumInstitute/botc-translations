@@ -347,6 +347,7 @@
       "background_title": "Пользовательский Фон",
       "button_always": "Всегда",
       "button_edit": "Изменить Учетную Запись",
+      "setting_audio_deafen": "Слышать голосовой чат",
       "setting_colorblind": "Режим Цветовой Слепоты: {0}",
       "setting_cosmetics": "Показать Косметику Игроков",
       "setting_echo_cancellation": "Эхоподавление",
