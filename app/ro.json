@@ -1,1 +1,97 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratuit",
+      "patreon-demon": "Nivel Demon",
+      "special-free": "Oferit",
+      "special-moderator": "Moderator",
+      "special-tpi": "Personal TPI"
+    },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Anulare",
+    "button_close": "Închide",
+    "button_confirm": "Confirmă",
+    "button_continue": "Continuă",
+    "button_logout": "Delogare",
+    "button_search": "Caută",
+    "button_send": "Trimite",
+    "cookie_policy": "Politica de Cookie-uri",
+    "privacy_policy": "Politica de Confidențialitate",
+    "session-tags": {
+      "cameras": {
+        "label": "Camere",
+        "value_0": "Opțional",
+        "value_1": "Obligatoriu"
+      },
+      "difficulty": {
+        "label": "Dificultate",
+        "value_0": "Mediu",
+        "value_1": "Veteran",
+        "value_2": "Începător"
+      },
+      "grimoire": {
+        "label": "Acces la Grimoar",
+        "value_0": "Întreabă",
+        "value_1": "Nu",
+        "value_2": "Da"
+      },
+      "streaming": {
+        "label": "Jocul este transmis în direct",
+        "title": "Sesiunea de joc va fi transmisă în direct",
+        "value_0": "Nu",
+        "value_1": "Da"
+      },
+      "travellers": {
+        "label": "Călători",
+        "value_0": "Opțional",
+        "value_1": "Da",
+        "value_2": "Nu"
+      }
+    },
+    "terms_of_use": "Termeni de Utilizare",
+    "title": "Blood on the Clocktower Online",
+    "trademark": "\"Blood on the Clocktower\" este o marcă înregistrată a lui Steven Medway și a The Pandemonium Institute.",
+    "unnamed_user": "Utilizator fără nume"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "Împarte Rolurile"
+    },
+    "demon": "Demon|Demoni",
+    "minion": "Minion|Minioni",
+    "outsider": "Străin|Străini",
+    "phases": {
+      "day": "Prima Zi|Ziua {n}",
+      "end": "Între jocuri",
+      "first_night": "Prima Noapte",
+      "night": "Prima Noapte|Noaptea {n}",
+      "other_nights": "Celelalte Nopți",
+      "start": "Pregătirea Nopții 1"
+    },
+    "player": "Jucătorul {0}",
+    "players": "Jucători",
+    "seat": "Scaunul {0}",
+    "shroud": "Giulgiu",
+    "storytellers": "Povestitorii",
+    "token": "Jeton",
+    "townsfolk": "Orășean|Orășeni",
+    "traveller": "Călător|Călători"
+  },
+  "main-menu": {
+    "cast_vote": "Exprimă Votul",
+    "change_icon": "Clic pentru a schimba iconița",
+    "char_sheet": "Fișa Caracterelor",
+    "characters": "Alege Caracterele",
+    "clear_grim": "Șterge Grimoarul",
+    "download": "Descarcă {0} App",
+    "edition": "Selectează Ediția",
+    "gather": "Adună-ți Jucătorii",
+    "grim_access": "Ți s-a oferit acces la Grimoar",
+    "grim_request": "Un spectator a solicitat acces la Grimoar",
+    "help": "Ajutor",
+    "leave": "Părăsește Jocul",
+    "mute_cam": "Dezactivează-ți camera [{0}]",
+    "mute_mic": "Pune-ți microfonul pe mut [{0}]",
+    "night_info_text": "Povestitorul te-a trezit în această noapte!"
+  }
+}
