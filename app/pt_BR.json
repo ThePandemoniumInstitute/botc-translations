@@ -355,6 +355,7 @@
       "css_apply": "Aplicar CSS personalizado?",
       "css_confirm": "Sei o que estou fazendo, permitir mudar a aparência do meu aplicativo",
       "css_confirm2": "Confirme que deseja manter as mudanças do CSS personalizado. Caso contrário, elas serão desativadas automaticamente.",
+      "css_text": "Você pode modificar a aparência do seu aplicativo ao inserir uma URL para um arquivo de CSS Personalizado, ou o próprio código CSS. The Pandemonium Institute não é responsável por código CSS providenciado por outros usuários. Carregar código CSS malicioso pode quebrar seu aplicativo!",
       "css_title": "Inserir CSS personalizado",
       "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP dessa maneira. The Pandemonium Institute não tem controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
@@ -544,44 +545,204 @@
       "grimoire": "O Grimório",
       "message": "Mensagem:",
       "player": "Jogador",
-      "player_text": "Selecione um jogador clicando na sua ficha no Grimório."
+      "player_text": "Selecione um jogador clicando na sua ficha no Grimório.",
+      "prompt_custom_placeholder": "Mensagem personalizada",
+      "prompt_custom_player": "O que você deseja perguntar ao Narrador?",
+      "prompt_custom_st": "O que você deseja dizer ao jogador?",
+      "prompt_custom_title": "Enviar mensagem personalizada",
+      "received": "Recebido",
+      "response": "Resposta:",
+      "saw_this": "{0} viu isto",
+      "sent": "Enviado",
+      "storyteller": "Narrador|Narradores",
+      "title": "Acordar {0}",
+      "title_character": "Escolha um personagem",
+      "title_player": "Escolha um jogador",
+      "title_spec": "O Narrador acordou {0}:",
+      "title_st": "O Narrador acordou você:",
+      "warning_dead": "Este jogador está morto.",
+      "warning_droison": "Este jogador está bêbado / envenenado.",
+      "warning_vortox": "Habilidades de Cidadão produzem informação falsa."
     },
     "update": {
-      "bugfix": "Correção de Bugs"
+      "bugfix": "Correção de Bugs",
+      "feature": "Novas Funcionalidades",
+      "general": "Mudanças Gerais",
+      "other": "Outras Mudanças",
+      "title": "Novas Atualizações:"
     },
     "user": {
-      "prompt_st": "Você realmente quer fazer de {0} um Narrador?\n Depois que esta pessoa confirmar, ela terá todos os poderes de um Narrador e acesso ao Grimório."
+      "button_add_st": "Adicionar Narrador",
+      "button_cancel_st": "Cancelar Solicitação de Narrador",
+      "button_kick_user": "Expulsar Usuário",
+      "button_mod_user": "Transformar Usuário em Moderador",
+      "button_remove_st": "Remover Narrador",
+      "error": "Ocorreu um erro ao carregar os detalhes do usuário.",
+      "grimoire_access_grant": "Dar Acesso ao Grimório",
+      "grimoire_access_revoke": "Revogar Acesso ao Grimório",
+      "loading": "Carregando usuário...",
+      "prompt_kick": "Quer realmente remover {0} da partida?",
+      "prompt_st": "Você realmente quer fazer de {0} um Narrador?\n Depois que esta pessoa confirmar, ela terá todos os poderes de um Narrador e acesso ao Grimório.",
+      "title": "Perfil de usuário"
     },
     "users": {
-      "chat_connection": "Tipo de conexão de chat"
+      "chat_connection": "Tipo de conexão de chat",
+      "grim_access": "Acesso ao Grimório",
+      "group_sub": "Assinante em Grupo",
+      "new_user": "Novo Usuário",
+      "official_mod": "Moderador Oficial",
+      "official_tpi": "TPI Oficial",
+      "offline": "Offline",
+      "st_requested": "Narrador Solicitado",
+      "type_player": "Jogador|{n} Jogadores",
+      "type_spectator": "Espectador|{n} Espectadores",
+      "type_storyteller": "Narrador|{n} Narradores"
+    },
+    "verification": {
+      "button_reset": "Redefinir",
+      "code": "Código",
+      "code_sent": "Um código foi enviado para o seu número de telefone, insira-o para verificar sua conta!",
+      "country_code": "Código de País",
+      "error_402": "Números de telefone descartáveis não podem ser usados para verificação de conta.",
+      "error_403": "Este número de telefone já está em uso por outro usuário. Se você acredita que isto é um engano, entre em contato conosco em {0}.",
+      "error_404": "A tentativa de verificação expirou ou é inválida. Tente novamente.",
+      "error_assigned": "Este número de telefone já está atribuído a outro usuário, use um número diferente.",
+      "error_cooldown": "Você atingiu o número máximo de tentativas. Aguarde pelo menos 10 minutos antes de tentar novamente.",
+      "error_other": "Algo deu errado: {0}. Tente novamente.",
+      "error_pending": "Código incorreto. Tente novamente.",
+      "error_restart": "Você atingiu o número máximo de tentativas. Insira seu número de telefone novamente.",
+      "phone": "Número de Telefone",
+      "success": "Verificação concluída com sucesso! Você já pode fechar esta janela.",
+      "text_body": "Estamos adicionando verificação via SMS para contas que participam de {0} para ajudar a proteger a vibrante e respeitosa comunidade que torna Blood on the Clocktower especial. Embora a maioria dos jogadores já contribua para essa cultura fantástica, este passo nos ajuda a tomar ações rápidas e apropriadas quando a experiência de jogo é atrapalhada. Jogos privados não são afetados.",
+      "text_body2": "partidas públicas",
+      "text_footer": "Números de telefone são armazenados de forma não-recuperável.",
+      "text_title": "Por que isso é necessário?",
+      "title": "Verificação de Conta"
     },
     "votehistory": {
-      "title": "Histórico de votação"
+      "clear": "Limpar histórico de votação",
+      "execution": "Execução",
+      "exile": "Exílio",
+      "majority": "Maioria",
+      "nominator": "Nomeador",
+      "nominee": "Nomeado",
+      "phase": "Fase",
+      "pregame": "Pré-jogo",
+      "title": "Histórico de votação",
+      "type": "Tipo",
+      "voters": "Votantes",
+      "votes": "Votos"
     }
   },
   "overlays": {
     "attention": {
+      "attention": "Atenção, por favor!",
       "return": "Retorne à Praça da Cidade, agora!"
     },
     "firstnight": {
       "bluffs": "Selecione as 3 fichas de \"Blefes do Demônio\" para compartilhar com o Demônio.",
+      "button_begin": "Começar Fase de Primeira Noite",
       "gardener_button": "Enviar os Personagens",
       "gardener_text": "Quando estiver satisfeito com a organização dos personagens, {0} para seus Jogadores. Quando estiverem entregues, você pode prosseguir e organizar a Primeira Noite.",
-      "reminders": "Adicionar quaisquer {0} fichas de lembretes necessárias."
+      "reminders": "Adicionar quaisquer {0} fichas de lembretes necessárias.",
+      "title": "Prepare a Primeira Noite"
     },
     "gatherplayers": {
-      "title": "Reunir seus jogadores"
+      "button_add": "Adicionar Assento",
+      "button_clear": "Apagar Vazios",
+      "button_clearall": "Apagar Todos",
+      "button_select": "Selecione uma Edição",
+      "button_shuffle": "Embaralhar Assentos",
+      "clear_text": "Tem certeza de que quer remover todos os jogadores?",
+      "clear_title": "Remover todos os jogadores",
+      "move": "Mover depois de \n {0}",
+      "shuffle_text": "Tem certeza de que quer aleatorizar os assentos?",
+      "shuffle_title": "Aleatorizar assentos",
+      "swap": "Trocar com \n {0}",
+      "text": "Adicione, embaralhe ou remova assentos de jogadores aqui.",
+      "text2": "Quando houver assentos o suficiente para todos, {0}",
+      "title": "Reunir seus jogadores",
+      "warning": "São necessários ao menos 7 jogadores para um jogo normal em Ravenswood Bluff."
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Fechar",
+        "button_open": "Abrir",
+        "button_peek": "Espiar",
+        "state_false": "Fechados",
+        "state_open-eyes": "Abertos",
+        "state_peek-eyes": "Espiando",
+        "text": "Seus olhos estão {0}",
+        "tooltip_false": "Você não verá sinais noturnos de nenhum outro jogador e não poderá mandar mensagens de texto privadas para ninguém exceto seus vizinhos e o Narrador.",
+        "tooltip_open-eyes": "Você pode mandar e receber mensagens de texto privadas de e para qualquer outro jogador, independente de onde estiver sentado. Você verá o conteúdo de todo sinal noturno enviado e recebido, mas há uma chance de você ser pego.",
+        "tooltip_peek-eyes": "Você pode mandar e receber mensagens de texto privadas de e para qualquer outro jogador, independente de onde estiver sentado. Você verá quem está enviando e recebendo sinais noturnos, mas não o conteúdo dos mesmos. Não há chance de você ser pego."
+      }
+    },
+    "pointing": {
+      "button_countdown": "Contagem Regressiva",
+      "countdown_freeze": "Congelar",
+      "nobody": "ninguém",
+      "prompt": "Clique em um jogador para apontar para ele!",
+      "title_locked": "Jogador escolhido:|Jogadores escolhidos:",
+      "title_open": "Seleção atual:|Seleções atuais:",
+      "you_pointed": "Você apontou para:"
+    },
+    "reveal": {
+      "button_remaining": "Jogadores restantes",
+      "button_result": "Resultado do jogo",
+      "evil": "Mal",
+      "good": "Bem",
+      "prompt": "Atenção: Isto irá encerrar o jogo e revelar o Grimório a todos os jogadores!\nQuem venceu o jogo?",
+      "result": "{0} venceu!",
+      "text": "Revele o resultado do jogo e cada jogador clicando em suas fichas. Você pode passar o mouse sobre a ficha para espiar o personagem.",
+      "title": "Revelar Grimório"
     },
     "rules": {
+      "button_select": "Selecionar os Personagens",
+      "text": "Você está pronto para {0}",
+      "text2": "Viajantes devem ser atribuídos a jogadores antes da seleção dos personagens.",
       "title": "Escolher personagens"
     },
     "towninfo": {
+      "alive": "Vivos",
       "button_gather": "Reunir seus jogadores",
-      "return": "Retornar ao Grimório (Atalho: {0})"
+      "return": "Retornar ao Grimório (Atalho: {0})",
+      "script_by": "por {0}",
+      "text_player": "O Narrador deve adicionar mais jogadores antes de começar.",
+      "text_st": "Primeiro de tudo, você deve {0}",
+      "timer_ended": "terminado",
+      "title": "Bem-vindo a {0}."
     },
     "vote": {
+      "accusation": "Acusação",
+      "button_chat": "Abrir para Conversas",
+      "button_countdown": "Contagem Regressiva",
+      "button_defense": "Ir para Defesa",
+      "button_hand_down": "ABAIXAR",
+      "button_hand_up": "LEVANTAR",
+      "button_mark": "Marcar",
+      "button_mark_remove": "Remover Marca",
+      "button_pause": "Pausar",
+      "button_reset": "Redefinir",
+      "button_restart": "Reiniciar",
+      "button_resume": "Retomar",
+      "button_start": "Começar",
+      "countdown_go": "Já",
+      "defense": "Defesa",
+      "highscore_placeholder": "maior número de votos",
       "highscore_text": "Digite um novo número para o voto máximo de hoje\n ou deixe em branco para deixar como a maioria dos jogadores vivos.",
-      "highscore_title": "Mudar a Número Máximo da Votação"
+      "highscore_title": "Mudar a Número Máximo da Votação",
+      "majority": "Maioria é {0} voto|Maioria é {0} votos",
+      "no_majority": "Maioria não é necessária",
+      "pointing": "Apontando para {0}",
+      "secret": "A votação será secreta.",
+      "secret_vote": "Votação Secreta",
+      "votes": "{0} voto para empatar, {1} para executar|{0} votos para empatar, {1} para executar",
+      "warning_shortcuts": "Atalhos estão desativados!"
+    },
+    "whisper": {
+      "muted": "Este jogador está mudo / silenciado na conversa de voz.",
+      "video_muted": "Este jogador está com a câmera pausada / desligada."
     }
   },
   "pages": {
@@ -592,6 +753,7 @@
       "expires2": "Evite cometer ofensas repetidas ou você poderá receber um banimento permanente.",
       "footer1": "Se precisar de ajuda, entre em contato conosco por meio de {0}.",
       "footer2": "Lembre-se:",
+      "footer3": "Mate com elegância e morra com dignidade.",
       "permanent": "Sua conta foi banida permanentemente.",
       "reason": "O seguinte motivo foi fornecido:",
       "title": "Conta Banida"
@@ -609,20 +771,23 @@
       "button_join_game": "Juntar-se a um Jogo Privado",
       "button_local_play": "Jogo Local",
       "button_mod": "Mod",
+      "button_quit": "Sair",
       "button_settings": "Configurações",
       "button_verify": "Verificar Conta",
       "characters": "Personagens",
       "create_game": "Criar Novo Jogo",
       "edition_by": "por {author}",
-      "forced_private": "Você não pode mais entrar em jogos públicos.",
+      "fabled": "Lenda",
+      "forced_private": "Você não pode mais entrar em partidas públicas.",
+      "free_tier_free": "Grátis",
       "free_tier_patreon": "Patreon",
       "free_tier_unverified": "Você tem uma conta {0}. Você pode entrar em qualquer um dos jogos acima clicando no botão à esquerda, a menos que exija uma assinatura. Se você quiser hospedar seus próprios jogos, faça um assinatura no {1}.",
-      "free_tier_verified": "Você tem uma conta {0}. Você precisa {1} antes de poder entrar em jogos públicos. Se você quiser hospedar seus próprios jogos, faça uma assinatura no {2}.",
+      "free_tier_verified": "Você tem uma conta {0}. Você precisa {1} antes de poder entrar em partidas públicas. Se você quiser hospedar suas próprias partidas, faça uma assinatura no {2}.",
       "free_tier_verify": "verificar sua conta",
       "game": "Jogo",
       "language": "Idioma",
       "loading": "Carregando jogos...",
-      "no_games": "Nenhum jogo público encontrado.",
+      "no_games": "Nenhuma partida pública encontrada.",
       "page": "Página {page} de {total}",
       "phase": "Fase",
       "players": "Jogadores",
@@ -630,8 +795,9 @@
       "show_private": "Mostrar jogos privados",
       "spectators": "Espectadores",
       "stats": "{0} usuários em {1} jogos {2}",
-      "stats_public": "públicos",
+      "stats_public": "públicas",
       "storyteller": "Narrador",
+      "subscription": "Nível de assinatura",
       "updating": "Atualizando...",
       "welcome": "Boas-vindas ao {0}!"
     },
@@ -673,9 +839,10 @@
     "menu": {
       "alignment": "Alterar Alinhamento",
       "character": "Alterar Personagem",
-      "chat": "Solicitar Conversa Privada",
+      "chat": "Pedir Conversa Privada",
       "empty": "Assento Vazio",
       "empty_text": "Você realmente deseja remover este jogador do seu assento no meio do jogo?",
+      "empty_title": "Desocupar Assento de {0}",
       "follow": "Seguir Jogador",
       "nominate": "Nomear Jogador",
       "unfollow": "Deixar de Seguir Jogador",
@@ -687,14 +854,20 @@
       "connecting": "Este jogador está se conectando à conversa de voz.",
       "follow": "Você está seguindo este jogador.",
       "listening": "Este jogador está escutando a conversa de voz.",
+      "move": "Mover este jogador.",
       "offline": "Este jogador está offline no momento.",
+      "remove": "Remover este jogador.",
       "remove_text": "Você realmente deseja remover o Assento {0}?\n Ele está sendo ocupado por {1}.",
       "remove_title": "Remover Assento",
       "seat_text": "(isto só será visível para você)",
       "seat_title": "Alterar Nome do Assento"
     },
     "overlay": {
-      "eyes_open": "Está com os olhos abertos"
+      "eyes_open": "Está com os olhos abertos",
+      "night_info_received": "Informação noturna recebida",
+      "night_info_sent": "Informação noturna enviada",
+      "nominate": "Nomear este jogador",
+      "point": "Apontar para este jogador"
     },
     "reminders": {
       "add": "Adicionar Lembrete",
@@ -727,7 +900,7 @@
     "title_current": "Sessão do jogo atual",
     "visibility": "Visibilidade",
     "visibility_private": "Privado",
-    "visibility_public": "Público"
+    "visibility_public": "Pública"
   },
   "tabs": {
     "bluffs": {
@@ -771,7 +944,7 @@
       "following": "Você está seguindo este jogador.",
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
-      "request_private": "Solicitar Conversa Privada",
+      "request_private": "Pedir Conversa Privada",
       "spectator": "Espectador",
       "title": "Voz"
     },
