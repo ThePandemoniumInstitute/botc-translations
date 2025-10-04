@@ -2,6 +2,10 @@
   "common": {
     "account-levels": {
       "free": "Grátis",
+      "patreon-demon": "Nível Demônio",
+      "patreon-minion": "Nível Lacaio",
+      "patreon-townsfolk": "Nível Cidadão",
+      "special-free": "Cortesia",
       "special-moderator": "Moderador",
       "special-tpi": "Equipe do TPI"
     },
@@ -18,14 +22,14 @@
     "session-tags": {
       "cameras": {
         "label": "Câmeras",
-        "title": "Se câmeras estão sendo usadas nessa sessão",
+        "title": "Se câmeras estão sendo usadas nesta partida",
         "value_0": "Opcional",
         "value_1": "Obrigatório",
         "value_2": "Desligada"
       },
       "difficulty": {
         "label": "Dificuldade",
-        "title": "O nível de experiência esperada dos jogadores nessa sessão",
+        "title": "O nível de experiência esperado dos jogadores nessa partida",
         "value_0": "Intermediário",
         "value_1": "Veterano",
         "value_2": "Iniciante"
@@ -39,13 +43,13 @@
       },
       "streaming": {
         "label": "Jogo Streamado",
-        "title": "Essa sessão será transmitida ao vivo",
+        "title": "Essa partida será transmitida ao vivo",
         "value_0": "Não",
         "value_1": "Sim"
       },
       "subscription": {
         "label": "Necessário Assinatura",
-        "title": "Para participar desse jogo é necessário uma assinatura ativa"
+        "title": "Para participar dessa partida é necessário uma assinatura ativa"
       },
       "travellers": {
         "label": "Viajantes",
@@ -65,7 +69,7 @@
       "distribute-roles": "Distruibuir Papéis",
       "ghost-votes": "Devolver os Votos Fantasma",
       "grimoire": "Mostre o Grimório",
-      "open-eyes": "Abra/Fecha os Olhos",
+      "open-eyes": "Abrir/Fechar os Olhos",
       "pointing": "Escolha um Jogador"
     },
     "demon": "Demônio|Demônios",
@@ -94,11 +98,12 @@
     "cast_vote": "Votar",
     "change_icon": "Clique para mudar o ícone",
     "char_sheet": "Ficha de Personagens",
-    "characters": "Selecione as Personagens",
+    "characters": "Selecione os Personagens",
     "clear_grim": "Apagar Grimório",
     "download": "Baixar Aplicativo {0}",
     "edition": "Selecionar Edição",
     "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar.",
+    "error_audio2": "reproduzir conversas de voz automaticamente",
     "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo.",
     "error_audio4": "mudar uma configuração",
     "fabled": "Adicionar uma Lenda",
@@ -107,7 +112,7 @@
     "gong_attention": "Gongo da Atenção",
     "gong_recall": "Retornar à Praça da Cidade",
     "grim_access": "O acesso ao Grimório lhe foi concedido",
-    "grim_request": "Um espectador requisitou o acesso ao Grimório",
+    "grim_request": "Um espectador pediu acesso ao Grimório",
     "help": "Ajuda",
     "json_schema": "Esquema do JSON do Cenário",
     "leave": "Sair do Jogo",
@@ -125,7 +130,7 @@
     "prompt_vacate_title": "Assento Vago",
     "push_to_talk": "Aperte [{0}] para falar",
     "raise_hand": "Levante a Mão",
-    "request_private": "Convide para uma Conversa Privada",
+    "request_private": "Pedir Conversa Privada",
     "reveal_grim": "Revele o Grimório",
     "rules": "Ler As Regras",
     "session_expires": "No momento não há nenhum usuário com um nível de Lacaio, essa sessão pode expirar às {0}.",
