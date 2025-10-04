@@ -290,6 +290,7 @@
     "role": {
       "error_character": "Aucun personnage ne correspond à {0}.",
       "tab_character": "Personnages Disponibles",
+      "title": "Choisir un {alignment} {target}",
       "title_alignment_g": "Bon",
       "title_target_bluff": "bluff",
       "title_target_other": "personnage"
