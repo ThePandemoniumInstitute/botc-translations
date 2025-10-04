@@ -1,1 +1,8 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratis",
+      "patreon-demon": "Tingkat Iblis"
+    }
+  }
+}
