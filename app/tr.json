@@ -112,11 +112,36 @@
     "prompt_clear_title": "Grimoire'ı ve Hatırlatıcı Pulları Temizle",
     "prompt_timer_text": "Zamanlayıcı için bir süre ve (isteğe bağlı) isim seçin:",
     "prompt_timer_title": "Bir zamanlayıcı kur",
+    "prompt_vacate_text": "Şu an devam etmekte olan bir oyundasın, koltuğundan kalkmak istediğinden emin misin?",
+    "prompt_vacate_title": "Koltuktan Kalk",
+    "raise_hand": "Elini Kaldır",
+    "rules": "Kuralları Oku",
+    "set_timer": "Zamanlayıcı Kur",
+    "settings": "Ayarlar",
+    "show_grim": "Grimoire'ı Göster",
+    "show_town": "Kasaba Meydanı'nı Göster",
+    "show_users": "Kullanıcıları Göster [{0}]",
     "storyteller_add": "Hikâyeci ol",
     "storyteller_remove": "Hikâyeciliği Bırak",
     "tab_app": "Uygulama",
     "tab_during_game": "Oyun Devam Etmekte",
     "tab_new_game": "Yeni Oyun",
-    "tab_playing": "Oynuyor"
+    "tab_playing": "Oynuyor",
+    "to_day": "Gündüz Fazına Geç",
+    "to_night": "Gece Fazına Geç",
+    "user_list": "Kullanıcı Listesi",
+    "vacate_seat": "Koltuktan Kalk",
+    "vote_history": "Oy Geçmişi"
+  },
+  "modals": {
+    "announcement": {
+      "input_session": "Oturum ismi (isteğe bağlı)"
+    },
+    "dialogue": {
+      "button_evil": "Kötüler kazandı",
+      "button_good": "İyiler kazandı",
+      "button_no": "Hayır",
+      "button_yes": "Evet"
+    }
   }
 }
