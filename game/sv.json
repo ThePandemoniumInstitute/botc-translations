@@ -720,7 +720,7 @@
       "other": "Gästgivaren väljer 2 spelare. :reminder: :reminder: :reminder:"
     },
     "investigator": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Kumpan.",
+      "ability": "I början vet du att 1 av 2 spelare är en viss Kumpan.",
       "first": "Visa Kumpanbrickan. Peka på spelarna markerade *KUMPAN* och *FEL*.",
       "flavor": "Det är en fin kväll för en promenad, inte sant, herr Morozov? Eller borde jag säga… BARON Morozov?",
       "name": "Detektiven"
@@ -756,7 +756,7 @@
       "name": "Klanten"
     },
     "knight": {
-      "ability": "I början får du veta 2 spelare som inte är Demonen.",
+      "ability": "I början vet du 2 spelare som inte är Demonen.",
       "first": "Peka på de två spelare som är markerade med *VET*.",
       "flavor": "När en man ljuger mördar han ock en del av världen.",
       "name": "Riddaren"
@@ -775,7 +775,7 @@
       "other": "Meddela att ”Leviatan är i spel” om du vill. Byt ut påminnelsen. :reminder:"
     },
     "librarian": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Utböling (eller att 0 är med).",
+      "ability": "I början vet du att 1 av 2 spelare är en viss Utböling (eller att 0 är i spel).",
       "first": "Visa Utbölingens rollbricka. Peka på spelarna markerade *UTBÖLING* och *FEL*.",
       "flavor": "Naturligtvis. I vanliga fall skulle det gå alldeles utmärkt att låna Codex Malificarium från biblioteksvalvet, men du verkar inte ha ett lånekonto hos oss.",
       "name": "Bibliotekarien"
