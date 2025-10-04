@@ -281,7 +281,20 @@
       "error_character_text": "Este cenário contém mais de 200 personagens. Remova alguns deles.",
       "error_custom": "Erro ao carregar Cenário Personalizado",
       "error_loading": "Alguns personagens não puderam ser carregados: {0}",
-      "error_script": "O Cenário não é válido"
+      "error_script": "O Cenário não é válido",
+      "error_script_text": "Esse cenário foi carregado, mas contém alguns problemas. Isso normalmente significa que há algumas linhas que não deveriam estar lá, de acordo com o esquema oficial em JSON de cenários personalizados.",
+      "error_size": "Tamanho do arquivo muito grande",
+      "error_size_text": "O cenário que você selecionou tem um tamanho de {0}MB, mas o tamanho máximo é de {1}MB.",
+      "homebrew_description": "Imagens personalizadas de cenários caseiros foram substituídas por ícones genéricos por motivos de segurança. Você pode ativá-las no menu Configurações.",
+      "homebrew_title": "Imagens Personalizadas Desabilitadas",
+      "release_script": "Cenário de Lançamento do Personagem {role}:",
+      "theme": "Tema:",
+      "theme_generic": "Tema genérico:",
+      "title": "Selecione uma edição:",
+      "upload_custom": "Carregar Cenário Customizado em JSON"
+    },
+    "fabled": {
+      "title": "Adicionar um personagem de Lenda"
     },
     "help": {
       "button_send": "Enviar Dados de Depuração da Sessão",
