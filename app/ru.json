@@ -357,6 +357,8 @@
       "setting_colorblind": "Режим Цветовой Слепоты: {0}",
       "setting_cosmetics": "Показать Косметику Игроков",
       "setting_echo_cancellation": "Эхоподавление",
+      "setting_general_volume": "Общий уровень громкости",
+      "setting_microphone": "Микрофон",
       "setting_private_cams": "Показать Камеры Игроков в Приватных Чатах",
       "setting_reminder_zoom": "Размер Жетона Напоминания",
       "setting_reminders": "Складывать Жетоны Напоминания",
@@ -405,7 +407,15 @@
       "tab_advanced": "Продвинутый",
       "tab_chat": "Чат",
       "tab_game": "Игра",
-      "tab_general": "Общие"
+      "tab_general": "Общие",
+      "tab_user": "Пользователь"
+    },
+    "setup": {
+      "audio_devices": "Аудиоустройства",
+      "browser": "Браузер:",
+      "button_rerun": "Перезапустить",
+      "button_start": "Начать",
+      "cam_blocked": "Доступ к камере заблокирован"
     }
   }
 }
