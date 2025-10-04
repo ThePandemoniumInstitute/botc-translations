@@ -39,5 +39,35 @@
         "value_2": "Nie"
       }
     }
+  },
+  "grimoire": {
+    "demon": "Demon|Demony",
+    "phases": {
+      "day": "Pierwszy Dzień|Dzień {n}",
+      "first_night": "Pierwsza Noc",
+      "night": "Pierwsza Noc|Noc {n}"
+    }
+  },
+  "modals": {
+    "announcement": {
+      "description": "Co chcesz ogłosić?",
+      "input_text": "Tekst ogłoszenia",
+      "input_title": "Tytuł ogłoszenia"
+    },
+    "dialogue": {
+      "button_no": "Nie",
+      "button_yes": "Tak",
+      "error": {
+        "add_player": "Nie udało się dodać gracza",
+        "chat_text": "Stracono połączenie z serwerem czatu, próba ponownego połączenia...\n Wiadomość błędu: {0}",
+        "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
+        "clear_grim": "Nie udało się wyczyścić grymuaru",
+        "connection": "Wystąpił błąd połączenia",
+        "edition_change": "Błąd przy zmianie edycji",
+        "end": "Błąd przy zakończeniu gry",
+        "eyes_close": "Nie udało się zamknąć oczu",
+        "eyes_open": "Nie udało się otworzyć oczu"
+      }
+    }
   }
 }
