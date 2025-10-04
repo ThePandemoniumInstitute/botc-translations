@@ -196,7 +196,8 @@
         "leave_title": "Retourner à l'Accueil",
         "pronouns_placeholder": "Pronoms",
         "pronouns_text": "Veuillez entrer vos Pronoms :",
-        "pronouns_title": "Entrez vos Pronoms"
+        "pronouns_title": "Entrez vos Pronoms",
+        "terms": "Mise à jour des conditions d'utilisation"
       },
       "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
       "terms_confirm": "Je confirme avoir lu et accepté les conditions et politiques.",
@@ -240,7 +241,40 @@
       "button_stop": "Arrêter d'envoyer les Données de Debug",
       "link_1": "par e-mail",
       "link_2": "ici",
-      "link_3": "notre boutique en ligne"
+      "link_3": "notre boutique en ligne",
+      "session_debug": "Avez vous rencontré une erreur ? Vous pouvez envoyer les informations de votre partie et de votre historique récent à notre suivi de bugs, ce qui nous aidera à identifier vos problèmes :",
+      "text1": "Cette application (version {version}) est actuellement en cours de développement."
+    },
+    "reminder": {
+      "custom_favorite": "Enregistré dans les favoris",
+      "custom_note": "Note personnalisée",
+      "custom_text": "Saisir un rappel personnalisé à ajouter à {0}",
+      "custom_title": "Ajouter un Rappel Personnalisé",
+      "tab1": "Rappels Pertinents",
+      "tab2": "Autres Rappels",
+      "title": "Ajouter un Jeton de Rappel à {0}"
+    },
+    "role": {
+      "error_character": "Aucun personnage ne correspond à {0}.",
+      "tab_character": "Personnages Disponibles",
+      "title_alignment_g": "Bon",
+      "title_target_bluff": "bluff",
+      "title_target_other": "personnage"
+    },
+    "roles": {
+      "button_gardener": "Assigner {0} personnages",
+      "button_shuffle": "Mélanger",
+      "button_sort": "Trier",
+      "title": "Choisir les personnages pour {0}",
+      "warning": "Attention : certains personnages choisis modifient la composition de la partie ! Vous devez prendre en compte ces changements manuellement."
+    },
+    "rules": {
+      "title": "Règles"
+    },
+    "settings": {
+      "background_placeholder": "URL de l'image de fond",
+      "background_text": "Veuillez saisir l'URL de l'image de fond personnalisée, ou laisser vide pour retirer l'image de fond personnalisée.",
+      "background_title": "Image de fond personnalisée"
     }
   }
 }
