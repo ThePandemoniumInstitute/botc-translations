@@ -1,8 +1,12 @@
 {
   "common": {
     "account-levels": {
-      "free": "Gratis"
+      "free": "Gratis",
+      "special-tpi": "TPI personeel"
     },
+    "botc_online": "BOTC Online",
+    "button_cancel": "Annuleren",
+    "button_close": "Sluiten",
     "trademark": "\"Blood on the Clocktower\" is een handelsmerk van Steven Medway en The Pandemonium Institute."
   },
   "grimoire": {
