@@ -319,7 +319,7 @@
     },
     "role": {
       "error_character": "Aucun rôle correspondant à {0} n’a été trouvé.",
-      "error_traveller": "Aucun voyageur ne correspond à {0}.",
+      "error_traveller": "Aucun·e voyageur·euse ne correspond à {0}.",
       "tab_character": "Rôles Disponibles",
       "tab_traveller": "Autres Voyageur·euses",
       "title": "Sélectionnez un {alignement} {cible}",
