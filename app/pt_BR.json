@@ -4,7 +4,7 @@
       "free": "Grátis",
       "patreon-demon": "Nível Demônio",
       "patreon-minion": "Nível Lacaio",
-      "patreon-townsfolk": "Nível Cidadão",
+      "patreon-townsfolk": "Nível Aldeão",
       "special-free": "Cortesia",
       "special-moderator": "Moderador",
       "special-tpi": "Equipe do TPI"
@@ -42,7 +42,7 @@
         "value_2": "Sim"
       },
       "streaming": {
-        "label": "Jogo Streamado",
+        "label": "Jogo Transmitido",
         "title": "Essa partida será transmitida ao vivo",
         "value_0": "Não",
         "value_1": "Sim"
@@ -69,7 +69,7 @@
       "distribute-roles": "Distruibuir Papéis",
       "ghost-votes": "Devolver os Votos Fantasma",
       "grimoire": "Mostre o Grimório",
-      "open-eyes": "Abrir/Fechar os Olhos",
+      "open-eyes": "Abra/Feche os Olhos",
       "pointing": "Escolha um Jogador"
     },
     "demon": "Demônio|Demônios",
@@ -91,7 +91,7 @@
     "storyteller": "Narrador {0}",
     "storytellers": "os Narradores",
     "token": "Ficha",
-    "townsfolk": "Cidadão|Cidadãos",
+    "townsfolk": "Aldeão|Aldeões",
     "traveller": "Viajante|Viajantes"
   },
   "main-menu": {
@@ -102,7 +102,7 @@
     "clear_grim": "Apagar Grimório",
     "download": "Baixar Aplicativo {0}",
     "edition": "Selecionar Edição",
-    "error_audio": "Seu navegador impediu o aplicativo de {0}. Por favor clique aqui para começar a conversar.",
+    "error_audio": "Seu navegador impediu o aplicativo de {0}. Clique aqui para começar a conversar.",
     "error_audio2": "reproduzir conversas de voz automaticamente",
     "error_audio3": "Talvez você precise {0} no Firefox para ouvir o áudio do aplicativo.",
     "error_audio4": "mudar uma configuração",
