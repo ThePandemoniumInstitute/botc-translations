@@ -452,6 +452,9 @@
       "flavor": "Ben geceyim... sanırım.",
       "name": "Deli"
     },
+    "mastermind": {
+      "name": "Üst Akıl"
+    },
     "mathematician": {
       "ability": "Her gece, (gün doğumundan beri) kaç oyuncunun yeteneğinin başka bir karakterin yeteneğinden dolayı anormal bir şekilde işlediğini öğrenirsin.",
       "name": "Matematikçi"
