@@ -1,4 +1,9 @@
 {
+  "editions": {
+    "tb": {
+      "name": "Storm’s Comin’"
+    }
+  },
   "reminders": {
     "redherring": "Bloody Herring"
   },
