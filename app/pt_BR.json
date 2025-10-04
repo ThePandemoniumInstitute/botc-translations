@@ -147,6 +147,13 @@
         "connection": "Ocorreu um erro de conexão",
         "edition_change": "Erro ao mudar edição",
         "end": "Erro ao encerrar partida",
+        "eyes_open": "Não foi possível abrir os olhos",
+        "fabled": "Erro ao atualizar Lenda",
+        "generic": "Ocorreu um erro",
+        "link_text": "Ocorreu um erro ao conectar sua conta ao Patreon. Por favor tente novamente.",
+        "link_title": "Erro ao conectar conta ao Patreon",
+        "loading_text": "Algo deu errado ao carregar os dados do aplicativo. A página será recarregada.",
+        "loading_title": "Erro ao carregar dados do aplicativo",
         "server2_text": "Conexão perdida com o servidor do jogo, tentando reconectar...\n Mensagem de erro: {0}",
         "server_title": "Servidor do Jogo Desconectado"
       },
