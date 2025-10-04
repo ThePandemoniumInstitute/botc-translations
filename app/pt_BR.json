@@ -562,7 +562,7 @@
       "title_st": "O Narrador acordou você:",
       "warning_dead": "Este jogador está morto.",
       "warning_droison": "Este jogador está bêbado / envenenado.",
-      "warning_vortox": "Habilidades de Cidadão produzem informação falsa."
+      "warning_vortox": "Habilidades de aldeões produzem informação falsa."
     },
     "update": {
       "bugfix": "Correção de Bugs",
@@ -644,7 +644,7 @@
       "button_begin": "Começar Fase de Primeira Noite",
       "gardener_button": "Enviar os Personagens",
       "gardener_text": "Quando estiver satisfeito com a organização dos personagens, {0} para seus Jogadores. Quando estiverem entregues, você pode prosseguir e organizar a Primeira Noite.",
-      "reminders": "Adicionar quaisquer {0} fichas de lembretes necessárias.",
+      "reminders": "Adicionar quaisquer {0} marcadores necessários.",
       "title": "Prepare a Primeira Noite"
     },
     "gatherplayers": {
@@ -870,8 +870,8 @@
       "point": "Apontar para este jogador"
     },
     "reminders": {
-      "add": "Adicionar Lembrete",
-      "edit": "Editar Lembrete {0}",
+      "add": "Adicionar Marcador",
+      "edit": "Editar Marcador {0}",
       "edit_placeholder": "Nota personalizada",
       "edit_text": "Edite o lembrete personalizado para {0}",
       "edit_title": "Editar Lembrete",
