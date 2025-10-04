@@ -382,8 +382,24 @@
         "modeFabled": "Добавить Сказочника",
         "raiseHand": "Поднять Руку",
         "revealGrimoire": "Раскрыть Гримуар",
-        "setTimer": "Поставить Таймер"
-      }
+        "setTimer": "Поставить Таймер",
+        "toggleNightSignal": "Показать Ночную Информацию",
+        "toggleRoles": "Выбрать Персонажей",
+        "toggleTownSquare": "Показать Городскую Площадь"
+      },
+      "sounds": {
+        "attentionGong": "Гонг Внимания",
+        "chatJoin": "Вход в публичный чат",
+        "chatLeave": "Выход из публичного чата",
+        "privateJoin": "Вход в приватный чат",
+        "privateRequest": "Запрос на приватный чат",
+        "timerGong": "Сигнал окончания таймера",
+        "voteCast": "Голос отдан"
+      },
+      "tab_advanced": "Продвинутый",
+      "tab_chat": "Чат",
+      "tab_game": "Игра",
+      "tab_general": "Общие"
     }
   }
 }
