@@ -143,9 +143,11 @@
     },
     "cerenovus": {
       "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir.",
+      "flavor": "Gerçeklik yalnızca bir görüştür. O görüş de benim görüşüm.",
       "name": "Cerenovus"
     },
     "chambermaid": {
+      "ability": "Her gece, hayattaki 2 oyuncuyu seç (kendini değil): bu gece kaç tanesinin becerisinden dolayı uyandığını öğrenirsin.",
       "name": "Oda Hizmetçisi"
     },
     "chef": {
@@ -158,8 +160,15 @@
     },
     "courtier": {
       "ability": "Oyunda bir kez, geceleyin, bir karakter seç: o kişi 3 gece 3 gün sarhoş olur.",
+      "first": "Nedim bir karakter seçebilir. :reminder: :reminder:",
       "name": "Nedim",
       "other": "Nedim bir karakter seçebilir. :reminder: :reminder:"
+    },
+    "devilsadvocate": {
+      "name": "Şeytanın Avukatı"
+    },
+    "dreamer": {
+      "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin."
     }
   }
 }
