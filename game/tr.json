@@ -93,12 +93,14 @@
     "assassin": {
       "ability": "Oyunda bir kez, geceleyin*, bir oyuncu seç: o kişi ölür, herhangi bir sebepten dolayı ölemiyorsa bile.",
       "flavor": "...",
-      "name": "Suikastçi"
+      "name": "Suikastçi",
+      "other": "Suikastçi bir oyuncu seçebilir. :reminder: :reminder:"
     },
     "atheist": {
       "name": "Ateist"
     },
     "barber": {
+      "ability": "Bugün veya bu gece öldüysen, Şeytan 2 oyuncu seçip (başka bir Şeytanı değil) karakterlerini birbiriyle değiştirebilir.",
       "name": "Berber"
     },
     "baron": {
