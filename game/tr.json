@@ -286,6 +286,8 @@
       "name": "Falcı"
     },
     "gambler": {
+      "ability": "Her gece*, bir oyuncuyu seç ve karakterini tahmin et: eğer tahminin yanlışsa, ölürsün.",
+      "flavor": "Tura gelirse, ben kazanırım. Yazı gelirse, sen kaybedersin.",
       "name": "Kumarbaz",
       "other": "Kumarbaz bir oyuncu ve bir karakter seçer. :reminder:"
     },
