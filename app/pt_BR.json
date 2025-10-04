@@ -312,11 +312,11 @@
     "reminder": {
       "custom_favorite": "Salvo como favorito",
       "custom_note": "Nota personalizada",
-      "custom_text": "Insira um lembrete personalizado para adicionar a {0}",
-      "custom_title": "Adicionar Lembrete Personalizado",
-      "tab1": "Lembretes Relevantes",
-      "tab2": "Outros Lembretes",
-      "title": "Adicionar Lembrete a {0}"
+      "custom_text": "Insira um marcador personalizado para adicionar a {0}",
+      "custom_title": "Adicionar Marcador Personalizado",
+      "tab1": "Marcadores Relevantes",
+      "tab2": "Outros Marcadores",
+      "title": "Adicionar Marcador a {0}"
     },
     "role": {
       "error_character": "Nenhum personagem correspondente a {0} encontrado.",
@@ -356,7 +356,7 @@
       "css_confirm": "Eu sei o que estou fazendo, deixe-me mudar a aparência do meu aplicativo",
       "css_confirm2": "Confirme que deseja manter as mudanças do CSS Personalizado. Caso contrário, serão desligadas automaticamente.",
       "css_title": "Inserir CSS personalizado",
-      "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP desta forma. The Pandemonium Institute não possui controle sobre imagens providenciadas por outros usuários do aplicativo.",
+      "image_text": "Você tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP desta forma. The Pandemonium Institute não possui controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
       "nomination": {
         "baker": {
@@ -404,13 +404,13 @@
       "setting_noise_suppression": "Supressão de Ruídos",
       "setting_player_bluffs": "Jogador: Mostrar Aba de Blefes",
       "setting_player_night": "Jogador: Mostrar Fichas de Ordem da Noite",
-      "setting_player_reminders": "Jogador: Permitir lembretes duplicados",
+      "setting_player_reminders": "Jogador: Permitir marcadores duplicados",
       "setting_player_sound": "Jogador: Tocar sons de pedido de conversa durante a noite",
       "setting_positioning": "Permitir Movimentação das Abas Laterais",
       "setting_private_cams": "Mostrar Câmeras de Jogadores em Conversas Privadas",
       "setting_ptt": "Pressionar para Falar",
-      "setting_reminder_zoom": "Tamanho das Fichas de Lembrete",
-      "setting_reminders": "Empilhar Lembretes",
+      "setting_reminder_zoom": "Tamanho dos Marcadores",
+      "setting_reminders": "Empilhar Marcadores",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Nunca",
       "setting_reveal": "Mostrar Câmeras Durante Revelação do Grimório",
