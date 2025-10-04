@@ -22,7 +22,7 @@
     "session-tags": {
       "cameras": {
         "label": "Kameraer",
-        "title": "Om kameraer bliver brugt i denne spilsession",
+        "title": "Om der bruges kameraer i denne spillesession",
         "value_0": "Valgfrit",
         "value_1": "Påkrævet",
         "value_2": "Fra"
