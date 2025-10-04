@@ -419,6 +419,7 @@
       "name": "Deli"
     },
     "mathematician": {
+      "ability": "Her gece, (gün doğumundan beri) kaç oyuncunun becerisinin başka bir karakterin becerisinden dolayı anormal bir şekilde işlediğini öğrenirsin.",
       "name": "Matematikçi"
     },
     "mayor": {
@@ -481,7 +482,8 @@
       "name": "Kuzgun Terbiyecisi"
     },
     "recluse": {
-      "ability": "Kötü olarak ve bir Yardakçı veya Şeytan olarak gözükebilirsin, ölü olsan bile."
+      "ability": "Kötü olarak ve bir Yardakçı veya Şeytan olarak gözükebilirsin, ölü olsan bile.",
+      "name": "Münzevi"
     },
     "sage": {
       "ability": "Şeytan seni öldürürse, onun 2 oyuncudan 1'i olduğunu öğrenirsin.",
