@@ -22,7 +22,7 @@
     "session-tags": {
       "cameras": {
         "label": "Les Caméras",
-        "title": "Les caméras sont actives durant cette session de jeu",
+        "title": "Si les caméras sont actives ou non durant cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
         "value_2": "Éteint"
@@ -52,7 +52,7 @@
         "title": "Rejoindre cette partie requiert un abonnement actif"
       },
       "travellers": {
-        "label": "Voyageurs",
+        "label": "Voyageur·euses",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
@@ -82,7 +82,7 @@
     "char_sheet": "Feuille de Personnage",
     "clear_grim": "Vider le Grimoire",
     "download": "Télécharger App {0}",
-    "error_audio": "Votre navigateur empêche l'application d'{0}. Appuyez ici pour commencer à discuter.",
+    "error_audio": "Votre navigateur empêche l'application de {0}. Appuyez ici pour commencer à discuter.",
     "error_audio2": "activer automatiquement le chat vocal",
     "error_audio3": "Il est possible que vous deviez {0} dans Firefox pour que le son de l'application fonctionne.",
     "error_audio4": "changer un paramètre",
@@ -94,12 +94,12 @@
     "leave": "Quitter la partie",
     "mute_cam": "Désactiver votre caméra [{0}]",
     "mute_mic": "Désactiver votre microphone [{0}]",
-    "night_info": "Info de Nuit",
+    "night_info": "Info de la Nuit",
     "night_info_text": "Le·a conteur·euse vous a réveillé·e cette nuit !",
     "prompt_clear_player": "Êtes-vous sûr·e de vouloir retirer l'intégralité des jetons de rôles et d'aide-mémoire ?",
     "prompt_clear_st": "Cela videra le grimoire et retirera tous les aides-mémoire pour vous et tou·tes les joueur·euses. Êtes-vous sûr·e ?",
     "prompt_clear_title": "Vider le Grimoire et les Aides-Mémoire",
-    "prompt_timer_text": "Choisissez une durée et (optionnellement) un titre pour ce chrono :",
+    "prompt_timer_text": "Choisissez une durée et (optionnellement) un titre pour ce chronomètre :",
     "prompt_timer_title": "Mettre un chronomètre",
     "prompt_vacate_text": "Vous êtes actuellement dans une partie en cours, êtes-vous sûr de vouloir quitter votre siège ?",
     "prompt_vacate_title": "Quitter son Siège",
