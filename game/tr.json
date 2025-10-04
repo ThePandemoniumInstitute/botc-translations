@@ -214,7 +214,10 @@
       "flavor": "Saçıma dokunma tatlım."
     },
     "devilsadvocate": {
-      "name": "Şeytanın Avukatı"
+      "ability": "Her gece, hayattaki bir oyuncu seç (geçen gecekinden farklı): o kişi yarın idam edilirse ölmez.",
+      "first": "Şeytanın Avukatı hayattaki bir oyuncu seçer. :reminder:",
+      "name": "Şeytanın Avukatı",
+      "other": "Şeytanın Avukatı hayattaki bir oyuncu seçer. :reminder:"
     },
     "dreamer": {
       "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin.",
