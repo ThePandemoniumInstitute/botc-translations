@@ -21,21 +21,21 @@
     "session-tags": {
       "cameras": {
         "label": "Kameralar",
-        "title": "Bu oyun oturumunda kameralar açık",
+        "title": "Bu oyun oturumunda kameraların kullanılıp kullanılmaması",
         "value_0": "İsteğe Bağlı",
         "value_1": "Zorunlu",
         "value_2": "Kapalı"
       },
       "difficulty": {
         "label": "Zorluk",
-        "title": "Bu oyun oturumunda ki oyunculardan beklenen deneyim seviyesi",
+        "title": "Bu oyun oturumundaki oyunculardan beklenen deneyim seviyesi",
         "value_0": "Ortalama",
         "value_1": "Tecrübeli",
         "value_2": "Acemi"
       },
       "grimoire": {
         "label": "Grimoire Erişimi",
-        "title": "İzleyiciler Grimoire erişimi edinebilir",
+        "title": "İzleyiciler Grimoire erişimi edinip edinememesi",
         "value_0": "Sor",
         "value_1": "Hayır",
         "value_2": "Evet"
@@ -97,7 +97,7 @@
     "fabled": "Efsane Ekle",
     "fullscreen": "Tam Ekran",
     "gather": "Oyuncularını Topla",
-    "gong_attention": "Çan Çağrısı",
+    "gong_attention": "Çağrı Çanı",
     "grim_access": "Size Grimoire erişimi verildi",
     "grim_request": "Bir izleyici Grimoire erişimi talep etti",
     "help": "Yardım",
@@ -106,9 +106,9 @@
     "mute_mic": "Mikrofonunu sustur [{0}]",
     "night_info": "Gece bilgisi",
     "night_info_text": "Hikâyeci seni bu gece uyandırdı!",
-    "night_sheet": "Gece Sırası Kağıdı",
+    "night_sheet": "Gece Sırası Kâğıdı",
     "prompt_clear_player": "Bütün oyuncu karakterlerini ve hatırlatıcı pulları kaldırmak istediğine emin misin?",
-    "prompt_clear_st": "Bu, sen ve herkes için Grimoire'ı temizleyecek ve bütün Hatırlatıcı pulları kaldıracak. Emin misin?",
+    "prompt_clear_st": "Bu, sen ve herkes için Grimoire'ı ve Hatırlatıcı pulları temizleyecek. Emin misin?",
     "prompt_clear_title": "Grimoire'ı ve Hatırlatıcı Pulları Temizle",
     "prompt_timer_text": "Zamanlayıcı için bir süre ve (isteğe bağlı) isim seçin:",
     "prompt_timer_title": "Bir zamanlayıcı kur",
