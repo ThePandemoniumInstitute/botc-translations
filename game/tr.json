@@ -498,6 +498,25 @@
     },
     "slayer": {
       "name": "Şeytan Avcısı"
+    },
+    "tinker": {
+      "ability": "Herhangi bir zaman da ölebilirsin.",
+      "flavor": "Sanırım sorunu anladım. Neyse ki, bir fikrim var! Bu mancınık küçük bir değişiklikle iki katı uzağa fırlatabilir...",
+      "name": "Tamirci",
+      "other": "Tamirci ölebilir. :reminder:"
+    },
+    "vizier": {
+      "name": "Vezir"
+    },
+    "voudon": {
+      "flavor": "Bien venu. Otur. Derin nefes al. Ölüler diyarına giriş yap. Onların gözlerinden bak. Onların sesine bürün. Yon sel lang se janm ase."
+    },
+    "washerwoman": {
+      "first": "Kasabalı karakter pulunu göster. Hem *KASABALI* hem de *YANLIŞ* oyuncuya işaret et."
+    },
+    "widow": {
+      "flavor": "Daha fazla şarap mı? Château d’Ergot ’07 çok özel bir bağbozumudur. Ah evet, gerçekten de çok özel.",
+      "name": "Karadul"
     }
   }
 }
