@@ -225,15 +225,19 @@
         "update_storyteller": "Erreur en modifiant le·a Conteur·euse",
         "user_not_found": "Utilisateur·ice introuvable.",
         "user_text": "Quelque chose s'est mal passé : {0}",
+        "user_title": "Erreur de modification de l'utilisateur",
+        "vacating": "Erreur en quittant une place",
         "video_text": "Votre navigateur a empêché l'application de lancer automatiquement la discussion vidéo, veuillez fermer ce message pour lancer la discussion.",
         "video_title": "Erreur en initialisant la conversation vidéo"
       },
       "prompt": {
+        "chat_text": "L'application a des problèmes à atteindre le serveur de discussion {0}, voulez-vous passer sur le {1} ?",
         "chat_title": "Changer de Serveur de Discussion",
         "join_placeholder": "Identifiant de Session",
         "join_text": "Veuillez entrer le numéro ou le nom de la partie que vous voulez rejoindre",
         "join_title": "Rejoindre une partie",
         "leave_text": "Êtes vous sûr·e de vouloir quitter la partie courante et retourner à l'Accueil ?",
+        "leave_text_player": "Êtes vous sûr de vouloir libérer votre place et retourner à l'Accueil ?",
         "leave_title": "Retourner à l'Accueil",
         "pronouns_placeholder": "Pronoms",
         "pronouns_text": "Veuillez entrer vos Pronoms :",
@@ -291,6 +295,7 @@
       "link_2": "ici",
       "link_3": "notre boutique en ligne",
       "session_debug": "Rencontrez-vous des erreurs ? Vous pouvez envoyer des informations sur votre session et votre historique récent à notre suivi des problèmes, afin de nous aider à identifier les difficultés que vous rencontrez :",
+      "session_debug2": "Le suivi de votre session est activé et nous sera automatiquement communiqué. Vous pouvez manuellement arrêter ce suivi à n'importe quel moment en cliquant sur le bouton ci-dessous ou en rechargeant l'application.",
       "text1": "Cette application (version {version}) est actuellement en cours de développement.",
       "text2": "Vous pouvez envoyer vos commentaires via la page {0} ou {1}. Vous pouvez mettre à jour l’adresse e-mail et le mot de passe de votre compte {2}.Si vous souhaitez acheter le jeu physique, rendez-vous sur {3}.",
       "welcome": "Bienvenue à {0} !"
@@ -322,6 +327,7 @@
       "button_sort": "Trier",
       "clear": "Effacer les rôles sélectionnés",
       "title": "Sélectionnez les rôles pour {0}",
+      "title_players": "joueurs",
       "warning": "Attention : certains rôles sélectionnés modifient la configuration de la partie ! Vous devrez en tenir compte vous-même."
     },
     "rules": {
