@@ -292,17 +292,21 @@
       "other": "Kumarbaz bir oyuncu ve bir karakter seçer. :reminder:"
     },
     "godfather": {
-      "first": "Oyundaki bütün Yabancıların karakter pullarını göster."
+      "first": "Oyundaki bütün Yabancıların karakter pullarını göster.",
+      "name": "Baba"
     },
     "goon": {
+      "ability": "Her gece, becerisiyle seni seçen ilk oyuncu gün batımına kadar sarhoş olur. Onun tarafına geçersin.",
       "flavor": "Evet patron. Herife meseleyi bi güzel anlattım. Tekrar anlatam istemiyo. Yok patron, doktor moktor gerek yok, bıçak yarası sadece. Yarına geçer.",
       "name": "Gangster"
     },
     "grandmother": {
-      "ability": "İyi bir oyuncuyu ve onun karakterini bilerek başlarsın. Şeytan onu öldürürse, sen de ölürsün."
+      "ability": "İyi bir oyuncuyu ve onun karakterini bilerek başlarsın. Şeytan onu öldürürse, sen de ölürsün.",
+      "name": "Büyükanne"
     },
     "gunslinger": {
-      "ability": "Her gün, ilk oylama sayıldıktan sonra, oy kullanmış bir oyuncuyu seçebilirsin: o kişi ölür."
+      "ability": "Her gün, ilk oylama sayıldıktan sonra, oy kullanmış bir oyuncuyu seçebilirsin: o kişi ölür.",
+      "name": "Silahşör"
     },
     "imp": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
@@ -426,6 +430,9 @@
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
       "name": "Shabaloth",
       "other": "Daha önce seçilen bir oyuncu yeniden dirilebilir. :reminder: Shabaloth 2 oyuncu seçer. :reminder: :reminder:"
+    },
+    "slayer": {
+      "name": "Şeytan Avcısı"
     }
   }
 }
