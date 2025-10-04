@@ -319,7 +319,7 @@
       "title": "Sélectionnez un {alignement} {cible}",
       "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
-      "title_alignment_r": "normal",
+      "title_alignment_r": "standard",
       "title_target_bluff": "bluff",
       "title_target_other": "rôle",
       "title_target_player": "rôle pour {0}"
