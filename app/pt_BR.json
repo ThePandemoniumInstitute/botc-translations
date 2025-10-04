@@ -963,6 +963,8 @@
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
       "request_private": "Solicitar conversa particular",
+      "requests": "Solicitações de Conversas",
+      "reset_position": "Redefinir posição",
       "spectator": "Espectador",
       "title": "Voz"
     },
@@ -1031,6 +1033,7 @@
     "players_alive": "{0} / {1} jogadores vivos",
     "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
     "since": "desde {0}",
+    "update": "Atualize!",
     "warning_browser": "Você está utilizando um navegador antigo ou não suportado",
     "warning_browser2": "{0}, o que pode causar problemas com o aplicativo. Baixe as atualizações mais recentes do navegador ou utilize um navegador diferente. O aplicativo funciona melhor no Firefox e no Chrome.",
     "warning_update": "A versão do seu aplicativo está desatualizada",
