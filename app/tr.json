@@ -4,7 +4,9 @@
       "free": "Ücretsiz",
       "patreon-demon": "Şeytan katmanı",
       "patreon-minion": "Yardakçı katmanı",
-      "patreon-townsfolk": "Kasabalı katmanı"
+      "patreon-townsfolk": "Kasabalı katmanı",
+      "special-free": "Bedelsiz",
+      "special-moderator": "Moderatör"
     },
     "button_cancel": "İptal",
     "button_close": "Kapat",
