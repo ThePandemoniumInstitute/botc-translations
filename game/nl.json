@@ -31,7 +31,8 @@
     "alhadikhia-mastermind": "Als de Al-Hadikhia sterft door executie, en er is een Meesterbrein in leven, dan kiest de Al-Hadikhia 3 goede spelers vannacht: als ze alledrie kiezen om te leven, wint slecht. Anders wint goed.",
     "alhadikhia-princess": "Als de Prinses een speler nomineert & executeert op hun eerste dag, sterft er niemand door de Al-Hadikhia vannacht.",
     "alhadikhia-scarletwoman": "Als er twee Demonen zijn en 1 hiervan was de Rode Vrouw, dan verandert de Rode Vrouw terug in de Rode Vrouw.",
-    "alsaahir-vizier": "De verteller verklaart niet dat de Vizier in het spel zit."
+    "alsaahir-vizier": "De verteller verklaart niet dat de Vizier in het spel zit.",
+    "atheist-riot": "Tijdens de rellen, als de verteller is genomineerd, moeten de spelers stemmen. Als de verteller op het punt staat te sterven, eindigt het spel. Zo niet, dan nomineren ze opnieuw."
   },
   "roles": {
     "amnesiac": {
