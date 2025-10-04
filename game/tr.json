@@ -5,6 +5,7 @@
       "name": "Bad Moon Rising"
     },
     "custom": {
+      "description": "Özel bir senaryo ile oynamak için, resmi Senaryo Aracı'nda oynamak istediğiniz karakterleri seçmeniz ve ardından oluşturulan \"custom-list.json\" dosyasını doğrudan buraya yüklemeniz veya böyle barındırılan bir JSON dosyasına bir URL sağlamanız gerekir. Yüklemek için, senaryo dosyasını bu ekrana sürükleyip bırakabilir veya JSON'u panonuzdan yapıştırabilirsiniz.",
       "name": "Özel Senaryo"
     },
     "homebrew": {
