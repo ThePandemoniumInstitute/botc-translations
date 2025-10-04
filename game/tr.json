@@ -584,6 +584,7 @@
       "ability": "Her gece, bir oyuncu seç: bir Yardakçı seçilirse bunu öğrenir. Seçilmiş Yardakçıların yeteneği olmaz."
     },
     "professor": {
+      "ability": "Oyunda bir kez, geceleyin*, ölü bir oyuncu seç: o kişi Kasabalıysa yeniden dirilir.",
       "name": "Profesör",
       "other": "Profesör ölü bir oyuncu seçebilir. :reminder: :reminder:"
     },
@@ -650,7 +651,8 @@
     "sweetheart": {
       "ability": "Öldüğünde, 1 oyuncu bundan sonra sarhoş olur.",
       "flavor": "Onu hiçbir zaman unutmayacağım. Asla.",
-      "name": "Canan"
+      "name": "Canan",
+      "other": "Canan öldüyse, bir oyuncu derhâl sarhoş oldu. Bunu henüz yapmadıysan, şimdi yap. :reminder:"
     },
     "thief": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu negatif sayılır.",
