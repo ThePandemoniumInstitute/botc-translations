@@ -2,6 +2,11 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
+      "patreon-demon": "Demoon niveau",
+      "patreon-minion": "Minion niveau",
+      "patreon-townsfolk": "dorpeling niveau",
+      "special-free": "Gratis",
+      "special-moderator": "Moderator",
       "special-tpi": "TPI Personeel"
     },
     "botc_online": "BOTC Online",
