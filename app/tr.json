@@ -70,6 +70,14 @@
     "demon": "Şeytan|Şeytanlar",
     "fabled": "Efsane|Efsaneler",
     "minion": "Yardakçı|Yardakçılar",
+    "phases": {
+      "day": "İlk Gün|Gün {n}",
+      "first_night": "İlk Gece",
+      "night": "İlk Gece|Gece {n}",
+      "other_nights": "Diğer Geceler",
+      "start": "1. Gece Hazırlanıyor"
+    },
+    "player": "Oyuncu {0}",
     "players": "Oyuncular",
     "seat": "Koltuk {0}",
     "shroud": "Kefen",
@@ -83,6 +91,24 @@
     "cast_vote": "Oy Kullan",
     "change_icon": "Simgeyi değiştirmek için tıkla",
     "char_sheet": "Karakter Kâğıdı",
-    "characters": "Karakterleri Seç"
+    "characters": "Karakterleri Seç",
+    "fabled": "Efsane Ekle",
+    "fullscreen": "Tam Ekran",
+    "gather": "Oyuncularını Topla",
+    "help": "Yardım",
+    "leave": "Oyundan Çık",
+    "mute_cam": "Kameranı kapat [{0}]",
+    "mute_mic": "Mikrofonunu sustur [{0}]",
+    "night_info": "Gece bilgisi",
+    "night_info_text": "Hikâyeci seni bu gece uyandırdı!",
+    "prompt_clear_player": "Bütün oyuncu karakterlerini ve hatırlatıcı pulları kaldırmak istediğine emin misin?",
+    "prompt_clear_st": "Bu, sen ve herkes için Grimoire'ı temizleyecek ve bütün Hatırlatıcı pulları kaldıracak. Emin misin?",
+    "prompt_clear_title": "Grimoire'ı ve Hatırlatıcı Pulları Temizle",
+    "storyteller_add": "Hikâyeci ol",
+    "storyteller_remove": "Hikâyeciliği Bırak",
+    "tab_app": "Uygulama",
+    "tab_during_game": "Oyun Devam Etmekte",
+    "tab_new_game": "Yeni Oyun",
+    "tab_playing": "Oynuyor"
   }
 }
