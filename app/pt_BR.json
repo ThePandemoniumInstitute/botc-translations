@@ -936,6 +936,10 @@
       "title": "Personagens"
     },
     "chat": {
+      "accept": "Aceitar Pedido",
+      "accept_request": "Aceitar pedido de conversa com {0}",
+      "cancel": "Cancelar Pedido",
+      "cancel_request": "Cancelar pedido de conversa com {0}",
       "channels": {
         "bmr_0": "Taverna",
         "bmr_1": "Cabana",
@@ -960,20 +964,33 @@
       },
       "chats": "Conversas",
       "following": "Você está seguindo este jogador.",
+      "leave_private": "Sair de Conversa Privada",
+      "leave_room": "Sair da sala",
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
       "request_private": "Solicitar conversa particular",
-      "requests": "Solicitações de Conversas",
+      "requests": "Pedidos de Conversa",
       "reset_position": "Redefinir posição",
       "spectator": "Espectador",
       "title": "Voz"
     },
+    "fabled": {
+      "remove": "Remover Lenda",
+      "title": "Lenda"
+    },
     "text": {
       "channels": {
+        "private": "Privado",
         "public": "Públicas",
         "spectator": "Espectadores",
-        "system": "Sessão"
+        "system": "Partida"
       },
+      "message_blocked": "não entregue",
+      "message_to": "para",
+      "prompt_private": "Conversa privada",
+      "prompt_public": "Anúncio publico",
+      "prompt_spectator": "Conversa dos espectadores",
+      "prompt_system": "Mensagens do sistema",
       "prompt_user": "A {0}",
       "system": {
         "death": "{0} morreu.",
@@ -982,19 +999,22 @@
         "grim_deny": "{0} teve acesso negado ao Grimório.",
         "grim_receive": "{0} recebeu acesso ao Grimório.",
         "grim_remove": "{0} não tem mais acesso ao Grimório.",
-        "grim_request": "{0} solicitou acesso ao Grimório.",
+        "grim_request": "{0} pediu acesso ao Grimório.",
         "join": "{0} se juntou ao jogo.",
         "leave": "{0} saiu do jogo.",
         "phase": "{0} começou.",
         "revive": "{0} reviveu.",
         "seat_claim": "{0} ocupou o assento {1}.",
+        "seat_empty": "{0} foi removido do assento {1}.",
         "seat_vacate": "{0} deixou o assento {1}.",
+        "signal": "{0} enviou um sinal noturno para {1}.",
         "start": "O jogo começou e os personagens foram enviados!",
         "storyteller_add": "{0} se tornou o Narrador.",
         "storyteller_remove": "{0} deixou de ser o Narrador.",
         "vote": "{0} utilizou seu Voto Fantasma."
       },
-      "title": "Texto"
+      "title": "Texto",
+      "tooltip": "Mostrar {0} mensagens não lidas com destinatário {1}"
     }
   },
   "user": {
@@ -1005,6 +1025,7 @@
     "gain": "Ganho",
     "group_subscription": "Assinatura Coletiva",
     "id": "ID do Usuário",
+    "level": "Nível da Conta",
     "mic_volume": "Volume do Microfone",
     "new_user": "Novo Usuário",
     "pronouns": "pronomes",
@@ -1030,6 +1051,7 @@
   },
   "version": {
     "character_distribution": "Distribuição de personagens",
+    "download": "Baixe e instale a versão {0} mais recente aqui.",
     "players_alive": "{0} / {1} jogadores vivos",
     "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
     "since": "desde {0}",
