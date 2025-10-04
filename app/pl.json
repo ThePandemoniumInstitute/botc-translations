@@ -20,6 +20,7 @@
     "session-tags": {
       "cameras": {
         "label": "Kamery",
+        "title": "Czy kamery są używane podczas tej gry",
         "value_0": "Opcjonalne",
         "value_2": "Wyłączone"
       },
