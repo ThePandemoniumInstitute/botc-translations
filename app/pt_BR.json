@@ -291,7 +291,7 @@
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Selecione uma edição:",
-      "upload_custom": "Carregar Cenário Customizado em JSON"
+      "upload_custom": "Carregar Cenário Personalizado em JSON"
     },
     "fabled": {
       "title": "Adicionar um personagem de Lenda"
@@ -331,6 +331,16 @@
       "title_target_other": "personagem",
       "title_target_player": "personagem para {0}"
     },
+    "roles": {
+      "button_distribute": "Dsitribuir {0} personagens",
+      "button_gardener": "Atribuir {0} personagens",
+      "button_shuffle": "Embaralhar",
+      "button_sort": "Ordenar",
+      "clear": "Limpar personagens selecionados",
+      "title": "Selecione os personagens para {0}",
+      "title_players": "jogadores",
+      "warning": "Atenção: há personagens escolhidos que alteram a configuração do jogo! Você deve levá-los em consideração por conta própria."
+    },
     "rules": {
       "title": "Regras"
     },
@@ -342,40 +352,117 @@
       "button_edit": "Editar Conta",
       "button_setup": "Configurar",
       "button_verify": "Verificar Conta",
+      "css_apply": "Aplicar CSS Personalizado?",
+      "css_confirm": "Eu sei o que estou fazendo, deixe-me mudar a aparência do meu aplicativo",
+      "css_confirm2": "Confirme que deseja manter as mudanças do CSS Personalizado. Caso contrário, serão desligadas automaticamente.",
       "css_title": "Inserir CSS personalizado",
+      "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP desta forma. The Pandemonium Institute não possui controle sobre imagens providenciadas por outros usuários do aplicativo.",
+      "image_title": "Permitir imagens personalizadas",
+      "nomination": {
+        "baker": {
+          "text": "O jogador nomeado tem a atenção do grupo.",
+          "title": "Padeiro"
+        },
+        "regular": {
+          "text": "Todos podem falar como quiserem.",
+          "title": "Normal"
+        },
+        "zookeeper": {
+          "text": "Apenas o nomeador e o nomeado podem falar.",
+          "title": "Zoologista"
+        }
+      },
       "option_disabled": "Desabilitado",
       "patreon_link": "Conectar Conta do Patreon",
       "patreon_perks": "Carregamento de avatares e placas de identificação especiais estão disponíveis com uma {0} paga!",
       "patreon_perks2": "assinatura no Patreon",
       "patreon_update": "Atualizar Estado do Patreon",
+      "setting_alignment": "Mostrar Alinhamento na Praça da Cidade",
       "setting_animations": "Mostrar Animações",
+      "setting_audio_deafen": "Escutar Conversas de Voz",
+      "setting_audio_unnamed": "Entrada de áudio sem nome",
       "setting_auto_gain": "Controle de Ganho Automático",
       "setting_avatar_size": "Tamanho dos Avatares dos Jogadores",
+      "setting_avatars": "Mostrar Avatares / Câmeras na Praça da Cidade",
       "setting_background": "Imagem de Plano de Fundo",
       "setting_camera": "Câmera",
+      "setting_chroma": "Chroma Key",
+      "setting_chroma_label": "Escolher Cor de Chroma",
+      "setting_clouds": "Mostrar Nuvens na Fase da Noite",
       "setting_colorblind": "Modo Daltônico: {0}",
+      "setting_condense": "Condensar Fichas de Personagens",
       "setting_cosmetics": "Mostrar Cosméticos de Jogadores",
+      "setting_css": "CSS Personalizado",
       "setting_css_label": "Inserir regras de CSS personalizado",
       "setting_echo_cancellation": "Cancelamento de Eco",
+      "setting_gain": "Ganho de Áudio",
       "setting_general_volume": "Volume geral",
       "setting_homebrew": "Mostrar Imagens Personalizados / Ícones Caseiros",
       "setting_microphone": "Microfone",
+      "setting_mute_audio": "Silenciar Áudio",
+      "setting_mute_video": "Esconder Vídeo",
       "setting_noise_suppression": "Supressão de Ruídos",
+      "setting_player_bluffs": "Jogador: Mostrar Aba de Blefes",
+      "setting_player_night": "Jogador: Mostrar Fichas de Ordem da Noite",
+      "setting_player_reminders": "Jogador: Permitir lembretes duplicados",
+      "setting_player_sound": "Jogador: Tocar sons de pedido de conversa durante a noite",
       "setting_positioning": "Permitir Movimentação das Abas Laterais",
+      "setting_private_cams": "Mostrar Câmeras de Jogadores em Conversas Privadas",
       "setting_ptt": "Pressionar para Falar",
       "setting_reminder_zoom": "Tamanho das Fichas de Lembrete",
+      "setting_reminders": "Empilhar Lembretes",
+      "setting_reminders_auto": "Auto",
+      "setting_reminders_never": "Nunca",
+      "setting_reveal": "Mostrar Câmeras Durante Revelação do Grimório",
+      "setting_st_night": "Narrador: Mostrar Ordem do Despertar",
+      "setting_st_nomination": "Narrador: Tipo de Nomeação",
+      "setting_st_vote": "Narrador: Tempo de Votação",
+      "setting_st_whisper": "Narrador: Permitir Sussurros",
+      "setting_tutorial": "Mostrar Guia do Aplicativo",
+      "setting_video_deafen": "Mostrar Câmeras",
       "setting_video_hidden": "Ocultar Sua Própria Câmera",
       "setting_video_mirrored": "Espelhar Sua Própria Câmera",
       "setting_video_unnamed": "Entrada de vídeo sem nome",
       "setting_volume": "Volume dos Efeitos Sonoros",
       "setting_zoom": "Tamanho das Fichas dos Jogadores",
       "setup": "Problemas com o Microfone ou com a Câmera?",
+      "shortcut_add": "Adicionar Botão",
+      "shortcut_escape": "Pressione Escape para redefinir o atalho",
+      "shortcut_record": "Aperte a tecla que deseja atribuir a {0}",
+      "shortcut_reset": "Redefinir Todos os Atalhos",
+      "shortcut_reset_confirm": "Deseja redefinir todos os atalhos? Esta ação é irreversível.",
+      "shortcut_touch": "Suporte a Toque (Deslizar, etc.)",
+      "shortcut_touch_text": "Suporte a gestos de toque como deslizar para cima / para baixo",
       "shortcuts": {
+        "acceptChat1": "Aceitar Pedido de Conversa 1",
+        "acceptChat2": "Aceitar Pedido de Conversa 2",
+        "acceptChat3": "Aceitar Pedido de Conversa 3",
+        "attentionGong": "Gongo de Retorno / Atenção",
+        "castVote": "Votar / Marcar Jogador",
+        "leaveChat": "Sair de uma Conversa",
+        "leaveSession": "Sair de uma Partida",
         "modalRules": "Ler as Regras",
+        "modalSettings": "Configurações",
+        "modalShortcuts": "Atalhos",
+        "modalUsers": "Usuários",
+        "modeFabled": "Adicionar Lenda",
+        "modeGather": "Reunir Seus Jogadores",
+        "raiseHand": "Levantar Mão",
+        "revealGrimoire": "Revelar Grimório",
+        "setTimer": "Colocar Temporizador",
+        "toggleAudioDeafened": "Silenciar Conversas de Voz",
+        "toggleAudioMuted": "Silenciar Microfone / Aperte-para-Falar",
+        "toggleEdition": "Selecionar Edição",
         "toggleFullscreen": "Tela Cheia",
+        "toggleNight": "Alternar Fase da Noite",
         "toggleNightOrder": "Ordem da Noite",
+        "toggleNightSignal": "Mostrar Informação Noturna",
         "toggleReference": "Referência de Personagens",
-        "toggleTownSquare": "Mostrar Praça da Cidade"
+        "toggleRoles": "Selecionar Personagens",
+        "toggleTownSquare": "Mostrar Praça da Cidade",
+        "toggleVideoMuted": "Alternar Câmera",
+        "toggleVoteHistory": "Histórico de Votação",
+        "toggleWhisper": "Conversa / Sussurro"
       },
       "sounds": {
         "attentionGong": "Gongo da atenção",
@@ -383,7 +470,7 @@
         "chatLeave": "Saída de conversas públicas",
         "countdown": "Contagem regressiva",
         "privateJoin": "Entrada em conversas privadas",
-        "privateRequest": "Solicitação de conversas privadas",
+        "privateRequest": "Pedido de conversa privada",
         "timerGong": "Gongo do fim do temporizador",
         "voteCast": "Confirmação de voto",
         "voteTick": "Tique do relógio de votação",
@@ -465,6 +552,12 @@
   "overlays": {
     "attention": {
       "return": "Retorne à Praça da Cidade, agora!"
+    },
+    "gatherplayers": {
+      "title": "Reúna Seus Jogadores"
+    },
+    "rules": {
+      "title": "Escolher Personagens"
     },
     "towninfo": {
       "return": "Retornar ao Grimório (Atalho: {0})"
