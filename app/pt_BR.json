@@ -163,6 +163,7 @@
         "link_title": "Erro ao conectar conta ao Patreon",
         "loading_text": "Erro ao carregar os dados do aplicativo. A página será recarregada.",
         "loading_title": "Erro ao carregar dados do aplicativo",
+        "missing_roles": "Essa sessão contém Personagens caseiros que não podem ser encontrados. Carregue-os antes de entrar no jogo! Personagens faltando: {0}",
         "server2_text": "Conexão perdida com o servidor do jogo, tentando reconectar...\n Mensagem de erro: {0}",
         "server_title": "Servidor do Jogo Desconectado"
       },
