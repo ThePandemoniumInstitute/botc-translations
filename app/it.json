@@ -1,1 +1,27 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratis",
+      "patreon-demon": "Livello Demone",
+      "patreon-minion": "Livello Seguace",
+      "patreon-townsfolk": "Livello cittadino",
+      "special-free": "Gratuito",
+      "special-moderator": "Moderatore",
+      "special-tpi": "Personale di TPI"
+    },
+    "botc_online": "BOTC online",
+    "button_cancel": "Annullare",
+    "button_close": "Chiudere",
+    "button_confirm": "Confermare",
+    "button_continue": "Continuare",
+    "button_logout": "Disconnettersi",
+    "session-tags": {
+      "cameras": {
+        "value_1": "Necessario"
+      },
+      "difficulty": {
+        "label": "Difficoltà"
+      }
+    }
+  }
+}
