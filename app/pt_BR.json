@@ -162,6 +162,7 @@
     },
     "dialogue": {
       "button_evil": "O Time do Mal venceu",
+      "button_good": "Bem venceu",
       "button_no": "Não",
       "button_yes": "Sim",
       "close_timer": "Este pop-up fechará automaticamente em {n}s.",
@@ -231,6 +232,7 @@
         "user_not_found": "Usuário não encontrado.",
         "user_text": "Erro: {0}",
         "user_title": "Erro ao atualizar usuário",
+        "vacating": "Erro ao desocupar assento",
         "video_text": "Seu navegador impediu o aplicativo de reproduzir conversas de vídeo automaticamente. Feche esta mensagem para iniciar a conversa.",
         "video_title": "Erro ao iniciar conversas de vídeo"
       },
@@ -246,9 +248,20 @@
         "pronouns_placeholder": "Pronomes",
         "pronouns_text": "Insira seus Pronomes:",
         "pronouns_title": "Insira seus Pronomes",
+        "storyteller_text": "Gostaria de se tornar um Narrador e ver o Grimório?",
+        "storyteller_title": "Solicitação de Promoção a Narrador",
+        "terms": "Termos de Serviço Atualizados",
+        "username_placeholder": "Nome de Usuário",
         "username_text": "Insira seu Usuário:",
         "username_title": "Insira seu Usuário"
-      }
+      },
+      "terms": "Ao usar Blood on the Clocktower Online, você afirma ter lido e concorda com os seguintes termos e políticas:",
+      "terms_confirm": "Eu confirmo ter lido e concordo com estes termos e políticas.",
+      "timer_paused": "Pausado durante Nomeações e Votações",
+      "timer_start": "Iniciar",
+      "timer_title": "Título do temporizador (opcional)",
+      "unit_minutes": "minutos",
+      "unit_seconds": "segundos"
     },
     "edition": {
       "button_clear": "Apagar Grimório",
@@ -257,16 +270,17 @@
       "button_url": "URL",
       "clear_description": "Isto apagará o Grimório e as fichas de Lembrete para você e todos os outros. Você tem certeza?",
       "clear_title": "Apagar Grimório e Fichas de Lembrete",
-      "custom_placeholder": "URL do Cenário Customizado",
+      "custom_placeholder": "URL do Cenário Personalizado",
       "custom_text": "Insira o URL de um arquivo cenário-personalizado.json",
-      "custom_title": "Carregar Cenário Customizado",
+      "custom_title": "Carregar Cenário Personalizado",
       "difficulty": "Dificuldade:",
       "difficulty_beginner": "Iniciante",
       "difficulty_intermediate": "Intermediário",
+      "difficulty_various": "Variado",
       "error_character": "Personagens demais",
       "error_character_text": "Este cenário contém mais de 200 personagens - remova alguns deles.",
       "error_custom": "Erro ao carregar cenário personalizado",
-      "error_loading": "Algumas funções de personagens não foram carregadas: {0}",
+      "error_loading": "Alguns personagens não puderam ser carregados: {0}",
       "error_script": "O cenário não é válido"
     },
     "help": {
