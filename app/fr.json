@@ -194,10 +194,13 @@
         "join_placeholder": "Identifiant de Session",
         "join_text": "Veuillez entrer le numéro ou le nom de la partie que vous voulez rejoindre",
         "join_title": "Rejoindre une partie",
+        "leave_text": "Êtes vous sûr de vouloir quitter la partie courante et retourner à l'Accueil ?",
         "leave_title": "Retourner à l'Accueil",
         "pronouns_placeholder": "Pronoms",
         "pronouns_text": "Veuillez entrer vos Pronoms :",
         "pronouns_title": "Entrez vos Pronoms",
+        "storyteller_text": "Voulez vous devenir le Conteur et voir le Grimoire ?",
+        "storyteller_title": "Demander à être promu Conteur",
         "terms": "Mise à jour des conditions d'utilisation"
       },
       "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
@@ -212,6 +215,7 @@
       "button_paste": "Coller",
       "button_upload": "Charger",
       "button_url": "URL",
+      "clear_description": "Cette action va vider le Grimoire et les jetons de Rappel pour vous et tous les autres joueurs. Êtes vous sûr ?",
       "clear_title": "Vider le Grimoire et les Jetons de Rappel",
       "custom_placeholder": "URL du Script Personnalisé",
       "custom_text": "Entrer l'URL d'un fichier custom-script.json",
@@ -275,7 +279,17 @@
     "settings": {
       "background_placeholder": "URL de l'image de fond",
       "background_text": "Veuillez saisir l'URL de l'image de fond personnalisée, ou laisser vide pour retirer l'image de fond personnalisée.",
-      "background_title": "Image de fond personnalisée"
+      "background_title": "Image de fond personnalisée",
+      "button_always": "Toujours",
+      "button_edit": "Modifier le compte",
+      "css_title": "Saisir un CSS Personnalisé",
+      "image_text": "Êtes vous sûr de vouloir autoriser les images personnalisées ? Un script malveillant pourrait s'en servir pour obtenir votre adresse IP. Pandemonium Institute n'a aucun contrôle sur les images fournies par les autres utilisateurs de l'application.",
+      "image_title": "Autoriser les images personnalisées",
+      "nomination": {
+        "baker": {
+          "text": "Le joueur nominé a l'attention du groupe."
+        }
+      }
     }
   }
 }
