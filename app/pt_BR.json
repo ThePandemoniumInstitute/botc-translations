@@ -142,6 +142,9 @@
       "error": {
         "chat_text": "Conexão perdida com o servidor de conversas, tentando reconectar...\n Mensagem de erro: {0}",
         "chat_title": "Ocorreu um erro de conexão com bate-papo",
+        "claiming": "Erro ao escolher assento",
+        "clear_grim": "Não foi possível limpar o Grimório",
+        "connection": "Ocorreu um erro de conexão",
         "server2_text": "Conexão perdida com o servidor do jogo, tentando reconectar...\n Mensagem de erro: {0}",
         "server_title": "Servidor do Jogo Desconectado"
       },
