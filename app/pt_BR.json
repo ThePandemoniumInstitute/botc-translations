@@ -560,6 +560,7 @@
       "title": "Escolher Personagens"
     },
     "towninfo": {
+      "button_gather": "Chame Seus Jogadores",
       "return": "Retornar ao Grimório (Atalho: {0})"
     }
   },
