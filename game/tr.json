@@ -178,6 +178,63 @@
     },
     "dreamer": {
       "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin."
+    },
+    "drunk": {
+      "name": "Ayyaş"
+    },
+    "empath": {
+      "name": "Empat"
+    },
+    "exorcist": {
+      "ability": "Her gece*, bir oyuncu seç (geçen gecekinden farklı): Şeytan seçilirse senin kim olduğunu öğrenir ve sonra bu gece uyanmaz.",
+      "name": "Egzorsist"
+    },
+    "fool": {
+      "ability": "İlk kez öleceğin zaman, ölmezsin.",
+      "name": "Soytarı"
+    },
+    "fortuneteller": {
+      "name": "Falcı"
+    },
+    "goon": {
+      "flavor": "Evet patron. Herife meseleyi bi güzel anlattım. Tekrar anlatam istemiyo. Yok patron, doktor moktor gerek yok, bıçak yarası sadece. Yarına geçer.",
+      "name": "Gangster"
+    },
+    "grandmother": {
+      "ability": "İyi bir oyuncuyu ve onun karakterini bilerek başlarsın. Şeytan onu öldürürse, sen de ölürsün."
+    },
+    "gunslinger": {
+      "ability": "Her gün, ilk oylama sayıldıktan sonra, oy kullanmış bir oyuncuyu seçebilirsin: o kişi ölür."
+    },
+    "imp": {
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
+      "name": "İmp"
+    },
+    "innkeeper": {
+      "name": "Hancı",
+      "other": "Hancı 2 oyuncu seçer. :reminder: :reminder: :reminder:"
+    },
+    "investigator": {
+      "ability": "2 oyuncudan 1'inin belli bir Yardakçı olduğunu bilerek başlarsın.",
+      "name": "Dedektif"
+    },
+    "librarian": {
+      "name": "Kütüphaneci"
+    },
+    "lunatic": {
+      "flavor": "Ben geceyim... sanırım.",
+      "name": "Deli"
+    },
+    "mayor": {
+      "ability": "Sadece 3 oyuncu hayattaysa ve idam gerçekleşmezse, takımın kazanır. Geceleyin ölürsen, yerine başka bir oyuncu ölebilir.",
+      "name": "Belediye Başkanı"
+    },
+    "minstrel": {
+      "ability": "Bir Yardakçı idamla öldüğünde, diğer bütün oyuncular (Gezginler hariç) yarın gün batımına kadar sarhoş olurlar."
+    },
+    "monk": {
+      "ability": "Her gece*, bir oyuncu seç (kendini değil): o kişi bu gece Şeytana karşı güvende olur.",
+      "name": "Keşiş"
     }
   }
 }
