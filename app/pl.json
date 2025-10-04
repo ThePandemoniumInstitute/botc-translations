@@ -90,7 +90,15 @@
         "edition_change": "Błąd przy zmianie edycji",
         "end": "Błąd przy zakończeniu gry",
         "eyes_close": "Nie udało się zamknąć oczu",
-        "eyes_open": "Nie udało się otworzyć oczu"
+        "eyes_open": "Nie udało się otworzyć oczu",
+        "fabled": "Błąd przy zmianie legendarnych postaci",
+        "generic": "Wystąpił błąd",
+        "kick": "Nie udało się wyrzucić użytkownika",
+        "loading_text": "Coś poszło nie tak przy ładowaniu danych aplikacji. Strona zostanie odświerzona.",
+        "loading_title": "Błąd przy ładowaniu danych aplikacji",
+        "missing_edition_title": "Błąd przy ładowaniu edycji",
+        "move_player": "Nie udało się przemieścić gracza",
+        "remove_player": "Nie udało się usunąć gracza"
       }
     }
   }
