@@ -13,7 +13,10 @@
     "button_confirm": "Potwierdź",
     "button_continue": "Kontynuuj",
     "button_logout": "Wyloguj",
+    "button_search": "Szukaj",
     "button_send": "Wyślij",
+    "cookie_policy": "Polityka plików cookie",
+    "privacy_policy": "Polityka prywatności",
     "session-tags": {
       "cameras": {
         "label": "Kamery",
@@ -21,6 +24,7 @@
         "value_2": "Wyłączone"
       },
       "difficulty": {
+        "label": "Poziom trudności",
         "value_0": "Przeciętny",
         "value_2": "Początkujący"
       },
@@ -34,7 +38,7 @@
       },
       "travellers": {
         "label": "Podróżnicy",
-        "value_0": "Opcjonalne",
+        "value_0": "Opcjonalnie",
         "value_1": "Tak",
         "value_2": "Nie"
       }
@@ -43,7 +47,7 @@
   "grimoire": {
     "demon": "Demon|Demony",
     "phases": {
-      "day": "Pierwszy Dzień|Dzień {n}",
+      "day": "Pierwszy dzień|Dzień {n}",
       "first_night": "Pierwsza Noc",
       "night": "Pierwsza Noc|Noc {n}"
     }
