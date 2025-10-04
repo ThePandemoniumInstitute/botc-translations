@@ -251,7 +251,23 @@
       }
     },
     "edition": {
-      "button_url": "URL"
+      "button_clear": "Apagar Grimório",
+      "button_paste": "Colar",
+      "button_upload": "Carregar",
+      "button_url": "URL",
+      "clear_description": "Isto apagará o Grimório e as fichas de Lembrete para você e todos os outros. Você tem certeza?",
+      "clear_title": "Apagar Grimório e Fichas de Lembrete",
+      "custom_placeholder": "URL do Cenário Customizado",
+      "custom_text": "Insira o URL de um arquivo cenário-personalizado.json",
+      "custom_title": "Carregar Cenário Customizado",
+      "difficulty": "Dificuldade:",
+      "difficulty_beginner": "Iniciante",
+      "difficulty_intermediate": "Intermediário",
+      "error_character": "Personagens demais",
+      "error_character_text": "Este cenário contém mais de 200 personagens - remova alguns deles.",
+      "error_custom": "Erro ao carregar cenário personalizado",
+      "error_loading": "Algumas funções de personagens não foram carregadas: {0}",
+      "error_script": "O cenário não é válido"
     },
     "help": {
       "button_send": "Enviar Dados de Depuração da Sessão",
