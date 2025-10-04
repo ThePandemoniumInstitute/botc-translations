@@ -183,7 +183,7 @@
       "other": "Düşçü bir oyuncuyu gösterir. 1 tanesi onun karakteri olan 1 iyi ve 1 kötü karakter pulu göster."
     },
     "drunk": {
-      "name": "Ayyaş"
+      "name": "Sarhoş"
     },
     "empath": {
       "name": "Empat"
@@ -212,6 +212,10 @@
     "fortuneteller": {
       "name": "Falcı"
     },
+    "gambler": {
+      "name": "Kumarbaz",
+      "other": "Kumarbaz bir oyuncu ve bir karakter seçer. :reminder:"
+    },
     "godfather": {
       "first": "Oyundaki bütün Yabancıların karakter pullarını göster."
     },
@@ -239,6 +243,10 @@
     },
     "juggler": {
       "name": "Hokkabaz"
+    },
+    "klutz": {
+      "flavor": "Eyvah.",
+      "name": "Sakar"
     },
     "librarian": {
       "ability": "2 oyuncudan 1'inin belli bir Yabancı olduğunu bilerek başlarsın. (Ya da oyunda hiç olmadığını.)",
