@@ -351,20 +351,34 @@
       "button_edit": "Изменить Учетную Запись",
       "css_apply": "Применить пользовательский CSS?",
       "image_title": "Разрешить пользовательские изображения",
+      "nomination": {
+        "baker": {
+          "text": "Номинированный игрок имеет внимание группы."
+        },
+        "regular": {
+          "text": "Каждый может говорить, как хочет."
+        }
+      },
       "setting_audio_deafen": "Слышать голосовой чат",
       "setting_audio_unnamed": "Безымянный аудиовход",
+      "setting_background": "Фоновое Изображение",
       "setting_chroma": "Хромакей",
+      "setting_chroma_label": "Выбрать цвет Хромакея",
       "setting_colorblind": "Режим Цветовой Слепоты: {0}",
       "setting_cosmetics": "Показать Косметику Игроков",
       "setting_echo_cancellation": "Эхоподавление",
       "setting_general_volume": "Общий уровень громкости",
       "setting_microphone": "Микрофон",
+      "setting_mute_audio": "Отключить Звук",
+      "setting_mute_video": "Скрыть Видео",
+      "setting_noise_suppression": "Подавление Шума",
       "setting_private_cams": "Показать Камеры Игроков в Приватных Чатах",
       "setting_reminder_zoom": "Размер Жетона Напоминания",
       "setting_reminders": "Складывать Жетоны Напоминания",
       "setting_reminders_auto": "Авто",
       "setting_reminders_never": "Никогда",
       "setting_st_nomination": "Рассказчик: Тип Номинаций",
+      "setting_st_vote": "Рассказчик: Время Голосований",
       "setting_video_deafen": "Показывать Камеры",
       "setting_video_mirrored": "Зеркально Отразить Личную Камеру",
       "setting_video_unnamed": "Источник видео без названия",
@@ -384,21 +398,26 @@
         "acceptChat3": "Принять Запрос на Чат 3",
         "castVote": "Отдать Голос / Отметить Игрока",
         "leaveChat": "Покинуть Чат",
+        "leaveSession": "Покинуть Сессию",
         "modalRules": "Правила",
         "modalSettings": "Настройки",
+        "modalShortcuts": "Горячие клавиши",
         "modalUsers": "Пользователи",
         "modeFabled": "Добавить Сказочника",
         "raiseHand": "Поднять Руку",
         "revealGrimoire": "Раскрыть Гримуар",
         "setTimer": "Поставить Таймер",
+        "toggleFullscreen": "Полный Экран",
         "toggleNightSignal": "Показать Ночную Информацию",
         "toggleRoles": "Выбрать Роли",
-        "toggleTownSquare": "Показать Городскую Площадь"
+        "toggleTownSquare": "Показать Городскую Площадь",
+        "toggleVoteHistory": "История Голосов"
       },
       "sounds": {
         "attentionGong": "Гонг Внимания",
         "chatJoin": "Вход в публичный чат",
         "chatLeave": "Выход из публичного чата",
+        "countdown": "Отчёт",
         "privateJoin": "Вход в приватный чат",
         "privateRequest": "Запрос на приватный чат",
         "timerGong": "Сигнал окончания таймера",
@@ -408,7 +427,9 @@
       "tab_chat": "Чат",
       "tab_game": "Игра",
       "tab_general": "Общие",
-      "tab_user": "Пользователь"
+      "tab_shortcuts": "Горяч. Клавиши",
+      "tab_user": "Пользователь",
+      "title_sound": "Громкость Звуковых Эффектов"
     },
     "setup": {
       "audio_devices": "Аудиоустройства",
