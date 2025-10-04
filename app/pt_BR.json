@@ -881,7 +881,8 @@
       "saved_favorite": "Salvo como favorito"
     },
     "shroud_add": "Esta mortalha não é visível para os jogadores. Clique novamente durante o dia para torná-la visível.",
-    "shroud_remove": "Esta mortalha ainda está visível para os jogadores. Clique novamente durante o dia para removê-la."
+    "shroud_remove": "Esta mortalha ainda está visível para os jogadores. Clique novamente durante o dia para removê-la.",
+    "toggle_status": "Alternar Estado"
   },
   "session": {
     "access": "Acesso",
