@@ -543,7 +543,17 @@
       "custom": "Personalizado",
       "grimoire": "O Grimório",
       "message": "Mensagem:",
-      "player": "Jogador"
+      "player": "Jogador",
+      "player_text": "Selecione um jogador clicando na sua ficha no Grimório."
+    },
+    "update": {
+      "bugfix": "Correção de Bugs"
+    },
+    "user": {
+      "prompt_st": "Você realmente quer fazer de {0} um Narrador?\n Depois que esta pessoa confirmar, ela terá todos os poderes de um Narrador e acesso ao Grimório."
+    },
+    "users": {
+      "chat_connection": "Tipo de conexão de chat"
     },
     "votehistory": {
       "title": "Histórico de votação"
@@ -552,6 +562,12 @@
   "overlays": {
     "attention": {
       "return": "Retorne à Praça da Cidade, agora!"
+    },
+    "firstnight": {
+      "bluffs": "Selecione as 3 fichas de \"Blefes do Demônio\" para compartilhar com o Demônio.",
+      "gardener_button": "Enviar os Personagens",
+      "gardener_text": "Quando estiver satisfeito com a organização dos personagens, {0} para seus Jogadores. Quando estiverem entregues, você pode prosseguir e organizar a Primeira Noite.",
+      "reminders": "Adicionar quaisquer {0} fichas de lembretes necessárias."
     },
     "gatherplayers": {
       "title": "Reunir seus jogadores"
@@ -562,6 +578,10 @@
     "towninfo": {
       "button_gather": "Reunir seus jogadores",
       "return": "Retornar ao Grimório (Atalho: {0})"
+    },
+    "vote": {
+      "highscore_text": "Digite um novo número para o voto máximo de hoje\n ou deixe em branco para deixar como a maioria dos jogadores vivos.",
+      "highscore_title": "Mudar a Número Máximo da Votação"
     }
   },
   "pages": {
@@ -645,7 +665,8 @@
       "error_429": "Aguarde pelo menos {0} segundos antes de tentar novamente.",
       "error_disposable": "Endereços de email descartáveis não podem ser usados para verificação de conta.",
       "error_verified": "Já verificada",
-      "error_wrong": "Código incorreto, tente novamente."
+      "error_wrong": "Código incorreto, tente novamente.",
+      "link": "Você pode mudar isso aqui."
     }
   },
   "player": {
