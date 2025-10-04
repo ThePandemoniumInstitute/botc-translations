@@ -107,7 +107,24 @@
       "name": "Uşak"
     },
     "cerenovus": {
-      "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir."
+      "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir.",
+      "name": "Cerenovus"
+    },
+    "chambermaid": {
+      "name": "Oda Hizmetçisi"
+    },
+    "chef": {
+      "ability": "Kaç tane komşu kötü oyuncu çifti olduğunu bilerek başlarsın.",
+      "name": "Şef"
+    },
+    "clockmaker": {
+      "ability": "Şeytanın en yakın Yardakçısından kaç adım uzakta olduğunu bilerek başlarsın.",
+      "name": "Saatçi"
+    },
+    "courtier": {
+      "ability": "Oyunda bir kez, geceleyin, bir karakter seç: o kişi 3 gece 3 gün sarhoş olur.",
+      "name": "Nedim",
+      "other": "Nedim bir karakter seçebilir. :reminder: :reminder:"
     }
   }
 }
