@@ -287,9 +287,19 @@
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
         "baker": {
-          "text": "Le joueur nominé a l'attention du groupe."
+          "text": "Le joueur accusé a l'attention du groupe."
+        },
+        "regular": {
+          "text": "Tout le monde peut parler librement.",
+          "title": "Normal"
+        },
+        "zookeeper": {
+          "text": "Seul l'accusé et l'accusateur peuvent parler.",
+          "title": "Gardien de zoo"
         }
-      }
+      },
+      "option_disabled": "Désactivé",
+      "patreon_link": "Connecter un Compte Patreon"
     }
   }
 }
