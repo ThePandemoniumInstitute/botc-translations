@@ -9,8 +9,8 @@
     "button_cancel": "İptal",
     "button_close": "Kapat",
     "button_confirm": "Onayla",
-    "button_continue": "Devam et",
-    "button_logout": "Çıkış yap",
+    "button_continue": "Devam Et",
+    "button_logout": "Çıkış Yap",
     "button_search": "Ara",
     "button_send": "Gönder",
     "cookie_policy": "Çerez Politikası",
@@ -19,7 +19,7 @@
       "cameras": {
         "label": "Kameralar",
         "title": "Bu oyun oturumunda kameralar açık",
-        "value_0": "İsteğe bağlı",
+        "value_0": "İsteğe Bağlı",
         "value_1": "Zorunlu",
         "value_2": "Kapalı"
       },
@@ -49,7 +49,7 @@
       },
       "travellers": {
         "label": "Gezginler",
-        "value_0": "Seçime bağlı",
+        "value_0": "İsteğe Bağlı",
         "value_1": "Evet",
         "value_2": "Hayır"
       }
@@ -59,10 +59,10 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Rolleri dağıt",
+      "distribute-roles": "Rolleri Dağıt",
       "ghost-votes": "Hayalet Oylarını Geri Ver",
       "grimoire": "Grimoire'ı Göster",
-      "open-eyes": "Gözleri Kapat/Aç",
+      "open-eyes": "Gözleri Aç/Kapat",
       "pointing": "Oyuncu Seç"
     },
     "demon": "Şeytan|Şeytanlar",
