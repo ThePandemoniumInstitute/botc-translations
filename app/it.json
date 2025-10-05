@@ -1,7 +1,7 @@
 {
   "common": {
     "account-levels": {
-      "free": "Gratis",
+      "free": "Gratis; Libero/a (depends on context)",
       "patreon-demon": "Livello Demone",
       "patreon-minion": "Livello Seguace",
       "patreon-townsfolk": "Livello cittadino",
@@ -15,6 +15,9 @@
     "button_confirm": "Confermare",
     "button_continue": "Continuare",
     "button_logout": "Disconnettersi",
+    "button_send": "Invia",
+    "cookie_policy": "Informativa sui cookie",
+    "privacy_policy": "Informativa sulla Privacy",
     "session-tags": {
       "cameras": {
         "value_1": "Necessario"
