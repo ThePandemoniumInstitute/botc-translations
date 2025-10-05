@@ -83,7 +83,8 @@
       "description": "Co chcesz ogłosić?",
       "error": "Błąd podczas wysyłania ogłoszenia",
       "input_text": "Tekst ogłoszenia",
-      "input_title": "Tytuł ogłoszenia"
+      "input_title": "Tytuł ogłoszenia",
+      "title": "Stwórz ogłoszenie"
     },
     "dialogue": {
       "button_no": "Nie",
@@ -94,6 +95,7 @@
         "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
         "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
         "bluffs": "Błąd przy zmianie blefów.",
+        "chat2_text": "Serwer czatu wydaje się być offline",
         "chat2_title": "Rozłączono z serwerem czatu",
         "chat_text": "Stracono połączenie z serwerem czatu, próba ponownego połączenia...\n Wiadomość błędu: {0}",
         "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
@@ -106,10 +108,14 @@
         "fabled": "Błąd przy zmianie legendarnych postaci",
         "generic": "Wystąpił błąd",
         "kick": "Nie udało się wyrzucić użytkownika",
+        "link_text": "Wystąpił błąd przy połączeniu konta z Patreon. Proszę spróbować ponownie.",
+        "link_title": "Błąd przy połączeniu konta z Patreon",
         "loading_text": "Coś poszło nie tak przy ładowaniu danych aplikacji. Strona zostanie odświeżona.",
         "loading_title": "Błąd przy ładowaniu danych aplikacji",
         "missing_edition_title": "Błąd przy ładowaniu edycji",
+        "missing_roles_title": "Błąd przy ładowaniu własnych postaci",
         "move_player": "Nie udało się przemieścić gracza",
+        "offline": "Serwer wydaje się być offline",
         "remove_player": "Nie udało się usunąć gracza"
       }
     }
