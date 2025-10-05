@@ -26,6 +26,32 @@
     "drunk1": "Sarhoş 1",
     "drunk2": "Sarhoş 2",
     "drunk3": "Sarhoş 3",
+    "evil": "Kötü",
+    "falseinfo": "Yanlış Bilgi",
+    "fauxpaw": "Yanlış Pati",
+    "fear": "Korku",
+    "finalnightnoattack": "Son Gece: Saldırı Yok",
+    "friend": "Arkadaş",
+    "good": "İyi",
+    "grandchild": "Torun",
+    "guessused": "Tahmin Kullanıldı",
+    "hasability": "Yeteneği Var",
+    "isthedemon": "Şeytan Olan Kişi",
+    "mad": "Saplantılı",
+    "master": "Sahip",
+    "maynotnominate": "Aday Gösteremez",
+    "minion": "Yardakçı",
+    "night1": "1. Gece",
+    "night2": "2. Gece",
+    "night3": "3. Gece",
+    "noability": "Yeteneği Yok",
+    "nomoreevil": "Daha Fazla Kötü Yok",
+    "once": "Bir Kere",
+    "outsider": "Yabancı",
+    "poisoned": "Zehirlenmiş",
+    "protected": "Korunuyor",
+    "redherring": "Yanlış Alarm",
+    "somethingbad": "Kötü Bir Şey",
     "storytellerability": "Hikâyeci'nin Yeteneği",
     "townsfolk": "Kasabalı",
     "turnsevil": "Kötüye Döner",
@@ -43,6 +69,9 @@
     "amnesiac": {
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
+    "apprentice": {
+      "name": "Çırak"
+    },
     "artist": {
       "ability": "Oyunda bir kez, gün içinde, Hikâyeciye gizlice herhangi bir evet/hayır sorusu sor.",
       "name": "Sanatçı"
@@ -50,6 +79,9 @@
     "assassin": {
       "ability": "Oyunda bir kez, geceleyin*, bir oyuncu seç: o kişi ölür, herhangi bir sebepten dolayı ölemiyorsa bile.",
       "flavor": "..."
+    },
+    "atheist": {
+      "name": "Ateist"
     },
     "barber": {
       "name": "Berber"
