@@ -36,7 +36,7 @@
       },
       "grimoire": {
         "label": "Accès au Grimoire",
-        "title": "Si les spectateur·ices peuvent ou non recevoir l'accès au grimoire",
+        "title": "Si les spectateurs peuvent recevoir l'accès au grimoire",
         "value_0": "Demander",
         "value_1": "Non",
         "value_2": "Oui"
