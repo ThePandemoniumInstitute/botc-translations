@@ -648,7 +648,7 @@
       "other": "Om Skvallerbyttan talade sanning dör en spelare. :reminder:"
     },
     "grandmother": {
-      "ability": "I början får du veta en god spelare och hens roll. Om hen dödas av Demonen dör du också.",
+      "ability": "I början vet du en god spelare och hens roll. Om hen dödas av Demonen dör du också.",
       "first": "Visa den markerade spelarens rollbricka och peka på spelaren.",
       "flavor": "Ta på dig en jacka om du går ut, raring. Och termosen. Och halsduken. Du vet att jag har ett svagt hjärta. Vad skulle jag ta mig till om du blev förkyld… eller värre?",
       "name": "Farmodern",
@@ -790,7 +790,7 @@
     "lleech": {
       "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död.",
       "first": "Lleech väljer en spelare. :reminder:",
-      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjär– jag menar paj! Ja, mumsiga paj. Det var det jag höll på att säga.",
+      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjär– jag menar paj! Ja. Mumsiga paj. Det var det jag höll på att säga.",
       "name": "Lleech",
       "other": "Lleech väljer en spelare. :reminder:"
     },
