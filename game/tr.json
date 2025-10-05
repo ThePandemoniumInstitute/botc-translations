@@ -109,6 +109,7 @@
     },
     "barber": {
       "ability": "Bugün veya bu gece öldüysen, Şeytan karakterlerini birbiriyle değiştirmek için 2 oyuncu (başka bir Şeytanı değil) seçebilir.",
+      "flavor": "Eskiden berberliğin ve ameliyatçılığın aynı meslek olduğunu bilir miydin? Hayır mı? Öğrenmiş oldun.",
       "name": "Berber"
     },
     "baron": {
