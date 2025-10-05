@@ -38,6 +38,7 @@
       },
       "travellers": {
         "label": "Podróżnicy",
+        "title": "Czy podróżcy są dozwolone w sesji",
         "value_0": "Opcjonalnie",
         "value_1": "Tak",
         "value_2": "Nie"
