@@ -78,16 +78,22 @@
     "amnesiac": {
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
+    "angel": {
+      "name": "Melek"
+    },
     "apprentice": {
+      "flavor": "Yıllarca gezdim gördüm, Zanaat'ın izinden gittim. Hangi zanaat mı? Basitçe, basit insanların ki. Dert edilecek bir şey değil. Henüz.",
       "name": "Çırak"
     },
     "artist": {
       "ability": "Oyunda bir kez, gün içinde, Hikâyeciye gizlice herhangi bir evet/hayır sorusu sor.",
+      "flavor": "Mon Dieu! C'est lumineux! Benim eserim, şey, nasıl derler... Magnifique! Dieu est révélé! Oui.",
       "name": "Sanatçı"
     },
     "assassin": {
       "ability": "Oyunda bir kez, geceleyin*, bir oyuncu seç: o kişi ölür, herhangi bir sebepten dolayı ölemiyorsa bile.",
-      "flavor": "..."
+      "flavor": "...",
+      "name": "Suikastçi"
     },
     "atheist": {
       "name": "Ateist"
