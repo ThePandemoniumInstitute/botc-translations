@@ -76,7 +76,8 @@
     "tab_app": "Aplikacja",
     "tab_during_game": "Podczas gry",
     "tab_new_game": "Nowa gra",
-    "user_list": "Lista użytkowników"
+    "user_list": "Lista użytkowników",
+    "vote_history": "Historia głosowań"
   },
   "modals": {
     "announcement": {
