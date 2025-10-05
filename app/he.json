@@ -67,7 +67,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "חלוקת דמויות",
-      "ghost-votes": "החזר הצבעת מתים",
+      "ghost-votes": "החזר הצבעות למתים",
       "grimoire": "הצג גרימואר",
       "open-eyes": "לפתוח/לסגור עיניים",
       "pointing": "בחר שחקן"
@@ -112,6 +112,7 @@
     "grim_access": "ניתנה לך גישה לגרימואר",
     "grim_request": "צופה ביקש גישה לגרימואר",
     "help": "עזרה",
+    "json_schema": "סכמת סקריפט JSON",
     "leave": "עזוב משחק",
     "mute_cam": "כבה את המצלמה [{0}]",
     "mute_mic": "השתק את המיקרופון [{0}]",
