@@ -46,6 +46,9 @@
     }
   },
   "grimoire": {
+    "abilities": {
+      "ghost-votes": "Przywróć głosy duchów"
+    },
     "demon": "Demon|Demony",
     "phases": {
       "day": "Pierwszy dzień|Dzień {n}",
@@ -72,7 +75,8 @@
     "show_users": "Pokaż użytkowników [{0}]",
     "tab_app": "Aplikacja",
     "tab_during_game": "Podczas gry",
-    "tab_new_game": "Nowa gra"
+    "tab_new_game": "Nowa gra",
+    "user_list": "Lista użytkowników"
   },
   "modals": {
     "announcement": {
