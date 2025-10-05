@@ -601,7 +601,7 @@
     "verification": {
       "button_reset": "Zurücksetzen",
       "code": "Code",
-      "code_sent": "Ein SMS-Code wurde an deine Telefonnummer geschickt. Bitte gib in ein, um deinen Account zu verifizieren.",
+      "code_sent": "Ein SMS-Code wurde an deine Telefonnummer geschickt. Bitte gib ihn ein, um deinen Account zu verifizieren!",
       "country_code": "Landesvorwahl",
       "error_402": "Leider können Einweg-Telefonnummern nicht für die Account-Verifizierung verwendet werden.",
       "error_403": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Sollte es sich dabei um einen Fehler handeln, schreib uns bitte eine Mail an {0}.",
