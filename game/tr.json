@@ -39,6 +39,7 @@
     "grandchild": "Torun",
     "guessused": "Tahmin Kullanıldı",
     "hasability": "Yeteneği Var",
+    "isthealchemist": "Simyacı Olan Kişi",
     "isthedemon": "Şeytan Olan Kişi",
     "mad": "Saplantılı",
     "master": "Sahip",
@@ -54,6 +55,7 @@
     "poisoned": "Zehirlenmiş",
     "protected": "Korunuyor",
     "redherring": "Yanlış Alarm",
+    "soberhealthy": "­Ayık ve Sağlıklı",
     "somethingbad": "Kötü Bir Şey",
     "storytellerability": "Hikâyeci'nin Yeteneği",
     "townsfolk": "Kasabalı",
@@ -64,7 +66,9 @@
   },
   "roles": {
     "acrobat": {
-      "name": "Akrobat"
+      "flavor": "Dünya üzerindeki en iyi gösteriye, hepiniz hoşgeldiniz.",
+      "name": "Akrobat",
+      "other": "Akrobat bir oyuncuyu seçer. :reminder:"
     },
     "alchemist": {
       "name": "Simyacı"
