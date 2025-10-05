@@ -121,6 +121,8 @@
       "other": "Suikastçı bir oyuncu seçebilir. :reminder: :reminder:"
     },
     "atheist": {
+      "ability": "Hikâyeci oyunun kurallarını bozabilir, ve eğer infaz edilirse, iyiler kazanır, sen ölüysen bile. [Kötü karakter yok]",
+      "flavor": "Gereksiz tahminleri ve şapşal paranoyamızı geride bırakalım. Herşey için gayet mantıklı bir açıklama bulunabilir. Evet, belki de dünyanın yörüngesinde göremeyeceğimiz kadar küçük bir çay fincanı var, ne olursa olsun, ben çayımı oldukça gerçek ellerimdeki oldukça gerçek porselenden içeceğim.",
       "name": "Ateist"
     },
     "balloonist": {
