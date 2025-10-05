@@ -23,6 +23,9 @@
     "diedtoday": "Bugün Öldü",
     "doesntkill": "Öldürmüyor",
     "drunk": "Sarhoş",
+    "drunk1": "Sarhoş 1",
+    "drunk2": "Sarhoş 2",
+    "drunk3": "Sarhoş 3",
     "storytellerability": "Hikâyeci'nin Yeteneği",
     "townsfolk": "Kasabalı",
     "turnsevil": "Kötüye Döner",
@@ -41,17 +44,38 @@
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
     "artist": {
-      "ability": "Oyunda bir kez, gündüz boyunca, Hikâyeci'ye gizli bir şekilde herhangi bir evet/hayır sorusu sorabilirsin.",
+      "ability": "Oyunda bir kez, gün içinde, Hikâyeciye gizlice herhangi bir evet/hayır sorusu sor.",
       "name": "Sanatçı"
     },
     "assassin": {
-      "ability": "Oyunda bir kez, gecede*, bir oyuncu seç: herhangi bir sebepten dolayı ölemiyorlarsa bile, ölürler.",
+      "ability": "Oyunda bir kez, geceleyin*, bir oyuncu seç: o kişi ölür, herhangi bir sebepten dolayı ölemiyorsa bile.",
       "flavor": "..."
+    },
+    "barber": {
+      "name": "Berber"
+    },
+    "baron": {
+      "name": "Baron"
+    },
+    "beggar": {
+      "ability": "Oy kullanmak için bir oy pulu kullanman gerekir. Ölü bir oyuncu kendininkini sana verirse, onun tarafını öğrenirsin. Ayık ve sağlıklısındır.",
+      "name": "Dilenci"
     },
     "bishop": {
       "ability": "Sadece Hikâyeci aday gösterebilir. Her gün en az 1 karşıt oyuncu her gün aday gösterilmelidir.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Piskopos"
+    },
+    "bureaucrat": {
+      "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu 3 oy olarak sayılır.",
+      "name": "Bürokrat"
+    },
+    "butler": {
+      "ability": "Her gece, bir oyuncu seç (kendini değil): yarın, ancak o kişi oy kullanıyorsa sen de kullanabilirsin.",
+      "name": "Uşak"
+    },
+    "cerenovus": {
+      "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir."
     }
   }
 }
