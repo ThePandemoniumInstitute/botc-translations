@@ -16,5 +16,11 @@
     "tb": {
       "name": "Trouble Brewing"
     }
+  },
+  "reminders": {
+    "abouttodie": "Ölmek Üzere",
+    "alive": "Hayatta",
+    "diedtoday": "Bugün Öldü",
+    "doesntkill": "Öldürmüyor"
   }
 }
