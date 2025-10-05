@@ -149,6 +149,7 @@
       "name": "Bürokrat"
     },
     "butcher": {
+      "ability": "Her gün, ilk infazdan sonra, tekrar aday göstererbilirsin.",
       "flavor": "Tavuk tadı var bunda. Biraz daha lütfen.",
       "name": "Kasap"
     },
