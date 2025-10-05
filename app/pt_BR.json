@@ -482,7 +482,7 @@
       "tab_general": "Geral",
       "tab_shortcuts": "Atalhos",
       "tab_user": "Usuário",
-      "title": "Configurações do Aplicativo",
+      "title": "Configurações do aplicativo",
       "title_avatar": "Selecionar um Avatar",
       "title_sound": "Volume dos Efeitos Sonoros"
     },
@@ -629,7 +629,7 @@
       "register": "Registrar",
       "subscribe": "Inscrever-se na Lista de Discussão",
       "title": "Bem-vindo ao Blood On the Clocktower Online - Em Desenvolvimento!",
-      "username": "Usuário"
+      "username": "Nome de Usuário"
     },
     "update": {
       "description": "Atualmente, você está utilizando a versão {0}, mas a versão mais recente é {1}.",
