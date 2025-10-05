@@ -40,12 +40,14 @@
     "finalnightnoattack": "Son Gece: Saldırı Yok",
     "friend": "Arkadaş",
     "good": "İyi",
+    "goodplayerexecuted": "İyi Oyuncu İnfaz Edildi",
     "grandchild": "Torun",
     "guessused": "Tahmin Kullanıldı",
     "hasability": "Yeteneği Var",
     "isthealchemist": "Simyacı Olan Kişi",
+    "istheapprentice": "Bu Kişi Çırak",
     "isthedemon": "Şeytan Olan Kişi",
-    "isthedrunk": "Ayyaş",
+    "isthedrunk": "Sarhoş",
     "know": "Biliyor",
     "mad": "Saplantılı",
     "master": "Sahip",
@@ -86,6 +88,7 @@
       "flavor": "Ben senin yüzünden buradayım, sen de benim yüzümden buradasın."
     },
     "amnesiac": {
+      "ability": "Yeteneğinin ne olduğunu bilmiyorsun. Her gün, gizlice ne olduğunu tahmin et ve ne kadar yaklaştığını öğren.",
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
     "angel": {
@@ -95,6 +98,7 @@
       "name": "Melek"
     },
     "apprentice": {
+      "ability": "İlk gecende, eğer iyiysen, bir Kasabalı yeteneği, eğer kötüysen, bir Yardakçı yeteneği kazan.",
       "flavor": "Yıllarca gezdim gördüm, Zanaat'ın yöntemlerini çalıştım. Hangi zanaat mı? Basitçe, basit insanlarınki. Dert edilecek bir şey değil. Henüz.",
       "name": "Çırak"
     },
