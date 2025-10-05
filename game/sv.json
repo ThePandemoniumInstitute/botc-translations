@@ -1131,14 +1131,14 @@
       "other": "Visa grimoaren så länge Spionen behöver."
     },
     "steward": {
-      "ability": "I början får du veta 1 god spelare.",
+      "ability": "I början vet du 1 god spelare.",
       "first": "Peka på den goda spelaren märkt *VET*.",
       "flavor": "Hur VÅGAR ni anklaga Hennes Nåd för oförrätter? Jag har känt henne i hela mitt liv! Nio år!",
       "name": "Kammartjänaren"
     },
     "stormcatcher": {
       "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är.",
-      "first": "I början av natten meddela vilken roll som gynnas av Stormfångaren. Om den rollen är i spel markera den spelaren som *SÄKER*.  Väck varje ond spelare och visa rollbrickan , sedan den markerade spelaren. Om rollen inte är i spel, väck varje ond  spelare och visa dem kortet  *DE HÄR ROLLERNA ÄR INTE I SPEL* samt den relevanta rollbrickan.",
+      "first": "Meddela i början av natten vilken roll som gynnas av Stormfångaren. Markera den spelaren som *SÄKER*. Väck de onda spelarna, visa rollbrickan och peka på den markerade spelaren.\nOm rollen inte är i spel, väck de onda spelarna och visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* samt rollbrickan.",
       "flavor": "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat.",
       "name": "Stormfångaren"
     },
