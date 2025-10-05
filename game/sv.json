@@ -957,7 +957,7 @@
     },
     "po": {
       "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 inatt.",
-      "flavor": "Vill du ha en blomma? Jag är så ensam…",
+      "flavor": "Vill du ha en blomma? Jag är så ensam.",
       "name": "Po",
       "other": "Po får välja en spelare. :reminder: Om Po är märkt *3 ATTACKER* så väljer Po tre spelare. :reminder: :reminder: :reminder:"
     },
