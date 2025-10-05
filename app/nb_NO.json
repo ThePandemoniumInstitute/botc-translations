@@ -239,6 +239,8 @@
       "button_paste": "Lim inn",
       "button_upload": "Opplast",
       "button_url": "URL",
+      "clear_description": "Dette vil tømme Grimoiren for alle Brikker for deg og alle andre. Er du sikker?",
+      "clear_title": "Tøm Grimoiren og Hjelpebrikker",
       "custom_placeholder": "Tilpasset Manus URL",
       "difficulty": "Vansklighet:",
       "difficulty_beginner": "Nybegynner",
