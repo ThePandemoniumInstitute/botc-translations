@@ -15,15 +15,36 @@
     "button_confirm": "Confermare",
     "button_continue": "Continuare",
     "button_logout": "Disconnettersi",
+    "button_search": "Cerca",
     "button_send": "Invia",
     "cookie_policy": "Informativa sui cookie",
     "privacy_policy": "Informativa sulla Privacy",
     "session-tags": {
       "cameras": {
-        "value_1": "Necessario"
+        "label": "Videocamere",
+        "title": "Se le videocamere sono usate in questa sessione di gioco",
+        "value_0": "Opzionale",
+        "value_1": "Necessario",
+        "value_2": "Spente"
       },
       "difficulty": {
         "label": "Difficoltà"
+      },
+      "grimoire": {
+        "value_2": "Sì"
+      },
+      "streaming": {
+        "label": "Il gioco è trasmesso",
+        "title": "Questa sessione di gioco sarà trasmessa live",
+        "value_0": "No",
+        "value_1": "Sì"
+      },
+      "subscription": {
+        "title": "Una sottoscrizione attiva è richiesta per entrare in questa partita"
+      },
+      "travellers": {
+        "label": "Viaggiatori",
+        "title": "Se i viaggiatori sono permessi in questa sessione di gioco"
       }
     }
   },
