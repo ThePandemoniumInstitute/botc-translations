@@ -52,6 +52,26 @@
       "night": "Pierwsza Noc|Noc {n}"
     }
   },
+  "main-menu": {
+    "change_icon": "Kliknij by zmienić ikonę",
+    "clear_grim": "Wyczyść Grymuar",
+    "error_audio2": "automatycznego włączenia rozmowy głosowej",
+    "error_audio4": "zmiany ustawień",
+    "fullscreen": "Pełny Ekran",
+    "gather": "Zwołaj Graczy",
+    "help": "Pomoc",
+    "leave": "Opuść Grę",
+    "mute_cam": "Wyłącz kamerę [{0}]",
+    "mute_mic": "Wycisz mikrofon [{0}]",
+    "prompt_clear_title": "Wyczyść Grymuar i Żetony Przypominające",
+    "prompt_vacate_text": "Jesteś uczestnikiem trwającej gry, czy na pewno chcesz opuścić swoje siedzenie?",
+    "show_grim": "Pokaż Grymuar",
+    "show_town": "Pokaż Rynek",
+    "show_users": "Pokaż Urzytkowników [{0}]",
+    "tab_app": "Aplikacja",
+    "tab_during_game": "Podczas Gry",
+    "tab_new_game": "Nowa Gra"
+  },
   "modals": {
     "announcement": {
       "description": "Co chcesz ogłosić?",
