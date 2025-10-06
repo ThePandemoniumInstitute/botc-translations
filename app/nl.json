@@ -26,18 +26,21 @@
         "value_2": "Uit"
       },
       "difficulty": {
+        "title": "Het verwachte ervaringsniveau van de spelers in deze spelsessie",
         "value_0": "Gemiddeld",
         "value_1": "Veteraan",
         "value_2": "Beginner"
       },
       "grimoire": {
         "label": "Grimoire Toegang",
+        "title": "Of toeschouwers toegang krijgen tot de Grimoire",
         "value_0": "Vraag",
         "value_1": "Nee",
         "value_2": "Ja"
       },
       "streaming": {
         "label": "Spel wordt gestreamd",
+        "title": "Deze speelsessie zal livegestreamed worden",
         "value_0": "Nee",
         "value_1": "Ja"
       },
@@ -59,28 +62,34 @@
   },
   "grimoire": {
     "abilities": {
+      "distribute-roles": "Rollen Uitdelen",
       "ghost-votes": "Geef spookstemmen terug",
       "grimoire": "Laat de Grimoire zien",
       "open-eyes": "Open/sluit ogen",
       "pointing": "Kies een speler"
     },
     "demon": "Demoon|Demonen",
+    "fabled": "Fictief|Fictief",
     "minion": "Volgeling|Volgelingen",
     "outsider": "Buitenstaander|Buitenstaanders",
     "phases": {
-      "day": "Eerste Dag|Dag [n]",
+      "day": "Eerste Dag|Dag {n}",
       "end": "Tussen spellen",
       "first_night": "Eerste Nacht",
-      "night": "Eerste Nacht|Nacht [n]"
+      "night": "Eerste Nacht|Nacht {n}"
     }
   },
   "main-menu": {
+    "char_sheet": "Karakter blad",
     "edition": "Selecteer Script",
+    "error_audio": "Je browser weerhoudt de app van {0}. Klik hier om de chat te starten.",
     "error_audio3": "Je moet misschien ook {0} in Firefox om het geluid van de app te horen.",
     "error_audio4": "verander een instelling",
+    "fabled": "Voeg een Fictief toe",
     "fullscreen": "Volledig scherm",
+    "gather": "Verzamel je spelers",
     "gong_attention": "Aandachtsgong",
-    "gong_recall": "Terugroepen naar Dorpsplein",
+    "gong_recall": "Terugroepen naar het Dorpsplein",
     "grim_access": "Je hebt toegang gekregen tot de Grimoire",
     "json_schema": "Script JSON Schema",
     "leave": "Verlaat Spel",
@@ -88,14 +97,15 @@
     "mute_mic": "Demp je microfoon [{0}]",
     "night_info": "Nacht info",
     "night_info_text": "De verteller heeft je vannacht wakker gemaakt!",
-    "night_sheet": "Nacht Volgordevel",
-    "prompt_clear_player": "Weet je zeker dat je alle speler karakter en herinnering fisches wilt verwijderen?",
-    "prompt_clear_st": "Dit wist de Grimoire en Herinnering fisches voor jezelf, en alle anderen. Weet je het zeker?",
+    "night_sheet": "Nacht Volgorde Blad",
+    "prompt_clear_player": "Weet je zeker dat je alle speler karakter en herinnering fiches wilt verwijderen?",
+    "prompt_clear_st": "Dit wist de Grimoire en Geheugen fiches voor jezelf, en alle anderen. Weet je het zeker?",
+    "prompt_clear_title": "Wis Grimoire en Geheugen fiches",
     "prompt_timer_text": "Kies een tijd en (optioneel) titel voor de timer:",
     "prompt_timer_title": "Stel een timer in",
     "prompt_vacate_text": "Je bent op het moment in een actief spel, weet je zeker dat je je stoel wilt verlaten?",
     "prompt_vacate_title": "Stoel Verlaten",
-    "push_to_talk": "Druk [{0}] om te praten",
+    "push_to_talk": "Druk op [{0}] om te praten",
     "raise_hand": "Hand Opsteken",
     "request_private": "Privéchat Aanvragen",
     "reveal_grim": "Onthul Grimoire",
@@ -138,7 +148,7 @@
         "add_player": "Kan geen speler toevoegen",
         "add_storyteller": "Fout bij het toevoegen van Verteller",
         "avatar": "Fout bij het uploaden van avatar",
-        "avatar_generic": "Er ging iets fout bij het je avatar.",
+        "avatar_generic": "Er ging iets fout bij het uploaden van je avatar.",
         "avatar_pixel": "Jouw afbeelding is te groot. Verklein het naar minder dan 4000x4000 voordat je het opnieuw upload.",
         "avatar_size": "Je bestand is te groot. Probeer het opnieuw met een afbeelding die minder dan 5 MB is.",
         "avatar_type": "Je bestand is niet herkend als een afbeelding.",
@@ -237,7 +247,7 @@
       "button_upload": "Uploaden",
       "button_url": "URL",
       "clear_description": "Dit zal het Spreukenboek en de tokens wissen voor jou en alle anderen. Weet je het zeker?",
-      "clear_title": "Wis Grimoire en Herinnering Fisches",
+      "clear_title": "Wis Grimoire en Geheugen Fiches",
       "custom_placeholder": "Aangepast Script URL",
       "custom_text": "Voer een URL in naar een aangepast-script.json bestand",
       "custom_title": "Laad Aangepast Script",
@@ -314,6 +324,7 @@
     },
     "settings": {
       "background_placeholder": "URL naar achtergrond afbeelding",
+      "background_text": "Voer een URL in voor een aangepaste achtergrond, of laat dit veld leeg om een aangepaste achtergrond te verwijderen.",
       "background_title": "Aangepaste Achtergrond",
       "button_always": "Altijd",
       "button_edit": "Account Bewerken",
@@ -416,8 +427,8 @@
         "modeFabled": "Voeg Legendarische toe",
         "modeGather": "Verzamel je spelers",
         "raiseHand": "Hand omhoog",
-        "revealGrimoire": "Onthul Spreukenboek",
-        "setTimer": "Stel Timer in",
+        "revealGrimoire": "Onthul Grimoire",
+        "setTimer": "Timer instellen",
         "toggleAudioDeafened": "Demp de gesprekken",
         "toggleAudioMuted": "Demp microfoon / push-to-talk",
         "toggleEdition": "Selecteer editie",
