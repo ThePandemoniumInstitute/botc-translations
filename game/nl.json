@@ -66,6 +66,9 @@
     },
     "spy": {
       "ability": "Elke nacht bekijk je de Grimoire. Je registreert mogelijk als goed & als Dorpeling of Buitenstaander, zelfs als je dood bent."
+    },
+    "zombuul": {
+      "other": "Als niemand is doodgegaan vandaag, kiest de Zombuul een speler.:herinnering:"
     }
   }
 }
