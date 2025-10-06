@@ -12,11 +12,61 @@
     "botc_online": "BOTC Online",
     "button_cancel": "Annuleren",
     "button_close": "Sluiten",
-    "trademark": "\"Blood on the Clocktower\" is een handelsmerk van Steven Medway en The Pandemonium Institute."
+    "button_confirm": "Bevestigen",
+    "button_logout": "Uitloggen",
+    "button_search": "Zoek",
+    "cookie_policy": "Cookie Beleid",
+    "privacy_policy": "Privacy Beleid",
+    "session-tags": {
+      "cameras": {
+        "label": "Camera's",
+        "value_0": "Optioneel",
+        "value_1": "Vereist",
+        "value_2": "Uit"
+      },
+      "difficulty": {
+        "value_0": "Gemiddeld",
+        "value_1": "Veteraan",
+        "value_2": "Beginner"
+      },
+      "grimoire": {
+        "value_0": "Vraag",
+        "value_1": "Nee",
+        "value_2": "Ja"
+      },
+      "streaming": {
+        "label": "Spel wordt gestreamd",
+        "value_0": "Nee",
+        "value_1": "Ja"
+      },
+      "subscription": {
+        "label": "Abonnement vereist",
+        "title": "Dit spel vereist een actief abonnement om mee te doen"
+      },
+      "travellers": {
+        "label": "Reizigers",
+        "value_0": "Optioneel",
+        "value_1": "Ja",
+        "value_2": "Nee"
+      }
+    },
+    "terms_of_use": "Gebruikersvoorwaarden",
+    "title": "Blood on the Clocktower Online",
+    "trademark": "\"Blood on the Clocktower\" is een handelsmerk van Steven Medway en The Pandemonium Institute.",
+    "unnamed_user": "Anonieme gebruiker"
   },
   "grimoire": {
     "abilities": {
+      "ghost-votes": "Geef spookstemmen terug",
+      "grimoire": "Laat de Grimoire zien",
+      "open-eyes": "Open/sluit ogen",
       "pointing": "Kies een speler"
+    },
+    "demon": "Demoon|Demonen",
+    "minion": "Volgeling|Volgelingen",
+    "outsider": "Buitenstaander|Buitenstaanders",
+    "phases": {
+      "day": "Eerste Dag|Dag [n]"
     }
   },
   "main-menu": {
