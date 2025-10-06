@@ -103,9 +103,13 @@
       "name": "Ateist"
     },
     "balloonist": {
+      "ability": "Her gece, önceki geceden farklı bir karakter türünde olan bir oyuncu öğren. [+0 or +1 Yabancı]",
       "first": "Herhangi bir oyuncu göster. :reminder:",
       "name": "Baloncu",
       "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
+    },
+    "banshee": {
+      "name": "Çığlık"
     },
     "barber": {
       "ability": "Bugün veya bu gece öldüysen, Şeytan karakterlerini birbiriyle değiştirmek için 2 oyuncu (başka bir Şeytanı değil) seçebilir.",
@@ -118,6 +122,7 @@
       "other": "Bir oyuncu seç, uyandır ve hangi Barista gücünün onu etkilediğini belirt. Ona buna uygun şekilde davran (ayık/sağlıklı/doğru bilgi veya yeteneğini iki kere etkinleştir)."
     },
     "baron": {
+      "ability": "Oyunda fazladan Yabancılar var. [+2 Yabancı]",
       "name": "Baron"
     },
     "beggar": {
@@ -136,6 +141,10 @@
     "bureaucrat": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu 3 oy olarak sayılır.",
       "name": "Bürokrat"
+    },
+    "butcher": {
+      "flavor": "Tavuk tadı var bunda. Biraz daha lütfen.",
+      "name": "Kasap"
     },
     "butler": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın, ancak o kişi oy kullanıyorsa sen de kullanabilirsin.",
