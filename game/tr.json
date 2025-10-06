@@ -177,7 +177,10 @@
       "name": "Şeytanın Avukatı"
     },
     "dreamer": {
-      "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin."
+      "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin.",
+      "first": "Düşçü bir oyuncuyu gösterir. 1 tanesi onun karakteri olan 1 iyi ve 1 kötü karakter pulu göster.",
+      "name": "Düşçü",
+      "other": "Düşçü bir oyuncuyu gösterir. 1 tanesi onun karakteri olan 1 iyi ve 1 kötü karakter pulu göster."
     },
     "drunk": {
       "name": "Ayyaş"
@@ -185,9 +188,22 @@
     "empath": {
       "name": "Empat"
     },
+    "eviltwin": {
+      "flavor": "Ben Sara değilim! Ben Clara'yım! O Sara! Sara kötü olan! Ben değil!",
+      "name": "Kötü İkiz"
+    },
     "exorcist": {
       "ability": "Her gece*, bir oyuncu seç (geçen gecekinden farklı): Şeytan seçilirse senin kim olduğunu öğrenir ve sonra bu gece uyanmaz.",
       "name": "Egzorsist"
+    },
+    "fanggu": {
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Böyle ölen ilk Yabancı kötü bir Fang Gu'ya dönüşür ve yerine sen ölürsün. [+1 Yabancı]",
+      "flavor": "Duvarlarınız ve silahlarınız düşlerde dumandan ibaret.",
+      "name": "Fang Gu"
+    },
+    "flowergirl": {
+      "ability": "Her gece*, bugün bir Şeytanın oy kullanıp kullanmadığını öğrenirsin.",
+      "other": "Olumlu ya da olumsuz kafa salla."
     },
     "fool": {
       "ability": "İlk kez öleceğin zaman, ölmezsin.",
@@ -195,6 +211,9 @@
     },
     "fortuneteller": {
       "name": "Falcı"
+    },
+    "godfather": {
+      "first": "Oyundaki bütün Yabancıların karakter pullarını göster."
     },
     "goon": {
       "flavor": "Evet patron. Herife meseleyi bi güzel anlattım. Tekrar anlatam istemiyo. Yok patron, doktor moktor gerek yok, bıçak yarası sadece. Yarına geçer.",
@@ -218,12 +237,19 @@
       "ability": "2 oyuncudan 1'inin belli bir Yardakçı olduğunu bilerek başlarsın.",
       "name": "Dedektif"
     },
+    "juggler": {
+      "name": "Hokkabaz"
+    },
     "librarian": {
+      "ability": "2 oyuncudan 1'inin belli bir Yabancı olduğunu bilerek başlarsın. (Ya da oyunda hiç olmadığını.)",
       "name": "Kütüphaneci"
     },
     "lunatic": {
       "flavor": "Ben geceyim... sanırım.",
       "name": "Deli"
+    },
+    "mathematician": {
+      "name": "Matematikçi"
     },
     "mayor": {
       "ability": "Sadece 3 oyuncu hayattaysa ve idam gerçekleşmezse, takımın kazanır. Geceleyin ölürsen, yerine başka bir oyuncu ölebilir.",
