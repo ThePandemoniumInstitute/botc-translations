@@ -110,6 +110,7 @@
       "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
     },
     "banshee": {
+      "ability": "Her Şeytan seni öldürürse, bütün oyuncular bunu öğrenir. Bu noktadan itibaren, günde iki kez aday gösterebilir ve aday başına iki oy verebilirsin.",
       "name": "Banşi"
     },
     "barber": {
