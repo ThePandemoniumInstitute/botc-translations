@@ -378,6 +378,7 @@
       "name": "İmp"
     },
     "innkeeper": {
+      "ability": "Her gece*, 2 oyuncu seç: bu gece ölemezler, ama 1 tanesi gün batımına kadar sarhoş olur.",
       "name": "Hancı",
       "other": "Hancı 2 oyuncu seçer. :reminder: :reminder: :reminder:"
     },
@@ -499,11 +500,48 @@
     "slayer": {
       "name": "Şeytan Avcısı"
     },
+    "snakecharmer": {
+      "name": "Yılan Oynatıcısı"
+    },
+    "soldier": {
+      "ability": "Şeytana karşı güvendesin.",
+      "name": "Asker"
+    },
+    "spy": {
+      "ability": "Her gece, Grimoire'ı görürsün. İyi olarak ve bir Kasabalı veya Yabancı olarak gözükebilirsin, ölü olsan bile.",
+      "first": "Grimoire'ı Casusa ihtiyacı olduğu kadar göster.",
+      "name": "Casus",
+      "other": "Grimoire'ı Casusa ihtiyacı olduğu kadar göster."
+    },
+    "sweetheart": {
+      "ability": "Öldüğünde, 1 oyuncu bundan sonra sarhoş olur.",
+      "flavor": "Onu hiçbir zaman unutmayacağım. Asla.",
+      "name": "Canan"
+    },
+    "thief": {
+      "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu negatif sayılır.",
+      "name": "Hırsız"
+    },
     "tinker": {
-      "ability": "Herhangi bir zaman da ölebilirsin.",
+      "ability": "Her an ölebilirsin.",
       "flavor": "Sanırım sorunu anladım. Neyse ki, bir fikrim var! Bu mancınık küçük bir değişiklikle iki katı uzağa fırlatabilir...",
       "name": "Tamirci",
       "other": "Tamirci ölebilir. :reminder:"
+    },
+    "towncrier": {
+      "ability": "Her gece*, bugün bir Yardakçının aday gösterip göstermediğini öğrenirsin.",
+      "name": "Tellal",
+      "other": "Olumlu ya da olumsuz kafa salla."
+    },
+    "undertaker": {
+      "ability": "Her gece*, bugün hangi karakterin idamla öldüğünü öğrenirsin.",
+      "name": "Mezarcı"
+    },
+    "vigormortis": {
+      "name": "Vigormortis"
+    },
+    "virgin": {
+      "name": "Bakir"
     },
     "vizier": {
       "name": "Vezir"
@@ -512,11 +550,20 @@
       "flavor": "Bien venu. Otur. Derin nefes al. Ölüler diyarına giriş yap. Onların gözlerinden bak. Onların sesine bürün. Yon sel lang se janm ase."
     },
     "washerwoman": {
+      "ability": "2 oyuncudan 1'inin belli bir Kasabalı olduğunu bilerek başlarsın.",
       "first": "Kasabalı karakter pulunu göster. Hem *KASABALI* hem de *YANLIŞ* oyuncuya işaret et."
     },
     "widow": {
       "flavor": "Daha fazla şarap mı? Château d’Ergot ’07 çok özel bir bağbozumudur. Ah evet, gerçekten de çok özel.",
       "name": "Karadul"
+    },
+    "witch": {
+      "first": "Cadı bir oyuncu seçer. :reminder:",
+      "name": "Cadı",
+      "other": "Cadı bir oyuncu seçer. :reminder:"
+    },
+    "zombuul": {
+      "ability": "Her gece*, bugün hiç kimse ölmediyse, bir oyuncu seç: o kişi ölür. İlk öldüğünde, hayatta kalırsın ama ölü olarak gözükürsün."
     }
   }
 }
