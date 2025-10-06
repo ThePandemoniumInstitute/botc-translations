@@ -254,9 +254,14 @@
   },
   "user": {
     "stats_private": "Privado",
-    "stats_public": "Público"
+    "stats_public": "Público",
+    "upload_avatar": "Subir avatar",
+    "verified": "Usuario verificado"
   },
   "version": {
+    "character_distribution": "Distribución de personajes",
+    "download": "Descargue e instale la última versión {0} aquí.",
+    "players_alive": "{0} / {1} jugadores vivos",
     "update": "¡Por favor, actualizar!",
     "warning_browser": "Esta usando un navegador viejo o no compatible",
     "warning_browser2": "{0}, lo cual podrá causar problemas con la aplicación. Por favor descarguennos las últimas actualizaciones del navegador o cambie a otra. La aplicación funciona mejor en Firefox y Chrome.",
