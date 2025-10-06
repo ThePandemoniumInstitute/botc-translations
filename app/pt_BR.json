@@ -964,7 +964,7 @@
       },
       "chats": "Conversas",
       "following": "Você está seguindo este jogador.",
-      "leave_private": "Sair de Conversa Privada",
+      "leave_private": "Sair da Conversa Privada",
       "leave_room": "Sair da sala",
       "night": "Caiu a noite...",
       "nomination": "Um jogador foi nomeado!",
@@ -980,7 +980,7 @@
     },
     "text": {
       "channels": {
-        "private": "Privado",
+        "private": "Privada",
         "public": "Públicas",
         "spectator": "Espectadores",
         "system": "Partida"
@@ -1005,7 +1005,7 @@
         "phase": "{0} começou.",
         "revive": "{0} reviveu.",
         "seat_claim": "{0} ocupou o assento {1}.",
-        "seat_empty": "{0} foi removido do assento {1}.",
+        "seat_empty": "{0} foi removido(a) do assento {1}.",
         "seat_vacate": "{0} deixou o assento {1}.",
         "signal": "{0} enviou um sinal noturno para {1}.",
         "start": "O jogo começou e os personagens foram enviados!",
@@ -1055,7 +1055,10 @@
     "players_alive": "{0} / {1} jogadores vivos",
     "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
     "since": "desde {0}",
+    "translation_disclaimer": "Você está usando uma versão localizada do aplicativo no momento. Essa tradução foi criada e revisada pelos seguintes voluntários, que não são afiliados ao The Pandemonium Institute:",
+    "translation_game": "O conteúdo traduzido desse jogo, pode não representar corretamente as regras oficiais do jogo em Inglês escritas pelo The Pandemonium Institute.",
     "update": "Atualize!",
+    "updating": "Atualizando o aplicativo para a versão {0}...",
     "warning_browser": "Você está utilizando um navegador antigo ou não suportado",
     "warning_browser2": "{0}, o que pode causar problemas com o aplicativo. Baixe as atualizações mais recentes do navegador ou utilize um navegador diferente. O aplicativo funciona melhor no Firefox e no Chrome.",
     "warning_update": "A versão do seu aplicativo está desatualizada",
