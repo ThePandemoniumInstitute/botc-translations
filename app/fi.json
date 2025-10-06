@@ -1,1 +1,15 @@
-{}
+{
+  "common": {
+    "button_logout": "Kirjaudu ulos",
+    "button_search": "Hae",
+    "button_send": "Lähetä",
+    "cookie_policy": "Evästekäytännöt",
+    "privacy_policy": "Yksityisyyskäytännöt",
+    "session-tags": {
+      "cameras": {
+        "label": "Kamerat",
+        "value_1": "Vaaditaan"
+      }
+    }
+  }
+}
