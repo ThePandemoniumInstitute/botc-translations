@@ -16,16 +16,19 @@
     "button_continue": "Doorgaan",
     "button_logout": "Uitloggen",
     "button_search": "Zoek",
+    "button_send": "Verzenden",
     "cookie_policy": "Cookie Beleid",
     "privacy_policy": "Privacy Beleid",
     "session-tags": {
       "cameras": {
         "label": "Camera's",
+        "title": "Of camera's worden gebruikt in deze spelsessie",
         "value_0": "Optioneel",
         "value_1": "Vereist",
         "value_2": "Uit"
       },
       "difficulty": {
+        "label": "Moeilijkheidsgraad",
         "title": "Het verwachte ervaringsniveau van de spelers in deze spelsessie",
         "value_0": "Gemiddeld",
         "value_1": "Veteraan",
@@ -50,6 +53,7 @@
       },
       "travellers": {
         "label": "Reizigers",
+        "title": "Of reizigers toegestaan zijn in deze spelsessie",
         "value_0": "Optioneel",
         "value_1": "Ja",
         "value_2": "Nee"
@@ -566,7 +570,8 @@
     "users": {
       "chat_connection": "Chat connectie type",
       "grim_access": "Toegang tot Spreukenboek",
-      "group_sub": "Groepsabonnee"
+      "group_sub": "Groepsabonnee",
+      "new_user": "Nieuwe gebruiker"
     }
   },
   "overlays": {
