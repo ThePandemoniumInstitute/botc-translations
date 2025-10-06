@@ -269,6 +269,71 @@
     "monk": {
       "ability": "Her gece*, bir oyuncu seç (kendini değil): o kişi bu gece Şeytana karşı güvende olur.",
       "name": "Keşiş"
+    },
+    "moonchild": {
+      "name": "Ay Çocuğu",
+      "other": "Ay Çocuğu iyi bir oyuncuyu öldürecekse, o kişi ölür. :reminder:"
+    },
+    "mutant": {
+      "flavor": "Ben canavar değilim! Ben insanım! Azıcık merhamet edin!",
+      "name": "Mutant"
+    },
+    "nodashii": {
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. 2 Kasabalı komşun zehirlenir.",
+      "name": "No Dashii",
+      "other": "No Dashii bir oyuncu seçer. :reminder:"
+    },
+    "oracle": {
+      "ability": "Her gece*, kaç ölü oyuncunun kötü olduğunu öğrenirsin.",
+      "name": "Kâhin"
+    },
+    "pacifist": {
+      "ability": "İdam edilen iyi oyuncular ölmeyebilirler.",
+      "flavor": "İçindeki cezalandırma dürtüsü güçlü olan hiç kimseye güvenme.",
+      "name": "Pasifist"
+    },
+    "philosopher": {
+      "first": "Filozof bir karakter seçebilir. Gerekirse karakter pulunu değiştir. :reminder:",
+      "name": "Filozof",
+      "other": "Filozof bir karakter seçebilir. Gerekirse karakter pulunu değiştir. :reminder:"
+    },
+    "pithag": {
+      "name": "Kuyu Acuzesi"
+    },
+    "po": {
+      "name": "Po",
+      "other": "Po bir oyuncu seçebilir VEYA geçen gece hiç kimseyi seçmediyse 3 oyuncu seçer. :reminder: veya :reminder: :reminder: :reminder:"
+    },
+    "professor": {
+      "name": "Profesör",
+      "other": "Profesör ölü bir oyuncu seçebilir. :reminder: :reminder:"
+    },
+    "pukka": {
+      "ability": "Her gece, bir oyuncu seç: o kişi zehirlenir. Önceden zehirlenen oyuncu ölür ve sonra sağlıklı olur.",
+      "first": "Pukka bir oyuncu seçer. :reminder:",
+      "name": "Pukka",
+      "other": "Pukka bir oyuncu seçer. :reminder: Önceden zehirlenen oyuncu ölür ve sonra sağlıklı olur. :reminder:"
+    },
+    "ravenkeeper": {
+      "ability": "Geceleyin ölürsen, bir oyuncu seçmek üzere uyandırılırsın: o kişinin karakterini öğrenirsin.",
+      "name": "Kuzgun Terbiyecisi"
+    },
+    "recluse": {
+      "ability": "Kötü olarak ve bir Yardakçı veya Şeytan olarak gözükebilirsin, ölü olsan bile."
+    },
+    "sage": {
+      "ability": "Şeytan seni öldürürse, onun 2 oyuncudan 1'i olduğunu öğrenirsin.",
+      "name": "Bilge"
+    },
+    "sailor": {
+      "name": "Denizci"
+    },
+    "saint": {
+      "ability": "İdamla ölürsen, takımın kaybeder.",
+      "name": "Aziz"
+    },
+    "savant": {
+      "ability": "Her gün, Hikâyeciyi ziyaret edip gizlice 2 şey öğrenebilirsin: 1'i doğru, 1'i ise yanlış."
     }
   }
 }
