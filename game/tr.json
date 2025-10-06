@@ -79,12 +79,16 @@
       "first": "*SEN* pulunu göster ve bir Yardakçının karakter pulunu göster.",
       "name": "Simyacı"
     },
+    "alsaahir": {
+      "flavor": "Ben senin yüzünden buradayım, ve sen benim yüzümden buradasın."
+    },
     "amnesiac": {
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
     "angel": {
       "ability": "Yeni bir oyuncunun ölümünden en çok sorumlu olan kişinin başına kötü bir şey gelebilir.",
       "first": "Hangi oyuncuların Melek tarafından korunduğunu duyur. O kişilerin yanına *KORUNUYOR* pulunu koy.",
+      "flavor": "Günahsız olanlar benim seçilmiş olanlarıma el kaldırmaya cürret etsin, ki o ahmakları binbir fırtınanın erdemi ve öfkesiyle çarpayım.",
       "name": "Melek"
     },
     "apprentice": {
