@@ -67,8 +67,55 @@
     "spy": {
       "ability": "Elke nacht bekijk je de Grimoire. Je registreert mogelijk als goed & als Dorpeling of Buitenstaander, zelfs als je dood bent."
     },
+    "vortox": {
+      "name": "Vortox"
+    },
+    "voudon": {
+      "name": "Voudon"
+    },
+    "washerwoman": {
+      "name": "Wasvrouw"
+    },
+    "widow": {
+      "name": "Weduwe"
+    },
+    "witch": {
+      "name": "Heks"
+    },
+    "wizard": {
+      "name": "Tovenaar"
+    },
+    "wraith": {
+      "ability": "Jij mag ervoor kiezen om je ogen open te maken in de nacht. Jij wordt ook wakker gemaakt wanneer slechte spelers wakker worden.",
+      "first": "Maak de Schim wakker wanneer andere slechte spelers wakker worden.",
+      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
+      "name": "Schim",
+      "other": "Maak de Schim wakker wanneer andere slechte spelers wakker worden."
+    },
+    "xaan": {
+      "ability": "Tijdens nacht X, alle Dorpelingen zijn vergiftigd tot schemering. [X Buitenstaanders]",
+      "first": "Markeer de Xaan met het *NACHT 1* fiche. Als X 1 is, markeer de Xaan met het *X* geheugen fiche. :reminder: :reminder:",
+      "flavor": "Daar vallen ze, één voor één. Per twee, per drie, per vijf.",
+      "name": "Xaan",
+      "other": "Verander het Xaan geheugen fiche, naar de relevante nacht. Als dit nacht X is, markeer dan de Xaan met het *X* geheugen fiche. :reminder: :reminder:"
+    },
+    "yaggababble": {
+      "ability": "Jij begint het spel met een geheime uitdrukking. Voor elke keer dat jij dit publiekelijk zegt vandaag, sterft er mogelijk een speler.",
+      "first": "Kies een geheime uitdrukking. Maak de Yaggababble wakker en laat de speler weten wat de geheime uitdrukking is.",
+      "flavor": "Moorden in de het Rue lijkenhuis? Фальшивые новости! Honden op de Baskerville heide? Фальшивые новости! Dood tijdens het zeilen over de Nijl? Фальшивые новости!",
+      "name": "Yaggababble",
+      "other": "Voor iedere keer dat de Yaggababble de uitdrukking heeft gezegd vandaag, mag je een speler kiezen. Deze sterft. :reminder:"
+    },
+    "zealot": {
+      "ability": "Als er 5 of meer spelers leven, moet je voor iedere nominatie stemmen.",
+      "flavor": "Ik geniet ervan om met jou te praten. Jouw verstand is aantrekkelijk. Het heeft weg van mijn eigen verstand, behalve dat jij gestoord blijkt te zijn.",
+      "name": "Fanatiekeling"
+    },
     "zombuul": {
-      "other": "Als niemand is doodgegaan vandaag, kiest de Zombuul een speler.:herinnering:"
+      "ability": "Elke nacht*, als er niemand is dood is gegaan vandaag, kies een speler: deze sterft. De eerste keer dat jij sterft leef je, maar je registreert als dood.",
+      "flavor": "Ik kan niet. Begrijpen. Jouw manieren. Medemens. Laat mij zien. De grond. Waar de heilige. Liggen. Slapende. Ik ook. Moet slapen. Binnenkort.",
+      "name": "Zombuul",
+      "other": "Als niemand is doodgegaan vandaag, kiest de Zombuul een speler.:reminder:"
     }
   }
 }
