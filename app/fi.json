@@ -8,7 +8,16 @@
     "session-tags": {
       "cameras": {
         "label": "Kamerat",
+        "title": "Ovatko kamerat käytössä tässä pelisessiossa",
+        "value_0": "Valinnainen",
         "value_1": "Vaaditaan"
+      },
+      "difficulty": {
+        "title": "Pelaajilta tässä pelisessiossa edellytetty kokemustaso",
+        "value_0": "Keskiverto"
+      },
+      "grimoire": {
+        "label": "Pääsy Loitsukirjaan"
       }
     }
   }
