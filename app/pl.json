@@ -116,18 +116,19 @@
         "fabled": "Błąd przy zmianie legendarnych postaci",
         "generic": "Wystąpił błąd",
         "kick": "Nie udało się wyrzucić użytkownika",
-        "link_text": "Wystąpił błąd przy połączeniu konta z Patreon. Proszę spróbować ponownie.",
-        "link_title": "Błąd przy połączeniu konta z Patreon",
+        "link_text": "Wystąpił błąd przy łączeniu twojego konta z serwisem Patreon. Spróbuj ponownie.",
+        "link_title": "Błąd przy łączeniu konta z serwisem Patreon",
         "loading_text": "Coś poszło nie tak przy ładowaniu danych aplikacji. Strona zostanie odświeżona.",
         "loading_title": "Błąd przy ładowaniu danych aplikacji",
         "missing_edition": "Ta sesja gry zawiera skrypt, którego nie można odnaleźć.",
         "missing_edition_title": "Błąd przy ładowaniu edycji",
-        "missing_roles": "Ta sesja zawiera niestandardowe postacie, których nie można znaleźć. Załaduj je zanim dołączysz! Brakujące role: {0}",
+        "missing_roles": "Ta sesja zawiera niestandardowe postacie, których nie można znaleźć. Załaduj je, zanim dołączysz! Brakujące role: {0}",
         "missing_roles_title": "Błąd przy ładowaniu niestandardowych postaci",
         "move_player": "Nie udało się przemieścić gracza",
         "offline": "Serwer wydaje się być offline",
         "remove_player": "Nie udało się usunąć gracza",
-        "remove_storyteller": "Błąd podczas usuwania Bajarza"
+        "remove_storyteller": "Błąd podczas usuwania Bajarza",
+        "request_grim": "Nie udało się poprosić o dostęp do grymuaru"
       }
     }
   }
