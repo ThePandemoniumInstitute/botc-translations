@@ -75,6 +75,7 @@
     "outsider": "Yabancı|Yabancılar",
     "phases": {
       "day": "İlk Gün|Gün {n}",
+      "end": "Oyunlar arası",
       "first_night": "İlk Gece",
       "night": "İlk Gece|Gece {n}",
       "other_nights": "Diğer Geceler",
