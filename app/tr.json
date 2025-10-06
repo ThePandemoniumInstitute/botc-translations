@@ -2,9 +2,9 @@
   "common": {
     "account-levels": {
       "free": "Ücretsiz",
-      "patreon-demon": "Şeytan katmanı",
-      "patreon-minion": "Yardakçı katmanı",
-      "patreon-townsfolk": "Kasabalı katmanı",
+      "patreon-demon": "Şeytan seviyesi",
+      "patreon-minion": "Yardakçı seviyesi",
+      "patreon-townsfolk": "Kasabalı seviyesi",
       "special-free": "Bedelsiz",
       "special-moderator": "Moderatör",
       "special-tpi": "TPI Personeli"
@@ -96,6 +96,7 @@
     "change_icon": "Simgeyi değiştirmek için tıkla",
     "char_sheet": "Karakter Kâğıdı",
     "characters": "Karakterleri Seç",
+    "clear_grim": "",
     "fabled": "Efsane Ekle",
     "fullscreen": "Tam Ekran",
     "gather": "Oyuncularını Topla",
