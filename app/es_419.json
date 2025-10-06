@@ -1055,6 +1055,7 @@
     "character_distribution": "Distribución de roles",
     "download": "Descargue e instale la última versión {0} aquí.",
     "players_alive": "{0} / {1} jugadores vivos",
+    "reload": "Actualice o borre el caché de su navegador para obtener la última versión.",
     "since": "desde {0}",
     "update": "¡Por favor, Actualiza!",
     "warning_browser": "Estas usando un navegador viejo o no compatible",
