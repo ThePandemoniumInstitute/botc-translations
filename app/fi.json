@@ -36,19 +36,44 @@
         "value_1": "Ei",
         "value_2": "Kyllä"
       },
+      "streaming": {
+        "value_0": "Ei",
+        "value_1": "Kyllä"
+      },
+      "subscription": {
+        "label": "Tilaus vaaditaan",
+        "title": "Tähän peliin liittyminen vaatii aktiivisen tilauksen"
+      },
       "travellers": {
-        "value_0": "Valinnainen"
+        "value_0": "Valinnainen",
+        "value_1": "Kyllä",
+        "value_2": "Ei"
       }
     },
-    "title": "Verta Kellotornissa Online"
+    "terms_of_use": "Käyttöehdot",
+    "title": "Verta Kellotornissa Online",
+    "unnamed_user": "Nimetön käyttäjä"
   },
   "grimoire": {
+    "abilities": {
+      "ghost-votes": "Palauta Haamuäänet",
+      "grimoire": "Näytä Loitsukirja",
+      "open-eyes": "Avaa/Sulje silmät"
+    },
+    "minion": "Kätyri|Kätyrit",
     "phases": {
+      "day": "Ensimmäinen Päivä|Päivä {n}",
       "end": "Pelien välissä",
-      "night": "Ensimmäinen yö|Yö {n}"
-    }
+      "first_night": "Ensimmäinen yö",
+      "night": "Ensimmäinen yö|Yö {n}",
+      "other_nights": "Muut yöt"
+    },
+    "player": "Pelaaja {0}",
+    "players": "",
+    "token": "Merkki"
   },
   "main-menu": {
-    "change_icon": "Napauta vaihtaaksesi kuvaketta"
+    "change_icon": "Napauta vaihtaaksesi kuvaketta",
+    "clear_grim": "Tyhjennä loitsukirja"
   }
 }
