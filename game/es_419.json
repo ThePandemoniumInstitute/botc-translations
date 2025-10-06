@@ -12,11 +12,42 @@
       "name": "Homebrew"
     },
     "snv": {
-      "description": "…es la más loca de las tres ediciones incluídas en el set básico. Los roles buenos obtienen información increíble todas las noches. Sin embargo, el equipo de los malvados es extremadamente versátil y amenazador y puede agregar mucha confusión a la mezcla. Los roles cambian de alineamiento. Los jugadores cambian de rol. Incluso el equipo de los malvados puede perder el rastro de quién es quién. Esta es también la primera aparición de la locura, que pone todo tipo de trabas en el juego."
+      "description": "…es la más loca de las tres ediciones incluídas en el set básico. Los roles buenos obtienen información increíble todas las noches. Sin embargo, el equipo de los malvados es extremadamente versátil y amenazador y puede agregar mucha confusión a la mezcla. Los roles cambian de alineamiento. Los jugadores cambian de rol. Incluso el equipo de los malvados puede perder el rastro de quién es quién. Esta es también la primera aparición de la locura, que pone todo tipo de trabas en el juego.",
+      "name": "Sectas & Violetas"
+    },
+    "tb": {
+      "description": "…tiene un poco de todo. Algunos roles pasivamente reciben información, otros tienen que tomar acción para aprender quién es quién, mientras que otros simplemente quieren provocar al Demonio a atacarlos. Tanto los buenos como los malvados pueden ganar una ventaja haciendo sacrificios en el momento adecuado.\nGestando Problemas consiste simplemente en atrapar al Demonio, pero los malvados tienen un sinnúmero de trucos ruines bajo la manga, así que los jugadores buenos deberán cuestionarse todo lo que creen saber si pretenden sobrevivir.",
+      "name": "Gestando Problemas"
     }
   },
   "jinxes": {
     "alchemist-boffin": "Si el Alquimista tiene la habilidad del Científico, el Alquimista no aprende qué habilidad tiene el Demonio.",
-    "alchemist-marionette": "Un Alquimista-Marioneta no tiene la habilidad de la Marioneta, y además la Marioneta está en juego."
+    "alchemist-marionette": "Un Alquimista-Marioneta no tiene la habilidad de la Marioneta, y además la Marioneta está en juego.",
+    "alchemist-mastermind": "Un Alquimista-Mente Maestra no tiene la habilidad de la Mente Maestra, y además la Mente Maestra no está en juego.",
+    "alchemist-organgrinder": "Si el Alquimista tiene la habilidad del Organillero, el Organillero está en juego. Si ambos están sobrios, ambos están borrachos.",
+    "alchemist-spy": "Un Alquimista-Espía no tiene la habilidad del Espía, y además el Espía está en juego. Luego de cada ejecución, un Alquimista-Espía vivo puede públicamente adivinar qué jugador vivo es el Espía. Si adivina correctamente, el Demonio debe escoger al Espía esta noche.",
+    "alchemist-summoner": "El Alquimista-Invocador no recibe coartadas, y escoge qué Demonio pero no qué jugador. Si él muere antes de que esto pueda ocurrir, los malvados ganan. [Ningún Demonio]",
+    "alchemist-widow": "El Alquimista-Viuda no tiene la habilidad de la Viuda, y además la Viuda está en juego. Luego de cada ejecución, un Alquimista-Viuda vivo puede públicamente adivinar qué jugador vivo es la Viuda. Si adivina correctamente, el Demonio debe escoger a la Viuda esta noche.",
+    "alchemist-wraith": "El Alquimista-Espectro no tiene la habilidad del Espectro, y además el Espectro está en juego. Luego de cada ejecución, un Alquimista-Espectro vivo puede públicamente adivinar qué jugador vivo es el Espectro. Si adivina correctamente, el Demonio debe escoger al Espectro esta noche.",
+    "alhadikhia-mastermind": "Si el Al-Hadikhia muere por ejecución, y la Mente Maestra esta viva, el Al-Hadikhia escoge 3 jugadores buenos esta noche: si todos los 3 escogen vivir, los malvados ganan. De lo contrario, los buenos ganan.",
+    "alhadikhia-princess": "Si la Princesa nominó y ejecutó a un jugador en su 1er día, nadie muere a manos del Al-Hadikhia esta noche.",
+    "alhadikhia-scarletwoman": "Si hubiera dos Demonios, uno de los cuales fue anteriormente la Mujer Escarlata, la Mujer Escarlata se convierte en la Mujer Escarlata nuevamente.",
+    "alsaahir-vizier": "El Narrador no declara que el Visir está en juego.",
+    "atheist-riot": "Durante el disturbio, si el Narrador es nominato, los jugadores votan. Si él está \"a punto de morir\", el juego termina. Si no, él nomina nuevamente.",
+    "balloonist-marionette": "Si la Marioneta cree que es el Aeronauta, un Extranjero quizás ha sido agregado durante la preparación del juego.",
+    "banshee-leviathan": "Cada noche*, el Leviatán escoge un jugador bueno vivo (diferente a las noches previas): una Llorona escogida muere y además gana su habilidad.",
+    "banshee-riot": "Cada noche*, el Disturbio escoge un jugador bueno vivo (diferente a las noches previas): una Llorona escogida muere y además gana su habilidad.",
+    "banshee-vortox": "Si el Vórtice mata a la Llorona, todos los jugadores aprenden que la Llorona ha muerto.",
+    "baron-heretic": "Solo 1 de los roles conjurados puede estar en juego.",
+    "baron-plaguedoctor": "Si el Narrador fuera a ganar la habilidad del Barón, hasta 2 jugadores se convierten en Extranjeros.",
+    "boffin-cultleader": "Si el Demonio posee la habilidad del Cultista, él no se puede volver bueno debido a esta habilidad.",
+    "boffin-drunk": "Si el Demonio fuera a tener la habilidad del Borracho, en lugar de esto, el Científico escoge a un jugador Ciudadano para poseer esta habilidad.",
+    "boffin-goon": "Si el Demonio posee la habilidad del Matón, él no se puede volver bueno debido a esta habilidad.",
+    "boffin-heretic": "El Demonio no puede poseer la habilidad del Hereje.",
+    "boffin-ogre": "El Demonio no puede poseer la habilidad del Ogro.",
+    "boffin-politician": "El Demonio no puede poseer la habilidad del Político.",
+    "boffin-villageidiot": "Si hay una ficha disponible, el Científico le puede otorgar la habilidad del Tonto del Pueblo al Demonio.",
+    "boomdandy-plaguedoctor": "Si el Narrador fuera a ganar la habilidad del Guapetardo, un jugador se convierte en el Guapetardo.",
+    "bountyhunter-kazali": "Si el Kazali convierte al Cazarrecompensas en un Secuaz, no se crea un Ciudadano malvado."
   }
 }
