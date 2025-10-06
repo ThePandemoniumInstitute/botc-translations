@@ -4,6 +4,9 @@
       "free": "Ilmainen",
       "special-moderator": "Moderaattori"
     },
+    "button_close": "Sulje",
+    "button_confirm": "Vahvista",
+    "button_continue": "Jatka",
     "button_logout": "Kirjaudu ulos",
     "button_search": "Hae",
     "button_send": "Lähetä",
@@ -14,14 +17,21 @@
         "label": "Kamerat",
         "title": "Käytetäänkö kameroita tässä pelisessiossa",
         "value_0": "Vaihtoehtoinen",
-        "value_1": "Vaaditaan"
+        "value_1": "Vaaditaan",
+        "value_2": "Pois käytöstä"
       },
       "difficulty": {
+        "label": "Vaikeustaso",
         "title": "Pelaajien odotettu taitotaso tässä pelisessiossa",
-        "value_0": "Tavanomainen"
+        "value_0": "Tavanomainen",
+        "value_1": "Veteraani",
+        "value_2": "Aloittelija"
       },
       "grimoire": {
-        "label": "Loitsukirjaan pääsy"
+        "label": "Loitsukirjaan pääsy",
+        "value_0": "Kysy",
+        "value_1": "Ei",
+        "value_2": "Kyllä"
       },
       "travellers": {
         "value_0": "Valinnainen"
