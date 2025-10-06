@@ -2,7 +2,7 @@
   "editions": {
     "bmr": {
       "description": "... is een extravaganza aan doden. De Demoon doodt meerdere keren per nacht, en Volgelingen doen mee aan de actie. Goede spelers kunnen een groot risico nemen om betrouwbare informatie te krijgen, maar kunnen daarbij hun vrienden doden in het proces. Gelukkig zijn er veel manieren om spelers in leven te houden na hun sterfdatum. Als het goede team niet kan bepalen welke Volgelingen en Demoon in het spel zitten, is hun ondergang vrijwel zeker.",
-      "name": "Bad Moon Rising"
+      "name": "Slechte Maan op Komst"
     },
     "custom": {
       "name": "Zelfgemaakt Script"
@@ -58,6 +58,9 @@
     "ravenkeeper": {
       "flavor": "Mijn vogels zullen wraak nemen! Vlieg! Vlieg mijn lieve loyale dieren. Van het kasteel tot de oceaan. Van de vallei tot aan de straten. Vlieg!"
     },
+    "scarletwoman": {
+      "name": "Rode Vrouw"
+    },
     "seamstress": {
       "flavor": "Heb je gehoord dat die vreemdeling in de kasjmierjas ons jonge Belle het hof maakte? En ze heeft ja gezegd? Nou, dat is niets vergeleken met wat Harry en die jongleur op de kermis hebben uitgespookt! De dingen die ik zou kunnen vertellen als ik roddelde… ach, ja."
     },
@@ -93,8 +96,8 @@
       "other": "Maak de Schim wakker wanneer andere slechte spelers wakker worden."
     },
     "xaan": {
-      "ability": "Tijdens nacht X, alle Dorpelingen zijn vergiftigd tot schemering. [X Buitenstaanders]",
-      "first": "Markeer de Xaan met het *NACHT 1* fiche. Als X 1 is, markeer de Xaan met het *X* geheugen fiche. :reminder: :reminder:",
+      "ability": "Tijdens nacht X zijn alle Dorpelingen vergiftigd tot schemering. [X Buitenstaanders]",
+      "first": "Markeer de Xaan met het *NACHT 1* token. Als X 1 is, markeer de Xaan met het *X* token. :reminder: :reminder:",
       "flavor": "Daar vallen ze, één voor één. Per twee, per drie, per vijf.",
       "name": "Xaan",
       "other": "Verander het Xaan geheugen fiche, naar de relevante nacht. Als dit nacht X is, markeer dan de Xaan met het *X* geheugen fiche. :reminder: :reminder:"
