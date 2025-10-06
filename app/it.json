@@ -17,8 +17,8 @@
     "button_logout": "Logout",
     "button_search": "Cerca",
     "button_send": "Invia",
-    "cookie_policy": "Policy Cookies",
-    "privacy_policy": "Informativa sulla Privacy",
+    "cookie_policy": "Politica dei Cookie",
+    "privacy_policy": "Politica della Privacy",
     "session-tags": {
       "cameras": {
         "label": "Telecamere",
@@ -74,7 +74,7 @@
     },
     "demon": "Demone|Demoni",
     "fabled": "Leggendario|Leggendari",
-    "minion": "Seguace|Seguaci",
+    "minion": "Minion|Minion",
     "outsider": "Estraneo|Estranei",
     "phases": {
       "day": "Primo Giorno|Giorno {n}",
