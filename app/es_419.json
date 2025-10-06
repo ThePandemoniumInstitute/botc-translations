@@ -192,8 +192,75 @@
       }
     }
   },
+  "pages": {
+    "lobby": {
+      "button_local_play": "Partida Local",
+      "button_mod": "Moderador",
+      "button_quit": "Abandonar",
+      "button_settings": "Ajustes",
+      "button_verify": "Verificar Cuenta",
+      "characters": "Personajes",
+      "create_game": "Crear Nuevo Juego",
+      "edition_by": "por {author}",
+      "forced_private": "Ya no puede jugar en juegos públicos.",
+      "free_tier_free": "Gratis",
+      "free_tier_patreon": "Patreon",
+      "free_tier_unverified": "Tienes una cuenta {0}. Puedes jugar en cualquiera de los juegos mencionados haciendo clic en el botón de la izquierda, a menos que requieran una suscripción. Si quieres organizar tus propios juegos, suscríbete en {1}.",
+      "free_tier_verified": "Tienes una cuenta {0}. Necesitas {1} para poder jugar en partidas públicas. Si quieres organizar tus propias partidas, suscríbete en {2}.",
+      "free_tier_verify": "Verifica tu cuenta",
+      "game": "Juego",
+      "language": "Idioma",
+      "loading": "Cargando juegos...",
+      "no_games": "No se encontraron juegos públicos.",
+      "page": "Página {page} de {total}",
+      "phase": "Fase",
+      "players": "Jugadores",
+      "script": "Guion",
+      "show_private": "Mostrar partidas privadas",
+      "spectators": "Espectadores",
+      "stats": "{0} usuarios están en {1} {2} juegos",
+      "stats_public": "público",
+      "subscription": "Nivel de suscripción",
+      "updating": "Actualizando...",
+      "welcome": "¡Bienvenido a {0}!"
+    },
+    "login": {
+      "accept": "Acepte nuestros {0}, {1} y {2}.",
+      "description": "Inicie sesión o cree una cuenta para continuar:",
+      "email": "Dirección de correo electrónico",
+      "error_captcha": "Por favor complete el captcha",
+      "error_password": "Las contraseñas no coinciden",
+      "password": "Contraseña",
+      "password_confirm": "Confirmación de Contraseña",
+      "password_reset": "Se han enviado instrucciones para restablecer su contraseña a su correo electrónico asociado.",
+      "recover_password": "Recuperar Contraseña",
+      "register": "Registrar",
+      "subscribe": "Suscríbete a la Lista de Correo",
+      "title": "Bienvenido a Blood on the Clocktower En Línea - ¡En Construcción!",
+      "username": "Nombre de usuario"
+    },
+    "update": {
+      "description": "Actualmente estás usando la versión {0}, pero la última versión es {1}.",
+      "download": "Descargue la última versión de {label} aquí.",
+      "reload": "Actualice la página o borre el caché de su navegador para actualizar.",
+      "title": "Por favor actualice su aplicación"
+    },
+    "verification": {
+      "button_resend": "Reenviar código",
+      "code": "Código de 6 dígitos",
+      "description": "Verifica tu cuenta para continuar. Te enviamos un código a tu correo electrónico. Introdúcelo para continuar. ¿No puedes acceder a ese correo electrónico?",
+      "email_success": "Correo electrónico enviado exitosamente."
+    }
+  },
   "user": {
     "stats_private": "Privado",
     "stats_public": "Público"
+  },
+  "version": {
+    "update": "¡Por favor, actualizar!",
+    "warning_browser": "Esta usando un navegador viejo o no compatible",
+    "warning_browser2": "{0}, lo cual podrá causar problemas con la aplicación. Por favor descarguennos las últimas actualizaciones del navegador o cambie a otra. La aplicación funciona mejor en Firefox y Chrome.",
+    "warning_update": "La versión de su aplicación no está actualizada",
+    "warning_update2": "¡{0}, la última versión es {1}!"
   }
 }
