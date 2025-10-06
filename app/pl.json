@@ -129,7 +129,18 @@
         "remove_player": "Nie udało się usunąć gracza",
         "remove_storyteller": "Błąd podczas usuwania Bajarza",
         "request_grim": "Nie udało się poprosić o dostęp do grymuaru"
+      },
+      "prompt": {
+        "pronouns_placeholder": "Zaimki",
+        "pronouns_text": "Wpisz swoje Zaimki:",
+        "pronouns_title": "Wpisz swoje Zaimki",
+        "terms": "Zaktualizowane Warunki Świadczenia Usług",
+        "username_placeholder": "Nazwa Użytkownika",
+        "username_text": "Wpisz swoją Nazwę Użytkownika:"
       }
     }
+  },
+  "version": {
+    "warning_update2": "{0}, najnowsza wersja to {1}!"
   }
 }
