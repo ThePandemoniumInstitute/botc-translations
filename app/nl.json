@@ -88,7 +88,11 @@
     "night_sheet": "Nacht Volgordevel",
     "prompt_clear_player": "Weet je zeker dat je alle speler karakter en herinnering fisches wilt verwijderen?",
     "prompt_clear_st": "Dit wist de Grimoire en Herinnering fisches voor jezelf, en alle anderen. Weet je het zeker?",
+    "prompt_timer_text": "Kies een tijd en (optioneel) titel voor de timer:",
+    "prompt_timer_title": "Stel een timer in",
+    "prompt_vacate_text": "Je bent op het moment in een actief spel, weet je zeker dat je je stoel wilt verlaten?",
     "prompt_vacate_title": "Stoel Verlaten",
+    "push_to_talk": "Druk [{0}] om te praten",
     "vacate_seat": "Stoel Verlaten"
   },
   "modals": {
