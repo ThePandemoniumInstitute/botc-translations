@@ -73,16 +73,19 @@
       "other": "Akrobat bir oyuncu seçer. :reminder:"
     },
     "alchemist": {
+      "first": "*SEN* pulunu göster ve bir Yardakçının karakter pulunu göster.",
       "name": "Simyacı"
     },
     "amnesiac": {
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
     "angel": {
+      "ability": "Yeni bir oyuncunun ölümünden en çok sorumlu olan kişinin başına kötü bir şey gelebilir.",
+      "first": "Hangi oyuncuların Melek tarafından korunduğunu duyur. O kişilerin yanına *KORUNUYOR* pulunu koy.",
       "name": "Melek"
     },
     "apprentice": {
-      "flavor": "Yıllarca gezdim gördüm, Zanaat'ın yöntemlerini çalıştım. Hangi zanaat mi? Basitçe, basit insanlarınki. Dert edilecek bir şey değil. Henüz.",
+      "flavor": "Yıllarca gezdim gördüm, Zanaat'ın yöntemlerini çalıştım. Hangi zanaat mı? Basitçe, basit insanlarınki. Dert edilecek bir şey değil. Henüz.",
       "name": "Çırak"
     },
     "artist": {
@@ -98,6 +101,11 @@
     },
     "atheist": {
       "name": "Ateist"
+    },
+    "balloonist": {
+      "first": "Herhangi bir oyuncu göster. :reminder:",
+      "name": "Baloncu",
+      "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
     },
     "barber": {
       "ability": "Bugün veya bu gece öldüysen, Şeytan 2 oyuncu seçip (başka bir Şeytanı değil) karakterlerini birbiriyle değiştirebilir.",
