@@ -66,7 +66,10 @@
     "minion": "Volgeling|Volgelingen",
     "outsider": "Buitenstaander|Buitenstaanders",
     "phases": {
-      "day": "Eerste Dag|Dag [n]"
+      "day": "Eerste Dag|Dag [n]",
+      "end": "Tussen spellen",
+      "first_night": "Eerste Nacht",
+      "night": "Eerste Nacht|Nacht [n]"
     }
   },
   "main-menu": {
