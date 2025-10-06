@@ -75,7 +75,7 @@
   "modals": {
     "announcement": {
       "description": "Co chcesz ogłosić?",
-      "error": "Błąd przy wysyłaniu Ogłoszenia",
+      "error": "Błąd podczas wysyłania ogłoszenia",
       "input_text": "Tekst ogłoszenia",
       "input_title": "Tytuł ogłoszenia"
     },
@@ -84,11 +84,11 @@
       "button_yes": "Tak",
       "error": {
         "add_player": "Nie udało się dodać gracza",
-        "avatar_pixel": "Twój obraz jest za duży. Zeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
-        "avatar_size": "Twój plik jest za duży. Spróbuj ponownie z obrazem o rozmiarze poniżej 5 MB.",
-        "avatar_type": "Twój plik nie jest rozpoznany jako obraz.",
+        "avatar_pixel": "Twój obraz jest za duży. Przeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
+        "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
+        "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
         "bluffs": "Błąd podczas aktualizacji blefów",
-        "chat2_title": "Serwer Czatu Rozłączony",
+        "chat2_title": "Rozłączono z serwerem czatu",
         "chat_text": "Stracono połączenie z serwerem czatu, próba ponownego połączenia...\n Wiadomość błędu: {0}",
         "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
         "clear_grim": "Nie udało się wyczyścić grymuaru",
