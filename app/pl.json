@@ -87,7 +87,7 @@
         "avatar_pixel": "Twój obraz jest za duży. Przeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
         "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
         "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
-        "bluffs": "Błąd podczas aktualizacji blefów",
+        "bluffs": "Błąd przy zmianie blefów.",
         "chat2_title": "Rozłączono z serwerem czatu",
         "chat_text": "Stracono połączenie z serwerem czatu, próba ponownego połączenia...\n Wiadomość błędu: {0}",
         "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
