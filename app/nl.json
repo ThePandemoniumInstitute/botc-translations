@@ -2,10 +2,10 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
-      "patreon-demon": "Demoon niveau",
-      "patreon-minion": "Minion niveau",
-      "patreon-townsfolk": "dorpeling niveau",
-      "special-free": "Gratis",
+      "patreon-demon": "Demoon rang",
+      "patreon-minion": "Volgeling rang",
+      "patreon-townsfolk": "Dorpeling rang",
+      "special-free": "Complimentair",
       "special-moderator": "Moderator",
       "special-tpi": "TPI Personeel"
     },
@@ -30,6 +30,7 @@
         "value_2": "Beginner"
       },
       "grimoire": {
+        "label": "Grimoire Toegang",
         "value_0": "Vraag",
         "value_1": "Nee",
         "value_2": "Ja"
@@ -73,8 +74,11 @@
     }
   },
   "main-menu": {
+    "error_audio3": "Je moet misschien ook {0} in Firefox om het geluid van de app te horen.",
     "error_audio4": "verander een instelling",
-    "prompt_vacate_title": "Verlaten Stoel",
+    "fullscreen": "Volledig scherm",
+    "gong_recall": "Terugroepen naar Dorpsplein",
+    "prompt_vacate_title": "Stoel Verlaten",
     "vacate_seat": "Stoel Verlaten"
   },
   "modals": {
@@ -92,7 +96,9 @@
       "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:"
     },
     "settings": {
-      "css_text": "Je kunt hier het uiterlijk van je app aanpassen door een URL naar een aangepast CSS bestand of de CSS code zelf in te voeren. Het Pandemonium Institute is niet verantwoordelijk voor CSS code die door andere gebruikers wordt aangeleverd. Het laden van schadelijke CSS code kan je app onbruikbaar maken."
+      "css_text": "Je kunt hier het uiterlijk van je app aanpassen door een URL naar een aangepast CSS bestand of de CSS code zelf in te voeren. Het Pandemonium Institute is niet verantwoordelijk voor CSS code die door andere gebruikers wordt aangeleverd. Het laden van schadelijke CSS code kan je app onbruikbaar maken.",
+      "css_title": "Voer Aangepaste CSS in",
+      "image_text": "Weet je zeker dat je aangepaste afbeeldingen wilt toestaan? Een kwaadaardige script maker kan op deze manier uw IP-adres traceren. Het Pandemonium Institute heeft geen controle over de afbeeldingen die door andere gebruikers van de app worden geleverd."
     }
   }
 }
