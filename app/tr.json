@@ -53,12 +53,14 @@
       },
       "travellers": {
         "label": "Gezginler",
+        "title": "Gezginlere bu oyun oturumunda izin verilip verilmediği",
         "value_0": "İsteğe Bağlı",
         "value_1": "Evet",
         "value_2": "Hayır"
       }
     },
     "terms_of_use": "Kullanım Koşulları",
+    "title": "Blood on the Clocktower Çevrimiçi",
     "unnamed_user": "İsimsiz kullanıcı"
   },
   "grimoire": {
@@ -96,11 +98,16 @@
     "change_icon": "Simgeyi değiştirmek için tıkla",
     "char_sheet": "Karakter Kâğıdı",
     "characters": "Karakterleri Seç",
-    "clear_grim": "",
+    "clear_grim": "Grimoire'ı Temizle",
+    "download": "{0} Uygulamasını Yükle",
+    "edition": "Baskı Seç",
+    "error_audio3": "Firefox'da uygulamadan ses gelmesi için {0} gerekli olabilir.",
+    "error_audio4": "bir ayar değiştir",
     "fabled": "Efsane Ekle",
     "fullscreen": "Tam Ekran",
     "gather": "Oyuncularını Topla",
     "gong_attention": "Çağrı Çanı",
+    "gong_recall": "Kasaba Meydanına Geri Çağır",
     "grim_access": "Size Grimoire erişimi verildi",
     "grim_request": "Bir izleyici Grimoire erişimi talep etti",
     "help": "Yardım",
@@ -118,7 +125,7 @@
     "prompt_vacate_text": "Şu an devam etmekte olan bir oyundasın, koltuğundan kalkmak istediğinden emin misin?",
     "prompt_vacate_title": "Koltuktan Kalk",
     "raise_hand": "Elini Kaldır",
-    "request_private": "Gizli Sohbet Talep Et",
+    "request_private": "Özel Sohbet Talep Et",
     "rules": "Kuralları Oku",
     "set_timer": "Zamanlayıcı Kur",
     "settings": "Ayarlar",
@@ -145,7 +152,53 @@
       "button_evil": "Kötüler kazandı",
       "button_good": "İyiler kazandı",
       "button_no": "Hayır",
-      "button_yes": "Evet"
+      "button_yes": "Evet",
+      "error": {
+        "bluffs": "Blöfleri güncellerken hata oluştu",
+        "chat2_text": "Bu sohbet sunucusu çevrimdışı gibi gözüküyor",
+        "chat2_title": "Sohbet Sunucusunun Bağlantısı Koptu",
+        "chat_title": "Bir sohbet bağlantısı hatası oluştu",
+        "claiming": "Koltuğa otururken bir hata oluştu",
+        "clear_grim": "Grimoire temizlenemiyor",
+        "connection": "Bir bağlantı hatası oluştu",
+        "edition_change": "Baskı değiştirirken bir hata oluştu",
+        "end": "Oyunu bitirirken bir hata oluştu",
+        "fabled": "Efsaneleri güncellerken bir hata oluştu",
+        "generic": "Bir hata yaşandı",
+        "link_title": "Hesabı Patreon'a bağlarken bir hata oluştu",
+        "loading_text": "Uygulama verisini yüklerken bir şey ters gitti. Sayfa yenilenecek.",
+        "loading_title": "Uygulama verisini yüklerken bir hata oluştu",
+        "missing_edition": "Bu oturum bulunamayan bir baskı içeriyor.",
+        "missing_edition_title": "Baskı yüklenirken bir hata oluştu",
+        "move_player": "Oyuncunun yeri değiştirilemiyor",
+        "offline": "Bu sunucu çevrimdışı gibi gözüküyor",
+        "server_title": "Oyun Sunucusunun Bağlantısı Koptu",
+        "session_not_found": "Oyun oturumu bulunamadı.",
+        "session_public": "Herkese açık oyun oturumlarına katılamazsın.",
+        "session_rejoin": "Henüz bu oyun oturumuna geri katılamazsın.",
+        "session_subscription": "Bu oyun oturumuna katılabilmek için bir aboneliğe ihtiyacın var.",
+        "subscription_title": "Pateron aboneliği bulunamadı"
+      },
+      "prompt": {
+        "join_text": "Lütfen katılmak istediğiniz oyun oturumunun ismini veya numarasını giriniz",
+        "join_title": "Bir oyuna katıl"
+      },
+      "timer_start": "Başlat",
+      "timer_title": "Zamanlayıcının ismi (isteğe bağlı)",
+      "unit_minutes": "dakika",
+      "unit_seconds": "saniye"
+    },
+    "edition": {
+      "button_clear": "Grimoire'ı Temizle",
+      "button_paste": "Yapıştır",
+      "button_upload": "Yükle",
+      "button_url": "URL",
+      "error_size": "Dosya boyutu çok büyük",
+      "error_size_text": "Seçtiğiniz senaryo {0}MB boyutunda, fakat maksimum boyut {1}MB."
+    },
+    "role": {
+      "title_alignment_e": "Kötü",
+      "title_alignment_g": "İyi"
     }
   }
 }
