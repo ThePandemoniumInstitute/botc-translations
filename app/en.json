@@ -147,6 +147,7 @@
     "tab_playing": "Playing",
     "to_day": "Go to Day Phase",
     "to_night": "Go to Night Phase",
+    "translation": "Improve this translation",
     "user_list": "User List",
     "vacate_seat": "Vacate Seat",
     "vote_history": "Vote History"
@@ -280,7 +281,7 @@
       "error_character": "Too many characters",
       "error_character_text": "This script contains more than 200 characters - please remove some of them.",
       "error_custom": "Error loading custom script",
-      "error_loading": "Some roles characters not be loaded: {0}",
+      "error_loading": "Some characters could not be loaded: {0}",
       "error_script": "Script is not valid",
       "error_script_text": "This script was loaded but contains some problems. This usually means there are some lines that should not be there, according to the official Custom Script JSON schema.",
       "error_size": "File size too big",
@@ -607,7 +608,7 @@
       "error_403": "This phone number is already being used by a different user. If you think this is incorrect, please contact us at {0}.",
       "error_404": "The verification attempt has expired or is invalid. Please try again.",
       "error_assigned": "This phone number is already assigned to another user, please use a different phone number.",
-      "error_cooldown": "You have reached the maximum number of attempts. Please wait at least 10 minutes before trying again.",
+      "error_cooldown": "You have reached the maximum number of attempts. Please wait at least {0} minutes before trying again.",
       "error_other": "Something went wrong: {0}. Please try again.",
       "error_pending": "Incorrect code. Please try again.",
       "error_restart": "You have reached the maximum number of attempts. Please enter your phone number again.",
@@ -742,7 +743,7 @@
     },
     "whisper": {
       "muted": "This player is muted / silenced in the voice chat.",
-      "video_muted": "This player is has their camera paused / disabled."
+      "video_muted": "This player has their camera paused / disabled."
     }
   },
   "pages": {
@@ -1057,7 +1058,10 @@
     "players_alive": "{0} / {1} players alive",
     "reload": "Please reload or clear your browser cache to get the latest version.",
     "since": "since {0}",
+    "translation_disclaimer": "You're currently using a localized version of the app. This translation has been created and reviewed by the following volunteers, who are not affiliated with The Pandemonium Institute:",
+    "translation_game": "This game content translation might not accurately reflect the official English game rules as written by The Pandemonium Institute.",
     "update": "Please Update!",
+    "updating": "Updating app to version {0}...",
     "warning_browser": "You are using an old or unsupported browser",
     "warning_browser2": "{0}, which might cause issues with the app. Please download the latest browser updates or switch to a different browser. The app works best in Firefox and Chrome.",
     "warning_update": "Your app version is outdated",

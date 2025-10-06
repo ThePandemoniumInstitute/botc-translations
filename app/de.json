@@ -147,6 +147,7 @@
     "tab_playing": "Spieler",
     "to_day": "Tag beginnen",
     "to_night": "Nacht beginnen",
+    "translation": "Übersetzung verbessern",
     "user_list": "Benutzerliste",
     "vacate_seat": "Sitz verlassen",
     "vote_history": "Abstimmungen"
@@ -1057,7 +1058,10 @@
     "players_alive": "{0} / {1} lebende Spieler",
     "reload": "Bitte lade die Seite neu oder leere deinen Browser-Cache, um die aktuelle Version zu erhalten.",
     "since": "seit {0}",
+    "translation_disclaimer": "Du siehst jetzt eine übersetzte Version der App. Diese Übersetzung wurde von den folgenden Freiwilligen verfasst, die nicht in Verbindung mit The Pandemonium Institute stehen:",
+    "translation_game": "Diese inoffizielle Übersetzung der Spiel-Inhalte ist möglicherweise nicht akkurat den Spielregeln entsprechend, wie sie von TPI geschrieben wurden.",
     "update": "Bitte Updaten!",
+    "updating": "Aktualisiere die App auf Version {0}...",
     "warning_browser": "Du benutzt einen alten oder nicht mehr unterstützten Browser",
     "warning_browser2": "{0}, was zu Problemen mit der App führen kann. Bitte lade dir die neuesten Browser-Updates herunter oder wechsel zu einem anderen Browser. Die App funktioniert am besten mit Chrome oder Firefox.",
     "warning_update": "Deine App ist veraltet",
