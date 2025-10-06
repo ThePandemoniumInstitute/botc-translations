@@ -929,7 +929,8 @@
       "download": "Baixar Cenário JSON",
       "error_popout": "Erro ao criar janela",
       "error_save": "Erro ao salvar o arquivo",
-      "other_nights": "Exceto a\nprimeira noite",
+      "jinxes": "Gambiarras",
+      "other_nights": "Exceto a\n primeira noite",
       "popout": "Aba de Personagem em Pop-out"
     },
     "characters": {
@@ -1053,7 +1054,7 @@
   },
   "version": {
     "character_distribution": "Distribuição de personagens",
-    "download": "Baixe e instale a versão {0} mais recente aqui.",
+    "download": "Baixe e instale a versão para {0} mais recente aqui.",
     "players_alive": "{0} / {1} jogadores vivos",
     "reload": "Por favor, recarregue ou limpe o cachê do navegador para obter a última versão.",
     "since": "desde {0}",
