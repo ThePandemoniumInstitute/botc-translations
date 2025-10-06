@@ -814,8 +814,8 @@
       "password_reset": "As instruções para redefinir sua senha foram enviadas para o endereço de e-mail associado.",
       "recover_password": "Recuperar senha",
       "register": "Registrar",
-      "subscribe": "Inscrever-se na Lista de Discussão",
-      "title": "Boas-vindas ao Blood On the Clocktower Online - Em Desenvolvimento!",
+      "subscribe": "Inscrever-se na mailing list",
+      "title": "Bem-vindo ao Blood On the Clocktower Online - Em Desenvolvimento!",
       "username": "Nome de Usuário"
     },
     "update": {
@@ -882,12 +882,12 @@
     },
     "shroud_add": "Esta mortalha não é visível para os jogadores. Clique novamente durante o dia para torná-la visível.",
     "shroud_remove": "Esta mortalha ainda está visível para os jogadores. Clique novamente durante o dia para removê-la.",
-    "toggle_status": "Alternar Estado"
+    "toggle_status": "Alerar status"
   },
   "session": {
     "access": "Acesso",
     "copy": "Clique para copiar",
-    "created": "Criada {0} atrás por {1}.",
+    "created": "Criado {0} atrás por {1}.",
     "free": "Gratuito para todos",
     "language": "Idioma das Conversas",
     "locked": "Narradores e Jogadores",
