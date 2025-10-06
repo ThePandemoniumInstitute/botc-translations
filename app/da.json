@@ -811,6 +811,7 @@
       "password": "Kodeord",
       "password_confirm": "Kodeord Bekræftelse",
       "password_reset": "Instruktioner til at nulstille dit kodeord er blevet sendt til den tilknyttede e-mailadresse.",
+      "recover_password": "Gendan adgangskode",
       "register": "Registrer",
       "subscribe": "Tilmeld dig Nyhedsbrevet",
       "title": "Velkommen til Blood on the Clocktower Online - Under Konstruktion!",
@@ -841,6 +842,7 @@
       "chat": "Anmod Privat Chat",
       "empty": "Tom Siddeplads",
       "empty_text": "Vil du virkelig fjerne denne spiller fra deres siddeplads, imens spillet er i gang?",
+      "empty_title": "Ledig sæde af {0}",
       "follow": "Følg Spiller",
       "nominate": "Nominér Spiller",
       "unfollow": "Stop med at Følge Spiller",
@@ -871,6 +873,7 @@
       "add": "Tilføj Påmindelse",
       "edit": "Rediger Påmindelse {0}",
       "edit_placeholder": "Tilpasset note",
+      "edit_text": "Rediger den tilpassede huskebrik for {0}",
       "edit_title": "Rediger Påmindelse",
       "flip": "Vend Påmindelse {0}",
       "remove": "Fjern Påmindelse {0}",
@@ -881,6 +884,7 @@
     "toggle_status": "Skift Status"
   },
   "session": {
+    "access": "Adgang",
     "copy": "Klik for at kopiere",
     "created": "Oprettet {0} siden af {1}.",
     "free": "Gratis for alle",
@@ -888,16 +892,95 @@
     "locked": "Fortællere og Spillere",
     "locked_text": "Kun siddende spillere og Fortælleren kan deltage i denne session.",
     "name_placeholder": "Spilsession navn",
-    "prompt_public_text": "Are du sikker på at du vil gøre spillet åbent til det offentlige?\n Det vil lade enhver se og deltage i dit spil.",
+    "prompt_public_text": "Er du sikker på at du vil gøre spillet åbent til det offentlige?\n Det vil lade enhver se og deltage i dit spil.",
     "prompt_public_title": "Gør Spilsession Offentlig",
     "server": "Chatserver:",
     "server_name": "Navn",
     "server_stats": "{0} brugere, {1} serverlast",
     "session_name": "Sessionnavn",
     "subscription_needed": "Abonnement påkrævet",
+    "tags": "Offentlig spil tags",
     "title_create": "Opret spilsession",
     "title_current": "Nuværende spilsession",
     "visibility": "Synlighed",
     "visibility_private": "Privat"
+  },
+  "tabs": {
+    "character": {
+      "jinxes": "Jinxes",
+      "popout": "Pop-ud karakter fane"
+    },
+    "chat": {
+      "accept_request": "Accepter chat anmodning med {0}",
+      "cancel_request": "Annuller chat anmodning med {0}",
+      "channels": {
+        "bmr_0": "Kro",
+        "bmr_3": "Bondehus",
+        "bmr_4": "Karavane",
+        "custom_0": "Eliksir butik",
+        "custom_2": "Katedral",
+        "custom_4": "Flodbredden",
+        "snv_0": "Urtehaven",
+        "snv_2": "Hulerne",
+        "tb_0": "Kloster"
+      },
+      "incoming": "Indgående",
+      "outgoing": "Udgående",
+      "requests": "Chat anmodning"
+    },
+    "text": {
+      "prompt_public": "Offentlig bekendgørelse",
+      "system": {
+        "seat_claim": "{0} har taget sæde {1}.",
+        "seat_empty": "{0} er blevet fjernet fra sæde {1}.",
+        "seat_vacate": "{0} har forladt sæde {1}.",
+        "signal": "{0} sendte et nat signal til {1}.",
+        "vote": "{0} har brugt deres dødstemme."
+      },
+      "tooltip": "Vis {0} ulæste beskeder med modtager {1}"
+    }
+  },
+  "user": {
+    "avatar_enabled": "Synligt profilbillede",
+    "camera_enabled": "Synligt kamera",
+    "error_avatar_text": "Profilbilledet du har valgt har en størrelse på {0}MB, men den maksimale størrelse er {1}MB.",
+    "gain": "Tilegn",
+    "group_subscription": "Gruppe abonnoment",
+    "id": "Bruger ID",
+    "level": "Konto niveau",
+    "mic_volume": "Mikrofon styrke",
+    "new_user": "Ny bruger",
+    "pronouns": "Stedord",
+    "registration": "Registrering",
+    "statistics": "Statistikker",
+    "stats": {
+      "edition": "Top spillede\n udgaver",
+      "homebrew": "En hjemmebrygget karakter",
+      "loading": "Indlæser statistikker...",
+      "none": "Ingen",
+      "player": "Spil\n spillet",
+      "player_wins": "% Vinderate",
+      "role": "Top opstarts\n Karaktere",
+      "st_evil_wins": "{0}% Ond Vinderate",
+      "storyteller": "Spil\n Fortalt",
+      "warning": "Stastikkerne er ved at blive genereret...\n Tjek tilbage senere!"
+    },
+    "stats_hidden": "Skjult",
+    "stats_private": "Privat",
+    "stats_public": "Offentlig",
+    "upload_avatar": "Upload profilbillede",
+    "verified": "Bekræftet bruger"
+  },
+  "version": {
+    "character_distribution": "Karakter fordeling",
+    "download": "Venligst download og installer den seneste udgave af {0} her.",
+    "players_alive": "{0} / {1} spillere i live",
+    "reload": "Venligst genindlæs eller ryd din browser cache for at få den seneste version.",
+    "since": "siden {0}",
+    "update": "Venligst opdater!",
+    "warning_browser": "Du bruger en ældre eller ikke understøttet browser",
+    "warning_browser2": "{0}, som kan være årsag til problemer med appen. Venligst download de nyeste browser opdateringer eller skift til en anden browser. Appen virker bedst i Firefox og Chrome.",
+    "warning_update": "Din version af appen er forældet",
+    "warning_update2": "{0}, den seneste version er {1}!"
   }
 }
