@@ -138,7 +138,7 @@
     "settings": "Configuración",
     "show_grim": "Mostrar Grimorio",
     "show_town": "Mostrar Plaza",
-    "show_users": "Mostrar Usuarios {0}",
+    "show_users": "Mostrar Usuarios [{0}]",
     "storyteller_add": "Asumir el papel de Narrador",
     "storyteller_remove": "Renunciar como Narardor",
     "tab_app": "Aplicación",
