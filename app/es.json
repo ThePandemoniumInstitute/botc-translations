@@ -521,7 +521,7 @@
         "choice": "Elige",
         "claim": "Este jugador es",
         "clockwise": "En el sentido de las agujas del reloj",
-        "demon": "Este es el xem",
+        "demon": "Este es el Demonio",
         "evil": "Malvado",
         "five": "Cinco",
         "four": "Cuatro",
@@ -542,7 +542,7 @@
       "grimoire": "El Grimorio",
       "message": "Mensaje:",
       "player": "Jugador",
-      "player_text": "Elige un jugador haciendo click en su ficha en el Grimorio",
+      "player_text": "Elige un jugador haciendo clic en su ficha en el Grimorio.",
       "prompt_custom_placeholder": "Mensaje personalizado",
       "prompt_custom_player": "¿Qué le quieres preguntar al Narrador?",
       "prompt_custom_st": "¿Qué quieres decirle al jugador?",
@@ -571,7 +571,7 @@
     "user": {
       "button_add_st": "Añadir Narrador",
       "button_cancel_st": "Cancelar solicitud de Narrador",
-      "button_kick_user": "Expulsar usuario",
+      "button_kick_user": "Expulsar Usuario",
       "button_remove_st": "Eliminar Narrador",
       "error": "Hubo un error cargando los detalles del usuario.",
       "grimoire_access_grant": "Otorgar acceso al Grimorio",
@@ -651,7 +651,7 @@
       "text": "Añade, mezcla o elimina los asientos de los jugadores aquí.",
       "text2": "Cuando haya suficientes asientos para todos, {0}",
       "title": "Reúne a tus jugadores",
-      "warning": "Necesitas sl menos 7 jugadores para una partida normal en Ravenswood Bluff."
+      "warning": "Necesitas al menos 7 jugadores para una partida normal en Ravenswood Bluff."
     },
     "nightaction": {
       "open-eyes": {
@@ -714,6 +714,12 @@
       "button_restart": "Reanudar",
       "button_resume": "Seguir",
       "button_start": "Empezar",
+      "countdown_go": "Ir",
+      "defense": "Defensa",
+      "highscore_placeholder": "Mayor recuento de votos",
+      "highscore_text": "Ingrese un nuevo número para la puntuación más alta de la votación de hoy\no déjelo vacío para la mayoría de jugadores que viven regularmente.",
+      "highscore_title": "Cambiar la Puntuación más Alta de la Votación",
+      "majority": "La mayoría es {0} voto|La mayoría es {0} votos",
       "no_majority": "No se necesita la mayoría",
       "pointing": "Señalando a {0}",
       "secret": "El voto será secreto.",
@@ -740,6 +746,7 @@
       "title": "Cuenta suspendida"
     },
     "clock": {
+      "description": "El reloj de tu computadora actualmente está desfasado {0}. Esto puede provocar que la aplicación funcione mal durante el juego en línea. Puede sincronizar el reloj de su computadora {1}. Cuando esté sincronizado, recarga la aplicación.",
       "description_mins": "1 minuto|{n} minutos",
       "description_online": "En línea",
       "return": "Volver a la App",
@@ -757,6 +764,10 @@
       "create_game": "Crear nueva partida",
       "edition_by": "Por {author}",
       "forced_private": "No puedes jugar en partidas públicas.",
+      "free_tier_free": "Gratuita",
+      "free_tier_patreon": "Patreon",
+      "free_tier_unverified": "Tiene una cuenta {0}. Puede jugar a cualquiera de los juegos anteriores haciendo clic en el botón de la izquierda, a menos que requieran una suscripción. Si quiere alojar tus propios juegos, obtén una suscripción en {1}.",
+      "free_tier_verified": "Tiene una cuenta {0}. Necesita {1} antes de poder jugar en juegos públicos. Si quiere alojar sus propios juegos, obtén una suscripción en {2}.",
       "free_tier_verify": "verifica tu cuenta",
       "game": "Partida",
       "language": "Idioma",
@@ -771,10 +782,12 @@
       "stats": "{0} usuarios están en {1}{2} partidas",
       "stats_public": "pública",
       "storyteller": "Narrador",
+      "subscription": "Nivel de suscripción",
       "updating": "Actualizando...",
       "welcome": "¡Bienvenido a {0}!"
     },
     "login": {
+      "accept": "Aceptar nuestro {0}, {1} y {2}.",
       "description": "Por favor, inicia sesión o regístrate para continuar:",
       "email": "Cuenta de correo electrónico",
       "error_captcha": "Por favor completa el captcha",
@@ -790,6 +803,8 @@
       "username": "Nombre de usuario"
     },
     "update": {
+      "description": "Actualmente está utilizando la versión {0}, pero la última versión es la {1}.",
+      "download": "Descargue la última versión de {label} aquí.",
       "reload": "Por favor vuelve a cargar la pagina o borra el caché de tu explorador para actualizar.",
       "title": "Por favor, actualiza tu app"
     },
@@ -810,7 +825,17 @@
       "alignment": "Cambiar alineamiento",
       "character": "Cambiar personaje",
       "chat": "Solicitar chat privado",
-      "empty": "Asiento vacío"
+      "empty": "Asiento vacío",
+      "empty_text": "¿Realmente quieres sacar a este jugador de su asiento mientras el juego está en juego?",
+      "empty_title": "Asiento Vacío de {0}",
+      "follow": "Seguir Jugador",
+      "nominate": "Nominar Jugador",
+      "unfollow": "Dejar de Seguir al Jugador",
+      "wake": "Despertar",
+      "whisper": "Enviar Mensaje de Texto"
+    },
+    "name": {
+      "claim": "Haga clic para Reclamar"
     }
   }
 }
