@@ -903,40 +903,119 @@
     "title_create": "Opret spilsession",
     "title_current": "Nuværende spilsession",
     "visibility": "Synlighed",
-    "visibility_private": "Privat"
+    "visibility_private": "Privat",
+    "visibility_public": "Offentlig"
+  },
+  "storyteller": {
+    "connecting": "Fortælleren forbinder til stemmechatten.",
+    "follow": "Følg Fortæller",
+    "following": "Du følger denne Fortæller.",
+    "listening": "Fortælleren lytter til stemmechatten.",
+    "offline": "Fortælleren er offline.",
+    "prompt_grim_text": "Nye brugere kan ikke anmode om adgang til Grimoiren i offentlige spil.\n Gennemfør flere spil, for at låse op for denne funktion.",
+    "prompt_grim_title": "Fejl ved Anmodning om Adgang til Grimoire",
+    "remove": "Fjern Fortæller",
+    "request_grim": "Anmod om Adgang til Grimoire",
+    "title": "Fortællere",
+    "unfollow": "Stop med at følge Fortæller"
   },
   "tabs": {
+    "bluffs": {
+      "drag": "Du kan trække denne fane til en hvilken som helst position på skærmen.",
+      "title": "Bluffs"
+    },
     "character": {
+      "download": "Download Manuskript-JSON",
+      "error_popout": "Fejl ved opretning af vindue",
+      "error_save": "Fejl ved at gemme fil",
       "jinxes": "Jinxes",
+      "other_nights": "Ikke den\n første nat",
       "popout": "Pop-ud karakter fane"
     },
+    "characters": {
+      "title": "Karakterer"
+    },
     "chat": {
+      "accept": "Accepter Anmodning",
       "accept_request": "Accepter chat anmodning med {0}",
+      "cancel": "Annuller Anmodning",
       "cancel_request": "Annuller chat anmodning med {0}",
       "channels": {
         "bmr_0": "Kro",
+        "bmr_1": "Hytte",
+        "bmr_2": "Sump",
         "bmr_3": "Bondehus",
         "bmr_4": "Karavane",
         "custom_0": "Eliksir butik",
+        "custom_1": "Tårn",
         "custom_2": "Katedral",
+        "custom_3": "Lejrbål",
         "custom_4": "Flodbredden",
         "snv_0": "Urtehaven",
+        "snv_1": "Drivhus",
         "snv_2": "Hulerne",
-        "tb_0": "Kloster"
+        "snv_3": "Tempel",
+        "snv_4": "Cirkustelt",
+        "tb_0": "Kloster",
+        "tb_1": "Kirke",
+        "tb_2": "Kirkegård",
+        "tb_3": "Bibliotek",
+        "tb_4": "Laboratorium"
       },
+      "chats": "Chats",
+      "following": "Du følger denne spiller.",
       "incoming": "Indgående",
+      "leave_private": "Forlad Privat Chat",
+      "leave_room": "Forlad rum",
+      "night": "Natten er faldet...",
+      "nomination": "En spiller er blevet nomineret!",
       "outgoing": "Udgående",
-      "requests": "Chat anmodning"
+      "request_private": "Anmod Privat Chat",
+      "requests": "Chat anmodning",
+      "reset_position": "Nulstil position",
+      "spectator": "Tilskuer",
+      "title": "Stemme"
+    },
+    "fabled": {
+      "remove": "Fjern Sagnhelt",
+      "title": "Sagnhelt"
     },
     "text": {
+      "channels": {
+        "private": "Privat",
+        "public": "Offentlig",
+        "spectator": "Tilskuere",
+        "system": "Session"
+      },
+      "message_blocked": "ikke leveret",
+      "message_to": "til",
+      "prompt_private": "Privat chat",
       "prompt_public": "Offentlig bekendgørelse",
+      "prompt_spectator": "Tilskuerchat",
+      "prompt_system": "Systembeskeder",
+      "prompt_user": "Til {0}",
       "system": {
+        "death": "{0} er død.",
+        "end_evil": "Spillet er slut og det Onde hold har vundet!",
+        "end_good": "Spillet er slut og det Gode hold har vundet!",
+        "grim_deny": "{0} er blevet nægtet adgang til Grimoire.",
+        "grim_receive": "{0} har fået adgang til Grimoire.",
+        "grim_remove": "{0} har ikke længere adgang til Grimoire.",
+        "grim_request": "{0} har anmodet om adgang til Grimoire.",
+        "join": "{0} deltog i spillet.",
+        "leave": "{0} forlod spillet.",
+        "phase": "{0} er begyndt.",
+        "revive": "{0} er blevet genoplivet.",
         "seat_claim": "{0} har taget sæde {1}.",
         "seat_empty": "{0} er blevet fjernet fra sæde {1}.",
         "seat_vacate": "{0} har forladt sæde {1}.",
         "signal": "{0} sendte et nat signal til {1}.",
+        "start": "Spillet er begyndt og karakterer er blevet delt ud!",
+        "storyteller_add": "{0} blev til Fortælleren.",
+        "storyteller_remove": "{0} stoppede med at være Fortælleren.",
         "vote": "{0} har brugt deres dødstemme."
       },
+      "title": "Tekst",
       "tooltip": "Vis {0} ulæste beskeder med modtager {1}"
     }
   },
@@ -944,6 +1023,7 @@
     "avatar_enabled": "Synligt profilbillede",
     "camera_enabled": "Synligt kamera",
     "error_avatar_text": "Profilbilledet du har valgt har en størrelse på {0}MB, men den maksimale størrelse er {1}MB.",
+    "error_avatar_title": "Filstørrelse for stor",
     "gain": "Tilegn",
     "group_subscription": "Gruppe abonnoment",
     "id": "Bruger ID",
