@@ -250,6 +250,7 @@
     },
     "librarian": {
       "ability": "2 oyuncudan 1'inin belli bir Yabancı olduğunu bilerek başlarsın. (Ya da oyunda hiç olmadığını.)",
+      "flavor": "Tabii ki madam, normal şartlarda Codex Malificarium'u kütüphane depolarından ödünç alabilirsiniz. Fakat siz üye değilsiniz gibi görünüyor.",
       "name": "Kütüphaneci"
     },
     "lunatic": {
@@ -333,7 +334,23 @@
       "name": "Aziz"
     },
     "savant": {
-      "ability": "Her gün, Hikâyeciyi ziyaret edip gizlice 2 şey öğrenebilirsin: 1'i doğru, 1'i ise yanlış."
+      "ability": "Her gün, Hikâyeciyi ziyaret edip gizlice 2 şey öğrenebilirsin: 1'i doğru, 1'i ise yanlış.",
+      "flavor": "Yerde yetmiş iki tane kibrit... güneş erken batıyor ama ay değişmiyor... yırtık bir kumaş parçası... köşkte kötü güçler... üç çarpı üç... güvendiğimiz kişi göründüğü gibi değil... yeşil ışık magnezyum demek... kalıntı ama deseni yanlış... Yerde yetmiş iki tane kibrit...",
+      "name": "Savant"
+    },
+    "scarletwoman": {
+      "name": "Kızıl Kadın"
+    },
+    "seamstress": {
+      "ability": "Oyunda bir kez, geceleyin, 2 oyuncu seç (kendini değil): aynı tarafta olup olmadıklarını öğrenirsin.",
+      "first": "Terzi 2 oyuncu seçebilir. Olumlu ya da olumsuz kafa salla. :reminder:",
+      "name": "Terzi",
+      "other": "Terzi 2 oyuncu seçebilir. Olumlu ya da olumsuz kafa salla. :reminder:"
+    },
+    "shabaloth": {
+      "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
+      "name": "Shabaloth",
+      "other": "Daha önce seçilen bir oyuncu yeniden dirilebilir. :reminder: Shabaloth 2 oyuncu seçer. :reminder: :reminder:"
     }
   }
 }
