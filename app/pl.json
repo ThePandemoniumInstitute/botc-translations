@@ -82,15 +82,22 @@
     "announcement": {
       "description": "Co chcesz ogłosić?",
       "error": "Błąd podczas wysyłania ogłoszenia",
+      "input_session": "Nazwa sesji (opcjonalnie)",
       "input_text": "Tekst ogłoszenia",
       "input_title": "Tytuł ogłoszenia",
       "title": "Stwórz ogłoszenie"
     },
     "dialogue": {
+      "button_evil": "Źli wygrali",
+      "button_good": "Dobzi wygrali",
       "button_no": "Nie",
       "button_yes": "Tak",
+      "close_timer": "Ten pop-up zamknie się za {n}s.",
       "error": {
         "add_player": "Nie udało się dodać gracza",
+        "add_storyteller": "Błąd przy dodawaniu Bajarza",
+        "avatar": "Błąd przy wgrywaniu awatara",
+        "avatar_generic": "Coś poszło nie tak przy próbie wgrywania twojego awatara.",
         "avatar_pixel": "Twój obraz jest za duży. Przeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
         "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
         "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
@@ -112,11 +119,14 @@
         "link_title": "Błąd przy połączeniu konta z Patreon",
         "loading_text": "Coś poszło nie tak przy ładowaniu danych aplikacji. Strona zostanie odświeżona.",
         "loading_title": "Błąd przy ładowaniu danych aplikacji",
+        "missing_edition": "Ta sesja gry zawiera skrypt, którego nie można odnaleźć.",
         "missing_edition_title": "Błąd przy ładowaniu edycji",
-        "missing_roles_title": "Błąd przy ładowaniu własnych postaci",
+        "missing_roles": "Ta sesja zawiera niestandardowe postacie, których nie można znaleźć. Załaduj je zanim dołączysz! Brakujące role: {0}",
+        "missing_roles_title": "Błąd przy ładowaniu niestandardowych postaci",
         "move_player": "Nie udało się przemieścić gracza",
         "offline": "Serwer wydaje się być offline",
-        "remove_player": "Nie udało się usunąć gracza"
+        "remove_player": "Nie udało się usunąć gracza",
+        "remove_storyteller": "Błąd podczas usuwania Bajarza"
       }
     }
   }
