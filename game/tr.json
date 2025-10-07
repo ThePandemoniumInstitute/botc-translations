@@ -112,6 +112,11 @@
       "flavor": "Eskiden berberliğin ve ameliyatçılığın aynı meslek olduğunu bilir miydin? Hayır mı? Öğrenmiş oldun.",
       "name": "Berber"
     },
+    "barista": {
+      "first": "Bir oyuncu seç, uyandır ve hangi Barista gücünün onu etkilediğini belirt. Ona buna uygun şekilde davran (ayık/sağlıklı/doğru bilgi veya yeteneğini iki kere etkinleştir).",
+      "name": "Barista",
+      "other": "Bir oyuncu seç, uyandır ve hangi Barista gücünün onu etkilediğini belirt. Ona buna uygun şekilde davran (ayık/sağlıklı/doğru bilgi veya yeteneğini iki kere etkinleştir)."
+    },
     "baron": {
       "name": "Baron"
     },
@@ -123,6 +128,10 @@
       "ability": "Sadece Hikâyeci aday gösterebilir. Her gün en az 1 karşıt oyuncu her gün aday gösterilmelidir.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Piskopos"
+    },
+    "boffin": {
+      "ability": "Şeytan (sarhoş veya zehirlenmiş bile olsa) oyunda olmayan iyi bir karakterin yeteneğine sahip olur. İkiniz de hangisi olduğunu bilirsiniz.",
+      "name": "Bilim Adamı"
     },
     "bureaucrat": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu 3 oy olarak sayılır.",
