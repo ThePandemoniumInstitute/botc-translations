@@ -92,7 +92,7 @@
     "storytellers": "Рассказчики",
     "token": "Жетон",
     "townsfolk": "Горожанин|Горожане",
-    "traveller": "Путник|Путники"
+    "traveller": "Странник|Странники"
   },
   "main-menu": {
     "cast_vote": "Отдать голос",
@@ -379,7 +379,7 @@
       "patreon_perks": "Загрузка пользовательского аватара и особые таблички доступны с оплаченной {0}!",
       "patreon_perks2": "подпиской Patreon",
       "patreon_update": "Обновить статус Patreon",
-      "setting_alignment": "Отображать Сторону на Городской Площади",
+      "setting_alignment": "Показывать Сторону игрока на Городской Площади",
       "setting_animations": "Отображать анимации",
       "setting_audio_deafen": "Слышать голосовой чат",
       "setting_audio_unnamed": "Безымянный аудиовход",
@@ -405,7 +405,7 @@
       "setting_mute_video": "Скрыть видео",
       "setting_noise_suppression": "Подавление шума",
       "setting_player_bluffs": "Игрок: показать вкладку \"Блефы\"",
-      "setting_player_night": "Игрок: Показать Листы Ночного Порядка",
+      "setting_player_night": "Игрок: Показать Порядок Хода Ночью",
       "setting_player_reminders": "Игрок: Разрешить дублирование жетонов напоминания",
       "setting_player_sound": "Игрок: Воспроизводить звуковые эффекты Запроса Чата ночью",
       "setting_positioning": "Разрешить перемещение боковых вкладок",
