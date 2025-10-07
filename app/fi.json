@@ -76,5 +76,40 @@
   "main-menu": {
     "change_icon": "Napauta vaihtaaksesi kuvaketta",
     "clear_grim": "Tyhjennä loitsukirja"
+  },
+  "modals": {
+    "dialogue": {
+      "button_evil": "Paha voitti",
+      "button_good": "Hyvä voitti",
+      "button_no": "Ei",
+      "button_yes": "Kyllä",
+      "error": {
+        "add_player": "Pelaajaa ei voi lisätä",
+        "avatar_type": "Tiedostoasi ei tunnistettu kuvaksi.",
+        "clear_grim": "Loitsukirjaa ei voi tyhjentää",
+        "connection": "Tapahtui yhteysvirhe",
+        "generic": "Tapahtui virhe",
+        "move_player": "Pelaajaa ei voi siirtää",
+        "sending_roles": "Virhe roolien lähetyksessä",
+        "session_banned": "Sinut on estetty.",
+        "subscription": "Tilaus vaaditaan",
+        "subscription_title": "Patreon-tilausta ei löytynyt",
+        "user_not_found": "Käyttäjää ei löytynyt."
+      },
+      "prompt": {
+        "join_title": "Liity peliin",
+        "leave_title": "Palaa Aulaan",
+        "username_placeholder": "Käyttäjänimi"
+      }
+    },
+    "edition": {
+      "button_clear": "Tyhjennä Loitsukirja",
+      "button_paste": "Liitä",
+      "difficulty_beginner": "Aloittelija"
+    },
+    "help": {
+      "link_1": "sähköpostitse",
+      "link_2": "täällä"
+    }
   }
 }
