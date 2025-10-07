@@ -4,11 +4,24 @@
       "description": "...jest widowiskiem życia i śmierci. Demony mogą zabijać kilkukrotnie podczas nocy, sługusy również mogą przyłączyć się do akcji. Gracze po dobrej stronie mogą decydować się na ryzykowne działania, by zdobyć cenne informacje , ale mogą przez to niechcący zabić swoich sojuszników. Na szczęście istnieje sporo sposobów, żeby utrzymywać graczy przy życiu długo po ich terminie przydatności. Jednak jeśli dobra drużyna nie odgadnie w porę, z jakimi sługusami i z którym demonem się zmaga, ich los będzie praktycznie przypieczętowany.",
       "name": "Kiedy wschodzi krwawy księżyc"
     },
+    "custom": {
+      "name": "Niestandardowy scenariusz"
+    },
+    "homebrew": {
+      "name": "Homebrew"
+    },
     "snv": {
+      "description": "... jest najbardziej szaloną ze wszystkich trzech podstawowych edycji. Gracze drużyny dobra dostają multum niesamowitych informacji każdej nocy. Jednakże drużyna zła jest bardzo zróżnicowana i ich możliwości do siania masowej dezorientacji stwarzają poważne zagrożenie. Gracze mogą zmienić przynależność w każdej chwili. Nawet drużyna zła może się zagubić w tym kto jest kim. Ponadto to jest pierwszy raz gdzie gracze mogą doświadczyć szaleństwa, które będzie rzucało graczom pełno kłód pod nogi.",
       "name": "Sekty i Fiołki"
+    },
+    "tb": {
+      "description": "...ma odrobinę wszystkiego. Niektóre postacie otrzymują informacje, niektóre muszą podejmować decyzje by dowiedzieć się kto jest kim, a niektóre chcą być chodzącą przynętą dla Demona. Obie drużyny mogą uzyskać sporą przewagę jeśli dobrze zagrają swoje karty. \nTrouble Brewing to dość proste polowanie na demona lecz zło dysponuje całym arsenałem podstępnych sztuczek i fałszywych tropów, dobrzy gracze muszą nauczyć się kwestionować swoją wiedzę, jeśli chcą dotrwać do końca."
     }
   },
   "jinxes": {
+    "alchemist-boffin": "Jeśli Alchemik posiada umiejętność Szalonego Naukowca, nie dowiaduje się jaką umiejętność uzyskał demon.",
+    "alchemist-marionette": "Alchemik-Marionetka nie posiada umiejętności Marionetki i Marionetka jest w grze.",
+    "alchemist-mastermind": "Alchemik-Architekt Szaleństwa nie ma umiejętności Architekta Szaleństwa, ponadto Architekt Szaleństwa nie jest w grze.",
     "alchemist-organgrinder": "Jeżeli Alchemik ma zdolność Zgniatacza Organów, Zgniatacz Organów jest w grze. Jeżeli oboje są trzeźwi, oboje są pijani.",
     "alchemist-spy": "Alchemik-Szpieg nie ma umiejętności Szpiega, ale Szpieg jest w grze. Po każdej egzekucji, żywy Alchemik-Szpieg może publicznie zgadnąć żywego gracza jako Szpiega. Jeżeli zgadnie, Demon musi wybrać Szpiega tej nocy.",
     "alchemist-summoner": "Alchemik-Przywoływacz nie dostaje blefów i wybiera jaki Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie Zło wygrywa. [brak Demona]",
