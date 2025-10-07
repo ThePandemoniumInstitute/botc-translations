@@ -4,7 +4,7 @@
       "free": "Grátis",
       "patreon-demon": "Nível Demônio",
       "patreon-minion": "Nível Lacaio",
-      "patreon-townsfolk": "Nível Aldeão",
+      "patreon-townsfolk": "Nível Cidadão",
       "special-free": "Cortesia",
       "special-moderator": "Moderador",
       "special-tpi": "Equipe do TPI"
@@ -37,7 +37,7 @@
       "grimoire": {
         "label": "Acesso ao Grimório",
         "title": "Se espectadores recebem acesso ao Grimório",
-        "value_0": "Consultar",
+        "value_0": "Pedir",
         "value_1": "Não",
         "value_2": "Sim"
       },
