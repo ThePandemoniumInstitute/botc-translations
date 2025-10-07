@@ -12,7 +12,7 @@
       "name": "Ev Yapımı"
     },
     "snv": {
-      "description": "...ana sette bulunan üç sürümün en çılgın olanıdır. İyi karakterler her gece şaşırtıcı bilgiler alır. Ancak, kötü takım son derece çeşitli ve tehditkârdır ve karışıma büyük bir karmaşa katabilir. Karakterler taraf değiştirir. Oyuncular karakter değiştirir. Kötü takım bile kimin kim takip edemez hale gelebilir. Bu aynı zamanda her türlü çarkı bozan deliliğin ilk ortaya çıkışıdır.",
+      "description": "...ana sette bulunan üç sürümün en çılgın olanıdır. İyi karakterler her gece muhteşem bilgi alır. Ancak, kötü takım son derece çeşitli ve tehditkârdır ve karışıma büyük bir karmaşa katabilir. Karakterler taraf değiştirir. Oyuncular karakter değiştirir. Kötü takım bile kimin kim olduğunu takip edemez hale gelebilir. Bu aynı zamanda her türlü çarkı bozan saplantının ilk ortaya çıkışıdır.",
       "name": "Sects & Violets"
     },
     "tb": {
@@ -30,7 +30,7 @@
     "drunk1": "Sarhoş 1",
     "drunk2": "Sarhoş 2",
     "drunk3": "Sarhoş 3",
-    "everyoneisdrunk": "Herkes sarhoş",
+    "everyoneisdrunk": "Herkes Sarhoş",
     "evil": "Kötü",
     "falseinfo": "Yanlış Bilgi",
     "fauxpaw": "Yanlış Pati",
@@ -57,7 +57,7 @@
     "poisoned": "Zehirlenmiş",
     "protected": "Korunuyor",
     "redherring": "Yanlış Alarm",
-    "soberhealthy": "­Ayık ve Sağlıklı",
+    "soberhealthy": "Ayık ve Sağlıklı",
     "somethingbad": "Kötü Bir Şey",
     "storytellerability": "Hikâyeci'nin Yeteneği",
     "townsfolk": "Kasabalı",
@@ -68,9 +68,9 @@
   },
   "roles": {
     "acrobat": {
-      "flavor": "Dünya üzerindeki en iyi gösteriye, hepiniz hoşgeldiniz.",
+      "flavor": "Dünya üzerindeki en iyi gösteriye, hepiniz hoş geldiniz.",
       "name": "Akrobat",
-      "other": "Akrobat bir oyuncuyu seçer. :reminder:"
+      "other": "Akrobat bir oyuncu seçer. :reminder:"
     },
     "alchemist": {
       "name": "Simyacı"
