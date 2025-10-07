@@ -42,6 +42,7 @@
     "engineer-legion": "Jeżeli zostanie stworzony Legion, wszyscy źli gracze stają się Legionem. Jeżeli Legion jest w grze, Inżynier dowiaduje się o tym i nie ma swojej umiejętności.",
     "engineer-summoner": "Jeżeli żywy Przywoływacz zostanie usunięty z gry, Bajarz ma umiejętność Przywoływacza.",
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
-    "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa."
+    "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
+    "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy."
   }
 }
