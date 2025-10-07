@@ -397,6 +397,7 @@
       "setting_css": "Custom CSS Rules",
       "setting_css_label": "Enter Custom CSS Rules",
       "setting_echo_cancellation": "Echo Cancellation",
+      "setting_english": "Show Additional English Character Names",
       "setting_gain": "Audio Gain",
       "setting_general_volume": "General volume",
       "setting_homebrew": "Show Custom Images / Homebrew Icons",
