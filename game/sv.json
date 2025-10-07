@@ -461,7 +461,7 @@
     "deusexfiasco": {
       "ability": "Minst en gång per spel begår Berättaren ett misstag, rättar till det och erkänner detta öppet.",
       "flavor": "Det är inte en bugg; det är en funktion. Det är inte ett fel; det är en fix. Det är inte trasigt; det är lustigt.",
-      "name": "Deus ex Fiasco"
+      "name": "Deus Ex Fiasco"
     },
     "deviant": {
       "ability": "Om du var rolig idag kan du inte dö av förvisning.",
@@ -1140,7 +1140,7 @@
       "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är.",
       "first": "Meddela vilken roll som har Stormjägarens gunst. Markera den spelaren som *SÄKER* om rollen är i spel. Väck varje ond spelare och visa rollbrickan och sedan den markerade spelaren, eller kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*.",
       "flavor": "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat.",
-      "name": "Stormjägaren"
+      "name": "Stormfångaren"
     },
     "summoner": {
       "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon du väljer. [Ingen Demon]",
