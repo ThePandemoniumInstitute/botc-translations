@@ -608,7 +608,7 @@
       "error_403": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Sollte es sich dabei um einen Fehler handeln, schreib uns bitte eine Mail an {0}.",
       "error_404": "Die Verifizierung ist abgelaufen oder ungültig. Bitte versuche es noch einmal.",
       "error_assigned": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Bitte benutze eine andere Telefonnummer.",
-      "error_cooldown": "Du hast die maximale Anzahl an Versuchen erreicht. Bitte warte mindestens 10 Minuten, bevor du es erneut versuchst.",
+      "error_cooldown": "Du hast die maximale Anzahl an Versuchen erreicht. Bitte warte mindestens {0} Minuten, bevor du es erneut versuchst.",
       "error_other": "Etwas ist schief gelaufen: {0}. Bitte versuche es noch einmal.",
       "error_pending": "Ungültiger Code. Bitte versuche es noch einmal.",
       "error_restart": "Du hast die maximale Anzahl an Versuchen erreicht. Bitte gib deine Telefonnummer erneut ein.",
