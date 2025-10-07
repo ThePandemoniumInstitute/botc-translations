@@ -18,13 +18,13 @@
     "button_search": "Cerca",
     "button_send": "Invia",
     "cookie_policy": "Politica dei Cookie",
-    "privacy_policy": "Politica della Privacy",
+    "privacy_policy": "Normativa sulla privacy",
     "session-tags": {
       "cameras": {
         "label": "Telecamere",
         "title": "Se le telecamere sono in utilizzo in questa sessione di gioco",
-        "value_0": "Opzionale",
-        "value_1": "Necessario",
+        "value_0": "Facoltativo",
+        "value_1": "Obbligatorio",
         "value_2": "Off"
       },
       "difficulty": {
@@ -39,49 +39,49 @@
         "title": "Se gli spettatori ricevono accesso al Grimorio",
         "value_0": "Chiedi",
         "value_1": "No",
-        "value_2": "Sì"
+        "value_2": "Sí"
       },
       "streaming": {
         "label": "Il Gioco è in Streaming",
-        "title": "Questa sessione di gioco sarà trasmessa live",
+        "title": "La sessione di gioco sarà trasmessa in diretta",
         "value_0": "No",
-        "value_1": "Sì"
+        "value_1": "Sí"
       },
       "subscription": {
-        "label": "Abbonamento Necessario",
-        "title": "Un abbonamento attivo è richiesto per entrare in questa partita"
+        "label": "Abbonamento necessario",
+        "title": "Per partecipare a questo gioco è necessario un abbonamento attivo"
       },
       "travellers": {
         "label": "Viaggiatori",
-        "title": "Se i viaggiatori sono permessi in questa sessione di gioco",
-        "value_0": "Opzionale",
-        "value_1": "Sì",
+        "title": "Se i viaggiatori sono ammessi in questa sessione di gioco",
+        "value_0": "Facoltativo",
+        "value_1": "Sí",
         "value_2": "No"
       }
     },
-    "terms_of_use": "Termini d'Uso",
+    "terms_of_use": "Termini d'uso",
     "title": "Blood on the Clocktower Online",
-    "trademark": "\"Blood on the Clocktower\" è un marchio registrato di Steven Medway e The Pandemonium Institute.",
+    "trademark": "\"Blood on the Clocktower\" è un marchoo di Steven Medway e The Pandemonium Institute",
     "unnamed_user": "Utente senza nome"
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Distribuisci i Ruoli",
+      "distribute-roles": "Distribuzione ruoli",
       "ghost-votes": "Restituisci i Voti Fantasma",
-      "grimoire": "Mostra il Grimorio",
-      "open-eyes": "Apri/Chiudi gli Occhi",
-      "pointing": "Scegli un Giocatore"
+      "grimoire": "Mostra Grimoire",
+      "open-eyes": "Apri/Chiudi occhi",
+      "pointing": "Scegli un giorcatore"
     },
     "demon": "Demone|Demoni",
     "fabled": "Leggendario|Leggendari",
-    "minion": "Seguace|Seguaci",
-    "outsider": "Estraneo|Estranei",
+    "minion": "Tirapiedi",
+    "outsider": "Forestiero| Forestieri",
     "phases": {
-      "day": "Primo Giorno|Giorno {n}",
-      "end": "Tra partite",
-      "first_night": "Prima Notte",
+      "day": "Primo giorno",
+      "end": "Tra una partita e l'altra",
+      "first_night": "Prima notte",
       "night": "Prima Notte|Notte {n}",
-      "other_nights": "Altre Notti",
+      "other_nights": "Le altre notti",
       "start": "Preparando la Notte 1"
     },
     "player": "Giocatore {0}",
