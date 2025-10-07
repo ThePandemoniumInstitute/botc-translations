@@ -112,7 +112,7 @@
     "gong_attention": "Tocar el gong",
     "gong_recall": "Llamar a la plaza",
     "grim_access": "Tienes acceso al Grimorio",
-    "grim_request": "Un espectador solicitó acceso al Grimorio",
+    "grim_request": "Un espectador ha solicitado acceso al Grimorio",
     "help": "Ayuda",
     "json_schema": "Esquema JSON del guión",
     "leave": "Abandonar el Juego",
