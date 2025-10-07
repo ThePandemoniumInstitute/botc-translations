@@ -30,6 +30,7 @@
     "alchemist-wraith": "Alchemik-Upiór nie ma zdolności Upiora i Upiór jest w grze. Po każdej egzekucji żywy Alchemik-Upiór może publicznie zgadnąć żywego gracza jako Upiora. Jeżeli zgadnie poprawnie to Demon musi wybrać Upiora tej nocy.",
     "alhadikhia-mastermind": "Jeżeli Al-Hadikhia umrze w wyniku egzekucji i Architekt Szaleństwa jest żywy, tej nocy Al-Hadikhia wybiera 3 dobrych graczy: jeżeli wszyscy 3 wybiorą życie, zło wygrywa. W przeciwnym wypadku wygrywa dobro.",
     "alhadikhia-princess": "Jeżeli pierwszego dnia Księżniczka nominowała i ten gracz został poddany egzekucji, nikt nie umiera od umiejętności Al-Hadikhi tej nocy.",
+    "alhadikhia-scarletwoman": "W sytuacji gdzie byłyby dwa Demony, w tym jeden będący Szkarłatną Damą, Szkarłatna Dama staje się spowrotem Szkarłatną Damą.",
     "alsaahir-vizier": "Bajarz nie ogłasza, że Wezyr jest w grze.",
     "atheist-riot": "Podczas zamieszek, jeżeli Bajarz zostanie nominowany gracze głosują. Jeżeli \"ma umrzeć\" gra się kończy. Jeżeli nie, mogą dalej nominować.",
     "balloonist-marionette": "Jeżeli Marionetka myśli, że jest Baloniarzem to Przybysz mógł być dodany podczas przygotowywania gry.",
@@ -59,6 +60,7 @@
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
     "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy.",
+    "fanggu-scarletwoman": "W sytuacji gdzie byłyby dwa Demony, w tym jeden będący Szkarłatną Damą, Szkarłatna Dama pozostaje Szkarłatną Damą.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
