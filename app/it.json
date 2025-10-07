@@ -1,7 +1,7 @@
 {
   "common": {
     "account-levels": {
-      "free": "Libero",
+      "free": "Gratis",
       "patreon-demon": "Livello Demone",
       "patreon-minion": "Livello Seguace",
       "patreon-townsfolk": "Livello Cittadino",
@@ -10,7 +10,7 @@
       "special-tpi": "Staff TPI"
     },
     "botc_online": "BOTC Online",
-    "button_cancel": "Cancella",
+    "button_cancel": "Annulla",
     "button_close": "Chiudi",
     "button_confirm": "Conferma",
     "button_continue": "Continua",
@@ -29,8 +29,8 @@
       },
       "difficulty": {
         "label": "Difficoltà",
-        "title": "Il livello di esperienza atteso dei giocatori in questa sessione di gioco",
-        "value_0": "Medio",
+        "title": "Il livello di esperienza previsto dai giocatori in questa sessione di gioco",
+        "value_0": "Media",
         "value_1": "Veterano",
         "value_2": "Principiante"
       },
@@ -49,7 +49,7 @@
       },
       "subscription": {
         "label": "Abbonamento Necessario",
-        "title": "Un abbonamento attivo è necessario per unirsi a questa sessione di gioco"
+        "title": "Un abbonamento attivo è richiesto per entrare in questa partita"
       },
       "travellers": {
         "label": "Viaggiatori",
@@ -99,13 +99,13 @@
     "change_icon": "Clicca per cambiare icona",
     "char_sheet": "Lista dei Personaggi",
     "characters": "Seleziona i Personaggi",
-    "clear_grim": "Pulisci il Grimorio",
+    "clear_grim": "Ripulisci il Grimorio",
     "download": "Scarica l'App {0}",
     "edition": "Seleziona l'Edizione",
-    "error_audio": "Il tuo browser ha impedito {0} all'applicazione. Clicca qui per iniziare la chat.",
+    "error_audio": "Il tuo browser non ha permesso all'applicazione di {0}. Clicca qui per iniziare la chat.",
     "error_audio2": "auto-play della chat vocale",
     "error_audio3": "Potresti anche dover {0} in Firefox per ascoltare l'audio nell'app.",
-    "error_audio4": "cambia un'impostazione",
+    "error_audio4": "cambia un'opzione",
     "fabled": "Aggiungi Leggendario",
     "fullscreen": "Schermo intero",
     "gather": "Raduna i Giocatori",
@@ -114,7 +114,7 @@
     "grim_access": "Ti è stato dato accesso al Grimorio",
     "grim_request": "Uno spettatore ha richiesto accesso al Grimorio",
     "help": "Aiuto",
-    "json_schema": "Schema JSON della Lista",
+    "json_schema": "Schema JSON dello Scenario",
     "leave": "Lascia la Partita",
     "mute_cam": "Disattiva la videocamera [{0}]",
     "mute_mic": "Silenzia il microfono [{0}]",
@@ -123,10 +123,10 @@
     "night_sheet": "Lista Ordine Notturno",
     "prompt_clear_player": "Sei sicuro/a di voler rimuovere tutti i personaggi e i gettoni promemoria dai giocatori?",
     "prompt_clear_st": "Il Grimorio e i Gettoni Promemoria verranno ripuliti per te e per tutti gli altri. Sei sicuro/a?",
-    "prompt_clear_title": "Pulisci Grimorio e Gettoni Promemoria",
+    "prompt_clear_title": "Ripulisci il Grimorio e i Gettoni Promemoria",
     "prompt_timer_text": "Scegli una durata e (opzionale) un titolo per il timer:",
     "prompt_timer_title": "Imposta un timer",
-    "prompt_vacate_text": "Sei attualmente in una partita attiva, sei sicuro/a di voler abbandonare la tua sedia?",
+    "prompt_vacate_text": "Sei in un gioco attivo, sei sicuro/a di voler lasciare il tuo posto?",
     "prompt_vacate_title": "Lascia il Posto",
     "push_to_talk": "Premi [{0}] per parlare",
     "raise_hand": "Alza la Mano",
@@ -166,7 +166,7 @@
       "button_good": "I buoni hanno vinto",
       "button_no": "No",
       "button_yes": "Sì",
-      "close_timer": "Questo pop-up si chiuderà in {n}s.",
+      "close_timer": "Il pop-up si chiuderà in {n}s.",
       "error": {
         "add_player": "Non si può aggiungere il giocatore",
         "add_storyteller": "Errore aggiunta Narratore",
