@@ -352,6 +352,8 @@
       "css_apply": "Применить пользовательский CSS?",
       "image_title": "Разрешить пользовательские изображения",
       "setting_audio_deafen": "Слышать голосовой чат",
+      "setting_audio_unnamed": "Безымянный аудиовход",
+      "setting_chroma": "Хромакей",
       "setting_colorblind": "Режим Цветовой Слепоты: {0}",
       "setting_cosmetics": "Показать Косметику Игроков",
       "setting_echo_cancellation": "Эхоподавление",
