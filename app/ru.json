@@ -350,21 +350,21 @@
       "button_always": "Всегда",
       "button_edit": "Изменить Учетную Запись",
       "css_apply": "Применить пользовательский CSS?",
-      "css_title": "Введите пользовательский CSS",
+      "css_title": "Введите Пользовательский CSS",
       "image_title": "Разрешить пользовательские изображения",
       "nomination": {
         "baker": {
-          "text": "Номинированный игрок защищается"
+          "text": "Номинированный игрок защищается."
         },
         "regular": {
-          "text": "Все игроки могут говорить свободно"
+          "text": "Все игроки могут говорить свободно."
         }
       },
       "patreon_link": "Подключить аккаунт Patreon",
       "patreon_perks": "Загрузка пользовательского аватара и особые таблички доступны с оплаченной {0}!",
-      "patreon_perks2": "Подписка Patreon",
+      "patreon_perks2": "Подпиской Patreon",
       "patreon_update": "Обновить статус Patreon",
-      "setting_animations": "Отображать анимации",
+      "setting_animations": "Отображать Анимации",
       "setting_audio_deafen": "Слышать голосовой чат",
       "setting_audio_unnamed": "Безымянный аудиовход",
       "setting_background": "Фоновое Изображение",
