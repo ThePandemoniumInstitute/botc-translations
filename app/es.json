@@ -5,7 +5,7 @@
       "patreon-demon": "Nivel Demonio",
       "patreon-minion": "Nivel Esbirro",
       "patreon-townsfolk": "Nivel Aldeano",
-      "special-free": "De obsequio",
+      "special-free": "Gratuita",
       "special-moderator": "Moderador",
       "special-tpi": "Empleado de TPI"
     },
@@ -14,7 +14,7 @@
     "button_close": "Cerrar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
-    "button_logout": "Cerrar Sesión",
+    "button_logout": "Cerrar sesión",
     "button_search": "Buscar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
@@ -22,72 +22,72 @@
     "session-tags": {
       "cameras": {
         "label": "Cámaras",
-        "title": "Si se están utilizando cámaras en esta sesión de juego",
-        "value_0": "Opcional",
-        "value_1": "Requerido",
-        "value_2": "Apagado"
+        "title": "Si se están utilizando las cámaras en esta sesión de juego",
+        "value_0": "Opcionales",
+        "value_1": "Requeridas",
+        "value_2": "Apagadas"
       },
       "difficulty": {
         "label": "Dificultad",
-        "title": "El nivel de experiencia esperado de los jugadores en esta sesión de juego",
+        "title": "El nivel de experiencia de jugador esperado para esta sesión de juego",
         "value_0": "Promedio",
-        "value_1": "Experimentado",
+        "value_1": "Experto",
         "value_2": "Principiante"
       },
       "grimoire": {
         "label": "Acceso al Grimorio",
-        "title": "Si los espectadores reciben acceso al Grimorio",
-        "value_0": "Consultar",
+        "title": "Si los espectadores tienen acceso al Grimorio",
+        "value_0": "Solicitar",
         "value_1": "No",
         "value_2": "Sí"
       },
       "streaming": {
-        "label": "El juego se transmite en directo",
-        "title": "Esta sesión de juego se transmitirá en vivo",
+        "label": "Transmisión de la partida",
+        "title": "Si la sesión de juego se transmitirá en directo",
         "value_0": "No",
         "value_1": "Sí"
       },
       "subscription": {
-        "label": "Se Requiere Suscripción",
-        "title": "Necesita una suscripción activa para unirse a este juego"
+        "label": "Se requiere suscripción",
+        "title": "Se requiere una suscripción activa para unirse a esta partida"
       },
       "travellers": {
         "label": "Viajeros",
-        "title": "Si los viajeros pueden unirse a esta sesión de juego",
+        "title": "Si pueden unirse viajeros a esta sesión de juego",
         "value_0": "Opcional",
         "value_1": "Sí",
         "value_2": "No"
       }
     },
-    "terms_of_use": "Términos de uso",
-    "title": "Sangre en la Torre del Reloj en Línea",
-    "trademark": "\"Blood on the Clocktower\" es una marca registrada de Steven Medway y The Pandemonium Institute.",
+    "terms_of_use": "Condiciones de uso",
+    "title": "Blood on the Clocktower En Línea",
+    "trademark": "«Blood on the Clocktower» es una marca registrada de Steven Medway y The Pandemonium Institute.",
     "unnamed_user": "Usuario sin nombre"
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Distribuir Personajes",
-      "ghost-votes": "Devolver Votos Fantasmas",
-      "grimoire": "Revelar el Grimorio",
-      "open-eyes": "Abrir/Cerrar los Ojos",
-      "pointing": "Elige un Jugador"
+      "distribute-roles": "Distribuir personajes",
+      "ghost-votes": "Devolver los Votos Fantasma",
+      "grimoire": "Mostrar el Grimorio",
+      "open-eyes": "Abrir/Cerrar los ojos",
+      "pointing": "Elige a un jugador"
     },
     "demon": "Demonio|Demonios",
     "fabled": "Fábula|Fábulas",
     "minion": "Esbirro|Esbirros",
     "outsider": "Forastero|Forasteros",
     "phases": {
-      "day": "Primer Día|Día {n}",
-      "end": "Entre juegos",
-      "first_night": "Primera Noche",
-      "night": "Primera Noche|Noche {n}",
-      "other_nights": "Otras Noches",
-      "start": "Preparando la Noche 1"
+      "day": "Primer día|Día {n}",
+      "end": "Entre partidas",
+      "first_night": "Primera noche",
+      "night": "Primera noche|Noche {n}",
+      "other_nights": "Otras noches",
+      "start": "Preparando la noche 1"
     },
     "player": "Jugador {0}",
     "players": "Jugadores",
     "seat": "Asiento {0}",
-    "shroud": "Marca de la Muerte",
+    "shroud": "Sudario",
     "storyteller": "Narrador {0}",
     "storytellers": "los narradores",
     "token": "Ficha",
@@ -95,22 +95,22 @@
     "traveller": "Viajero|Viajeros"
   },
   "main-menu": {
-    "cast_vote": "Emitir Voto",
-    "change_icon": "Haga clic para cambiar el icono",
-    "char_sheet": "Guión",
-    "characters": "Elige Personajes",
-    "clear_grim": "Limpiar Grimorio",
+    "cast_vote": "Emitir voto",
+    "change_icon": "Haz clic para cambiar el icono",
+    "char_sheet": "Hoja de personajes",
+    "characters": "Elige personajes",
+    "clear_grim": "Despejar el Grimorio",
     "download": "Descargar {0} App",
-    "edition": "Eligir Edición",
+    "edition": "Eligir edición",
     "error_audio": "Tu navegador ha evitado que la aplicación {0}. Por favor, haz clic aquí para iniciar el chat.",
     "error_audio2": "inicie automáticamente el chat de voz",
-    "error_audio3": "Es posible que también tangas que {0} en Firefox para escuchar el audio de la aplicación.",
-    "error_audio4": "cambiar alguna configuración",
+    "error_audio3": "Es posible que también tengas que {0} en Firefox para escuchar el audio de la aplicación.",
+    "error_audio4": "cambiar algún ajuste",
     "fabled": "Añadir Fábula",
-    "fullscreen": "Pantalla Completa",
-    "gather": "Reúne a Tus Jugadores",
-    "gong_attention": "Toque de Gong",
-    "gong_recall": "Llamada a la Plaza",
+    "fullscreen": "Pantalla completa",
+    "gather": "Reúne a los jugadores",
+    "gong_attention": "Tocar el gong",
+    "gong_recall": "Llamar a la plaza",
     "grim_access": "Tienes acceso al Grimorio",
     "grim_request": "Un espectador solicitó acceso al Grimorio",
     "help": "Ayuda",
@@ -711,7 +711,7 @@
       "button_pause": "Pausa",
       "button_reset": "Reinicio",
       "button_restart": "Reanudar",
-      "button_resume": "Continuar",
+      "button_resume": "Seguir",
       "button_start": "Empezar",
       "no_majority": "No se necesita la mayoría",
       "pointing": "Señalando a {0}",
