@@ -67,10 +67,10 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Distruibuir personagens",
-      "ghost-votes": "Devolver Votos de Fantasmas",
+      "ghost-votes": "Devolver Votos Fantasmas",
       "grimoire": "Mostrar o Grimório",
       "open-eyes": "Abrir/Fechar os Olhos",
-      "pointing": "Escolher um Jogador"
+      "pointing": "Escolher um jogador"
     },
     "demon": "Demônio|Demônios",
     "fabled": "Lenda|Lendas",
@@ -100,7 +100,7 @@
     "char_sheet": "Ficha de Personagens",
     "characters": "Escolher personagens",
     "clear_grim": "Apagar Grimório",
-    "download": "Baixar aplicativo para {0}",
+    "download": "Baixar o aplicativo para {0}",
     "edition": "Selecionar edição",
     "error_audio": "Seu navegador impediu o aplicativo de {0}. Clique aqui para iniciar a conversa.",
     "error_audio2": "Reprodução automática de voz",
@@ -183,7 +183,7 @@
         "claiming": "Erro ao escolher assento",
         "clear_grim": "Não foi possível limpar o Grimório",
         "connection": "Ocorreu um erro de conexão",
-        "edition_change": "Erro ao mudar edição",
+        "edition_change": "Erro ao mudar de edição",
         "end": "Erro ao encerrar partida",
         "eyes_close": "Não foi possível fechar os olhos",
         "eyes_open": "Não foi possível abrir os olhos",
@@ -397,7 +397,7 @@
       "setting_css": "CSS Personalizado",
       "setting_css_label": "Inserir regras de CSS personalizado",
       "setting_echo_cancellation": "Cancelamento de Eco",
-      "setting_english": "Mostrar os nomes dos Personagens em inglês também",
+      "setting_english": "Mostrar os nomes dos personagens em inglês também",
       "setting_gain": "Ganho de áudio",
       "setting_general_volume": "Volume geral",
       "setting_homebrew": "Mostrar imagens personalizadas/Ícones caseiros",
