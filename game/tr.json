@@ -90,14 +90,14 @@
     },
     "artist": {
       "ability": "Oyunda bir kez, gün içinde, Hikâyeciye gizlice herhangi bir evet/hayır sorusu sor.",
-      "flavor": "Mon Dieu! C'est lumineux! Benim eserim, şey, nasıl derler... Magnifique! Dieu est révélé! Oui.",
+      "flavor": "Mon Dieu! C'est lumineux! Benim eserim, o... nasıl derler... Magnifique! Dieu est révélé! Oui.",
       "name": "Sanatçı"
     },
     "assassin": {
       "ability": "Oyunda bir kez, geceleyin*, bir oyuncu seç: o kişi ölür, herhangi bir sebepten dolayı ölemiyorsa bile.",
       "flavor": "...",
-      "name": "Suikastçi",
-      "other": "Suikastçi bir oyuncu seçebilir. :reminder: :reminder:"
+      "name": "Suikastçı",
+      "other": "Suikastçı bir oyuncu seçebilir. :reminder: :reminder:"
     },
     "atheist": {
       "name": "Ateist"
@@ -108,7 +108,7 @@
       "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
     },
     "barber": {
-      "ability": "Bugün veya bu gece öldüysen, Şeytan 2 oyuncu seçip (başka bir Şeytanı değil) karakterlerini birbiriyle değiştirebilir.",
+      "ability": "Bugün veya bu gece öldüysen, Şeytan karakterlerini birbiriyle değiştirmek için 2 oyuncu (başka bir Şeytanı değil) seçebilir.",
       "name": "Berber"
     },
     "baron": {
