@@ -2,9 +2,9 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
-      "patreon-demon": "Nivel demonio",
-      "patreon-minion": "Nivel de esbirro",
-      "patreon-townsfolk": "Nivel de aldeano",
+      "patreon-demon": "Nivel Demonio",
+      "patreon-minion": "Nivel Esbirro",
+      "patreon-townsfolk": "Nivel Aldeano",
       "special-free": "De obsequio",
       "special-moderator": "Moderador",
       "special-tpi": "Empleado de TPI"
