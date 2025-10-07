@@ -147,6 +147,7 @@
     "tab_playing": "Spiller",
     "to_day": "Gå til Dagfase",
     "to_night": "Gå til Natfase",
+    "translation": "Forbedr denne oversættelse",
     "user_list": "Brugerliste",
     "vacate_seat": "Forlad Sæde",
     "vote_history": "Stemmehistorie"
@@ -1057,7 +1058,10 @@
     "players_alive": "{0} / {1} spillere i live",
     "reload": "Venligst genindlæs eller ryd din browser cache for at få den seneste version.",
     "since": "siden {0}",
+    "translation_disclaimer": "Du bruger i øjeblikket en lokaliseret version af appen. Denne oversættelse er blevet oprettet og gennemgået af følgende frivillige, som ikke er tilknyttet The Pandemonium Institute:",
+    "translation_game": "Denne oversættelse af spillets indhold afspejler muligvis ikke nøjagtigt de officielle engelske regler, som er skrevet af The Pandemonium Institute.",
     "update": "Venligst opdater!",
+    "updating": "Opdaterer app til version {0}...",
     "warning_browser": "Du bruger en ældre eller ikke understøttet browser",
     "warning_browser2": "{0}, som kan være årsag til problemer med appen. Venligst download de nyeste browser opdateringer eller skift til en anden browser. Appen virker bedst i Firefox og Chrome.",
     "warning_update": "Din version af appen er forældet",
