@@ -152,11 +152,11 @@
     },
     "cerenovus": {
       "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir.",
-      "flavor": "Gerçeklik yalnızca bir görüştür. O görüş de benim görüşüm.",
+      "flavor": "Gerçeklik yalnızca bir görüştür. Daha doğrusu, benim görüşüm.",
       "name": "Cerenovus"
     },
     "chambermaid": {
-      "ability": "Her gece, hayattaki 2 oyuncuyu seç (kendini değil): bu gece kaç tanesinin becerisinden dolayı uyandığını öğrenirsin.",
+      "ability": "Her gece, hayatta olan 2 oyuncu seç (kendini değil): bu gece kaç tanesinin yeteneğinden dolayı uyandığını öğrenirsin.",
       "name": "Oda Hizmetçisi"
     },
     "chef": {
