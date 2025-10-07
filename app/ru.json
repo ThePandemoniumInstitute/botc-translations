@@ -456,14 +456,14 @@
         "toggleEdition": "Выбрать Издание",
         "toggleFullscreen": "Полноэкранный режим",
         "toggleNight": "Переключение Ночной Фазы",
-        "toggleNightOrder": "Порядок Хода Ночью",
+        "toggleNightOrder": "Очередность Действий Ночью",
         "toggleNightSignal": "Показать Ночную Информацию",
         "toggleReference": "Ссылка на роль",
         "toggleRoles": "Выбрать Роли",
         "toggleTownSquare": "Показать Городскую Площадь",
-        "toggleVideoMuted": "Переключить Камеру",
+        "toggleVideoMuted": "Включить / Выключить Камеру",
         "toggleVoteHistory": "История голосований",
-        "toggleWhisper": "Чат / Написать"
+        "toggleWhisper": "Чат / Написать Сообщение"
       },
       "sounds": {
         "attentionGong": "Гонг Внимания",
@@ -474,7 +474,7 @@
         "privateRequest": "Запрос на приватный чат",
         "timerGong": "Сигнал окончания таймера",
         "voteCast": "Голос отдан",
-        "voteTick": "Тикание голосования",
+        "voteTick": "Тик таймера голосования",
         "voteTickShort": "Тикание голосования (<1с)"
       },
       "tab_advanced": "Продвинутый",
