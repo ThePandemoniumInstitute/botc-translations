@@ -1,1 +1,6 @@
-{}
+{
+  "common": {
+    "button_cancel": "Zrušit",
+    "button_close": "Zavřít"
+  }
+}
