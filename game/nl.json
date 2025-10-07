@@ -104,10 +104,10 @@
     },
     "yaggababble": {
       "ability": "Jij begint het spel met een geheime uitdrukking. Voor elke keer dat jij dit publiekelijk zegt vandaag, sterft er mogelijk een speler.",
-      "first": "Kies een geheime uitdrukking. Maak de Yaggababble wakker en laat de speler weten wat de geheime uitdrukking is.",
+      "first": "Kies een geheime uitdrukking. Maak de Kletsmajoor wakker en laat de speler weten wat de geheime uitdrukking is.",
       "flavor": "Moorden in de het Rue lijkenhuis? Фальшивые новости! Honden op de Baskerville heide? Фальшивые новости! Dood tijdens het zeilen over de Nijl? Фальшивые новости!",
-      "name": "Yaggababble",
-      "other": "Voor iedere keer dat de Yaggababble de uitdrukking heeft gezegd vandaag, mag je een speler kiezen. Deze sterft. :reminder:"
+      "name": "Kletsmajoor",
+      "other": "Voor iedere keer dat de Kletsmajoor de uitdrukking heeft gezegd vandaag, mag je een speler kiezen. Deze sterft. :reminder:"
     },
     "zealot": {
       "ability": "Als er 5 of meer spelers leven, moet je voor iedere nominatie stemmen.",
