@@ -10,7 +10,7 @@
       "special-tpi": "TPI Personale"
     },
     "botc_online": "BOTC Online",
-    "button_cancel": "Annuller",
+    "button_cancel": "Annullere",
     "button_close": "Luk",
     "button_confirm": "Bekræft",
     "button_continue": "Fortsæt",
@@ -608,7 +608,7 @@
       "error_403": "Dit telefonnummer bliver allerede brugt af en anden bruger. Hvis du tror dette er forkert, kontakt os ved {0}.",
       "error_404": "Bekræftelsesforsøget er udløbet eller ugyldigt. Prøv igen.",
       "error_assigned": "Dette telefonnummer bruges allerede af en anden bruger. Brug et andet telefonnummer.",
-      "error_cooldown": "Du har nået det maksimale antal forsøg. Vent mindst 10 minutter før du prøver igen.",
+      "error_cooldown": "Du har nået det maksimale antal forsøg. Vent mindst {0} minutter før du prøver igen.",
       "error_other": "Noget gik galt: {0}. Prøv igen.",
       "error_pending": "Forkert kode. Prøv igen.",
       "error_restart": "Du har nået det maksimale antal forsøg. Indtast dit telefonnummer igen.",
