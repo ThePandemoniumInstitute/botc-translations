@@ -590,11 +590,126 @@
       "chat_connection": "Chat connectie type",
       "grim_access": "Toegang tot Spreukenboek",
       "group_sub": "Groepsabonnee",
-      "new_user": "Nieuwe gebruiker"
+      "new_user": "Nieuwe gebruiker",
+      "official_mod": "Officiële Moderator",
+      "official_tpi": "Officiële TPI",
+      "offline": "Offline",
+      "st_requested": "Verteller gevraagd",
+      "type_player": "Speler|{n} Spelers",
+      "type_spectator": "Toeschouwer|{n} Toeschouwers",
+      "type_storyteller": "Verteller|{n} Vertellers"
+    },
+    "verification": {
+      "button_reset": "Opnieuw",
+      "code": "Code",
+      "code_sent": "Een code is verstuurd naar je mobiele nummer, voer in om je account te verifiëren!",
+      "country_code": "Landcode",
+      "error_402": "Wegwerp telefoonnummers kunnen niet gebruikt worden voor account verificatie.",
+      "error_403": "Dit telefoonnummer is al in gebruik bij een andere gebruiker. Als je denkt dat dit niet klopt, neem dan contact met ons op {0}.",
+      "error_404": "De verificatie is vervallen of ongeldig. Probeer opnieuw.",
+      "error_assigned": "Dit telefoonnummer is al in gebruik bij een andere gebruiker, gebruik een ander nummer.",
+      "error_cooldown": "Je hebt het maximaal aantal pogingen bereikt. Wacht ten minste {0} minuten voor je het opnieuw probeert.",
+      "error_other": "Er ging iets mis: {0}. Probeer het opnieuw.",
+      "error_pending": "Incorrecte code. Probeer opnieuw.",
+      "error_restart": "Je hebt het maximaal aantal pogingen bereikt. Voer je telefoonnummer opnieuw in.",
+      "phone": "Telefoonnummer",
+      "success": "Verificatie succesvol! Je kunt dit venster nu sluiten.",
+      "text_body": "We introduceren sms-verificatie voor accounts die lid worden van {0} om de levendige, respectvolle gemeenschap te beschermen die Blood on the Clocktower zo bijzonder maakt. Hoewel de meeste spelers al bijdragen aan een fantastische cultuur, helpt deze stap ons om snel en adequaat actie te ondernemen wanneer de spelervaring verstoord wordt. Privégames worden hierdoor niet beïnvloed.",
+      "text_body2": "Publieke spellen",
+      "text_footer": "Telefoonnummers worden opgeslagen op een niet-herstelbare manier.",
+      "text_title": "Waar is dit voor nodig?",
+      "title": "Account Verificatie"
+    },
+    "votehistory": {
+      "clear": "Wis stemgeschiedenis",
+      "execution": "Executie",
+      "exile": "Verbannen",
+      "majority": "Meerderheid",
+      "nominator": "Nominerend",
+      "nominee": "Genomineerde",
+      "phase": "fase",
+      "pregame": "Voor het spel",
+      "title": "Stemgeschiedenis",
+      "type": "Type",
+      "voters": "Stemmers",
+      "votes": "Stemmen"
     }
   },
   "overlays": {
+    "attention": {
+      "attention": "Attentie alsjeblieft!",
+      "return": "Keer terug naar het Dorpsplein!"
+    },
+    "firstnight": {
+      "bluffs": "Selecteer de 3 lege \"Demoon Bluf\" tokens om met de Demoon te delen.",
+      "button_begin": "Begin de 1e nacht fase",
+      "gardener_button": "Stuur de Karakters",
+      "gardener_text": "Als je blij bent met de karakter opzet, {0} naar de Spelers. Zodra je deze hebt uitgedeeld, kun je doorgaan met de opzet tijdens de eerste nacht.",
+      "reminders": "Voeg alle nodige herinneringstokens {0} toe.",
+      "title": "Bereid de eerste nacht voor."
+    },
+    "gatherplayers": {
+      "button_add": "Voeg stoel toe",
+      "button_clear": "Leegmaken",
+      "button_clearall": "Alles legen",
+      "button_select": "Selecteer een editie",
+      "button_shuffle": "Stoelen husselen",
+      "clear_text": "Weet je zeker dat je alle spelers wil verwijderen?",
+      "clear_title": "Verwijder alle spelers",
+      "move": "Verhuis achter \n {0}",
+      "shuffle_text": "Weet je zeker dat je de stoelen willekeurig wil toewijzen?",
+      "shuffle_title": "Stoelen willekeurig toewijzen",
+      "swap": "Ruil met \n\n {0}",
+      "text": "Voeg toe, hussel of verwijder spelers hier.",
+      "text2": "Als er genoeg stoelen voor alle spelers zijn, {0}",
+      "title": "Verzamel je spelers",
+      "warning": "Je hebt ten minste 7 spelers nodig voor een normaal spel in Ravenswood Bluff."
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Sluiten",
+        "button_open": "Open",
+        "button_peek": "Gluur",
+        "state_false": "Gesloten",
+        "state_open-eyes": "Open",
+        "state_peek-eyes": "Gluren",
+        "text": "Je ogen zijn {0}",
+        "tooltip_false": "Je ziet het nachtsignaal van geen enkele andere speler en je kunt geen privéberichtjes sturen naar anderen, behalve naar je buren en de Verteller.",
+        "tooltip_open-eyes": "Je kunt privéberichtjes versturen en ontvangen van alle andere spelers, ongeacht waar ze zitten. Je ziet de inhoud van elk nachtsignaal dat wordt verzonden en ontvangen, maar er is een kans dat iemand anders je kan betrappen.",
+        "tooltip_peek-eyes": "Je kunt privéberichtjes versturen en ontvangen van alle andere spelers, ongeacht waar ze zitten. Je ziet elk nachtsignaal dat wordt verzonden en ontvangen, maar niet de inhoud. Je kunt niet worden betrapt."
+      }
+    },
+    "pointing": {
+      "button_countdown": "Aftellen",
+      "countdown_freeze": "Stop",
+      "nobody": "Niemand",
+      "prompt": "Klik op een speler om naar ze te wijzen!",
+      "title_locked": "Gekozen speler:|Gekozen spelers:",
+      "title_open": "Huidige selectie:|Huidige selectie:",
+      "you_pointed": "Jij wees naar:"
+    },
+    "reveal": {
+      "button_remaining": "Overgebleven spelers",
+      "button_result": "Speluitslag",
+      "evil": "Slecht",
+      "good": "Goed",
+      "prompt": "Waarschuwing: Het spel wordt beëindigd en onthult het Spreukenboek aan alle spelers.\nWie heeft gewonnen?",
+      "result": "{0} heeft gewonnen!",
+      "text": "Onthul de uitslag van het spel en de resultaten van elke speler door op hun token te klikken. Je kunt met de muis over de token bewegen om hun karakter te bekijken.",
+      "title": "Onthul Spreukenboek"
+    },
+    "rules": {
+      "button_select": "Selecteer de Karakters",
+      "text": "Jij bent klaar om te {0}",
+      "text2": "Reizigers moeten aan spelers zijn toegewezen voor het selecteren van de karakters.",
+      "title": "Selecteer Karakters"
+    },
     "towninfo": {
+      "alive": "Levend",
+      "button_gather": "Verzamel je spelers",
+      "return": "Terug naar het Spreukenboek (Snelkoppeling: {0})",
+      "script_by": "bij {0}",
+      "text_player": "De Verteller moet meer spelers toevoegen voor je kunt beginnen.",
       "text_st": "Om te beginnen moet je eerst {0}",
       "timer_ended": "Beëindigd",
       "title": "Welkom bij {0}"
@@ -669,6 +784,9 @@
       "free_tier_patreon": "Patreon",
       "free_tier_unverified": "Je hebt een {0}-account. Je kunt elk van de bovenstaande spellen spelen door op de klok links te klikken, tenzij je voor dit spel een abonnement nodig hebt. Als je je eigen spel wil hosten, neem dan een abonnement op {1}.",
       "free_tier_verified": "Je hebt een {0}-account. Je moet {1} zijn voordat je in openbare spellen mee kunt spelen. Wil je je eigen spel hosten, neem dan een abonnement op {2}.",
+      "free_tier_verify": "Verifieer je account",
+      "game": "Spel",
+      "language": "Taal",
       "loading": "Spellen laden...",
       "no_games": "Geen publieke spellen gevonden.",
       "page": "Pagina {page} van {total}",
@@ -947,6 +1065,6 @@
     "warning_browser": "Je gebruikt een oud of niet ondersteund browser",
     "warning_browser2": "{0} kan problemen met de app veroorzaken. Download de nieuwste versie van je browser, of gebruik een alternatief browser. Deze app werkt het beste in FireFox en Chrome.",
     "warning_update": "Deze versie van de app is verouderd",
-    "warning_update2": "{0}, de nieuwste versie is {0}!"
+    "warning_update2": "{0}, de nieuwste versie is {1}!"
   }
 }
