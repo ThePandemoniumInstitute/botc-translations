@@ -4,6 +4,7 @@
       "free": "Gratuit",
       "patreon-demon": "Nivel Demon",
       "patreon-minion": "Nivel Minion",
+      "patreon-townsfolk": "Nivel Orășean",
       "special-free": "Oferit",
       "special-moderator": "Moderator",
       "special-tpi": "Personal TPI"
@@ -32,6 +33,7 @@
       },
       "grimoire": {
         "label": "Acces la Grimoar",
+        "title": "Spectatorii primesc acces la Grimoar",
         "value_0": "Întreabă",
         "value_1": "Nu",
         "value_2": "Da"
@@ -56,7 +58,9 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Împarte Rolurile"
+      "distribute-roles": "Împarte Rolurile",
+      "grimoire": "Arată Grimoarul",
+      "open-eyes": "Deschide/Închide Ochii"
     },
     "demon": "Demon|Demoni",
     "minion": "Minion|Minioni",
@@ -89,6 +93,7 @@
     "fullscreen": "Ecran complet",
     "gather": "Adună-ți Jucătorii",
     "gong_attention": "Gong de Atenție",
+    "gong_recall": "Cheamă în Piața Orașului",
     "grim_access": "Ți s-a oferit acces la Grimoar",
     "grim_request": "Un spectator a solicitat acces la Grimoar",
     "help": "Ajutor",
@@ -103,12 +108,19 @@
     "prompt_vacate_title": "Părăsește Scaunul",
     "push_to_talk": "Apasă [{0}] pentru a vorbi",
     "raise_hand": "Ridică Mâna",
+    "request_private": "Solicită un Chat Privat",
+    "reveal_grim": "Dezvăluie Grimoarul",
     "rules": "Citește Regulile",
     "session_expires": "Momentan nu există niciun utilizator de nivel Minion în această sesiune și este posibil ca aceasta să expire la {0}.",
     "set_timer": "Setează Cronometrul",
     "settings": "Setări",
     "show_grim": "Arată Grimoarul",
     "show_town": "Arată Piața Orașului",
+    "storyteller_remove": "Renunță la a fi Povestitor",
+    "tab_during_game": "În timpul Jocului",
+    "tab_new_game": "Joc Nou",
+    "to_day": "Mergi la Faza de Zi",
+    "to_night": "Mergi la Faza de Noapte",
     "translation": "Îmbunătățește această traducere",
     "user_list": "Lista Utilizatorilor",
     "vacate_seat": "Părăsește Scaunul",
@@ -117,12 +129,15 @@
   "modals": {
     "announcement": {
       "description": "Ce dorești să anunți?",
+      "error": "A avut loc o eroare la trimiterea Anunțului",
       "input_session": "Numele sesiunii (opțional)",
       "input_text": "Textul anunțului tău",
       "input_title": "Titlul anunțului",
       "title": "Fă un anunț"
     },
     "dialogue": {
+      "button_evil": "Echipa Rea a câștigat",
+      "button_good": "Echipa Bună a câștigat",
       "button_no": "Nu",
       "button_yes": "Da",
       "close_timer": "Acest pop-up se va închide în {n}s.",
@@ -136,6 +151,7 @@
         "avatar_type": "Fișierul tău nu a fost recunoscut ca fiind o imagine.",
         "chat2_text": "Serverul de Chat pare să fie offline",
         "chat2_title": "Serverul de Chat este Deconectat",
+        "chat_text": "Conexiunea la serverul de chat a fost pierdută, încercăm să o restabilim...\nMesaj de eroare: {0}",
         "chat_title": "A avut loc o eroare la conexiunea chat-ului",
         "claiming": "A avut loc o eroare la revendicarea scaunului",
         "clear_grim": "Nu s-a putut șterge grimoarul",
@@ -158,9 +174,31 @@
         "offline": "Serverul pare să fie offline",
         "remove_player": "Nu s-a putut elimina jucătorul",
         "remove_storyteller": "A avut loc o eroare la eliminarea Povestitorului",
+        "request_grim": "Nu s-a putut solicita grimoarul",
         "sending_roles": "A avut loc o eroare la trimiterea rolurilor",
+        "server2_text": "Conexiunea către serverul jocului a fost pierduta, încercăm să o restabilim...\nMesaj de eroare: {0}",
+        "server_change": "Nu s-a putut schimba serverul de chat",
+        "server_text": "Conexiunea a expirat în timp ce se aștepta pentru serverul jocului.",
+        "server_title": "Serverul Jocului a fost Deconectat",
+        "session": "A avut loc o eroare la crearea unei sesiuni de joc",
         "session_banned": "Ești banat.",
-        "session_full": "Această sesiune are deja 25 de utilizatori."
+        "session_full": "Această sesiune are deja 25 de utilizatori.",
+        "session_general": "A avut loc o eroare la conectarea la sesiune.",
+        "session_locked": "Sesiunea de joc a fost încuiată.\nDoar Jucătorii de pe scaune și Povestitorii pot să se alăture.",
+        "session_not_found": "Sesiunea de joc nu a fost găsită.",
+        "session_public": "Nu te poți alătura sesiunilor de joc publice.",
+        "session_rejoin": "Încă nu poți să te reîntorci la această sesiune de joc.",
+        "session_subscription": "Ai nevoie de un abonament pentru a te alătura la această sesiune de joc.",
+        "session_unverified": "Trebuie să îți verifici contul înainte de a te putea alătura sesiunilor de joc publice.",
+        "signal": "A avut loc o eroare la trimiterea unui semnal de noapte",
+        "start": "A avut loc o eroare la pornirea jocului",
+        "subscription": "Abonament obligatoriu",
+        "subscription_text": "Ai nevoie de un abonament pentru a te alătura acestei sesiuni de joc.",
+        "subscription_title": "Nu a fost găsit niciun abonament Patreon",
+        "theme_change": "A avut loc o eroare la schimbarea temei",
+        "unauthorized": "Neautorizat",
+        "update": "A avut loc o eroare la actualizarea jocului",
+        "update_game": "Nu s-au putut actualiza datele sesiunii"
       }
     }
   }
