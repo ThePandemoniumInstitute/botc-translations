@@ -15,22 +15,22 @@
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
     "button_logout": "Desconectar",
-    "button_search": "Procurar",
+    "button_search": "Pesquisar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
     "privacy_policy": "Política de Privacidade",
     "session-tags": {
       "cameras": {
         "label": "Câmaras",
-        "title": "Se câmaras estão a ser usadas nesta sessão de jogo",
+        "title": "Utilização de câmaras",
         "value_0": "Opcional",
         "value_1": "Necessário",
         "value_2": "Desligado"
       },
       "difficulty": {
         "label": "Dificuldade",
-        "title": "O nível de experiência esperado dos jogadores nesta sessão",
-        "value_0": "Médio",
+        "title": "Nível de experiência esperada dos jogadores nesta sessão",
+        "value_0": "Mediana",
         "value_1": "Avançado",
         "value_2": "Iniciante"
       },
