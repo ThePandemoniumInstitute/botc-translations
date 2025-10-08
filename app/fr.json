@@ -246,6 +246,7 @@
         "storyteller_text": "Voulez vous devenir le·a Conteur·euse et voir le Grimoire ?",
         "storyteller_title": "Demander à être promu·e Conteur·euse",
         "terms": "Mise à jour des conditions d'utilisation",
+        "username_placeholder": "Nom d’utilisateur",
         "username_text": "Veuillez entrer votre nom d'utilisateur:"
       },
       "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
@@ -367,6 +368,7 @@
       "option_disabled": "Désactivé",
       "patreon_link": "Connecter un Compte Patreon",
       "patreon_perks": "Le téléchargement d’avatars et les plaques nominatives spéciales sont disponibles avec un abonnement {0} payant !",
+      "patreon_perks2": "Abonnement de Patreon",
       "patreon_update": "Mettre à jour le statut Patreon",
       "setting_alignment": "Afficher l’alignement sur la place du village",
       "setting_animations": "Afficher les Animations",
@@ -376,6 +378,7 @@
       "setting_avatar_size": "Taille de l’avatar du joueur",
       "setting_avatars": "Afficher les avatars / caméras sur la Place du Village",
       "setting_background": "Image de fond",
+      "setting_camera": "Caméra",
       "setting_chroma": "Clé Chromatique",
       "setting_chroma_label": "Sélectionner la couleur de chrominance",
       "setting_clouds": "Afficher les Nuages de la Phase de Nuit",
@@ -402,6 +405,7 @@
       "setting_reminder_zoom": "Taille du Jeton de Rappel",
       "setting_reminders": "Empiler les jetons de rappel",
       "setting_reminders_auto": "Automatique",
+      "setting_reminders_never": "Jamais",
       "setting_reveal": "Afficher les caméras pendant la révélation du grimoire",
       "setting_st_night": "Conteur : afficher l’ordre de réveil",
       "setting_st_nomination": "Conteur : type de nomination",
@@ -430,6 +434,10 @@
         "castVote": "Voter / Marquer un Joueur",
         "leaveChat": "Quitter un Chat",
         "leaveSession": "Quitter une Session",
+        "modalRules": "Lire les règles",
+        "modalSettings": "Paramètres",
+        "modalShortcuts": "Raccourcis",
+        "modalUsers": "Utilisateurs",
         "modeFabled": "Ajouter un Légendaire",
         "modeGather": "Rassemblez Vos Joueurs",
         "raiseHand": "Lever la Main",
@@ -461,8 +469,11 @@
         "voteTick": "Tic de l’Horloge de Vote",
         "voteTickShort": "Tic de l’Horloge de Vote (<1 s)"
       },
+      "tab_advanced": "Avancé",
       "tab_chat": "Chat",
       "tab_general": "Général",
+      "tab_shortcuts": "Raccourcis",
+      "tab_user": "Utilisateur",
       "title": "Paramètres de l’Application",
       "title_avatar": "Sélectionner un Avatar",
       "title_sound": "Volume des Effets Sonores"
@@ -473,13 +484,35 @@
       "audio_unnamed": "Périphérique Audio Sans Nom",
       "browser": "Navigateur :",
       "button_rerun": "Relancer",
+      "button_start": "Commencer",
       "cam_blocked": "L’accès à la caméra est bloqué",
       "cam_query": "Demande d’Autorisation pour la Caméra",
       "capture_audio": "Capturer l’Audio",
       "capture_video": "Capturer la Vidéo",
       "get_devices": "Obtenir la Liste des Périphériques",
       "mic_blocked": "L’accès au microphone est bloqué",
-      "mic_cam_blocked": "Impossible d’accéder à la caméra et au microphone"
+      "mic_cam_blocked": "Impossible d’accéder à la caméra et au microphone",
+      "start": "Commencer"
+    },
+    "signal": {
+      "cards": {
+        "claim": "Ce•tte jouer•euse est",
+        "demon": "Voici le Démon",
+        "evil": "Mal",
+        "five": "Cinq",
+        "four": "Quatre",
+        "good": "Bon",
+        "neutral": "Neutre",
+        "no": "Non",
+        "one": "Un",
+        "three": "Trois",
+        "two": "Deux",
+        "yes": "Oui",
+        "you": "Tu es",
+        "zero": "Zéro"
+      },
+      "character": "Caractère",
+      "player": "Jouer•euse"
     }
   },
   "version": {
