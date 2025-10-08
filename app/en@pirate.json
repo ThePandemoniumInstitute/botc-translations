@@ -202,7 +202,8 @@
         "session": "Ye can't afford that ship",
         "session_banned": "Sling yer hook, yer not welcome.",
         "session_full": "If anyone else gets aboard she'll sink!",
-        "session_general": "Ye couldn't get aboard."
+        "session_general": "Ye couldn't get aboard.",
+        "session_locked": "No one else can get aboard.\nUnless ye've already got yer spot, heave off."
       },
       "prompt": {
         "storyteller_text": "Do ye wish to be Captain o' this ship and check the map?"
