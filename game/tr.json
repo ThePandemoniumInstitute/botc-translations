@@ -136,7 +136,13 @@
     },
     "boffin": {
       "ability": "Şeytan (sarhoş veya zehirlenmiş bile olsa) oyunda olmayan iyi bir karakterin yeteneğine sahip olur. İkiniz de hangisi olduğunu bilirsiniz.",
+      "first": "Bilim Adamını ve Şeytanı uyandır. Oyunda olmayan iyi karakter pulunu göster. Bilim Adamını ve Şeytanı uyut.",
       "name": "Bilim Adamı"
+    },
+    "bonecollector": {
+      "ability": "Oyunda bir kez, geceleyin*, ölü bir oyuncu seç: gün batımına kadar yeteneğini geri kazanır.",
+      "flavor": "Ben çok şey biriktiririm. Saç. Diş. Kıyafet. Şiir parçaları. Kayıp aşıkların hayâlleri. Benim gizli sanatımı kimse bilemez fakat ücretim çok düşüktür. Bana dolunayda kalp kırıklığından ölmüş soylu bir kadının kanını getir, aradığın cevapları al.",
+      "name": "Kemik Koleksiyoncusu"
     },
     "bureaucrat": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu 3 oy olarak sayılır.",
