@@ -144,18 +144,44 @@
       "flavor": "Ben çok şey biriktiririm. Saç. Diş. Kıyafet. Şiir parçaları. Kayıp aşıkların hayâlleri. Benim gizli sanatımı kimse bilemez fakat ücretim çok düşüktür. Bana dolunayda kalp kırıklığından ölmüş soylu bir kadının kanını getir, aradığın cevapları al.",
       "name": "Kemik Koleksiyoncusu"
     },
+    "boomdandy": {
+      "ability": "İdam edilirsen, 3 oyuncu dışındaki herkes ölür. 10'dan geri sayıldıktan sonra, en çok oyuncunun eliyle gösterdiği oyuncu ölür.",
+      "flavor": "Tik... Tik... Tik... TAK."
+    },
+    "bootlegger": {
+      "ability": "Bu senaryoda ev yapımı karakterler veya kurallar var."
+    },
+    "bountyhunter": {
+      "ability": "1 kötü oyuncuyu bilerek başlarsın. Bildiğin oyuncu ölürse, bu gece başka bir kötü oyuncuyu öğrenirsin. [1 Kasabalı kötü]",
+      "name": "Ödül Avcısı"
+    },
+    "buddhist": {
+      "ability": "Her günün ilk 2 dakikasında, tecrübeli oyuncular konuşamaz.",
+      "first": "Hangi oyuncuların Budistten etkilendiğini ilan et.",
+      "flavor": "Sen diken atarsın. Benim sükûnetime düşerken onlar çiçek olur.",
+      "name": "Budist"
+    },
     "bureaucrat": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu 3 oy olarak sayılır.",
-      "name": "Bürokrat"
+      "first": "Bürokrat bir oyuncu seçer. :reminder:",
+      "name": "Bürokrat",
+      "other": "Bürokrat bir oyuncu seçer. :reminder:"
     },
     "butcher": {
-      "ability": "Her gün, ilk infazdan sonra, tekrar aday göstererbilirsin.",
+      "ability": "Her gün, ilk idamdan sonra, tekrar aday gösterebilirsin.",
       "flavor": "Tavuk tadı var bunda. Biraz daha lütfen.",
       "name": "Kasap"
     },
     "butler": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın, ancak o kişi oy kullanıyorsa sen de kullanabilirsin.",
-      "name": "Uşak"
+      "first": "Uşak bir oyuncu seçer. :reminder:",
+      "flavor": "Evet efendim... Hayır efendim... Tabii ki efendim.",
+      "name": "Uşak",
+      "other": "Uşak bir oyuncu seçer. :reminder:"
+    },
+    "cannibal": {
+      "flavor": "Palyaçoları sevmem. Tatları komik oluyor.",
+      "name": "Yamyam"
     },
     "cerenovus": {
       "ability": "Her gece, bir oyuncu ve iyi bir karakter seç: o kişi yarın bu karakter olduğuna “saplantılı” olur, yoksa idam edilebilir.",
@@ -177,8 +203,15 @@
     "courtier": {
       "ability": "Oyunda bir kez, geceleyin, bir karakter seç: o kişi 3 gece 3 gün sarhoş olur.",
       "first": "Nedim bir karakter seçebilir. :reminder: :reminder:",
+      "flavor": "Koyun önderliğindeki yüz aslanlık bir ordudansa aslan önderliğindeki yüz koyunluk bir ordudan daha çok korkarım.",
       "name": "Nedim",
       "other": "Nedim bir karakter seçebilir. :reminder: :reminder:"
+    },
+    "cultleader": {
+      "name": "Tarikat Lideri"
+    },
+    "damsel": {
+      "flavor": "Saçıma dokunma tatlım."
     },
     "devilsadvocate": {
       "name": "Şeytanın Avukatı"
