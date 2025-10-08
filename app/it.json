@@ -29,7 +29,7 @@
       },
       "difficulty": {
         "label": "Difficoltà",
-        "title": "Il livello di esperienza previsto dai giocatori in questa sessione di gioco",
+        "title": "Il livello di esperienza atteso dai giocatori in questa sessione di gioco",
         "value_0": "Media",
         "value_1": "Veterano",
         "value_2": "Principiante"
