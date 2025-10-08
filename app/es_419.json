@@ -73,7 +73,7 @@
       "pointing": "Escoge un Jugador"
     },
     "demon": "Demonio|Demonios",
-    "fabled": "Mítico|Míticos",
+    "fabled": "Legendario]Legendarios",
     "minion": "Secuaz|Secuaces",
     "outsider": "Extranjero|Extranjeros",
     "phases": {
@@ -106,7 +106,7 @@
     "error_audio2": "reproducción automática del chat de voz",
     "error_audio3": "Quizás tengas que {0} en Firefox para escuchar el audio de la app.",
     "error_audio4": "cambiar la configuración",
-    "fabled": "Agregar Mítico",
+    "fabled": "Agregar Legendario",
     "fullscreen": "Pantalla completa",
     "gather": "Reunir a los Jugadores",
     "gong_attention": "Gong de Atención",
@@ -187,7 +187,7 @@
         "end": "Error al terminar el juego",
         "eyes_close": "No se puede cerrar los ojos",
         "eyes_open": "No se puede abrir los ojos",
-        "fabled": "Error al actualizar el Mítico",
+        "fabled": "Error al actualizar el Legendario",
         "generic": "Ocurrió un error",
         "kick": "No se puede botar al usuario",
         "link_text": "Se produjo un error al vincular tu cuenta a Patreon. Por favor, intenta nuevamente.",
@@ -295,7 +295,7 @@
       "upload_custom": "Cargar JSON de Escenario Personalizado"
     },
     "fabled": {
-      "title": "Agregar Rol Mítico"
+      "title": "Agregar Rol Legendario"
     },
     "help": {
       "button_send": "Enviar Data de Depuración de la Sesión",
@@ -448,7 +448,7 @@
         "modalSettings": "Configuración",
         "modalShortcuts": "Atajos",
         "modalUsers": "Usuarios",
-        "modeFabled": "Agregar Mítico",
+        "modeFabled": "Agregar Legendario",
         "modeGather": "Reúne a tus Jugadores",
         "raiseHand": "Levantar la Mano",
         "revealGrimoire": "Revelar Grimorio",
@@ -779,7 +779,7 @@
       "characters": "Personajes",
       "create_game": "Crear Nuevo Juego",
       "edition_by": "por {author}",
-      "fabled": "legendario",
+      "fabled": "Legendario",
       "forced_private": "Ya no puede jugar en juegos públicos.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
@@ -798,7 +798,7 @@
       "spectators": "Espectadores",
       "stats": "{0} usuarios están en {1} {2} juegos",
       "stats_public": "público",
-      "storyteller": "Cuentacuentos",
+      "storyteller": "Narrador",
       "subscription": "Nivel de suscripción",
       "updating": "Actualizando...",
       "welcome": "¡Bienvenido a {0}!"
@@ -979,8 +979,8 @@
       "title": "Voz"
     },
     "fabled": {
-      "remove": "Eliminar Mítico",
-      "title": "Mítico"
+      "remove": "Eliminar Legendario",
+      "title": "Legendario"
     },
     "text": {
       "channels": {
@@ -1059,6 +1059,8 @@
     "players_alive": "{0} / {1} jugadores vivos",
     "reload": "Actualice o borre el caché de su navegador para obtener la última versión.",
     "since": "desde {0}",
+    "translation_disclaimer": "Estás utilizando una versión localizada de la app. Esta traducción ha sido creada y revisada por los siguientes voluntarios, quienes no están afiliados con The Pandemonium Institute:",
+    "translation_game": "La traducción del contenido de este juego podría no representar correctamente las reglas oficiales del juego en Inglés escritas por The Pandemonium Institute.",
     "update": "¡Por favor, Actualiza!",
     "updating": "Actualizando aplicación a la versión {0}...",
     "warning_browser": "Estas usando un navegador viejo o no compatible",
