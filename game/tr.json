@@ -213,6 +213,13 @@
     "damsel": {
       "flavor": "Saçıma dokunma tatlım."
     },
+    "dawn": {
+      "first": "Birkaç saniye bekle. Gece Evresini bitir.",
+      "other": "Birkaç saniye bekle. Gece Evresini bitir."
+    },
+    "deviant": {
+      "name": "Aykırı"
+    },
     "devilsadvocate": {
       "ability": "Her gece, hayattaki bir oyuncu seç (geçen gecekinden farklı): o kişi yarın idam edilirse ölmez.",
       "first": "Şeytanın Avukatı hayattaki bir oyuncu seçer. :reminder:",
