@@ -91,6 +91,11 @@
     "tab_new_game": "New Journey"
   },
   "modals": {
+    "dialogue": {
+      "prompt": {
+        "storyteller_text": "Do ye wish to be Captain o' this ship and check the map?"
+      }
+    },
     "edition": {
       "difficulty_beginner": "Calm"
     }
