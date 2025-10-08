@@ -5,33 +5,68 @@
       "patreon-demon": "Beast o' the sea tier",
       "patreon-minion": "Scallywag tier",
       "patreon-townsfolk": "Crewmate tier",
+      "special-free": "On the house",
       "special-moderator": "Privateer",
       "special-tpi": "Admiralty"
     },
     "botc_online": "Jolly Roger on the High Seas",
+    "button_cancel": "Call off",
     "button_confirm": "Aye",
     "button_continue": "Onward",
+    "button_logout": "Stand Down",
+    "button_search": "Seek",
+    "button_send": "Cast off",
+    "cookie_policy": "Biscuit Code",
+    "privacy_policy": "Code o' Secrecy",
     "session-tags": {
+      "cameras": {
+        "label": "Spyglasses",
+        "title": "If spyglasses be on in this voyage",
+        "value_0": "Yer call",
+        "value_1": "A must"
+      },
       "difficulty": {
         "label": "Waters",
+        "title": "How salty yer sea legs be",
         "value_0": "Fair",
         "value_1": "Rough",
         "value_2": "Calm"
       },
       "grimoire": {
         "label": "Map Sight",
+        "title": "If onlookers can see the map",
+        "value_0": "Beg",
         "value_1": "Nay"
       },
       "streaming": {
+        "label": "Journey viewable for onlookers from afar",
+        "title": "This journey will be seen by onlookers from afar as it unfolds",
         "value_0": "Nay"
+      },
+      "subscription": {
+        "label": "Hand over yer doubloons",
+        "title": "Ye need to hand over yer doubloons to hop on board"
+      },
+      "travellers": {
+        "label": "Landlubbers",
+        "title": "If'n landlubbers be let on board",
+        "value_0": "Captain's call"
       }
-    }
+    },
+    "terms_of_use": "Pirates' Code",
+    "title": "Jolly Roger in yer Own Home",
+    "trademark": "\"Blood on the Clocktower\" be a trademark belongin' to Steven Medway and The Pandemonium Institute.",
+    "unnamed_user": "Stranger"
   },
   "grimoire": {
     "abilities": {
+      "distribute-roles": "Hand out stations",
+      "ghost-votes": "Give Back Dead Men's Treasures",
+      "open-eyes": "Keep Yer Peepers Peeled/Drop Yer Peepers",
       "pointing": "Pick Matey"
     },
     "demon": "Beast o' the sea|Beasts o' the sea",
+    "fabled": "Captain o' Legend|Captains o' Legend",
     "minion": "Scallywag|Scallywags",
     "outsider": "Stowaway|Stowaways",
     "phases": {
