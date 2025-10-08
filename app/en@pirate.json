@@ -50,5 +50,10 @@
     "request_private": "Ask t' Talk Alone",
     "reveal_grim": "Show the Map",
     "tab_new_game": "New Journey"
+  },
+  "modals": {
+    "edition": {
+      "difficulty_beginner": "Calm"
+    }
   }
 }
