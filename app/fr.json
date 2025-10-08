@@ -65,28 +65,28 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Distribuer les Rôles",
-      "ghost-votes": "Rendre les Votes de Mort",
+      "distribute-roles": "Distribuer les rôles",
+      "ghost-votes": "Restituer les votes fantômes",
       "grimoire": "Montrer le Grimoire"
     },
     "fabled": "Légendaire|Légendaires",
-    "minion": "Serviteur|Serviteurs",
+    "minion": "Sbire | Sbires",
     "phases": {
       "day": "Premier jour|Jour {n}",
       "end": "Entre deux sessions",
       "first_night": "Première Nuit",
       "night": "Première Nuit|Nuit {n}",
-      "start": "Préparation Nuit 1"
+      "start": "Préparation de la Nuit 1"
     },
     "player": "Joueur·euse {0}",
     "players": "Joueur·euses",
     "seat": "Siège {0}",
-    "shroud": "Voile",
+    "shroud": "Linceul",
     "storyteller": "Conteur {0}",
-    "storytellers": "les Conteurs",
+    "storytellers": "Les Conteurs",
     "token": "Jeton",
     "townsfolk": "Villageois|Villageois",
-    "traveller": "Voyageur|Voyageurs"
+    "traveller": "Voyageur | Voyageurs"
   },
   "main-menu": {
     "cast_vote": "Voter",
@@ -98,10 +98,10 @@
     "error_audio2": "activer automatiquement le chat vocal",
     "error_audio3": "Il est possible que vous deviez {0} dans Firefox pour que le son de l'application fonctionne.",
     "error_audio4": "changer un paramètre",
-    "fabled": "Ajouter des Légendaires",
+    "fabled": "Ajouter un Légendaire",
     "fullscreen": "Plein-Écran",
-    "gather": "Rassembler Vos Joueurs",
-    "gong_recall": "Rappeler au Centre du Village",
+    "gather": "Rassemblez vos joueurs",
+    "gong_recall": "Rappeler sur la Place du Village",
     "grim_access": "Vous avez maintenant accès au Grimoire",
     "grim_request": "Un·e spectateur·ice a demandé l'accès au Grimoire",
     "help": "Aide",
@@ -111,7 +111,7 @@
     "mute_mic": "Désactiver votre microphone [{0}]",
     "night_info": "Info de la Nuit",
     "night_info_text": "Le·a conteur·euse vous a réveillé·e cette nuit !",
-    "night_sheet": "Feuille d'Ordre de Nuit",
+    "night_sheet": "Feuille d’ordre de nuit",
     "prompt_clear_player": "Êtes-vous sûr·e de vouloir retirer l'intégralité des jetons de rôles et d'aide-mémoire ?",
     "prompt_clear_st": "Cela videra le grimoire et retirera tous les aides-mémoire pour vous et tou·tes les joueur·euses. Êtes-vous sûr·e ?",
     "prompt_clear_title": "Vider le Grimoire et les Aides-Mémoire",
@@ -124,12 +124,12 @@
     "request_private": "Demander Une Conversation Privée",
     "reveal_grim": "Révéler Le Grimoire",
     "rules": "Lire Les Règles",
-    "session_expires": "Il n'y actuellement aucun utilisateur de niveau Serviteur dans la partie, celle-ci fermera automatiquement dans {0}.",
+    "session_expires": "Il n’y a actuellement aucun utilisateur de niveau Sbire dans cette session, et elle pourrait expirer à {0}.",
     "set_timer": "Mettre Un Chronomètre",
     "settings": "Paramètres",
     "show_grim": "Montrer Le Grimoire",
-    "show_town": "Montrer Le Centre Du Village",
-    "show_users": "Voir Utilisateur [{0}]",
+    "show_town": "Afficher la Place du Village",
+    "show_users": "Afficher les utilisateurs [{0}]",
     "storyteller_add": "Devenir le Conteur",
     "storyteller_remove": "Se retirer en tant que Conteur·euse",
     "tab_app": "App",
@@ -138,15 +138,16 @@
     "tab_playing": "En Jeu",
     "to_day": "Passer à la Phase Jour",
     "to_night": "Passer à la Phase Nuit",
+    "translation": "Améliorer cette traduction",
     "user_list": "Liste d'Utilisateur·ices",
     "vacate_seat": "Quitter Son Siège",
     "vote_history": "Historique Des Votes"
   },
   "modals": {
     "announcement": {
-      "description": "Que voulez-vous annoncer ?",
-      "error": "Erreur d'Envoi d'Annonce",
-      "input_session": "Nom de la partie (optionnel)"
+      "description": "Que souhaitez-vous annoncer ?",
+      "error": "Erreur lors de l’envoi de l’annonce",
+      "input_session": "Nom de la session (optionnel)"
     },
     "dialogue": {
       "button_evil": "Le Mal a gagné",
