@@ -77,7 +77,7 @@
     "minion": "Tirapiedi",
     "outsider": "Forestiero| Forestieri",
     "phases": {
-      "day": "Primo giorno",
+      "day": "Primo Giorno|Giorno {n}",
       "end": "Tra una partita e l'altra",
       "first_night": "Prima notte",
       "night": "Prima Notte|Notte {n}",
