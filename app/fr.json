@@ -499,6 +499,7 @@
     },
     "signal": {
       "cards": {
+        "choice": "Faire un choix",
         "claim": "Ce•tte joueur•euse est",
         "demon": "Voici le Démon",
         "evil": "Mal",
