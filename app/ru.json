@@ -474,7 +474,7 @@
   },
   "overlays": {
     "towninfo": {
-      "timer_ended": "истек"
+      "timer_ended": "истекло"
     }
   },
   "version": {
