@@ -44,5 +44,16 @@
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
     "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy."
+  },
+  "reminders": {
+    "townsfolk": "Mieszczanin"
+  },
+  "roles": {
+    "dawn": {
+      "name": "Świt"
+    },
+    "dusk": {
+      "name": "Zmierzch"
+    }
   }
 }
