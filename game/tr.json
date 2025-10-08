@@ -243,6 +243,9 @@
       "first": "Birkaç saniye bekle. Gece Evresini bitir.",
       "other": "Birkaç saniye bekle. Gece Evresini bitir."
     },
+    "demoninfo": {
+      "name": "Şeytan Bilgileri"
+    },
     "deviant": {
       "name": "Aykırı"
     },
