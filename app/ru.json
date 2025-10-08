@@ -158,11 +158,11 @@
       "error": "Ошибка Отправки Объявления",
       "input_session": "Название сессии (не обязательно)",
       "input_text": "Текст вашего объявления",
-      "input_title": "Название объявления",
+      "input_title": "Заголовок объявления",
       "title": "Сделать объявление"
     },
     "dialogue": {
-      "button_evil": "Злая команда победила",
+      "button_evil": "Победила команда зла",
       "button_good": "Добрая команда победила",
       "button_no": "Нет",
       "button_yes": "Да",
@@ -458,7 +458,7 @@
         "toggleNight": "Переключить на Ночную Фазу",
         "toggleNightOrder": "Очередность Действий Ночью",
         "toggleNightSignal": "Показать Ночную Информацию",
-        "toggleReference": "Открыть Описание Персонажа",
+        "toggleReference": "Открыть Описание Персонажей",
         "toggleRoles": "Выбрать Роли",
         "toggleTownSquare": "Показать Городскую Площадь",
         "toggleVideoMuted": "Включить / Выключить Камеру",
@@ -475,9 +475,9 @@
         "timerGong": "Сигнал окончания таймера",
         "voteCast": "Голос отдан",
         "voteTick": "Тик Таймера Голосования",
-        "voteTickShort": "Тикание голосования (<1с)"
+        "voteTickShort": "Тик таймера голосования (<1с)"
       },
-      "tab_advanced": "Продвинутый",
+      "tab_advanced": "Продвинутые",
       "tab_chat": "Чат",
       "tab_game": "Игра",
       "tab_general": "Общие",
@@ -595,7 +595,7 @@
       "offline": "Офлайн",
       "st_requested": "Рассказчик Запрошен",
       "type_player": "Игрок|{n} Игроков",
-      "type_spectator": "Зритель|{n} Зрителей",
+      "type_spectator": "Зритель|{n} Зрители",
       "type_storyteller": "Рассказчик|{n} Рассказчики"
     },
     "verification": {
