@@ -289,7 +289,8 @@
       "link_2": "ici",
       "link_3": "notre boutique en ligne",
       "session_debug": "Avez vous rencontré une erreur ? Vous pouvez envoyer les informations de votre partie et de votre historique récent à notre suivi de bugs, ce qui nous aidera à identifier vos problèmes :",
-      "text1": "Cette application (version {version}) est actuellement en cours de développement."
+      "text1": "Cette application (version {version}) est actuellement en cours de développement.",
+      "welcome": "Bienvenue à {0} !"
     },
     "reminder": {
       "custom_favorite": "Enregistré dans les favoris",
