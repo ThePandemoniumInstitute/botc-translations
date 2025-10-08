@@ -292,7 +292,7 @@
       "theme": "Thema:",
       "theme_generic": "Algemeen thema:",
       "title": "Selecteer een editie:",
-      "upload_custom": "Upload Aangepast Script JSON"
+      "upload_custom": "Upload Speciaal Script JSON"
     },
     "fabled": {
       "title": "Voeg een Legendarisch karakter toe"
@@ -307,7 +307,7 @@
       "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:",
       "session_debug2": "Je app sessie wordt nu bijgehouden en automatisch naar ons verstuurd. Je kunt dit altijd handmatig stoppen door op de onderstaande knop te klikken of de app opnieuw te laden.",
       "text1": "Deze app (versie {version}) is momenteel in ontwikkeling.",
-      "text2": "Je kunt feedback indienen via de {0} pagina of {1}. Je kunt je account e-mailadres en wachtwoord veranderen {2}. Als je het fysieke spel wilt kopen, kijk dan eens naar {3}.",
+      "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}.  Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}",
       "welcome": "Welkom bij {0}!"
     },
     "reminder": {
@@ -397,6 +397,7 @@
       "setting_css": "Aangepaste CSS regels",
       "setting_css_label": "Vul aangepaste CSS regels in",
       "setting_echo_cancellation": "Echo-onderdrukking",
+      "setting_english": "Karakter",
       "setting_gain": "Audioversterking",
       "setting_general_volume": "Algemeen volume",
       "setting_homebrew": "Laat aangepaste afbeeldingen / tokens zien",
@@ -669,7 +670,7 @@
       "open-eyes": {
         "button_close": "Sluiten",
         "button_open": "Open",
-        "button_peek": "Gluur",
+        "button_peek": "Spieken",
         "state_false": "Gesloten",
         "state_open-eyes": "Open",
         "state_peek-eyes": "Gluren",
