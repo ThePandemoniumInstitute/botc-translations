@@ -62,6 +62,7 @@
     "abilities": {
       "distribute-roles": "Hand out stations",
       "ghost-votes": "Give Back Dead Men's Treasures",
+      "grimoire": "Show Map",
       "open-eyes": "Keep Yer Peepers Peeled/Drop Yer Peepers",
       "pointing": "Pick Matey"
     },
