@@ -114,6 +114,12 @@
     "magician-wraith": "每个白天发生处决后，存活的魔术师可以公开猜测一名存活玩家是亡魂：如果猜对了，恶魔当晚必须选择亡魂。"
   },
   "reminders": {
+    "2nd": "第二名",
+    "3attacks": "攻击三次",
+    "3votes": "3票",
+    "abnormal": "未正常生效",
+    "abouttodie": "即将被处决",
+    "actstwice": "行动两次",
     "alive": "存活"
   }
 }
