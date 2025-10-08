@@ -103,7 +103,7 @@
       "name": "Ateist"
     },
     "balloonist": {
-      "ability": "Her gece, önceki geceden farklı bir karakter türünde olan bir oyuncu öğren. [+0 or +1 Yabancı]",
+      "ability": "Her gece, geçen geceden farklı bir karakter türünde bir oyuncu öğrenirsin. [+0 veya +1 Yabancı]",
       "first": "Herhangi bir oyuncu göster. :reminder:",
       "name": "Baloncu",
       "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
