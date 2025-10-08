@@ -508,6 +508,19 @@
       "name": "Anochecer",
       "other": "Empieza la Fase de la Noche."
     },
+    "engineer": {
+      "name": "Ingeniero"
+    },
+    "eviltwin": {
+      "flavor": "¡Yo no soy Sara! ¡Yo soy Clara! ¡ELLA es Sara! ¡Sara es la malvada! ¡No yo!",
+      "name": "Gemelo Malvado"
+    },
+    "exorcist": {
+      "name": "Exorcista"
+    },
+    "fanggu": {
+      "name": "Fang Gu"
+    },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
     },
