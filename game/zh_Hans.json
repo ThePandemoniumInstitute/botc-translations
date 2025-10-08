@@ -143,6 +143,7 @@
     "drunk3": "醉酒3",
     "everyoneisdrunk": "全员醉酒",
     "evil": "邪恶",
+    "evilwakes": "唤醒邪恶",
     "falseinfo": "错误信息",
     "fauxpaw": "失足",
     "fear": "恐惧",
@@ -167,6 +168,51 @@
     "maynotnominate": "无法提名",
     "minion": "爪牙",
     "minionnominated": "爪牙已提名",
-    "minionsnotnominated": "爪牙未提名"
+    "minionsnotnominated": "爪牙未提名",
+    "negativevote": "负票",
+    "night1": "第一晚",
+    "night2": "第二晚",
+    "night3": "第三晚",
+    "noability": "失去能力",
+    "nominateevil": "提名邪恶方",
+    "nominategood": "提名善良方",
+    "nomoreevil": "禁止邪恶",
+    "once": "限一次",
+    "outsider": "外来者",
+    "poisoned": "中毒",
+    "protected": "庇护",
+    "redherring": "干扰项",
+    "registerfalsely": "被当作其他",
+    "safe": "不会死亡",
+    "soberhealthy": "清醒且健康",
+    "somethingbad": "不好的事",
+    "storytellerability": "说书人能力",
+    "survivesexecution": "处决不死",
+    "teapartytonight": "今晚茶会",
+    "townsfolk": "镇民",
+    "turnsevil": "转为邪恶",
+    "twin": "对立双子",
+    "visitor": "访客",
+    "whoopsie": "哎呀！",
+    "wrong": "错误"
+  },
+  "roles": {
+    "acrobat": {
+      "ability": "每个夜晚*，你要选择一名玩家：如果当晚他醉酒或中毒，你死亡。",
+      "name": "杂技演员",
+      "other": "杂技演员选择一名玩家。:reminder:"
+    },
+    "alchemist": {
+      "ability": "你拥有一个爪牙角色的能力。当你使用能力时，说书人可能会要求你更换选择。",
+      "first": "展示“你是”信息标记，然后展示一个爪牙的角色标记。",
+      "flavor": "探寻地球本质。加以矫正，你将寻得秘石。黄金之上皆是红色。那是真理之冠。",
+      "name": "炼金术士"
+    },
+    "alhadikhia": {
+      "ability": "每个夜晚*，你可以选择三名玩家（所有玩家都会得知你选了谁）：他们分别秘密决定自己的生死，然后如果他们都存活则都死亡。",
+      "flavor": "沉默是金。",
+      "name": "哈迪寂亚",
+      "other": "哈迪寂亚选择三名玩家。:reminder: :reminder: :reminder:唤醒标记*1*的玩家，然后对所有玩家宣布“哈迪寂亚选择了某某某”（玩家的名字），然后询问“你是否想要活着？”那名玩家需要给出自己的选择：点头代表活着，摇头代表死去。让那名玩家重新入睡，然后添加或移除该玩家的帷幕标记。分别为第二名和第三名玩家进行同样的结算。如果在结算完这三名玩家的选择后，这三名玩家全部处于存活状态，那么在这些玩家的角色标记上放置帷幕标记。他们现在都死亡。"
+    }
   }
 }
