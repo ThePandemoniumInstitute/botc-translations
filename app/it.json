@@ -29,7 +29,7 @@
       },
       "difficulty": {
         "label": "Difficoltà",
-        "title": "L'esperienza di livella attesa dai giocatori in questa sessione di gioco",
+        "title": "Il livello di esperienza atteso dai giocatori in questa sessione di gioco",
         "value_0": "Media",
         "value_1": "Veterano",
         "value_2": "Principiante"
@@ -48,7 +48,7 @@
         "value_1": "Sí"
       },
       "subscription": {
-        "label": "Sottoscrizione richiesta",
+        "label": "Abbonamento necessario",
         "title": "Per partecipare a questo gioco è necessario un abbonamento attivo"
       },
       "travellers": {
@@ -61,7 +61,7 @@
     },
     "terms_of_use": "Termini d'uso",
     "title": "Blood on the Clocktower Online",
-    "trademark": "\"Blood on the Clocktower\" è un marchoo di Steven Medway e The Pandemonium Institute",
+    "trademark": "\"Blood on the Clocktower\" è un marchio registrato di Steven Medway e The Pandemonium Institute.",
     "unnamed_user": "Utente senza nome"
   },
   "grimoire": {
