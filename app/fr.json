@@ -398,7 +398,8 @@
       "shortcut_add": "Ajouter un Bouton",
       "shortcut_escape": "Appuyez sur Échap pour réinitialiser le raccourci",
       "shortcut_record": "Appuyez sur la touche que vous souhaitez attribuer à {0}",
-      "shortcut_reset": "Réinitialiser Tous les Raccourcis"
+      "shortcut_reset": "Réinitialiser Tous les Raccourcis",
+      "shortcut_reset_confirm": "Voulez-vous réinitialiser tous les raccourcis ? Cette action est irréversible."
     }
   },
   "version": {
