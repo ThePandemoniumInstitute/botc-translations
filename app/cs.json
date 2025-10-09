@@ -63,6 +63,13 @@
     },
     "players": "Hráči",
     "storytellers": "Vypravěči",
-    "token": "žeton"
+    "token": "žeton",
+    "townsfolk": "Měšťan|Měšťané"
+  },
+  "main-menu": {
+    "cast_vote": "Volit",
+    "change_icon": "Klikni pro změnu ikony",
+    "char_sheet": "Listina postav",
+    "characters": "Vybrané postavy"
   }
 }
