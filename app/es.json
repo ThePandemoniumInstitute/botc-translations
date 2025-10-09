@@ -524,7 +524,7 @@
         "choice": "Elige",
         "claim": "Este jugador es",
         "clockwise": "En el sentido de las agujas del reloj",
-        "demon": "Este es el Demonio",
+        "demon": "Este es el demonio",
         "evil": "Malvado",
         "five": "Cinco",
         "four": "Cuatro",
@@ -545,7 +545,7 @@
       "grimoire": "El Grimorio",
       "message": "Mensaje:",
       "player": "Jugador",
-      "player_text": "Elige un jugador haciendo clic en su ficha en el Grimorio.",
+      "player_text": "Elige un jugador haciendo click en su ficha en el Grimorio",
       "prompt_custom_placeholder": "Mensaje personalizado",
       "prompt_custom_player": "¿Qué le quieres preguntar al Narrador?",
       "prompt_custom_st": "¿Qué quieres decirle al jugador?",
@@ -574,7 +574,7 @@
     "user": {
       "button_add_st": "Añadir Narrador",
       "button_cancel_st": "Cancelar solicitud de Narrador",
-      "button_kick_user": "Expulsar Usuario",
+      "button_kick_user": "Expulsar usuario",
       "button_mod_user": "Usuario moderador",
       "button_remove_st": "Eliminar Narrador",
       "error": "Hubo un error cargando los detalles del usuario.",
@@ -601,7 +601,7 @@
     "verification": {
       "button_reset": "Reiniciar",
       "code": "Código",
-      "code_sent": "¡Se ha enviado un código a tu número de teléfono, por favor introdúcelo para verificar tu cuenta!",
+      "code_sent": "¡Se ha enviado un cógdigo a tu número de teléfono, por favor introdúcelo para verificar tu cuenta!",
       "country_code": "Código de país",
       "error_402": "Números de teléfono desechables no pueden ser usados para verificar la cuenta.",
       "error_403": "Este número de teléfono ya está siendo usado por otro usuario. Si piensas que esto es incorrecto, por favor contáctanos a través de {0}.",
@@ -662,7 +662,7 @@
       "text": "Añade, mezcla o elimina los asientos de los jugadores aquí.",
       "text2": "Cuando haya suficientes asientos para todos, {0}",
       "title": "Reúne a tus jugadores",
-      "warning": "Necesitas al menos 7 jugadores para una partida normal en Ravenswood Bluff."
+      "warning": "Necesitas sl menos 7 jugadores para una partida normal en Ravenswood Bluff."
     },
     "nightaction": {
       "open-eyes": {
@@ -714,7 +714,7 @@
       "title": "Bienvenido a {0}."
     },
     "vote": {
-      "accusation": "Acusación",
+      "accusation": "Acusa­ción",
       "button_chat": "Chat abierto",
       "button_countdown": "Cuenta atrás",
       "button_defense": "Empezar Defensa",
