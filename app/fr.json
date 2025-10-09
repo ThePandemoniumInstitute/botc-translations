@@ -109,7 +109,7 @@
     "fabled": "Ajouter un Légendaire",
     "fullscreen": "Plein-Écran",
     "gather": "Rassemblez Vos Joueur·euses",
-    "gong_attention": "Gong d'Attention",
+    "gong_attention": "Gong d’attention",
     "gong_recall": "Rappeler sur la Place du Village",
     "grim_access": "Vous avez maintenant accès au Grimoire",
     "grim_request": "Un·e spectateur·ice a demandé l'accès au Grimoire",
@@ -320,7 +320,7 @@
     },
     "role": {
       "error_character": "Aucun rôle correspondant à {0} n’a été trouvé.",
-      "error_traveller": "Aucun·e voyageur·euse ne correspond à {0}.",
+      "error_traveller": "Aucun·e voyageur·euse correspondant à {0} n’a été trouvé.e {0}.",
       "tab_character": "Rôles Disponibles",
       "tab_traveller": "Autres Voyageur·euses",
       "title": "Sélectionnez un {alignement} {cible}",
