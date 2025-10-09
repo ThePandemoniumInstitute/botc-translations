@@ -247,7 +247,8 @@
         "storyteller_title": "Demander à être promu·e Conteur·euse",
         "terms": "Mise à jour des conditions d'utilisation",
         "username_placeholder": "Nom d’utilisateur·ice",
-        "username_text": "Veuillez entrer votre nom d'utilisateur:"
+        "username_text": "Veuillez entrer votre nom d'utilisateur:",
+        "username_title": "Veuillez entrer votre nom d'utilisateur:"
       },
       "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
       "terms_confirm": "Je confirme avoir lu et accepté les conditions et politiques.",
@@ -400,6 +401,7 @@
       "setting_player_bluffs": "Joueur·euse : afficher l’onglet des bluffs",
       "setting_player_night": "Joueur·euse : Afficher les feuilles d’ordre de nuit",
       "setting_player_reminders": "Joueur·euse : autoriser les jetons de rappel en double",
+      "setting_player_sound": "Joueur : activer les effets sonores de demande de chat pendant la nuit",
       "setting_positioning": "Autoriser le déplacement des onglets latéraux",
       "setting_private_cams": "Afficher les caméras des joueur·euses dans les discussions privées",
       "setting_ptt": "Appuyer pour parler",
