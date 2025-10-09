@@ -181,7 +181,7 @@
         "chat_text": "Conexão perdida com o servidor de conversas. Tentando reconectar...\n Mensagem de erro: {0}",
         "chat_title": "Erro de conexão com as conversas",
         "claiming": "Erro ao escolher assento",
-        "clear_grim": "Não foi possível limpar o Grimório",
+        "clear_grim": "Não foi possível apagar o Grimório",
         "connection": "Ocorreu um erro de conexão",
         "edition_change": "Erro ao mudar de edição",
         "end": "Erro ao encerrar partida",
