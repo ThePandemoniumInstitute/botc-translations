@@ -1,4 +1,9 @@
 {
+  "editions": {
+    "tb": {
+      "name": "Harmeja hautumassa"
+    }
+  },
   "jinxes": {
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
