@@ -521,6 +521,41 @@
     "fanggu": {
       "name": "Fang Gu"
     },
+    "goblin": {
+      "ability": "Si públicamente declaras ser el Duende cuando estas nominado & eres ejecutado ese día, tu equipo gana.",
+      "flavor": "No quieres insultar a los duendes. Realmente no lo quieres. Cambiando de tema... ¿me das otro trozo de pastel?",
+      "name": "Duende"
+    },
+    "godfather": {
+      "ability": "Empiezas conociendo cuales Extranjeros están en juego. Si 1 murió hoy, escoge un jugador esta noche: muere. [-1 o +1 Extranjero]",
+      "first": "Muestra la ficha de rol de todos los Extranjeros en juego.",
+      "flavor": "Normalmente, son solo negocios. Pero cuando insultas a mi hija, me insultas a mí. Y cuando me insultas a mí, insultas a mi familia. Deberías tener mas cuidado - sería una pena que tuvieras un desafortunado accidente.",
+      "name": "Padrino",
+      "other": "Si un Extranjero murió hoy, el Padrino escoge un Jugador. :reminder:"
+    },
+    "golem": {
+      "ability": "Solo puedes nominar una vez por juego. Cuando lo haces, si el nominado no es el Demonio, muere.",
+      "flavor": "¿Gólem ayuda? ¡Gólem aplasta! Gólem ayuda.",
+      "name": "Gólem"
+    },
+    "goon": {
+      "ability": "Cada noche, el 1er jugador que te escoja con su habilidad está borracho hasta el siguiente anochecer. Te conviertes a su alineamiento.",
+      "flavor": "Sí, jefe. Le expliqué bien las cosas a ese tipo. No quiere que yo lo vuelva a explicar. No, jefe, no necesito un médico - solo es una herida de cuchillo. Estaré bien por la mañana",
+      "name": "Matón"
+    },
+    "gossip": {
+      "ability": "Cada día, puedes hacer una declaración pública. Esta noche, si fue verdadera, un jugador muere.",
+      "flavor": "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla.",
+      "name": "Chismoso",
+      "other": "Si el Chismoso debe matar a un jugador, muere. :reminder:"
+    },
+    "grandmother": {
+      "ability": "Empiezas conociendo un jugador bueno y su rol. Si el Demonio lo mata, tú también mueres.",
+      "first": "Apunta al jugador nieto & muestra su ficha de rol.",
+      "flavor": "Lleva una chaqueta si sales, cariño. Y tu termo. Y tu bufanda. Tengo una corazón débil, sabes. ¿Que haría si te resfriaras... o algo peor?",
+      "name": "Abuela",
+      "other": "Si el Demonio mató al nieto, la Abuela muere también. :reminder:"
+    },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
     },
