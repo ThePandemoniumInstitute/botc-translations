@@ -810,10 +810,30 @@
     },
     "lycanthrope": {
       "ability": "Cada noche*, escoge un jugador vivo. Si es bueno, muere y el Demonio no mata hoy. Un jugador bueno se registra como malvado.",
-      "flavor": "Bajo la fina capa de civilización se esconde una locura que aúlla."
+      "flavor": "Bajo la fina capa de civilización se esconde una locura que aúlla.",
+      "name": "Licántropo",
+      "other": "El licántropo escoge un jugador. :reminder:"
+    },
+    "magician": {
+      "ability": "El Demonio cree que eres un Secuaz. Los Secuaces creen que eres un Demonio.",
+      "name": "Mago"
+    },
+    "marionette": {
+      "name": "Marioneta"
     },
     "mastermind": {
-      "ability": "Si el Demonio es ejecutado (terminando el juego), juega 1 día mas. Si un jugador es ejecutado después, su equipo pierde."
+      "ability": "Si el Demonio es ejecutado (terminando el juego), juega 1 día mas. Si un jugador es ejecutado después, su equipo pierde.",
+      "name": "Mente Maestra"
+    },
+    "mathematician": {
+      "name": "Matemático"
+    },
+    "minioninfo": {
+      "name": "Información del Secuaz"
+    },
+    "monk": {
+      "name": "Monje",
+      "other": "El Monje escoge un jugador. :reminder:"
     },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
