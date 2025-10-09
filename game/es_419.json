@@ -810,56 +810,75 @@
     },
     "lycanthrope": {
       "ability": "Cada noche*, escoge un jugador vivo. Si es bueno, muere y el Demonio no mata hoy. Un jugador bueno se registra como malvado.",
-      "flavor": "Bajo la fina capa de civilización se esconde una locura que aúlla.",
+      "flavor": "Bajo la fina capa de la civilización se esconde una locura que aulla.",
       "name": "Licántropo",
-      "other": "El licántropo escoge un jugador. :reminder:"
+      "other": "El Licántropo escoge un jugador. :reminder:"
     },
     "magician": {
       "ability": "El Demonio cree que eres un Secuaz. Los Secuaces creen que eres un Demonio.",
-      "flavor": "1... 2... Abra... 3... 4... Cadabra... *puf!* Y, como pueden ver, damas y caballeros, ¡la bolsa de oro del Capitán Farnsworth ha desaparecido! ¡Se ha ido! ¡Sin dejar ningún rastro! ¡Gracias y buenas noches!",
+      "first": "Incluye al Mago en los pasos de Información del Demonio y de los Secuaces.",
+      "flavor": "1... 2... Abra... 3... 4... Cadabra... *puf!* Y, como pueden ver, damas y caballeros, ¡la bolsa de oro del Capitán Farnsworth ha desaparecido! ¡Se ha ido! ¡Sin dejar ningún rastro! ¡Gracias, y buenas noches!",
       "name": "Mago"
     },
     "marionette": {
-      "ability": "Crees que eres un rol bueno, pero no lo eres. El Demonio sabe quién eres. [Eres vecino del Demonio]",
-      "first": "Despierta al Demonio. Apunta al jugador marcado *ES LA MARIONETA* y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha de rol da la Marioneta.",
+      "ability": "Tú crees que eres un rol bueno, pero no lo eres. El Demonio sabe quién eres. [Eres vecino del Demonio]",
+      "first": "Despierta al Demonio. Apunta al jugador marcado *ES LA MARIONETA* y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha de rol de la Marioneta.",
       "flavor": "Palabras, palabras. Son lo único que tenemos.",
       "name": "Marioneta"
     },
     "mastermind": {
-      "ability": "Si el Demonio es ejecutado (terminando el juego), juega 1 día mas. Si un jugador es ejecutado después, su equipo pierde.",
-      "flavor": "Los tentáculos de ese monstruo están clavados en las puertas de la iglesia. Las madres y los niños bailan en la calle. ¡Excelente! Todo marcha exactamente como lo había planeado.",
+      "ability": "Si el Demonio muere por ejecución (terminando el juego), juega por 1 día mas. Si un jugador es ejecutado después, su equipo pierde.",
+      "flavor": "Los tentáculos de ese monstruo están clavados a las puertas de la iglesia. Las madres y los niños bailan en la calle. ¡Excelente! Todo marcha exactamente como lo había planeado.",
       "name": "Mente Maestra"
     },
     "mathematician": {
-      "ability": "Cada noche, aprendes cuantas habilidades de jugadores funcionaron anormalmente (desde el amanecer) debido a las habilidades de otros roles.",
+      "ability": "Cada noche, tú aprendes a cuantos jugadores les funcionó anormalmente su habilidad (desde el amanecer) debido a las habilidades de otros roles.",
       "first": "Dale una señal con los dedos.",
-      "flavor": "Cualquier sistema formal consistente x, dentro del cual se puede realizar cierta cantidad de aritmética básica es incompleto; es decir, hay declaraciones del lenguaje de x que no se pueden probar ni refutar en x. Por ende, estás borracho.",
+      "flavor": "Cualquier sistema formal consistente x, dentro del cual se puede realizar cierta cantidad de aritmética básica, es incompleto; es decir, hay declaraciones del lenguaje x que no se pueden probar ni refutar en x. Ergo, estás borracho.",
       "name": "Matemático",
       "other": "Dale una señal con los dedos."
     },
     "matron": {
-      "ability": "Cada día, puedes escoger hasta 3 grupos de 2 jugadores para intercambiar asientos. Los jugadores no puedes dejar su asiento para hablar en privado."
+      "ability": "Cada día, puedes escoger hasta 3 grupos de 2 jugadores para intercambiar asientos. Los jugadores no puedes dejar su asiento para hablar en privado.",
+      "flavor": "Señorita Featherbottom, silencio. Don Rutherford, una taza de té solo necesita los 4 dedos, por favor. Yo sé que usted tiene nueve hijos, pero la edad, o la falta de ella según sea el caso, nunca es excusa para tener malos modales.",
+      "name": "Matrona"
     },
     "mayor": {
+      "ability": "Si solo 3 jugadores viven y nadie es ejecutado, tu equipo gana. Si tú mueres en la noche, quizás otro jugar muera en tu lugar.",
+      "flavor": "Debemos poner nuestras diferencias a un lado, y detener esta matanza sin sentido. Al final del día, todos pagamos impuestos. Bueno, casi todos.",
       "name": "Alcalde"
     },
     "mezepheles": {
-      "name": "Mezéfeles"
+      "ability": "Empiezas conociendo una palabra secreta. El 1er jugador bueno que diga esta palabra se vuelve malvado esa noche.",
+      "first": "Muéstrale la palabra escrita.",
+      "flavor": "Aquello que sale solo del corazón doblegará los corazones de los demás ante el tuyo.",
+      "name": "Mezéfeles",
+      "other": "Si un jugador está marcado con la ficha de *SE VUELVE MALVADO*, despiértalo. Muéstrale la ficha de *TÚ ERES* y un pulgar abajo. El Mezéfeles pierde su habilidad. :reminder:"
     },
     "minioninfo": {
+      "first": "Si hay 7 o más jugadores, despierta a todos los Secuaces:\n\tMuéstrales la ficha de *ESTE ES EL DEMONIO*. Apunta al Demonio.\n\tMuéstrales la ficha de *ESTOS SON TUS SECUACES*. Apunta a los otros Secuaces.",
       "name": "Información del Secuaz"
     },
     "minstrel": {
-      "ability": "Cuando un Secuaz muera por ejecución, todos los otros jugadores (excepto Viajeros) están borrachos hasta el anochecer de mañana."
+      "ability": "Cuando un Secuaz muere por ejecución, todos los otros jugadores (excepto Viajeros) están borrachos hasta el anochecer de mañana.",
+      "flavor": "Y oiré, aún cuando suave pises sobre mí…Y todos mis sueños serán cálidos y dulces por ti…Si no dejas de decirme que me amas así…Simplemente dormiré en paz hasta que regreses aquí.",
+      "name": "Trovador"
     },
     "monk": {
+      "ability": "Cada noche*, escoge un jugador (no tú mismo): él está a salvo del Demonio esta noche.",
+      "flavor": "Es un viento maldito y mortal el que sopla esta noche. Venid, my hermano, y tomad refugio en el monasterio hasta que pase la tormenta. Ten mi palabra, aunque me cueste la vida, que estarás a salvo.",
       "name": "Monje",
       "other": "El Monje escoge un jugador. :reminder:"
     },
     "moonchild": {
-      "name": "Hijo de la Luna"
+      "ability": "Cuando aprendes que has muerto, escoge 1 jugador vivo públicamente. Esta noche, si es un jugador bueno, él muere.",
+      "flavor": "Escorpio mira de reojo a los amantes, así que te toca tomar una decisión. Con plata cruzo mi palma, y tu destino será revelado. Con acero cruzo my garganta, y por las estrellas te vas a arrepentir.",
+      "name": "Hijo de la Luna",
+      "other": "Si al Hijo de la Luna le toca matar a un jugador bueno, ese jugador muere. :reminder:"
     },
     "mutant": {
+      "ability": "Si estás \"loco\" de que eres un Extranjero, quizás seas ejecutado.",
+      "flavor": "¡No soy un fenómeno! ¡Soy un ser humano! ¡Ten piedad!",
       "name": "Mutante"
     },
     "preacher": {
