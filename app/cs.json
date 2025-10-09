@@ -70,6 +70,14 @@
     "cast_vote": "Volit",
     "change_icon": "Klikni pro změnu ikony",
     "char_sheet": "Listina postav",
-    "characters": "Vybrané postavy"
+    "characters": "Vybrané postavy",
+    "clear_grim": "Vyčistit grimoár",
+    "edition": "Vybrat edici",
+    "error_audio4": "Změnit nastavení",
+    "leave": "Opustit hru",
+    "mute_cam": "Vypnout kameru",
+    "night_info": "Noční informace",
+    "night_info_text": "Vypravěč tě v noci probudil!",
+    "night_sheet": "Listina Pořadí v noci"
   }
 }
