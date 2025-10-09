@@ -247,6 +247,7 @@
       "terms_confirm": "Je confirme avoir lu et accepté les conditions et politiques.",
       "timer_paused": "En pause pendant les Nominations et les Votes",
       "timer_start": "Démarrer",
+      "timer_title": "Titre du Chronomètre (optionel)",
       "unit_minutes": "minutes",
       "unit_seconds": "secondes"
     },
