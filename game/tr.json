@@ -226,6 +226,11 @@
       "name": "Şeytanın Avukatı",
       "other": "Şeytanın Avukatı hayatta olan bir oyuncu seçer. :reminder:"
     },
+    "djinn": {
+      "ability": "Cinin özel kuralını kullan. Bütün oyuncular bunun ne olduğunu bilir.",
+      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
+      "name": "Cin"
+    },
     "dreamer": {
       "ability": "Her gece, bir oyuncu seç (kendini veya Gezginleri değil): 1 tanesi doğru olmak üzere 1 iyi ve 1 kötü karakter öğrenirsin.",
       "first": "Düşçü bir oyuncuyu gösterir. 1 tanesi onun karakteri olan 1 iyi ve 1 kötü karakter pulu göster.",
@@ -235,9 +240,22 @@
     "drunk": {
       "name": "Sarhoş"
     },
+    "duchess": {
+      "name": "Düşes"
+    },
+    "dusk": {
+      "first": "Gece Evresini başlat.",
+      "name": "Gün Batımı",
+      "other": "Gece Evresini başlat."
+    },
     "empath": {
       "ability": "Her gece, 2 hayattaki komşundan kaçının kötü olduğunu öğrenirsin.",
       "name": "Empat"
+    },
+    "engineer": {
+      "ability": "Oyunda bir kez, geceleyin, hangi Yardakçıların veya hangi Şeytanın oyunda olduğunu seç.",
+      "flavor": "Bükülürse çok iyi. Kırılırsa, eh, muhtemelen zaten tamir edilmesi gerekecekti.",
+      "name": "Mühendis"
     },
     "eviltwin": {
       "flavor": "Ben Sara değilim! Ben Clara'yım! O Sara! Sara kötü olan! Ben değil!",
@@ -251,6 +269,10 @@
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Böyle ölen ilk Yabancı kötü bir Fang Gu'ya dönüşür ve yerine sen ölürsün. [+1 Yabancı]",
       "flavor": "Duvarlarınız ve silahlarınız düşlerde dumandan ibaret.",
       "name": "Fang Gu"
+    },
+    "farmer": {
+      "ability": "Gece öldüğünde, hayatta olan iyi bir oyuncu Çiftçiye dönüşür.",
+      "name": "Çiftçi"
     },
     "flowergirl": {
       "ability": "Her gece*, bugün bir Şeytanın oy kullanıp kullanmadığını öğrenirsin.",
