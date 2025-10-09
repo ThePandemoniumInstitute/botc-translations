@@ -816,17 +816,25 @@
     },
     "magician": {
       "ability": "El Demonio cree que eres un Secuaz. Los Secuaces creen que eres un Demonio.",
+      "flavor": "1... 2... Abra... 3... 4... Cadabra... *puf!* Y, como pueden ver, damas y caballeros, ¡la bolsa de oro del Capitán Farnsworth ha desaparecido! ¡Se ha ido! ¡Sin dejar ningún rastro! ¡Gracias y buenas noches!",
       "name": "Mago"
     },
     "marionette": {
+      "ability": "Crees que eres un rol bueno, pero no lo eres. El Demonio sabe quién eres. [Eres vecino del Demonio]",
+      "first": "Despierta al Demonio. Apunta al jugador marcado *ES LA MARIONETA* y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha de rol da la Marioneta.",
+      "flavor": "Palabras, palabras. Son lo único que tenemos.",
       "name": "Marioneta"
     },
     "mastermind": {
       "ability": "Si el Demonio es ejecutado (terminando el juego), juega 1 día mas. Si un jugador es ejecutado después, su equipo pierde.",
+      "flavor": "Los tentáculos de ese monstruo están clavados en las puertas de la iglesia. Las madres y los niños bailan en la calle. ¡Excelente! Todo marcha exactamente como lo había planeado.",
       "name": "Mente Maestra"
     },
     "mathematician": {
-      "name": "Matemático"
+      "first": "Dale una señal con los dedos.",
+      "flavor": "Cualquier sistema formal consistente x, dentro del cual se puede realizar cierta cantidad de aritmética básica es incompleto; es decir, hay declaraciones del lenguaje de x que no se pueden probar ni refutar en x. Por ende, estás borracho.",
+      "name": "Matemático",
+      "other": "Dale una señal con los dedos."
     },
     "minioninfo": {
       "name": "Información del Secuaz"
