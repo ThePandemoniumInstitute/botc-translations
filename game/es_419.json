@@ -542,7 +542,7 @@
     },
     "farmer": {
       "ability": "Cuando mueres en la noche, un jugador vivo bueno se convierte en Granjero.",
-      "flavor": "Incluso los grandes y poderosos necesitan comida en la mesa. Sin nosotros, la ciudad se muere te hambre.",
+      "flavor": "Incluso los grandes y poderosos necesitan comida en la mesa. Sin nosotros, la ciudad se muere de hambre.",
       "name": "Granjero",
       "other": "Si el Granjero murió esta noche, despierta un jugador bueno vivo. Muéstrale la ficha de *TÚ ERES* y la ficha de rol del Granjero. Reemplaza su ficha anterior por la ficha del Granjero."
     },
@@ -574,7 +574,7 @@
       "name": "Pescador"
     },
     "flowergirl": {
-      "ability": "Cada noche*, tú aprendes si un Demonio votó hoy día.",
+      "ability": "Cada noche*, tú aprendes si un Demonio votó hoy por el día.",
       "flavor": "Las violetas de ayer se han marchitado, pero mis amapolas florecen.",
       "name": "Niña de las Flores",
       "other": "Asiente o deniega con la cabeza."
@@ -625,11 +625,11 @@
       "name": "Duende"
     },
     "godfather": {
-      "ability": "Empiezas conociendo cuáles Extranjeros están en juego. Si 1 murió hoy día, escoge un jugador esta noche: él muere. [-1 o +1 Extranjero]",
+      "ability": "Empiezas conociendo cuáles Extranjeros están en juego. Si 1 murió hoy por el día, escoge un jugador esta noche: él muere. [-1 o +1 Extranjero]",
       "first": "Muéstrale las fichas de rol de todos los Extranjeros en juego.",
       "flavor": "Normalmente, es solo negocios. Pero cuando insultas a mi hija, me insultas a mí. Y cuando me insultas a mí, insultas a mi familia. Deberías tener mucho más cuidado - sería una pena que tuvieras un desafortunado accidente.",
       "name": "Padrino",
-      "other": "Si un Extranjero murió hoy día, el Padrino escoge un jugador. :reminder:"
+      "other": "Si un Extranjero murió hoy por el día, el Padrino escoge un jugador. :reminder:"
     },
     "golem": {
       "ability": "Sólo puedes nominar una vez por juego. Cuando lo haces, si el nominado no es el Demonio, él muere.",
@@ -673,10 +673,10 @@
       "other": "La Harpía escoge dos jugadores. :reminder: :reminder: Pon a la Harpía a dormir. Despierta el 1er jugador. Muéstrale la ficha de *ESTE ROL TE HA SELECCIONADO*, la ficha de la Harpía, y luego apunta al 2do jugador."
     },
     "hatter": {
-      "ability": "Si has muerto hoy día o esta noche, los jugadores Secuazes y Demonios pueden elegir convertirse en nuevos roles de Secuaz y Demonio.",
+      "ability": "Si has muerto hoy por el día o esta noche, los jugadores Secuaces y Demonios pueden elegir convertirse en nuevos roles de Secuaz y Demonio.",
       "flavor": "Un sombrero. Do sombreros. Tres sombreros. Té sombreros. Cuatro sombreros. Brinco sombreros. Seis sombreros. Sois sombreros.",
       "name": "Sombrerero",
-      "other": "Si el Sombrerero murió hoy día o esta noche, despierta a los Secuaces y Demonios, y permíteles elegir nuevos roles."
+      "other": "Si el Sombrerero murió hoy por el día o esta noche, despierta a los Secuaces y Demonios, y permíteles elegir nuevos roles."
     },
     "hellslibrarian": {
       "ability": "Algo malo quizás le ocurra a todo aquel que hable cuando el Narrador ha pedido silencio.",
@@ -807,6 +807,13 @@
       "flavor": "Yo soy la noche…eso creo.",
       "name": "Lunático",
       "other": "Has lo que sea necesario para simular al Demonio actuando. Pon al Lunático a dormir. Despierta al Demonio. Muéstrale la ficha del Lunático y apunta al Lunático, y luego a su(s) jugador(es) seleccionado(s)."
+    },
+    "lycanthrope": {
+      "ability": "Cada noche*, escoge un jugador vivo. Si es bueno, muere y el Demonio no mata hoy. Un jugador bueno se registra como malvado.",
+      "flavor": "Bajo la fina capa de civilización se esconde una locura que aúlla."
+    },
+    "mastermind": {
+      "ability": "Si el Demonio es ejecutado (terminando el juego), juega 1 día mas. Si un jugador es ejecutado después, su equipo pierde."
     },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
