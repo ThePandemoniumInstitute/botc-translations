@@ -895,7 +895,7 @@
     "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
     "name_placeholder": "Nome da partida",
     "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\n Isso permitirá que qualquer pessoa veja e participe do seu jogo.",
-    "prompt_public_title": "Tornar a sessão do Jogo pública",
+    "prompt_public_title": "Tornar a partida pública",
     "server": "Servidor das conversas:",
     "server_name": "Nome",
     "server_stats": "{0} usuários, servidor {1} carregado",
