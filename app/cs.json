@@ -1,6 +1,40 @@
 {
   "common": {
+    "account-levels": {
+      "free": "Bezplatný",
+      "special-moderator": "Moderátor"
+    },
     "button_cancel": "Zrušit",
-    "button_close": "Zavřít"
+    "button_close": "Zavřít",
+    "button_confirm": "Potvrdit",
+    "button_continue": "Pokračovat",
+    "button_logout": "Odhlásit se",
+    "button_search": "Vyhledat",
+    "button_send": "Poslat",
+    "session-tags": {
+      "cameras": {
+        "label": "Kamery",
+        "title": "Jsou-li ve hře zapnuté kamery",
+        "value_0": "Dobrovolný",
+        "value_1": "Povinný",
+        "value_2": "Vypnuté"
+      },
+      "difficulty": {
+        "label": "Obtížnost",
+        "title": "Očekávané zkušenosti tohoto hráče",
+        "value_0": "Průměrný"
+      },
+      "grimoire": {
+        "label": "Náhled do Grimoáru",
+        "title": "Může-li divák nahlížet do grimoáru",
+        "value_0": "Zeptat se",
+        "value_1": "Ne",
+        "value_2": "Ano"
+      },
+      "streaming": {
+        "label": "Hra je živě vysílána",
+        "title": "tato hra bude vysílána živě"
+      }
+    }
   }
 }
