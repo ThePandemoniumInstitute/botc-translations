@@ -33,7 +33,12 @@
       },
       "streaming": {
         "label": "Hra je živě vysílána",
-        "title": "tato hra bude vysílána živě"
+        "title": "tato hra bude vysílána živě",
+        "value_0": "Ne",
+        "value_1": "Ano"
+      },
+      "subscription": {
+        "label": "je nutné mít předplatné"
       }
     }
   }
