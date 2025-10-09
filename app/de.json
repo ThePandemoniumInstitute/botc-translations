@@ -231,7 +231,7 @@
         "update_player": "Fehler beim Ändern des Spielers",
         "update_storyteller": "Fehler beim Ändern des Erzählers",
         "user_not_found": "Benutzer nicht gefunden.",
-        "user_text": "Etwas ist schief gelaufen: {0}",
+        "user_text": "Etwas ist schiefgelaufen: {0}",
         "user_title": "Fehler beim Ändern des Benutzers",
         "vacating": "Fehler beim Verlassen des Sitzes",
         "video_text": "Dein Browser hat verhindert, dass automatisch Video-Chat abgespielt wird. Bitte schließe diese Nachricht, um den Video-Chat abzuspielen.",
