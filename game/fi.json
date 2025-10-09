@@ -1,17 +1,24 @@
 {
   "editions": {
+    "homebrew": {
+      "name": "Kotipolttoinen"
+    },
     "tb": {
       "name": "Piru Merrassa"
     }
   },
   "jinxes": {
+    "alchemist-marionette": "Alkemisti-Marionetilla ei ole Marionetin kykyä & Marionetti on pelissä.",
+    "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
+    "boffin-ogre": "Demonilla ei voi olla Jätin kykyä.",
     "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
     "bountyhunter-kazali": "Jos Kazali muuttaa Palkkionmetsästäjän Kätyriksi, pahaa Kyläläistä ei lisätä.",
     "bountyhunter-philosopher": "Jos Filosofi saa Palkkionmetsästäjän kyvyn, yksi Kyläläinen saattaa muuttua pahaksi.",
     "butler-cannibal": "Jos Kannibaali saa Hovimestarin kyvyn, Kannibaali saa tietää tästä.",
     "cannibal-juggler": "Jos Jonglööri arvaa ensimmäisenä päivänään ja kuolee teloitukseen, elävä Kannibaali saa tänä yönä tietää, kuinka moni Jonglöörin arvauksista osui oikeaan.",
+    "damsel-spy": "Jos Vakooja on (tai on ollut) pelissä, Neito on myrkytetty.",
     "lilmonsta-psychopath": "Jos Psykopaatti vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
