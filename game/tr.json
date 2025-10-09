@@ -286,8 +286,8 @@
       "name": "Falcı"
     },
     "gambler": {
-      "ability": "Her gece*, bir oyuncuyu seç ve karakterini tahmin et: eğer tahminin yanlışsa, ölürsün.",
-      "flavor": "Tura gelirse, ben kazanırım. Yazı gelirse, sen kaybedersin.",
+      "ability": "Her gece*, bir oyuncu seç ve karakterini tahmin et: eğer tahminin yanlışsa ölürsün.",
+      "flavor": "Tura gelirse ben kazanırım. Yazı gelirse sen kaybedersin.",
       "name": "Kumarbaz",
       "other": "Kumarbaz bir oyuncu ve bir karakter seçer. :reminder:"
     },
@@ -296,7 +296,7 @@
       "name": "Baba"
     },
     "goon": {
-      "ability": "Her gece, becerisiyle seni seçen ilk oyuncu gün batımına kadar sarhoş olur. Onun tarafına geçersin.",
+      "ability": "Her gece, yeteneğiyle seni seçen ilk oyuncu gün batımına kadar sarhoş olur. Onun tarafına geçersin.",
       "flavor": "Evet patron. Herife meseleyi bi güzel anlattım. Tekrar anlatam istemiyo. Yok patron, doktor moktor gerek yok, bıçak yarası sadece. Yarına geçer.",
       "name": "Gangster"
     },
