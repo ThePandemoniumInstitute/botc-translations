@@ -334,6 +334,7 @@
       "button_always": "Toujours",
       "button_edit": "Modifier le compte",
       "button_setup": "Lancer la Confirguration",
+      "css_apply": "Appliquer des Règles CSS personnalisées ?",
       "css_text": "Vous pouvez changer le visuel de votre application en saisissant l'URL d'un fichier CSS personnalisé ou directement le code CSS. Pandemonium Insitute n'est pas garant du code CSS fourni par d'autres utilisateur·ices. Charger un code CSS malveillant pourrait nuire au fonctionnement de votre application !",
       "css_title": "Saisir un CSS Personnalisé",
       "image_text": "Êtes vous sûr·e de vouloir autoriser les images personnalisées ? Un script malveillant pourrait s'en servir pour obtenir votre adresse IP. Pandemonium Institute n'a aucun contrôle sur les images fournies par les autres utilisateur·ices de l'application.",
