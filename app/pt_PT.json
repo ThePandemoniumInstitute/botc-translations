@@ -30,14 +30,14 @@
       "difficulty": {
         "label": "Dificuldade",
         "title": "Nível de experiência esperada dos jogadores nesta sessão",
-        "value_0": "Mediana",
-        "value_1": "Veterana",
+        "value_0": "Média",
+        "value_1": "Avançada",
         "value_2": "Iniciante"
       },
       "grimoire": {
         "label": "Acesso ao Grimório",
         "title": "Se os espectadores têm acesso ao Grimório",
-        "value_0": "Pedir",
+        "value_0": "Consultar",
         "value_1": "Não",
         "value_2": "Sim"
       },
@@ -70,7 +70,7 @@
       "ghost-votes": "Restaurar Votos Fantasma",
       "grimoire": "Mostrar Grimório",
       "open-eyes": "Abrir/Fechar Olhos",
-      "pointing": "EscolherJogador"
+      "pointing": "Escolher Jogador"
     },
     "demon": "Demónio|Demónios",
     "fabled": "Mítico|Míticos",
@@ -105,7 +105,7 @@
     "error_audio": "O teu browser impediu a app de {0}. Carrega aqui para começar o chat.",
     "error_audio2": "Reprodução automática do chat de voz",
     "error_audio3": "Também podes ter que {0} no Firefox para ouvir o áudio da app.",
-    "error_audio4": "Mudar uma definição",
+    "error_audio4": "mudar uma definição",
     "fabled": "Adicionar Mítico",
     "fullscreen": "Ecrã Inteiro",
     "gather": "Reunir Jogadores",
@@ -114,7 +114,7 @@
     "grim_access": "Foi-te dado acesso ao Grimório",
     "grim_request": "Um espectador pediu acesso ao Grimório",
     "help": "Ajuda",
-    "json_schema": "Script JSON Schema",
+    "json_schema": "Schema JSON Guião",
     "leave": "Abandonar Jogo",
     "mute_cam": "Desligar câmara [{0}]",
     "mute_mic": "Silenciar o microfone [{0}]",
@@ -147,6 +147,7 @@
     "tab_playing": "A jogar",
     "to_day": "Ir para a Fase do Dia",
     "to_night": "Ir para a Fase da Noite",
+    "translation": "Melhorar esta tradução",
     "user_list": "Lista de Utilizadores",
     "vacate_seat": "Abandonar Lugar",
     "vote_history": "Histórico de Votos"
@@ -194,7 +195,17 @@
         "loading_text": "Algo correu mal ao tentar carregar os dados da app. A página vai actualizar.",
         "loading_title": "Erro ao carregar os dados da app",
         "missing_edition": "Esta sessão contém uma colecção que não pode ser encontrada.",
-        "missing_edition_title": "Erro ao carregar a colecção"
+        "missing_edition_title": "Erro ao carregar a colecção",
+        "missing_roles": "Esta sessão contém personagens personalizados que não podem ser encontrados. Por favor carrega-os antes de te juntares. Em falta: {0}",
+        "missing_roles_title": "Erro ao carregar papéis personalizados",
+        "move_player": "Não se pode mover o jogador",
+        "offline": "O servidor parece estar offline",
+        "remove_player": "Não se pode remover o jogador",
+        "remove_storyteller": "Erro ao remover o Narrador",
+        "request_grim": "Não é possível pedir o Grimório",
+        "running": "Erro ao alterar o estado de execução",
+        "sending_roles": "Erro ao enviar personagens",
+        "server2_text": "Ligação perdida ao servidor de jogo, a tentar reconectar...\nMensagem de erro: {0}"
       }
     }
   }
