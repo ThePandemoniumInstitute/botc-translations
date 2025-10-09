@@ -79,7 +79,7 @@
     "phases": {
       "day": "Primeiro Dia|Dia {n}",
       "end": "Intervalo entre partidas",
-      "first_night": "Primeira Noite",
+      "first_night": "1ª Noite",
       "night": "Primeira Noite|Noite{n}",
       "other_nights": "Outras Noites",
       "start": "Preparando a Noite 1"
@@ -295,12 +295,12 @@
       "upload_custom": "Carregar Cenário Personalizado em JSON"
     },
     "fabled": {
-      "title": "Adicionar um personagem de Lenda"
+      "title": "Adicionar uma Lenda"
     },
     "help": {
       "button_send": "Enviar dados de depuração da sessão",
       "button_stop": "Parar de enviar dados de depuração",
-      "link_0": "Rastreador de erros",
+      "link_0": "rastreador de erros",
       "link_1": "por email",
       "link_2": "aqui",
       "link_3": "nossa loja virtual",
@@ -980,7 +980,7 @@
     },
     "fabled": {
       "remove": "Remover Lenda",
-      "title": "Lenda"
+      "title": "Lendas"
     },
     "text": {
       "channels": {
