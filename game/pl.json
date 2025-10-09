@@ -43,7 +43,8 @@
     "engineer-summoner": "Jeżeli żywy Przywoływacz zostanie usunięty z gry, Bajarz ma umiejętność Przywoływacza.",
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
     "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
-    "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy."
+    "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy.",
+    "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
     "townsfolk": "Mieszczanin"
