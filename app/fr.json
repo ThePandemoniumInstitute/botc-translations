@@ -173,7 +173,7 @@
         "bluffs": "Erreur lors de la mise à jour des bluffs",
         "chat2_text": "Le serveur de discussion semble hors ligne",
         "chat2_title": "Serveur de Discussion Déconnecté",
-        "chat_text": "Erreur lors de la mise à jour des bluffs",
+        "chat_text": "Connexion perdue avec le serveur de discussion, tentative de reconnexion…\n.Message d’erreur : {0}",
         "chat_title": "Une erreur de connexion au chat s'est produite",
         "clear_grim": "Impossible de vider le Grimoire",
         "connection": "Une erreur de connexion s'est produite",
@@ -309,20 +309,20 @@
       "tab_character": "Rôles Disponibles",
       "tab_traveller": "Autres Voyageur·euses",
       "title": "Sélectionnez un {alignement} {cible}",
-      "title_alignment_e": "Mal",
+      "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
       "title_target_bluff": "bluff",
-      "title_target_other": "personnage",
-      "title_target_player": "personnage pour {0}"
+      "title_target_other": "rôle",
+      "title_target_player": "rôle pour {0}"
     },
     "roles": {
-      "button_distribute": "Distribuer {0} personnages",
-      "button_gardener": "Assigner {0} personnages",
+      "button_distribute": "Distribuer {0} rôles",
+      "button_gardener": "Assigner {0} rôles",
       "button_shuffle": "Mélanger",
       "button_sort": "Trier",
-      "clear": "Effacer les personnages sélectionné·es",
-      "title": "Choisir les personnages pour {0}",
-      "warning": "Attention : certains personnages choisis modifient la composition de la partie ! Vous devez prendre en compte ces changements manuellement."
+      "clear": "Effacer les rôles sélectionnés",
+      "title": "Sélectionnez les rôles pour {0}",
+      "warning": "Attention : certains rôles sélectionnés modifient la configuration de la partie ! Vous devrez en tenir compte vous-même."
     },
     "rules": {
       "title": "Règles"
@@ -333,16 +333,19 @@
       "background_title": "Image de fond personnalisée",
       "button_always": "Toujours",
       "button_edit": "Modifier le compte",
-      "button_setup": "Lancer la Confirguration",
+      "button_setup": "Lancer la configuration",
+      "button_verify": "Vérifier le compte",
       "css_apply": "Appliquer des Règles CSS personnalisées ?",
-      "css_confirm": "Je suis sûr de moi, laissez moi changer le rendu de l'application",
-      "css_text": "Vous pouvez changer le visuel de votre application en saisissant l'URL d'un fichier CSS personnalisé ou directement le code CSS. Pandemonium Insitute n'est pas garant du code CSS fourni par d'autres utilisateur·ices. Charger un code CSS malveillant pourrait nuire au fonctionnement de votre application !",
+      "css_confirm": "Je sais ce que je fais, laissez-moi modifier l’apparence de mon application",
+      "css_confirm2": "Veuillez confirmer que vous souhaitez conserver les modifications CSS personnalisées. Sinon, elles seront désactivées automatiquement.",
+      "css_text": "Vous pouvez modifier l’apparence de votre application ici en entrant une URL vers un fichier CSS personnalisé ou directement le code CSS. The Pandemonium Institute n’est pas responsable du code CSS fourni par d’autres utilisateurs. Le chargement d’un code CSS malveillant pourrait endommager votre application!",
       "css_title": "Saisir un CSS Personnalisé",
-      "image_text": "Êtes vous sûr·e de vouloir autoriser les images personnalisées ? Un script malveillant pourrait s'en servir pour obtenir votre adresse IP. Pandemonium Institute n'a aucun contrôle sur les images fournies par les autres utilisateur·ices de l'application.",
+      "image_text": "Êtes-vous sûr de vouloir autoriser les images personnalisées ?Un auteur de script malveillant pourrait ainsi suivre votre adresse IP. The Pandemonium Institute n’a aucun contrôle sur les images fournies par d’autres utilisateurs de l’application.",
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
         "baker": {
-          "text": "Le·a joueur·euse accusé·e a l'attention du groupe."
+          "text": "Le joueur nommé a l’attention du groupe.",
+          "title": "Ce rôle était auparavant destiné à être un Légendaire portant le même nom, mais il est désormais utilisé comme paramètre dans les options de jeu afin de modifier le fonctionnement des nominations."
         },
         "regular": {
           "text": "Tout le monde peut parler librement.",
@@ -354,7 +357,51 @@
         }
       },
       "option_disabled": "Désactivé",
-      "patreon_link": "Connecter un Compte Patreon"
+      "patreon_link": "Connecter un Compte Patreon",
+      "patreon_perks": "Le téléchargement d’avatars et les plaques nominatives spéciales sont disponibles avec un abonnement {0} payant !",
+      "patreon_update": "Mettre à jour le statut Patreon",
+      "setting_alignment": "Afficher l’alignement sur la place du village",
+      "setting_animations": "Afficher les Animations",
+      "setting_auto_gain": "Contrôle automatique du gain",
+      "setting_avatar_size": "Taille de l’avatar du joueur",
+      "setting_avatars": "Afficher les avatars / caméras sur la Place du Village",
+      "setting_chroma": "Clé Chromatique",
+      "setting_chroma_label": "Sélectionner la couleur de chrominance",
+      "setting_condense": "Condense les fiches de rôles",
+      "setting_cosmetics": "Afficher les cosmétiques des joueurs",
+      "setting_echo_cancellation": "Annulation de l’écho",
+      "setting_english": "Afficher les noms des rôles anglais supplémentaires",
+      "setting_microphone": "Microphone",
+      "setting_mute_audio": "Couper le son",
+      "setting_mute_video": "Masquer la Vidéo",
+      "setting_noise_suppression": "Réduction du bruit",
+      "setting_player_bluffs": "Joueur : afficher l’onglet des bluffes",
+      "setting_player_night": "Joueur : Afficher les feuilles d’ordre de nuit",
+      "setting_player_reminders": "Joueur : autoriser les jetons de rappel en double",
+      "setting_private_cams": "Afficher les caméras des joueurs dans les discussions privées",
+      "setting_ptt": "Appuyer pour parler",
+      "setting_reminders": "Empiler les jetons de rappel",
+      "setting_reminders_auto": "Automatique",
+      "setting_reveal": "Afficher les caméras pendant la révélation du grimoire",
+      "setting_st_night": "Conteur : afficher l’ordre de réveil",
+      "setting_st_nomination": "Conteur : type de nomination",
+      "setting_st_vote": "Conteur : durée du vote",
+      "setting_st_whisper": "Conteur : autoriser les chuchotements écrits",
+      "setting_tutorial": "Afficher les étapes du tutoriel de l’application",
+      "setting_video_deafen": "Afficher les flux caméra",
+      "setting_video_hidden": "Masquer votre propre caméra",
+      "setting_video_mirrored": "Miroir de votre propre caméra",
+      "setting_video_unnamed": "Entrée vidéo sans nom",
+      "setting_volume": "Volume des Effets Sonores",
+      "setting_zoom": "Taille du Jeton Joueur",
+      "setup": "Problèmes de Microphone ou de Caméra ?",
+      "shortcut_add": "Ajouter un Bouton",
+      "shortcut_escape": "Appuyez sur Échap pour réinitialiser le raccourci",
+      "shortcut_record": "Appuyez sur la touche que vous souhaitez attribuer à {0}",
+      "shortcut_reset": "Réinitialiser Tous les Raccourcis"
     }
+  },
+  "version": {
+    "warning_update2": "{0}, la dernière version est la {1} !"
   }
 }
