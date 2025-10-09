@@ -4,7 +4,7 @@
       "free": "Gratuit",
       "patreon-demon": "Niveau Démon",
       "patreon-minion": "Niveau Sbire",
-      "patreon-townsfolk": "Niveau de Villageois'e",
+      "patreon-townsfolk": "Niveau de Villageois·e",
       "special-free": "Offert",
       "special-moderator": "Modérateur·ice",
       "special-tpi": "Personnel de TPI"
@@ -36,7 +36,7 @@
       },
       "grimoire": {
         "label": "Accès au Grimoire",
-        "title": "Si les spectateurices peuvent voir le grimoire",
+        "title": "Si les spectateur·ices peuvent voir le grimoire",
         "value_0": "Demander",
         "value_1": "Non",
         "value_2": "Oui"
@@ -72,7 +72,7 @@
     },
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
-    "minion": "Sbire | Sbires",
+    "minion": "Sbire|Sbires",
     "phases": {
       "day": "Premier jour|Jour {n}",
       "end": "Entre deux sessions",
@@ -83,7 +83,7 @@
     },
     "player": "Joueur·euse {0}",
     "players": "Joueur·euses",
-    "seat": "Siège {0}",
+    "seat": "Place {0}",
     "shroud": "Linceul",
     "storyteller": "Conteur {0}",
     "storytellers": "Les Conteurs",
@@ -121,7 +121,7 @@
     "prompt_clear_title": "Vider le Grimoire et les Aides-Mémoire",
     "prompt_timer_text": "Choisissez une durée et (optionnellement) un titre pour ce chronomètre :",
     "prompt_timer_title": "Mettre un chronomètre",
-    "prompt_vacate_text": "Vous êtes actuellement dans une partie en cours, êtes-vous sûr·e de vouloir quitter votre siège ?",
+    "prompt_vacate_text": "Vous êtes actuellement dans une partie en cours, êtes-vous sûr·e de vouloir quitter votre place ?",
     "prompt_vacate_title": "Quitter son Siège",
     "push_to_talk": "Appuyez sur [{0}] pour parler",
     "raise_hand": "Lever La Main",
@@ -186,7 +186,7 @@
         "kick": "Impossible d'expulser l'utilisateur·ice",
         "link_text": "Une erreur est survenu en connectant votre compte Patreon. Veuillez réessayer.",
         "link_title": "Erreur lors de la connexion au compte Patreon",
-        "loading_text": "Un problème est survenu en chargeant les données de l'application. La page va être actualisée.",
+        "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être actualisée.",
         "loading_title": "Erreur lors du chargement des données de l'application",
         "missing_edition": "Une édition contenue dans cette partie n'a pas pu être trouvée.",
         "missing_edition_title": "Erreur en chargeant l'édition",
@@ -226,7 +226,7 @@
         "update_storyteller": "Erreur en modifiant le·a Conteur·euse",
         "user_not_found": "Utilisateur·ice introuvable.",
         "user_text": "Quelque chose s'est mal passé : {0}",
-        "user_title": "Erreur de modification de l'utilisateur·ice",
+        "user_title": "Erreur en mettant à jour l'utilisateur·ice",
         "vacating": "Erreur en quittant une place",
         "video_text": "Votre navigateur a empêché l'application de lancer automatiquement la discussion vidéo, veuillez fermer ce message pour lancer la discussion.",
         "video_title": "Erreur en initialisant la conversation vidéo"
@@ -246,7 +246,7 @@
         "storyteller_text": "Voulez vous devenir le·a Conteur·euse et voir le Grimoire ?",
         "storyteller_title": "Demander à être promu·e Conteur·euse",
         "terms": "Mise à jour des conditions d'utilisation",
-        "username_placeholder": "Nom d’utilisateur",
+        "username_placeholder": "Nom d’utilisateur·ice",
         "username_text": "Veuillez entrer votre nom d'utilisateur:"
       },
       "terms": "En utilisant Blood on the Clocktower Online, vous reconnaissez avoir lu et accepté les conditions et politiques suivantes :",
@@ -281,7 +281,7 @@
       "error_size_text": "Le script que vous avez choisi a une taille de {0} Mo, mais la taille maximale est de {1} Mo.",
       "homebrew_description": "Les images personnalisées des scripts maison ont été remplacées par des icônes génériques pour des raisons de sécurité. Vous pouvez les autoriser dans les Paramètres.",
       "homebrew_title": "Images Personnalisées Désactivées",
-      "release_script": "Script de publication du rôle {role}",
+      "release_script": "Script de publication du rôle {role} :",
       "theme": "Thème :",
       "theme_generic": "Thème générique :",
       "title": "Choisir une édition :",
@@ -434,10 +434,10 @@
         "castVote": "Voter / Marquer un Joueur",
         "leaveChat": "Quitter un Chat",
         "leaveSession": "Quitter une Session",
-        "modalRules": "Lire les règles",
+        "modalRules": "Lire les Règles",
         "modalSettings": "Paramètres",
         "modalShortcuts": "Raccourcis",
-        "modalUsers": "Utilisateurs",
+        "modalUsers": "Utilisateur·ices",
         "modeFabled": "Ajouter un Légendaire",
         "modeGather": "Rassemblez Vos Joueurs",
         "raiseHand": "Lever la Main",
@@ -473,7 +473,7 @@
       "tab_chat": "Chat",
       "tab_general": "Général",
       "tab_shortcuts": "Raccourcis",
-      "tab_user": "Utilisateur",
+      "tab_user": "Utilisateur·ice",
       "title": "Paramètres de l’Application",
       "title_avatar": "Sélectionner un Avatar",
       "title_sound": "Volume des Effets Sonores"
@@ -496,7 +496,7 @@
     },
     "signal": {
       "cards": {
-        "claim": "Ce•tte jouer•euse est",
+        "claim": "Ce•tte joueur•euse est",
         "demon": "Voici le Démon",
         "evil": "Mal",
         "five": "Cinq",
@@ -511,8 +511,8 @@
         "you": "Tu es",
         "zero": "Zéro"
       },
-      "character": "Caractère",
-      "player": "Jouer•euse"
+      "character": "Personnage",
+      "player": "Joueur•euse"
     }
   },
   "version": {
