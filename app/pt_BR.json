@@ -744,7 +744,7 @@
     },
     "whisper": {
       "muted": "Este jogador está mudo/silenciado na conversa de voz.",
-      "video_muted": "Este jogador está com a câmera pausada/desligada."
+      "video_muted": "Este jogador está com a câmera pausada / desligada."
     }
   },
   "pages": {
