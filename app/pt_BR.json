@@ -893,20 +893,20 @@
     "language": "Idioma das conversas",
     "locked": "Narradores e jogadores",
     "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
-    "name_placeholder": "Nome da sessão de jogo",
+    "name_placeholder": "Nome da partida",
     "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\n Isso permitirá que qualquer pessoa veja e participe do seu jogo.",
     "prompt_public_title": "Tornar a sessão do Jogo pública",
     "server": "Servidor das conversas:",
     "server_name": "Nome",
     "server_stats": "{0} usuários, servidor {1} carregado",
-    "session_name": "Nome da sessão",
+    "session_name": "Nome da partida",
     "subscription_needed": "Assinatura necessária",
-    "tags": "Etiquetas para jogo público",
-    "title_create": "Criar sessão de jogo",
-    "title_current": "Sessão do jogo atual",
+    "tags": "Rótulos para jogo público",
+    "title_create": "Criar partida",
+    "title_current": "Partida atual",
     "visibility": "Visibilidade",
     "visibility_private": "Privado",
-    "visibility_public": "Públicas"
+    "visibility_public": "Pública"
   },
   "storyteller": {
     "connecting": "O Narrador está se conectando à conversa de voz.",
@@ -987,7 +987,7 @@
         "private": "Privado",
         "public": "Públicas",
         "spectator": "Espectadores",
-        "system": "Sessão"
+        "system": "Partida"
       },
       "message_blocked": "não entregue",
       "message_to": "para",
