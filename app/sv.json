@@ -79,9 +79,9 @@
     "phases": {
       "day": "Första dagen|Dag {n}",
       "end": "Mellan partier",
-      "first_night": "Natt 1",
+      "first_night": "Första natten",
       "night": "Första natten|Natt {n}",
-      "other_nights": "Övriga",
+      "other_nights": "Övriga nätter",
       "start": "Förbereder natt 1"
     },
     "player": "Spelare {0}",
