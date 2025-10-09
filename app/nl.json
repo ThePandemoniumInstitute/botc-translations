@@ -97,9 +97,9 @@
   "main-menu": {
     "cast_vote": "Breng stem uit",
     "change_icon": "Klik om icoon te wijzigen",
-    "char_sheet": "Karakteroverzicht",
+    "char_sheet": "Karakterblad",
     "characters": "Selecteer karakters",
-    "clear_grim": "Grimoire legen",
+    "clear_grim": "Grimoire egen",
     "download": "Download {0} App",
     "edition": "Selecteer editie",
     "error_audio": "Je browser weerhoudt de app van {0}. Klik hier om de chat te starten.",
