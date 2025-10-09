@@ -42,8 +42,8 @@
         "value_2": "Oui"
       },
       "streaming": {
-        "label": "Partie Diffusée",
-        "title": "La partie sera diffusée en temps réel",
+        "label": "Partie Streamée",
+        "title": "La partie sera streamée en temps réel",
         "value_0": "Non",
         "value_1": "Oui"
       },
@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Voyageur·euses",
-        "title": "Si les Voyageurs sont autorisés dans cette session de jeu",
+        "title": "Si les Voyageur·euses sont autorisé·es dans cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
