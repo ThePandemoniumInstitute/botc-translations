@@ -831,17 +831,36 @@
       "name": "Mente Maestra"
     },
     "mathematician": {
+      "ability": "Cada noche, aprendes cuantas habilidades de jugadores funcionaron anormalmente (desde el amanecer) debido a las habilidades de otros roles.",
       "first": "Dale una señal con los dedos.",
       "flavor": "Cualquier sistema formal consistente x, dentro del cual se puede realizar cierta cantidad de aritmética básica es incompleto; es decir, hay declaraciones del lenguaje de x que no se pueden probar ni refutar en x. Por ende, estás borracho.",
       "name": "Matemático",
       "other": "Dale una señal con los dedos."
     },
+    "matron": {
+      "ability": "Cada día, puedes escoger hasta 3 grupos de 2 jugadores para intercambiar asientos. Los jugadores no puedes dejar su asiento para hablar en privado."
+    },
+    "mayor": {
+      "name": "Alcalde"
+    },
+    "mezepheles": {
+      "name": "Mezéfeles"
+    },
     "minioninfo": {
       "name": "Información del Secuaz"
+    },
+    "minstrel": {
+      "ability": "Cuando un Secuaz muera por ejecución, todos los otros jugadores (excepto Viajeros) están borrachos hasta el anochecer de mañana."
     },
     "monk": {
       "name": "Monje",
       "other": "El Monje escoge un jugador. :reminder:"
+    },
+    "moonchild": {
+      "name": "Hijo de la Luna"
+    },
+    "mutant": {
+      "name": "Mutante"
     },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
