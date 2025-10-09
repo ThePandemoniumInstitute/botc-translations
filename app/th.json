@@ -1,1 +1,40 @@
-{}
+{
+  "common": {
+    "button_cancel": "ยกเลิก",
+    "button_close": "ปิด",
+    "button_confirm": "ตกลง",
+    "button_continue": "ดำเนินการต่อ",
+    "button_logout": "ออกจากระบบ",
+    "button_search": "ค้นหา",
+    "button_send": "ส่ง",
+    "session-tags": {
+      "difficulty": {
+        "label": "ความยาก"
+      },
+      "grimoire": {
+        "label": "การเข้าถึง Grimoire",
+        "title": "ผู้ชมสามารถเข้าถึง Grimoire ได้หรือไม่"
+      },
+      "travellers": {
+        "label": "นักท่องเที่ยว",
+        "title": "อนุญาตให้มีนักท่องเที่ยวในเกม"
+      }
+    }
+  },
+  "grimoire": {
+    "abilities": {
+      "grimoire": "แสดง Grimoire"
+    },
+    "fabled": "ตัวละครพิเศษ|ตัวละครพิเศษ",
+    "storyteller": "Storyteller {0}"
+  },
+  "main-menu": {
+    "clear_grim": "ล้าง Grimoire",
+    "fabled": "เพิ่มตัวละครพิเศษ",
+    "night_info_text": "Storyteller ปลุกคุณในคืนนี้!",
+    "prompt_vacate_title": "ออกจากที่นั่ง",
+    "show_grim": "แสดง Grimoire",
+    "show_town": "แสดง Town Square",
+    "storyteller_remove": "ยกเลิกการเป็น Storyteller"
+  }
+}
