@@ -881,6 +881,27 @@
       "flavor": "¡No soy un fenómeno! ¡Soy un ser humano! ¡Ten piedad!",
       "name": "Mutante"
     },
+    "nightwatchman": {
+      "name": "Vigilante Nocturno"
+    },
+    "noble": {
+      "ability": "Empiezas conociendo 3 jugadores, 1 y solo 1 de ellos es malvado.",
+      "name": "Noble"
+    },
+    "nodashii": {
+      "name": "No Dashii",
+      "other": "El No Dashii escoge a un jugador. :reminder:"
+    },
+    "ogre": {
+      "first": "El Ogro señala a un jugador. :reminder:",
+      "flavor": "\\<gruñido\\>\\<sonrisa\\>\\</gruñido\\>",
+      "name": "Ogro"
+    },
+    "ojo": {
+      "ability": "Cada noche*, escoge un rol: este muere. Si no está en juego, el Narrador escoge quien muere.",
+      "name": "Ojo",
+      "other": "El Ojo escoge a un jugador. :reminder: "
+    },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
     },
