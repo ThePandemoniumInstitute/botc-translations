@@ -363,7 +363,7 @@
       "nomination": {
         "baker": {
           "text": "Le joueur nommé a l’attention du groupe.",
-          "title": "Ce rôle était auparavant destiné à être un Légendaire portant le même nom, mais il est désormais utilisé comme paramètre dans les options de jeu afin de modifier le fonctionnement des nominations."
+          "title": "Boulanger·ère"
         },
         "regular": {
           "text": "Tout le monde peut parler librement.",
@@ -419,7 +419,7 @@
       "setting_reveal": "Afficher les Caméras pendant la Révélation du Grimoire",
       "setting_st_night": "Conteur·euse : afficher l’ordre de réveil",
       "setting_st_nomination": "Conteur·euse : type de nomination",
-      "setting_st_vote": "Conteur : durée du vote",
+      "setting_st_vote": "Conteur·euse : durée du vote",
       "setting_st_whisper": "Conteur·euse : autoriser les chuchotements écrits",
       "setting_tutorial": "Afficher les Étapes du Tutoriel de l’Application",
       "setting_video_deafen": "Afficher les Flux Caméra",
