@@ -9,7 +9,7 @@
       "special-moderator": "Moderador",
       "special-tpi": "Empleado de TPI"
     },
-    "botc_online": "BOTC en línea",
+    "botc_online": "BOTC En línea",
     "button_cancel": "Cancelar",
     "button_close": "Cerrar",
     "button_confirm": "Confirmar",
@@ -24,8 +24,8 @@
         "label": "Cámaras",
         "title": "Si se están usando cámaras en esta sesión de juego",
         "value_0": "Opcional",
-        "value_1": "Requeridas",
-        "value_2": "Desactivadas"
+        "value_1": "Requerido",
+        "value_2": "Desactivado"
       },
       "difficulty": {
         "label": "Dificultad",
@@ -48,7 +48,7 @@
         "value_1": "Sí"
       },
       "subscription": {
-        "label": "Se requiere Suscripción",
+        "label": "Se requiere suscripción",
         "title": "Para unirte a este juego requieres una suscripción activa"
       },
       "travellers": {
@@ -68,7 +68,7 @@
     "abilities": {
       "distribute-roles": "Distribuir roles",
       "ghost-votes": "Devolver Votos Fantasmas",
-      "grimoire": "Mostrar el Grimorio",
+      "grimoire": "Revelar el Grimorio",
       "open-eyes": "Abrir/Cerrar Ojos",
       "pointing": "Escoge un Jugador"
     },
@@ -95,7 +95,7 @@
     "traveller": "Viajero|Viajeros"
   },
   "main-menu": {
-    "cast_vote": "Votar",
+    "cast_vote": "Emitir Voto",
     "change_icon": "Haz click para cambiar el ícono",
     "char_sheet": "Lista de Roles",
     "characters": "Escoger Roles",
@@ -129,10 +129,10 @@
     "prompt_vacate_text": "Actualmente estás en un juego activo, ¿estás seguro de que deseas abandonar tu asiento?",
     "prompt_vacate_title": "Abandonar Asiento",
     "push_to_talk": "Presiona [{0}] para hablar",
-    "raise_hand": "Levantar la Mano",
+    "raise_hand": "Levantar Mano",
     "request_private": "Solicitar Chat Privado",
     "reveal_grim": "Revelar Grimorio",
-    "rules": "Leer Las Reglas",
+    "rules": "Leer las Reglas",
     "session_expires": "Actualmente no hay ninguna cuenta de nivel secuaz en esta sesión y quizás expire a las {0}.",
     "set_timer": "Crear Temporizador",
     "settings": "Configuración",
@@ -178,7 +178,7 @@
         "bluffs": "Error actualizando coartadas",
         "chat2_text": "El servidor de chat está desconectado",
         "chat2_title": "Servidor de Chat Desconectado",
-        "chat_text": "Se perdió la conexión con el servidor de chat, intentando reconectar...\n Mensaje de error: {0}",
+        "chat_text": "Se perdió la conexión con el servidor de chat, intentando reconectar…\n Mensaje de error: {0}",
         "chat_title": "Se produjo un error de conexión de chat",
         "claiming": "Error al reclamar el asiento",
         "clear_grim": "No se puede borrar el Grimorio",
