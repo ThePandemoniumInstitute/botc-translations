@@ -1032,7 +1032,7 @@
     "level": "Account niveau",
     "mic_volume": "Microfoon Volume",
     "new_user": "Nieuwe Gebruiker",
-    "pronouns": "Voornaamwoorden",
+    "pronouns": "voornaamwoorden",
     "registration": "Registratie",
     "statistics": "Statistieken",
     "stats": {
@@ -1049,9 +1049,9 @@
     },
     "stats_hidden": "Verborgen",
     "stats_private": "Privé",
-    "stats_public": "Publiekelijk",
+    "stats_public": "Openbaar",
     "upload_avatar": "Avatar uploaden",
-    "verified": "Geverifieerde gebruiker"
+    "verified": "Geverifieerde Gebruiker"
   },
   "version": {
     "character_distribution": "Karakterverdeling",
