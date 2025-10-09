@@ -22,7 +22,7 @@
     "session-tags": {
       "cameras": {
         "label": "Camera's",
-        "title": "Of camera's worden gebruikt in deze spelsessie",
+        "title": "Of camera's in deze spelsessie worden gebruikt",
         "value_0": "Optioneel",
         "value_1": "Vereist",
         "value_2": "Uit"
