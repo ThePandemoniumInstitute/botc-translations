@@ -306,7 +306,7 @@
     },
     "role": {
       "error_character": "Aucun rôle correspondant à {0} n’a été trouvé.",
-      "tab_character": "Personnages Disponibles",
+      "tab_character": "Rôles Disponibles",
       "title": "Sélectionnez un {alignement} {cible}",
       "title_alignment_g": "Bon",
       "title_target_bluff": "bluff",
