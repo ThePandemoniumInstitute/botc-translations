@@ -38,8 +38,31 @@
         "value_1": "Ano"
       },
       "subscription": {
-        "label": "je nutné mít předplatné"
+        "label": "je nutné mít předplatné",
+        "title": "Připojení k této hře vyžaduje platné předplatné"
+      },
+      "travellers": {
+        "value_0": "Dobrovolné",
+        "value_1": "Ano",
+        "value_2": "Ne"
       }
     }
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "Rozdat role",
+      "grimoire": "Odkrýt grimoár",
+      "pointing": "Vyber hráče"
+    },
+    "demon": "Démon|Démoni",
+    "outsider": "Podivín|Podivíni",
+    "phases": {
+      "end": "Mezi hrami",
+      "first_night": "První noc",
+      "other_nights": "Další noci"
+    },
+    "players": "Hráči",
+    "storytellers": "Vypravěči",
+    "token": "žeton"
   }
 }
