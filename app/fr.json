@@ -29,7 +29,7 @@
       },
       "difficulty": {
         "label": "Difficulté",
-        "title": "Le niveau d'expérience des joueur'euses pour cette partie",
+        "title": "Le niveau d'expérience des joueur·euses pour cette partie",
         "value_0": "Moyenne",
         "value_1": "Expérimenté·e",
         "value_2": "Débutant·e"
@@ -70,7 +70,7 @@
       "ghost-votes": "Restituer les votes des morts",
       "grimoire": "Montrer le Grimoire",
       "open-eyes": "Ouvrir/Fermer les Yeux",
-      "pointing": "Choisissez un•e jouer•euse"
+      "pointing": "Choisissez un·e Joueur·euse"
     },
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
