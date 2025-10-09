@@ -123,6 +123,7 @@
     },
     "assassin": {
       "ability": "Kerran pelissä, yöllä*, valitse pelaaja: tämä kuolee, vaikka jostain syystä ei muuten voisi.",
+      "flavor": "...",
       "name": "Salamurhaaja",
       "other": "Salamurhaaja saattaa valita pelaajan. :reminder: :reminder:"
     },
