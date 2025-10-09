@@ -115,7 +115,7 @@
     "grim_request": "Um espectador pediu acesso ao Grimório",
     "help": "Ajuda",
     "json_schema": "Esquema JSON do Cenário",
-    "leave": "Sair do jogo",
+    "leave": "Sair do Jogo",
     "mute_cam": "Desabilitar câmera [{0}]",
     "mute_mic": "Mutar microfone [{0}]",
     "night_info": "Informação da Noite",
@@ -1036,7 +1036,7 @@
     "registration": "Registro",
     "statistics": "Estatísticas",
     "stats": {
-      "edition": "Edições\n jmais jogadas",
+      "edition": "Edições\n mais jogadas",
       "homebrew": "Um Personagem Caseiro",
       "loading": "Carregando estatísticas...",
       "none": "Nada",
