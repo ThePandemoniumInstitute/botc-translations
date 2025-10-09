@@ -311,15 +311,17 @@
       "button_distribute": "Send ut {0} karakterer",
       "button_shuffle": "Bland",
       "button_sort": "Sorter",
+      "clear": "Fjern valgte karakterer",
       "title": "velg karakterene for{0}",
       "title_players": "spillere",
-      "warning": "Advrsel: det er karakterer valgt som kan midifisere spill oppsetter! Du må regne med disse selv."
+      "warning": "Advarsel: Det er valgt ut karakterer som endrer spilloppsettet! Du må ta hensyn til disse selv."
     },
     "rules": {
       "title": "Regler"
     },
     "settings": {
       "background_placeholder": "URL til bakgrunnsbilde",
+      "background_text": "Skriv inn en URL for en tilpasset bakgrunn, eller la det stå tomt for å fjerne en tilpasset bakgrunn.",
       "button_always": "Alltid",
       "button_edit": "Endre bruker",
       "button_setup": "Kjør oppsettet",
