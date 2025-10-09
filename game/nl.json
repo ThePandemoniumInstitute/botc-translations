@@ -8,21 +8,21 @@
       "name": "Zelfgemaakt Script"
     },
     "homebrew": {
-      "name": "Zelfbedacht"
+      "name": "Eigen creatie"
     },
     "snv": {
-      "description": "...is de gekste van de drie edities in de basisset. Goede karakters krijgen elke nacht fantastische informatie . Echter, het slechte team is extreem gevarieerd en bedreigend en kan voor enorme verwarring zorgen. Karakters kunnen van alliantie veranderen. Zelfs het slechte team kan het overzicht verliezen van wie wie is. Dit is ook de eerste verschijning van waanzin, wat roet in het eten gooit.",
+      "description": "...is de gekste van de drie edities in de basisset. Goede karakters krijgen elke nacht fantastische informatie . Echter, het slechte team is extreem gevarieerd en bedreigend en kan voor enorme verwarring zorgen. Karakters kunnen van team veranderen. Zelfs het slechte team kan het overzicht verliezen van wie wie is. Dit is ook de eerste verschijning van waanzin, wat roet in het eten gooit.",
       "name": "Dood of de Gladiolen"
     },
     "tb": {
-      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommige moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demoon willen verleiden hen aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\nProblemen Brouwen is een relatief eenvoudige demonenjacht, maar slecht heeft een aantal gemene misinformatie trucs achter hand, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
+      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommige moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demoon willen verleiden hen aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\n\"Problemen Brouwen\" is een relatief eenvoudige demonenjacht, maar het slechte team heeft een aantal gemene misinformatie trucs achter de hand, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
       "name": "Problemen Brouwen"
     }
   },
   "jinxes": {
     "alchemist-boffin": "Als de Alchemist de Bolleboos vaardigheid heeft, leert de Alchemist niet welke vaardigheid de Demoon heeft.",
     "alchemist-marionette": "Een Alchemist-Marionet heeft geen Marionet vaardigheid & de Marionet zit in het spel.",
-    "alchemist-mastermind": "Een Alchemist-Meesterbrein heeft geen Meesterbrein vaardigheid & the Meestermind zit niet in het spel.",
+    "alchemist-mastermind": "Een Alchemist-Meesterbrein heeft geen Meesterbrein vaardigheid & het Meesterbrein zit niet in het spel.",
     "alchemist-organgrinder": "Als de Alchemist de Orgelman vaardigheid heeft, is de Orgelman in het spel. Als ze beiden nuchter zijn, zijn ze beiden dronken.",
     "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de Spion zit in het spel. Na elke executie mag de Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit goed is, moet de Demoon de Spion vannacht kiezen.",
     "alchemist-summoner": "De Alchemist-Bezweerder krijgt geen bluffs, en kiest een Demoon, maar geen speler. Als hij sterft voor dit gebeurt, wint slecht. [Geen Demoon]",
@@ -106,7 +106,7 @@
       "ability": "Jij begint het spel met een geheime uitdrukking. Voor elke keer dat jij dit publiekelijk zegt vandaag, sterft er mogelijk een speler.",
       "first": "Kies een geheime uitdrukking. Maak de Kletsmajoor wakker en laat de speler weten wat de geheime uitdrukking is.",
       "flavor": "Moorden in de het Rue lijkenhuis? Фальшивые новости! Honden op de Baskerville heide? Фальшивые новости! Dood tijdens het zeilen over de Nijl? Фальшивые новости!",
-      "name": "Kletsmajoor",
+      "name": "Yaggababbel",
       "other": "Voor iedere keer dat de Kletsmajoor de uitdrukking heeft gezegd vandaag, mag je een speler kiezen. Deze sterft. :reminder:"
     },
     "zealot": {
