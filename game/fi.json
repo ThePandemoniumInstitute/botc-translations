@@ -262,6 +262,9 @@
       "ability": "Sinä ja yksi vastapuolen pelaaja tiedätte toisenne. Jos hyvä pelaaja teloitetaan, paha voittaa. Hyvä ei voi voittaa, jos kumpikin teistä on elossa.",
       "name": "Paha Kaksonen"
     },
+    "gossip": {
+      "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
+    },
     "zombuul": {
       "other": "Jos kukaan ei kuollut tänään, Zombuul valitsee pelaajan. :reminder:"
     }
