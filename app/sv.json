@@ -79,9 +79,9 @@
     "phases": {
       "day": "Första dagen|Dag {n}",
       "end": "Mellan partier",
-      "first_night": "Första natten",
+      "first_night": "Natt 1",
       "night": "Första natten|Natt {n}",
-      "other_nights": "Övriga nätter",
+      "other_nights": "Övriga",
       "start": "Förbereder natt 1"
     },
     "player": "Spelare {0}",
@@ -115,7 +115,7 @@
     "grim_request": "En åskådare har begärt grimoarvy",
     "help": "Hjälp",
     "json_schema": "Schema för JSON-manus",
-    "leave": "Lämna spelet",
+    "leave": "Lämna sessionen",
     "mute_cam": "Stäng av kameran [{0}]",
     "mute_mic": "Stäng av mikrofonen [{0}]",
     "night_info": "Nattinfo",
@@ -286,8 +286,8 @@
       "error_script_text": "Manuset laddas men har några fel. Det betyder oftast att det finns rader som inte ska vara där, enligt det officiella JSO-schemat för egna manus.",
       "error_size": "För stor fil",
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
-      "homebrew_description": "Av säkerhetsskäl har egna bilder från hemmagjorda manus ersatts av generiska ikoner. Du kan aktivera manusets egna bilder i inställningarna.",
-      "homebrew_title": "Egna bilder avaktiverade",
+      "homebrew_description": "Av säkerhetsskäl har användarbilder från hemmagjorda manus ersatts av generiska ikoner. Du kan aktivera användarbilder i inställningarna.",
+      "homebrew_title": "Användarbilder avaktiverade",
       "release_script": "Premiärmanus för {role}:",
       "theme": "Tema:",
       "theme_generic": "Generiskt tema:",
@@ -358,8 +358,8 @@
       "css_confirm2": "Bekräfta att du vill behålla dessa CSS-ändringar, annars avaktiveras de automatiskt.",
       "css_text": "Du kan modifiera appens utseende genom att ange din egen CSS-kod här, eller URL:en till en CSS-fil. The Pandemonium Institute ansvarar inte för CSS-kod som andra användare tillhandahåller. Om du laddar skadlig CSS-kod kan det krascha appen!",
       "css_title": "Ange egen CSS",
-      "image_text": "Vill du verkligen tillåta egna bilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
-      "image_title": "Tillåt egna bilder",
+      "image_text": "Vill du verkligen tillåta användarbilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
+      "image_title": "Tillåt användarbilder",
       "nomination": {
         "baker": {
           "text": "Den nominerade spelaren har gruppens uppmärksamhet.",
@@ -427,8 +427,8 @@
       "setting_video_mirrored": "Spegla din egen kamera",
       "setting_video_unnamed": "Namnlös videoingång",
       "setting_volume": "Ljudeffektsvolym",
-      "setting_zoom": "Rollstorlek",
-      "setup": "Krånglar mikrofon eller kamera?",
+      "setting_zoom": "Storlek på rollbrickor",
+      "setup": "Krånglar mikrofonen eller kameran?",
       "shortcut_add": "Lägg till knapp",
       "shortcut_escape": "Tryck på Escape för att återställa genvägen",
       "shortcut_record": "Tryck på den tangent du vill använda för {0}",
@@ -568,7 +568,7 @@
     },
     "update": {
       "bugfix": "Buggfixar",
-      "feature": "Nya funktioner",
+      "feature": "Nyheter",
       "general": "Allmänna ändringar",
       "other": "Övriga ändringar",
       "title": "Nya uppdateringar:"
@@ -615,8 +615,8 @@
       "error_restart": "Du har försökt för många gånger. Ange ditt telefonnummer igen.",
       "phone": "Telefonnummer",
       "success": "Verifieringen är klar! Nu kan du stänga det här fönstret.",
-      "text_body": "Vi använder sms-verifiering för konton som går med i {0} för att hjälpa till att skydda den livliga och respektfulla gemenskap som gör Blood on the Clocktower så speciellt. De flesta spelare bidrar redan till en fantastisk kultur, men med sms-verifiering kan vi snabbt åtgärda eventuella störningar av spelupplevelsen. Privata spel påverkas inte.",
-      "text_body2": "öppna spel",
+      "text_body": "Vi använder sms-verifiering för konton som går med i {0} för att hjälpa till att skydda den livliga och respektfulla gemenskap som gör Blood on the Clocktower så speciellt. De flesta spelare bidrar redan till en fantastisk kultur, men med sms-verifiering kan vi snabbt åtgärda eventuella störningar av spelupplevelsen. Privata sessioner påverkas inte.",
+      "text_body2": "öppna sessioner",
       "text_footer": "Telefonnumren lagras krypterat och kan inte läsas av andra.",
       "text_title": "Varför behövs detta?",
       "title": "Kontoverifiering"
@@ -664,7 +664,7 @@
       "text": "Ställ fram, blanda eller ta bort stolar här.",
       "text2": "När det finns stolar åt alla spelare kan du {0}",
       "title": "Samla dina spelare",
-      "warning": "Du måste ha minst 7 spelare för ett vanligt parti i Korpaklint."
+      "warning": "Du måste ha minst 7 spelare för ett vanligt parti."
     },
     "nightaction": {
       "open-eyes": {
@@ -768,7 +768,7 @@
       "title": "Ställ om din dators klocka"
     },
     "lobby": {
-      "button_create_game": "Skapa spel",
+      "button_create_game": "Skapa session",
       "button_help": "Hjälp",
       "button_join_game": "Hitta privat session",
       "button_local_play": "Lokalt spel",
@@ -777,19 +777,19 @@
       "button_settings": "Inställningar",
       "button_verify": "Verifiera konto",
       "characters": "Roller",
-      "create_game": "Skapa nytt spel",
+      "create_game": "Skapa ny session",
       "edition_by": "av {author}",
       "fabled": "Fabler",
-      "forced_private": "Du kan inte längre delta i öppna spel.",
+      "forced_private": "Du kan inte längre delta i öppna sessioner.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
-      "free_tier_unverified": "Du har ett {0}konto. Du kan spela i någon av sessionerna ovan så länge den inte kräver en prenumeration. Om du vill hålla i egna spel kan du skaffa en prenumeration på {1}.",
-      "free_tier_verified": "Du har ett {0}konto. Du måste {1} innan du kan delta i öppna spel. Om du vill hålla i egna spel kan du skaffa en prenumeration på {2}.",
+      "free_tier_unverified": "Du har ett {0}konto. Du kan spela i någon av sessionerna ovan så länge den inte kräver en prenumeration. Om du vill hålla i egna sessioner kan du skaffa en prenumeration på {1}.",
+      "free_tier_verified": "Du har ett {0}konto. Du måste {1} innan du kan delta i öppna sessioner. Om du vill hålla i egna sessioner kan du skaffa en prenumeration på {2}.",
       "free_tier_verify": "verifiera ditt konto",
-      "game": "Spel",
+      "game": "Session",
       "language": "Språk",
-      "loading": "Laddar spel…",
-      "no_games": "Inga öppna spel hittades.",
+      "loading": "Laddar sessioner…",
+      "no_games": "Inga öppna sessioner hittades.",
       "page": "Sida {page} av {total}",
       "phase": "Fas",
       "players": "Spelare",
@@ -901,7 +901,7 @@
     "server_stats": "{0} användare, {1} serverbelastning",
     "session_name": "Sessionens namn",
     "subscription_needed": "Prenumeration krävs",
-    "tags": "Taggar för öppet spel",
+    "tags": "Sessionstaggar",
     "title_create": "Skapa session",
     "title_current": "Aktuell session",
     "visibility": "Synlighet",
@@ -985,7 +985,7 @@
     "text": {
       "channels": {
         "private": "Privat",
-        "public": "Öppet",
+        "public": "Öppen chatt",
         "spectator": "Åskådare",
         "system": "Session"
       },
