@@ -217,7 +217,7 @@
         "session_not_found": "Runde wurde nicht gefunden.",
         "session_public": "Du kannst keine öffentlichen Runde betreten.",
         "session_rejoin": "Du kannst diese Runde noch nicht wieder betreten.",
-        "session_subscription": "Du benötigst ein kostenpflichtiges Abonnement um dieser Runde betreten zu können.",
+        "session_subscription": "Du benötigst ein kostenpflichtiges Abonnement um dieser Runde beitreten zu können.",
         "session_unverified": "Du musst deinen Account verifizieren, bevor du öffentliche Runden betreten kannst.",
         "signal": "Fehler beim Senden von Nacht-Zeichen",
         "start": "Fehler beim Starten des Spiels",
@@ -569,7 +569,7 @@
     "update": {
       "bugfix": "Fehlerbehebungen",
       "feature": "Neue Features",
-      "general": "Allgemein Änderungen",
+      "general": "Allgemeine Änderungen",
       "other": "Andere Änderungen",
       "title": "Neue Updates:"
     },
