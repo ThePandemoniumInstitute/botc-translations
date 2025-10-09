@@ -312,7 +312,7 @@
     },
     "reminder": {
       "custom_favorite": "Favoritado",
-      "custom_note": "Nota personalizada",
+      "custom_note": "Nota",
       "custom_text": "Inserir um marcador personalizado para adicionar a {0}",
       "custom_title": "Adicionar Marcador personalizado",
       "tab1": "Marcadores relevantes",
