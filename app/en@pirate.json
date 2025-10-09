@@ -99,5 +99,10 @@
     "edition": {
       "difficulty_beginner": "Calm"
     }
+  },
+  "pages": {
+    "lobby": {
+      "free_tier_free": "Common"
+    }
   }
 }
