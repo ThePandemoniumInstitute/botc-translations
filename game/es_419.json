@@ -912,6 +912,24 @@
       "name": "Ojo",
       "other": "El Ojo escoge a un jugador. :reminder: "
     },
+    "oracle": {
+      "ability": "Cada noche*, tú aprendes cuántos de los jugadores muertos son malvados.",
+      "flavor": "Solo los escogidos pueden mirar más allá del velo. Los muertos andan inquietos, y apuntan en silencio hacia el norte congelado.",
+      "name": "Oráculo",
+      "other": "Dale una señal con los dedos."
+    },
+    "organgrinder": {
+      "ability": "Todos los jugadores mantienen sus ojos cerrados durante las votaciones, y los votos se contabilizan en secreto. Cada noche, elige si estás borracho hasta el siguiente anochecer.",
+      "first": "El Organillero o asiente con la cabeza para estar borracho, o deniega con la cabeza para estar sobrio. :reminder:",
+      "flavor": "Vuelta y vuelta da la manija. Cuanto más bailas, más ignoras.",
+      "name": "Organillero",
+      "other": "El Organillero o asiente con la cabeza para estar borracho, o deniega con la cabeza para estar sobrio. :reminder:"
+    },
+    "pacifist": {
+      "ability": "Los jugadores buenos que sean ejecutados quizás no mueran.",
+      "flavor": "Desconfía de todos aquellos que tengan un impulso poderoso para castigar.",
+      "name": "Pacifista"
+    },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
     },
