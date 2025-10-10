@@ -950,10 +950,10 @@
       "name": "Älvan"
     },
     "plaguedoctor": {
-      "ability": "När du dör får Berättaren en Kumpanförmåga.",
+      "ability": "När du dör får berättaren en Kumpanförmåga.",
       "flavor": "Stå stilla. Det tar tid för kroppen att läka. Mer myrra.",
       "name": "Pestläkaren",
-      "other": "Om Pestläkaren dött har Berättaren fått en Kumpanförmåga. Om du inte redan gjort det så gör det nu."
+      "other": "Om Pestläkaren dött har berättaren fått en Kumpanförmåga. Om du inte redan gjort det så gör det nu."
     },
     "po": {
       "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 inatt.",
@@ -1056,7 +1056,7 @@
       "name": "Helgonet"
     },
     "savant": {
-      "ability": "Varje dag kan du prata med Berättaren privat och få 2 påståenden: 1 sant och 1 falskt.",
+      "ability": "Varje dag kan du prata med berättaren privat och få 2 påståenden: 1 sant och 1 falskt.",
       "flavor": "Sjuttiotvå tändstickor på golvet… solen går ner tidigt, men månen är oförändrad… ett avslitet tygstycke… ondska på godset… tre gånger tre… den vi litade på är inte det han utger sig för… grönt ljus betyder magnesium… rester, men mönstret är fel… Sjuttiotvå tändstickor på golvet…",
       "name": "Savanten"
     },
