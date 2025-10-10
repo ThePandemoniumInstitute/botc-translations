@@ -459,7 +459,7 @@
       "name": "Demoninfo"
     },
     "deusexfiasco": {
-      "ability": "Minst en gång per spel begår Berättaren ett misstag, rättar till det och erkänner detta öppet.",
+      "ability": "Minst en gång per spel begår berättaren ett misstag, rättar till det och erkänner detta öppet.",
       "flavor": "Det är inte en bugg; det är en funktion. Det är inte ett fel; det är en fix. Det är inte trasigt; det är lustigt.",
       "name": "Deus Ex Fiasco"
     },
@@ -532,10 +532,10 @@
       "ability": "Varje natt* väljer du en spelare (inte samma som sist); om du väljer Demonen vaknar hen inte inatt, men får veta vem du är.",
       "flavor": "Vi driver ut er, varje oren ande, varje satans kraft, varje angrepp från den onde, varje legion, varje djävulsk grupp och sekt, i vår herre Jesu Kristi namn. Vi befaller er, försvinn och flyg långt från Guds kyrka, från själarna som Gud skapat i sin avbild och frälst i blodet från Guds lamm.",
       "name": "Exorcisten",
-      "other": "Exorcisten väljer en spelare. :reminder: Söv Exorcisten. Om Exorcisten valde Demonen, väck Demonen, visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Exorcistens rollbricka. Peka på Exorcisten."
+      "other": "Exorcisten väljer en spelare. :reminder: Söv Exorcisten. Om Exorcisten valde Demonen, väck Demonen, visa kortet *DU PÅVERKAS AV* och Exorcistens rollbricka. Peka på Exorcisten."
     },
     "fanggu": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Den första Utbölingen som dör så blir en ond Fang Gu och du dör istället. [+1 Utböling]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. Första Utbölingen som dör så blir en ond Fang Gu och du dör istället. [+1 Utböling]",
       "flavor": "Era murar och era vapen är blott drömmars rök.",
       "name": "Fang Gu",
       "other": "Fang Gu väljer en spelare. :reminder: Om hen valde en Utböling (endast en gång), byt ut Utbölingens bricka mot den andra Fang Gu-brickan. Söv Fang Gu. Väck den valda spelaren. Visa kortet *DU ÄR* och Fang Gu-brickan samt tummen ner. :reminder:"
