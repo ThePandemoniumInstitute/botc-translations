@@ -569,7 +569,7 @@
       "name": "Felegnidaren"
     },
     "fisherman": {
-      "ability": "En gång per spel, på dagen, kan du be Berättaren om tips för att hjälpa ditt lag att vinna.",
+      "ability": "En gång per spel, på dagen, kan du be berättaren om tips för att hjälpa ditt lag att vinna.",
       "flavor": "Jag har alltid älskat den här delen av älven. Ser du hur solskenet bildar en regnbåge från klostret till marknaden? Här fångade man alltid störst fisk. Och ju äldre jag blir, desto större var de.",
       "name": "Fiskaren"
     },
@@ -598,7 +598,7 @@
       "other": "Hasardspelaren väljer en spelare och en roll. :reminder:"
     },
     "gangster": {
-      "ability": "En gång om dagen kan du välja att döda en levande granne, om din andra levande granne går med på det.",
+      "ability": "En gång om dagen kan du välja att döda en levande granne, om din andra levande granne samtycker.",
       "flavor": "Fina skor. Det vore synd om du råkade ut för en olycka och de blev förstörda. Apropå det, fina manschettknappar.",
       "name": "Gangstern"
     },
@@ -608,7 +608,7 @@
       "name": "Trädgårdsmästaren"
     },
     "general": {
-      "ability": "Varje natt får du veta vilket lag som Berättaren tror har övertaget: de goda, de onda eller varken eller.",
+      "ability": "Varje natt får du veta vilket lag som berättaren tror har övertaget: de goda, de onda eller varken eller.",
       "first": "Ge en tumsignal.",
       "flavor": "Jag har inte tid för citat.",
       "name": "Generalen",
@@ -625,7 +625,7 @@
       "name": "Vätten"
     },
     "godfather": {
-      "ability": "I början får du veta vilka Utbölingar som är i spel. Om en Utböling dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
+      "ability": "I början vet du vilka Utbölingar som är i spel. Om en dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
       "first": "Visa rollbrickor för alla Utbölingar i spel.",
       "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut.",
       "name": "Gudfadern",
@@ -663,14 +663,14 @@
       "ability": "Varje natt* väljer du en levande spelare; om hen går med på det får du veta hens roll, men ni båda kanske dör.",
       "flavor": "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat. Jag är bra på att lyssna. Mycket, mycket bra.",
       "name": "Skökan",
-      "other": "Skökan pekar på en levande. Söv Skökan. Väck den valda spelaren, visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Skökans rollbricka. Den valda spelaren nickar eller skakar på huvudet. Om hen nickar så väck Skökan igen och visa den valda spelarens rollbricka. Bestäm sedan om båda ska dö eller inte."
+      "other": "Skökan pekar på en levande. Söv Skökan. Väck den valda spelaren, visa kortet *DU PÅVERKAS AV* och Skökans rollbricka. Den valda spelaren nickar eller skakar på huvudet. Om hen nickar så väck Skökan igen och visa den valda spelarens rollbricka. Bestäm sedan om båda ska dö eller inte."
     },
     "harpy": {
       "ability": "Varje natt väljer du 2 spelare; imorgon är den första galen om att den andra är ond, annars kanske en eller båda dör.",
-      "first": "Harpyan väljer två spelare. :reminder: :reminder: Söv Harpyan. Väck den första spelaren. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Harpyans rollbricka, och peka sedan på den andra spelaren.",
+      "first": "Harpyan väljer två spelare. :reminder: :reminder: Söv Harpyan. Väck den första spelaren. Visa kortet *DU PÅVERKAS AV* och Harpyans rollbricka, och peka sedan på den andra spelaren.",
       "flavor": "En dag så skön jag än ej såg, ej heller en skugga så grym över mig hänga.",
       "name": "Harpyan",
-      "other": "Harpyan väljer två spelare. :reminder: :reminder: Söv Harpyan. Väck den första spelaren. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Harpyans rollbricka, och peka sedan på den andra spelaren."
+      "other": "Harpyan väljer två spelare. :reminder: :reminder: Söv Harpyan. Väck den första spelaren. Visa kortet *DU PÅVERKAS AV* och Harpyans rollbricka, och peka sedan på den andra spelaren."
     },
     "hatter": {
       "ability": "Om du dör får Kumpanerna och Demonen välja nya Kumpan- och Demonroller att vara.",
@@ -679,7 +679,7 @@
       "other": "Om Hattmakaren dog idag eller inatt, väck Kumpanerna och Demonerna och låt dem välja nya roller."
     },
     "hellslibrarian": {
-      "ability": "Något dåligt kanske händer den som pratar när Berättaren har bett om tystnad.",
+      "ability": "Något dåligt kanske händer den som pratar när berättaren har bett om tystnad.",
       "flavor": "Schhhhh. Du måste vara tyst. Det är bäst att inte störa vikarien; den lär ha ett himla temperament.",
       "name": "Stränga Vikarien"
     },
@@ -694,7 +694,7 @@
       "name": "Eremiten"
     },
     "highpriestess": {
-      "ability": "Varje natt får du veta vilken spelare Berättaren tycker att du främst borde prata med.",
+      "ability": "Varje natt får du veta vilken spelare berättaren tycker att du främst borde prata med.",
       "first": "Peka på en spelare.",
       "flavor": "Bakom personligheten finns ett liv som bär personligheter som masker. Ibland tar livet av sig masken, och djupet står till svars för djupet.",
       "name": "Prästinnan",
