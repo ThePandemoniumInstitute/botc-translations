@@ -102,6 +102,28 @@
     "tab_new_game": "Nová hra",
     "to_day": "Přejít do dne",
     "to_night": "Přejít do noci",
-    "translation": "Vylepši tento překlad (chtějí mne nahradit ;-;)"
+    "translation": "Vylepši tento překlad (chtějí mne nahradit ;-;)",
+    "user_list": "Seznam uživatelů",
+    "vacate_seat": "Uvolnit místo",
+    "vote_history": "Historie hlasování"
+  },
+  "modals": {
+    "announcement": {
+      "input_session": "Název hry (dobrovolné)"
+    },
+    "dialogue": {
+      "button_evil": "Zlo vyhrálo",
+      "button_good": "Dobro vyhrálo",
+      "button_no": "Ne",
+      "button_yes": "Ano",
+      "close_timer": "Toto okno se samo zavře za {n} sekund",
+      "error": {
+        "add_player": "Nelze přidat hráče",
+        "add_storyteller": "Chyba při přidání Vypravěče",
+        "avatar": "Chyba při nahrávání avatara",
+        "avatar_generic": "Něco se při nahrávání tvého avatara pokazilo",
+        "avatar_pixel": "Tvůj obrázek je příliš veliký! Zmenší ho prosím na méně než 4000x4000 px a pokus se ho nahrát znovu."
+      }
+    }
   }
 }
