@@ -373,6 +373,18 @@
       "ability": "Kazananlar kaybeder ve kaybedenler kazanır, ölü bile olsan.",
       "name": "Kâfir"
     },
+    "hermit": {
+      "ability": "Bütün Yabancı yeteneklerine sahipsin. [-0 veya -1 Yabancı]",
+      "flavor": "Dünyanın kayıp ve unutulmuş yerlerinde, ruhun ışığı cezbeder.",
+      "name": "Abdal"
+    },
+    "highpriestess": {
+      "ability": "Her gece, Hikâyecinin en çok hangi oyuncuyla konuşman gerektiğini düşündüğünü öğrenirsin.",
+      "name": "Başrahibe"
+    },
+    "huntsman": {
+      "name": "Avcı"
+    },
     "imp": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
       "name": "İmp"
@@ -384,7 +396,11 @@
     },
     "investigator": {
       "ability": "2 oyuncudan 1'inin belli bir Yardakçı olduğunu bilerek başlarsın.",
+      "flavor": "Yürüyüşe çıkmak için güzel bir gece, değil mi Bay Morozov? Ya da... BARON Morozov mu demeliydim?",
       "name": "Dedektif"
+    },
+    "judge": {
+      "ability": "Oyunda bir kez, başka bir oyuncu aday gösterdiyse, oylanmakta olan idamın başarılı veya başarısız olarak sonuçlanmasını seçebilirsin."
     },
     "juggler": {
       "name": "Hokkabaz"
