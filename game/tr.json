@@ -196,6 +196,10 @@
       "ability": "Kaç tane komşu kötü oyuncu çifti olduğunu bilerek başlarsın.",
       "name": "Şef"
     },
+    "choirboy": {
+      "ability": "Şeytan Kralı öldürürse, hangi oyuncunun Şeytan olduğunu öğrenirsin. [+Kral]",
+      "name": "Korist Çocuk"
+    },
     "clockmaker": {
       "ability": "Şeytanın en yakın Yardakçısından kaç adım uzakta olduğunu bilerek başlarsın.",
       "name": "Saatçi"
@@ -405,9 +409,20 @@
     "juggler": {
       "name": "Hokkabaz"
     },
+    "kazali": {
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Hangi oyuncunun hangi Yardakçı olduğunu sen seçersin. -? ila +? Yabancı]"
+    },
+    "king": {
+      "name": "Kral"
+    },
     "klutz": {
       "flavor": "Eyvah.",
       "name": "Sakar"
+    },
+    "knight": {
+      "ability": "Şeytan olmayan 2 oyuncuyu bilerek başlarsın.",
+      "flavor": "İnsan yalan söylediğinde, dünyanın birazını katleder.",
+      "name": "Şövalye"
     },
     "librarian": {
       "ability": "2 oyuncudan 1'inin belli bir Yabancı olduğunu bilerek başlarsın. (Ya da oyunda hiç olmadığını.)",
