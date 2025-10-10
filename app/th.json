@@ -1,40 +1,84 @@
 {
   "common": {
+    "account-levels": {
+      "free": "ฟรี",
+      "special-moderator": "ผู้ควบคุม"
+    },
     "button_cancel": "ยกเลิก",
     "button_close": "ปิด",
-    "button_confirm": "ตกลง",
+    "button_confirm": "ยืนยัน",
     "button_continue": "ดำเนินการต่อ",
     "button_logout": "ออกจากระบบ",
     "button_search": "ค้นหา",
     "button_send": "ส่ง",
+    "cookie_policy": "นโยบายคุกกี้",
+    "privacy_policy": "นโยบายความเป็นส่วนตัว",
     "session-tags": {
+      "cameras": {
+        "label": "กล้อง"
+      },
       "difficulty": {
-        "label": "ความยาก"
+        "label": "ระดับความยาก"
       },
       "grimoire": {
-        "label": "การเข้าถึง Grimoire",
-        "title": "ผู้ชมสามารถเข้าถึง Grimoire ได้หรือไม่"
+        "label": "การเข้าถึงคัมภีร์",
+        "title": "ผู้ชมสามารถเข้าถึงคัมภีร์ได้หรือไม่"
       },
       "travellers": {
-        "label": "นักท่องเที่ยว",
-        "title": "อนุญาตให้มีนักท่องเที่ยวในเกม"
+        "label": "นักพเนจร",
+        "title": "อนุญาตให้มีนักพเนจรในเกม"
       }
     }
   },
   "grimoire": {
     "abilities": {
-      "grimoire": "แสดง Grimoire"
+      "ghost-votes": "คืนโทเคนผี",
+      "grimoire": "แสดงคัมภีร์"
     },
-    "fabled": "ตัวละครพิเศษ|ตัวละครพิเศษ",
-    "storyteller": "Storyteller {0}"
+    "fabled": "ตัวละครนิทาน|ตัวละครนิทาน",
+    "storyteller": "นักเล่าเรื่อง {0}",
+    "storytellers": "นักเล่าเรื่อง"
   },
   "main-menu": {
-    "clear_grim": "ล้าง Grimoire",
-    "fabled": "เพิ่มตัวละครพิเศษ",
-    "night_info_text": "Storyteller ปลุกคุณในคืนนี้!",
+    "clear_grim": "ล้างคัมภีร์",
+    "fabled": "เพิ่มตัวละครนิทาน",
+    "night_info_text": "นักเล่าเรื่องปลุกคุณในคืนนี้!",
     "prompt_vacate_title": "ออกจากที่นั่ง",
-    "show_grim": "แสดง Grimoire",
-    "show_town": "แสดง Town Square",
-    "storyteller_remove": "ยกเลิกการเป็น Storyteller"
+    "show_grim": "แสดงคัมภีร์",
+    "show_town": "แสดงลานกลางเมือง",
+    "storyteller_remove": "ยกเลิกการเป็นนักเล่าเรื่อง"
+  },
+  "modals": {
+    "signal": {
+      "grimoire": "คัมภีร์"
+    },
+    "votehistory": {
+      "nominator": "ผู้เสนอชื่อ",
+      "nominee": "ผู้ถูกเสนอชื่อ",
+      "phase": "ช่วง",
+      "title": "ประวัติการโหวต",
+      "voters": "ผู้โหวต",
+      "votes": "โหวต"
+    }
+  },
+  "overlays": {
+    "attention": {
+      "attention": "โปรดทราบ!",
+      "return": "โปรดกลับมาที่ลานกลางเมืองตอนนี้!"
+    },
+    "vote": {
+      "accusation": "ข้อกล่าวหา"
+    }
+  },
+  "pages": {
+    "lobby": {
+      "fabled": "ตัวละครนิทาน",
+      "storyteller": "นักเล่าเรื่อง"
+    }
+  },
+  "tabs": {
+    "chat": {
+      "night": "ย่างสู่ยามวิกาล..."
+    }
   }
 }
