@@ -930,6 +930,18 @@
       "flavor": "Desconfía de todos aquellos que tengan un impulso poderoso para castigar.",
       "name": "Pacifista"
     },
+    "po": {
+      "flavor": "¿Te gustaría una flor? Estoy tan solo.",
+      "name": "Po",
+      "other": "El Po puede escoger un jugador O escoge 3 jugadores si no escogió a nadie anoche. :reminder: o :reminder: :reminder: :reminder:"
+    },
+    "poisoner": {
+      "ability": "Cada noche, escoge un jugador: él está envenenado esta noche y mañana por el día.",
+      "first": "El Envenenador escoge un jugador. :reminder:",
+      "flavor": "Añade el compuesto Alfa al compuesto Beta... ¡NO DEMASIADO!",
+      "name": "Envenenador",
+      "other": "El Envenenador escoge un jugador. :reminder:"
+    },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
     },
