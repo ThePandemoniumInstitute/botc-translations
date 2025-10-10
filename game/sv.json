@@ -245,7 +245,7 @@
       "other": "Akrobaten väljer en spelare. :reminder:"
     },
     "alchemist": {
-      "ability": "Du har en Kumpanförmåga. När du använder den kan Berättaren uppmana dig att välja annorlunda.",
+      "ability": "Du har en Kumpanförmåga. När du använder den kan berättaren uppmana dig att välja annorlunda.",
       "first": "Visa *DU ÄR* och en Kumpans rollbricka.",
       "flavor": "Beträd jordens inre. Genom rektifiering finner du den dolda stenen. Ovan guldet vilar det röda. Kether i Malkuth.",
       "name": "Alkemisten"
@@ -286,13 +286,13 @@
       "name": "Konstnären"
     },
     "assassin": {
-      "ability": "En gång per spel, på natten*, kan du välja en spelare; hen dör, även om hen av någon anledning skulle överleva.",
+      "ability": "En gång per spel, på natten*, kan du välja en spelare; hen dör, även om hen inte kunde dö.",
       "flavor": "…",
       "name": "Lönnmördaren",
       "other": "Lönnmördaren kan välja en spelare. :reminder: :reminder:"
     },
     "atheist": {
-      "ability": "Berättaren kan bryta mot reglerna och måste avrättas för att de goda ska vinna, även om du är död. [Inga onda roller]",
+      "ability": "Berättaren kan bryta mot reglerna, och om hen avrättas vinner goda laget, även om du är död. [Inga onda roller]",
       "flavor": "Nu lägger vi ifrån oss onödigt gissande och larvig paranoia. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer.",
       "name": "Ateisten"
     },
@@ -313,10 +313,10 @@
       "ability": "Om du dog idag eller inatt får Demonen välja 2 spelare (inte en annan Demon) som byter roll.",
       "flavor": "Visste du att barberare och kirurg en gång var samma yrke? Inte? Nu vet du.",
       "name": "Barberaren",
-      "other": "Om Barberaren dog idag eller inatt, visa Demonen kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Barberarens rollbricka. Om Demonen väljer 2 spelare, väck dem en i taget. Visa kortet *DU ÄR* och deras nya rollbricka."
+      "other": "Om Barberaren dog idag eller inatt, visa Demonen kortet *DU PÅVERKAS AV* och Barberarens rollbricka. Om Demonen väljer 2 spelare, väck dem en i taget. Visa kortet *DU ÄR* och deras nya rollbricka."
     },
     "barista": {
-      "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter och får sann info, eller 2) kan använda sin förmåga två gånger. Hen får veta vilket.",
+      "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter & får sann info, eller 2) dubblerar sin förmåga. Hen får veta vilket.",
       "first": "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk/nykter/sann info eller aktivera förmågan två gånger).",
       "flavor": "Kaffe utan grädde? Jag är hemskt ledsen, men grädden är slut – går det bra utan mjölk istället?",
       "name": "Baristan",
