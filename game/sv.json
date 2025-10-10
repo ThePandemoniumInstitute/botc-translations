@@ -1,7 +1,7 @@
 {
   "editions": {
     "bmr": {
-      "description": "… är ett dödens spektakel. Demonerna dödar flera gånger per natt, och Kumpanerna kan också hjälpa till. Goda spelare kan ta stora risker för att få pålitlig information, men kan råka döda sina vänner på kuppen. Lyckligtvis finns många sätt att hålla spelare vid liv långt efter att deras tid är inne. Men om det goda laget inte kan avgöra vilka Kumpaner och Demoner som är i spel är undergången nära.",
+      "description": "… är ett dödens spektakel. Demonerna dödar flera gånger per natt, och Kumpanerna kan också hjälpa till. Goda spelare kan ta stora risker för att få pålitlig information, men kan råka döda sina vänner på kuppen. Lyckligtvis finns många sätt att hålla spelare vid liv långt efter att deras tid är inne. Men om det goda laget inte kan avgöra vilka Kumpaner och Demoner som är i spel är deras undergång så gott som garanterad.",
       "name": "Bad Moon Rising"
     },
     "custom": {
@@ -12,7 +12,7 @@
       "name": "Hembryggt"
     },
     "snv": {
-      "description": "… är den galnaste av de tre utgåvorna i baspaketet. Goda karaktärer får fantastisk information varenda natt, men det onda laget är mycket varierat och hotfullt och kan sprida enorm förvirring. Roller kan byta lag, spelare kan byta roller, och till och med de onda kan ha svårt att hålla koll på varandra. Här möter vi också för första gången galenskap, som sätter ytterligare käppar i hjulen.",
+      "description": "… är den galnaste av de tre utgåvorna i baspaketet. Goda roller får fantastisk information varenda natt, men det onda laget har en bred arsenal av hotfulla förmågor och kan sprida enorm förvirring. Roller kan byta lag, spelare kan byta roller, och till och med de onda kan ha svårt att hålla koll på varandra. Här möter vi också för första gången galenskap, som sätter ytterligare käppar i hjulen.",
       "name": "Sects & Violets"
     },
     "tb": {
