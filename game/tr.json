@@ -410,7 +410,10 @@
       "name": "Hokkabaz"
     },
     "kazali": {
-      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Hangi oyuncunun hangi Yardakçı olduğunu sen seçersin. -? ila +? Yabancı]"
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Hangi oyuncunun hangi Yardakçı olduğunu sen seçersin. -? ila +? Yabancı]",
+      "first": "Kazaliyi uyandır, Yardakçılarını seçmesine izin ver.",
+      "name": "Kazali",
+      "other": "Kazali bir oyuncu seçer. :reminder: "
     },
     "king": {
       "name": "Kral"
