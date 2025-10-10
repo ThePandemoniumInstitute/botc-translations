@@ -173,7 +173,7 @@
         "avatar": "Erro ao fazer upload do avatar",
         "avatar_generic": "Algo correu mal ao tentar fazer upload do avatar.",
         "avatar_pixel": "A tua imagem era demasiado grande. Por favor diminui o tamanho para menos de 4000x4000 antes de fazer upload novamente.",
-        "avatar_size": "O teu ficheiro era demasiado grande. Por favor tenta novamente com uma imagem com menos de 5 MB de tamanho.",
+        "avatar_size": "O teu ficheiro era demasiado grande. Por favor tente novamente com uma imagem com menos de 5 MB de tamanho.",
         "avatar_type": "O teu ficheiro não foi reconhecido como uma imagem.",
         "bluffs": "Erro ao actualizar bluffs",
         "chat2_text": "O servidor do chat parece estar offline",
