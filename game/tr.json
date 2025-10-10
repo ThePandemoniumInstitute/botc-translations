@@ -274,6 +274,20 @@
       "ability": "Gece öldüğünde, hayatta olan iyi bir oyuncu Çiftçiye dönüşür.",
       "name": "Çiftçi"
     },
+    "ferryman": {
+      "name": "Kayıkçı"
+    },
+    "fibbin": {
+      "flavor": "Hihhihhii. Hih. Hih. Hii.",
+      "name": "Mavalcı"
+    },
+    "fiddler": {
+      "name": "Kemancı"
+    },
+    "fisherman": {
+      "ability": "Oyunda bir kez, gün içinde, Hikâyeciyi ziyaret edip takımının kazanmasına yardımcı olacak tavsiye al.",
+      "name": "Balıkçı"
+    },
     "flowergirl": {
       "ability": "Her gece*, bugün bir Şeytanın oy kullanıp kullanmadığını öğrenirsin.",
       "other": "Olumlu ya da olumsuz kafa salla."
@@ -283,7 +297,10 @@
       "name": "Soytarı"
     },
     "fortuneteller": {
-      "name": "Falcı"
+      "first": "Falcı 2 oyuncu seçer. Bir tanesi Şeytansa (veya *YANLIŞ ALARM*sa) kafanla onayla.",
+      "flavor": "Ruhunda büyük kötülük seziyorum! Ama... parfümün de olabilir. Mürvere alerjim var da.",
+      "name": "Falcı",
+      "other": "Falcı 2 oyuncu seçer. Bir tanesi Şeytansa (veya *YANLIŞ ALARM*sa) kafanla onayla."
     },
     "gambler": {
       "ability": "Her gece*, bir oyuncu seç ve karakterini tahmin et: eğer tahminin yanlışsa ölürsün.",
@@ -291,14 +308,43 @@
       "name": "Kumarbaz",
       "other": "Kumarbaz bir oyuncu ve bir karakter seçer. :reminder:"
     },
+    "gangster": {
+      "flavor": "Ayakkabıların güzelmiş. Ufak bir kaza geçirsen de mahvolsalar çok yazık olurdu. Şimdi sen söyleyince fark ettim de, kol düğmelerin de güzelmiş.",
+      "name": "Gangster"
+    },
+    "gardener": {
+      "ability": "1 veya daha fazla oyuncunun karakterini Hikâyeci tayin eder.",
+      "name": "Bahçıvan"
+    },
+    "general": {
+      "flavor": "Alıntı verecek vaktim yok.",
+      "name": "General"
+    },
+    "gnome": {
+      "ability": "Bütün oyuncular senin tarafındaki bir oyuncuyu bilerek başlar. Onu aday gösteren kişileri öldürmeyi seçebilirsin.",
+      "name": "Cüce"
+    },
+    "goblin": {
+      "flavor": "Goblinleri aşağılamak istemezsiniz. Gerçekten de hiç istemezsiniz. Tamamen farklı bir mevzuya gelirsek... bir dilim daha pasta alabilir miyim?",
+      "name": "Goblin"
+    },
     "godfather": {
       "first": "Oyundaki bütün Yabancıların karakter pullarını göster.",
       "name": "Baba"
+    },
+    "golem": {
+      "ability": "Oyunda sadece bir kez aday gösterebilirsin. Gösterdiğinde, aday Şeytan değilse ölür.",
+      "flavor": "Golem yardım? Golem vur! Golem yardım.",
+      "name": "Golem"
     },
     "goon": {
       "ability": "Her gece, yeteneğiyle seni seçen ilk oyuncu gün batımına kadar sarhoş olur. Onun tarafına geçersin.",
       "flavor": "Evet patron. Herife meseleyi bi güzel anlattım. Tekrar anlatam istemiyo. Yok patron, doktor moktor gerek yok, bıçak yarası sadece. Yarına geçer.",
       "name": "Gangster"
+    },
+    "gossip": {
+      "flavor": "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla.",
+      "name": "Dedikoducu"
     },
     "grandmother": {
       "ability": "İyi bir oyuncuyu ve onun karakterini bilerek başlarsın. Şeytan onu öldürürse, sen de ölürsün.",
@@ -307,6 +353,25 @@
     "gunslinger": {
       "ability": "Her gün, ilk oylama sayıldıktan sonra, oy kullanmış bir oyuncuyu seçebilirsin: o kişi ölür.",
       "name": "Silahşör"
+    },
+    "harlot": {
+      "flavor": "Enchanté, Denizci. Dertlerine kulak verecek birine ihtiyacın var gibi duruyorsun. Ben iyi bir dinleyiciyimdir. Hem de çok iyi.",
+      "name": "Fahişe"
+    },
+    "harpy": {
+      "name": "Harpia"
+    },
+    "hatter": {
+      "flavor": "Bir Şapka. Kii Şapka. Üç Şapka. Güç Şapka. Döt Şapka. Deş Şapka. Altı Şapka. Aldı Şapka.",
+      "name": "Şapkacı"
+    },
+    "hellslibrarian": {
+      "ability": "Hikâyeci sessizlik istediğinde konuşanlara kötü bir şey olabilir.",
+      "name": "Cehennem Kütüphanecisi"
+    },
+    "heretic": {
+      "ability": "Kazananlar kaybeder ve kaybedenler kazanır, ölü bile olsan.",
+      "name": "Kâfir"
     },
     "imp": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
