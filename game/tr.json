@@ -393,6 +393,7 @@
     },
     "imp": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
+      "flavor": "Zekâmızı keskin, kılıçlarımızı ise daha da keskin tutmak zorundayız. Kötülük aramızda yürüyor, ve biz iyi ve basit insanları yok edip güzel kasabamızı perişan edene kadar durmayacak. Hiç kimseye güvenmeyin. Ama illa birisine güvenecekseniz de, bana güvenin.",
       "name": "İmp"
     },
     "innkeeper": {
