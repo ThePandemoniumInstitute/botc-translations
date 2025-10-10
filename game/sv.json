@@ -125,7 +125,7 @@
     "magician-widow": "När Änkan ser grimoaren så tas Demonens och Magikerns rollbrickor bort.",
     "magician-wraith": "Efter varje avrättning får den levande Magikern öppet gissa vilken levande spelare som är Vålnaden. Om hen gissar rätt måste Demonen välja Vålnaden inatt.",
     "marionette-mathematician": "Matematikern kanske får veta om Marionettens förmåga gav falsk info eller inte fungerade korrekt.",
-    "marionette-plaguedoctor": "Om Berättaren skulle få Marionettens förmåga så blir en av Demonens goda grannar till Marionetten.",
+    "marionette-plaguedoctor": "Om berättaren skulle få Marionettens förmåga så blir en av Demonens goda grannar till Marionetten.",
     "marionette-summoner": "Om det skulle vara en Marionett i spel så läggs den till efter Demonen och måste börja som Demonens granne.",
     "mastermind-vigormortis": "En Konspiratör som har sin förmåga behåller förmågan om Vigormortis dör.",
     "mayor-riot": "Borgmästaren kan välja att avsluta kravallerna. Om hen gör det när bara 1 Kravall lever så vinner goda, annars vinner onda.",
@@ -251,7 +251,7 @@
       "name": "Alkemisten"
     },
     "alhadikhia": {
-      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka du valt); de väljer tyst att leva eller dö. Om alla lever dör alla tre.",
+      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö. Om alla lever dör alla tre.",
       "flavor": "Alsukut min dhahab.",
       "name": "al Hadikhia",
       "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck spelaren märkt *1* och säg ”al Hadikhia har valt” följt av spelarens namn, sedan ”Väljer du att leva?” Spelaren nickar eller skakar på huvudet. Söv spelaren och lägg till eller ta bort svepningen enligt hens val. Upprepa för spelarna märka *2* och *3*. Om alla tre lever efter detta, placera en svepning på alla tre."
@@ -333,12 +333,12 @@
       "name": "Tiggaren"
     },
     "bishop": {
-      "ability": "Bara Berättaren kan nominera. Minst 1 spelare på motsatt lag måste nomineras varje dag.",
+      "ability": "Bara berättaren kan nominera. Minst 1 motspelare måste nomineras varje dag.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Biskopen"
     },
     "boffin": {
-      "ability": "Demonen (även om hen är full eller förgiftad) har en god rolls förmåga (inte en som är i spel). Ni vet båda vilken.",
+      "ability": "Demonen (även om hen är full/förgiftad) har en god rolls förmåga (inte en som är i spel). Ni vet båda vilken.",
       "first": "Väck Labbråttan och Demonen. Visa dem den goda rollens bricka. Söv Labbråttan och Demonen.",
       "flavor": "Stjärnväte, massivt, inert; kol, syre, neon, allt är förstört. Molekylärt kaos, entropi, skapar nya kosmiska fenomen, återfödsel ur atomiskt kaos, tät, kollapsande materia. Allt i en liten, liten flaska.",
       "name": "Labbråttan"
@@ -360,9 +360,9 @@
       "name": "Hembrännaren"
     },
     "bountyhunter": {
-      "ability": "I början får du veta 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]",
+      "ability": "I början vet du 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]",
       "first": "Peka på spelaren markerad *VISAD*.",
-      "flavor": "Ensam strövar jag på dessa gator, som stinker av korruption. Stanken nästlar sig in i näsan som bränner av avsmak. Och förväntan. Denna erbarmliga plats blir sjukare för var natt som går. Och jag… jag är boten.",
+      "flavor": "Ensam strövar jag på dessa gator, belagda med korruption. Dess stank nästlar sig in i näsan, som bränner av avsmak. Och förväntan. Denna erbarmliga plats blir sjukare för var natt som går. Och jag… jag är boten.",
       "name": "Prisjägaren",
       "other": "Om spelaren märkt *VISAD* dog idag eller inatt, peka på en ny *VISAD* spelare."
     },
@@ -398,10 +398,10 @@
     },
     "cerenovus": {
       "ability": "Varje natt väljer du en spelare och en god roll; hen är ”galen” om att hen är den rollen imorgon, annars kanske hen avrättas.",
-      "first": "Cerenovus väljer en spelare och en roll. :reminder: Söv Cerenovus. Väck den valda spelaren. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG*, Cerenovus bricka och sedan den valda rollens bricka.",
+      "first": "Cerenovus väljer en spelare och en roll. :reminder: Söv Cerenovus. Väck den valda spelaren. Visa kortet *DU PÅVERKAS AV*, Cerenovus bricka och sedan den valda rollens bricka.",
       "flavor": "Verkligheten är bara en uppfattning. Närmare bestämt min uppfattning.",
       "name": "Cerenovus",
-      "other": "Cerenovus väljer en spelare och en roll. :reminder: Söv Cerenovus. Väck den valda spelaren. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG*, Cerenovus bricka och sedan den valda rollens bricka."
+      "other": "Cerenovus väljer en spelare och en roll. :reminder: Söv Cerenovus. Väck den valda spelaren. Visa kortet *DU PÅVERKAS AV*, Cerenovus bricka och sedan den valda rollens bricka."
     },
     "chambermaid": {
       "ability": "Varje natt väljer du 2 levande spelare (inte dig själv); du får veta hur många som vaknade inatt p.g.a. sin förmåga.",
@@ -411,7 +411,7 @@
       "other": "Husan väljer två levande spelare. Ge en fingersignal."
     },
     "chef": {
-      "ability": "I början får du veta hur många par onda spelare det finns.",
+      "ability": "I början vet du hur många par onda spelare det finns.",
       "first": "Ge en fingersignal.",
       "flavor": "Aftonens bokningar är allt märkliga. Aldrig tidigare har väl fru Löwensporre hållit sällskap med den odågan från Gamla brinken. Men inatt har de bokat bord för två. Besynnerligt.",
       "name": "Kocken"
@@ -423,7 +423,7 @@
       "other": "Om Demonen dödade Kungen så peka på Demonen."
     },
     "clockmaker": {
-      "ability": "I början får du veta hur många steg det är från Demonen till närmsta Kumpan.",
+      "ability": "I början vet du hur många steg det är från Demonen till närmsta Kumpan.",
       "first": "Ge en fingersignal.",
       "flavor": "Stör mig inte. Tickandet måste fortsätta, för cirkeln symboliserar livet och innehåller alltet – alla svar – i sitt gudomliga maskineri. Jag måste arbeta.",
       "name": "Urmakaren"
