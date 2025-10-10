@@ -827,7 +827,7 @@
       "name": "Marionetten"
     },
     "mastermind": {
-      "ability": "Om Demonen dör av avrättning (så spelet skulle ta slut) pågår spelet 1 dag till. Om en spelare avrättas då förlorar hens lag.",
+      "ability": "Om Demonen dör av avrättning (så spelet slutar) pågår spelet 1 dag till. Om en spelare avrättas då förlorar hens lag.",
       "flavor": "Monstrets tentakler har spikats upp på kyrkporten. Mödrar och barn dansar på gatorna… Utmärkt. Allting går precis enligt plan.",
       "name": "Konspiratören"
     },
@@ -849,7 +849,7 @@
       "name": "Borgmästaren"
     },
     "mezepheles": {
-      "ability": "I början får du veta ett hemligt ord. Den första goda spelaren som säger ordet blir ond den natten.",
+      "ability": "I början vet du ett hemligt ord. Den första goda spelaren som säger ordet blir ond den natten.",
       "first": "Visa ordet.",
       "flavor": "Pass på, min vän! Du skall förnimma mer sinnesfröjd i denna timma än på ett år av vanligt tråkigt slag.",
       "name": "Mezefeles",
@@ -877,7 +877,7 @@
       "other": "Om Månflickan valde en god spelare så dör den valda spelaren. :reminder:"
     },
     "mutant": {
-      "ability": "Om du är ”galen” om att du är Utböling kanske du blir avrättad.",
+      "ability": "Om du är ”galen” om att du är en Utböling kanske du blir avrättad.",
       "flavor": "Jag är inget monster! Jag är en människa! Ha barmhärtighet!",
       "name": "Mutanten"
     },
@@ -889,7 +889,7 @@
       "other": "Nattvakten kan välja en spelare. :reminder: Söv nattvakten. Väck den utpekade, visa kortet *DEN HÄR SPELAREN ÄR* och Nattvaktens rollbricka, och peka sedan på Nattvakten."
     },
     "noble": {
-      "ability": "I början får du veta 3 spelare, varav exakt 1 är ond.",
+      "ability": "I början vet du 3 spelare, varav exakt 1 är ond.",
       "first": "Peka på alla tre spelare märkta *VET*.",
       "flavor": "Sarkasm är förvisso den lägsta formen av humor. Men för att bemöta er kritik, min gode herre, är det alltjämt en form av humor.",
       "name": "Adelsmannen"
@@ -902,9 +902,9 @@
     },
     "ogre": {
       "ability": "Din första natt väljer du en spelare (inte dig själv); du är på hens lag (du vet inte vilket), även om du är full eller förgiftad.",
-      "first": "Trollet pekar på en spelare. :reminder:",
+      "first": "Resen pekar på en spelare. :reminder:",
       "flavor": "\\<grymt\\>\\<flin\\>\\</grymt\\>",
-      "name": "Trollet"
+      "name": "Resen"
     },
     "ojo": {
       "ability": "Varje natt väljer du en roll*; hen dör. Om rollen inte är i spel väljer Berättaren vem som dör.",
