@@ -51,6 +51,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Rozdat role",
+      "ghost-votes": "Navrátit duchovi hlas",
       "grimoire": "Odkrýt grimoár",
       "pointing": "Vyber hráče"
     },
