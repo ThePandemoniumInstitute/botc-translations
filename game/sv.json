@@ -938,13 +938,13 @@
       "other": "Filosofen kan välja en roll. Byt eventuellt ut hens rollbricka. :reminder:"
     },
     "pithag": {
-      "ability": "Varje natt* väljer du en spelare och en roll; om rollen inte är i spel blir spelaren den. Om en Demon skapas dör spelare godtyckligt.",
+      "ability": "Varje natt* väljer du en spelare och en roll hen blir (om den inte är i spel). Om en Demon skapas dör spelare godtyckligt.",
       "flavor": "Kringom kitteln gå med flit; innanmätet kasta dit. Padda, du, som under sten, dar och nätter trettien, sov och sög av gift dig stinn – gå du först i kitteln in!",
       "name": "Trollpackan",
       "other": "Trollpackan väljer en spelare och en roll. Om den valda rollen inte är i spel: Söv Trollpackan. Väck den valda spelaren. Visa kortet *DU ÄR* och den nya rollbrickan."
     },
     "pixie": {
-      "ability": "I början får du veta 1 Bybo som är i spel. Om du är galen om att du är den rollen får du dess förmåga när den dör.",
+      "ability": "I början vet du 1 Bybo som är i spel. Om du är galen om att du är den rollen får du dess förmåga när den dör.",
       "first": "Visa rollbrickan för den Bybo som är märkt *GALEN*.",
       "flavor": "Bro, bro, breja, stockar och stenar, barn går mellan grenar. Vem ska älvan vara? Svara! Folk hugger skogen, så den hugger barn – vem ska jag ta?",
       "name": "Älvan"
