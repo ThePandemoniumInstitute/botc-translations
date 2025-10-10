@@ -122,7 +122,9 @@
         "add_storyteller": "Chyba při přidání Vypravěče",
         "avatar": "Chyba při nahrávání avatara",
         "avatar_generic": "Něco se při nahrávání tvého avatara pokazilo",
-        "avatar_pixel": "Tvůj obrázek je příliš veliký! Zmenší ho prosím na méně než 4000x4000 px a pokus se ho nahrát znovu."
+        "avatar_pixel": "Tvůj obrázek je příliš veliký! Zmenší ho prosím na méně než 4000x4000 px a pokus se ho nahrát znovu.",
+        "avatar_size": "Tento soubor je příliš veliký! Zkus to znovu se souborem menším než 5 MB",
+        "avatar_type": "Tento soubor nebyl rozpoznán jako obrázek"
       }
     }
   }
