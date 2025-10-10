@@ -133,6 +133,7 @@
     },
     "users": {
       "grim_access": "גישה לגרימואר",
+      "group_sub": "בעל מנוי קבוצתי",
       "new_user": "משתמש חדש",
       "official_mod": "מנהל רשמי",
       "type_player": "שחקן|{n} שחקנים",
@@ -172,7 +173,8 @@
   "overlays": {
     "firstnight": {
       "bluffs": "בחר את 3 ה\"בלופים של השד\" כדי לשתף עם השד.",
-      "button_begin": "התחל את שלב הלילה הראשון"
+      "button_begin": "התחל את שלב הלילה הראשון",
+      "gardener_button": "שלח את הדמויות"
     }
   }
 }
