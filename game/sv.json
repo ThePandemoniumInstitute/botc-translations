@@ -547,7 +547,7 @@
       "other": "Om Bonden dog inatt, väck en god spelare. Visa kortet *DU ÄR* och en Bonde-bricka. Ersätt spelarens förra bricka med Bondens bricka."
     },
     "fearmonger": {
-      "ability": "Varje natt väljer du en spelare; om du nominerar och avrättar hen förlorar hens lag. Alla får veta när du väljer en ny spelare.",
+      "ability": "Varje natt väljer du en spelare; om du nominerar och avrättar hen så förlorar hens lag. Alla vet om du väljer en ny spelare.",
       "first": "Skräckspridaren väljer en spelare. :reminder: Meddela att ”Skräckspridaren har valt en spelare”.",
       "flavor": "Om du stirrar för länge in i avgrunden, kommer avgrunden också att stirra in i dig.",
       "name": "Skräckspridaren",
@@ -603,7 +603,7 @@
       "name": "Gangstern"
     },
     "gardener": {
-      "ability": "Berättaren bestämmer 1 eller flera spelares karaktär.",
+      "ability": "Berättaren bestämmer 1 eller flera spelares roll.",
       "flavor": "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen.",
       "name": "Trädgårdsmästaren"
     },
@@ -790,7 +790,7 @@
     "lleech": {
       "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död.",
       "first": "Lleech väljer en spelare. :reminder:",
-      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjärn- jag menar paj! Ja. Mumsig paj. Det var det jag skulle säga.",
+      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjärn– jag menar paj! Ja. Mumsig paj. Det var det jag skulle säga.",
       "name": "Lleech",
       "other": "Lleech väljer en spelare. :reminder:"
     },
