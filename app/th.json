@@ -145,6 +145,8 @@
         "remove_player": "ไม่สามารถเอาผู้เล่นออกได้",
         "remove_storyteller": "เกิดข้อผิดพลาดในการลบ Storyteller",
         "request_grim": "ไม่สามารถขอดู Grimoire ได้",
+        "running": "เกิดข้อผิดพลาดระหว่างเปลี่ยนแปลงสถานะ",
+        "server_change": "ไม่สามารถเปลี่ยนเซิร์ฟเวอร์แชทได้",
         "unauthorized": "ไม่ได้รับอนุญาต"
       }
     },
