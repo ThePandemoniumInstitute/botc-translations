@@ -257,12 +257,12 @@
       "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck spelaren märkt *1* och säg ”al Hadikhia har valt” följt av spelarens namn, sedan ”Väljer du att leva?” Spelaren nickar eller skakar på huvudet. Söv spelaren och lägg till eller ta bort svepningen enligt hens val. Upprepa för spelarna märka *2* och *3*. Om alla tre lever efter detta, placera en svepning på alla tre."
     },
     "alsaahir": {
-      "ability": "Varje dag kan du gissa vilka spelare som är Kumpan(er) och Demon(er). Om du har rätt vinner de goda.",
+      "ability": "Varje dag kan du öppet gissa vilka spelare som är Kumpan(er) och Demon(er). Om du har rätt vinner de goda.",
       "flavor": "Jag är här på grund av er, och ni är här på grund av mig.",
       "name": "al Saahir"
     },
     "amnesiac": {
-      "ability": "Du vet inte vad din förmåga är. Varje dag kan du gissa privat för Berättaren; du får veta hur nära du är.",
+      "ability": "Du vet inte vad din förmåga är. Varje dag kan du gissa privat för berättaren; du får veta hur nära du är.",
       "first": "Utför eventuellt Virrpannans förmåga.",
       "flavor": "Vänta. Va. Vem? Jaha. Vänta, va?",
       "name": "Virrpannan",
