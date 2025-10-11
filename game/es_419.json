@@ -67,7 +67,7 @@
     "drunk-mathematician": "El Matemático quizás aprenda si la habilidad del Borracho resultó en información falsa, o si no logró funcionar adecuadamente.",
     "engineer-legion": "Si la Legión es creada, todos los jugadores malvados se convierten en Legión. Si la Legión está en juego, el Ingeniero empieza sabiendo esto, pero no tiene ninguna habilidad.",
     "engineer-summoner": "Si el Invocador vivo sale del juego, el Narrador posee la habilidad del Invocador.",
-    "eviltwin-plaguedoctor": "Si el Narrador fuera a ganar la habilidad del Gemelo, un jugador se convierte en el Gemelo.",
+    "eviltwin-plaguedoctor": "Si el Narrador fuera a ganar la habilidad del Gemelo Malvado, un jugador se convierte en el Gemelo Malvado.",
     "exorcist-leviathan": "Si el Leviatán nomina y ejecuta al jugador seleccionado por el Exorcista, los buenos ganan.",
     "exorcist-riot": "Si el Disturbio nomina y ejecuta al jugador seleccionado por el Exorcista, los buenos ganan.",
     "exorcist-yaggababble": "Si el Exorcista escoge al Yaggablabla, el Yaggablabla no mata esta noche.",
@@ -246,7 +246,7 @@
     },
     "alchemist": {
       "ability": "Posees una habilidad de Secuaz. Cuando la uses, el Narrador puede pedirte que escojas diferente.",
-      "first": "Muestra la ficha *TÚ ERES* y la ficha de rol de un Secuaz.",
+      "first": "Muéstrale la ficha *TÚ ERES* y la ficha de rol de un Secuaz.",
       "flavor": "Viaja al interior de la Tierra. Por rectificación, encontraréis la piedra oculta. Por encima del oro, yacerá el rojo. Kether in Malkuth.",
       "name": "Alquimista"
     },
@@ -297,11 +297,11 @@
       "name": "Ateo"
     },
     "balloonist": {
-      "ability": "Cada noche, aprendes un jugador de un tipo de rol diferente al de la noche anterior. [+0 or+1 Extranjero]",
-      "first": "Muestra cualquier jugador. :reminder:",
+      "ability": "Cada noche, aprendes un jugador de un tipo de rol diferente al de la noche anterior. [+0 or +1 Extranjero]",
+      "first": "Muéstrale cualquier jugador. :reminder:",
       "flavor": "¡Más calor! ¡Alto! ¡Más alto! ¡Più alto! Ahhh…es tan hermoso desde esta altura, ¿no te parece? ¿Puedes ver a los niños pescando en el río, debajo del sauce? ¿Puedes ver el destello del sol en los postes de la carpa de circo? ¿Qué es esto? ¿Un anciano, solo, desmayado en los viñedos? ¡Menos calor! ¡Bajo! ¡Más bajo! ¡Vai più in basso!",
       "name": "Aeronauta",
-      "other": "Muestra un jugador con un tipo de rol diferente al anterior. :reminder:"
+      "other": "Muéstrale un jugador con un tipo de rol diferente al anterior. :reminder:"
     },
     "banshee": {
       "ability": "Si el Demonio te mata, todos los jugadores aprenden esto. De ahora en adelante, puedes nominar dos veces por día y votar dos veces por nominación.",
@@ -360,7 +360,7 @@
       "name": "Contrabandista"
     },
     "bountyhunter": {
-      "ability": "Empiezas conociendo 1 jugador malvado. Si el jugador que sabes muere, aprendes otro jugador malvado esta noche. [1 Ciudadano es malvado]",
+      "ability": "Empiezas conociendo 1 jugador malvado. Si el jugador que conoces muere, aprendes otro jugador malvado esta noche. [1 Ciudadano es malvado]",
       "first": "Apunta al jugador *CONOCIDO*.",
       "flavor": "Solo, camino estas calles, pavimentadas con el olor enfermo de la corrupción. Su densidad penetra en mi nariz, sin límites, quemando con repulsión. Y anticipación. La enfermedad de este lugar maldito crece cada noche. Y yo…yo soy la cura.",
       "name": "Cazarrecompensas",
@@ -375,7 +375,7 @@
     "bureaucrat": {
       "ability": "Cada noche, escoge un jugador (no tú mismo): su voto cuenta como 3 votos mañana.",
       "first": "El Burócrata escoge un jugador. :reminder:",
-      "flavor": "Firma aquí por favor. Y aquí. Y aquí. Y taaaaaaaambién aquí. Todo deberá estar solucionado y contabilizado al final del día, asumiento que todas las firmas son legibles. ¡No hemos tenido problema alguno con el papeleo hace ufff! Desde ayer al mediodía, si la memoria no me falla…",
+      "flavor": "Firma aquí por favor. Y aquí. Y aquí. Y taaaaaaaambién aquí. Todo deberá estar solucionado y contabilizado al final del día, asumiendo que todas las firmas son legibles. ¡No hemos tenido problema alguno con el papeleo hace ufff! Desde ayer al mediodía, si la memoria no me falla…",
       "name": "Burócrata",
       "other": "El Burócrata escoge un jugador. :reminder:"
     },
@@ -406,7 +406,7 @@
     "chambermaid": {
       "ability": "Cada noche, escoge 2 jugadores vivos (no tú mismo): tú aprendes cuántos de ellos despertaron esta noche debido a su propia habilidad.",
       "first": "La Sirvienta escoge 2 jugadores vivos. Dale una señal con los dedos.",
-      "flavor": "No he visto nada raro, mi Señora. Con su permiso, pero si hubiese visto algo, ciertamente no fue al Señor de la casa yendo a escabullidas al laboratio del profesor a eso de las once de la noche y combinando pociones llamativas, como dijo usted, Señora.",
+      "flavor": "No he visto nada raro, mi Señora. Con su permiso, pero si hubiese visto algo, ciertamente no fue al Señor de la casa yendo a escabullidas al laboratorio del profesor a eso de las once de la noche y combinando pociones llamativas, como dijo usted, Señora.",
       "name": "Sirvienta",
       "other": "La Sirvienta escoge 2 jugadores vivos. Dale una señal con los dedos."
     },
@@ -430,17 +430,17 @@
     },
     "courtier": {
       "ability": "Una vez por juego, en la noche, escoge un rol: él está borracho por 3 noches y 3 días.",
-      "first": "El Cortesano quizás escoga un rol. :reminder: :reminder:",
+      "first": "El Cortesano quizás escoja un rol. :reminder: :reminder:",
       "flavor": "Le tengo más miedo a un ejército de cien ovejas lideradas por un león que a un ejército de cien leones liderados por una oveja.",
       "name": "Cortesano",
-      "other": "El Cortesano quizás escoga un rol. :reminder: :reminder:"
+      "other": "El Cortesano quizás escoja un rol. :reminder: :reminder:"
     },
     "cultleader": {
-      "ability": "Cada noche, te conviertes en el alineamiento de uno de tus vecinos vivos. Si todos los jugadores buenos eligen unirse a tu culto, tu equipo gana.",
+      "ability": "Cada noche, tú te vuelves del alineamiento de uno de tus vecinos vivos. Si todos los jugadores buenos eligen unirse a tu culto, tu equipo gana.",
       "first": "El Cultista quizás cambie de alineamiento. Si es así, muéstrale la ficha de *TÚ ERES* y un pulgar arriba o abajo de acuerdo a su nuevo alineamiento.",
       "flavor": "Creyéndose sabios, se volvieron necios.",
       "name": "Cultista",
-      "other": "El Cultista quizás cambie de alineamiento. Si es así, muéstrale la ficha de *TÚ ERES* y un pulgar arriba o abajo de acuerdo a su nuevo alineamiento."
+      "other": "El Cultista quizás cambie de alineamiento. De ser así, muéstrale la ficha de *TÚ ERES* y un pulgar arriba o abajo de acuerdo a su nuevo alineamiento."
     },
     "damsel": {
       "ability": "Todos los Secuaces saben que la Damisela está en juego. Si un Secuaz te adivina como la Damisela públicamente (una sola vez), tu equipo pierde.",
@@ -464,7 +464,7 @@
       "name": "Deus ex Fiasco"
     },
     "deviant": {
-      "ability": "Si fuiste gracioso hoy día, no puedes morir por exilio.",
+      "ability": "Si fuiste gracioso hoy, no puedes morir por exilio.",
       "flavor": "Fue solo una broma de la señora, te lo juro.",
       "name": "Chiflado"
     },
