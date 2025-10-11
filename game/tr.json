@@ -527,11 +527,20 @@
     "ogre": {
       "ability": "İlk gecende, bir oyuncu seç (kendini değil): onun tarafına geçersin (hangisi olduğunu bilmezsin), sarhoş veya zehirlenmiş bile olsan.",
       "first": "Ogre bir oyuncuya işaret eder. :reminder:",
-      "flavor": "\\<homurdan\\>\\<sırıt\\>\\</homurdan\\>"
+      "flavor": "\\<homurdan\\>\\<sırıt\\>\\</homurdan\\>",
+      "name": "Ogre"
+    },
+    "ojo": {
+      "ability": "Her gece*, bir karakter seç: o kişi ölür. Karakter oyunda değilse, kimin öldüğünü Hikâyeci seçer.",
+      "name": "Ojo",
+      "other": "Ojo bir karakter seçer. :reminder: "
     },
     "oracle": {
       "ability": "Her gece*, kaç ölü oyuncunun kötü olduğunu öğrenirsin.",
       "name": "Kâhin"
+    },
+    "organgrinder": {
+      "ability": "Oylama esnasında bütün oyuncular gözlerini kapatır ve oy sayımı gizli yapılır. Her gece, gün batımına kadar sarhoş olup olmadığını seç."
     },
     "pacifist": {
       "ability": "İdam edilen iyi oyuncular ölmeyebilirler.",
@@ -547,12 +556,28 @@
     "pithag": {
       "name": "Kuyu Acuzesi"
     },
+    "pixie": {
+      "ability": "Oyundaki 1 Kasabalıyı bilerek başlarsın. Bu karakter olduğuna saplantılıydıysan, o ölünce onun yeteneğini kazanırsın."
+    },
+    "plaguedoctor": {
+      "ability": "Öldüğünde, Hikâyeci bir Yardakçı yeteneği kazanır.",
+      "name": "Veba Doktoru",
+      "other": "Veba Doktoru öldüyse, Hikâyeci bir Yardakçı yeteneği kazandı. Bunu henüz yapmadıysan şimdi yap."
+    },
     "po": {
+      "flavor": "Bir çiçek ister misin? Ben o kadar yalnızım ki.",
       "name": "Po",
       "other": "Po bir oyuncu seçebilir VEYA geçen gece hiç kimseyi seçmediyse 3 oyuncu seçer. :reminder: veya :reminder: :reminder: :reminder:"
     },
     "poisoner": {
-      "name": "Zehirci"
+      "first": "Zehirci bir oyuncu seçer. :reminder:",
+      "name": "Zehirci",
+      "other": "Zehirci bir oyuncu seçer. :reminder:"
+    },
+    "politician": {
+      "ability": "Takımının kaybetmesinden en çok sorumlu olan oyuncuyduysan, taraf değiştirip kazanırsın, ölü bile olsan.",
+      "flavor": "Bu soruyu sorduğunuza sevindim. Gerçekten. Ama bence burada ASIL soru...",
+      "name": "Siyasetçi"
     },
     "professor": {
       "name": "Profesör",
