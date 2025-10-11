@@ -510,7 +510,8 @@
       "name": "Mutant"
     },
     "nightwatchman": {
-      "ability": "Oyunda bir kez, geceleyin, bir oyuncu seç: o kişi senin Gece Bekçisi olduğunu öğrenir."
+      "ability": "Oyunda bir kez, geceleyin, bir oyuncu seç: o kişi senin Gece Bekçisi olduğunu öğrenir.",
+      "name": "Gece Bekçisi"
     },
     "nodashii": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. 2 Kasabalı komşun zehirlenir.",
