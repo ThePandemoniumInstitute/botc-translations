@@ -516,7 +516,8 @@
       "name": "Gece Bekçisi"
     },
     "noble": {
-      "ability": "1 tanesi ve sadece 1 tanesi kötü olan 3 oyuncu bilerek başlarsın."
+      "ability": "1 tanesi ve sadece 1 tanesi kötü olan 3 oyuncu bilerek başlarsın.",
+      "name": "Soylu"
     },
     "nodashii": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. 2 Kasabalı komşun zehirlenir.",
