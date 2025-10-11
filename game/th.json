@@ -154,7 +154,8 @@
   },
   "reminders": {
     "2nd": "ที่ 2",
-    "3attacks": "โจมตี 3 ครั้ง"
+    "3attacks": "โจมตี 3 ครั้ง",
+    "3votes": "3 โหวต"
   },
   "roles": {
     "djinn": {
