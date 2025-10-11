@@ -113,7 +113,7 @@
     "lilmonsta-marionette": "Om det skulle vara en Marionett i spel så läggs den till efter Demonen och måste börja som Demonens granne.",
     "lilmonsta-poppygrower": "Om Lillmonstret och Vallmoodlaren lever så vaknar Kumpanerna en och en tills någon väljer att ta hand om Lillmonstret.",
     "lilmonsta-psychopath": "Om Psykopaten tar hand om Lillmonstret så dör hen av avrättning.",
-    "lilmonsta-scarletwoman": "Om Lillmonstret dör med minst 5 levande spelare så tar Röda Damen hand om Lillmonstret resten av spelet.",
+    "lilmonsta-scarletwoman": "Om Lillmonstret dör när minst 5 spelare lever så tar Röda Damen hand om Lillmonstret resten av spelet.",
     "lilmonsta-vizier": "Om Vesiren tar hand om Lillmonstret så dör hen av avrättning.",
     "lleech-mastermind": "Om Konspiratören lever och Lleechs värd dör av avrättning så överlever Lleech men förlorar sin förmåga.",
     "lleech-slayer": "Om Dråparen dräper Lleechs värd så dör värden.",
@@ -307,10 +307,10 @@
       "ability": "Om Demonen dödar dig får alla veta det. Därefter kan du nominera 2 gånger per dag och rösta 2 gånger per nominering.",
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
       "name": "Bansheen",
-      "other": "Om Bansheen dödades av Demonen inatt, meddela att Bansheen har dött. :reminder:"
+      "other": "Om Bansheen dödades av Demonen inatt, meddela öppet att Bansheen har dött. :reminder:"
     },
     "barber": {
-      "ability": "Om du dog idag eller inatt får Demonen välja 2 spelare (inte en annan Demon) som byter roll.",
+      "ability": "Om du dog idag eller inatt får Demonen välja 2 spelare (inte en annan Demon) som byter roll med varandra.",
       "flavor": "Visste du att barberare och kirurg en gång var samma yrke? Inte? Nu vet du.",
       "name": "Barberaren",
       "other": "Om Barberaren dog idag eller inatt, visa Demonen kortet *DU PÅVERKAS AV* och Barberarens rollbricka. Om Demonen väljer 2 spelare, väck dem en i taget. Visa kortet *DU ÄR* och deras nya rollbricka."
@@ -469,7 +469,7 @@
       "name": "Avvikaren"
     },
     "devilsadvocate": {
-      "ability": "Varje natt* väljer du en levande spelare (inte samma som sist); om hen avrättas imorgon dör hen inte.",
+      "ability": "Varje natt väljer du en levande spelare (inte samma som sist); om hen avrättas imorgon dör hen inte.",
       "first": "Djävulens Advokat väljer en levande spelare. :reminder:",
       "flavor": "Skulle invändningen ogillas vill min klient dementera anklagelserna med hänvisning till kärandesidans underlåtenhet att efterleva paragraf 27b: felaktig eller vilseledande verbkonjugation. Det faktum att nio juryledamöter avled igår kväll är helt enkelt prima facie, vilket – enligt prejudikat efter Larsson mot Thule – är ytterligare skäl att fria.",
       "name": "Djävulens Advokat",
@@ -523,7 +523,7 @@
       "other": "Ingenjören kan välja Kumpaner eller en Demon. :reminder: I så fall: Söv ingenjören. Väck en berörd spelare, visa kortet *DU ÄR* och den nya rollen, och söv spelaren. Upprepa för alla berörda spelare."
     },
     "eviltwin": {
-      "ability": "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om båda lever.",
+      "ability": "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om ni båda lever.",
       "first": "Väck båda tvillingar. Låt dem få ögonkontakt. Visa den goda tvillingens rollbricka för Onda Tvillingen och vice versa.",
       "flavor": "Jag är inte Sara! Jag är Klara! HON är Sara! Det är Sara som är den onda! Inte jag!",
       "name": "Onda Tvillingen"
