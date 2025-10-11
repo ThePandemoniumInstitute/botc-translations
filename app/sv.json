@@ -286,7 +286,7 @@
       "error_script_text": "Manuset laddas men har några fel. Det betyder oftast att det finns rader som inte ska vara där, enligt det officiella JSO-schemat för egna manus.",
       "error_size": "För stor fil",
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
-      "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera dem i inställningarna.",
+      "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera externa bilder i inställningarna.",
       "homebrew_title": "Användarbilder avaktiverade",
       "release_script": "Premiärmanus för {role}:",
       "theme": "Tema:",
