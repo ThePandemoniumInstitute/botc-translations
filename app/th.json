@@ -2,8 +2,13 @@
   "common": {
     "account-levels": {
       "free": "ฟรี",
-      "special-moderator": "ผู้ควบคุม"
+      "patreon-demon": "ระดับปีศาจ",
+      "patreon-minion": "ระดับลูกสมุน",
+      "patreon-townsfolk": "ระดับชาวเมือง",
+      "special-moderator": "ผู้ควบคุม",
+      "special-tpi": "พนักงาน TPI"
     },
+    "botc_online": "BOTC Online",
     "button_cancel": "ยกเลิก",
     "button_close": "ปิด",
     "button_confirm": "ยืนยัน",
@@ -16,6 +21,7 @@
     "session-tags": {
       "cameras": {
         "label": "กล้อง",
+        "title": "ใช้งานกล้องในเกมหรือไม่",
         "value_0": "ไม่จำเป็น",
         "value_1": "บังคับ",
         "value_2": "ปิด"
@@ -40,11 +46,19 @@
         "value_0": "ไม่มี",
         "value_1": "มี"
       },
+      "subscription": {
+        "label": "จำเป็นต้องสมัครสมาชิก",
+        "title": "การเข้าร่วมเกมต้องเป็นสมาชิก"
+      },
       "travellers": {
         "label": "นักพเนจร",
-        "title": "อนุญาตให้มีนักพเนจรในเกม"
+        "title": "อนุญาตให้มีนักพเนจรในเกม",
+        "value_0": "ไม่จำเป็น",
+        "value_1": "ใช่",
+        "value_2": "ไม่ใช่"
       }
     },
+    "terms_of_use": "ข้อตกลงในการใช้บริการ",
     "unnamed_user": "ผู้ใช้งานที่ไม่ระบุชื่อ"
   },
   "grimoire": {
@@ -84,16 +98,20 @@
     "clear_grim": "ล้างคัมภีร์",
     "download": "ดาวน์โหลด {0} App",
     "edition": "เลือกเวอร์ชั่น",
+    "error_audio3": "คุณอาจจะต้องทำ {0} ใน Firefox เพื่อให้ได้ยินเสียงจาก app",
     "error_audio4": "เปลี่ยนการตั้งค่า",
     "fabled": "เพิ่มตัวละครนิทาน",
     "fullscreen": "เต็มจอ",
     "gather": "รวบรวมผู้เล่น",
+    "gong_attention": "เสียงเตือน",
+    "gong_recall": "เรียกให้กลับมายังลานกลางเมือง",
     "grim_access": "คุณได้รับอนุญาตให้เข้าถึง Grimoire",
     "grim_request": "มีผู้ชมขอเข้าถึง Grimoire",
     "help": "ช่วยเหลือ",
     "leave": "ออกจากเกม",
     "mute_cam": "ปิดกล้องของคุณ [{0}]",
     "mute_mic": "ปิดไมโครโฟนของคุณ [{0}]",
+    "night_info": "ข้อมูลกลางคืน",
     "night_info_text": "นักเล่าเรื่องปลุกคุณในคืนนี้!",
     "night_sheet": "ลำดับการตื่น",
     "prompt_clear_player": "คุณแน่ใจหรือไม่ว่าต้องการลบตัวละครและโทเคนทั้งหมด ?",
@@ -102,9 +120,15 @@
     "prompt_vacate_title": "ออกจากที่นั่ง",
     "show_grim": "แสดงคัมภีร์",
     "show_town": "แสดงลานกลางเมือง",
-    "storyteller_remove": "ยกเลิกการเป็นนักเล่าเรื่อง"
+    "storyteller_remove": "ยกเลิกการเป็นนักเล่าเรื่อง",
+    "user_list": "รายชื่อผู้เล่น"
   },
   "modals": {
+    "dialogue": {
+      "error": {
+        "unauthorized": "ไม่ได้รับอนุญาต"
+      }
+    },
     "signal": {
       "grimoire": "คัมภีร์"
     },
