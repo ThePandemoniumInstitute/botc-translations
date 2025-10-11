@@ -427,10 +427,25 @@
       "flavor": "İnsan yalan söylediğinde, dünyanın birazını katleder.",
       "name": "Şövalye"
     },
+    "legion": {
+      "flavor": "Bir kış günündeki serin rüzgârız. Aysız gecedeki gölgeyiz. Çayındaki zehir ve kulağındaki fısıltıyız. Her yerdeyiz.",
+      "name": "Tümen",
+      "other": "Bir oyuncu ölebilir. :reminder:"
+    },
+    "leviathan": {
+      "ability": "Birden fazla iyi oyuncu idam edilirse kötüler kazanır. Bütün oyuncular oyunda olduğunu bilir. 5. günden sonra kötüler kazanır.",
+      "name": "Livyatan",
+      "other": "İsteğe bağlı olarak \"Livyatan oyunda\" diye ilân et. Hatırlatıcı pulu değiştir. :reminder:"
+    },
     "librarian": {
       "ability": "2 oyuncudan 1'inin belli bir Yabancı olduğunu bilerek başlarsın. (Ya da oyunda hiç olmadığını.)",
       "flavor": "Tabii ki madam, normal şartlarda Codex Malificarium'u kütüphane depolarından ödünç alabilirsiniz. Fakat siz üye değilsiniz gibi görünüyor.",
       "name": "Kütüphaneci"
+    },
+    "lilmonsta": {
+      "first": "Bütün Yardakçıları uyandır, bakıcı seçmelerine izin ver. :reminder:",
+      "flavor": "1. Adım: Tatlı ol. 2. Adım: Dünyaya hükmet. 3. Adım: Kaavaltı.",
+      "other": "Bütün Yardakçıları uyandır, bakıcı seçmelerine izin ver. :reminder: Bir oyuncu ölebilir. :reminder:"
     },
     "lunatic": {
       "flavor": "Ben geceyim... sanırım.",
