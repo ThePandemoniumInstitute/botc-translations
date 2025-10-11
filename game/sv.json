@@ -9,7 +9,7 @@
       "name": "Hemgjort manus"
     },
     "homebrew": {
-      "name": "Hembryggt"
+      "name": "Hembryggt manus"
     },
     "snv": {
       "description": "… är den galnaste av de tre utgåvorna i baspaketet. Goda roller får fantastisk information varenda natt, men det onda laget har en bred arsenal av hotfulla förmågor och kan sprida enorm förvirring. Roller kan byta lag, spelare kan byta roller, och till och med de onda kan ha svårt att hålla koll på varandra. Här möter vi också för första gången galenskap, som sätter ytterligare käppar i hjulen.",
@@ -33,13 +33,13 @@
     "alhadikhia-princess": "Om Prinsessan nominerade och avrättade en spelare på sin första dag så dör ingen av al Hadikhias förmåga inatt.",
     "alhadikhia-scarletwoman": "Om det skulle finnas två Demoner varav en var Röda Damen så blir Röda Damen till Röda Damen igen.",
     "alsaahir-vizier": "Berättaren meddelar inte att Vesiren är i spel.",
-    "atheist-riot": "Om Berättaren nomineras under kravallerna måste spelarna rösta. Om Berättaren döms avslutas spelet, annars nominerar Berättaren igen.",
+    "atheist-riot": "Om berättaren nomineras under kravallerna måste spelarna rösta. Om berättaren döms avslutas spelet, annars nominerar berättaren igen.",
     "balloonist-marionette": "Om Marionetten tror sig vara Ballongfararen så kan 1 extra Utböling ha lagts till.",
     "banshee-leviathan": "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga.",
     "banshee-riot": "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Banshee dör och får sin förmåga.",
     "banshee-vortox": "Om Vortox dödar Bansheen så får alla spelare veta att Bansheen har dött.",
     "baron-heretic": "Endast 1 av rollerna får vara i spel.",
-    "baron-plaguedoctor": "Om Berättaren skulle få Baronens förmåga så blir upp till två spelare till Utbölingar.",
+    "baron-plaguedoctor": "Om berättaren skulle få Baronens förmåga så blir upp till två spelare till Utbölingar.",
     "boffin-cultleader": "Om Demonen har Kultledarens förmåga så kan hen inte bli god av den förmågan.",
     "boffin-drunk": "Om Demonen skulle ha Fyllots förmåga så väljer Labbråttan en Bybo som får Fyllots förmåga istället.",
     "boffin-goon": "Om Demonen har Hejdukens förmåga så kan hen inte bli god av den förmågan.",
@@ -58,15 +58,15 @@
     "cerenovus-goblin": "Cerenovus får välja att en spelare ska låtsas vara Vätten.",
     "chambermaid-mathematician": "Husan får veta om Matematikern kommer att vakna inatt.",
     "clockmaker-summoner": "Åkallaren registreras som Demonen för Urmakaren.",
-    "courtier-summoner": "Om den levande Åkallaren inte har någon förmåga så har Berättaren Åkallarens förmåga.",
+    "courtier-summoner": "Om den levande Åkallaren inte har någon förmåga så har berättaren Åkallarens förmåga.",
     "courtier-vizier": "Om Vesiren förlorar sin förmåga så får hen veta det och kan inte dö på dagen.",
     "cultleader-pithag": "Om Trollpackan gör en ond spelare till Kultledaren så kan den spelaren inte bli god av sin egen förmåga.",
-    "damsel-pithag": "Om Trollpackan skapar en Ungmö så bestämmer Berättaren vilken spelare det blir.",
+    "damsel-pithag": "Om Trollpackan skapar en Ungmö så bestämmer berättaren vilken spelare det blir.",
     "damsel-spy": "Om Spionen är (eller har varit) i spel så är Ungmön förgiftad.",
     "damsel-widow": "Om Änkan är (eller har varit) i spel så är Ungmön förgiftad.",
-    "drunk-mathematician": "Matematikern kan få veta om Fyllots förmåga gav falsk info eller inte fungerade korrekt.",
+    "drunk-mathematician": "Matematikern kanske får veta om Fyllots förmåga gav falsk info eller inte fungerade korrekt.",
     "engineer-legion": "Om Legionen skapas så blir alla onda spelare till Legionen. Om Legionen är i spel så vet Ingenjören om det men har ingen förmåga.",
-    "engineer-summoner": "Om den levande Åkallaren tas ur spel så får Berättaren Åkallarens förmåga.",
+    "engineer-summoner": "Om den levande Åkallaren tas ur spel så får berättaren Åkallarens förmåga.",
     "eviltwin-plaguedoctor": "Om Berättaren skulle få Onda Tvillingens förmåga så blir en spelare till Onda Tvillingen.",
     "exorcist-leviathan": "Om Leviatan nominerar och avrättar den Exorcist-valda spelaren så vinner goda laget.",
     "exorcist-riot": "Om Kravallen nominerar och avrättar den Exorcist-valda spelaren så vinner goda laget.",
@@ -74,9 +74,9 @@
     "fanggu-scarletwoman": "Om det skulle finnas två Demoner varav en var Röda Damen så blir Röda Damen inte till en Demon.",
     "farmer-leviathan": "Varje natt* väljer Leviatan en levande god spelare (en ny varje natt); en vald Bonde använder sin förmåga men dör inte.",
     "farmer-riot": "Varje natt* väljer Kravallen en levande god spelare (en ny varje natt); en vald Bonde använder sin förmåga men dör inte.",
-    "fearmonger-plaguedoctor": "Om Berättaren skulle få Skräckspridarens förmåga så får en Kumpan förmågan, och får veta detta.",
+    "fearmonger-plaguedoctor": "Om berättaren skulle få Skräckspridarens förmåga så får en Kumpan förmågan, och får veta detta.",
     "fearmonger-vizier": "Vesiren vaknar med Skräckspridaren, får veta vem Skräckspridaren väljer och får inte välja att avrätta den spelaren.",
-    "goblin-plaguedoctor": "Om Berättaren skulle få Vättens förmåga så får en Kumpan förmågan, och får veta detta.",
+    "goblin-plaguedoctor": "Om berättaren skulle få Vättens förmåga så får en Kumpan förmågan, och får veta detta.",
     "godfather-heretic": "Endast 1 av rollerna får vara i spel.",
     "goon-pithag": "Om Trollpackan gör en ond spelare till Hejduken så kan den spelaren inte bli god av sin egen förmåga.",
     "grandmother-leviathan": "Om Leviatan är i spel och barnbarnet dör av avrättning så vinner det onda laget.",
@@ -281,7 +281,7 @@
       "name": "Lärlingen"
     },
     "artist": {
-      "ability": "En gång per spel, på dagen, kan du privat ställa en ja/nej-fråga till Berättaren.",
+      "ability": "En gång per spel, på dagen, kan du privat ställa en ja/nej-fråga till berättaren.",
       "flavor": "Mon Dieu ! C’est lumineux ! Mitt verk, hon är… hur man säger… magnifique ! Dieu est révélé ! Oui.",
       "name": "Konstnären"
     },
@@ -561,7 +561,7 @@
     "fibbin": {
       "ability": "En gång per spel kanske 1 god spelare får falsk info.",
       "flavor": "Tihihi. Hihi.",
-      "name": "Lögnaren"
+      "name": "Lögnhalsen"
     },
     "fiddler": {
       "ability": "En gång per spel väljer Demonen privat en motspelare; alla spelare väljer vem av de 2 spelarna som vinner.",
