@@ -109,6 +109,7 @@
     "grim_access": "คุณได้รับอนุญาตให้เข้าถึงคัมภีร์",
     "grim_request": "มีผู้ชมขอเข้าถึงคัมภีร์",
     "help": "ช่วยเหลือ",
+    "json_schema": "Script JSON Schema",
     "leave": "ออกจากเกม",
     "mute_cam": "ปิดกล้องของคุณ [{0}]",
     "mute_mic": "ปิดไมโครโฟนของคุณ [{0}]",
@@ -118,6 +119,7 @@
     "prompt_clear_player": "คุณแน่ใจหรือไม่ว่าต้องการลบตัวละครผู้เล่นและโทเคนช่วยจำทั้งหมด ?",
     "prompt_clear_st": "จะทำการล้างคัมภีร์และโทเคนช่วยจำของคุณและทุกคน คุณแน่ใจใช่หรือไม่ ?",
     "prompt_clear_title": "ล้างคัมภีร์และโทเคนช่วยจำ",
+    "prompt_timer_text": "ระบุระยะเวลา และชื่อเรื่อง(ไม่บังคับ) สำหรับการตั้งเวลา:",
     "prompt_timer_title": "ตั้งเวลา",
     "prompt_vacate_text": "คุณกำลังอยู่ในเกมที่เริ่มไปแล้ว แน่ใจหรือไม่ว่าต้องการจะออกจากที่นั่ง ?",
     "prompt_vacate_title": "ออกจากที่นั่ง",
@@ -242,7 +244,97 @@
       "terms_confirm": "ฉันได้อ่านและยอมรับข้อกำหนดและนโยบายเหล่านี้แล้ว",
       "timer_paused": "หยุดการเสนอชื่อและโหวตชั่วคราว",
       "timer_start": "เริ่มต้น",
-      "timer_title": "หัวข้อการตั้งเวลา (ไม่บังคับ)"
+      "timer_title": "หัวข้อการตั้งเวลา (ไม่บังคับ)",
+      "unit_minutes": "นาที",
+      "unit_seconds": "วินาที"
+    },
+    "edition": {
+      "button_clear": "ล้าง Grimoire",
+      "button_paste": "วาง",
+      "button_upload": "อัพโหลด",
+      "clear_description": "จะทำการล้าง Grimoire และโทเคนสำหรับผู้เล่นทุกคน คุณแน่ใจใช่หรือไม่ ?",
+      "clear_title": "ล้าง Grimoire และโทเคน",
+      "difficulty": "ความยาก:",
+      "difficulty_beginner": "ผู้เริ่มต้น",
+      "difficulty_intermediate": "ปานกลาง",
+      "difficulty_various": "หลากหลาย",
+      "error_character": "มีตัวละครมากเกินไป",
+      "error_size": "ขนาดไฟล์ใหญ่เกินไป"
+    },
+    "fabled": {
+      "title": "เพิ่มตัวละครพิเศษ"
+    },
+    "help": {
+      "link_2": "ที่นี่",
+      "welcome": "ยินดีต้อนรับสู่ {0}!"
+    },
+    "role": {
+      "tab_character": "ตัวละครที่ใช้ได้",
+      "title_alignment_e": "ฝ่ายร้าย",
+      "title_alignment_g": "ฝ่ายดี",
+      "title_target_bluff": "บลัฟ",
+      "title_target_other": "ตัวละคร"
+    },
+    "roles": {
+      "button_distribute": "แจก {0} ตัวละคร",
+      "button_gardener": "กำหนด {0} ตัวละคร",
+      "button_shuffle": "สุ่มเลือก",
+      "button_sort": "จัดเรียง",
+      "clear": "ล้างตัวละครที่เลือก",
+      "title_players": "ผู้เล่น",
+      "warning": "คำเตือน: มีตัวละครที่ส่งผลในการ setup! คุณต้องจัดการในส่วนนี้เอง"
+    },
+    "rules": {
+      "title": "กฏกติกา"
+    },
+    "settings": {
+      "background_placeholder": "URL ของภาพพื้นหลัง",
+      "background_text": "โปรดระบุ URL ของภาพพื้นหลัง หรือปล่อยว่างหากต้องการเอาภาพพื้นหลังออก",
+      "nomination": {
+        "baker": {
+          "text": "ผู้เล่นที่ถูกเสนอชื่อจะเป็นจุดสนใจของกลุ่ม"
+        },
+        "regular": {
+          "text": "ทุกคนสามารถพูดอะไรก็ได้"
+        },
+        "zookeeper": {
+          "text": "เฉพาะคนที่เสนอชื่อและคนที่ถูกเสนอชื่อเท่านั้น ที่สามารถพูดได้"
+        }
+      },
+      "patreon_link": "เชื่อมต่อกับบัญชี Patreon",
+      "setting_alignment": "แสดงฝั่งบน Town Square",
+      "setting_avatars": "แสดงรูปประจำตัว / กล้อง บน Town Square",
+      "setting_background": "ภาพพื้นหลัง",
+      "setting_camera": "กล้อง",
+      "setting_clouds": "แสดงเมฆในช่วงกลางคืน",
+      "setting_colorblind": "โหมดตาบอดสี: {0}",
+      "setting_echo_cancellation": "ตัดเสียงสะท้อน",
+      "setting_microphone": "ไมโครโฟน",
+      "setting_mute_audio": "ปิดเสียง",
+      "setting_mute_video": "ซ่อนวิดีโอ",
+      "setting_noise_suppression": "ลดเสียงรบกวน",
+      "setting_private_cams": "แสดงกล้องของผู้เล่นเมื่ออยู่ในแชทส่วนตัว",
+      "setting_ptt": "กดเพื่อพูด",
+      "setting_reminder_zoom": "ขนาดของโทเคนเตือนความจำ",
+      "setting_reminders": "แสดงโทเคนเตือนความจำแบบซ้อนกัน",
+      "setting_reminders_auto": "อัตโนมัติ",
+      "setting_reminders_never": "ไม่ซ้อนกัน",
+      "setting_reveal": "แสดงกล้องในระหว่างที่เปิดเผย Grimoire",
+      "setting_st_night": "Storyteller: แสดงลำดับการตื่น",
+      "setting_st_vote": "Storyteller: เวลาในการโหวต",
+      "setting_st_whisper": "Storyteller: อนุญาตให้ใช้การกระซิบแบบข้อความ",
+      "setting_tutorial": "แสดงขั้นตอนการใช้งานแอป",
+      "setting_video_deafen": "แสดงภาพจากกล้อง",
+      "setting_video_hidden": "ซ่อนภาพจากกล้องของคุณ",
+      "setting_video_mirrored": "กลับด้านของภาพจากกล้อง",
+      "setting_zoom": "ขนาดโทเคนของผู้เล่น",
+      "shortcut_escape": "กดปุ่ม Escape เพื่อ reset ปุ่มลัด",
+      "shortcut_reset": "Reset ปุ่มลัดทั้งหมด",
+      "shortcut_reset_confirm": "คุณต้องการ reset ปุ่มลัดทั้งหมดใช่หรือไม่ ? การกระทำนี้ไม่สามารถย้อนกลับได้",
+      "shortcuts": {
+        "acceptChat1": "ยอมรับคำขอแชท 1",
+        "acceptChat2": "ยอมรับคำขอแชท 2"
+      }
     },
     "signal": {
       "grimoire": "คัมภีร์"
