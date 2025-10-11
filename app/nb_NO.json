@@ -60,7 +60,7 @@
       }
     },
     "terms_of_use": "Bruksvilkår",
-    "title": "Blod på klokketårnet Online",
+    "title": "Blood on the Clocktower Online",
     "trademark": "\"Blood on the Clocktower\" er et varemerke tilhørende Steven Medway og The Pandemonium Institute.",
     "unnamed_user": "Bruker uten navn"
   },
@@ -74,8 +74,8 @@
     },
     "demon": "Demon|Demoner",
     "fabled": "Fabel|Fabel",
-    "minion": "Håndlager|Håndlagere",
-    "outsider": "Outsider|Outsiders",
+    "minion": "Undersått|Undersåtter",
+    "outsider": "Utenforstående|Utenforstående",
     "phases": {
       "day": "Første Dag|Dag{n}",
       "end": "Mellom spill",
@@ -92,7 +92,7 @@
     "storytellers": "Historiefortellerene",
     "token": "Brikke",
     "townsfolk": "Bygdefolk|Bygdefolk",
-    "traveller": "Reisende|Reisere"
+    "traveller": "Reisende|Reisende"
   },
   "main-menu": {
     "cast_vote": "Stem",
@@ -785,7 +785,7 @@
       "spectators": "Tilskuere",
       "stats": "{0} brukere er i {1} {2} spill",
       "stats_public": "offentlig",
-      "storyteller": "Historieforteller",
+      "storyteller": "Forteller",
       "subscription": "Abonnementsnivå",
       "updating": "Oppdaterer...",
       "welcome": "Velkommen til {0}!"
