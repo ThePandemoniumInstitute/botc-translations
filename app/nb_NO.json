@@ -293,14 +293,14 @@
       "custom_note": "Egendefinert notat",
       "tab1": "Relevante påminnelser",
       "tab2": "Andre Påminnelser",
-      "title": "Legg til hjelpebrikke til {0}"
+      "title": "Legg til påminnelsesbrikke til {0}"
     },
     "role": {
-      "error_character": "Ingen karakter som ligner {0}funnet.",
-      "error_traveller": "Ingen reisende som ligner {0}funnet.",
+      "error_character": "Ingen karakter som ligner {0} funnet.",
+      "error_traveller": "Ingen reisende som ligner {0} funnet.",
       "tab_character": "Tilgjengelige karakterer",
       "tab_traveller": "Andre reisende",
-      "title": "Velg en{alignment} {target}",
+      "title": "Velg en {alignment} {target}",
       "title_alignment_e": "Ond",
       "title_alignment_g": "God",
       "title_target_bluff": "bløff",
@@ -312,7 +312,7 @@
       "button_shuffle": "Bland",
       "button_sort": "Sorter",
       "clear": "Fjern valgte karakterer",
-      "title": "velg karakterene for{0}",
+      "title": "Velg karakterene for {0}",
       "title_players": "spillere",
       "warning": "Advarsel: Det er valgt ut karakterer som endrer spilloppsettet! Du må ta hensyn til disse selv."
     },
@@ -321,7 +321,7 @@
     },
     "settings": {
       "background_placeholder": "URL til bakgrunnsbilde",
-      "background_text": "Skriv inn en URL for en tilpasset bakgrunn, eller la det stå tomt for å fjerne en tilpasset bakgrunn.",
+      "background_text": "Skriv inn en URL for en egendefinert bakgrunn, eller la det stå tomt for å fjerne en egendefinert bakgrunn.",
       "button_always": "Alltid",
       "button_edit": "Endre bruker",
       "button_setup": "Kjør oppsettet",
