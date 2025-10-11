@@ -110,7 +110,7 @@
       "other": "Önceki karakter türünden farklı bir oyuncu göster. :reminder:"
     },
     "banshee": {
-      "ability": "Her Şeytan seni öldürürse, bütün oyuncular bunu öğrenir. Bu noktadan itibaren, günde iki kez aday gösterebilir ve aday başına iki oy verebilirsin.",
+      "ability": "Şeytan seni öldürürse bütün oyuncular bunu öğrenir. Bundan itibaren, günde iki kez aday gösterebilir ve aday başına iki oy kullanabilirsin.",
       "name": "Banşi"
     },
     "barber": {
@@ -393,7 +393,7 @@
     },
     "imp": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. Bu şekilde kendini öldürürsen, bir Yardakçı İmp olur.",
-      "flavor": "Zekâmızı keskin, kılıçlarımızı ise daha da keskin tutmak zorundayız. Kötülük aramızda yürüyor, ve biz iyi ve basit insanları yok edip güzel kasabamızı perişan edene kadar durmayacak. Hiç kimseye güvenmeyin. Ama illa birisine güvenecekseniz de, bana güvenin.",
+      "flavor": "Zekâmızı keskin, kılıçlarımızı ise daha da keskin tutmak zorundayız. Kötülük aramızda yürüyor, ve biz iyi ve basit insanları yok edip güzel kasabamızı perişan edene kadar durmayacak. Hiç kimseye güvenmeyin. Ama illâ birisine güvenecekseniz de bana güvenin.",
       "name": "İmp"
     },
     "innkeeper": {
@@ -515,10 +515,18 @@
       "ability": "Oyunda bir kez, geceleyin, bir oyuncu seç: o kişi senin Gece Bekçisi olduğunu öğrenir.",
       "name": "Gece Bekçisi"
     },
+    "noble": {
+      "ability": "1 tanesi ve sadece 1 tanesi kötü olan 3 oyuncu bilerek başlarsın."
+    },
     "nodashii": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. 2 Kasabalı komşun zehirlenir.",
       "name": "No Dashii",
       "other": "No Dashii bir oyuncu seçer. :reminder:"
+    },
+    "ogre": {
+      "ability": "İlk gecende, bir oyuncu seç (kendini değil): onun tarafına geçersin (hangisi olduğunu bilmezsin), sarhoş veya zehirlenmiş bile olsan.",
+      "first": "Ogre bir oyuncuya işaret eder. :reminder:",
+      "flavor": "\\<homurdan\\>\\<sırıt\\>\\</homurdan\\>"
     },
     "oracle": {
       "ability": "Her gece*, kaç ölü oyuncunun kötü olduğunu öğrenirsin.",
