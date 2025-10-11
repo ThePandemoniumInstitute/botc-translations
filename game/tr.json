@@ -539,7 +539,7 @@
       "name": "Pasifist"
     },
     "philosopher": {
-      "ability": "Oyunda bir kez, geceleyin, iyi bir karakter seç: becerisini kazan. Bu karakter oyundaysa, sarhoş olur.",
+      "ability": "Oyunda bir kez, geceleyin, iyi bir karakter seç: o yeteneği kazan. Bu karakter oyundaysa, sarhoş olur.",
       "first": "Filozof bir karakter seçebilir. Gerekirse karakter pulunu değiştir. :reminder:",
       "name": "Filozof",
       "other": "Filozof bir karakter seçebilir. Gerekirse karakter pulunu değiştir. :reminder:"
