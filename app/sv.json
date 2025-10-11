@@ -286,7 +286,7 @@
       "error_script_text": "Manuset laddas men har några fel. Det betyder oftast att det finns rader som inte ska vara där, enligt det officiella JSO-schemat för egna manus.",
       "error_size": "För stor fil",
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
-      "homebrew_description": "Av säkerhetsskäl har användarbilder från hemmagjorda manus ersatts av generiska ikoner. Du kan aktivera användarbilder i inställningarna.",
+      "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera externa bilder i inställningarna.",
       "homebrew_title": "Användarbilder avaktiverade",
       "release_script": "Premiärmanus för {role}:",
       "theme": "Tema:",
@@ -312,7 +312,7 @@
     },
     "reminder": {
       "custom_favorite": "Sparad som favorit",
-      "custom_note": "Egen anteckning",
+      "custom_note": "Egen…",
       "custom_text": "Ange en egen påminnelse att sätta vid {0}",
       "custom_title": "Lägg till egen påminnelse",
       "tab1": "Relevanta påminnelser",
