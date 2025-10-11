@@ -580,6 +580,9 @@
       "flavor": "Bu soruyu sorduğunuza sevindim. Gerçekten. Ama bence burada ASIL soru...",
       "name": "Siyasetçi"
     },
+    "preacher": {
+      "ability": "Her gece, bir oyuncu seç: bir Yardakçı seçilirse bunu öğrenir. Seçilmiş Yardakçıların yeteneği olmaz."
+    },
     "professor": {
       "name": "Profesör",
       "other": "Profesör ölü bir oyuncu seçebilir. :reminder: :reminder:"
