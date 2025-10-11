@@ -582,10 +582,12 @@
     },
     "preacher": {
       "ability": "Her gece, bir oyuncu seç: bir Yardakçı seçilirse bunu öğrenir. Seçilmiş Yardakçıların yeteneği olmaz.",
-      "flavor": "Fakir ve hasta olmaktansa zengin ve sıhhatli olmak daha iyidir."
+      "flavor": "Fakir ve hasta olmaktansa zengin ve sıhhatli olmak daha iyidir.",
+      "name": "Vaiz"
     },
     "princess": {
       "ability": "İlk gününde, bir oyuncuyu aday gösterip idam ettirdiysen, bu gece Şeytan öldürmez.",
+      "name": "Prenses",
       "other": "Bugün idam edilen oyuncuyu Prenses aday gösterdiyse, Şeytan normal şekilde uyanır, ama yeteneğiyle kimse ölmez."
     },
     "professor": {
@@ -594,7 +596,9 @@
       "other": "Profesör ölü bir oyuncu seçebilir. :reminder: :reminder:"
     },
     "psychopath": {
-      "ability": "Her gün, aday göstermelerden önce, herkesin önünde bir oyuncu seçebilirsin: o kişi ölür. İdam edilirsen, ancak taş-kâğıt-makasta yenilirsen ölürsün."
+      "ability": "Her gün, aday göstermelerden önce, herkesin önünde bir oyuncu seçebilirsin: o kişi ölür. İdam edilirsen, ancak taş-kâğıt-makasta yenilirsen ölürsün.",
+      "flavor": "Sürpriz!",
+      "name": "Psikopat"
     },
     "pukka": {
       "ability": "Her gece, bir oyuncu seç: o kişi zehirlenir. Önceden zehirlenen oyuncu ölür ve sonra sağlıklı olur.",
