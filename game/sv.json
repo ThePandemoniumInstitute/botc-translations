@@ -113,7 +113,7 @@
     "lilmonsta-marionette": "Om det skulle vara en Marionett i spel så läggs den till efter Demonen och måste börja som Demonens granne.",
     "lilmonsta-poppygrower": "Om Lillmonstret och Vallmoodlaren lever så vaknar Kumpanerna en och en tills någon väljer att ta hand om Lillmonstret.",
     "lilmonsta-psychopath": "Om Psykopaten tar hand om Lillmonstret så dör hen av avrättning.",
-    "lilmonsta-scarletwoman": "Om Lillmonstret dör med minst 5 eller fler spelare vid liv så tar Röda Damen hand om Lillmonstret resten av spelet.",
+    "lilmonsta-scarletwoman": "Om Lillmonstret dör med 5 eller fler spelare vid liv så tar Röda Damen hand om Lillmonstret resten av spelet.",
     "lilmonsta-vizier": "Om Vesiren tar hand om Lillmonstret så dör hen av avrättning.",
     "lleech-mastermind": "Om Konspiratören lever och Lleechs värd dör av avrättning så överlever Lleech men förlorar sin förmåga.",
     "lleech-slayer": "Om Dråparen dräper Lleechs värd så dör värden.",
@@ -355,7 +355,7 @@
       "name": "Krutdandyn"
     },
     "bootlegger": {
-      "ability": "Det här skriptet har hemgjorda roller eller regler.",
+      "ability": "Det här manuset har hemgjorda roller eller regler.",
       "flavor": "Jag har med mig senaste leveransen hemifrån, en brygd jag kallar ”Barrowfog”. Vill du smaka?",
       "name": "Hembrännaren"
     },
