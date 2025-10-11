@@ -251,7 +251,7 @@
       "name": "Alkemisten"
     },
     "alhadikhia": {
-      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö. Om alla lever dör alla tre.",
+      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö. Men om alla lever dör alla tre.",
       "flavor": "Alsukut min dhahab.",
       "name": "al Hadikhia",
       "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck spelaren märkt *1* och säg ”al Hadikhia har valt” följt av spelarens namn, sedan ”Väljer du att leva?” Spelaren nickar eller skakar på huvudet. Söv spelaren och lägg till eller ta bort svepningen enligt hens val. Upprepa för spelarna märka *2* och *3*. Om alla tre lever efter detta, placera en svepning på alla tre."
