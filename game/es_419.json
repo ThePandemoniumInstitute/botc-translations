@@ -930,7 +930,33 @@
       "flavor": "Desconfía de todos aquellos que tengan un impulso poderoso para castigar.",
       "name": "Pacifista"
     },
+    "philosopher": {
+      "ability": "Una vez por juego, por la noche, escoge un rol bueno: gana esa habilidad. Si ese rol está en juego, él está borracho.",
+      "first": "El Filósofo quizás escoja un rol. Si es necesario, cambia su ficha de rol. :reminder:",
+      "flavor": "Si hay algo real, la cerveza es real. Bebe, puesto que mañana podríamos morir.",
+      "name": "Filósofo",
+      "other": "El Filósofo quizás escoja un rol. Si es necesario, cambia su ficha de rol. :reminder:"
+    },
+    "pithag": {
+      "ability": "Cada noche*, escoge un jugador y un rol en el que se convierte (si no está en juego). Si se hace un nuevo Demonio, las muertes esta noche son arbitrarias.",
+      "flavor": "Vuelta y vuelta al caldero; las entrañas envenenadas van primero; Sapo nacido entre piedra y madero; Días y noches tantas como Enero; Veneno sudado con sueño ligero; en el pozo encantado te hiervo entero.",
+      "name": "Vieja del Pozo",
+      "other": "La Vieja del Pozo escoge un jugador y un rol. Si ella escoge un rol que no está en juego: Pon a la Vieja del Pozo a dormir. Despierta al jugador seleccionado. Muéstrale la ficha de *TÚ ERES* y su nueva ficha de rol."
+    },
+    "pixie": {
+      "ability": "Empiezas coniciendo un Ciudadano en juego. Si has estado \"loco\" de que tú eres ese rol, ganas su habilidad cuando él muere.",
+      "first": "Muéstrale la ficha de rol del Ciudadano marcado *LOCO*.",
+      "flavor": "Vuelta y vuelta al jardín. Las niñitas corren sin fin. Los niñitos trepan sin bajada. ¿Cuál de ellos será el Hada? Las damas sonríen en la ciudad pequeña. Los caballeros en el bosque recolectan leña. Lo tuyo es mío. Lo mío trae poderío. Qué hada más chistosa soy.",
+      "name": "Hada"
+    },
+    "plaguedoctor": {
+      "ability": "Cuando mueres, el Narrador gana la habilidad de un Secuaz.",
+      "flavor": "Prr favrr, mantn la calmah. Prrece que necesitah timpoh prra sanrr. Mmh-hmm.",
+      "name": "Doctor de la Peste",
+      "other": "Si el Doctor de la Peste murió, el Narrador gana la habilidad de un Secuaz. Si aún no has hecho esto, hazlo ahora."
+    },
     "po": {
+      "ability": "Cada noche*, puedes escoger un jugador: él muere. Si tu última elección no fue nadie, escoge 3 jugadores esta noche.",
       "flavor": "¿Te gustaría una flor? Estoy tan solo.",
       "name": "Po",
       "other": "El Po puede escoger un jugador O escoge 3 jugadores si no escogió a nadie anoche. :reminder: o :reminder: :reminder: :reminder:"
@@ -938,12 +964,57 @@
     "poisoner": {
       "ability": "Cada noche, escoge un jugador: él está envenenado esta noche y mañana por el día.",
       "first": "El Envenenador escoge un jugador. :reminder:",
-      "flavor": "Añade el compuesto Alfa al compuesto Beta... ¡NO DEMASIADO!",
+      "flavor": "Añade el compuesto Alfa al compuesto Beta... ¡NO MUCHO!",
       "name": "Envenenador",
       "other": "El Envenenador escoge un jugador. :reminder:"
     },
+    "politician": {
+      "ability": "Si fuiste el jugador más responsable de que tu equipo pierda, cambias alineamiento y ganas, incluso si estás muerto.",
+      "flavor": "Qué bueno que hiciste esa pregunta. De verdad. Pero yo creo que la pregunta MÁS IMPORTANTE aquí es…",
+      "name": "Político"
+    },
+    "poppygrower": {
+      "ability": "Los Secuaces y el Demonio no se conocen entre ellos. Si tú mueres, ellos aprenden quiénes son esa noche.",
+      "first": "Sáltate los pasos de Información del Secuaz e Información del Demonio. Despierta al Demonio, muéstrale la ficha de *ESTOS ROLES NO ESTÁN EN JUEGO* y cualquier tres roles buenos que no están en juego.",
+      "flavor": "En las arboledas ocultas del bosque profundio, habita la amapola negra. Ver aquel espectáculo es quedar encantado. Oler aquel aroma es quedar perdido por siempre, un esclavo a los dioses de la luz y la oscuridad.",
+      "name": "Cultivador de Amapolas",
+      "other": "Si el Cultivador de Amapolas ha muerto hoy día o esta noche, despierta a los Secuaces, muéstrales la ficha de *ESTE ES EL DEMONIO* y apunta al Demonio. Ponlos a dormir. Despierta al Demonio, y muéstrale la ficha de *ESTOS SON TUS SECUACES* y apunta a los Secuaces. Pon al Demonio a dormir."
+    },
     "preacher": {
-      "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
+      "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad.",
+      "first": "El Predicador escoge un jugador. :reminder: Si él escoge un Secuaz: Pon al Predicador a dormir. Despierta al jugador escogido. Muéstrale la ficha de *ESTE ROL TE HA SELECCIONADO* y la ficha del Predicador.",
+      "flavor": "Es mejor ser rico y saludable que pobre y enfermo.",
+      "name": "Predicador",
+      "other": "El Predicador escoge un jugador. :reminder: Si él escoge un Secuaz: Pon al Predicador a dormir. Despierta al jugador escogido. Muéstrale la ficha de *ESTE ROL TE HA SELECCIONADO* y la ficha del Predicador."
+    },
+    "princess": {
+      "ability": "En tu 1er día, si tú nominaste y ejecutaste a un jugador, el Demonio no mata esta noche.",
+      "flavor": "Nuestras palabras son como sabuesos, atados con hilos de seda, queridos señores. Dejemos que la bondad los teja, y que las riendas no se deshagan y desgarren nuestra corte.",
+      "name": "Princesa",
+      "other": "Si la Princesa nominó al jugador que fue ejecutado hoy día, el Demonio se despierta de forma normal, pero nadie muere a manos de la habilidad del Demonio."
+    },
+    "professor": {
+      "ability": "Una vez por juego, por la noche*, escoge un jugador muerto: si él es un Ciudadano, es resucitado.",
+      "flavor": "El proceso es sencillo. Adjunta el confabulador hidráulico a la matriz amplificada de chi modificado, añade 20 CCs de seudodorafina, manten sus niveles Z por encima del 20%, y tu esposo estará bien. Ahora, todo lo que necesitamos es que le caiga un rayo.",
+      "name": "Profesor",
+      "other": "El Profesor quizás escoja un jugador muerto. :reminder: :reminder:"
+    },
+    "psychopath": {
+      "ability": "Cada día, antes de las nominaciones, puedes escoger un jugador públicamente: él muere. Si eres ejecutado, tú solo mueres si pierdes en piedra, papel o tijera.",
+      "flavor": "¡Sorpresa!",
+      "name": "Sicópata"
+    },
+    "pukka": {
+      "ability": "Cada noche, escoge un jugador: él está envenenado. El jugador envenenado previo muere y luego se vuelve saludable.",
+      "first": "El Pukka escoge un jugador. :reminder:",
+      "flavor": "Has sido verdaderamente amable al recibime en tu hermoso hogar. Siento mucho haberte arañado accidentalmente. Fue una nimiedad. No pasa nada. Pero porfavor, acepta este mondadientes dorado como una señal humilde de mis disculpas.",
+      "name": "Pukka",
+      "other": "El Pukka escoge un jugador. :reminder: El jugador envenenado previo muere y luego se vuelve saludable. :reminder:"
+    },
+    "puzzlemaster": {
+      "ability": "1 jugador está borracho, incluso si mueres. Si adivinas (una sola vez) quién es, aprendes qué jugador es el Demonio, pero si adivinas incorrectamente, recibes información falsa.",
+      "flavor": "Cuando uno empieza a pensar que una cosa es simplemente otra cosa, uno suele estar al borde del error. Paciencia, paciencia. No confundas \"tan solo\" y \"debería\" con \"es\" y \"no es\".",
+      "name": "Descifrador"
     },
     "yaggababble": {
       "name": "Yaggablabla"
