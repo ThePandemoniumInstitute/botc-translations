@@ -68,7 +68,7 @@
   },
   "roles": {
     "acrobat": {
-      "ability": "Her gece*, bir oyuncuyu seç: eğer bu gece sarhoş veya zehirli ise veya olurlarsa, ölürsün.",
+      "ability": "Her gece*, bir oyuncu seç: eğer bu gece sarhoş veya zehirli ise veya olursa, ölürsün.",
       "flavor": "Dünya üzerindeki en iyi gösteriye, hepiniz hoş geldiniz.",
       "name": "Akrobat",
       "other": "Akrobat bir oyuncu seçer. :reminder:"
