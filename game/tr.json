@@ -68,7 +68,7 @@
   },
   "roles": {
     "acrobat": {
-      "ability": "Her gece*, bir oyuncu seç: eğer bu gece sarhoş veya zehirli ise veya olursa, ölürsün.",
+      "ability": "Her gece*, bir oyuncu seç: o kişi bu gece sarhoş veya zehirlenmiş ise veya olursa, ölürsün.",
       "flavor": "Dünya üzerindeki en iyi gösteriye, hepiniz hoş geldiniz.",
       "name": "Akrobat",
       "other": "Akrobat bir oyuncu seçer. :reminder:"
@@ -449,11 +449,29 @@
       "other": "Bütün Yardakçıları uyandır, bakıcı seçmelerine izin ver. :reminder: Bir oyuncu ölebilir. :reminder:"
     },
     "lleech": {
-      "name": "Süllük"
+      "first": "Süllük bir oyuncu seçer. :reminder:",
+      "name": "Süllük",
+      "other": "Süllük bir oyuncu seçer. :reminder:"
+    },
+    "lordoftyphon": {
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Kötü karakterler sıra hâlinde. Sen ortadasın. +1 Yardakçı. -? ila +? Yabancı]"
     },
     "lunatic": {
       "flavor": "Ben geceyim... sanırım.",
-      "name": "Deli"
+      "name": "Deli",
+      "other": "Şeytanın sırasını simüle etmek için ne gerekiyorsa yap. Deliyi uyut. Şeytanı uyandır. Deli pulunu gösterip önce Deliye, sonra da hedef(ler)ine işaret et."
+    },
+    "lycanthrope": {
+      "ability": "Her gece*, hayatta olan bir oyuncu seç. O kişi iyiyse, ölür ve Şeytan bu gece öldürmez. Bir iyi oyuncu kötü olarak gözükür.",
+      "name": "Kurt Adam",
+      "other": "Kurt Adam bir oyuncu seçer. :reminder:"
+    },
+    "magician": {
+      "flavor": "1... 2... Abra... 3... 4... Kadabra... *puf!* Ve gördüğünüz üzere beyler bayanlar, Kaptan Farnsworth'ün altın kesesi kayboldu! Gitti! İzi bile kalmadı! Teşekkür ederim, iyi geceler!",
+      "name": "Sihirbaz"
+    },
+    "marionette": {
+      "name": "Kukla"
     },
     "mastermind": {
       "name": "Üst Akıl"
@@ -462,16 +480,26 @@
       "ability": "Her gece, (gün doğumundan beri) kaç oyuncunun yeteneğinin başka bir karakterin yeteneğinden dolayı anormal bir şekilde işlediğini öğrenirsin.",
       "name": "Matematikçi"
     },
+    "matron": {
+      "ability": "Her gün, 3 taneye kadar 2'şerli oyuncu grubu seçip yerlerini değiştirebilirsin. Oyuncular gizlice konuşmak için yerlerinden ayrılamaz.",
+      "name": "Müdire"
+    },
     "mayor": {
       "ability": "Sadece 3 oyuncu hayattaysa ve idam gerçekleşmezse, takımın kazanır. Geceleyin ölürsen, yerine başka bir oyuncu ölebilir.",
+      "flavor": "Farklılıklarımızı bir kenara koyup bu anlamsız katillere bir son vermemiz gerekiyor. Ne de olsa hepimiz vergi mükellefiyiz. Yani, çoğumuz en azından.",
       "name": "Belediye Başkanı"
+    },
+    "mezepheles": {
+      "ability": "Gizli bir kelime bilerek başlarsın. Bu kelimeyi söyleyen ilk iyi oyuncu o gece kötüye dönüşür.",
+      "name": "Mezepheles"
     },
     "minstrel": {
       "ability": "Bir Yardakçı idamla öldüğünde, diğer bütün oyuncular (Gezginler hariç) yarın gün batımına kadar sarhoş olurlar."
     },
     "monk": {
       "ability": "Her gece*, bir oyuncu seç (kendini değil): o kişi bu gece Şeytana karşı güvende olur.",
-      "name": "Keşiş"
+      "name": "Keşiş",
+      "other": "Keşiş bir oyuncu seçer. :reminder:"
     },
     "moonchild": {
       "name": "Ay Çocuğu",
@@ -480,6 +508,9 @@
     "mutant": {
       "flavor": "Ben canavar değilim! Ben insanım! Azıcık merhamet edin!",
       "name": "Mutant"
+    },
+    "nightwatchman": {
+      "ability": "Oyunda bir kez, geceleyin, bir oyuncu seç: o kişi senin Gece Bekçisi olduğunu öğrenir."
     },
     "nodashii": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. 2 Kasabalı komşun zehirlenir.",
