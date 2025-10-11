@@ -540,7 +540,8 @@
       "name": "Kâhin"
     },
     "organgrinder": {
-      "ability": "Oylama esnasında bütün oyuncular gözlerini kapatır ve oy sayımı gizli yapılır. Her gece, gün batımına kadar sarhoş olup olmadığını seç."
+      "ability": "Oylama esnasında bütün oyuncular gözlerini kapatır ve oy sayımı gizli yapılır. Her gece, gün batımına kadar sarhoş olup olmadığını seç.",
+      "name": "Laternacı"
     },
     "pacifist": {
       "ability": "İdam edilen iyi oyuncular ölmeyebilirler.",
