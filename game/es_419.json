@@ -176,7 +176,7 @@
     "dead": "Muerto",
     "demonnotvoted": "Demonio No Ha Votado",
     "demonvoted": "Demonio Ha Votado",
-    "diedtoday": "Murió Hoy Día",
+    "diedtoday": "Murió Hoy",
     "doesntkill": "No Mata",
     "drunk": "Borracho",
     "drunk1": "Borracho 1",
@@ -194,7 +194,7 @@
     "goodplayerexecuted": "Jugador Bueno Ejecutado",
     "grandchild": "Nieto",
     "guessused": "Intento Usado",
-    "haircutstonight": "Corte de Cabello Esta Noche",
+    "haircutstonight": "Corte de Pelo Esta Noche",
     "hasability": "Posee Habilidad",
     "isthealchemist": "Es El Alquimista",
     "istheapprentice": "Es El Aprendiz",
@@ -234,7 +234,7 @@
     "turnsevil": "Se Vuelve Malvado",
     "twin": "Gemelo",
     "visitor": "Visitante",
-    "whoopsie": "Oops",
+    "whoopsie": "Ups",
     "wrong": "Equivocado"
   },
   "roles": {
@@ -263,10 +263,10 @@
     },
     "amnesiac": {
       "ability": "No sabes cuál es tu habilidad. Cada día, adivínala en privado: tú aprendes qué tan cerca estás.",
-      "first": "Corre la habilidad del Amnésico, si es aplicable.",
+      "first": "Ejecuta la habilidad del Amnésico, si es aplicable.",
       "flavor": "Espera. ¿Qué? ¿Quién? Ah, ya veo. Espera. ¿Qué?",
       "name": "Amnésico",
-      "other": "Corre la habilidad del Amnésico, si es aplicable."
+      "other": "Ejecuta la habilidad del Amnésico, si es aplicable."
     },
     "angel": {
       "ability": "Algo malo quizás le ocurra a quien sea el más responsable por la muerte de un jugador novato.",
@@ -278,8 +278,8 @@
       "ability": "En tu 1era noche, ganas la habilidad de un Ciudadano (si eres bueno), o la habilidad de un Secuaz (si eres malvado)."
     },
     "bountyhunter": {
-      "first": "Apunta al jugador que *CONOCE*.",
-      "other": "Si el jugador que *CONOCE* muere hoy por el día o por la noche, apunta a un nuevo jugador que *CONOCE*."
+      "first": "Apunta al jugador *CONOCIDO*.",
+      "other": "Si el jugador *CONOCIDO* muere hoy por el día o por la noche, apunta a un nuevo jugador *CONOCIDO*."
     },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad."
