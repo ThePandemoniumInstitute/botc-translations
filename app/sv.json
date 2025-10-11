@@ -312,7 +312,7 @@
     },
     "reminder": {
       "custom_favorite": "Sparad som favorit",
-      "custom_note": "Egen…",
+      "custom_note": "Anteckning",
       "custom_text": "Ange en egen påminnelse att sätta vid {0}",
       "custom_title": "Lägg till egen påminnelse",
       "tab1": "Relevanta påminnelser",
