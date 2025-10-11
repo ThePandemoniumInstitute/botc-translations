@@ -119,7 +119,16 @@
     "lordoftyphon-summoner": "ถ้า Lord of Typhon ถูกอัญเชิญ, เขาจะต้องนั่งติดกับลูกสมุน และคนที่นั่งติดกันคนอื่นๆจะกลายเป็นลูกสมุนฝ่ายร้าย",
     "lunatic-mathematician": "Mathematician อาจจะรู้ว่า Lunatic โจมตีผู้เล่นที่แตกต่างไปจากปีศาจหรือไม่",
     "magician-marionette": "ถ้า Magician ยังมีชีวิต, ปีศาจจะไม่รู้ว่า คนที่นั่งติดกับเขา, ใครกันแน่คือ Marionette",
-    "magician-spy": "เมื่อ Spy มองเห็น Grimoire, โทเคนตัวละครของปีศาจและ Magician จะถูกเอาออก"
+    "magician-spy": "เมื่อ Spy มองเห็น Grimoire, โทเคนตัวละครของปีศาจและ Magician จะถูกเอาออก",
+    "magician-vizier": "ถ้ามี Vizier อยู่ในเกม, Magician จะไม่มีความสามารถ แต่จะไม่ได้รับผลจากความสามารถของ Vizier",
+    "magician-widow": "เมื่อ Widow มองเห็น Grimoire, โทเคนตัวละครของปีศาจและ Magician จะถูกเอาออก",
+    "magician-wraith": "หลังจากการประหารชีวิตแต่ละครั้ง, Magician ที่มีชีวิตสามารถทายอย่างเปิดเผยว่าผู้เล่นที่มีชีวิตคนใดคือ Wraith, ถ้าถูกต้อง, ปีศาจต้องโจมตี Wraith ในคืนนี้",
+    "marionette-mathematician": "Mathematician อาจจะรู้ว่า Marionette ได้ข้อมูลเท็จหรือความสามารถทำงานผิดปกติหรือไม่",
+    "marionette-plaguedoctor": "ถ้า Storyteller ได้รับความสามารถของ Marionette, จะมีผู้เล่นฝ่ายที่นั่งติดกับปีศาจ 1 คน กลายเป็น Marionette",
+    "marionette-summoner": "ถ้าหุ่นเชิดถูกเล่น พวกเขาจะเข้าเกมหลังปีศาจและต้องเริ่มเกมโดยนั่งติดกับปีศาจ",
+    "mastermind-vigormortis": "Mastermind ที่ยังมีความสามารถ จะยังคงมีความสามารถ เมื่อ Vigormortis ตาย",
+    "mayor-riot": "Mayor อาจจะเลือกหยุดการจลาจลได้. ถ้าเขาเลือกทำแบบนั้น, ถ้ามี Riot ยังมีชีวิตอยู่เพียง 1 คน, ฝ่ายดีชนะ, กรณีอื่นๆ ฝ่ายร้ายชนะ",
+    "monk-riot": "ถ้า Riot เสนอชื่อและประหารผู้เล่นที่ถูกปกป้องโดย Monk, ฝ่ายดีชนะ"
   },
   "reminders": {
     "2nd": "2",
