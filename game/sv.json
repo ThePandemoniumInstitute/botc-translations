@@ -174,8 +174,8 @@
     "day4": "Dag 4",
     "day5": "Dag 5",
     "dead": "Död",
-    "demonnotvoted": "Röstade inte",
-    "demonvoted": "Röstade",
+    "demonnotvoted": "Ingen Demon röstade",
+    "demonvoted": "Demon röstade",
     "diedtoday": "Dog idag",
     "doesntkill": "Dödar inte",
     "drunk": "Full",
@@ -208,8 +208,8 @@
     "master": "Husbonde",
     "maynotnominate": "Får inte nominera",
     "minion": "Kumpan",
-    "minionnominated": "Kumpan nominerat",
-    "minionsnotnominated": "Kumpaner inte nominerat",
+    "minionnominated": "Kumpan nominerade",
+    "minionsnotnominated": "Ingen Kumpan nominerade",
     "negativevote": "Negativ röst",
     "night1": "Natt 1",
     "night2": "Natt 2",
@@ -251,7 +251,7 @@
       "name": "Alkemisten"
     },
     "alhadikhia": {
-      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö. Men om alla lever dör alla tre.",
+      "ability": "Varje natt* kan du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö, men om alla lever dör alla tre.",
       "flavor": "Alsukut min dhahab.",
       "name": "al Hadikhia",
       "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck spelaren märkt *1* och säg ”al Hadikhia har valt” följt av spelarens namn, sedan ”Väljer du att leva?” Spelaren nickar eller skakar på huvudet. Söv spelaren och lägg till eller ta bort svepningen enligt hens val. Upprepa för spelarna märka *2* och *3*. Om alla tre lever efter detta, placera en svepning på alla tre."
@@ -262,7 +262,7 @@
       "name": "al Saahir"
     },
     "amnesiac": {
-      "ability": "Du vet inte vad din förmåga är. Varje dag kan du gissa privat för berättaren; du får veta hur nära du är.",
+      "ability": "Du vet inte vad din förmåga är. Varje dag kan du privat gissa den; du får veta hur nära du är.",
       "first": "Utför eventuellt Virrpannans förmåga.",
       "flavor": "Vänta. Va. Vem? Jaha. Vänta, va?",
       "name": "Virrpannan",
