@@ -144,6 +144,7 @@
         "offline": "เซิร์ฟเวอร์ดูเหมือนจะออฟไลน์",
         "remove_player": "ไม่สามารถเอาผู้เล่นออกได้",
         "remove_storyteller": "เกิดข้อผิดพลาดในการลบ Storyteller",
+        "request_grim": "ไม่สามารถขอดู Grimoire ได้",
         "unauthorized": "ไม่ได้รับอนุญาต"
       }
     },
