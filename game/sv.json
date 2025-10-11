@@ -541,17 +541,17 @@
       "other": "Fang Gu väljer en spelare. :reminder: Om hen valde en Utböling (endast en gång), byt ut Utbölingens bricka mot den andra Fang Gu-brickan. Söv Fang Gu. Väck den valda spelaren. Visa kortet *DU ÄR* och Fang Gu-brickan samt tummen ner. :reminder:"
     },
     "farmer": {
-      "ability": "När du dör på natten blir en levande god spelare till Bonde.",
+      "ability": "När du dör på natten blir en levande god spelare Bonde.",
       "flavor": "Även maktens folk måste ha mat på bordet. Utan oss svälter staden.",
       "name": "Bonden",
       "other": "Om Bonden dog inatt, väck en god spelare. Visa kortet *DU ÄR* och en Bonde-bricka. Ersätt spelarens förra bricka med Bondens bricka."
     },
     "fearmonger": {
       "ability": "Varje natt väljer du en spelare; om du nominerar och avrättar hen så förlorar hens lag. Alla vet om du väljer en ny spelare.",
-      "first": "Skräckspridaren väljer en spelare. :reminder: Meddela att ”Skräckspridaren har valt en spelare”.",
+      "first": "Skräckspridaren väljer en spelare. :reminder: Meddela öppet att ”Skräckspridaren har valt en spelare”.",
       "flavor": "Om du stirrar för länge in i avgrunden, kommer avgrunden också att stirra in i dig.",
       "name": "Skräckspridaren",
-      "other": "Skräckspridaren väljer en spelare. :reminder: Om spelaren inte redan var märkt *SKRÄCK* så meddela att ”Skräckspridaren har valt en spelare”."
+      "other": "Skräckspridaren väljer en spelare. :reminder: Om spelaren inte redan var märkt *SKRÄCK* så meddela öppet att ”Skräckspridaren har valt en spelare”."
     },
     "ferryman": {
       "ability": "Den sista dagen får alla döda spelare tillbaka sin röstbricka.",
@@ -580,7 +580,7 @@
       "other": "Nicka eller skaka på huvudet."
     },
     "fool": {
-      "ability": "Första gången du dör överlever du.",
+      "ability": "Första gången du dör så överlever du.",
       "flavor": "… och kungen sa ”Vafalls?! Jag har då aldrig haft gummipantalonger, för att inte tala om någon skinnflöjt!” Haha!",
       "name": "Narren"
     },
@@ -603,7 +603,7 @@
       "name": "Gangstern"
     },
     "gardener": {
-      "ability": "Berättaren bestämmer 1 eller flera spelares roll.",
+      "ability": "Berättaren bestämmer 1 eller flera spelares roller.",
       "flavor": "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen.",
       "name": "Trädgårdsmästaren"
     },
@@ -626,7 +626,7 @@
     },
     "godfather": {
       "ability": "I början vet du vilka Utbölingar som är i spel. Om en dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
-      "first": "Visa rollbrickor för alla Utbölingar i spel.",
+      "first": "Visa rollbrickor av alla Utbölingar i spel.",
       "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut.",
       "name": "Gudfadern",
       "other": "Om en Utböling dog idag väljer Gudfadern en spelare. :reminder:"
