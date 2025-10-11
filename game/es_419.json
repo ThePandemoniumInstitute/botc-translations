@@ -1016,6 +1016,11 @@
       "flavor": "Cuando uno empieza a pensar que una cosa es simplemente otra cosa, uno suele estar al borde del error. Paciencia, paciencia. No confundas \"tan solo\" y \"debería\" con \"es\" y \"no es\".",
       "name": "Descifrador"
     },
+    "ravenkeeper": {
+      "ability": "Si mueres en la noche, se te despierta para escoger un jugador: aprendes su rol.",
+      "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen mis dulces mascotas sirvientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
+      "name": "Guardián de cuervos"
+    },
     "recluse": {
       "ability": "Quizás puedes registrar como malvado y como Demonio o Secuaz, incluso si muerto.",
       "name": "Recluso"
@@ -1044,7 +1049,7 @@
     },
     "zombuul": {
       "name": "Zombuul",
-      "other": "Si nadie murió hoy, el Zombuul elige a un jugador"
+      "other": "Si nadie murió hoy, el Zombuul elige a un jugador. :reminder:"
     }
   }
 }
