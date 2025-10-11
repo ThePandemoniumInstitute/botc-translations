@@ -160,7 +160,7 @@
       "button_good": "De Gode Vant",
       "button_no": "Nei",
       "button_yes": "Ja",
-      "close_timer": "Denne meldingen vil lukke seg selv i {n}s.",
+      "close_timer": "Denne meldingen vil lukke seg selv om {n}s.",
       "error": {
         "add_player": "Kan ikke legge til spiller",
         "add_storyteller": "Feil med å legge til Historieforteller",
