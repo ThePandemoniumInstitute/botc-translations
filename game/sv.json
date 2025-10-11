@@ -629,7 +629,7 @@
       "first": "Visa rollbrickor av alla Utbölingar i spel.",
       "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut.",
       "name": "Gudfadern",
-      "other": "Om en Utböling dog idag väljer Gudfadern en spelare. :reminder:"
+      "other": "Om en Utböling dog idag så väljer Gudfadern en spelare. :reminder:"
     },
     "golem": {
       "ability": "Du får bara nominera en gång per spel. Den du nominerar dör om hen inte är Demonen.",
@@ -645,7 +645,7 @@
       "ability": "Varje dag kan du öppet påstå något. Inatt dör en spelare om påståendet stämde.",
       "flavor": "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla.",
       "name": "Skvallerbyttan",
-      "other": "Om Skvallerbyttan talade sanning dör en spelare. :reminder:"
+      "other": "Om Skvallerbyttan talade sanning så dör en spelare. :reminder:"
     },
     "grandmother": {
       "ability": "I början vet du en god spelare och hens roll. Om hen dödas av Demonen dör du också.",
@@ -702,14 +702,14 @@
     },
     "huntsman": {
       "ability": "En gång per spel, på natten, kan du välja en levande spelare; om du väljer Ungmön blir hen en Bybo som inte är i spel. [+Ungmön]",
-      "first": "Jägaren kan välja en spelare. :reminder: Om Jägaren pekar på Ungmön så söv Jägaren, väck Ungmön, visa kortet *DU ÄR* och hens nya rollbricka.",
+      "first": "Jägaren kan välja en spelare. :reminder: Söv Jägaren. Om Jägaren pekade på Ungmön så väck Ungmön, visa kortet *DU ÄR* och hens nya rollbricka.",
       "flavor": "Stugan är bekväm och varm. Min yxa står vid dörren, mina kängor torkar vid eldstaden, och hjortgrytan kokar… Men hör! Ett skrik ekar i dalen! Regnet och leran och kölden, den kalla vinden döljer lukten av vargar, men jag vet vägen och rör mig snabbt. Jag kommer.",
       "name": "Jägaren",
-      "other": "Jägaren kan välja en spelare. :reminder: Om Jägaren pekar på Ungmön så söv Jägaren, väck Ungmön, visa kortet *DU ÄR* och hens nya rollbricka."
+      "other": "Jägaren kan välja en spelare. :reminder: Söv Jägaren. Om Jägaren pekade på Ungmön så väck Ungmön, visa kortet *DU ÄR* och hens nya rollbricka."
     },
     "imp": {
       "ability": "Varje natt* väljer du en spelare; hen dör. Om du dödar dig själv på det sättet blir en Kumpan till Djävulen.",
-      "flavor": "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och göra vår by till ruiner. Lita inte på någon. Men om ni måste lita på någon, lita på mig.",
+      "flavor": "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och lägga vår by i ruiner. Lita inte på någon. Men om ni måste lita på någon, lita på mig.",
       "name": "Djävulen",
       "other": "Djävulen väljer en spelare. :reminder: Om Djävulen väljer sig själv, ersätt 1 levande Kumpans bricka med en extra Djävulen-bricka. Söv den gamla Djävulen. Väck den nya Djävulen, visa kortet *DU ÄR* och Djävulens rollbricka."
     },
