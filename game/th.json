@@ -140,7 +140,17 @@
     "plaguedoctor-wraith": "ถ้า Storyteller ได้รับความสามารถของ Wraith, จะมีลูกสมุน 1 คนได้รับความสามารถนั้นและรู้ตัวว่าได้รับความสามารถนั้น",
     "politician-vizier": "Vizier อาจจะมองเห็น Politician เป็นฝ่ายร้าย",
     "poppygrower-spy": "ถ้า Poppy Grower ยังมีความสามารถอยู่, Spy ไม่สามารถมองเห็น Grimoire",
-    "poppygrower-summoner": "ถ้า Poppy Grower ยังมีชีวิตในคืนที่ 3, Summoner จะเลือกตัวละครปีศาจ แต่ไม่ได้เลือกผู้เล่น"
+    "poppygrower-summoner": "ถ้า Poppy Grower ยังมีชีวิตในคืนที่ 3, Summoner จะเลือกตัวละครปีศาจ แต่ไม่ได้เลือกผู้เล่น",
+    "poppygrower-widow": "ถ้า Poppy Grower ยังมีความสามารถอยู่, Widow ไม่สามารถมองเห็น Grimoire",
+    "preacher-summoner": "ถ้าผู้อัญเชิญที่ยังมีชีวิตไม่มีความสามารถ นักเล่าเรื่องจะได้รับความสามารถของผู้อัญเชิญ",
+    "preacher-vizier": "ถ้าเสนาบดีสูญเสียความสามารถ พวกเขาจะรู้เรื่องนี้ และไม่สามารถตายในตอนกลางวัน",
+    "pukka-summoner": "Summoner อาจจะเลือกสร้าง Po ในคืนที่ 2 ได้ (แทนที่จะเป็นคืนที่ 3)",
+    "ravenkeeper-riot": "แต่ละคืน (ยกเว้นคืนแรก) Riot เลือกผู้เล่นที่มีชีวิต 1 คน (ไม่ซ้ำกับคืนที่แล้ว) ถ้า Revankeeper ถูกเลือก, ความสามารถของ Ravenkeeper จะทำงาน, แต่จะไม่ตาย",
+    "recluse-sage": "Sage สามารถมองเห็น Recluse เป็นปีศาจได้",
+    "riot-sage": "แต่ละคืน (ยกเว้นคืนแรก) Riot เลือกผู้เล่นที่มีชีวิต 1 คน (ไม่ซ้ำกับคืนที่แล้ว) ถ้า Sage ถูกเลือก, ความสามารถของ Sage จะทำงาน, แต่จะไม่ตาย",
+    "riot-soldier": "ถ้า Riot เสนอชื่อและประหาร Soldier, ฝ่ายดีชนะ",
+    "summoner-zombuul": "ถ้า Summoner อัญเชิญผู้เล่นที่ตายแล้วให้กลายเป็น Zombuul, Zombuul จะอยู่ในสถานะ \"ตายแล้วหนึ่งครั้ง\"",
+    "vizier-zealot": "Vizier อาจจะมองเห็น Zealot เป็นฝ่ายร้าย"
   },
   "reminders": {
     "2nd": "2",
