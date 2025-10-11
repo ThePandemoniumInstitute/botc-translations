@@ -734,7 +734,7 @@
       "highscore_placeholder": "högsta antal röster",
       "highscore_text": "Ange ett nytt högsta antal röster för idag\neller lämna tomt för att använda standardvärdet.",
       "highscore_title": "Ändra tröskel",
-      "majority": "Majoriteten är {0} röst|Majoriteten är {0} röster",
+      "majority": "Majoritet är {0} röst|Majoritet är {0} röster",
       "no_majority": "Ingen majoritet krävs",
       "pointing": "Pekar på {0}",
       "secret": "Röstningen är sluten.",
@@ -931,7 +931,7 @@
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
       "jinxes": "Krockar",
-      "other_nights": "Inte första\nnatten",
+      "other_nights": "Inte första\n natten",
       "popout": "Öppna rollark i nytt fönster"
     },
     "characters": {
@@ -1037,7 +1037,7 @@
     "statistics": "Statistik",
     "stats": {
       "edition": "Mest spelade\nutgåvorna",
-      "homebrew": "En hemmagjord roll",
+      "homebrew": "En hembryggd roll",
       "loading": "Laddar statistik…",
       "none": "Ingen",
       "player": "Spelade\npartier",
