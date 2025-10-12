@@ -554,6 +554,88 @@
       "first": "Cho thông tin Tay sai và Ác quỷ như bình thường kể cả khi có ít hơn 7 người chơi.",
       "flavor": "Nó biết kêu vo vo! Nó biết đi xuống cầu thang! Nó giữ ấm cho bạn vào ban đêm! Nó có vị như đường! Trẻ em rất thích! Xin giới thiệu... sản phẩm hoàn toàn mới... Robot biết kêu vo vo, biết đi lại! Thú vị cho mọi lứa tuổi!",
       "name": "Toymaker"
+    },
+    "undertaker": {
+      "ability": "Mỗi đêm*, bạn biết nhân vật nào đã chết vì hành quyết hôm nay.",
+      "flavor": "Hừm....cái gì đây nhỉ? Chiếc ủng bên trái mòn đến tận gót, có vụn đá lửa dưới lưỡi giày. Đây là trang phục của một quân nhân.",
+      "other": "Nếu một người chơi bị hành quyết hôm nay, cho họ thấy token nhân vật."
+    },
+    "vigormortis": {
+      "ability": "Mỗi đêm*, chọn một người chơi: họ sẽ chết. Tay sai bạn chọn giết sẽ giữ năng lực của họ & đầu độc 1 dân làng kế bên. [-1 Ngoại lai]",
+      "flavor": "Mọi cánh cửa đều là một cánh cửa. Mọi chìa khóa đều là một chìa khóa. Mọi chén đều là một chén. Nhưng ai uống nước Ta ban cho sẽ không bao giờ khát nữa, nhưng nước trong người ấy sẽ là mạch nước vọt lên đến sự sống đời đời.",
+      "other": "Ác quỷ Vigormortis chọn một người chơi. :reminder: Nếu người đó là Tay sai, đầu độc một Dân làng kế bên. :reminder: :reminder:"
+    },
+    "villageidiot": {
+      "ability": "Mỗi đêm, chọn một người chơi: bạn biết phe của họ. [+0 đến +2 Village Idiots. 1 trong số đó sẽ bị say rượu]",
+      "first": "Chọn một dân làng Village Idiot để làm say rượu. Đánh thức lần lượt để họ chọn một người chơi, cho thấy phe tốt hay xấu dựa vào ngón cái hướng lên hay xuống.",
+      "other": "Đánh thức từng dân làng Village Idiot lần lượt, họ chọn một người chơi, cho thấy phe tốt hay phe xấu dựa vào ngón cái hướng lên hay hướng xuống."
+    },
+    "virgin": {
+      "ability": "Lần đầu tiên bạn bị biểu quyết, nếu người biểu quyết bạn là Dân làng, họ sẽ bị hành quyết ngay lập tức.",
+      "flavor": "Ta trong sạch. Những ai vô tội hãy quỳ xuống và chịu khổ thay ta. Danh tiếng của ta sẽ không bị vấy bẩn bởi những lời buộc tội độc địa của các ngươi."
+    },
+    "vizier": {
+      "ability": "Tất cả người chơi biết bạn là tay sai Vizier. Bạn không thể chết vào ban ngày. Nếu phe tốt bỏ phiếu, bạn có thể chọn để hành quyết ngay lâp tức.",
+      "first": "Thông báo người chơi là tay sai Vizier cho mọi người biết.",
+      "flavor": "Một quyết định tuyệt vời, như mọi khi, thưa bệ hạ. Một tội nhỏ nhặt như đụng độ Giám mục quả thực xứng đáng được \"công lý\" và \"lòng thương xót\" của ngài. Hãy dạo bước trong vườn. Ghé thăm phòng trưng bày và chiêm ngưỡng các tác phẩm điêu khắc của Von Strauf. Thư giãn đi, bệ hạ. Cứ để mọi việc... cho thần."
+    },
+    "vortox": {
+      "ability": "Mỗi đêm*, chọn một người chơi: họ sẽ chết. Năng lực của Dân làng luôn luôn cho ra thông tin sai. Mỗi ngày, nếu không có ai bị hành quyết, phe xấu thắng.",
+      "flavor": "Đen là trắng. Đúng là sai. Trái là phải. Lên là dài. Xuống là Ánh nhìn. Ngắn là Mù. Hãy theo tôi. Tìm câu trả lời.",
+      "other": "Ác quỷ Vortox chọn một người chơi. :reminder:"
+    },
+    "voudon": {
+      "ability": "Chỉ bạn & người chết có thể bỏ phiếu. Họ không cần phiếu để bầu. Và đa số 50% cũng không cần thiết.",
+      "flavor": "Bien venu. Ngồi xuống. Hít thở sâu. Bước vào vùng đất của người chết. Nhìn bằng mắt họ. Nói bằng giọng nói của họ. Yon sel lang se janm ase."
+    },
+    "washerwoman": {
+      "ability": "Bạn bắt đầu biết 1 trong 2 người chơi là một Dân làng cụ thể.",
+      "first": "Cho thấy token nhân vật Dân làng. Chỉ vào người chơi *DÂN LÀNG* và người chơi *SAI*.",
+      "flavor": "Vết máu trên áo khoác dạ hội ư? Không, đây là rượu sherry nấu ăn. Thật bất cẩn."
+    },
+    "widow": {
+      "ability": "Vào đêm đầu tiên của bạn, nhìn vào Cẩm thư & chọn một người chơi: họ bị đầu độc. 1 người chơi phe tốt biết tay sai Widow có trong ván chơi.",
+      "first": "Cho tay sai Widow nhìn vào Cẩm thử bao lâu tùy họ. Tay sai Widow chọn một người chơi. :reminder:",
+      "flavor": "Thêm rượu nữa chứ? Château d’Ergot ’07 là một loại rượu vang rất đặc biệt. Vâng, thực sự rất đặc biệt."
+    },
+    "witch": {
+      "ability": "Mỗi đêm, chọn một người chơi: nếu họ biểu quyết vào ngày mai, họ sẽ chết. Nếu chỉ còn 3 người còn sống, bạn mất đi năng lực này.",
+      "first": "Tay sai Witch chọn một người chơi. :reminder:",
+      "flavor": "Ba giọt máu dê. Một lọn tóc xé tan vì giận dữ. Tên đã được xướng lên, bóng tối phủ xuống. Bước chân trái trước trên con đường đầy gai góc kia, và đừng ngoảnh lại.",
+      "other": "Tay sai Witch chọn một người chơi. :reminder:"
+    },
+    "wizard": {
+      "ability": "Một lần trong ván chơi, chọn một điều ước. Nếu được ban cho, nó có thể có một giá phải trả & để lại một lời gợi ý cho mục đích thật sự của nó.",
+      "first": "Chạy năng lực của tay sai Wizard, nếu có thể.",
+      "flavor": "Mỗi người đàn ông và mỗi người phụ nữ đều là một ngôi sao. Tình yêu là luật lệ, tình yêu theo ý chí.",
+      "other": "Chạy năng lực của tay sai Wizard, nếu có thể."
+    },
+    "wraith": {
+      "ability": "Bạn có thể chọn mở mắt vào ban đêm. Bạn cũng dậy khi những người chơi phe xấu khác dậy.",
+      "first": "Đánh thức tay sai Wraith bất kì khi nào người chơi phe xấu khác thức dậy.",
+      "other": "Đánh thức tay sai Wraith bất cứ khi nào người chơi phe xấu khác thức dậy."
+    },
+    "xaan": {
+      "ability": "Vào đêm thứ X, tất cả Dân làng sẽ bị đầu độc cho đến hoàng hôn. [X Ngoại lai]",
+      "first": "Đánh dấu người chơi tay sai Xaan với gợi nhớ *NIGHT 1*. Nếu X là 1, đánh dấu với token gợi nhớ *X*. :reminder: :reminder:",
+      "flavor": "Ngã xuống. Từng người một. Tiếp đến hai người, ba người, năm người.",
+      "other": "Thay thế token gợi nhớ của tay sai Xaan tương ứng với thứ tự đêm. Nếu đến đêm thứ X, đánh dấu tay sai Xaan bằng token gợi nhớ *X*. :reminder: :reminder:"
+    },
+    "yaggababble": {
+      "ability": "Bạn bắt đầu biết một cụm từ bí mật. Với mỗi lần bạn nói công khai cụm từ đó ngày hôm nay, một người chơi có thể chết.",
+      "first": "Chọn một cụm từ bí mật. Đánh thức Ác quỷ Yaggababble and cho họ biết cụm từ bí mật đó.",
+      "flavor": "Giết người bên trong phố Morgue? Tin giả (tiếng Nga)! Bầy chó săn ở đồng cỏ Baskerville? Tin giả (tiếng Nga)! Chết khi đang đi thuyền trên sông Nile? Tin giả (tiếng Nga)!",
+      "name": "Yaggababble",
+      "other": "Mỗi lần Ác quỷ Yaggababble nói cụm từ đó ngày hôm nay, bạn có thể chọn giết một người chơi. Họ sẽ chết. :reminder:"
+    },
+    "zealot": {
+      "ability": "Nếu có 5 hay nhiều người chơi hơn còn sống, bạn phải bỏ phiếu cho mỗi lần biểu quyết.",
+      "flavor": "Tôi thích nói chuyện với anh. Tâm trí anh hấp dẫn tôi. Nó giống hệt tâm trí tôi, chỉ khác là anh bị điên."
+    },
+    "zombuul": {
+      "ability": "Mỗi đêm*, nếu không có ai chết sáng nay, chọn một người chơi: họ sẽ chết. Lần đầu tiên bạn chết, bạn sẽ sống nhưng sẽ được nhìn thấy như đã chết.",
+      "flavor": "Tôi không. Hiểu. Cách của anh. Đồng loại. Chỉ cho tôi. Đất. Nơi thánh. Nằm. Ngủ. Tôi cũng vậy. Phải ngủ thôi. Sớm thôi.",
+      "other": "Nếu không ai chết hôm nay, Ác quỷ Zombuul chọn một người chơi. :reminder:"
     }
   }
 }
