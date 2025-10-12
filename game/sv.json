@@ -1041,7 +1041,7 @@
       "ability": "Om Demonen dödar dig får du veta att hen är 1 av 2 spelare.",
       "flavor": "Dessa digra volymer döljer hemligheten, det är jag säker på! Den väntar oss mellan orden. Mer ljus, pojk! Mer bläck! Språket är märkligt, ja, men den infernaliska gåtan vecklar långsamt ut sig.",
       "name": "Gurun",
-      "other": "Om Demonen dödade Gurun så väck Demonen och peka på 2 spelare, varav 1 är Demonen."
+      "other": "Om Demonen dödade Gurun så väck Gurun och peka på 2 spelare, varav 1 är Demonen."
     },
     "sailor": {
       "ability": "Varje natt väljer du en levande spelare; hen eller du är full fram till skymningen. Du kan inte dö.",
@@ -1144,7 +1144,7 @@
     },
     "summoner": {
       "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon som du väljer. [Ingen Demon]",
-      "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbickor som inte är i spel.",
+      "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbrickor som inte är i spel.",
       "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
       "name": "Åkallaren",
       "other": "Byt ut Åkallarens påminnelse till den aktuella natten. Om det är natt 3 så väljer Åkallaren en spelare och en Demon. Söv Åkallaren. Väck den valda spelaren. Visa kortet *DU ÄR*, tummen ner och den valda Demonens rollbricka."
@@ -1229,7 +1229,7 @@
     },
     "washerwoman": {
       "ability": "I början vet du att 1 av 2 spelare är en viss Bybo.",
-      "first": "Visa Bybons rollbricka. Peka på spelarna märka *BYBO* och *FEL*.",
+      "first": "Visa Bybons rollbricka. Peka på spelarna märkta *BYBO* och *FEL*.",
       "flavor": "Blodfläckar på smokingen? Nej, det är matlagningssherry. Så vårdslöst.",
       "name": "Tvätterskan"
     },
