@@ -1,1 +1,96 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "patreon-demon": "Cấp bậc Ác quỷ",
+      "patreon-minion": "Cấp bậc Tay sai",
+      "patreon-townsfolk": "Cấp bậc Dân làng"
+    }
+  },
+  "main-menu": {
+    "prompt_clear_player": "Bạn có chắc bạn muốn loại bỏ tất cả token gợi nhớ và nhân vật của tất cả người chơi hay không?",
+    "prompt_clear_st": "Điều này sẽ dọn sạch Cẩm thư và token gợi nhớ cho bạn và tất cả mọi người. Bạn có chắc?",
+    "prompt_clear_title": "Dọn sạch Cẩm thư và token gợi nhớ",
+    "prompt_timer_text": "Chọn thời lượng và tiêu đề (tùy chọn) cho bộ đếm thời gian:",
+    "prompt_timer_title": "Đặt hẹn giờ",
+    "prompt_vacate_text": "Bạn hiện tại đang ở trong trò chơi, bạn có chắc bạn muốn rời khỏi ghế ngồi?",
+    "prompt_vacate_title": "Rời khỏi Ghế",
+    "push_to_talk": "Nhấn [{0}] để nói",
+    "raise_hand": "Giơ tay",
+    "request_private": "Yêu Cầu Nói Riêng Tư",
+    "reveal_grim": "Tiết Lộ Cẩm Thư",
+    "rules": "Đọc Luật Lệ",
+    "session_expires": "Hiện tại, không có bất kì người dùng nào sở hữu cấp bậc Tay sai trong phiên này và nó có thể hết hạn vào {0}.",
+    "set_timer": "Đặt Hẹn Giờ",
+    "settings": "Cài Đặt",
+    "show_grim": "Cho Thấy Cẩm Thư",
+    "show_town": "Cho Thấy Quảng Trường Thị Trấn",
+    "show_users": "Cho Thấy Người Dùng [{0}]",
+    "storyteller_add": "Trở thành Người kể chuyện",
+    "storyteller_remove": "Rời khỏi ghế Người kể chuyện",
+    "tab_app": "Ứng dụng",
+    "tab_during_game": "Đang trong trò chơi",
+    "tab_new_game": "Ván mới",
+    "tab_playing": "Đang chơi",
+    "to_day": "Đi đến Giai đoạn Ngày",
+    "to_night": "Đi đến Giai đoạn Đêm",
+    "translation": "Cải thiện phiên dịch này",
+    "user_list": "Danh sách Người dùng",
+    "vacate_seat": "Rời khỏi Ghế",
+    "vote_history": "Lịch sử bỏ phiếu"
+  },
+  "modals": {
+    "announcement": {
+      "description": "Bạn muốn đưa ra thông báo nào?",
+      "error": "Lỗi khi gửi thông báo",
+      "input_session": "Tên phiên (tùy chọn)",
+      "input_text": "Văn bản thông báo của bạn",
+      "input_title": "Tiêu đề thông báo",
+      "title": "Thông báo"
+    },
+    "dialogue": {
+      "button_evil": "Phe xấu thắng",
+      "button_good": "Phe tốt thắng",
+      "button_no": "Không",
+      "button_yes": "Đúng",
+      "close_timer": "Cửa sổ bật lên này sẽ tự đóng sau {n} giây.",
+      "error": {
+        "add_player": "Không thể thêm người chơi",
+        "add_storyteller": "Lỗi khi thêm Người kể chuyện",
+        "avatar": "Lỗi khi đăng hình đại diện",
+        "avatar_generic": "Lỗi đã xảy ra khi cố đăng hình đại diện của bạn.",
+        "avatar_pixel": "Hình của bạn quá lón. Vui lòng thu nhỏ nó lại ít nhất 4000x4000 trước khi đăng lại.",
+        "avatar_size": "Tệp của bạn quá lớn. Vui lòng thử lại với hình ảnh có kích thước nhỏ hơn 5MB.",
+        "avatar_type": "Tệp của bạn không được nhận dạng là hình ảnh.",
+        "bluffs": "Lỗi khi cập nhật nhân vật không có trong ván chơi",
+        "chat2_text": "Máy chủ trò chuyện có vẻ như đang ngoại tuyến",
+        "chat2_title": "Máy chủ Trò chuyện Mất kết nối",
+        "chat_text": "Đã mất kết nối với máy chủ trò chuyện, đang cố gắng kết nối lại...\n Thông báo lỗi: {0}",
+        "chat_title": "Đã xảy ra lỗi kết nối trò chuyện",
+        "claiming": "Lỗi khi ngồi vào ghế",
+        "clear_grim": "Không thể dọn sạch Cẩm thư",
+        "connection": "Đã xảy ra lỗi kết nối",
+        "edition_change": "Lỗi khi thay đổi phiên bản",
+        "end": "Lỗi kết thúc trò chơi",
+        "eyes_close": "Không thể nhắm mắt",
+        "eyes_open": "Không thể mở mắt",
+        "fabled": "Lỗi khi cập nhật fabled",
+        "generic": "Đã xảy ra lỗi",
+        "kick": "Không thể loại bỏ người dùng",
+        "link_text": "Đã xảy ra lỗi khi liên kết tài khoản của bạn với Patreon. Vui lòng thử lại.",
+        "link_title": "Lỗi liên kết tài khoản với Patreon",
+        "loading_text": "Có lỗi xảy ra khi tải dữ liệu ứng dụng. Trang sẽ tải lại.",
+        "loading_title": "Lỗi khi tải dữ liệu ứng dụng",
+        "missing_edition": "Phiên dùng này có một phiên bản không tìm thấy.",
+        "missing_edition_title": "Lỗi khi tải phiên bản",
+        "missing_roles": "Phiên dùng này có chứa các nhân vật tùy chỉnh không tìm thấy. Vui lòng tải chúng trước khi tham gia! Nhân vật còn thiếu: {0}",
+        "missing_roles_title": "Lỗi khi tải nhân vật tùy chỉnh",
+        "move_player": "Không thể di chuyển người chơi",
+        "offline": "Máy chủ có vẻ như đang ngoại tuyến",
+        "remove_player": "Không thể dời người chơi",
+        "remove_storyteller": "Lỗi khi dời Người kể chuyện",
+        "request_grim": "Không thể yêu cầu Cẩm thư",
+        "running": "Lỗi khi thay đổi trạng thái đang chạy"
+      }
+    }
+  }
+}
