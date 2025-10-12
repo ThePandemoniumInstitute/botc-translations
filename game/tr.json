@@ -137,7 +137,7 @@
     },
     "barber": {
       "ability": "Bugün veya bu gece öldüysen, Şeytan karakterlerini birbiriyle değiştirmek için 2 oyuncu (başka bir Şeytanı değil) seçebilir.",
-      "flavor": "Eskiden berberliğin ve ameliyatçılığın aynı meslek olduğunu bilir miydin? Hayır mı? Öğrenmiş oldun.",
+      "flavor": "Bir zamanlar berberliğin ve cerrahlığın aynı meslek olduğunu biliyor muydun? Hayır mı?, Eh, artık biliyorsun.",
       "name": "Berber"
     },
     "barista": {
@@ -177,7 +177,9 @@
     },
     "bountyhunter": {
       "ability": "1 kötü oyuncuyu bilerek başlarsın. Bildiğin oyuncu ölürse, bu gece başka bir kötü oyuncuyu öğrenirsin. [1 Kasabalı kötü]",
-      "name": "Ödül Avcısı"
+      "first": "*BİLİNEN* oyuncuyu göster.",
+      "name": "Ödül Avcısı",
+      "other": "*BİLİNEN* oyuncu bugün veya bu gece öldüyse, yeni bir *BİLİNEN* oyuncuyu göster."
     },
     "buddhist": {
       "ability": "Her günün ilk 2 dakikasında, tecrübeli oyuncular konuşamaz.",
