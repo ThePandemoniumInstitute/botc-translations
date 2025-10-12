@@ -55,7 +55,7 @@
     "cannibal-juggler": "Om Jonglören gissar på första dagen och dör av avrättning så får den levande Kannibalen inatt veta hur många rätt Jonglören hade.",
     "cannibal-princess": "Om Kannibalen nominerade, avrättade och dödade Prinsessan idag så kan Demonen inte döda inatt.",
     "cannibal-zealot": "Om Kannibalen får Fanatikerns förmåga så får Kannibalen veta det.",
-    "cerenovus-goblin": "Cerenovus får välja att en spelare ska låtsas vara Vätten.",
+    "cerenovus-goblin": "Cerenovus får välja att en spelare ska vara galen att hen är Vätten.",
     "chambermaid-mathematician": "Husan får veta om Matematikern kommer att vakna inatt.",
     "clockmaker-summoner": "Åkallaren registreras som Demonen för Urmakaren.",
     "courtier-summoner": "Om den levande Åkallaren inte har någon förmåga så har berättaren Åkallarens förmåga.",
@@ -541,7 +541,7 @@
       "other": "Fang Gu väljer en spelare. :reminder: Om hen valde en Utböling (endast en gång), byt ut Utbölingens bricka mot den andra Fang Gu-brickan. Söv Fang Gu. Väck den valda spelaren. Visa kortet *DU ÄR* och Fang Gu-brickan samt tummen ner. :reminder:"
     },
     "farmer": {
-      "ability": "När du dör på natten blir en levande god spelare Bonde.",
+      "ability": "När du dör på natten blir en levande god spelare en Bonde.",
       "flavor": "Även maktens folk måste ha mat på bordet. Utan oss svälter staden.",
       "name": "Bonden",
       "other": "Om Bonden dog inatt, väck en god spelare. Visa kortet *DU ÄR* och en Bonde-bricka. Ersätt spelarens förra bricka med Bondens bricka."
@@ -603,7 +603,7 @@
       "name": "Gangstern"
     },
     "gardener": {
-      "ability": "Berättaren bestämmer 1 eller flera spelares roller.",
+      "ability": "Berättaren bestämmer en eller flera spelares roller.",
       "flavor": "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen.",
       "name": "Trädgårdsmästaren"
     },
@@ -626,7 +626,7 @@
     },
     "godfather": {
       "ability": "I början vet du vilka Utbölingar som är i spel. Om en dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
-      "first": "Visa rollbrickor av alla Utbölingar i spel.",
+      "first": "Visa rollbrickor för att ange alla Utbölingar som är i spel.",
       "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut.",
       "name": "Gudfadern",
       "other": "Om en Utböling dog idag så väljer Gudfadern en spelare. :reminder:"
@@ -709,7 +709,7 @@
     },
     "imp": {
       "ability": "Varje natt* väljer du en spelare; hen dör. Om du dödar dig själv på det sättet blir en Kumpan till Djävulen.",
-      "flavor": "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och lägga vår by i ruiner. Lita inte på någon. Men om ni måste lita på någon, lita på mig.",
+      "flavor": "Vi måste vara på vår vakt och ha våra klingor nära till hands. Ondskan vandrar bland oss, och är beredd att göra vad som helst för att förgöra oss hederliga människor och ödelägga vår by. Lita inte på någon. Men om ni måste lita på någon, lita på mig.",
       "name": "Djävulen",
       "other": "Djävulen väljer en spelare. :reminder: Om Djävulen väljer sig själv, ersätt 1 levande Kumpans bricka med en extra Djävulen-bricka. Söv den gamla Djävulen. Väck den nya Djävulen, visa kortet *DU ÄR* och Djävulens rollbricka."
     },
@@ -790,7 +790,7 @@
     "lleech": {
       "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död.",
       "first": "Lleech väljer en spelare. :reminder:",
-      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjärn– jag menar paj! Ja. Mumsig paj. Det var det jag skulle säga.",
+      "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjärn– jag menar paj! Ja. Mumsiga paj. Det var det jag skulle säga.",
       "name": "Lleech",
       "other": "Lleech väljer en spelare. :reminder:"
     },
