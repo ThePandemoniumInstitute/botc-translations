@@ -609,7 +609,7 @@
       "error_403": "Este número de teléfono ya está siendo usado por otro usuario. Si piensas que esto es incorrecto, por favor contáctanos a través de {0}.",
       "error_404": "Este intento de verificación ha caducado o no es válido. Por favor, vuelve a intentarlo.",
       "error_assigned": "Este número de teléfono ya ha sido asignado a otro usuario. Por favor, utiliza un número de teléfono distinto.",
-      "error_cooldown": "Has alcanzado el número máximo de intentos. Por favor, espera al menos {0} minutos antes de intentarlo de nuevo.",
+      "error_cooldown": "Has alcanzado el número máximo de intentos. Por favor, espere al menos {0} minutos antes de intentarlo de nuevo.",
       "error_other": "Algo ha salido mal: {0}. Por favor vuelve a intentarlo.",
       "error_pending": "Código incorrecto. Pro favor, vuelve a intentarlo.",
       "error_restart": "Has alcanzado el número máximo de intentos. Por favor, vuelve a introducir tu número de teléfono de nuevo.",
