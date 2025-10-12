@@ -1019,7 +1019,8 @@
     "ravenkeeper": {
       "ability": "Si mueres en la noche, se te despierta para escoger un jugador: aprendes su rol.",
       "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen mis dulces mascotas sirvientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
-      "name": "Guardián de cuervos"
+      "name": "Guardián de cuervos",
+      "other": "Si el Guarda Cuervos muere esta noche, el Guarda Cuervos escoge un jugador. Muestra la ficha de rol de el jugador elegido."
     },
     "recluse": {
       "ability": "Quizás puedes registrar como malvado y como Demonio o Secuaz, incluso si muerto.",
