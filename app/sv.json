@@ -287,7 +287,7 @@
       "error_size": "För stor fil",
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
       "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera externa bilder i inställningarna.",
-      "homebrew_title": "Användarbilder avaktiverade",
+      "homebrew_title": "Externa bilder avaktiverade",
       "release_script": "Premiärmanus för {role}:",
       "theme": "Tema:",
       "theme_generic": "Generiskt tema:",
