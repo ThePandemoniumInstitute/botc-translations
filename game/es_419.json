@@ -1016,6 +1016,29 @@
       "flavor": "Cuando uno empieza a pensar que una cosa es simplemente otra cosa, uno suele estar al borde del error. Paciencia, paciencia. No confundas \"tan solo\" y \"debería\" con \"es\" y \"no es\".",
       "name": "Descifrador"
     },
+    "recluse": {
+      "ability": "Quizás puedes registrar como malvado y como Demonio o Secuaz, incluso si muerto.",
+      "name": "Recluso"
+    },
+    "revolutionary": {
+      "ability": "Se sabe que 2 jugadores vecinos son del mismo alineamiento. Una vez por juego, 1 de ellos puede registrar equivocadamente.",
+      "name": "Revolucionario"
+    },
+    "savant": {
+      "ability": "Cada día, puedes visitar al Narrador para aprender 2 cosas en privado: 1 es verdadera y 1 es falsa.",
+      "flavor": "Setenta y dos fósforos en el suelo... el sol se pone temprano, pero la luna sigue igual... un trozo de tela rasgado... maldad en la mansión... tres por tres... aquel en quien confiábamos no es lo que parece... la luz verde significa magnesio... residuos, pero el patrón es incorrecto... Setenta y dos fósforos en el suelo...",
+      "name": "Erudito"
+    },
+    "scapegoat": {
+      "ability": "Si un jugador de tu alineamiento es ejecutado, es posible que tú seas ejecutado en su lugar."
+    },
+    "scarletwoman": {
+      "ability": "Si hay 5 o más jugadores vivos y el Demonio muere, tú te conviertes en el Demonio. (Los viajeros no cuentan).",
+      "flavor": "Me has mostrado los secretos del Consejo de la Llama Púrpura. Nos hemos acostado juntos en el fuego, en la lujuria y en la comunión bestial, y seré tu sierviente para siempre. Pero esta noche, mi amor, soy tu amo/a."
+    },
+    "seamstress": {
+      "ability": "Una vez por juego, en la noche, elige a dos jugadores (no a ti mismo): descubre si comparten el mismo alineamiento."
+    },
     "yaggababble": {
       "name": "Yaggablabla"
     },
