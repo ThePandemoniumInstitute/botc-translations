@@ -206,6 +206,11 @@
         "running": "Lỗi thay đổi trạng thái đang chạy"
       }
     },
+    "edition": {
+      "button_clear": "Dọn Cẩm Thư",
+      "clear_description": "Việc này sẽ dọn sạch Cẩm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
+      "clear_title": "Dọn sạch Cẩm thư và Token Ghi chú"
+    },
     "settings": {
       "tab_general": "Chung"
     }
