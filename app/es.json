@@ -175,7 +175,7 @@
         "avatar_pixel": "La imagen es demasiado grande. Redúcela a menos de 4000x4000 antes de volver a subirla.",
         "avatar_size": "El archivo es demasiado grande. Inténtalo de nuevo con una imagen de menos de 5 MB.",
         "avatar_type": "No se reconoce el archivo como una imagen.",
-        "bluffs": "Error al actualizar los faroles",
+        "bluffs": "Error al actualizar los engaños",
         "chat2_text": "Parece que el chat del servidor está desconectado",
         "chat2_title": "Servidor de chat desconectado",
         "chat_text": "Se perdió la conexión al servidor del chat, intentando reconectar...\nMensaje de error: {0}",
