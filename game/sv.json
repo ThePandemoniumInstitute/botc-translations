@@ -247,7 +247,7 @@
     "alchemist": {
       "ability": "Du har en Kumpanförmåga. När du använder den kan berättaren uppmana dig att välja annorlunda.",
       "first": "Visa *DU ÄR* och en Kumpans rollbricka.",
-      "flavor": "Beträd jordens inre. Genom rektifiering finner du den dolda stenen. Ovan guldet vilar det röda. Kether i Malkuth.",
+      "flavor": "Beträd jordens inre. Genom rektifikation finner du den dolda stenen. Ovan guldet vilar det röda. Kether i Malkuth.",
       "name": "Alkemisten"
     },
     "alhadikhia": {
@@ -956,7 +956,7 @@
       "other": "Om Pestläkaren dött har berättaren fått en Kumpanförmåga. Om du inte redan gjort det så gör det nu."
     },
     "po": {
-      "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 inatt.",
+      "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 spelare inatt.",
       "flavor": "Vill du ha en blomma? Jag är så ensam.",
       "name": "Po",
       "other": "Po får välja en spelare. :reminder: Om Po är märkt *3 ATTACKER* så väljer Po tre spelare. :reminder: :reminder: :reminder:"
@@ -976,16 +976,16 @@
     "poppygrower": {
       "ability": "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt.",
       "first": "Gör inte Kumpan- och Demoninfon. Väck Demonen, visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda rollbrickor som inte är i spel.",
-      "flavor": "I den djupa skogens dolda lunder växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar.",
+      "flavor": "I den djupa skogens dolda lundar växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar.",
       "name": "Vallmoodlaren",
       "other": "Om Vallmoodlaren dog idag eller inatt: Väck Kumpanerna, visa kortet *DET HÄR ÄR DEMONEN* och peka på Demonen. Söv Kumpanerna. Väck Demonen, visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på Kumpanerna. Söv Demonen."
     },
     "preacher": {
       "ability": "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga.",
-      "first": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka.",
+      "first": "Predikanten väljer en spelare. :reminder: Söv Predikanten. Om Predikanten valde en Kumpan: Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka.",
       "flavor": "Hellre rik och frisk än fattig och sjuk.",
       "name": "Predikanten",
-      "other": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka."
+      "other": "Predikanten väljer en spelare. :reminder: Söv Predikanten. Om Predikanten valde en Kumpan: Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka."
     },
     "princess": {
       "ability": "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten.",
@@ -1109,7 +1109,7 @@
     },
     "snitch": {
       "ability": "Varje Kumpan får 3 bluffar.",
-      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda roller som inte är i spel. Söv varje kumpan.",
+      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda roller som inte är i spel. Söv varje Kumpan.",
       "flavor": "Det var Johan.",
       "name": "Golaren"
     },
@@ -1153,7 +1153,7 @@
       "ability": "När du dör blir 1 spelare full.",
       "flavor": "Jag kommer aldrig glömma henne. Aldrig.",
       "name": "Kärestan",
-      "other": "Om Kärestan dog blev en spelare full. Om du inte har gjort det än så gör det nu. :reminder:"
+      "other": "Om Kärestan dog blev en spelare full direkt. Om du inte har gjort det än så gör det nu. :reminder:"
     },
     "tealady": {
       "ability": "Om båda dina levande grannar är goda kan de inte dö.",
@@ -1200,7 +1200,7 @@
     },
     "villageidiot": {
       "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]",
-      "first": "Välj en Byfåne som är full. :reminder: Väck Byfånarna en i taget. De väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
+      "first": "Välj en Byfåne som är full. :reminder: Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
       "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så.",
       "name": "Byfånen",
       "other": "Väck Byfånarna en i taget. Varje Byfåne väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
