@@ -1012,7 +1012,7 @@
       "other": "Pukka väljer en spelare. :reminder: Den spelare som var förgiftad tidigare dör och blir sedan frisk. :reminder:"
     },
     "puzzlemaster": {
-      "ability": "1 spelare är full, även om du dör. Om du gissar vem (en chans) får du veta vem Demonen är, annars får du falsk info.",
+      "ability": "1 spelare är full, även om du dör. Om du gissar rätt på vem (en chans) får du veta vem Demonen är, annars får du falsk info.",
       "flavor": "Börjar man tro att en sak bara är en annan sak så är man oftast på väg att begå ett misstag. Tålamod, tålamod. Förväxla inte det som borde vara med det som är.",
       "name": "Pusselmästaren"
     },
@@ -1203,7 +1203,7 @@
       "first": "Välj en Byfåne som är full. :reminder: Väck Byfånarna en i taget. De väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
       "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så.",
       "name": "Byfånen",
-      "other": "Väck Byfånarna en i taget. De väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
+      "other": "Väck Byfånarna en i taget. Varje Byfåne väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
     },
     "virgin": {
       "ability": "Om den första som nominerar dig är Bybo avrättas hen omedelbart.",
