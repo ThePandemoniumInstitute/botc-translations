@@ -715,7 +715,7 @@
     },
     "innkeeper": {
       "ability": "Varje natt* väljer du 2 spelare; de kan inte dö inatt, men 1 är full till skymningen.",
-      "flavor": "Kom in, kära vandrare, och vila dina trötta ben. Drick och var glad, för den ondas härer kommer inte ofreda dig inatt.",
+      "flavor": "Kom in, kära vandrare, och vila dina trötta ben. Drick och var glad, för den ondas härar kommer inte ofreda dig inatt.",
       "name": "Gästgivaren",
       "other": "Gästgivaren väljer 2 spelare. :reminder: :reminder: :reminder:"
     },
@@ -737,7 +737,7 @@
       "other": "Ge en fingersignal."
     },
     "kazali": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är Kumpaner. ±? Utbölingar]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är vilka Kumpaner. ±? Utbölingar]",
       "first": "Kazali väljer sina Kumpaner.",
       "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig.",
       "name": "Kazali",
@@ -757,7 +757,7 @@
     },
     "knight": {
       "ability": "I början vet du 2 spelare som inte är Demonen.",
-      "first": "Peka på de två spelare som är markerade med *VET*.",
+      "first": "Peka på de två spelarna som är markerade med *VET*.",
       "flavor": "När en man ljuger mördar han ock en del av världen.",
       "name": "Riddaren"
     },
@@ -769,10 +769,10 @@
     },
     "leviathan": {
       "ability": "Om mer än 1 god spelare avrättas vinner de onda. Alla vet att du är i spel. Efter dag 5 vinner de onda.",
-      "first": "Meddela att ”Leviatan är i spel”. Markera Leviathan med påminnelsen *DAG 1*. :reminder:",
+      "first": "Meddela öppet att ”Leviatan är i spel”. Markera Leviatan med påminnelsen *DAG 1*. :reminder:",
       "flavor": "Till det sista kämpar jag mot dig. Från dödsrikets hjärta riktar jag mitt järn mot dig. Med mitt sista andetag slungar jag emot dig mitt utmanande hat.",
       "name": "Leviatan",
-      "other": "Meddela att ”Leviatan är i spel” om du vill. Byt ut påminnelsen. :reminder:"
+      "other": "Meddela öppet att ”Leviatan är i spel” om du vill. Byt ut påminnelsen. :reminder:"
     },
     "librarian": {
       "ability": "I början vet du att 1 av 2 spelare är en viss Utböling (eller att 0 är i spel).",
