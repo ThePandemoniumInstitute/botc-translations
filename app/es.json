@@ -588,7 +588,7 @@
       "title": "Perfil de usuario"
     },
     "users": {
-      "chat_connection": "Tipo de conexión al chat",
+      "chat_connection": "Tipo de conexión de chat.",
       "grim_access": "Acceso al Grimorio",
       "group_sub": "Suscriptor de grupo",
       "new_user": "Nuevo usuario",
