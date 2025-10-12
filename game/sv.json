@@ -982,10 +982,10 @@
     },
     "preacher": {
       "ability": "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga.",
-      "first": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Predikantens rollbricka.",
+      "first": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka.",
       "flavor": "Hellre rik och frisk än fattig och sjuk.",
       "name": "Predikanten",
-      "other": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DEN HÄR FÖRMÅGAN PÅVERKAR DIG* och Predikantens rollbricka."
+      "other": "Predikanten väljer en spelare. :reminder: Om Predikanten väljer en Kumpan: Söv Predikanten. Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka."
     },
     "princess": {
       "ability": "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten.",
@@ -995,7 +995,7 @@
     },
     "professor": {
       "ability": "En gång per spel, på natten*, kan du välja en död spelare; om du väljer en Bybo återupplivas hen.",
-      "flavor": "Processen är enkel. Fäst hydraulkonfabulatorn i den modifierade chi-matrisförstärkaren, tillsätt 20 ml pseudodorafin, och håll hans z-nivå över 20 %, så ska du se att det ordnar sig med din make. Nu behöver vi bara ett blixtnedslag.",
+      "flavor": "Processen är enkel. Fäst hydraulkonfabulatorn i den modifierade chi-matrisförstärkaren, tillsätt 20 ml pseudodorafin, och håll hans z-nivå över 20 %, så ska du se att det ordnar sig med din make. Nu behöver vi bara ett blixtnedslag.",
       "name": "Professorn",
       "other": "Professorn kan välja en död spelare. :reminder: :reminder:"
     },
@@ -1228,7 +1228,7 @@
       "name": "Voudon"
     },
     "washerwoman": {
-      "ability": "I början får du veta att 1 av 2 spelare är en viss Bybo.",
+      "ability": "I början vet du att 1 av 2 spelare är en viss Bybo.",
       "first": "Visa Bybons rollbricka. Peka på spelarna märka *BYBO* och *FEL*.",
       "flavor": "Blodfläckar på smokingen? Nej, det är matlagningssherry. Så vårdslöst.",
       "name": "Tvätterskan"
@@ -1268,7 +1268,7 @@
       "other": "Byt ut Xaans påminnelse till den aktuella natten. Om det är natt X, märk istället Xaan med påminnelsen *X*. :reminder: :reminder:"
     },
     "yaggababble": {
-      "ability": "I början får du veta en hemlig fras. För varje gång du sa den öppet idag kan en spelare dö.",
+      "ability": "I början vet du en hemlig fras. För varje gång du sa den öppet idag kan en spelare dö.",
       "first": "Välj en hemlig fras. Väck Yaggababbel och visa den hemliga frasen.",
       "flavor": "Mord på Rue Morgue? Фальшивые новости! Hundar på Baskervillemyren? Фальшивые новости! Död på Nilen? Фальшивые новости!",
       "name": "Yaggababbel",
@@ -1280,7 +1280,7 @@
       "name": "Fanatikern"
     },
     "zombuul": {
-      "ability": "Varje natt* efter en dag när ingen dog väljer du en spelare; hen dör. Första gången du dör lever du men registreras som död.",
+      "ability": "Varje natt*, om ingen dog idag, väljer du en spelare; hen dör. Första gången du dör lever du men registreras som död.",
       "flavor": "Jag. Förstår inte. Dig. Medmänniska. Visa mig. Jorden. Där den heliga. Sover. Jag måste. Också sova. Snart.",
       "name": "Zombuul",
       "other": "Om ingen dog idag så väljer Zombuul en spelare. :reminder:"
