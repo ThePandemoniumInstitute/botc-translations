@@ -442,6 +442,110 @@
     "saint": {
       "ability": "Nếu bạn chết bởi hành quyết, phe bạn thua.",
       "flavor": "Trí tuệ sinh ra bình an. Kiên nhẫn sinh ra trí tuệ. Đừng sợ hãi, vì sẽ đến lúc nỗi sợ hãi cũng sẽ qua đi. Chúng ta hãy cầu nguyện, và xin cho sự hiệp nhất trong tầm nhìn của chúng ta sẽ biến tất cả chúng ta thành những vị thánh."
+    },
+    "savant": {
+      "flavor": "Bảy mươi hai que diêm trên sàn nhà... mặt trời lặn sớm nhưng mặt trăng vẫn không thay đổi... một mảnh vải rách... điều xấu xa trong dinh thự... ba que diêm... người mà chúng ta tin tưởng không phải là người như vẻ bề ngoài... ánh sáng xanh lá cây có nghĩa là magiê... cặn bã, nhưng hoa văn thì sai... Bảy mươi hai que diêm trên sàn nhà..."
+    },
+    "scapegoat": {
+      "ability": "Nếu một người chơi cùng phe với bạn bị hành quyết, bạn có thể sẽ bị hành quyết thay họ.",
+      "flavor": "Chào buổi tối! Cảm ơn đã mời tôi đến dự vũ hội. Tôi không phải người ở đây, nhưng trông các bạn có vẻ thân thiện lắm đấy. Chắc chắn chúng ta sẽ hợp nhau lắm đây. Dây thừng kia để làm gì thế?"
+    },
+    "scarletwoman": {
+      "ability": "Nếu có 5 người chơi hay nhiều hơn còn sống & Ác quỷ đã chết, bạn sẽ trở thành Ác quỷ. (Lữ hành không tính)",
+      "flavor": "Ngươi đã cho ta thấy bí mật của Hội đồng Ngọn lửa Tím. Chúng ta đã cùng nhau nằm trong lửa, trong dục vọng và trong giao tiếp thú tính, và ta mãi mãi là tôi tớ của ngươi. Nhưng đêm nay, hỡi người yêu dấu, ta là chủ nhân của ngươi.",
+      "other": "Nếu tay sai Scarlet Woman trở thành Ác quỷ hôm nay, cho thấy token *BẠN LÀ*, và token Ác quỷ."
+    },
+    "seamstress": {
+      "ability": "Một lần trong ván chơi, vào ban đêm, chọn 2 người chơi ( trừ bản thân): bạn biết nếu họ cùng phe hay khác phe.",
+      "first": "Dân làng Seamstress có thể chọn 2 người chơi. Gật hay lắc đầu. :reminder:",
+      "flavor": "Bạn có nghe thấy người lạ mặc áo khoác cashmere đã ngỏ lời với Belle của chúng ta không? Và cô ấy đã đồng ý? Chà, điều đó chẳng là gì so với những gì Harry và gã tung hứng kia đã làm ở hội chợ! Những điều tôi có thể nói nếu tôi là một kẻ mách lẻo... ôi, đúng vậy.",
+      "other": "Dân làng Seamstress có thể chọn 2 người chơi. Gật hay lắc đầu. :reminder:"
+    },
+    "sentinel": {
+      "ability": "Có thể có thêm 1 hoặc ít hơn 1 Ngoại lai trong ván chơi.",
+      "flavor": "Xin vui lòng cho biết tên. Xin vui lòng cho biết giấy tờ. Xin vui lòng cho biết vũ khí."
+    },
+    "shabaloth": {
+      "ability": "Mỗi đêm*, chọn 2 người chơi: họ sẽ chết. Một người chơi đã chết bạn chọn đêm trước có thể sẽ được nôn ra.",
+      "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
+      "other": "Một người chơi được chọn đêm trước có thể được hồi sinh. :reminder: Ác quỷ Shabaloth chọn 2 người chơi. :reminder: :reminder:"
+    },
+    "shugenja": {
+      "ability": "Bạn bắt đầu biết người chơi phe xấu gần bạn nhất theo hướng thuận hay ngược chiều kim đồng hồ. Nếu bằng, Người kể chuyện sẽ tự quyết định.",
+      "first": "Chỉ theo hướng thuận hay ngược chiều đồng hồ trong vòng tròn.",
+      "flavor": "Đây là một giấc mơ. Đó là một giấc mơ. Tất cả đều là một giấc mơ. (tiếng Nhật)"
+    },
+    "slayer": {
+      "ability": "Một lần trong ván chơi, vào ban ngày, công khai chọn một người chơi: nếu họ là Ác quỷ, họ sẽ chết.",
+      "flavor": "Chết đi."
+    },
+    "snakecharmer": {
+      "ability": "Mỗi đêm, chọn một người chơi còn sống: Ác quỷ nếu được chọn sẽ hoán đổi nhân vật & phe với bạn & bị đầu độc.",
+      "first": "Dân làng Snake Charmer chọn một người chơi. Nếu họ chọn phải Ác quỷ: Cho thấy token *BẠN LÀ* & token Ác quỷ. Cho thấy ngón cái hướng xuống. Hoán đổi token Snake Charmer & Ác quỷ. Cho dân làng Snake Charmer cũ đi ngủ. Đánh thức Ác quỷ cũ. Cho thấy token *BẠN LÀ* và token Snake Charmer & cho thấy ngón cái hướng lên. :reminder:",
+      "flavor": "Kính thưa Đức Cha... Con chỉ là một người khiêm nhường, nhưng chiếc tẩu của con bằng vàng ròng, và chỉ một giai điệu cũng đủ để chế ngự được cả thần đèn Inshallah hung dữ nhất. Người ta nói rằng lòng tham trói buộc con người hơn cả dây thừng. Nhưng con thì không, thưa Đức Cha... con không.",
+      "other": "Dân làng Snake Charmer chọn một người chơi. Nếu họ chọn phải Ác quỷ: Cho thấy token *BẠN LÀ* & token Ác quỷ. Cho thấy ngón cái hướng xuống. Hoán đổi token Snake Charmer & Ác quỷ. Cho dân làng Snake Charmer cũ đi ngủ. Đánh thức Ác quỷ cũ. Cho thấy token *BẠN LÀ* và token Snake Charmer & cho thấy ngón cái hướng lên. :reminder:"
+    },
+    "snitch": {
+      "ability": "Mỗi Tay sai nhận được 3 nhân vật không có trong ván chơi.",
+      "first": "Đánh thức từng Tay sai. Cho thấy token *NHỮNG NHÂN VẬT NÀY KHÔNG CÓ TRONG VÁN CHƠI* và ba token nhân vật đó. Cho từng Tay sai đi ngủ.",
+      "flavor": "Là thằng John đó."
+    },
+    "soldier": {
+      "ability": "Bạn an toàn khỏi tấn công của Ác quỷ.",
+      "flavor": "Như David đã nói với Goliath, như Theseus đã nói với Minotaur, như Arjuna đã nói với Bhagadatta... Không."
+    },
+    "spiritofivory": {
+      "ability": "Chỉ có tối đa 1 người chơi có thể chuyển qua phe xấu.",
+      "flavor": "Vùng đất hoang vu vẫy gọi. Xương hóa thành thịt, rồi tan thành bụi. Linh hồn vĩ đại lớn lên. Linh hồn vĩ đại dõi theo. Linh hồn vĩ đại dẫn đường. Con người lắng nghe, hoặc con người sẽ không còn nữa."
+    },
+    "spy": {
+      "ability": "Mỗi đêm, bạn có thể nhìn vào Cẩm thư. Bạn có thể được tính như theo phe tốt & là một Dân làng hay Ngoại lai, kể cả khi chết.",
+      "first": "Cho tay sai Spy nhìn vào Cẩm thư bao lâu tùy họ.",
+      "other": "Cho tay sai Spy nhìn vào Cẩm thư bao lâu tùy họ."
+    },
+    "steward": {
+      "ability": "Bạn bắt đầu biết một người chơi phe tốt.",
+      "first": "Chỉ tay vào người chơi phe tốt đánh dấu *BIẾT*.",
+      "flavor": "Sao ngươi DÁM cáo buộc Phu nhân làm điều sai trái? Ta đã biết bà ấy cả đời rồi! Chín năm ròng!"
+    },
+    "stormcatcher": {
+      "ability": "Hãy nêu tên một nhân vật tốt. Nếu có trong ván chơi, họ chỉ có thể chết khi bị xử tử, nhưng những người phe xấu sẽ biết đó là ai.",
+      "first": "Khi đêm bắt đầu, thông báo nhân vật nào được Storm Catcher ưu ái. Nếu nhân vật đó có trong ván chơi, đánh dấu người chơi đó *AN TOÀN*. Đánh thức từng người chơi phe xấu và cho thấy token nhân vật ấy, rồi chỉ tay vào người chơi được đánh dấu. \n Nếu không có trong ván chơi, đánh thức từng người chơi phe xấu, cho thấy token *NHỮNG NHÂN VẬT NÀY KHÔNG CÓ TRONG VÁN CHƠI* and token nhân vật tương ứng.",
+      "flavor": "Bình minh lên, bóng dài của ngôi đền trải dài đến tận đài phun nước. Hoàng hôn buông xuống, cột tháp chặn ánh sáng đỏ rực, làm mát dòng nước ấm áp dưới vòm cổng. Mọi đường nét đều hội tụ tại đây. Một cơn bão đang đến, và nơi đây, chốn linh thiêng, xanh tươi và đầy sỏi đá giữa những cây táo, chính là con mắt."
+    },
+    "summoner": {
+      "ability": "Bạn biết được 3 nhân vật không có trong ván chơi. Vào đêm thứ 3, chọn một người chơi: họ trở thành một nhân vật Ác quỷ theo phe xấu bạn chọn. [Không có Ác quỷ]",
+      "first": "Cho thấy token *NHỮNG NHÂN VẬT NÀY KHÔNG CÓ TRONG VÁN CHƠI*. Cho thấy 3 token những nhân vật đó.",
+      "flavor": "Chào mừng những người bảo vệ phương Bắc; bởi trí tuệ của ta, ngươi đã bị cắt đứt. Chào mừng những người bảo vệ phương Đông; bởi ý chí của ta, ngươi đã bị chế ngự. Chào mừng những người bảo vệ phương Nam; bởi những gì nằm ở phía bên kia, bí ẩn đã được hé lộ. Chào mừng những người bảo vệ phương Tây; một lá chắn trong bóng tối"
+    },
+    "sweetheart": {
+      "ability": "Khi bạn chết, 1 người chơi sẽ bị say rượu từ giờ trở đi.",
+      "flavor": "Tôi sẽ không bao giờ quên cô ấy. Không bao giờ.",
+      "other": "Khi ngoại lai Sweetheart chết, một người sẽ trở nên say rượu ngay lập tức. Nếu bạn chưa làm điều này, hãy làm ngay bây giờ. :reminder:"
+    },
+    "tealady": {
+      "ability": "Nếu cả hai người chơi hai bên bạn đều theo phe tốt, họ không thể chết.",
+      "flavor": "Nếu bạn lạnh, trà sẽ làm bạn ấm lên. Nếu bạn quá nóng, trà sẽ làm bạn mát mẻ. Nếu bạn chán nản, trà sẽ làm bạn phấn chấn. Nếu bạn phấn khích, trà sẽ làm bạn bình tĩnh."
+    },
+    "thief": {
+      "ability": "Mỗi đêm, chọn một người chơi (trừ bản thân): phiếu của họ tính là âm vào ngày mai.",
+      "first": "Lữ hành Thief chọn một người chơi. :reminder:",
+      "flavor": "Tôi hông làm dì cả. Tối qua tôi còn chẳng ở cái hẻm đó! Không phải tôi lấy chộm chiếc cặp của Thị trưởng Bruno cùn với tất cả những dấy tờ càu kì đó đâu. Hơn nữa, nó qá nặng để mang đi xa.",
+      "other": "Ngoại lai Thief chọn một người chơi. :reminder:"
+    },
+    "tinker": {
+      "flavor": "Tôi nghĩ mình đã hiểu vấn đề rồi. May mắn thay, tôi có một ý tưởng! Chiếc máy bắn đá này sẽ bắn xa gấp đôi chỉ với một chút điều chỉnh nhỏ...",
+      "other": "Ngoại lai Tinker có thể chết. :reminder:"
+    },
+    "towncrier": {
+      "ability": "Mỗi đêm*, bạn biết nếu Tay sai biểu quyết ngày hôm nay.",
+      "flavor": "Nghe đây! Nghe đây! Ma thuật trong mê cung! Nhà thông thái thiên tài tiết lộ tất cả! Thị trấn đang gặp nguy hiểm! Nghe đây!",
+      "other": "Gật hay lắc đầu."
+    },
+    "toymaker": {
+      "ability": "Ác quỷ có thể chọn không tấn công & phải làm điều này ít nhất một lần. Người chơi phe xấu nhận được thông tin như bình thường.",
+      "first": "Cho thông tin Tay sai và Ác quỷ như bình thường kể cả khi có ít hơn 7 người chơi.",
+      "flavor": "Nó biết kêu vo vo! Nó biết đi xuống cầu thang! Nó giữ ấm cho bạn vào ban đêm! Nó có vị như đường! Trẻ em rất thích! Xin giới thiệu... sản phẩm hoàn toàn mới... Robot biết kêu vo vo, biết đi lại! Thú vị cho mọi lứa tuổi!"
     }
   }
 }
