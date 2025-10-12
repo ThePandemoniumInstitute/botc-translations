@@ -584,7 +584,7 @@
       "grimoire_access_revoke": "Revocar acceso al Grimorio",
       "loading": "Cargando usuario...",
       "prompt_kick": "¿Estás seguro de que quieres eliminar a {0} de la sesión de juego?",
-      "prompt_st": "Realmente quieres promocionar a {0} a Narrador?\n Después de que confirme la petición, tendrá plenos poderes de Narrador y acceso al Grimorio.",
+      "prompt_st": "¿Realmente quieres hacer a {0} un Narrador?\nDespues de que confirme esta petición, tendra poderes completos de Narrador y acceso al Grimorio.",
       "title": "Perfil de usuario"
     },
     "users": {
