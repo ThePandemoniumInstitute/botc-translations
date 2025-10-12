@@ -239,6 +239,65 @@
     },
     "lunatic": {
       "ability": "Bạn nghĩ bạn là Ác quỷ, nhưng bạn không phải. Ác quỷ biết bạn là ai & người bạn chọn vào ban đêm."
+    },
+    "marionette": {
+      "ability": "Bạn nghĩ bạn là nhân vật phe tốt như bạn không phải. Ác quỷ biết bạn là ai. [Bạn ngồi kế bên Ác quỷ]",
+      "first": "Đánh thức Ác quỷ. Chỉ tay vào người chơi đánh dấu *LÀ MARIONETTE* and cho thấy token *NGƯỜI CHƠI NÀY LÀ* and token nhân vật Marionette.",
+      "flavor": "Lời nói. Đó là những gì chúng ta có để tiếp tục.",
+      "name": "Marionette"
+    },
+    "mastermind": {
+      "ability": "Nếu Ác quỷ chết bởi hành quyết (kết thúc trò chơi), tiếp tục thêm 1 ngày. Nếu một người chơi bị hành quyết, phe của họ thua.",
+      "flavor": "Xúc tu của con quái vật đó được đóng cọc lên cánh cửa của nhà thờ. Các bà mẹ và những đứa trẻ đang nhảy hát, vui mừng trên đường phố. Hoàn hảo. Mọi thứ diễn ra đúng như ta dự đoán.",
+      "name": "Mastermind"
+    },
+    "mathematician": {
+      "ability": "Mỗi đêm, bạn biết bao nhiêu năng lực của người chơi hoạt động bất thường (kể từ bình minh) do ảnh hưởng từ năng lực của nhân vật khác.",
+      "first": "Đưa dấu hiệu bằng ngón tay.",
+      "flavor": "Bất kỳ hệ thống chính thức nhất quán x nào, trong đó có thể thực hiện một lượng phép tính số học cơ bản nhất định, đều không nhất quán; nghĩa là, có những phát biểu trong ngôn ngữ của x không thể được chứng minh hoặc bác bỏ trong x. Do đó, bạn say rồi, Ergo ạ.",
+      "name": "Mathematician",
+      "other": "Đưa dấu hiệu bằng ngón tay."
+    },
+    "matron": {
+      "ability": "Mỗi ngày, bạn có thể chọn đến tối đa 3 cặp 2 người chơi để hoán đổi chỗ ngồi. Người chơi không thể rời khỏi chỗ ngồi để nói riêng.",
+      "flavor": "Cô Featherbottom, im lặng nào. Ngài Rutherford, tách trà chỉ cần bốn ngón tay là đủ rồi, làm ơn. Tôi biết ông có chín người con, nhưng dù già hay trẻ, không phải là lời bào chữa cho cách cư xử kém như thế."
+    },
+    "mayor": {
+      "ability": "Nếu chỉ còn 3 người chơi còn sống & không có hành quyết nào diễn ra, phe của bạn thắng. Nếu bạn chết vào ban đêm, một người chơi khác có thể chết thay.",
+      "flavor": "Chúng ta phải đặt mối bất đồng qua một bên, và dừng việc giết chóc lẫn nhau vô nghĩa này. Sau cùng, tất cả mọi người cũng đều là những người đóng thuế. Hừm, hầu hết mọi người."
+    },
+    "mezepheles": {
+      "ability": "Bạn bắt đầu biết một từ bí mật. Người chơi phe tốt đầu tiên nói từ này sẽ chuyển qua phe xấu đêm nay.",
+      "first": "Cho thấy từ bí mật.",
+      "flavor": "Những gì xuất phát từ trái tim sẽ khiến trái tim người khác hướng về bạn.",
+      "other": "Nếu một người chơi được đánh dấu bằng gợi nhớ *CHUYỂN QUA PHE XẤU*, đánh thức họ. Cho họ thấy token thông tin *BẠN LÀ* and ngón tay cái hướng xuống. Tay sai Mezepheles mất đi năng lực. :reminder:"
+    },
+    "minioninfo": {
+      "first": "Nếu có nhiều hơn 7 người chơi, đánh thức tất cả Tay sai:\n\tCho thấy token *ĐÂY LÀ ÁC QUỶ*. Chỉ tay vào Ác quỷ.\n\tCho thấy token *ĐÂY LÀ TAY SAI CỦA BẠN*. Chỉ tay vào các Tay sai khác.",
+      "name": "Thông tin Tay sai"
+    },
+    "minstrel": {
+      "ability": "Khi một Tay sai chết bởi hành quyết, tất cả người chơi (trừ lữ hành) sẽ bị say rượu cho bên hoàng hôn hôm sau.",
+      "flavor": "Và em sẽ nghe thấy, dù anh bước đi nhẹ nhàng trên cao... Và mọi giấc mơ của em sẽ ấm áp và ngọt ngào hơn... Nếu anh không quên nói với em rằng anh yêu em... Em sẽ ngủ yên bình cho đến khi anh đến với em."
+    },
+    "monk": {
+      "ability": "Mỗi đêm*, chọn một người chơi (trừ bản thân): họ sẽ an toàn khỏi sự tấn công của Ác quỷ đêm nay.",
+      "other": "Dân làng Monk chọn một người chơi. :reminder:"
+    },
+    "moonchild": {
+      "ability": "Khi bạn biết bạn đã chết, công khai chọn một người chơi còn sống. Đêm nay, nếu theo phe tốt, họ sẽ chết.",
+      "flavor": "Chòm sao Bọ Cạp nhìn nghiêng đôi tình nhân, và bạn phải đưa ra lựa chọn. Với sợi bạc vắt ngang lòng bàn tay, số phận bạn sẽ được hé lộ. Với sợi thép vắt ngang cổ họng, và dưới những vì sao, bạn sẽ phải hối hận.",
+      "name": "Moonchild",
+      "other": "Nếu năng lực Ngoại lai Moonchild giết một người chơi phe tốt, họ sẽ chết. :reminder:"
+    },
+    "mutant": {
+      "ability": "Nếu bạn \"điên\" rằng bạn là Ngoại lai, bạn có thể sẽ bị hành quyết.",
+      "flavor": "Tôi không phải là quái vật! Tôi là một con người! Xin hãy rộng lượng!"
+    },
+    "nightwatchman": {
+      "ability": "Một lần trong ván chơi, vào ban đêm, chọn một người chơi: họ sẽ biết bạn là dân làng Nightwatchman.",
+      "first": "Dân làng Nightwatchman có thể chọn một người chơi :reminder: Cho dân làng Nightwatchman đi ngủ. Đánh thức người được chọn và cho họ thấy token *NGƯỜI CHƠI NÀY LÀ* và token Nightwatchman và chỉ tay vào người đó.",
+      "flavor": "Đêm lạnh lẽo và cô đơn, nhưng tôi có trăng, có sao, có gió mát và tiếng giày da nện nhẹ trên đá cuội làm bạn. Đằng kia, ánh nến lung linh sau khung cửa sổ mờ ảo..."
     }
   }
 }
