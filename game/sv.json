@@ -817,7 +817,7 @@
     "magician": {
       "ability": "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon.",
       "first": "Inkludera Magikern i Kumpan- och Demoninfon.",
-      "flavor": "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs förvunnit! Spårlöst borta! Tack så mycket, och god natt!",
+      "flavor": "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs försvunnit! Spårlöst borta! Tack så mycket, och god natt!",
       "name": "Magikern"
     },
     "marionette": {
@@ -907,14 +907,14 @@
       "name": "Resen"
     },
     "ojo": {
-      "ability": "Varje natt väljer du en roll*; hen dör. Om rollen inte är i spel väljer berättaren vem som dör.",
+      "ability": "Varje natt* väljer du en roll; hen dör. Om rollen inte är i spel väljer berättaren vem som dör.",
       "flavor": "Jag ser dig, klart som ett bål på en månfri natt.",
       "name": "Ojo",
       "other": "Ojo väljer en spelare. :reminder: "
     },
     "oracle": {
       "ability": "Varje natt* får du veta hur många döda spelare som är onda.",
-      "flavor": "Endast de utvalda får se på andra sidan floret. De döda är rolösa, och de pekar tysta mot den kalla norden.",
+      "flavor": "Endast de utvalda får se på andra sidan floret. De döda saknar ro, och de pekar tyst mot den kalla norden.",
       "name": "Oraklet",
       "other": "Ge en fingersignal."
     },
@@ -931,7 +931,7 @@
       "name": "Pacifisten"
     },
     "philosopher": {
-      "ability": "En gång per spel, på natten, kan du välja en god roll; du får dess förmåga. Om rollen redan är i spel blir hen full.",
+      "ability": "En gång per spel, på natten, kan du välja en god roll; du får dess förmåga. Om rollen är i spel blir hen full.",
       "first": "Filosofen kan välja en roll. Byt eventuellt ut hens rollbricka. :reminder:",
       "flavor": "Om det är någonting som är verkligt så är det öl. Drick, för imorgon kan vi vara döda.",
       "name": "Filosofen",
@@ -941,7 +941,7 @@
       "ability": "Varje natt* väljer du en spelare och en roll hen blir (om den inte är i spel). Om en Demon skapas dör spelare godtyckligt.",
       "flavor": "Kringom kitteln gå med flit; innanmätet kasta dit. Padda, du, som under sten, dar och nätter trettien, sov och sög av gift dig stinn – gå du först i kitteln in!",
       "name": "Trollpackan",
-      "other": "Trollpackan väljer en spelare och en roll. Om den valda rollen inte är i spel: Söv Trollpackan. Väck den valda spelaren. Visa kortet *DU ÄR* och den nya rollbrickan."
+      "other": "Trollpackan väljer en spelare och en roll. Söv Trollpackan. Om den valda rollen inte är i spel: Väck den valda spelaren. Visa kortet *DU ÄR* och den nya rollbrickan."
     },
     "pixie": {
       "ability": "I början vet du 1 Bybo som är i spel. Om du är galen om att du är den rollen får du dess förmåga när den dör.",
