@@ -736,7 +736,7 @@
       "whisper": "Envoyer Message Privé"
     },
     "name": {
-      "claim": "Appuyez pour s'assoir",
+      "claim": "Appuyez pour s'asseoir",
       "connecting": "Ce joueur se connecte au chat vocal.",
       "follow": "Vous suivez ce joueur.",
       "listening": "Ce joueur écoute le chat vocal.",
@@ -752,18 +752,42 @@
     },
     "reminders": {
       "add": "Ajouter Aide-Mémoire",
-      "edit": "Modifier Aide-Mémoire {0}"
+      "edit": "Modifier Aide-Mémoire {0}",
+      "edit_title": "Modifier Aide-Mémoire",
+      "saved_favorite": "Enregistré dans les favoris"
     },
     "shroud_add": "Ce linceul n'est pas visible par les autres joueurs. Cliquer à nouveau en journée pour le rendre visible.",
+    "shroud_remove": "Ce linceul est toujours visible par les autres joueurs. Cliquer à nouveau en journée pour le retirer.",
     "toggle_status": "Modifier Statut"
   },
   "session": {
+    "access": "Accès",
     "copy": "Cliquer pour copier dans le presse-papier",
+    "created": "Créé il y a {0} par {1}.",
+    "free": "Gratuit pour tout le monde",
+    "language": "Langue du Chat",
     "locked": "Conteuses et Joueurs",
+    "prompt_public_title": "Rendre la Partie Publique",
     "server": "Serveur de Discussion :",
-    "session_name": "Nom de la Session"
+    "server_name": "Nom",
+    "server_stats": "{0} utilisateurs, {1} charge du serveur",
+    "session_name": "Nom de la Session",
+    "subscription_needed": "Abonnement nécessaire",
+    "visibility_public": "Publique"
+  },
+  "storyteller": {
+    "connecting": "La conteuse se connecte au chat vocal.",
+    "follow": "Suivre la Conteuse",
+    "listening": "La conteuse écoute ce chat vocal.",
+    "prompt_grim_title": "Erreur lors de la Demande d'Accès au Grimoire",
+    "remove": "Retirer Conteuse",
+    "request_grim": "Demander l'Accès au Grimoire",
+    "title": "Conteuses"
   },
   "tabs": {
+    "bluffs": {
+      "title": "Bluffs"
+    },
     "character": {
       "error_popout": "Erreur lors de la création de la fenêtre",
       "error_save": "Erreur lors de sauvegarde du fichier"
