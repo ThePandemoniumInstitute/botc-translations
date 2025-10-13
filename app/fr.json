@@ -266,7 +266,7 @@
       "button_paste": "Coller",
       "button_upload": "Charger",
       "button_url": "URL",
-      "clear_description": "Cette action va vider le Grimoire et les Aides-Mémoire pour vous et tous les autres joueurs. Êtes vous sûr·e ?",
+      "clear_description": "Cette action videra le Grimoire et retirera tous les Aides-Mémoire pour vous et tous les joueurs. Êtes-vous sûr·e ?",
       "clear_title": "Vider le Grimoire et les Jetons de Rappel",
       "custom_placeholder": "URL du Script Personnalisé",
       "custom_text": "Entrer l'URL d'un fichier custom-script.json",
