@@ -25,7 +25,7 @@
         "title": "Si les caméras sont actives ou non durant cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
-        "value_2": "Éteint"
+        "value_2": "Éteintes"
       },
       "difficulty": {
         "label": "Difficulté",
@@ -796,18 +796,98 @@
       "title": "Personnages"
     },
     "chat": {
-      "incoming": "Entrant"
+      "cancel": "Annuler la Demande",
+      "channels": {
+        "bmr_0": "Taverne",
+        "bmr_1": "Hutte",
+        "bmr_2": "Marais",
+        "bmr_3": "Ferme",
+        "bmr_4": "Caravane",
+        "custom_1": "Tour",
+        "custom_2": "Cathédrale",
+        "custom_3": "Feu de camp",
+        "custom_4": "Bord de Rivière",
+        "snv_0": "Jardin d'herboriste",
+        "snv_1": "Serre",
+        "snv_3": "Temple",
+        "snv_4": "Tente de Cirque",
+        "tb_0": "Monastère",
+        "tb_1": "Église",
+        "tb_2": "Cimetière",
+        "tb_3": "Bibliothèque",
+        "tb_4": "Laboratoire"
+      },
+      "following": "Vous suivez ce joueur.",
+      "incoming": "Entrant",
+      "leave_room": "Quitter la salle",
+      "night": "La nuit est tombée...",
+      "outgoing": "Sortant",
+      "reset_position": "Réinitialiser la position",
+      "spectator": "Spectateur",
+      "title": "Voix"
     },
     "fabled": {
       "remove": "Enlever le Légendaire",
       "title": "Légendaire"
+    },
+    "text": {
+      "channels": {
+        "private": "Privé",
+        "public": "Publique",
+        "spectator": "Spectateurs"
+      },
+      "message_blocked": "non envoyé",
+      "message_to": "à",
+      "prompt_public": "Annonce Publique",
+      "prompt_system": "Messages système",
+      "prompt_user": "À {0}",
+      "system": {
+        "death": "{0} est mort.",
+        "grim_deny": "{0} s'est vu refusé l'accès au Grimoire.",
+        "grim_request": "{0} a demandé l'accès au Grimoire.",
+        "join": "{0} a rejoint la partie.",
+        "leave": "{0} a quitté la partie.",
+        "phase": "{0} a commencé.",
+        "revive": "{0} a ressuscité.",
+        "seat_claim": "{0} a pris le siège {1}.",
+        "seat_empty": "{0} a été expulsé du siège {1}.",
+        "seat_vacate": "{0} a quitté le siège {1}.",
+        "signal": "{0} a envoyé un signal de nuit à {1}."
+      },
+      "title": "Texte"
     }
   },
   "user": {
+    "avatar_enabled": "Avatar visible",
+    "camera_enabled": "Caméra visible",
+    "error_avatar_text": "L'avatar que vous avez choisi fait {0}Mo, mais la taille maximal est {1}Mo.",
+    "error_avatar_title": "Le fichier est trop gros",
     "gain": "Gain",
-    "registration": "Enregistrement"
+    "id": "ID de l'Utilisateur",
+    "mic_volume": "Volume du Micro",
+    "new_user": "Nouvel Utilisateur",
+    "pronouns": "pronoms",
+    "registration": "Enregistrement",
+    "statistics": "Statistiques",
+    "stats": {
+      "edition": "Édition la\n plus jouée",
+      "loading": "Chargement des statistiques...",
+      "none": "Aucun",
+      "player": "Parties\n Jouées",
+      "player_wins": "% de Victoire"
+    },
+    "stats_hidden": "Caché",
+    "stats_private": "Privé",
+    "stats_public": "Publique",
+    "upload_avatar": "Uploader un Avatar",
+    "verified": "Utilisateur Vérifié"
   },
   "version": {
+    "download": "Veuillez télécharger et installer la dernière version {0} ici.",
+    "players_alive": "{0} / {1} joueurs en vie",
+    "updating": "Mise à jour de l'app à la version {0}...",
+    "warning_browser": "Vous utilisez un navigateur désuet ou non supporté",
+    "warning_update": "Votre version de l'app est désuète",
     "warning_update2": "{0}, la dernière version est la {1} !"
   }
 }
