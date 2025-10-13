@@ -599,9 +599,15 @@
       "error_other": "Quelque chose s'est mal passé : {0}. Veuillez réessayer.",
       "error_pending": "Code incorrect. Veuillez réessayer.",
       "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entaché. Les parties privées ne sont pas concernées.",
-      "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable."
+      "text_body2": "des parties publiques",
+      "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable.",
+      "text_title": "Pourquoi est-ce nécessaire ?",
+      "title": "Vérification de compte"
     },
     "votehistory": {
+      "clear": "Vider l'historique des votes",
+      "execution": "Exécution",
+      "exile": "Exile",
       "majority": "Majorité",
       "nominator": "Nominant",
       "nominee": "Nominé",
@@ -795,10 +801,23 @@
       "description": "Vous utilisez la version {0}, mais la version la plus récente est la {1}.",
       "download": "Télécharger la dernière version {label} ici.",
       "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour."
+    },
+    "verification": {
+      "description": "Veuillez vérifier mon compte pour continuer. Nous vous avons envoyé un code par e-mail - Entrez le pour continuer. Adresse e-mail inaccessible ?",
+      "email_success": "E-mail envoyé avec succès.",
+      "error_429": "Veuillez patienter au moins {0} secondes avant de réessayer.",
+      "error_disposable": "Les adresses e-mail jetables ne peuvent pas être utiliser pour la vérification de votre compte.",
+      "error_verified": "Déjà vérifié",
+      "error_wrong": "Code incorrect, veuillez réessayer.",
+      "link": "Vous pouvez le changer ici."
     }
   },
   "player": {
     "menu": {
+      "alignment": "Changer d'Alignement",
+      "character": "Changer de Personnage",
+      "chat": "Demander une Discussion Privée",
+      "empty": "Vider le Siège",
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours?",
       "empty_title": "Siège vide de {0}",
       "follow": "Suivre le·a Joueur·euse",
@@ -910,6 +929,7 @@
         "custom_4": "Bord de Rivière",
         "snv_0": "Jardin d’Herbes",
         "snv_1": "Serre",
+        "snv_2": "Caverne",
         "snv_3": "Temple",
         "snv_4": "Chapiteau de Cirque",
         "tb_0": "Monastère",
@@ -918,6 +938,7 @@
         "tb_3": "Bibliothèque",
         "tb_4": "Laboratoire"
       },
+      "chats": "Discussions",
       "following": "Vous suivez ce·tte joueur·euse.",
       "incoming": "Entrant",
       "leave_private": "Quitter le Chat Privé",
@@ -939,7 +960,8 @@
       "channels": {
         "private": "Privé",
         "public": "Publique",
-        "spectator": "Spectateur·ices"
+        "spectator": "Spectateur·ices",
+        "system": "Session"
       },
       "message_blocked": "non envoyé",
       "message_to": "à",
