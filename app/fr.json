@@ -759,13 +759,13 @@
       "point": "Pointez ce joueur"
     },
     "reminders": {
-      "add": "Ajouter un Rappel",
-      "edit": "Modifier le Rappel {0}",
+      "add": "Ajouter Aide-Mémoire",
+      "edit": "Modifier Aide-Mémoire {0}",
       "edit_placeholder": "Note personnalisée",
-      "edit_text": "Modifier la note de rappel personnalisée pour {0}",
-      "edit_title": "Modifier le Rappel",
-      "flip": "Retourner le Rappel {0}",
-      "remove": "Supprimer le Rappel{0}",
+      "edit_text": "Modifier l'aide-mémoire personnalisée pour {0}",
+      "edit_title": "Modifier Aide-Mémoire",
+      "flip": "Retourner l'Aide-Mémoire {0}",
+      "remove": "Retirer l'Aide-Mémoire {0}",
       "saved_favorite": "Enregistré comme favori"
     },
     "shroud_add": "Ce linceul n’est pas visible des joueurs. Cliquez à nouveau pendant la journée pour le rendre visible.",
@@ -813,7 +813,7 @@
       "title": "Bluffs"
     },
     "character": {
-      "download": "Télécharger le script JSON",
+      "download": "Télécharger le JSON du Script",
       "error_popout": "Erreur lors de la création de la fenêtre",
       "error_save": "Erreur lors de l’enregistrement du fichier",
       "jinxes": "Jinxes",
@@ -919,7 +919,7 @@
     "statistics": "Statistiques",
     "stats": {
       "edition": "Éditions les\n plus jouées",
-      "homebrew": "Un Rôle Maison",
+      "homebrew": "Un Personnage Maison",
       "loading": "Chargement des statistiques...",
       "none": "Aucun",
       "player": "Parties\n Jouées",
