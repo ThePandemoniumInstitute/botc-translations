@@ -23,7 +23,8 @@
         "label": "Spyglasses",
         "title": "If spyglasses be on in this voyage",
         "value_0": "Yer call",
-        "value_1": "A must"
+        "value_1": "A must",
+        "value_2": "Taken out"
       },
       "difficulty": {
         "label": "Waters",
@@ -75,43 +76,165 @@
       "end": "Land ho",
       "first_night": "New Moon",
       "night": "New Moon|Moon {n}",
-      "other_nights": "Waxing Moons"
+      "other_nights": "Waxing Moons",
+      "start": "Gettin' Ready to Set Sail"
     },
     "player": "Matey {0}",
     "players": "Mateys",
     "seat": "Cabin {0}",
+    "shroud": "Coffin",
     "storyteller": "Captain {0}",
     "storytellers": "the Captains",
-    "townsfolk": "Crewmate|Crewmates"
+    "token": "Mark",
+    "townsfolk": "Crewmate|Crewmates",
+    "traveller": "Landlubber|Landlubbers"
   },
   "main-menu": {
     "cast_vote": "Say Aye",
+    "change_icon": "Click if'n ye want to pick a new icon",
     "char_sheet": "Station List",
-    "characters": "Choose Stations",
-    "edition": "Choose Sea",
+    "characters": "Pick Stations",
+    "clear_grim": "Burn yer Map",
+    "download": "Get {0} Tool",
+    "edition": "Pick Yer Sea",
+    "error_audio": "Yer messenger said ye can't {0}. Check here to start talkin'.",
+    "error_audio2": "playing yer mateys at ye, like it or not",
+    "error_audio3": "Mayhap ye should {0} if ye be using firey foxes if ye want to hear yer mateys.",
+    "error_audio4": "shift the rigging",
+    "fabled": "Bring Captains o' Legend aboard",
+    "fullscreen": "See it big like",
+    "gather": "Assemble Yer Crew",
+    "gong_attention": "Ship's Bell",
+    "gong_recall": "Gather on the Upper Deck",
     "grim_access": "The Captain let you see the Map",
+    "grim_request": "An onlooker wants to see yer map",
+    "help": "Raise a distress flag",
+    "json_schema": "Yer cabin boy Jason",
+    "leave": "Abandon ship",
+    "mute_cam": "Cover yer spyglass {0}",
+    "mute_mic": "Hold yer tongue {0}",
     "night_info": "Moon's Knowin'",
     "night_info_text": "The Captain roused ye this moon!",
+    "prompt_clear_player": "Are ye sure ye want to burn yer copy o' the map?",
+    "prompt_clear_st": "This will burn everyone's maps. Are ye sure?",
+    "prompt_clear_title": "Burn yer Map",
+    "prompt_timer_text": "Name yer hourglass if ye like and add some sand:",
+    "prompt_timer_title": "Turn an hourglass",
+    "prompt_vacate_text": "Ye be on a voyage, are ye sure ye want to jump overboard?",
+    "prompt_vacate_title": "Jump overboard",
+    "push_to_talk": "Press {0} to be heard",
+    "raise_hand": "Raise yer Hand",
     "request_private": "Ask t' Talk Alone",
     "reveal_grim": "Show the Map",
+    "rules": "Know the code",
+    "session_expires": "There be no Scallywag tier pirates aboard, ship may sink at {0}.",
+    "set_timer": "Turn hourglass",
+    "settings": "Adjust the Rigging",
+    "show_grim": "Reveal the Map",
+    "show_town": "See what mateys be livin'",
+    "show_users": "Show Crew {0}",
+    "storyteller_add": "Become the Captain",
     "storyteller_remove": "Give up the Captain's hat",
-    "tab_new_game": "New Journey"
+    "tab_app": "Ocean",
+    "tab_during_game": "Mid-Journey",
+    "tab_new_game": "New Journey",
+    "tab_playing": "On the journey",
+    "to_day": "Rouse the crew",
+    "to_night": "Send the crew to their bunks",
+    "translation": "Teach us to speak proper pirate",
+    "user_list": "Crew",
+    "vacate_seat": "Jump Overboard",
+    "vote_history": "Accusals"
   },
   "modals": {
+    "announcement": {
+      "description": "What do ye need to say?",
+      "error": "Yer messenger pigeon got shot down",
+      "input_session": "Ship name (optional)",
+      "input_text": "Yer message",
+      "input_title": "Name o' the crisis",
+      "title": "Sound the alarm"
+    },
     "dialogue": {
+      "button_evil": "The Bad'uns Have Prevailed",
+      "button_good": "The Good'uns Have Prevailed",
+      "close_timer": "Saying bye bye in {n} seconds.",
+      "error": {
+        "add_player": "Couldn't add matey",
+        "add_storyteller": "Couldn't add Captain",
+        "avatar": "Couldn't make that yer portrait",
+        "avatar_generic": "We can't make that yer portrait right now.",
+        "avatar_pixel": "Yer portrait was to big to fit in the hold. We only have space for one that be 4000x4000.",
+        "avatar_size": "Yer booty be too big. Make it less than 5MB and we'll talk.",
+        "avatar_type": "Yer booty doesn't look like a portrait to me!",
+        "bluffs": "Couldn't change the fools' marks",
+        "chat2_text": "We can't seem to let ye talk here",
+        "chat2_title": "I think we sunk yer messenger pigeon",
+        "chat_title": "Yer messenger pigeon got shot down",
+        "claiming": "Ye couldn't get aboard",
+        "clear_grim": "We couldn't burn yer map",
+        "connection": "Ye can't get on the seas",
+        "edition_change": "Couldn't change yer sea",
+        "end": "We couldn't bring ye in to port safe",
+        "eyes_close": "Ye can't rest yer blinkers right now, sorry",
+        "eyes_open": "Ye gotta keep yer blinkers shut for a second, sorry",
+        "fabled": "That Captain o' Legend is too important for yer measly crew. Try asking more nicely.",
+        "generic": "We botched something",
+        "kick": "Ye can't throw them overboard right now, try harder",
+        "link_text": "Yer messenger pigeon got shot down so we dont know how much ye paid. Please try again.",
+        "link_title": "Yer messenger pigeon got shot down",
+        "loading_text": "Something be wrong with our app data. Our servers be centuries out of date. The page will reload.",
+        "loading_title": "Something went wrong below deck",
+        "missing_edition": "This ship be sailing on an uncharted sea.",
+        "missing_edition_title": "Couldn't go on that sea",
+        "missing_roles": "We couldn't find yer counterfit stations. Make sure ye have them before ye join. Yer missing: {0}",
+        "missing_roles_title": "We couldn't get yer counterfit stations",
+        "move_player": "Ye can't budge that matey, try harder",
+        "offline": "Ye be gettin' no response from yer fleet",
+        "remove_player": "We couldn't get them off the ship",
+        "remove_storyteller": "They be Captain for life",
+        "request_grim": "Ye can't see the map",
+        "running": "Ye can't change that right now",
+        "sending_roles": "Yer crew didn't get their jobs",
+        "server_change": "We couldn't change the tide for yer messages-in-bottles",
+        "server_text": "We hadn't heard from ye in too long and we thought ye'd gone.",
+        "server_title": "There be an issue with yer ocean",
+        "session": "Ye can't afford that ship",
+        "session_banned": "Sling yer hook, yer not welcome.",
+        "session_full": "If anyone else gets aboard she'll sink!",
+        "session_general": "Ye couldn't get aboard."
+      },
       "prompt": {
         "storyteller_text": "Do ye wish to be Captain o' this ship and check the map?"
       }
     },
     "edition": {
+      "clear_description": "This will burn everyone's maps. Are ye sure?",
+      "clear_title": "Burn yer Map",
       "difficulty_beginner": "Calm"
+    },
+    "reminder": {
+      "title": "Add Memberin' Mark to {0}"
+    },
+    "settings": {
+      "setting_player_reminders": "Matey: Multiple Memberin' Marks",
+      "setting_reminder_zoom": "Memberin' Mark Size",
+      "setting_reminders": "Build a Pile of Memberin' Marks",
+      "setting_zoom": "How Big Be Yer Marks?"
+    },
+    "signal": {
+      "player_text": "Pick a matey by drawing an X on the map."
     },
     "users": {
       "grim_access": "Map Sight"
     }
   },
   "overlays": {
+    "firstnight": {
+      "reminders": "Add the {0} memberin' marks."
+    },
     "reveal": {
+      "text": "Show who prevailed and each matey's station by picking their mark. Ye can peek at their station if ye need.",
       "title": "Show the Map"
     },
     "towninfo": {
