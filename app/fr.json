@@ -805,23 +805,23 @@
     "remove": "Retirer le Conteur",
     "request_grim": "Demander l'Accès au Grimoire",
     "title": "Conteurs",
-    "unfollow": "Arrêter de Suivre la Conteuse"
+    "unfollow": "Ne plus suivre le Conteur"
   },
   "tabs": {
     "bluffs": {
-      "drag": "Vous pouvez déplacer cette fenêtre n'importe où sur l'écran.",
+      "drag": "Vous pouvez faire glisser cet onglet à n’importe quel endroit de l’écran.",
       "title": "Bluffs"
     },
     "character": {
-      "download": "Télécharger le JSON du Script",
+      "download": "Télécharger le script JSON",
       "error_popout": "Erreur lors de la création de la fenêtre",
-      "error_save": "Erreur lors de sauvegarde du fichier",
-      "jinxes": "Jinx",
+      "error_save": "Erreur lors de l’enregistrement du fichier",
+      "jinxes": "Jinxes",
       "other_nights": "Pas la\n première nuit",
-      "popout": "Détacher l'Onglet Personnage"
+      "popout": "Détacher l'Onglet Rôle"
     },
     "characters": {
-      "title": "Personnages"
+      "title": "Rôles"
     },
     "chat": {
       "accept": "Accepter la Demande",
@@ -839,10 +839,10 @@
         "custom_2": "Cathédrale",
         "custom_3": "Feu de camp",
         "custom_4": "Bord de Rivière",
-        "snv_0": "Jardin d'Herboriste",
+        "snv_0": "Jardin d’Herbes",
         "snv_1": "Serre",
         "snv_3": "Temple",
-        "snv_4": "Tente de Cirque",
+        "snv_4": "Chapiteau de Cirque",
         "tb_0": "Monastère",
         "tb_1": "Église",
         "tb_2": "Cimetière",
@@ -851,10 +851,10 @@
       },
       "following": "Vous suivez ce joueur.",
       "incoming": "Entrant",
-      "leave_private": "Quitter le Chat Privée",
+      "leave_private": "Quitter le Chat Privé",
       "leave_room": "Quitter la salle",
       "night": "La nuit est tombée...",
-      "nomination": "Un joueur a été accusé !",
+      "nomination": "Un joueur a été nommé !",
       "outgoing": "Sortant",
       "request_private": "Demander un Chat Privé",
       "requests": "Demandes de Chat",
@@ -881,8 +881,8 @@
       "prompt_user": "À {0}",
       "system": {
         "death": "{0} est mort.",
-        "end_evil": "La partie est terminée et le Mal a triomphé !",
-        "end_good": "La partie est terminée et le Bien a triomphé !",
+        "end_evil": "La partie est terminée et l’Équipe maléfique a gagné !",
+        "end_good": "La partie est terminée et l’Équipe du Bien a gagné !",
         "grim_deny": "{0} s'est vu refusé l'accès au Grimoire.",
         "grim_receive": "{0} a reçu l'accès au Grimoire.",
         "grim_remove": "{0} n'a plus accès au Grimoire.",
@@ -895,13 +895,13 @@
         "seat_empty": "{0} a été expulsé du siège {1}.",
         "seat_vacate": "{0} a quitté le siège {1}.",
         "signal": "{0} a envoyé un signal de nuit à {1}.",
-        "start": "La partie a commencé et les personnages ont été envoyés !",
-        "storyteller_add": "{0} est devenue Conteuse.",
-        "storyteller_remove": "{0} a cessé d'être Conteuse.",
+        "start": "La partie a commencé et les rôles ont été distribués !",
+        "storyteller_add": "{0} est devenue le Conteur.",
+        "storyteller_remove": "{0} n’est plus le Conteur.",
         "vote": "{0} a utilisé son Vote de Mort."
       },
       "title": "Texte",
-      "tooltip": "Montrer les {0} messages non lus ayant {1} pour destinataire"
+      "tooltip": "Afficher {0} messages non lus avec le destinataire {1}"
     }
   },
   "user": {
@@ -918,36 +918,36 @@
     "registration": "Enregistrement",
     "statistics": "Statistiques",
     "stats": {
-      "edition": "Édition la\n plus jouée",
-      "homebrew": "Un Personnage Maison",
+      "edition": "Éditions les\n plus jouées",
+      "homebrew": "Un Rôle Maison",
       "loading": "Chargement des statistiques...",
       "none": "Aucun",
       "player": "Parties\n Jouées",
       "player_wins": "% de Victoire",
-      "role": "Personnages de Départ\n les plus reçus",
-      "st_evil_wins": "{0}% de Victoire avec le Mal",
+      "role": "Rôles de Départ\n les plus joués",
+      "st_evil_wins": "{0} % de taux de Victoire Maléfique",
       "storyteller": "Parties\n Contées",
-      "warning": "Les statiques sont en train d'être évaluées\n Revenez vérifier plus tard !"
+      "warning": "Les statistiques sont en cours de génération...\n Revenez plus tard !"
     },
     "stats_hidden": "Caché",
     "stats_private": "Privé",
     "stats_public": "Publique",
-    "upload_avatar": "Uploader un Avatar",
+    "upload_avatar": "Importer un avatar",
     "verified": "Utilisateur Vérifié"
   },
   "version": {
-    "character_distribution": "Distribution des Personnages",
+    "character_distribution": "Distribution des Rôles",
     "download": "Veuillez télécharger et installer la dernière version {0} ici.",
     "players_alive": "{0} / {1} joueurs en vie",
-    "reload": "Veuillez actualiser ou vider le cache de votre navigateur pour mettre à jour à la dernière version.",
+    "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour obtenir la dernière version.",
     "since": "depuis {0}",
-    "translation_disclaimer": "Vous êtes actuellement en train d'utiliser une version localisée de l'app. Cette traduction a été créée et vérifiée par les bénévoles suivants, qui ne sont pas affiliés à The Pandémonium Institute :",
-    "translation_game": "La traduction du contenu du jeu peut mal refléter les règles du jeu officielles telles qu'écrites en Anglais par The Pandemonium Institute.",
-    "update": "Veuillez Mettre À Jour !",
+    "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
+    "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
+    "update": "Veuillez Mettre À Jour !",
     "updating": "Mise à jour de l'app à la version {0}...",
-    "warning_browser": "Vous utilisez un navigateur désuet ou non supporté",
-    "warning_browser2": "{0}, ce qui peut engendrer des problèmes avec l'app. Veuillez télécharger la dernière version de votre navigateur, ou changer pour un autre. L'appest optimisée pour Firefox ou Chrome.",
-    "warning_update": "Votre version de l'app est désuète",
+    "warning_browser": "Vous utilisez un navigateur obsolète ou non pris en charge",
+    "warning_browser2": "{0}, ce qui peut causer des problèmes avec l’application. Veuillez installer les dernières mises à jour de votre navigateur ou en utiliser un autre. L’application fonctionne de manière optimale avec Firefox et Chrome.",
+    "warning_update": "Votre version de l’application est obsolète",
     "warning_update2": "{0}, la dernière version est la {1} !"
   }
 }
