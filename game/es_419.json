@@ -978,7 +978,7 @@
       "first": "Sáltate los pasos de Información del Secuaz e Información del Demonio. Despierta al Demonio, muéstrale la ficha de *ESTOS ROLES NO ESTÁN EN JUEGO* y cualquier tres roles buenos que no están en juego.",
       "flavor": "En las arboledas ocultas del bosque profundio, habita la amapola negra. Ver aquel espectáculo es quedar encantado. Oler aquel aroma es quedar perdido por siempre, un esclavo a los dioses de la luz y la oscuridad.",
       "name": "Cultivador de Amapolas",
-      "other": "Si el Cultivador de Amapolas ha muerto hoy día o esta noche, despierta a los Secuaces, muéstrales la ficha de *ESTE ES EL DEMONIO* y apunta al Demonio. Ponlos a dormir. Despierta al Demonio, y muéstrale la ficha de *ESTOS SON TUS SECUACES* y apunta a los Secuaces. Pon al Demonio a dormir."
+      "other": "Si el Cultivador de Amapolas ha muerto hoy por el día o por la noche, despierta a los Secuaces, muéstrales la ficha de *ESTE ES EL DEMONIO* y apunta al Demonio. Ponlos a dormir. Despierta al Demonio, y muéstrale la ficha de *ESTOS SON TUS SECUACES* y apunta a los Secuaces. Pon al Demonio a dormir."
     },
     "preacher": {
       "ability": "Cada noche, escoge un jugador: si un Secuaz ha sido escogido, él aprende esto. Todos los Secuaces escogidos no tienen su habilidad.",
@@ -991,7 +991,7 @@
       "ability": "En tu 1er día, si tú nominaste y ejecutaste a un jugador, el Demonio no mata esta noche.",
       "flavor": "Nuestras palabras son como sabuesos, atados con hilos de seda, queridos señores. Dejemos que la bondad los teja, y que las riendas no se deshagan y desgarren nuestra corte.",
       "name": "Princesa",
-      "other": "Si la Princesa nominó al jugador que fue ejecutado hoy día, el Demonio se despierta de forma normal, pero nadie muere a manos de la habilidad del Demonio."
+      "other": "Si la Princesa nominó al jugador que fue ejecutado hoy, el Demonio se despierta de forma normal, pero nadie muere a manos de la habilidad del Demonio."
     },
     "professor": {
       "ability": "Una vez por juego, por la noche*, escoge un jugador muerto: si él es un Ciudadano, es resucitado.",
@@ -1017,10 +1017,10 @@
       "name": "Descifrador"
     },
     "ravenkeeper": {
-      "ability": "Si mueres en la noche, se te despierta para escoger un jugador: aprendes su rol.",
-      "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen mis dulces mascotas sirvientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
-      "name": "Guardián de cuervos",
-      "other": "Si el Guarda Cuervos muere esta noche, el Guarda Cuervos escoge un jugador. Muestra la ficha de rol de el jugador elegido."
+      "ability": "Si mueres en la noche, tú te despiertas para escoger un jugador: aprendes su rol.",
+      "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen, mis mascotas dulces y obedientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
+      "name": "Guardián de Cuervos",
+      "other": "Si el Guardián de Cuervos muere esta noche, él escoge un jugador. Muéstrale la ficha de rol del jugador escogido."
     },
     "recluse": {
       "ability": "Quizás puedes registrar como malvado y como Demonio o Secuaz, incluso si muerto.",
@@ -1039,7 +1039,7 @@
       "ability": "Si un jugador de tu alineamiento es ejecutado, es posible que tú seas ejecutado en su lugar."
     },
     "scarletwoman": {
-      "ability": "Si hay 5 o más jugadores vivos y el Demonio muere, tú te conviertes en el Demonio. (Los viajeros no cuentan).",
+      "ability": "Si hay 5 o más jugadores vivos y el Demonio muere, tú te conviertes en el Demonio. (Los viajeros no cuentan.)",
       "flavor": "Me has mostrado los secretos del Consejo de la Llama Púrpura. Nos hemos acostado juntos en el fuego, en la lujuria y en la comunión bestial, y seré tu sierviente para siempre. Pero esta noche, mi amor, soy tu amo/a."
     },
     "seamstress": {
