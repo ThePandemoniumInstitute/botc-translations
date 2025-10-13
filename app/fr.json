@@ -730,7 +730,10 @@
   },
   "player": {
     "menu": {
+      "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours ?",
+      "empty_title": "Vider le Siège de {0}",
       "follow": "Suivre le Joueur",
+      "nominate": "Nominer un Joueur",
       "unfollow": "Ne Plus Suivre le Joueur",
       "wake": "Réveiller",
       "whisper": "Envoyer Message Privé"
@@ -745,14 +748,20 @@
       "remove": "Expulser ce joueur.",
       "remove_text": "Voulez-vous vraiment retirer le siège {0} ?\n Ce siège est actuellement occupé par {1}.",
       "remove_title": "Enlever le Siège",
+      "seat_text": "(Ceci sera visible uniquement par vous)",
       "seat_title": "Changer le Nom du Siège"
     },
     "overlay": {
+      "eyes_open": "A ses yeux ouvert",
+      "night_info_received": "Info de Nuit reçues",
+      "night_info_sent": "Info de Nuit envoyées",
+      "nominate": "Nominer ce joueur",
       "point": "Pointer vers ce joueur"
     },
     "reminders": {
       "add": "Ajouter Aide-Mémoire",
       "edit": "Modifier Aide-Mémoire {0}",
+      "edit_placeholder": "Note Personnalisée",
       "edit_title": "Modifier Aide-Mémoire",
       "saved_favorite": "Enregistré dans les favoris"
     },
