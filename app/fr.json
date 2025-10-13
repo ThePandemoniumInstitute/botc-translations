@@ -556,6 +556,63 @@
     },
     "gatherplayers": {
       "button_add": "Ajoutez un Siège"
+    },
+    "vote": {
+      "countdown_go": "Go",
+      "defense": "Défense",
+      "highscore_placeholder": "plus haut nombre de vote",
+      "highscore_text": "Entrez un nouveau nombre pour le nombre de vote le plus élevé d'aujourd'hui\n ou laissez le champ vide pour la majorité de joueur vivant.",
+      "highscore_title": "Changer le Nombre de Vote le Plus Élevé",
+      "majority": "La majorité est de {0} vote|La majorité est de {0} votes",
+      "no_majority": "Aucune majorité nécessaire",
+      "pointing": "Pointant sur {0}",
+      "secret": "Le vote sera secret.",
+      "secret_vote": "Vote Secret",
+      "votes": "{0} vote pour égaliser, {1} pour exécuter|{0} votes pour égaliser, {1} pour exécuter",
+      "warning_shortcuts": "Les raccourcis sont désactivés !"
+    },
+    "whisper": {
+      "muted": "Ce joueur est muet / réduit au silence dans le chat vocal.",
+      "video_muted": "Ce joueur à sa caméra en pause / désactivée."
+    }
+  },
+  "pages": {
+    "banned": {
+      "description": "Votre compte a été {0} en raison de vos actions récentes, et ne peut plus être utilisé pour jouer sur l'application.",
+      "description_banned": "banni",
+      "expires": "Votre compte est banni jusqu'au :",
+      "expires2": "Veillez à ne pas récidiver, ou vous pourriez vous faire bannir définitivement.",
+      "footer1": "Si vous avez besoin d'assistance, veuillez nous contacter via {0}.",
+      "footer2": "Rappelez-vous :",
+      "footer3": "Tuez avec grâce, mourez avec dignité.",
+      "permanent": "Votre compte à été définitivement banni.",
+      "reason": "La raison suivante a été apportée :",
+      "title": "Compte Banni"
+    },
+    "clock": {
+      "description": "L'horloge de votre ordinateur est décalé de {0}. Cela peut généré des dysfonctionnement de l'app lors des parties en ligne. Vous pouvez synchroniser l'horloge de votre ordinateur {1}. Une fois fait, recharger l'app.",
+      "description_mins": "1 minute|{n} minutes",
+      "description_online": "en ligne",
+      "return": "Retournez sur l'App",
+      "title": "Veuillez ajuster l'horloge de votre ordinateur"
+    },
+    "lobby": {
+      "button_create_game": "Créer une Partie",
+      "button_help": "Aide",
+      "button_join_game": "Rejoindre une Partie Privée",
+      "button_local_play": "Partie Locale",
+      "button_mod": "Mod",
+      "button_quit": "Quitter",
+      "button_settings": "Paramètres",
+      "button_verify": "Vérifier son Compte",
+      "characters": "Rôles",
+      "create_game": "Créer une Nouvelle Partie",
+      "edition_by": "par {author}",
+      "fabled": "Légendaire",
+      "forced_private": "Vous ne pouvez plus jouer aux parties publiques.",
+      "free_tier_free": "Gratuit",
+      "free_tier_patreon": "Patreon",
+      "free_tier_unverified": "Vous avez un compte {0}. Vous pouvez rejoindre les parties affichées au dessus en appuyant sur le bouton à gauche, sauf si elles nécessitent une souscription. Si vous souhaitez héberger une partie, récupérer une souscription sur {1}"
     }
   },
   "version": {
