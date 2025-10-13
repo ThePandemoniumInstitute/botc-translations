@@ -719,6 +719,27 @@
       "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour."
     }
   },
+  "player": {
+    "name": {
+      "connecting": "Ce joueur se connecte au chat vocal."
+    }
+  },
+  "tabs": {
+    "characters": {
+      "title": "Personnages"
+    },
+    "chat": {
+      "incoming": "Entrant"
+    },
+    "fabled": {
+      "remove": "Enlever le Légendaire",
+      "title": "Légendaire"
+    }
+  },
+  "user": {
+    "gain": "Gain",
+    "registration": "Enregistrement"
+  },
   "version": {
     "warning_update2": "{0}, la dernière version est la {1} !"
   }
