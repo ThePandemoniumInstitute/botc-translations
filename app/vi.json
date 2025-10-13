@@ -212,6 +212,10 @@
       "clear_title": "Dọn sạch Cẩm thư và Token Ghi chú"
     },
     "settings": {
+      "shortcuts": {
+        "modeFabled": "Thêm Thần Thoại",
+        "revealGrimoire": "Tiết Lộ Cẩm Thư"
+      },
       "tab_general": "Chung"
     }
   },
