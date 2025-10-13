@@ -925,7 +925,7 @@
       "player": "Parties\n Jouées",
       "player_wins": "% de Victoire",
       "role": "Rôles de Départ\n les plus joués",
-      "st_evil_wins": "{0} % de taux de Victoire Maléfique",
+      "st_evil_wins": "{0}% de Victoire avec le Mal",
       "storyteller": "Parties\n Contées",
       "warning": "Les statistiques sont en cours de génération...\n Revenez plus tard !"
     },
@@ -936,16 +936,16 @@
     "verified": "Utilisateur Vérifié"
   },
   "version": {
-    "character_distribution": "Distribution des Rôles",
+    "character_distribution": "Distribution des Personnages",
     "download": "Veuillez télécharger et installer la dernière version {0} ici.",
     "players_alive": "{0} / {1} joueurs en vie",
     "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour obtenir la dernière version.",
     "since": "depuis {0}",
     "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
     "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
-    "update": "Veuillez Mettre À Jour !",
+    "update": "Veuillez Mettre À Jour !",
     "updating": "Mise à jour de l'app à la version {0}...",
-    "warning_browser": "Vous utilisez un navigateur obsolète ou non pris en charge",
+    "warning_browser": "Vous utilisez un navigateur désuet ou non supporté",
     "warning_browser2": "{0}, ce qui peut causer des problèmes avec l’application. Veuillez installer les dernières mises à jour de votre navigateur ou en utiliser un autre. L’application fonctionne de manière optimale avec Firefox et Chrome.",
     "warning_update": "Votre version de l’application est obsolète",
     "warning_update2": "{0}, la dernière version est la {1} !"
