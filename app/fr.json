@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Voyageur·euses",
-        "title": "Si les Voyageur·euses sont autorisé·es dans cette session de jeu",
+        "title": "Si les Voyageur·euses sont autorisé·es dans cette partie",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
@@ -722,9 +722,21 @@
   "player": {
     "name": {
       "connecting": "Ce joueur se connecte au chat vocal."
-    }
+    },
+    "shroud_add": "Ce linceul n'est pas visible par les autres joueurs. Cliquer à nouveau en journée pour le rendre visible.",
+    "toggle_status": "Modifier Statut"
+  },
+  "session": {
+    "copy": "Cliquer pour copier dans le presse-papier",
+    "locked": "Conteuses et Joueurs",
+    "server": "Serveur de Discussion :",
+    "session_name": "Nom de la Session"
   },
   "tabs": {
+    "character": {
+      "error_popout": "Erreur lors de la création de la fenêtre",
+      "error_save": "Erreur lors de sauvegarde du fichier"
+    },
     "characters": {
       "title": "Personnages"
     },
