@@ -612,7 +612,35 @@
       "forced_private": "Vous ne pouvez plus jouer aux parties publiques.",
       "free_tier_free": "Gratuit",
       "free_tier_patreon": "Patreon",
-      "free_tier_unverified": "Vous avez un compte {0}. Vous pouvez rejoindre les parties affichées au dessus en appuyant sur le bouton à gauche, sauf si elles nécessitent une souscription. Si vous souhaitez héberger une partie, récupérer une souscription sur {1}"
+      "free_tier_unverified": "Vous avez un compte {0}. Vous pouvez rejoindre les parties affichées au dessus en appuyant sur le bouton à gauche, sauf si elles nécessitent une souscription. Si vous souhaitez héberger une partie, prenez une souscription sur {1}.",
+      "free_tier_verified": "Vous avez un compte {0}. Vous avez besoin de {1} avant de rejoindre les parties publiques.Si vous souhaitez héberger une partie, prenez une souscription sur {2}.",
+      "free_tier_verify": "vérifier votre compte",
+      "game": "Partie",
+      "language": "Langue",
+      "loading": "Chargement des parties...",
+      "no_games": "Aucune partie publique trouvée.",
+      "page": "Page {page} sur {total}",
+      "phase": "Phase",
+      "players": "Joueurs",
+      "script": "Script",
+      "show_private": "Afficher les parties privées",
+      "spectators": "Spectateurs",
+      "stats": "{0} utilisateurs sont dans {1} {2} parties",
+      "stats_public": "publique",
+      "storyteller": "Conteur",
+      "subscription": "Niveau de souscription",
+      "updating": "Mise à jour...",
+      "welcome": "Bienvenue sur {0} !"
+    },
+    "login": {
+      "accept": "Acceptez nos {0}, {1} & {2}.",
+      "description": "Veuillez vous connecter ou créer un compte pour continuer :",
+      "email": "Adresse E-Mail",
+      "error_captcha": "Veuillez compléter le captcha",
+      "error_password": "Les mots de passe ne correspondent pas",
+      "login": "Se Connecter",
+      "password": "Mot de Passe",
+      "password_confirm": "Confirmation du Mot de Passe"
     }
   },
   "version": {
