@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Voyageur·euses",
-        "title": "Si les Voyageur·euses sont autorisé·es dans cette partie",
+        "title": "« Si les Voyageurs sont autorisés dans cette session de jeu »",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
