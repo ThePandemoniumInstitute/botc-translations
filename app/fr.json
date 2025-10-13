@@ -547,7 +547,9 @@
       "return": "Retourné au centre-ville maintenant !"
     },
     "firstnight": {
-      "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de démon\" à partager avec le démon."
+      "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de démon\" à partager avec le démon.",
+      "button_begin": "Commencer la Première Phase de Nuit",
+      "gardener_button": "Envoyez les Rôles"
     }
   },
   "version": {
