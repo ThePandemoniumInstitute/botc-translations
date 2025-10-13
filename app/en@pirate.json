@@ -103,6 +103,14 @@
       "grim_access": "Map Sight"
     }
   },
+  "overlays": {
+    "reveal": {
+      "title": "Show the Map"
+    },
+    "towninfo": {
+      "alive": "Livin'"
+    }
+  },
   "pages": {
     "lobby": {
       "free_tier_free": "Common"
