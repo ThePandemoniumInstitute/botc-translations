@@ -1000,7 +1000,7 @@
       "other": "Professorn kan välja en död spelare. :reminder: :reminder:"
     },
     "psychopath": {
-      "ability": "Varje dag innan nominering kan du öppet välja en spelare; hen dör. Om du avrättas dör du bara om du förlorar sten-sax-påse.",
+      "ability": "Varje dag innan nomineringar kan du öppet välja en spelare; hen dör. Om du avrättas dör du bara om du förlorar sten-sax-påse.",
       "flavor": "Tittut!",
       "name": "Psykopaten"
     },
