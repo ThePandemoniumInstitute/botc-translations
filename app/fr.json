@@ -737,7 +737,7 @@
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours?",
       "empty_title": "Siège vide de {0}",
       "follow": "Suivre le·a Joueur·euse",
-      "nominate": "Nommer un joueur",
+      "nominate": "Accuser un joueur",
       "unfollow": "Ne Plus Suivre le·a Joueur·euse",
       "wake": "Réveiller",
       "whisper": "Envoyer Message Privé"
@@ -759,7 +759,7 @@
       "eyes_open": "A les yeux ouverts",
       "night_info_received": "Infos de nuit reçues",
       "night_info_sent": "Infos de Nuit envoyées",
-      "nominate": "Nommer ce joueur",
+      "nominate": "Accuser ce joueur",
       "point": "Pointez ce·tte joueur·euse"
     },
     "reminders": {
@@ -858,7 +858,7 @@
       "leave_private": "Quitter le Chat Privé",
       "leave_room": "Quitter la salle",
       "night": "La nuit est tombée...",
-      "nomination": "Un joueur a été nommé !",
+      "nomination": "Un joueur a été accusé !",
       "outgoing": "Sortant",
       "request_private": "Demander un Chat Privé",
       "requests": "Demandes de Chat",
