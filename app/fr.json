@@ -625,6 +625,13 @@
     },
     "vote": {
       "accusation": "Accusation",
+      "button_mark": "Marquer",
+      "button_mark_remove": "Enlever Marque",
+      "button_pause": "Pause",
+      "button_reset": "Réinitialiser",
+      "button_restart": "Recommencer",
+      "button_resume": "Reprendre",
+      "button_start": "Démarrer",
       "countdown_go": "Aller",
       "defense": "Défense",
       "highscore_placeholder": "le plus grand nombre de votes",
@@ -722,8 +729,30 @@
     }
   },
   "player": {
+    "menu": {
+      "follow": "Suivre le Joueur",
+      "unfollow": "Ne Plus Suivre le Joueur",
+      "wake": "Réveiller",
+      "whisper": "Envoyer Message Privé"
+    },
     "name": {
-      "connecting": "Ce joueur se connecte au chat vocal."
+      "claim": "Appuyez pour s'assoir",
+      "connecting": "Ce joueur se connecte au chat vocal.",
+      "follow": "Vous suivez ce joueur.",
+      "listening": "Ce joueur écoute le chat vocal.",
+      "move": "Déplacer ce joueur.",
+      "offline": "Ce joueur est actuellement hors-ligne.",
+      "remove": "Expulser ce joueur.",
+      "remove_text": "Voulez-vous vraiment retirer le siège {0} ?\n Ce siège est actuellement occupé par {1}.",
+      "remove_title": "Enlever le Siège",
+      "seat_title": "Changer le Nom du Siège"
+    },
+    "overlay": {
+      "point": "Pointer vers ce joueur"
+    },
+    "reminders": {
+      "add": "Ajouter Aide-Mémoire",
+      "edit": "Modifier Aide-Mémoire {0}"
     },
     "shroud_add": "Ce linceul n'est pas visible par les autres joueurs. Cliquer à nouveau en journée pour le rendre visible.",
     "toggle_status": "Modifier Statut"
