@@ -21,7 +21,7 @@
     "privacy_policy": "Politique de Confidentialité",
     "session-tags": {
       "cameras": {
-        "label": "Les Caméras",
+        "label": "Caméras",
         "title": "Si les caméras sont actives ou non durant cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
