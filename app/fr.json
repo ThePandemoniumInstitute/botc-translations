@@ -537,7 +537,17 @@
       "pregame": "Avant-partie",
       "title": "Historique des votes",
       "type": "Type",
-      "voters": "Votants"
+      "voters": "Votants",
+      "votes": "Votes"
+    }
+  },
+  "overlays": {
+    "attention": {
+      "attention": "Votre attention s'il vous plait !",
+      "return": "Retourné au centre-ville maintenant !"
+    },
+    "firstnight": {
+      "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de démon\" à partager avec le démon."
     }
   },
   "version": {
