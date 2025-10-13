@@ -705,8 +705,8 @@
       "login": "Se Connecter",
       "password": "Mot de Passe",
       "password_confirm": "Confirmation du Mot de Passe",
-      "password_reset": "Les instructions pour réinitialiser votre mot de passe vous ont été envoyé à l'adresse e-mail associée à votre compte.",
-      "recover_password": "Récupérer son mot de passe",
+      "password_reset": "Les instructions pour réinitialiser votre mot de passe ont été envoyées à l’adresse e-mail associée.",
+      "recover_password": "Récupérer le mot de passe",
       "register": "S'enregistrer",
       "subscribe": "S'inscrire à la Mailing List",
       "title": "Bienvenue sur Blood on the Clocktower En Ligne - En Construction !",
@@ -715,7 +715,7 @@
     "update": {
       "description": "Vous utilisez la version {0}, mais la version la plus récente est la {1}.",
       "download": "Télécharger la dernière version {label} ici.",
-      "reload": "Veuillez recharger la page ou videz le cache de notre navigateur pour avoir la mise à jour."
+      "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour."
     }
   },
   "version": {
