@@ -700,6 +700,9 @@
     },
     "vote": {
       "accusation": "Accusation",
+      "button_chat": "Ouvrir une discussion",
+      "button_countdown": "Décompte",
+      "button_defense": "Passer à la Défense",
       "button_mark": "Marquer",
       "button_mark_remove": "Enlever la Marque",
       "button_pause": "Pause",
@@ -879,6 +882,7 @@
     "tags": "Tags de Partie Publique",
     "title_create": "Créer une session de jeu",
     "title_current": "Partie en cours",
+    "visibility": "Visibilité",
     "visibility_private": "Privée",
     "visibility_public": "Publique"
   },
