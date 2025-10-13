@@ -808,9 +808,12 @@
     "update": {
       "description": "Vous utilisez la version {0}, mais la version la plus récente est la {1}.",
       "download": "Télécharger la dernière version {label} ici.",
-      "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour."
+      "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour.",
+      "title": "Veuillez mettre à jour votre App"
     },
     "verification": {
+      "button_resend": "Renvoyez le code",
+      "code": "Code à 6 chiffres",
       "description": "Veuillez vérifier votre compte pour continuer. Nous avons envoyé un code à votre adresse mail - saisissez-le pour poursuivre. Vous n’avez plus accès à cette adresse mail ?",
       "email_success": "E-mail envoyé avec succès.",
       "error_429": "Veuillez patienter au moins {0} secondes avant de réessayer.",
