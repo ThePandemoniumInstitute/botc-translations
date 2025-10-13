@@ -549,7 +549,9 @@
     "firstnight": {
       "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de Démon\" à partager avec le Démon.",
       "button_begin": "Commencer la Première Phase de Nuit",
-      "gardener_button": "Envoyez les Rôles"
+      "gardener_button": "Envoyez les Rôles",
+      "gardener_text": "Une fois que vous êtes satisfait de la sélection des rôles, {0} à vos joueurs. Une fois qu'ils les ont reçu, vous pouvez commencer à préparer la Première Nuit.",
+      "reminders": "Ajoutez tout {0} jetons d'aide-mémoire nécessaire."
     }
   },
   "version": {
