@@ -815,19 +815,26 @@
     "character": {
       "download": "Télécharger le JSON du Scripte",
       "error_popout": "Erreur lors de la création de la fenêtre",
-      "error_save": "Erreur lors de sauvegarde du fichier"
+      "error_save": "Erreur lors de sauvegarde du fichier",
+      "jinxes": "Jinx",
+      "other_nights": "Pas la\n Première nuit",
+      "popout": "Onglet Personnage"
     },
     "characters": {
       "title": "Personnages"
     },
     "chat": {
+      "accept": "Accepter la Demande",
+      "accept_request": "Accepter la demande de discussion avec {0}",
       "cancel": "Annuler la Demande",
+      "cancel_request": "Annuler la demander de discussion avec {0}",
       "channels": {
         "bmr_0": "Taverne",
         "bmr_1": "Hutte",
         "bmr_2": "Marais",
         "bmr_3": "Ferme",
         "bmr_4": "Caravane",
+        "custom_0": "Boutique de Potion",
         "custom_1": "Tour",
         "custom_2": "Cathédrale",
         "custom_3": "Feu de camp",
@@ -844,9 +851,13 @@
       },
       "following": "Vous suivez ce joueur.",
       "incoming": "Entrant",
+      "leave_private": "Quitter la Discussion Privée",
       "leave_room": "Quitter la salle",
       "night": "La nuit est tombée...",
+      "nomination": "Un joueur a été nominé !",
       "outgoing": "Sortant",
+      "request_private": "Demander une Discussion Privée",
+      "requests": "Demandes de Discussion",
       "reset_position": "Réinitialiser la position",
       "spectator": "Spectateur",
       "title": "Voix"
@@ -863,12 +874,18 @@
       },
       "message_blocked": "non envoyé",
       "message_to": "à",
+      "prompt_private": "Discussion Privée",
       "prompt_public": "Annonce Publique",
+      "prompt_spectator": "Discussion de Spectateur",
       "prompt_system": "Messages système",
       "prompt_user": "À {0}",
       "system": {
         "death": "{0} est mort.",
+        "end_evil": "La partie est terminée et les maléfiques ont gagné !",
+        "end_good": "La partie est terminée et le village a gagné !",
         "grim_deny": "{0} s'est vu refusé l'accès au Grimoire.",
+        "grim_receive": "{0} a reçu l'accès au grimoire.",
+        "grim_remove": "{0} n'a plus l'accès au Grimoire.",
         "grim_request": "{0} a demandé l'accès au Grimoire.",
         "join": "{0} a rejoint la partie.",
         "leave": "{0} a quitté la partie.",
@@ -877,9 +894,14 @@
         "seat_claim": "{0} a pris le siège {1}.",
         "seat_empty": "{0} a été expulsé du siège {1}.",
         "seat_vacate": "{0} a quitté le siège {1}.",
-        "signal": "{0} a envoyé un signal de nuit à {1}."
+        "signal": "{0} a envoyé un signal de nuit à {1}.",
+        "start": "La partie a commencé et les personnages ont été envoyés !",
+        "storyteller_add": "{0} est devenu Conteur.",
+        "storyteller_remove": "{0} a cessé d'être Conteur.",
+        "vote": "{0} a utilisé son Vote de Mort."
       },
-      "title": "Texte"
+      "title": "Texte",
+      "tooltip": "Montrer les {0} messages non lus de {1}"
     }
   },
   "user": {
@@ -889,6 +911,7 @@
     "error_avatar_title": "Le fichier est trop gros",
     "gain": "Gain",
     "id": "ID de l'Utilisateur",
+    "level": "Niveau de souscription",
     "mic_volume": "Volume du Micro",
     "new_user": "Nouvel Utilisateur",
     "pronouns": "pronoms",
@@ -896,10 +919,15 @@
     "statistics": "Statistiques",
     "stats": {
       "edition": "Édition la\n plus jouée",
+      "homebrew": "Un Personnage Homebrew",
       "loading": "Chargement des statistiques...",
       "none": "Aucun",
       "player": "Parties\n Jouées",
-      "player_wins": "% de Victoire"
+      "player_wins": "% de Victoire",
+      "role": "Personnages\n les plus reçus",
+      "st_evil_wins": "{0}% de victoire des maléfiques",
+      "storyteller": "Parties\n Contés",
+      "warning": "Les statiques sont en train d'être évaluées\n Revenez vérifier plus tard !"
     },
     "stats_hidden": "Caché",
     "stats_private": "Privé",
@@ -908,10 +936,17 @@
     "verified": "Utilisateur Vérifié"
   },
   "version": {
+    "character_distribution": "Distributions de Personnage",
     "download": "Veuillez télécharger et installer la dernière version {0} ici.",
     "players_alive": "{0} / {1} joueurs en vie",
+    "reload": "Veuillez actualiser ou vider le cache de votre navigateur pour mettre à jour à la dernière version.",
+    "since": "depuis {0}",
+    "translation_disclaimer": "Vous êtes actuellement en train d'utiliser une version localisé de l'app. Cette traduction a été créé et vérifié par les bénévoles suivants, qui ne sont pas affiliés à The Pandémonium Institute :",
+    "translation_game": "Le contenu de la traduction du jeu peut mal refléter les règles du jeu officiel écrite tel qu'écrites en Anglais par The Pandemonium Institute.",
+    "update": "Veuillez Mettre À Jour !",
     "updating": "Mise à jour de l'app à la version {0}...",
     "warning_browser": "Vous utilisez un navigateur désuet ou non supporté",
+    "warning_browser2": "{0}, ce qui peut générer des soucis avec l'app. Veuillez télécharger la dernière version de votre navigateur, ou changer pour un autre navigateur. L'app fonctionne le mieux sous Firefox ou Chrome.",
     "warning_update": "Votre version de l'app est désuète",
     "warning_update2": "{0}, la dernière version est la {1} !"
   }
