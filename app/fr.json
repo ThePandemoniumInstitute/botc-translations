@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Voyageur·euses",
-        "title": "« Si les Voyageurs sont autorisés dans cette session de jeu »",
+        "title": "Si les Voyageurs sont autorisés dans cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
@@ -67,7 +67,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Distribuer les rôles",
-      "ghost-votes": "Restituer les votes des morts",
+      "ghost-votes": "Restituer les Votes des Morts",
       "grimoire": "Montrer le Grimoire",
       "open-eyes": "Ouvrir/Fermer les Yeux",
       "pointing": "Choisissez un Joueur"
@@ -77,18 +77,18 @@
     "minion": "Sbire|Sbires",
     "phases": {
       "day": "Premier Jour|Jour {n}",
-      "end": "Entre deux sessions",
+      "end": "Entre deux parties",
       "first_night": "Première Nuit",
       "night": "Première Nuit|Nuit {n}",
       "other_nights": "Autres Nuits",
       "start": "Préparation de la Nuit 1"
     },
     "player": "Joueur·euse {0}",
-    "players": "Joueur·euses",
+    "players": "Joueurs",
     "seat": "Siège {0}",
     "shroud": "Linceul",
-    "storyteller": "Conteur·euse {0}",
-    "storytellers": "Les Conteur·euses",
+    "storyteller": "Conteuse {0}",
+    "storytellers": "Les Conteuses",
     "token": "Jeton",
     "townsfolk": "Villageois·e|Villageois·es",
     "traveller": "Voyageur·euse|Voyageur·euses"
@@ -117,7 +117,7 @@
     "mute_cam": "Désactiver votre caméra [{0}]",
     "mute_mic": "Désactiver votre microphone [{0}]",
     "night_info": "Info de la Nuit",
-    "night_info_text": "La conteuse vous a réveillé·e cette nuit !",
+    "night_info_text": "La Conteuse vous a réveillé·e cette nuit !",
     "night_sheet": "Feuille d’Ordre de Nuit",
     "prompt_clear_player": "Êtes-vous sûr·e de vouloir retirer l'intégralité des jetons de rôles et d'aide-mémoire ?",
     "prompt_clear_st": "Cela videra le Grimoire et retirera tous les Aides-Mémoire pour vous et tous les joueurs. Êtes-vous sûr·e ?",
