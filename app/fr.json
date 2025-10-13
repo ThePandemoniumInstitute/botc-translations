@@ -502,7 +502,7 @@
     },
     "signal": {
       "cards": {
-        "bluffs": "Ces personnages ne sont pas en jeu",
+        "bluffs": "Ces rôles ne sont pas en jeu",
         "choice": "Faire un choix",
         "claim": "Ce•tte joueur•euse est",
         "demon": "Voici le Démon",
@@ -523,7 +523,7 @@
       "player": "Joueur•euse"
     },
     "user": {
-      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
+      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse? \n.Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
     },
     "verification": {
       "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entaché. Les parties privées ne sont pas concernées.",
@@ -544,10 +544,10 @@
   "overlays": {
     "attention": {
       "attention": "Votre attention s'il vous plait !",
-      "return": "Retourné au centre-ville maintenant !"
+      "return": "Veuillez retourner sur la Place du Village maintenant !"
     },
     "firstnight": {
-      "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de démon\" à partager avec le démon.",
+      "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de Démon\" à partager avec le Démon.",
       "button_begin": "Commencer la Première Phase de Nuit",
       "gardener_button": "Envoyez les Rôles"
     }
