@@ -564,7 +564,7 @@
       "button_select": "Sélectionner une Édition",
       "button_shuffle": "Mélanger les places",
       "clear_text": "Êtes-vous sûr de vouloir retirer tous les joueurs ?",
-      "clear_title": "Retirer tous les joueurs",
+      "clear_title": "Retirer tou·tes les joueur·euses",
       "move": "Déplacer après.\n.{0}",
       "shuffle_text": "Êtes-vous sûr de vouloir mélanger les places ?",
       "shuffle_title": "Mélanger les places",
@@ -572,7 +572,7 @@
       "text": "Ajoutez, mélangez ou supprimez des places de joueurs ici.",
       "text2": "Lorsqu’il y a suffisamment de places pour tout le monde, {0}",
       "title": "Rassemblez vos joueurs",
-      "warning": "Vous avez besoin d’au moins 7 joueurs pour une partie classique à Ravenswood Bluff."
+      "warning": "Vous avez besoin d’au moins 7 joueur·euses pour une partie classique à Ravenswood Bluff."
     },
     "nightaction": {
       "open-eyes": {
@@ -584,32 +584,32 @@
         "state_peek-eyes": "Entre-ouvert",
         "text": "Vos yeux sont {0}",
         "tooltip_false": "Vous ne verrez pas les signaux nocturnes des autres joueurs et ne pourrez envoyer de messages privés qu’à vos voisins et au Conteur.",
-        "tooltip_open-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tous les autres joueurs, peu importe leur position. Vous verrez le contenu de chaque signal nocturne envoyé et reçu, cependant, il y a une chance que quelqu’un vous surprenne.",
-        "tooltip_peek-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tous les autres joueurs, peu importe leur position. Vous verrez qui envoie et reçoit des signaux nocturnes, mais pas leur contenu. Vous ne pouvez pas être surpris en train de le faire."
+        "tooltip_open-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tou·tes les autres joueur·euses, peu importe leur position. Vous verrez le contenu de chaque signal nocturne envoyé et reçu, cependant, il y a une chance que quelqu’un vous surprenne.",
+        "tooltip_peek-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tou·tes les autres joueur·euses, peu importe leur position. Vous verrez qui envoie et reçoit des signaux nocturnes, mais pas leur contenu. Vous ne pouvez pas être surpris en train de le faire."
       }
     },
     "pointing": {
       "button_countdown": "Compte à rebours",
       "countdown_freeze": "Figer",
       "nobody": "personne",
-      "prompt": "Cliquez sur un joueur pour le désigner !",
-      "title_locked": "Joueur choisi : | Joueurs choisis :",
+      "prompt": "Cliquez sur un·e joueur·euse pour le·a désigner !",
+      "title_locked": "Joueur·euse choisi :|Joueur·euses choisi·es :",
       "title_open": "Sélection actuelle : | Sélections actuelles :",
       "you_pointed": "Vous avez désigné :"
     },
     "reveal": {
-      "button_remaining": "Joueurs restants",
+      "button_remaining": "Joueur·euses restant·es",
       "button_result": "Résultat de la partie",
       "evil": "Maléfique",
       "good": "Bon",
       "prompt": "Attention : Cela mettra fin à la partie et révélera le Grimoire à tous les joueurs !\nQui a remporté la partie ?",
       "result": "{0} a gagné !",
-      "text": "Révélez le résultat de la partie et chaque joueur en cliquant sur leur jeton. Vous pouvez survoler un jeton pour jeter un œil à son rôle.",
+      "text": "Révélez le résultat de la partie et chaque joueur·euse en cliquant sur leur jeton. Vous pouvez survoler un jeton pour jeter un œil à son rôle.",
       "title": "Révéler le Grimoire"
     },
     "rules": {
       "button_select": "Sélectionner les rôles",
-      "text": "Vous êtes prêt à {0}",
+      "text": "Vous êtes prêt·e à {0}",
       "text2": "Les Voyageurs doivent être attribués aux joueurs avant de sélectionner les rôles.",
       "title": "Sélectionner les rôles"
     },
@@ -646,7 +646,7 @@
       "warning_shortcuts": "Les raccourcis sont désactivés !"
     },
     "whisper": {
-      "muted": "Ce joueur est muet / réduit au silence dans le chat vocal.",
+      "muted": "Ce·tte joueur·euse est muet·te / réduit·e au silence dans le chat vocal.",
       "video_muted": "Ce joueur à sa caméra en pause / désactivée."
     }
   },
@@ -675,7 +675,7 @@
       "button_help": "Aide",
       "button_join_game": "Rejoindre une Partie Privée",
       "button_local_play": "Partie Locale",
-      "button_mod": "Modérateur",
+      "button_mod": "Modérateur·ice",
       "button_quit": "Quitter",
       "button_settings": "Paramètres",
       "button_verify": "Vérifier le compte",
@@ -695,11 +695,11 @@
       "no_games": "Aucune partie publique trouvée.",
       "page": "Page {page} sur {total}",
       "phase": "Phase",
-      "players": "Joueurs",
+      "players": "Joueur·euses",
       "script": "Script",
       "show_private": "Afficher les parties privées",
-      "spectators": "Spectateurs",
-      "stats": "{0} utilisateurs sont dans {1} {2} parties",
+      "spectators": "Spectateur·ices",
+      "stats": "{0} utilisateur·ices sont dans {1} {2} parties",
       "stats_public": "publique",
       "storyteller": "Conteur",
       "subscription": "Niveau de souscription",
@@ -720,7 +720,7 @@
       "register": "S'enregistrer",
       "subscribe": "S'inscrire à la Mailing List",
       "title": "Bienvenue sur Blood on the Clocktower En Ligne - En Construction !",
-      "username": "Nom d'utilisateur"
+      "username": "Nom d'utilisateur·ice"
     },
     "update": {
       "description": "Vous utilisez la version {0}, mais la version la plus récente est la {1}.",
@@ -732,20 +732,20 @@
     "menu": {
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours?",
       "empty_title": "Siège vide de {0}",
-      "follow": "Suivre le Joueur",
+      "follow": "Suivre le·a Joueur·euse",
       "nominate": "Nommer un joueur",
-      "unfollow": "Ne Plus Suivre le Joueur",
+      "unfollow": "Ne Plus Suivre le·a Joueur·euse",
       "wake": "Réveiller",
       "whisper": "Envoyer Message Privé"
     },
     "name": {
       "claim": "Cliquez pour réclamer",
-      "connecting": "Ce joueur se connecte au chat vocal.",
-      "follow": "Vous suivez ce joueur.",
-      "listening": "Ce joueur écoute le chat vocal.",
-      "move": "Déplacer ce joueur.",
-      "offline": "Ce joueur est actuellement hors-ligne.",
-      "remove": "Retirer ce joueur.",
+      "connecting": "Ce·tte joueur·euse se connecte au chat vocal.",
+      "follow": "Vous suivez ce·tte joueur·euse.",
+      "listening": "Ce·tte joueur·euse écoute le chat vocal.",
+      "move": "Déplacer ce·tte joueur·euse.",
+      "offline": "Ce·tte joueur·euse est actuellement hors-ligne.",
+      "remove": "Retirer ce·tte joueur·euse.",
       "remove_text": "Voulez-vous vraiment supprimer le siège {0} ?\n Il est actuellement occupé par {1}.",
       "remove_title": "Supprimer le siège",
       "seat_text": "(ceci ne sera visible que par vous)",
@@ -756,7 +756,7 @@
       "night_info_received": "Infos de nuit reçues",
       "night_info_sent": "Infos de Nuit envoyées",
       "nominate": "Nommer ce joueur",
-      "point": "Pointez ce joueur"
+      "point": "Pointez ce·tte joueur·euse"
     },
     "reminders": {
       "add": "Ajouter Aide-Mémoire",
@@ -768,8 +768,8 @@
       "remove": "Retirer l'Aide-Mémoire {0}",
       "saved_favorite": "Enregistré comme favori"
     },
-    "shroud_add": "Ce linceul n’est pas visible des joueurs. Cliquez à nouveau pendant la journée pour le rendre visible.",
-    "shroud_remove": "Ce linceul est encore visible des joueurs. Cliquez à nouveau pendant la journée pour le retirer.",
+    "shroud_add": "Ce linceul n’est pas visible des joueur·euses. Cliquez à nouveau pendant la journée pour le rendre visible.",
+    "shroud_remove": "Ce linceul est encore visible des joueur·euses. Cliquez à nouveau pendant la journée pour le retirer.",
     "toggle_status": "Modifier Statut"
   },
   "session": {
@@ -778,14 +778,14 @@
     "created": "Créé il y a {0} par {1}.",
     "free": "Gratuit pour tout le monde",
     "language": "Langue du Chat",
-    "locked": "Conteurs et Joueurs",
-    "locked_text": "Seuls les joueurs assis et les Conteurs actuels peuvent rejoindre la session.",
+    "locked": "Conteur·euses et Joueur·euses",
+    "locked_text": "Seuls les joueur·euses assi·ses et les Conteur·euses actuel·les peuvent rejoindre la session.",
     "name_placeholder": "Nom de la session de jeu",
     "prompt_public_text": "Êtes-vous sûr de vouloir rendre la session de jeu publique ?\n Cela permettra à n’importe qui de voir et de rejoindre votre partie.",
     "prompt_public_title": "Rendre la Session de Jeu Publique",
     "server": "Serveur de Chat :",
     "server_name": "Nom",
-    "server_stats": "{0} utilisateurs, {1} charge du serveur",
+    "server_stats": "{0} utilisateur·ices, {1} charge du serveur",
     "session_name": "Nom de la Session",
     "subscription_needed": "Abonnement nécessaire",
     "tags": "Tags de Partie Publique",
@@ -795,17 +795,17 @@
     "visibility_public": "Publique"
   },
   "storyteller": {
-    "connecting": "Le Conteur se connecte au chat vocal.",
-    "follow": "Suivre le Conteur",
-    "following": "Vous suivez ce conteur.",
-    "listening": "Le Conteur écoute dans le chat vocal.",
-    "offline": "Le Conteur est actuellement hors ligne.",
-    "prompt_grim_text": "Les nouveaux utilisateurs ne peuvent pas demander l’accès au Grimoire dans les parties publiques\n Veuillez terminer davantage de parties pour déverrouiller cette fonctionnalité.",
+    "connecting": "Le·a Conteur·euse se connecte au chat vocal.",
+    "follow": "Suivre le·a Conteur·euse",
+    "following": "Vous suivez ce·tte conteur·euse.",
+    "listening": "Le·a Conteur·euse écoute dans le chat vocal.",
+    "offline": "Le·a Conteur·euse est actuellement hors ligne.",
+    "prompt_grim_text": "Les nouveaux·elles utilisateur·ices ne peuvent pas demander l’accès au Grimoire dans les parties publiques\n Veuillez terminer davantage de parties pour déverrouiller cette fonctionnalité.",
     "prompt_grim_title": "Erreur lors de la Demande d'Accès au Grimoire",
-    "remove": "Retirer le Conteur",
+    "remove": "Retirer le·a Conteur·euse",
     "request_grim": "Demander l'Accès au Grimoire",
-    "title": "Conteurs",
-    "unfollow": "Ne plus suivre le Conteur"
+    "title": "Conteur·euses",
+    "unfollow": "Ne plus suivre le·a Conteur·euse"
   },
   "tabs": {
     "bluffs": {
@@ -816,7 +816,7 @@
       "download": "Télécharger le JSON du Script",
       "error_popout": "Erreur lors de la création de la fenêtre",
       "error_save": "Erreur lors de l’enregistrement du fichier",
-      "jinxes": "Jinxes",
+      "jinxes": "Malédictions",
       "other_nights": "Pas la\n première nuit",
       "popout": "Détacher l'Onglet Rôle"
     },
@@ -849,7 +849,7 @@
         "tb_3": "Bibliothèque",
         "tb_4": "Laboratoire"
       },
-      "following": "Vous suivez ce joueur.",
+      "following": "Vous suivez ce·tte joueur·euse.",
       "incoming": "Entrant",
       "leave_private": "Quitter le Chat Privé",
       "leave_room": "Quitter la salle",
@@ -859,7 +859,7 @@
       "request_private": "Demander un Chat Privé",
       "requests": "Demandes de Chat",
       "reset_position": "Réinitialiser la position",
-      "spectator": "Spectateur",
+      "spectator": "Spectateur·ice",
       "title": "Voix"
     },
     "fabled": {
@@ -870,7 +870,7 @@
       "channels": {
         "private": "Privé",
         "public": "Publique",
-        "spectator": "Spectateurs"
+        "spectator": "Spectateur·ices"
       },
       "message_blocked": "non envoyé",
       "message_to": "à",
@@ -880,23 +880,23 @@
       "prompt_system": "Messages système",
       "prompt_user": "À {0}",
       "system": {
-        "death": "{0} est mort.",
+        "death": "{0} est mort·e.",
         "end_evil": "La partie est terminée et l’Équipe maléfique a gagné !",
         "end_good": "La partie est terminée et l’Équipe du Bien a gagné !",
-        "grim_deny": "{0} s'est vu refusé l'accès au Grimoire.",
+        "grim_deny": "{0} s'est vu refusé·e l'accès au Grimoire.",
         "grim_receive": "{0} a reçu l'accès au Grimoire.",
         "grim_remove": "{0} n'a plus accès au Grimoire.",
         "grim_request": "{0} a demandé l'accès au Grimoire.",
         "join": "{0} a rejoint la partie.",
         "leave": "{0} a quitté la partie.",
         "phase": "{0} a commencé.",
-        "revive": "{0} a ressuscité.",
+        "revive": "{0} a été ressuscité·e.",
         "seat_claim": "{0} a pris le siège {1}.",
-        "seat_empty": "{0} a été expulsé du siège {1}.",
+        "seat_empty": "{0} a été expulsé·e du siège {1}.",
         "seat_vacate": "{0} a quitté le siège {1}.",
         "signal": "{0} a envoyé un signal de nuit à {1}.",
         "start": "La partie a commencé et les rôles ont été distribués !",
-        "storyteller_add": "{0} est devenue le Conteur.",
+        "storyteller_add": "{0} est devenu·e le·a Conteur·euse.",
         "storyteller_remove": "{0} n’est plus le Conteur.",
         "vote": "{0} a utilisé son Vote de Mort."
       },
@@ -910,10 +910,10 @@
     "error_avatar_text": "L'avatar que vous avez choisi fait {0}Mo, mais la taille maximal est {1}Mo.",
     "error_avatar_title": "Le fichier est trop gros",
     "gain": "Gain",
-    "id": "ID de l'Utilisateur",
+    "id": "ID de l'Utilisateur·ice",
     "level": "Niveau du Compte",
     "mic_volume": "Volume du Micro",
-    "new_user": "Nouvel Utilisateur",
+    "new_user": "Nouvel·le Utilisateur·ice",
     "pronouns": "pronoms",
     "registration": "Enregistrement",
     "statistics": "Statistiques",
@@ -933,12 +933,12 @@
     "stats_private": "Privé",
     "stats_public": "Publique",
     "upload_avatar": "Importer un avatar",
-    "verified": "Utilisateur Vérifié"
+    "verified": "Utilisateur·ice Vérifié·e"
   },
   "version": {
     "character_distribution": "Distribution des Personnages",
     "download": "Veuillez télécharger et installer la dernière version {0} ici.",
-    "players_alive": "{0} / {1} joueurs en vie",
+    "players_alive": "{0} / {1} joueur·euses en vie",
     "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour obtenir la dernière version.",
     "since": "depuis {0}",
     "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
