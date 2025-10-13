@@ -626,7 +626,7 @@
     "vote": {
       "accusation": "Accusation",
       "button_mark": "Marquer",
-      "button_mark_remove": "Enlever Marque",
+      "button_mark_remove": "Enlever la Marque",
       "button_pause": "Pause",
       "button_reset": "Réinitialiser",
       "button_restart": "Recommencer",
@@ -807,7 +807,7 @@
         "custom_2": "Cathédrale",
         "custom_3": "Feu de camp",
         "custom_4": "Bord de Rivière",
-        "snv_0": "Jardin d'herboriste",
+        "snv_0": "Jardin d'Herboriste",
         "snv_1": "Serre",
         "snv_3": "Temple",
         "snv_4": "Tente de Cirque",
