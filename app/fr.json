@@ -551,7 +551,11 @@
       "button_begin": "Commencer la Première Phase de Nuit",
       "gardener_button": "Envoyez les Rôles",
       "gardener_text": "Une fois que vous êtes satisfait de la sélection des rôles, {0} à vos joueurs. Une fois qu'ils les ont reçu, vous pouvez commencer à préparer la Première Nuit.",
-      "reminders": "Ajoutez tout {0} jetons d'aide-mémoire nécessaire."
+      "reminders": "Ajoutez tout {0} jetons d'aide-mémoire nécessaire.",
+      "title": "Préparer la Première Nuit"
+    },
+    "gatherplayers": {
+      "button_add": "Ajoutez un Siège"
     }
   },
   "version": {
