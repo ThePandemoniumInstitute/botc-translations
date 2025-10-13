@@ -99,9 +99,9 @@
     "lordoftyphon-summoner": "Nếu Lord of Typhon được triệu hồi, họ phải là hàng xóm của Tay sai bất kì & hàng xóm còn lại của họ sẽ trở thành một Tay sai theo phe xấu.",
     "lunatic-mathematician": "Mathematician có thể biết khi Lunatic tấn công một người chơi khác với người mà Ác quỷ chọn.",
     "magician-marionette": "Nếu Magician còn sống, Ác quỷ không biết hàng xóm nào là Marionette.",
-    "magician-spy": "Khi Spy nhìn vào Cẩm thư, token của Ác quỷ và Magician sẽ được bỏ ra.",
+    "magician-spy": "Khi Spy nhìn vào Cấm thư, token của Ác quỷ và Magician sẽ được bỏ ra.",
     "magician-vizier": "Nếu Vizier có tham gia ván chơi, Magician không có năng lực nhưng miễn nhiễm với năng lực của Vizier.",
-    "magician-widow": "Khi Widow nhìn vào Cẩm thư, token của Ác quỷ và Magician sẽ được bỏ ra.",
+    "magician-widow": "Khi Widow nhìn vào Cấm thư, token của Ác quỷ và Magician sẽ được bỏ ra.",
     "magician-wraith": "Sau mỗi hành quyết, Magician còn sống có thể công khai đoán một người chơi còn sống bất kì là Wraith. Nếu đoán đúng, Ác quỷ phải chọn Wraith đêm nay.",
     "marionette-mathematician": "Mathematician có thể biết khi tay sai Marionette nhận thông tin sai hoặc không hoạt động được.",
     "marionette-plaguedoctor": "Nếu Người kể truyện nhận được năng lực của Marionette, một trong hai hàng xóm tốt của Ác quỷ trở thành Marionette.",
@@ -119,9 +119,9 @@
     "plaguedoctor-spy": "Nếu Người kể truyện nhận được năng lực của Spy, một Tay sai bất kì sẽ nhận được năng lực này và biết được điều này.",
     "plaguedoctor-wraith": "Nếu Người kể truyện nhận được năng lực của Wraith, một Tay sai bất kì nhận được năng lực này và biết được điều này.",
     "politician-vizier": "Politician có thể được tính là theo phe xấu đối với Vizier.",
-    "poppygrower-spy": "Nếu Poppy Grower vẫn có năng lực của họ, Spy không được nhìn Cẩm thư.",
+    "poppygrower-spy": "Nếu Poppy Grower vẫn có năng lực của họ, Spy không được nhìn Cấm thư.",
     "poppygrower-summoner": "Nếu Poppy Grower còn sống vào đêm thứ 3, Summoner được chọn Ác quỷ nào nhưng không được chọn người nào trở thành Ác quỷ.",
-    "poppygrower-widow": "Nếu Poppy Grower vẫn có năng lực của họ, Widow sẽ không được nhìn Cẩm thư.",
+    "poppygrower-widow": "Nếu Poppy Grower vẫn có năng lực của họ, Widow sẽ không được nhìn Cấm thư.",
     "preacher-summoner": "Nếu Summoner mất đi năng lực của họ, Người kể truyện sẽ nhận được năng lực này.",
     "preacher-vizier": "Nếu Vizier mất đi năng lực của họ, họ biết được điều này, và không thể chết vào ban ngày.",
     "pukka-summoner": "Summoner có thể triệu hồi Pukka vào đêm thứ 2 thay vì đêm thứ 3.",
@@ -500,10 +500,10 @@
       "flavor": "Vùng đất hoang vu vẫy gọi. Xương hóa thành thịt, rồi tan thành bụi. Linh hồn vĩ đại lớn lên. Linh hồn vĩ đại dõi theo. Linh hồn vĩ đại dẫn đường. Con người lắng nghe, hoặc con người sẽ không còn nữa."
     },
     "spy": {
-      "ability": "Mỗi đêm, bạn có thể nhìn vào Cẩm thư. Bạn có thể được tính như theo phe tốt & là một Dân làng hay Ngoại lai, kể cả khi chết.",
-      "first": "Cho Spy nhìn vào Cẩm thư bao lâu tùy họ.",
+      "ability": "Mỗi đêm, bạn có thể nhìn vào Cấm thư. Bạn có thể được tính như theo phe tốt & là một Dân làng hay Ngoại lai, kể cả khi chết.",
+      "first": "Cho Spy nhìn vào Cấm thư bao lâu tùy họ.",
       "name": "Spy",
-      "other": "Cho Spy nhìn vào Cẩm thư bao lâu tùy họ."
+      "other": "Cho Spy nhìn vào Cấm thư bao lâu tùy họ."
     },
     "steward": {
       "ability": "Bạn bắt đầu biết một người phe tốt.",
@@ -601,8 +601,8 @@
       "name": "Washerwoman"
     },
     "widow": {
-      "ability": "Vào đêm đầu tiên của bạn, nhìn vào Cẩm thư & chọn một người: họ bị đầu độc. 1 người tốt biết có Widow trong ván chơi.",
-      "first": "Cho Widow nhìn vào Cẩm thử bao lâu tùy họ. Widow chọn một người chơi. :reminder:",
+      "ability": "Vào đêm đầu tiên của bạn, nhìn vào Cấm thư & chọn một người: họ bị đầu độc. 1 người tốt biết có Widow trong ván chơi.",
+      "first": "Cho Widow nhìn vào Cấm thử bao lâu tùy họ. Widow chọn một người chơi. :reminder:",
       "flavor": "Thêm rượu nữa chứ? Château d’Ergot ’07 là một loại rượu vang rất đặc biệt. Vâng, thực sự rất đặc biệt.",
       "name": "Widow"
     },
