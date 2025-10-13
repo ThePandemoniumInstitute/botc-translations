@@ -573,7 +573,7 @@
       "error": "Le chargement des détails utilisateurs a rencontré une erreur.",
       "grimoire_access_grant": "Donner Accès au Grimoire",
       "grimoire_access_revoke": "Révoquer l'Accès au Grimoire",
-      "prompt_kick": "Voulez-vous vraiment retirer {0} de la session de jeu ?",
+      "prompt_kick": "Voulez-vous vraiment retirer {0} de la partie ?",
       "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse? \n.Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
     },
     "users": {
