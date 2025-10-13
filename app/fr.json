@@ -597,6 +597,7 @@
       "error_assigned": "Ce numéro de téléphone est déjà attribué à un autre utilisateur, veuillez s'il vous plaît utiliser un autre numéro de téléphone.",
       "error_cooldown": "Vous avez atteint le nombre maximal de tentatives. Veuillez attendre au moins {0} minutes avant de réessayer.",
       "error_other": "Quelque chose s'est mal passé : {0}. Veuillez réessayer.",
+      "error_pending": "Code incorrect. Veuillez réessayer.",
       "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entaché. Les parties privées ne sont pas concernées.",
       "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable."
     },
