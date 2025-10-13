@@ -804,13 +804,16 @@
     "prompt_grim_title": "Erreur lors de la Demande d'Accès au Grimoire",
     "remove": "Retirer le Conteur",
     "request_grim": "Demander l'Accès au Grimoire",
-    "title": "Conteurs"
+    "title": "Conteurs",
+    "unfollow": "Arrêter de suivre Conteuse"
   },
   "tabs": {
     "bluffs": {
+      "drag": "Vous pouvez déplacer cette fenêtre n'importe où dans l'écran.",
       "title": "Bluffs"
     },
     "character": {
+      "download": "Télécharger le JSON du Scripte",
       "error_popout": "Erreur lors de la création de la fenêtre",
       "error_save": "Erreur lors de sauvegarde du fichier"
     },
