@@ -98,6 +98,9 @@
     },
     "edition": {
       "difficulty_beginner": "Calm"
+    },
+    "users": {
+      "grim_access": "Map Sight"
     }
   },
   "pages": {
