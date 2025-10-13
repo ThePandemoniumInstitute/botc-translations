@@ -639,7 +639,7 @@
   "overlays": {
     "attention": {
       "attention": "Lystring!",
-      "return": "Samling på torget!"
+      "return": "Samling på torget! Samling på torget!"
     },
     "firstnight": {
       "bluffs": "Välj de 3 blanka bluffbrickorna för att välja bluffar till Demonen.",
