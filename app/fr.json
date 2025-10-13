@@ -495,10 +495,14 @@
       "get_devices": "Obtenir la Liste des Périphériques",
       "mic_blocked": "L’accès au microphone est bloqué",
       "mic_cam_blocked": "Impossible d’accéder à la caméra et au microphone",
+      "mic_cam_query": "Accéder à la caméra et au microphone",
+      "mic_only": "Accéder uniquement au microphone",
+      "mic_query": "Demande d'autorisation pour le microphone",
       "start": "Commencer"
     },
     "signal": {
       "cards": {
+        "bluffs": "Ces personnages ne sont pas en jeu",
         "choice": "Faire un choix",
         "claim": "Ce•tte joueur•euse est",
         "demon": "Voici le Démon",
@@ -517,6 +521,9 @@
       },
       "character": "Rôle",
       "player": "Joueur•euse"
+    },
+    "user": {
+      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
     }
   },
   "version": {
