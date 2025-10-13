@@ -1017,7 +1017,7 @@
       "name": "Descifrador"
     },
     "ravenkeeper": {
-      "ability": "Si mueres en la noche, tú te despiertas para escoger un jugador: aprendes su rol.",
+      "ability": "Si mueres en la noche, despiertas para escoger un jugador: aprendes su rol.",
       "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen, mis mascotas dulces y obedientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
       "name": "Guardián de Cuervos",
       "other": "Si el Guardián de Cuervos muere esta noche, él escoge un jugador. Muéstrale la ficha de rol del jugador escogido."
