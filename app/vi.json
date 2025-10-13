@@ -35,8 +35,8 @@
         "value_2": "Mới bắt đầu"
       },
       "grimoire": {
-        "label": "Quyền Truy Cập Cẩm Thư",
-        "title": "Cho phép khán giả nhận quyền truy cập Cẩm thư hay không",
+        "label": "Quyền Truy Cập Cấm Thư",
+        "title": "Cho phép khán giả nhận quyền truy cập Cấm thư hay không",
         "value_0": "Hỏi",
         "value_1": "Không",
         "value_2": "Có"
@@ -68,7 +68,7 @@
     "abilities": {
       "distribute-roles": "Phát Vai Trò",
       "ghost-votes": "Trả Phiếu Ma",
-      "grimoire": "Cho xem Cẩm thư",
+      "grimoire": "Cho xem Cấm thư",
       "open-eyes": "Mở/Nhắm Mắt",
       "pointing": "Chọn Người Chơi"
     },
@@ -99,7 +99,7 @@
     "change_icon": "Bấm để đổi biểu tượng",
     "char_sheet": "Bảng Nhân Vật",
     "characters": "Chọn Nhân Vật",
-    "clear_grim": "Dọn Cẩm Thư",
+    "clear_grim": "Dọn Cấm Thư",
     "download": "Tải {0} Ứng dụng",
     "edition": "Chọn Phiên bản",
     "error_audio": "Trình duyệt của bạn chặn ứng dụng cho việc {0}. Hãy bấm vào đây để bắt đầu nhắn tin.",
@@ -111,8 +111,8 @@
     "gather": "Tập Hợp Người Chơi",
     "gong_attention": "Chiêng Chú Ý",
     "gong_recall": "Gọi về Quảng Trường",
-    "grim_access": "Bạn đã được nhận quyền truy cập Cẩm thư",
-    "grim_request": "Một khán giả yêu cầu quyền truy cập Cẩm thư",
+    "grim_access": "Bạn đã được nhận quyền truy cập Cấm thư",
+    "grim_request": "Một khán giả yêu cầu quyền truy cập Cấm thư",
     "help": "Giúp",
     "json_schema": "Sơ đồ JSON của Kịch bản",
     "leave": "Rời Trò Chơi",
@@ -122,8 +122,8 @@
     "night_info_text": "Người kể truyện gọi bạn dậy đêm nay!",
     "night_sheet": "Tờ Thứ Tự Ban Đêm",
     "prompt_clear_player": "Bạn có chắc bạn muốn loại bỏ tất cả token ghi chú và nhân vật của tất cả người chơi hay không?",
-    "prompt_clear_st": "Việc này sẽ dọn sạch Cẩm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
-    "prompt_clear_title": "Dọn sạch Cẩm thư và Token Ghi chú",
+    "prompt_clear_st": "Việc này sẽ dọn sạch Cấm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
+    "prompt_clear_title": "Dọn sạch Cấm thư và Token Ghi chú",
     "prompt_timer_text": "Chọn thời lượng và tiêu đề (tùy chọn) cho hẹn giờ:",
     "prompt_timer_title": "Đặt hẹn giờ",
     "prompt_vacate_text": "Bạn hiện tại đang ở trong trò chơi, bạn có chắc bạn muốn rời khỏi ghế ngồi?",
@@ -131,12 +131,12 @@
     "push_to_talk": "Nhấn [{0}] để nói",
     "raise_hand": "Giơ Tay",
     "request_private": "Yêu Cầu Nói Riêng Tư",
-    "reveal_grim": "Tiết Lộ Cẩm Thư",
+    "reveal_grim": "Tiết Lộ Cấm Thư",
     "rules": "Đọc Luật Chơi",
     "session_expires": "Hiện tại, không có bất kì người dùng nào sở hữu cấp bậc Tay sai trong phiên này và nó có thể hết hạn vào {0}.",
     "set_timer": "Đặt Hẹn Giờ",
     "settings": "Cài Đặt",
-    "show_grim": "Cho Thấy Cẩm Thư",
+    "show_grim": "Cho Thấy Cấm Thư",
     "show_town": "Cho Thấy Quảng Trường",
     "show_users": "Cho Thấy Người Dùng [{0}]",
     "storyteller_add": "Trở thành Người kể truyện",
@@ -181,7 +181,7 @@
         "chat_text": "Mất kết nối với máy chủ trò chuyện, đang cố gắng kết nối lại...\n Thông báo lỗi: {0}",
         "chat_title": "Đã xảy ra lỗi kết nối trò chuyện",
         "claiming": "Lỗi ngồi vào ghế",
-        "clear_grim": "Không thể dọn Cẩm thư",
+        "clear_grim": "Không thể dọn Cấm thư",
         "connection": "Đã xảy ra lỗi kết nối",
         "edition_change": "Lỗi thay đổi phiên bản",
         "end": "Lỗi kết thúc trò chơi",
@@ -202,21 +202,26 @@
         "offline": "Máy chủ có vẻ như đang ngoại tuyến",
         "remove_player": "Không thể loại bỏ người chơi",
         "remove_storyteller": "Lỗi loại bỏ Người kể truyện",
-        "request_grim": "Không thể yêu cầu Cẩm thư",
+        "request_grim": "Không thể yêu cầu Cấm thư",
         "running": "Lỗi thay đổi trạng thái đang chạy"
       }
     },
     "edition": {
-      "button_clear": "Dọn Cẩm Thư",
-      "clear_description": "Việc này sẽ dọn sạch Cẩm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
-      "clear_title": "Dọn sạch Cẩm thư và Token Ghi chú"
+      "button_clear": "Dọn Cấm Thư",
+      "clear_description": "Việc này sẽ dọn sạch Cấm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
+      "clear_title": "Dọn sạch Cấm thư và Token Ghi chú"
     },
     "settings": {
       "shortcuts": {
         "modeFabled": "Thêm Thần Thoại",
-        "revealGrimoire": "Tiết Lộ Cẩm Thư"
+        "revealGrimoire": "Tiết Lộ Cấm Thư"
       },
       "tab_general": "Chung"
+    }
+  },
+  "overlays": {
+    "gatherplayers": {
+      "title": "Tập Hợp Người Chơi"
     }
   },
   "pages": {
