@@ -1017,13 +1017,13 @@
       "name": "Descifrador"
     },
     "ravenkeeper": {
-      "ability": "Si mueres en la noche, despiertas para escoger un jugador: aprendes su rol.",
+      "ability": "Si mueres en la noche, tú te despiertas para escoger un jugador: aprendes su rol.",
       "flavor": "¡Mis aves me vengarán! ¡Vuelen! ¡Vuelen, mis mascotas dulces y obedientes! ¡A la mansión y al rio! ¡A los callejones y las cantinas! ¡Vuelen!",
       "name": "Guardián de Cuervos",
       "other": "Si el Guardián de Cuervos muere esta noche, él escoge un jugador. Muéstrale la ficha de rol del jugador escogido."
     },
     "recluse": {
-      "ability": "Quizás registres como malvado y como Demonio o Secuaz, incluso si muerto.",
+      "ability": "Quizás te registres como malvado y como Demonio o Secuaz, incluso si estás muerto.",
       "name": "Recluso"
     },
     "revolutionary": {
@@ -1040,10 +1040,11 @@
     },
     "scarletwoman": {
       "ability": "Si hay 5 o más jugadores vivos y el Demonio muere, tú te conviertes en el Demonio. (Los viajeros no cuentan.)",
-      "flavor": "Me has mostrado los secretos del Consejo de la Llama Púrpura. Nos hemos acostado juntos en el fuego, en la lujuria y en la comunión bestial, y seré tu sierviente para siempre. Pero esta noche, mi amor, soy tu amo/a."
+      "flavor": "Me has mostrado los secretos del Consejo de la Llama Púrpura. Nos hemos acostado juntos en el fuego, en el deseo y en la comunión bestial, y seré sirviente tuyo para siempre. Pero esta noche, mi amor, soy tu ama.",
+      "name": "Mujer Escarlata"
     },
     "seamstress": {
-      "ability": "Una vez por juego, en la noche, elige a dos jugadores (no a ti mismo): descubre si comparten el mismo alineamiento."
+      "ability": "Una vez por juego, en la noche, escoge dos jugadores (no a ti mismo): aprendes si comparten el mismo alineamiento."
     },
     "yaggababble": {
       "name": "Yaggablabla"
