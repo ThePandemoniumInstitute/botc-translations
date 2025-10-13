@@ -456,7 +456,7 @@
     },
     "demoninfo": {
       "first": "Väck Demonen om det finns 7 eller fler spelare:\n\tVisa kortet *DET HÄR ÄR DINA KUMPANER*. Peka på alla Kumpaner.\n\tVisa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa tre goda roller som inte är i spel.",
-      "name": "Demoninfo"
+      "name": "Demon-info"
     },
     "deusexfiasco": {
       "ability": "Minst en gång per spel begår berättaren ett misstag, rättar till det och erkänner detta öppet.",
@@ -796,7 +796,7 @@
     },
     "lordoftyphon": {
       "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]",
-      "first": "Byt ut Demonens grannar mot Kumpaner, väck dem, visa deras nya lag och roll, och ge Kumpaninfo.",
+      "first": "Byt ut Demonens grannar mot Kumpaner, väck dem, visa deras nya lag och roll, och ge Kumpan-info.",
       "flavor": "I kosmos förgätna avkrokar, där stjärnorna viskar hemligheter till intet, vilar en sanning så djup att minsta skymt av den kan driva dödliga till vansinne.",
       "name": "Tyfons Herre",
       "other": "Tyfons Herre väljer en spelare. :reminder:"
@@ -816,7 +816,7 @@
     },
     "magician": {
       "ability": "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon.",
-      "first": "Inkludera Magikern i Kumpan- och Demoninfon.",
+      "first": "Inkludera Magikern i Kumpan- och Demon-infon.",
       "flavor": "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs försvunnit! Spårlöst borta! Tack så mycket, och god natt!",
       "name": "Magikern"
     },
@@ -857,7 +857,7 @@
     },
     "minioninfo": {
       "first": "Om det finns 7 eller fler spelare, väck alla Kumpaner:\n\tVisa kortet *DET HÄR ÄR DEMONEN*. Peka på Demonen.\n\tVisa kortet *DET HÄR ÄR DINA KUMPANER*. Peka på de andra Kumpanerna.",
-      "name": "Kumpaninfo"
+      "name": "Kumpan-info"
     },
     "minstrel": {
       "ability": "Om en Kumpan dör av avrättning blir alla andra spelare (utom Resenärer) fulla fram till skymningen imorgon.",
@@ -975,7 +975,7 @@
     },
     "poppygrower": {
       "ability": "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt.",
-      "first": "Gör inte Kumpan- och Demoninfon. Väck Demonen, visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda rollbrickor som inte är i spel.",
+      "first": "Gör inte Kumpan- och Demon-infon. Väck Demonen, visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda rollbrickor som inte är i spel.",
       "flavor": "I den djupa skogens dolda lundar växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar.",
       "name": "Vallmoodlaren",
       "other": "Om Vallmoodlaren dog idag eller inatt: Väck Kumpanerna, visa kortet *DET HÄR ÄR DEMONEN* och peka på Demonen. Söv Kumpanerna. Väck Demonen, visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på Kumpanerna. Söv Demonen."
@@ -1143,14 +1143,14 @@
       "name": "Stormfångaren"
     },
     "summoner": {
-      "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon du väljer. [Ingen Demon]",
+      "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon som du väljer. [Ingen Demon]",
       "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbickor som inte är i spel.",
       "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
       "name": "Åkallaren",
       "other": "Byt ut Åkallarens påminnelse till den aktuella natten. Om det är natt 3 så väljer Åkallaren en spelare och en Demon. Söv Åkallaren. Väck den valda spelaren. Visa kortet *DU ÄR*, tummen ner och den valda Demonens rollbricka."
     },
     "sweetheart": {
-      "ability": "När du dör blir 1 spelare full.",
+      "ability": "När du dör blir 1 spelare full för resten av spelet.",
       "flavor": "Jag kommer aldrig glömma henne. Aldrig.",
       "name": "Kärestan",
       "other": "Om Kärestan dog blev en spelare full direkt. Om du inte har gjort det än så gör det nu. :reminder:"
@@ -1181,14 +1181,14 @@
     },
     "toymaker": {
       "ability": "Demonen kan välja att inte attackera och måste välja detta minst en gång per spel. De onda får vanlig startinfo.",
-      "first": "Ge Kumpan- och Demoninfo trots att det är färre än 7 spelare.",
+      "first": "Ge Kumpan- och Demon-info trots att det är färre än 7 spelare.",
       "flavor": "Den surrar! Den går i trappor! Den värmer om natten! Den smakar socker! Ungarna älskar den! Får jag presentera, den splitter nya… Värme-vandrar-surrar-automat-mojängen! Rolig för liten som stor!",
       "name": "Leksaksmakaren",
       "other": "Om Demonens attack kan avsluta spelet och Demonen är märkt *INGEN ATTACK* så vaknar Demonen inte inatt."
     },
     "undertaker": {
       "ability": "Varje natt* får du veta vilken roll som dog av avrättning idag.",
-      "flavor": "Hmmm… vad har vi här då? Vänstra kängan är sliten ner till hälen, med flintspån under spännet… Så klär sig en man i det militära.",
+      "flavor": "Hmmm… vad har vi här då? Vänstra kängan är sliten ner till hälen, med flintspån under spännet… De har burits av en soldat.",
       "name": "Dödgrävaren",
       "other": "Om en spelare avrättades idag så visa den spelarens rollbricka."
     },
@@ -1223,7 +1223,7 @@
       "other": "Vortox väljer en spelare. :reminder:"
     },
     "voudon": {
-      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50% majoritet behövs inte.",
+      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50 % majoritet behövs inte.",
       "flavor": "Bien venu. Sitt. Ta ett djupt andetag. Beträd de dödas land. Se med deras ögon. Tala med deras röst. Yon sel lang se janm ase.",
       "name": "Voudon"
     },
