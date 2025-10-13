@@ -883,25 +883,25 @@
     },
     "nightwatchman": {
       "ability": "Una vez por juego, por la noche, escoge un jugador: él aprende que tú eres el Vigilante.",
-      "first": "El Vigilante quizás escoga un jugador :reminder: Pon al Vigilante a dormir. Despierta al jugador seleccionado y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha del Vigilante y apunta al Vigilante.",
+      "first": "El Vigilante quizás escoja un jugador :reminder: Pon al Vigilante a dormir. Despierta al jugador seleccionado y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha del Vigilante y apunta al Vigilante.",
       "flavor": "Esta noche es fría y solitaria, pero tengo la luna, las estrellas, el viento fresco y el suave sonido de mis botas de cuero en el piso de piedra que me acompañan. A lo lejos, una vela titila detrás de una ventana turbia…",
       "name": "Vigilante",
-      "other": "El Vigilante quizás escoga un jugador :reminder: Pon al Vigilante a dormir. Despierta al jugador seleccionado y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha del Vigilante y apunta al Vigilante."
+      "other": "El Vigilante quizás escoja un jugador :reminder: Pon al Vigilante a dormir. Despierta al jugador seleccionado y muéstrale la ficha de *ESTE JUGADOR ES* y la ficha del Vigilante y apunta al Vigilante."
     },
     "noble": {
       "ability": "Empiezas conociendo 3 jugadores, entre los cuales 1 y solo 1 es malvado.",
       "first": "Apunta a todos los tres jugadores marcados *CONOCE*.",
-      "flavor": "El sarcasmo es, de hecho, la forma más básica de ingenio. Pero hablar en respuesta a sus críticas, Señor, es, sin embargo, una forma de ingenio.",
+      "flavor": "El sarcasmo es, de hecho, la forma más básica de ingenio. Pero para hablar en respuesta a sus críticas, Señor, es, sin embargo, una forma de ingenio.",
       "name": "Noble"
     },
     "nodashii": {
       "ability": "Cada noche*, escoge un jugador: él muere. Tus 2 Ciudadanos vecinos están envenenados.",
       "flavor": "Por los pecados de Arnoch, percibo su olor putrefacto. Por el maldito sol y su vil legión de pequeños dioses burlones, os corrompo. Por la bendita noche y las profundidades oscuras del mar hórrido e impío, declaro el final de su miserable vida en este plano.",
       "name": "No Dashii",
-      "other": "El No Dashii escoge a un jugador. :reminder:"
+      "other": "El No Dashii escoge un jugador. :reminder:"
     },
     "ogre": {
-      "ability": "En tu 1era noche, escoge un jugador (no tú mismo): tú te vuelves de su alineamiento (sin saber cuál es) includo si estás borracho o envenenado.",
+      "ability": "En tu 1era noche, escoge un jugador (no tú mismo): tú te vuelves de su alineamiento (sin saber cuál es) incluso si estás borracho o envenenado.",
       "first": "El Ogro apunta a un jugador. :reminder:",
       "flavor": "\\<gruñido\\>\\<sonrisa\\>\\</gruñido\\>",
       "name": "Ogro"
