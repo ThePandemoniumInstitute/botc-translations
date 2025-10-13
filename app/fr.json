@@ -524,6 +524,20 @@
     },
     "user": {
       "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
+    },
+    "verification": {
+      "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entaché. Les parties privées ne sont pas concernées.",
+      "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable."
+    },
+    "votehistory": {
+      "majority": "Majorité",
+      "nominator": "Nominant",
+      "nominee": "Nominé",
+      "phase": "Phase",
+      "pregame": "Avant-partie",
+      "title": "Historique des votes",
+      "type": "Type",
+      "voters": "Votants"
     }
   },
   "version": {
