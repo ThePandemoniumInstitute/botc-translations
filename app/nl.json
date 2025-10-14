@@ -5,7 +5,7 @@
       "patreon-demon": "Demoon rang",
       "patreon-minion": "Volgeling rang",
       "patreon-townsfolk": "Dorpeling rang",
-      "special-free": "Complimentair",
+      "special-free": "Complementair",
       "special-moderator": "Moderator",
       "special-tpi": "TPI Personeel"
     },
@@ -35,7 +35,7 @@
         "value_2": "Beginner"
       },
       "grimoire": {
-        "label": "Grimoire-toegang",
+        "label": "Grimoire toegang",
         "title": "Of toeschouwers toegang krijgen tot de Grimoire",
         "value_0": "Vraag",
         "value_1": "Nee",
@@ -43,7 +43,7 @@
       },
       "streaming": {
         "label": "Spel wordt gestreamd",
-        "title": "Deze speelsessie zal livegestreamed worden",
+        "title": "Deze spelsessie zal live gestreamd worden",
         "value_0": "Nee",
         "value_1": "Ja"
       },
@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Reizigers",
-        "title": "Of reizigers toegestaan zijn in deze spelsessie",
+        "title": "Of Reizigers toegelaten worden in deze spelsessie",
         "value_0": "Optioneel",
         "value_1": "Ja",
         "value_2": "Nee"
@@ -99,7 +99,7 @@
     "change_icon": "Klik om icoon te wijzigen",
     "char_sheet": "Karakterblad",
     "characters": "Selecteer karakters",
-    "clear_grim": "Grimoire egen",
+    "clear_grim": "Grimoire leegmaken",
     "download": "Download {0} App",
     "edition": "Selecteer Editie",
     "error_audio": "Je browser weerhoudt de app van {0}. Klik hier om de chat te starten.",
@@ -181,7 +181,7 @@
         "chat_text": "Verbinding met chatserver verbroken, proberen opnieuw verbinding te maken...\nFoutmelding: {0}",
         "chat_title": "Er is een chatverbindingsfout opgetreden",
         "claiming": "Fout bij het claimen van een stoel",
-        "clear_grim": "Kan Grimoire niet wissen",
+        "clear_grim": "Kan de Grimoire niet wissen",
         "connection": "Er is een verbindingsfout opgetreden",
         "edition_change": "Fout bij het wijzigen van editie",
         "end": "Fout bij het beëindigen van het spel",
@@ -196,7 +196,7 @@
         "loading_title": "Fout bij het laden van app-gegevens",
         "missing_edition": "Deze sessie gebruikt een editie die niet gevonden kan worden.",
         "missing_edition_title": "Fout bij het laden van editie",
-        "missing_roles": "Deze sessie gebruikt aangepaste karakters die niet gevonden kunnen worden. Laad deze voordat je meedoet! Ontbrekende rollen:{0}",
+        "missing_roles": "Deze sessie gebruikt aangepaste karakters die niet gevonden kunnen worden. Laadt deze voordat je meedoet! Ontbrekende rollen:{0}",
         "missing_roles_title": "Fout bij het laden van aangepaste rollen",
         "move_player": "Kan speler niet verplaatsen",
         "offline": "De server lijkt offline te zijn",
