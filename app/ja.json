@@ -3,5 +3,13 @@
     "account-levels": {
       "free": "無料"
     }
+  },
+  "grimoire": {
+    "token": "トークン"
+  },
+  "pages": {
+    "lobby": {
+      "free_tier_free": "無料"
+    }
   }
 }
