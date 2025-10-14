@@ -783,7 +783,7 @@
       "forced_private": "Je kunt niet langer spelen in publieke spellen.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
-      "free_tier_unverified": "Je hebt een {0}-account. Je kunt elk van de bovenstaande spellen spelen door op de klok links te klikken, tenzij je voor dit spel een abonnement nodig hebt. Als je je eigen spel wil hosten, neem dan een abonnement op {1}.",
+      "free_tier_unverified": "Je hebt een {0}-account. Je kunt elk van de bovenstaande spellen spelen door op de knop links te klikken, tenzij je voor dit spel een abonnement nodig hebt. Als je je eigen spel wil hosten, neem dan een abonnement op {1}.",
       "free_tier_verified": "Je hebt een {0}-account. Je moet {1} zijn voordat je in openbare spellen mee kunt spelen. Wil je je eigen spel hosten, neem dan een abonnement op {2}.",
       "free_tier_verify": "Verifieer je account",
       "game": "Spel",
