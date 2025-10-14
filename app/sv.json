@@ -283,7 +283,7 @@
       "error_custom": "Det gick inte att ladda manuset",
       "error_loading": "Vissa roller kunde inte laddas: {0}",
       "error_script": "Manuset är inte giltigt",
-      "error_script_text": "Manuset laddas men har några fel. Det betyder oftast att det finns rader som inte ska vara där, enligt det officiella JSO-schemat för egna manus.",
+      "error_script_text": "Manuset laddades men har några fel. Det betyder oftast att det finns rader som inte ska vara där, enligt det officiella JSON-schemat för hemgjorda manus.",
       "error_size": "För stor fil",
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
       "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera externa bilder i inställningarna.",
@@ -323,7 +323,7 @@
       "error_character": "Ingen roll matchar {0}.",
       "error_traveller": "Ingen Resenär matchar {0}.",
       "tab_character": "Tillgängliga roller",
-      "tab_traveller": "Övriga roller",
+      "tab_traveller": "Övriga Resenärer",
       "title": "Välj en {alignment} {target}",
       "title_alignment_e": "ond",
       "title_alignment_g": "god",
@@ -358,8 +358,8 @@
       "css_confirm2": "Bekräfta att du vill behålla dessa CSS-ändringar, annars avaktiveras de automatiskt.",
       "css_text": "Du kan modifiera appens utseende genom att ange din egen CSS-kod här, eller URL:en till en CSS-fil. The Pandemonium Institute ansvarar inte för CSS-kod som andra användare tillhandahåller. Om du laddar skadlig CSS-kod kan det krascha appen!",
       "css_title": "Ange egen CSS",
-      "image_text": "Vill du verkligen tillåta användarbilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
-      "image_title": "Tillåt användarbilder",
+      "image_text": "Vill du verkligen tillåta externa bilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
+      "image_title": "Tillåt externa bilder",
       "nomination": {
         "baker": {
           "text": "Den nominerade spelaren har gruppens uppmärksamhet.",
@@ -400,7 +400,7 @@
       "setting_english": "Visa även engelska rollnamn",
       "setting_gain": "Ljudförstärkning",
       "setting_general_volume": "Allmän volym",
-      "setting_homebrew": "Visa användarskapade bilder",
+      "setting_homebrew": "Visa externa bilder",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Stäng av ljud",
       "setting_mute_video": "Dölj video",
@@ -596,9 +596,9 @@
       "official_tpi": "Officiell TPI",
       "offline": "Offline",
       "st_requested": "Förfrågan skickad",
-      "type_player": "spelare|{n} spelare",
-      "type_spectator": "åskådare|{n} åskådare",
-      "type_storyteller": "berättare|{n} berättare"
+      "type_player": "Spelare|{n} spelare",
+      "type_spectator": "Åskådare|{n} åskådare",
+      "type_storyteller": "Berättare|{n} berättare"
     },
     "verification": {
       "button_reset": "Återställ",
@@ -694,7 +694,7 @@
       "button_result": "Resultat",
       "evil": "Onda",
       "good": "Goda",
-      "prompt": "Varning: Det här avslutar spelet och visar grimoaren för alla spelare!\nVilka vann spelet?",
+      "prompt": "Varning: Det här avslutar spelet och visar grimoaren för alla spelare!\nVilka vann?",
       "result": "{0} laget vann!",
       "text": "Klicka på en spelares bricka för att avslöja den. Håll muspekaren över brickan för att se rollen innan du avslöjar den.",
       "title": "Avslöja grimoaren"
