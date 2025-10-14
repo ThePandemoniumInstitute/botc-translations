@@ -293,7 +293,7 @@
     },
     "atheist": {
       "ability": "Berättaren kan bryta mot reglerna, och om hen avrättas vinner goda laget, även om du är död. [Inga onda roller]",
-      "flavor": "Nu lägger vi ifrån oss onödigt gissande och larvig paranoia. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer.",
+      "flavor": "Nu lägger vi ifrån oss allt onödigt gissande och larvig paranoia. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer.",
       "name": "Ateisten"
     },
     "balloonist": {
@@ -413,7 +413,7 @@
     "chef": {
       "ability": "I början vet du hur många par onda spelare det finns.",
       "first": "Ge en fingersignal.",
-      "flavor": "Aftonens bokningar är allt märkliga. Aldrig tidigare har väl fru Löwensporre hållit sällskap med den odågan från Gamla brinken. Men inatt har de bokat bord för två. Besynnerligt.",
+      "flavor": "Aftonens bokningar är allt märkliga. Aldrig tidigare har väl fru Löwensporre hållit sällskap med den där odågan från Gamla brinken. Men inatt har de bokat bord för två. Besynnerligt.",
       "name": "Kocken"
     },
     "choirboy": {
@@ -559,7 +559,7 @@
       "name": "Färjkarlen"
     },
     "fibbin": {
-      "ability": "En gång per spel kanske 1 god spelare får falsk info.",
+      "ability": "En gång per spel kanske 1 god spelare får fel information.",
       "flavor": "Tihihi. Hihi.",
       "name": "Lögnhalsen"
     },
@@ -615,7 +615,7 @@
       "other": "Ge en tumsignal."
     },
     "gnome": {
-      "ability": "Alla får veta en spelare på ditt lag. Du kan välja att döda alla som nominerar hen.",
+      "ability": "Alla får veta en spelare på ditt lag. Du kan välja att döda spelare som nominerar hen.",
       "flavor": "Vad det är bra att jag har dig. Vad det är bra att du har mig. Vad det är bra att vi har oss, och jättebra är det förstås att vi får träffas varje dag, och va tillsammans, du och jag, för ingen, nä ingen, vill va ensam.",
       "name": "Pysslingen"
     },
@@ -651,7 +651,7 @@
       "ability": "I början vet du en god spelare och hens roll. Om hen dödas av Demonen dör du också.",
       "first": "Visa den markerade spelarens rollbricka och peka på spelaren.",
       "flavor": "Ta på dig en jacka om du går ut, raring. Och termosen. Och halsduken. Du vet att jag har ett svagt hjärta. Vad skulle jag ta mig till om du blev förkyld… eller värre?",
-      "name": "Farmodern",
+      "name": "Farmorn",
       "other": "Om barnbarnet dödades av Demonen så dör Farmorn också. :reminder:"
     },
     "gunslinger": {
@@ -732,7 +732,7 @@
     },
     "juggler": {
       "ability": "Din första dag kan du öppet gissa upp till 5 spelares roller. Den natten får du veta hur många rätt du hade.",
-      "flavor": "Nästa trick har efterfrågats av flera. Jag behöver en blomma, en bönpåse, en leksaksorm, en pensel och en bensindriven häcksax. Jag varnar er, det här tricket kan bli mitt sista. Oj då.",
+      "flavor": "Nästa trick har efterfrågats av flera. Jag behöver en blomma, en bönpåse, en leksaksorm, en pensel och en bensindriven häcksax. Jag varnar er, det här tricket kan bli mitt sista. Kära nån.",
       "name": "Jonglören",
       "other": "Ge en fingersignal."
     },
@@ -788,7 +788,7 @@
       "other": "Väck alla Kumpaner och låt dem välja en barnvakt. :reminder: En spelare kan dö. :reminder:"
     },
     "lleech": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om & endast om hen är död.",
+      "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om och endast om hen är död.",
       "first": "Lleech väljer en spelare. :reminder:",
       "flavor": "Mumsiga, mumsiga, mumsiga, mumsiga, mumsiga hjärn– jag menar paj! Ja. Mumsiga paj. Det var det jag skulle säga.",
       "name": "Lleech",
@@ -803,7 +803,7 @@
     },
     "lunatic": {
       "ability": "Du tror att du är en Demon, men det är du inte. Demonen vet vem du är och vilka du väljer på natten.",
-      "first": "Om det är 7 eller fler spelare så väck Galningen. Visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på några spelare. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*`och visa tre goda rollbrickor. Söv Galningen. Väck Demonen. Visa kortet *DU ÄR* och Demonens rollbricka. Visa kortet *DEN HÄR SPELAREN ÄR*, Galningens rollbricka, och peka på Galningen.",
+      "first": "Om det är 7 eller fler spelare så väck Galningen. Visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på några spelare. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och visa tre goda rollbrickor. Söv Galningen. Väck Demonen. Visa kortet *DU ÄR* och Demonens rollbricka. Visa kortet *DEN HÄR SPELAREN ÄR*, Galningens rollbricka, och peka på Galningen.",
       "flavor": "Jag är natten… tror jag.",
       "name": "Galningen",
       "other": "Gör det som krävs för att simulera Demonens förmåga. Söv Galningen. Väck Demonen. Visa Galningens bricka och peka på Galningen och därefter Galningens offer."
@@ -959,7 +959,7 @@
       "ability": "Varje natt* kan du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 spelare inatt.",
       "flavor": "Vill du ha en blomma? Jag är så ensam.",
       "name": "Po",
-      "other": "Po får välja en spelare. :reminder: Om Po är märkt *3 ATTACKER* så väljer Po tre spelare. :reminder: :reminder: :reminder:"
+      "other": "Po får välja en spelare. :reminder: Om Po är märkt *3 ATTACKER* så väljer Po tre spelare. :reminder: :reminder: :reminder:"
     },
     "poisoner": {
       "ability": "Varje natt väljer du en spelare; hen är förgiftad inatt och imorgon.",
@@ -988,7 +988,7 @@
       "other": "Predikanten väljer en spelare. :reminder: Söv Predikanten. Om Predikanten valde en Kumpan: Väck Kumpanen. Visa kortet *DU PÅVERKAS AV* och Predikantens rollbricka."
     },
     "princess": {
-      "ability": "Om du nominerade och avrättade en spelare din första dag får Demonen inte döda den natten.",
+      "ability": "Om du nominerade och avrättade en spelare din första dag kan Demonen inte döda den natten.",
       "flavor": "Våra ord är blodhundar bundna med silkestrådar, mitt herrskap. Väv dem med vänlighet, så inte tyglarna tvinnas upp och hovet slits i stycken.",
       "name": "Prinsessan",
       "other": "Om det var Prinsessans första dag och hen nominerade den spelare som avrättades idag så vaknar Demonen som vanligt, men ingen dör av Demonens förmåga."
@@ -1143,7 +1143,7 @@
       "name": "Stormfångaren"
     },
     "summoner": {
-      "ability": "Du får 3 bluffar. 3:e natten väljer du en spelare; hen blir en ond Demon som du väljer. [Ingen Demon]",
+      "ability": "Du får 3 bluffar. Natt 3 väljer du en spelare; hen blir en ond Demon som du väljer. [Ingen Demon]",
       "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbrickor som inte är i spel.",
       "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
       "name": "Åkallaren",
@@ -1184,7 +1184,7 @@
       "first": "Ge Kumpan- och Demon-info trots att det är färre än 7 spelare.",
       "flavor": "Den surrar! Den går i trappor! Den värmer om natten! Den smakar socker! Ungarna älskar den! Får jag presentera, den splitter nya… Värme-vandrar-surrar-automat-mojängen! Rolig för liten som stor!",
       "name": "Leksaksmakaren",
-      "other": "Om Demonens attack kan avsluta spelet och Demonen är märkt *INGEN ATTACK* så vaknar Demonen inte inatt."
+      "other": "Om Demonens attack kan avsluta spelet och Demonen är märkt *EN LUGN NATT* så vaknar Demonen inte inatt."
     },
     "undertaker": {
       "ability": "Varje natt* får du veta vilken roll som dog av avrättning idag.",
@@ -1203,7 +1203,7 @@
       "first": "Välj en Byfåne som är full. :reminder: Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
       "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så.",
       "name": "Byfånen",
-      "other": "Väck Byfånarna en i taget. Varje Byfåne väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
+      "other": "Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
     },
     "virgin": {
       "ability": "Om den första som nominerar dig är Bybo avrättas hen omedelbart.",
@@ -1212,7 +1212,7 @@
     },
     "vizier": {
       "ability": "Alla vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstade kan du välja att avrätta direkt.",
-      "first": "Meddela gruppen vem som är Vesiren.",
+      "first": "Meddela öppet vem som är Vesiren.",
       "flavor": "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ”rättvisa” och ”nåd”. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig.",
       "name": "Vesiren"
     },
@@ -1223,9 +1223,9 @@
       "other": "Vortox väljer en spelare. :reminder:"
     },
     "voudon": {
-      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för att rösta. 50 % majoritet behövs inte.",
+      "ability": "Bara du och de döda kan rösta. De behöver ingen röstbricka för det. 50 % majoritet behövs inte.",
       "flavor": "Bien venu. Sitt. Ta ett djupt andetag. Beträd de dödas land. Se med deras ögon. Tala med deras röst. Yon sel lang se janm ase.",
-      "name": "Voudon"
+      "name": "Vodúnisten"
     },
     "washerwoman": {
       "ability": "I början vet du att 1 av 2 spelare är en viss Bybo.",
@@ -1256,7 +1256,7 @@
     "wraith": {
       "ability": "Du får öppna ögonen på natten. Du vaknar med andra onda spelare.",
       "first": "Väck Vålnaden när andra onda spelare vaknar.",
-      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
+      "flavor": "Ra’āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
       "name": "Vålnaden",
       "other": "Väck Vålnaden när andra onda spelare vaknar."
     },
