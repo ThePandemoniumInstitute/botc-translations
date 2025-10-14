@@ -874,7 +874,7 @@
     "reminders": {
       "add": "Lägg till påminnelse",
       "edit": "Redigera påminnelse {0}",
-      "edit_placeholder": "Egen anteckning",
+      "edit_placeholder": "Anteckning",
       "edit_text": "Redigera påminnelsen för {0}",
       "edit_title": "Redigera påminnelse",
       "flip": "Vänd påminnelse {0}",
