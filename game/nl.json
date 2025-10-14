@@ -17,19 +17,19 @@
   },
   "roles": {
     "amnesiac": {
-      "flavor": "Wacht. Wat. Wie? O, Oké. Wacht. Wat?"
+      "flavor": "Ik heb hier geen actieve herinnering aan."
     },
     "atheist": {
-      "flavor": "Laten we ons niet verliezen in de nutteloze veronderstellingen en dwaze paranoia. Er is een volstrekt normale en rationale verklaring voor alles. Ja, een theekopje kan om de planeet draaien, te klein om te zien, maar ik drink mijn tea uit het daadwerkelijk servies dat in mijn handen rust."
+      "flavor": "Laten we ons niet verliezen in de nutteloze veronderstellingen en dwaze paranoia. Er is een volstrekt normale en rationale verklaring voor alles. Ja, een theekopje kan om de planeet draaien, te klein om te zien, maar ik drink mijn thee uit het daadwerkelijk servies dat in mijn handen rust."
     },
     "boomdandy": {
-      "flavor": "Tik... tik... tik... TOK."
+      "flavor": "Harry doet boem"
     },
     "damsel": {
       "flavor": "Niet aan mijn haar komen, schat."
     },
     "lilmonsta": {
-      "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Eten."
+      "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Ompbijt."
     }
   }
 }
