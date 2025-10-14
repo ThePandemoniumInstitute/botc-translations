@@ -229,7 +229,7 @@
         "update": "Error al actualizar la partida",
         "update_game": "No puedes actualizar los datos de la sesión",
         "update_player": "Error al actualizar el jugador",
-        "update_storyteller": "Error al actualizar el Cuentista",
+        "update_storyteller": "Error al actualizar el Narrador",
         "user_not_found": "Usuario no encontrado.",
         "user_text": "Algo salió mal: {0}",
         "user_title": "Error al actualizar el usuario",
