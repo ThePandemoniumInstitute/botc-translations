@@ -4,12 +4,12 @@
       "free": "Gratuit",
       "patreon-demon": "Niveau Démon",
       "patreon-minion": "Niveau Sbire",
-      "patreon-townsfolk": "Niveau de Villageois·e",
+      "patreon-townsfolk": "Niveau de Villageois",
       "special-free": "Offert",
-      "special-moderator": "Modérateur·ice",
+      "special-moderator": "Modérateur",
       "special-tpi": "Personnel de TPI"
     },
-    "botc_online": "BOTC En Ligne",
+    "botc_online": "BOTC en ligne",
     "button_cancel": "Annuler",
     "button_close": "Fermer",
     "button_confirm": "Confirmer",
@@ -22,7 +22,7 @@
     "session-tags": {
       "cameras": {
         "label": "Caméras",
-        "title": "Si les caméras sont actives ou non durant cette session de jeu",
+        "title": "Les caméras sont actives durant cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
         "value_2": "Éteintes"
@@ -31,8 +31,8 @@
         "label": "Difficulté",
         "title": "Le niveau d'expérience des joueur·euses pour cette partie",
         "value_0": "Moyenne",
-        "value_1": "Expérimenté·e",
-        "value_2": "Débutant·e"
+        "value_1": "Vétéran",
+        "value_2": "Débutant"
       },
       "grimoire": {
         "label": "Accès au Grimoire",
@@ -52,8 +52,8 @@
         "title": "Il faut avoir un abonnement en cours pour rejoindre cette partie"
       },
       "travellers": {
-        "label": "Voyageur·euses",
-        "title": "Si les Voyageur·euses sont autorisé·es dans cette session de jeu",
+        "label": "Voyageurs",
+        "title": "Les Voyageurs sont autorisés dans cette session de jeu",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
