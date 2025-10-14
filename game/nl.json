@@ -10,10 +10,10 @@
   "jinxes": {
     "alchemist-boffin": "Als de Alchemist de Bolleboos vaardigheid heeft, leert de Alchemist niet welke vaardigheid de Demoon heeft.",
     "alchemist-marionette": "Een Alchemist-Marionet heeft geen Marionet vaardigheid & de Marionet zit in het spel.",
-    "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de spion zit in het spel. Na elke executie mag de Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit goed is, moet de Demoon the Spion vannacht kiezen.",
+    "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de spion zit in het spel. Na elke executie mag een levende Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit goed is, moet de Demoon de Spion vannacht kiezen.",
     "alchemist-summoner": "De Alchemist-Bezweerder krijgt geen bluffs, en kiest een Demoon maar geen speler. Als hij sterft voor dit gebeurt wint slecht. [Geen Demoon]",
-    "alchemist-wraith": "Een Alchemist-Schim heeft geen Schim vaardigheid & de Schim zit in het spel. Na elke execurtie kiest de Alchemist-Schim publiekelijk een levende speler als de Schim. Indien correct moet de Demoon vannacht de Schim kiezen.",
-    "alsaahir-vizier": "De verteller verklaard niet dat de Vizier in het spel zit."
+    "alchemist-wraith": "Een Alchemist-Schim heeft geen Schim vaardigheid & de Schim zit in het spel. Na elke executie mag de Alchemist-Schim publiekelijk een levende speler raden als de Schim. Als dit goed is, moet de Demoon de Schim vannacht kiezen.",
+    "alsaahir-vizier": "De verteller geeft niet aan dat de Vizier in het spel zit."
   },
   "roles": {
     "amnesiac": {
@@ -26,7 +26,7 @@
       "flavor": "Tik... tik... tik... TOK."
     },
     "damsel": {
-      "flavor": "Niet aan mijn haar komen, lief."
+      "flavor": "Niet aan mijn haar komen, schat."
     },
     "lilmonsta": {
       "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Eten."
