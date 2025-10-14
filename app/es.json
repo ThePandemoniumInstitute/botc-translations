@@ -238,7 +238,7 @@
         "video_title": "Error al iniciar el chat de vídeo"
       },
       "prompt": {
-        "chat_text": "La aplicación tiene problemas para acceder al servidor de chat {0}. ¿Se gustaría cambiar a {1}?",
+        "chat_text": "La aplicación ha tenido problemas para acceder al servidor de chat {0}, ¿quieres cambiar a {1}?",
         "chat_title": "Cambiar Servidor de Chat",
         "join_placeholder": "ID de Sesión",
         "join_text": "Introduce el número o nombre de la sesión de juego a la que quieres unirte",
