@@ -59,8 +59,8 @@
         "value_2": "Non"
       }
     },
-    "terms_of_use": "Conditions d'Utilisation",
-    "title": "Blood on the Clocktower En Ligne",
+    "terms_of_use": "Conditions d'utilisation",
+    "title": "Blood on the Clocktower en ligne",
     "trademark": "\"Blood on the Clocktower\" est une marque déposée par Steven Medway et The Pandemonium Institute.",
     "unnamed_user": "Utilisateur·ice sans nom"
   },
@@ -70,12 +70,12 @@
       "ghost-votes": "Restituer les Votes des Morts",
       "grimoire": "Montrer le Grimoire",
       "open-eyes": "Ouvrir/Fermer les Yeux",
-      "pointing": "Choisissez un·e joueur·euse"
+      "pointing": "Choisir un joueur"
     },
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
     "minion": "Sbire|Sbires",
-    "outsider": "Étranger·ère|Étranger·ères",
+    "outsider": "Étranger|Étrangers",
     "phases": {
       "day": "Premier Jour|Jour {n}",
       "end": "Entre deux parties",
@@ -84,15 +84,15 @@
       "other_nights": "Autres Nuits",
       "start": "Préparation de la Nuit 1"
     },
-    "player": "Joueur·euse {0}",
-    "players": "Joueur·euses",
+    "player": "Joueur {0}",
+    "players": "Joueurs",
     "seat": "Siège {0}",
     "shroud": "Linceul",
     "storyteller": "Conteur·euse {0}",
-    "storytellers": "les Conteur·euses",
+    "storytellers": "les Conteurs",
     "token": "Jeton",
-    "townsfolk": "Villageois·e|Villageois·es",
-    "traveller": "Voyageur·euse|Voyageur·euses"
+    "townsfolk": "Villageois|Villageois",
+    "traveller": "Voyageur|Voyageurs"
   },
   "main-menu": {
     "cast_vote": "Voter",
