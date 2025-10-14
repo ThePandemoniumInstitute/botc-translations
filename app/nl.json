@@ -307,7 +307,7 @@
       "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:",
       "session_debug2": "Je app sessie wordt nu bijgehouden en automatisch naar ons verstuurd. Je kunt dit altijd handmatig stoppen door op de onderstaande knop te klikken of de app opnieuw te laden.",
       "text1": "Deze app (versie {version}) is momenteel in ontwikkeling.",
-      "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}.  Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}",
+      "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}. Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}.",
       "welcome": "Welkom bij {0}!"
     },
     "reminder": {
