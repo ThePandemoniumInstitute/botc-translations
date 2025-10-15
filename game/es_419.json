@@ -263,10 +263,10 @@
     },
     "amnesiac": {
       "ability": "No sabes cuál es tu habilidad. Cada día, adivínala en privado: tú aprendes qué tan cerca estás.",
-      "first": "Ejecuta la habilidad del Amnésico, si es aplicable.",
+      "first": "Corre la habilidad del Amnésico, si es aplicable.",
       "flavor": "Espera. ¿Qué? ¿Quién? Ah, ya veo. Espera. ¿Qué?",
       "name": "Amnésico",
-      "other": "Ejecuta la habilidad del Amnésico, si es aplicable."
+      "other": "Corre la habilidad del Amnésico, si es aplicable."
     },
     "angel": {
       "ability": "Algo malo quizás le ocurra a quien sea el más responsable por la muerte de un jugador novato.",
