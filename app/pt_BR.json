@@ -692,8 +692,8 @@
     "reveal": {
       "button_remaining": "Jogadores restantes",
       "button_result": "Resultado do jogo",
-      "evil": "Mal",
-      "good": "Bem",
+      "evil": "O Mal",
+      "good": "O Bem",
       "prompt": "Atenção: isto encerrará o jogo e revelará o Grimório a todos os jogadores!\nQuem venceu o jogo?",
       "result": "{0} venceu!",
       "text": "Revele o resultado do jogo e cada jogador clicando em suas fichas. Você pode passar o mouse sobre a ficha para ver o personagem.",
