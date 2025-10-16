@@ -210,10 +210,12 @@
         "video_title": "Görüntülü sohbeti başlatırken bir hata oluştu"
       },
       "prompt": {
+        "join_placeholder": "Oturum ID'si",
         "join_text": "Lütfen katılmak istediğiniz oyun oturumunun ismini veya numarasını giriniz",
         "join_title": "Bir oyuna katıl",
         "leave_text": "Olduğunuz oyundan çıkıp Lobiye dönmek istediğinize emin misiniz?",
         "leave_text_player": "Koltuğunuzdan kalkıp Lobiye dönmek istediğinizden emin misiniz?",
+        "leave_title": "Lobiye dön",
         "pronouns_placeholder": "Kişi Zamirleri",
         "pronouns_text": "Lütfen Kişi Zamirlerinizi girin:",
         "pronouns_title": "Kişi Zamirlerinizi girin",
