@@ -201,7 +201,9 @@
         "subscription_title": "Pateron aboneliği bulunamadı",
         "theme_change": "Temayı değiştirirken bir hata oluştu",
         "update": "Oyunu güncellerken hata oluştu",
-        "update_game": "Oturum verisi güncellenemedi"
+        "update_game": "Oturum verisi güncellenemedi",
+        "update_player": "Oyuncuyu güncellerken hata oluştu",
+        "user_text": "Bir şey ters gitti: {0}"
       },
       "prompt": {
         "join_text": "Lütfen katılmak istediğiniz oyun oturumunun ismini veya numarasını giriniz",
