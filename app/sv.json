@@ -1043,7 +1043,7 @@
       "player": "Spelade\npartier",
       "player_wins": "% vunna",
       "role": "Vanligaste\nstartrollerna",
-      "st_evil_wins": "{0} % onda vinster",
+      "st_evil_wins": "{0}% onda vinster",
       "storyteller": "Berättade\npartier",
       "warning": "Statistiken genereras…\nKom tillbaka senare!"
     },
