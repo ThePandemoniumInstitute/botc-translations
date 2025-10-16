@@ -156,7 +156,7 @@
       "error": {
         "avatar_pixel": "Görseliniz çok büyük. Lütfen 4000x4000'den daha az olacak şekilde düzenleyip tekrar yüklemeyi deneyin.",
         "avatar_size": "Dosyanız çok büyük. Lütfen 5 MB dosya boyutundan daha az bir görsel ile tekrar deneyin.",
-        "avatar_type": "Dosyan bir imge olarak tanınmadı.",
+        "avatar_type": "Dosyan bir görsel olarak tanınmadı.",
         "bluffs": "Blöfleri güncellerken hata oluştu",
         "chat2_text": "Bu sohbet sunucusu çevrimdışı gibi gözüküyor",
         "chat2_title": "Sohbet Sunucusunun Bağlantısı Koptu",
@@ -171,7 +171,7 @@
         "eyes_open": "Gözler açılamıyor",
         "fabled": "Efsaneleri güncellerken bir hata oluştu",
         "generic": "Bir hata yaşandı",
-        "link_text": "Hesabınızı Patreon'a bağlarken bir hata yaşandı, lütfen tekrar deneyin.",
+        "link_text": "Hesabınızı Patreon'a bağlarken bir hata yaşandı. Lütfen tekrar deneyin.",
         "link_title": "Hesabı Patreon'a bağlarken bir hata oluştu",
         "loading_text": "Uygulama verisini yüklerken bir şey ters gitti. Sayfa yenilenecek.",
         "loading_title": "Uygulama verisini yüklerken bir hata oluştu",
