@@ -203,11 +203,18 @@
         "update": "Oyunu güncellerken hata oluştu",
         "update_game": "Oturum verisi güncellenemedi",
         "update_player": "Oyuncuyu güncellerken hata oluştu",
-        "user_text": "Bir şey ters gitti: {0}"
+        "user_text": "Bir şey ters gitti: {0}",
+        "video_title": "Görüntülü sohbeti başlatırken bir hata oluştu"
       },
       "prompt": {
         "join_text": "Lütfen katılmak istediğiniz oyun oturumunun ismini veya numarasını giriniz",
-        "join_title": "Bir oyuna katıl"
+        "join_title": "Bir oyuna katıl",
+        "leave_text": "Olduğunuz oyundan çıkıp Lobiye dönmek istediğinize emin misiniz?",
+        "leave_text_player": "Koltuğunuzdan kalkıp Lobiye dönmek istediğinizden emin misiniz?",
+        "pronouns_placeholder": "Kişi Zamirleri",
+        "pronouns_text": "Lütfen Kişi Zamirlerinizi girin:",
+        "pronouns_title": "Kişi Zamirlerinizi girin",
+        "storyteller_title": "Hikâyeci Terfi İsteği"
       },
       "timer_start": "Başlat",
       "timer_title": "Zamanlayıcının ismi (isteğe bağlı)",
