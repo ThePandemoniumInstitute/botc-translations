@@ -985,7 +985,7 @@
     "text": {
       "channels": {
         "private": "Privat",
-        "public": "Öppen chatt",
+        "public": "Alla",
         "spectator": "Åskådare",
         "system": "Session"
       },
