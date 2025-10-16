@@ -645,9 +645,9 @@
       "bluffs": "Selecciona las 3 fichas de «Faroles de Demonio» en blanco para compartirlas con el Demonio.",
       "button_begin": "Empezar la primera fase de noche",
       "gardener_button": "Enviar los personajes",
-      "gardener_text": "Cuando estés contento con la organización de personaje, {0} a tus jugadores. Una vez que se los hayas dado puedes proceder con la configuración de la Primera Noche.",
+      "gardener_text": "Cuando estés contento con la configuración de los personajes, {0} a tus jugadores. Cuando los hayas repartido, puedes proceder con la configuración de la primera noche.",
       "reminders": "Añade todas las fichas de recordatorio {0} que necesites.",
-      "title": "Prepara la Primera Noche"
+      "title": "Prepara la primera noche"
     },
     "gatherplayers": {
       "button_add": "Añadir asiento",
