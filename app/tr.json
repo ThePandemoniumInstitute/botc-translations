@@ -154,6 +154,9 @@
       "button_no": "Hayır",
       "button_yes": "Evet",
       "error": {
+        "add_storyteller": "Hikâyeci'yi eklerken hata oluştu",
+        "avatar": "Avatar'ı yüklerken bir hata oluştu",
+        "avatar_generic": "Avatar'ı yüklerken bir şey ters gitti.",
         "avatar_pixel": "Görseliniz çok büyük. Lütfen 4000x4000'den daha az olacak şekilde düzenleyip tekrar yüklemeyi deneyin.",
         "avatar_size": "Dosyanız çok büyük. Lütfen 5 MB dosya boyutundan daha az bir görsel ile tekrar deneyin.",
         "avatar_type": "Dosyan bir görsel olarak tanınmadı.",
