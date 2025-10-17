@@ -2,7 +2,10 @@
   "common": {
     "account-levels": {
       "free": "Ilmainen",
-      "special-moderator": "Moderaattori"
+      "patreon-townsfolk": "Kyläläistasolla",
+      "special-free": "Maksuton",
+      "special-moderator": "Moderaattori",
+      "special-tpi": "TPI henkilökunta"
     },
     "button_close": "Sulje",
     "button_confirm": "Vahvista",
