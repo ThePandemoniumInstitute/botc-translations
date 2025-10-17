@@ -31,7 +31,11 @@
   },
   "grimoire": {
     "phases": {
-      "end": "Pelien välissä"
+      "end": "Pelien välissä",
+      "night": "Ensimmäinen yö - Yö"
     }
+  },
+  "main-menu": {
+    "change_icon": "Napauta vaihtaaksesi kuvaketta"
   }
 }
