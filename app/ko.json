@@ -1,1 +1,107 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "무료",
+      "patreon-demon": "악마",
+      "patreon-minion": "하수인",
+      "patreon-townsfolk": "주민",
+      "special-free": "제공",
+      "special-moderator": "운영자",
+      "special-tpi": "TPI 스태프"
+    },
+    "botc_online": "BOTC 온라인",
+    "button_cancel": "취소",
+    "button_close": "닫기",
+    "button_confirm": "확인",
+    "button_continue": "다음",
+    "button_logout": "로그아웃",
+    "button_search": "검색",
+    "button_send": "전송",
+    "cookie_policy": "쿠키 정책",
+    "privacy_policy": "개인정보처리방침",
+    "session-tags": {
+      "cameras": {
+        "label": "카메라",
+        "title": "이번 게임에서의 카메라 사용 여부",
+        "value_0": "선택",
+        "value_1": "필수",
+        "value_2": "꺼짐"
+      },
+      "difficulty": {
+        "label": "난이도",
+        "title": "이번 게임의 참가자에게 필요한 숙련도",
+        "value_0": "보통",
+        "value_1": "베테랑",
+        "value_2": "초보"
+      },
+      "grimoire": {
+        "label": "마도서",
+        "title": "관전자의 마도서 열람 여부",
+        "value_0": "확인 후 허용",
+        "value_1": "불가능",
+        "value_2": "가능"
+      },
+      "streaming": {
+        "label": "스트리밍 중",
+        "title": "게임이 라이브로 스트리밍될 예정입니다",
+        "value_0": "스트리밍 안 함",
+        "value_1": "스트리밍 함"
+      },
+      "subscription": {
+        "label": "구독 필요",
+        "title": "이 게임에 참가하려면 구독이 필요합니다"
+      },
+      "travellers": {
+        "label": "여행자",
+        "title": "이번 게임에서의 여행자 허용 여부",
+        "value_0": "선택",
+        "value_1": "허용",
+        "value_2": "금지"
+      }
+    },
+    "terms_of_use": "이용약관",
+    "title": "시계탑에 흐른 피 온라인",
+    "trademark": "\"시계탑에 흐른 피\"는 스티븐 메드웨이(Steven Medway)와 판데모니움 인스티튜트(The Pandemonium Institute)의 대표 게임입니다.",
+    "unnamed_user": "익명 유저"
+  },
+  "grimoire": {
+    "abilities": {
+      "distribute-roles": "캐릭터 배정",
+      "grimoire": "마도서 보여주기",
+      "open-eyes": "눈 뜨기/감기",
+      "pointing": "플레이어 선택"
+    },
+    "demon": "악마|악마들",
+    "fabled": "전설적인 캐릭터|전설적인 캐릭터들",
+    "minion": "하수인|하수인들",
+    "outsider": "외지인|외지인들",
+    "phases": {
+      "day": "첫날 낮|{n}일 차 낮",
+      "end": "게임 사이에",
+      "first_night": "첫날 밤",
+      "night": "첫날 밤|{n}일 차 밤",
+      "other_nights": "다른 밤",
+      "start": "첫날 밤 준비하기"
+    },
+    "player": "플레이어 {0}",
+    "players": "플레이어들",
+    "seat": "자리 {0}",
+    "shroud": "수의",
+    "storyteller": "이야기꾼 {0}",
+    "storytellers": "이야기꾼",
+    "token": "토큰",
+    "townsfolk": "주민|주민들",
+    "traveller": "여행자|여행자들"
+  },
+  "main-menu": {
+    "cast_vote": "투표 집계",
+    "change_icon": "클릭해서 아이콘 바꾸기",
+    "char_sheet": "캐릭터 시트",
+    "characters": "캐릭터 선택",
+    "clear_grim": "마도서 초기화",
+    "download": "{0} 앱 다운로드",
+    "edition": "에디션 선택",
+    "error_audio": "브라우저가 앱의 {0}을(를) 차단했습니다. 여기를 클릭해 채팅을 시작하세요.",
+    "error_audio2": "음성 채팅 자동 사용"
+  }
+}
