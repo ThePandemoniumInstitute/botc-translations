@@ -32,7 +32,7 @@
   "grimoire": {
     "phases": {
       "end": "Pelien välissä",
-      "night": "Ensimmäinen yö - Yö"
+      "night": "Ensimmäinen yö|Yö {n}"
     }
   },
   "main-menu": {
