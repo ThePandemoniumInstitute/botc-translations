@@ -61,6 +61,8 @@
     "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Szeptuchę, Szeptucha nie zabija tej nocy.",
     "fanggu-scarletwoman": "W sytuacji gdzie byłyby dwa Demony, w tym jeden będący Szkarłatną Damą, Szkarłatna Dama pozostaje Szkarłatną Damą.",
+    "lilmonsta-scarletwoman": "Jeżeli Potforek umrze gdy 5-ciu lub więcej graczy wciąż żyje, Kochanica Diabła opiekuje się Potforkiem do końca gry.",
+    "plaguedoctor-scarletwoman": "Jeżeli Bajarz miał by dostać umiejętność Kochanicy Diabła, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
@@ -72,6 +74,9 @@
     },
     "dusk": {
       "name": "Zmierzch"
+    },
+    "scarletwoman": {
+      "ability": "Jeżeli żyje 5 lub więcej graczy i Demon umiera, stajesz się Demonem. (Podróżnicy się nie liczą)"
     }
   }
 }
