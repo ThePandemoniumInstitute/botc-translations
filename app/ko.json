@@ -62,7 +62,7 @@
     "terms_of_use": "이용약관",
     "title": "시계탑에 흐른 피 온라인",
     "trademark": "\"시계탑에 흐른 피\"는 스티븐 메드웨이(Steven Medway)와 판데모니움 인스티튜트(The Pandemonium Institute)의 대표 게임입니다.",
-    "unnamed_user": "이름 없는 사용자"
+    "unnamed_user": "이름 없는 유저"
   },
   "grimoire": {
     "abilities": {
@@ -133,12 +133,12 @@
     "request_private": "밀회 요청",
     "reveal_grim": "마도서 공개",
     "rules": "규칙 읽기",
-    "session_expires": "이 방은 현재 참가 중인 하수인 등급 사용자가 없어 {0} 후에 만료될 예정입니다.",
+    "session_expires": "이 방은 현재 참가 중인 하수인 등급 유저가 없어 {0} 후에 만료될 예정입니다.",
     "set_timer": "타이머 설정",
     "settings": "설정",
     "show_grim": "마도서 보기",
     "show_town": "마을광장 보기",
-    "show_users": "사용자 [{0}] 보기",
+    "show_users": "유저 [{0}] 보기",
     "storyteller_add": "이야기꾼 하기",
     "storyteller_remove": "이야기꾼 그만두기",
     "tab_app": "앱",
@@ -148,7 +148,7 @@
     "to_day": "낮 단계로 가기",
     "to_night": "밤 단계로 가기",
     "translation": "번역 제안하기",
-    "user_list": "사용자 목록",
+    "user_list": "유저 목록",
     "vacate_seat": "자리 비우기",
     "vote_history": "투표 내역"
   },
@@ -356,9 +356,9 @@
       "css_apply": "커스텀 CSS 룰을 적용하시겠습니까?",
       "css_confirm": "위험을 이해했고, 앱의 외관을 변경합니다",
       "css_confirm2": "Custom CSS 변경 사항을 유지하시겠습니까? 유지하지 않으면 자동으로 비활성화됩니다.",
-      "css_text": "이곳에 커스텀 CSS 파일의 URL을 입력하거나 CSS 코드를 직접 입력해 앱의 외관을 변경할 수 있습니다. 판데모니움 인스티튜트(TPI)는 다른 사용자가 제공한 CSS 코드에 대해 책임을 지지 않습니다. 악성 CSS 코드를 불러오면 앱이 손상될 수 있습니다!",
+      "css_text": "이곳에 커스텀 CSS 파일의 URL을 입력하거나 CSS 코드를 직접 입력해 앱의 외관을 변경할 수 있습니다. 판데모니움 인스티튜트(TPI)는 다른 유저가 제공한 CSS 코드에 대해 책임을 지지 않습니다. 악성 CSS 코드를 불러오면 앱이 손상될 수 있습니다!",
       "css_title": "커스텀 CSS 입력",
-      "image_text": "커스텀 이미지를 정말 허용하시겠습니까? 악의적인 스크립트 작성자가 이 방식으로 당신의 IP 주소를 추적할 수 있습니다. 또한 앱의 다른 사용자가 제공하는 이미지에 대해 판데모니움 인스티튜드(TPI)는 통제할 수 없습니다.",
+      "image_text": "커스텀 이미지를 정말 허용하시겠습니까? 악의적인 스크립트 작성자가 이 방식으로 당신의 IP 주소를 추적할 수 있습니다. 또한 앱의 다른 유저가 제공하는 이미지에 대해 판데모니움 인스티튜드(TPI)는 통제할 수 없습니다.",
       "image_title": "커스텀 이미지 허용",
       "nomination": {
         "baker": {
@@ -447,7 +447,7 @@
         "modalRules": "규칙 읽기",
         "modalSettings": "설정",
         "modalShortcuts": "단축키",
-        "modalUsers": "사용자",
+        "modalUsers": "유저",
         "modeFabled": "전설적인 캐릭터 추가",
         "modeGather": "플레이어 초대",
         "raiseHand": "손 들기",
@@ -484,7 +484,7 @@
       "tab_game": "게임",
       "tab_general": "일반",
       "tab_shortcuts": "단축키",
-      "tab_user": "이용자",
+      "tab_user": "유저",
       "title": "앱 설정",
       "title_avatar": "아바타 선택",
       "title_sound": "효과음 음량"
@@ -511,7 +511,99 @@
       "start": "시작",
       "text": "{0}를 누르면 웹캠과 마이크에 접근을 시도합니다. 오류가 발생하면 각 단계 하단에 표시됩니다.",
       "title": "마이크와 카메라 설정",
-      "video_devices": "비디오 장치"
+      "video_devices": "비디오 장치",
+      "video_error": "비디오 입력을 가져올 수 없습니다",
+      "video_unnamed": "알 수 없는 비디오 장치"
+    },
+    "signal": {
+      "bluffs": "속임수:",
+      "cards": {
+        "ability": "능력을 사용합니까?",
+        "acknowledge": "확인했습니다",
+        "anticlockwise": "반시계 방향",
+        "bluffs": "이 캐릭터들은 참가하고 있지 않습니다",
+        "choice": "선택하세요",
+        "claim": "이 플레이어는",
+        "clockwise": "시계 방향",
+        "demon": "이 플레이어는 악마입니다",
+        "evil": "악",
+        "five": "5",
+        "four": "4",
+        "good": "선",
+        "minions": "이 플레이어들은 하수인입니다",
+        "neutral": "중립",
+        "no": "아니오",
+        "one": "1",
+        "selected": "이 캐릭터가 당신을 선택했습니다",
+        "three": "3",
+        "two": "2",
+        "yes": "예",
+        "you": "당신은",
+        "zero": "0"
+      },
+      "character": "캐릭터",
+      "custom": "커스텀",
+      "grimoire": "마도서",
+      "message": "메세지:",
+      "player": "플레이어",
+      "player_text": "플레이어를 선택하려면 마도서의 토큰을 클릭하세요.",
+      "prompt_custom_placeholder": "커스텀 메세지",
+      "prompt_custom_player": "이야기꾼에게 무엇을 요청하시나요?",
+      "prompt_custom_st": "플레이어에게 무엇을 말할까요?",
+      "prompt_custom_title": "커스텀 메세지 전송",
+      "received": "수신됨",
+      "response": "답변:",
+      "saw_this": "{0}이(가) 보았습니다",
+      "sent": "보냄",
+      "storyteller": "이야기꾼|이야기꾼들",
+      "title": "{0} 깨움",
+      "title_character": "캐릭터 선택",
+      "title_player": "플레이어 선택",
+      "title_spec": "이야기꾼이 {0}을(를) 깨웠습니다:",
+      "title_st": "이야기꾼이 당신을 깨웠습니다:",
+      "warning_dead": "이 플레이어는 죽었습니다.",
+      "warning_droison": "이 플레이어는 만취/중독 상태입니다.",
+      "warning_vortox": "주민 능력은 거짓 정보를 받습니다."
+    },
+    "update": {
+      "bugfix": "버그 수정 내역",
+      "feature": "새로운 기능",
+      "general": "일반 변경 사항",
+      "other": "기타 변경 사항",
+      "title": "새 업데이트:"
+    },
+    "user": {
+      "button_add_st": "이야기꾼 추가",
+      "button_cancel_st": "이야기꾼 요청 취소",
+      "button_kick_user": "유저 추방하기",
+      "button_mod_user": "유저 관리",
+      "button_remove_st": "이야기꾼 제거",
+      "error": "유저 세부 사항을 불러오는 데 오류가 발생했습니다.",
+      "grimoire_access_grant": "마도서 접근 허용",
+      "grimoire_access_revoke": "마도서 접근 해제",
+      "loading": "유저 불러오는 중...",
+      "prompt_kick": "정말 {0}을(를) 게임에서 제거 하시겠습니까?",
+      "prompt_st": "정말 {0}을(를) 이야기꾼으로 만드시겠습니까?\n 요청이 수락되면, 해당 플레이어는 이야기꾼의 모든 권한을 얻고 마도서를 열람할 수 있습니다.",
+      "title": "유저 프로필"
+    },
+    "users": {
+      "chat_connection": "채팅 연결 유형",
+      "grim_access": "마도서 열람",
+      "group_sub": "단체 구독자",
+      "new_user": "새 유저",
+      "official_mod": "공식 운영자",
+      "official_tpi": "공식 TPI",
+      "offline": "오프라인",
+      "st_requested": "이야기꾼 요청됨",
+      "type_player": "플레이어|플레이어 {n}명",
+      "type_spectator": "관전자|관전자 {n}명",
+      "type_storyteller": "이야기꾼|이야기꾼 {n}명"
+    },
+    "verification": {
+      "button_reset": "초기화",
+      "code": "코드",
+      "code_sent": "당신의 번호로 코드가 전송되었습니다, 코드를 입력하면 계정이 인증됩니다!",
+      "country_code": "국가 코드"
     }
   }
 }
