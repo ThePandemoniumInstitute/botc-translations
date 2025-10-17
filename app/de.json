@@ -25,7 +25,7 @@
         "title": "Werden in dieser Runde Kameras verwendet",
         "value_0": "Freiwillig",
         "value_1": "Pflicht",
-        "value_2": "Nein"
+        "value_2": "Aus"
       },
       "difficulty": {
         "label": "Schwierigkeit",
