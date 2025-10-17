@@ -62,11 +62,12 @@
     "terms_of_use": "이용약관",
     "title": "시계탑에 흐른 피 온라인",
     "trademark": "\"시계탑에 흐른 피\"는 스티븐 메드웨이(Steven Medway)와 판데모니움 인스티튜트(The Pandemonium Institute)의 대표 게임입니다.",
-    "unnamed_user": "익명 유저"
+    "unnamed_user": "이름 없는 사용자"
   },
   "grimoire": {
     "abilities": {
       "distribute-roles": "캐릭터 배정",
+      "ghost-votes": "망자 투표권 되돌리기",
       "grimoire": "마도서 보여주기",
       "open-eyes": "눈 뜨기/감기",
       "pointing": "플레이어 선택"
@@ -132,12 +133,12 @@
     "request_private": "밀회 요청",
     "reveal_grim": "마도서 공개",
     "rules": "규칙 읽기",
-    "session_expires": "이 방은 현재 참가 중인 하수인 등급 유저가 없어 {0} 후에 만료될 예정입니다.",
+    "session_expires": "이 방은 현재 참가 중인 하수인 등급 사용자가 없어 {0} 후에 만료될 예정입니다.",
     "set_timer": "타이머 설정",
     "settings": "설정",
     "show_grim": "마도서 보기",
     "show_town": "마을광장 보기",
-    "show_users": "유저 [{0}] 보기",
+    "show_users": "사용자 [{0}] 보기",
     "storyteller_add": "이야기꾼 하기",
     "storyteller_remove": "이야기꾼 그만두기",
     "tab_app": "앱",
@@ -147,7 +148,7 @@
     "to_day": "낮 단계로 가기",
     "to_night": "밤 단계로 가기",
     "translation": "번역 제안하기",
-    "user_list": "유저 리스트",
+    "user_list": "사용자 목록",
     "vacate_seat": "자리 비우기",
     "vote_history": "투표 내역"
   },
@@ -181,6 +182,7 @@
         "chat_title": "채팅 연결 오류가 발생하였습니다",
         "claiming": "자리 요청 오류",
         "clear_grim": "마도서를 초기화할 수 없습니다",
+        "connection": "연결 오류가 발생했습니다",
         "edition_change": "에디션 선택 오류",
         "end": "게임 종료 오류",
         "eyes_close": "눈을 감을 수 없습니다",
@@ -190,7 +192,7 @@
         "kick": "유저를 내보낼 수 없습니다",
         "link_text": "Patreon에 계정을 연결하는데 오류가 발생하였습니다. 다시 시도해주세요.",
         "link_title": "Patreon 계정 연결 오류",
-        "loading_text": "앱 데이터를 받는데 실패하였습니다. 페이지가 다시 로딩됩니다.",
+        "loading_text": "앱 데이터를 불러오는 데 실패하였습니다. 페이지가 다시 로딩됩니다.",
         "loading_title": "앱 데이터 불러오기 오류",
         "missing_edition": "이 방의 게임에 포함된 에디션을 찾을 수 없습니다.",
         "missing_edition_title": "에디션 불러오기 오류",
@@ -266,11 +268,11 @@
       "button_clear": "마도서 초기화",
       "button_paste": "붙여넣기",
       "button_upload": "업로드",
-      "button_url": "링크",
+      "button_url": "URL",
       "clear_description": "마도서를 초기화하고 당신과 모두에게서 알림 토큰을 제거합니다. 정말 초기화 하시겠습니까?",
       "clear_title": "마도서 및 알림 토큰 초기화",
-      "custom_placeholder": "커스텀 스크립트 링크",
-      "custom_text": "커스텀 스크립트의 json 파일 링크를 입력하세요",
+      "custom_placeholder": "커스텀 스크립트 URL",
+      "custom_text": "커스텀 스크립트의 json 파일 URL을 입력하세요",
       "custom_title": "커스텀 스크립트 불러오기",
       "difficulty": "난이도:",
       "difficulty_beginner": "입문자",
@@ -279,6 +281,7 @@
       "error_character": "캐릭터가 너무 많습니다",
       "error_character_text": "이 스크립트는 캐릭터가 200개 이상입니다. 일부를 제거해주세요.",
       "error_custom": "커스텀 스크립트 불러오기 오류",
+      "error_loading": "해당 캐릭터를 불러올 수 없습니다: {0}",
       "error_script": "스크립트가 유효하지 않습니다",
       "error_script_text": "불러온 스크립트에 스키마 위반이 감지되었습니다. 공식 커스텀 스크립트 JSON 스키마 기준으로 허용되지 않는 줄/필드가 포함되어 있습니다.",
       "error_size": "파일 용량이 너무 큽니다",
@@ -287,6 +290,7 @@
       "homebrew_title": "커스텀 이미지 사용 불가",
       "release_script": "{role} 캐릭터 공개 스크립트:",
       "theme": "테마:",
+      "theme_generic": "일반 테마:",
       "title": "에디션 선택:",
       "upload_custom": "스크립트 JSON 업로드"
     },
@@ -298,6 +302,7 @@
       "button_stop": "디버그 데이터 전송 중지",
       "link_0": "버그 신고",
       "link_1": "이메일 주소",
+      "link_2": "여기",
       "link_3": "온라인 스토어",
       "session_debug": "오류가 발생하고 있나요? 방 정보와 최근 기록을 버그 신고를 통해 제보하면, 겪고 있는 문제를 파악하는 데 큰 도움이 됩니다:",
       "session_debug2": "현재 앱 세션이 추적 중이며, 수집된 정보는 자동으로 전송됩니다. 아래 버튼을 클릭하거나 앱을 다시 로드하면 언제든지 이 추적을 중지할 수 있습니다.",
@@ -331,7 +336,59 @@
       "button_distribute": "캐릭터 {0}개 나눠주기",
       "button_gardener": "캐릭터 {0}개 지정하기",
       "button_shuffle": "섞기",
-      "button_sort": "정렬하기"
+      "button_sort": "정렬하기",
+      "clear": "선택된 캐릭터 해제",
+      "title": "{0}의 캐릭터 선택",
+      "title_players": "플레이어",
+      "warning": "게임 설정을 변경하는 캐릭터가 선택되어 있습니다! 이로 인한 변경은 직접 반영해야 합니다."
+    },
+    "rules": {
+      "title": "규칙"
+    },
+    "settings": {
+      "background_placeholder": "배경 이미지 URL",
+      "background_text": "커스텀 배경 이미지 URL을 입력하세요. 비워 두면 배경이 제거됩니다.",
+      "background_title": "커스텀 배경",
+      "button_always": "항상",
+      "button_edit": "계정 정보 편집",
+      "button_setup": "세팅 시작",
+      "button_verify": "계정 인증",
+      "css_apply": "커스텀 CSS 룰을 적용하시겠습니까?",
+      "css_confirm": "위험을 이해했고, 앱의 외관을 변경합니다",
+      "css_confirm2": "Custom CSS 변경 사항을 유지하시겠습니까? 유지하지 않으면 자동으로 비활성화됩니다.",
+      "css_text": "이곳에 커스텀 CSS 파일의 URL을 입력하거나 CSS 코드를 직접 입력해 앱의 외관을 변경할 수 있습니다. 판데모니움 인스티튜트(TPI)는 다른 사용자가 제공한 CSS 코드에 대해 책임을 지지 않습니다. 악성 CSS 코드를 불러오면 앱이 손상될 수 있습니다!",
+      "css_title": "커스텀 CSS 입력",
+      "image_text": "커스텀 이미지를 정말 허용하시겠습니까? 악의적인 스크립트 작성자가 이 방식으로 당신의 IP 주소를 추적할 수 있습니다. 또한 앱의 다른 사용자가 제공하는 이미지에 대해 판데모니움 인스티튜드(TPI)는 통제할 수 없습니다.",
+      "image_title": "커스텀 이미지 허용",
+      "nomination": {
+        "baker": {
+          "text": "지명된 플레이어는 모두의 주목을 받습니다.",
+          "title": "제빵사"
+        },
+        "regular": {
+          "text": "모든 플레이어는 원한다면 말할 수 있습니다.",
+          "title": "일반"
+        },
+        "zookeeper": {
+          "text": "오직 지명자와 피지명자만 말할 수 있습니다.",
+          "title": "사육사"
+        }
+      },
+      "option_disabled": "불가능",
+      "patreon_link": "Patreon 계정 연결",
+      "patreon_perks": "유료 {0} 라면 아바타 업로드와 특별 이름표를 사용할 수 있어요!",
+      "patreon_perks2": "Patreon 구독",
+      "patreon_update": "Patreon 상태 업데이트",
+      "setting_alignment": "마을 광장에 진영 표시",
+      "setting_animations": "애니메이션 표시",
+      "setting_audio_deafen": "음성 채팅 듣기",
+      "setting_audio_unnamed": "이름 없는 오디오 입력",
+      "setting_auto_gain": "자동 이득 조정(AGC)",
+      "setting_avatar_size": "플레이어 아바타 크기",
+      "setting_avatars": "마을 광장에 아바타/카메라 보이기",
+      "setting_background": "배경 이미지",
+      "setting_camera": "카메라",
+      "setting_chroma": "색조 조정"
     }
   }
 }
