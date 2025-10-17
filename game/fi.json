@@ -8,9 +8,10 @@
     }
   },
   "jinxes": {
-    "alchemist-marionette": "Alkemisti-Marionetilla ei ole Marionetin kykyä & Marionetti on pelissä.",
+    "alchemist-marionette": "Alkemisti-marionetilla ei ole marionetin kykyä & marionetti on pelissä.",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
+    "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
     "boffin-ogre": "Demonilla ei voi olla Jätin kykyä.",
     "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
