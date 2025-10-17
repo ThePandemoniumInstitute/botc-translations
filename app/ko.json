@@ -318,7 +318,20 @@
       "error_character": "{0}와(과) 일치하는 캐릭터를 찾을 수 없습니다.",
       "error_traveller": "{0}와(과) 일치하는 여행자를 찾을 수 없습니다.",
       "tab_character": "사용 가능한 캐릭터",
-      "tab_traveller": "기타 여행자"
+      "tab_traveller": "기타 여행자",
+      "title": "{alignment}{target}을 선택하세요",
+      "title_alignment_e": "악",
+      "title_alignment_g": "선",
+      "title_alignment_r": "일반 진영",
+      "title_target_bluff": "속임수",
+      "title_target_other": "캐릭터",
+      "title_target_player": "{0}의 캐릭터"
+    },
+    "roles": {
+      "button_distribute": "캐릭터 {0}개 나눠주기",
+      "button_gardener": "캐릭터 {0}개 지정하기",
+      "button_shuffle": "섞기",
+      "button_sort": "정렬하기"
     }
   }
 }
