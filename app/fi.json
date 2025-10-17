@@ -70,7 +70,7 @@
     },
     "player": "Pelaaja {0}",
     "players": "Pelaajat",
-    "storyteller": "Tarinankertoja",
+    "storyteller": "Tarinankertoja {0}",
     "token": "Merkki"
   },
   "main-menu": {
