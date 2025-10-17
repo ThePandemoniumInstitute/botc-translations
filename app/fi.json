@@ -1,5 +1,9 @@
 {
   "common": {
+    "account-levels": {
+      "free": "Ilmainen",
+      "special-moderator": "Moderaattori"
+    },
     "button_logout": "Kirjaudu ulos",
     "button_search": "Hae",
     "button_send": "Lähetä",
@@ -8,17 +12,26 @@
     "session-tags": {
       "cameras": {
         "label": "Kamerat",
-        "title": "Ovatko kamerat käytössä tässä pelisessiossa",
-        "value_0": "Valinnainen",
+        "title": "Käytetäänkö kameroita tässä pelisessiossa",
+        "value_0": "Vaihtoehtoinen",
         "value_1": "Vaaditaan"
       },
       "difficulty": {
-        "title": "Pelaajilta tässä pelisessiossa edellytetty kokemustaso",
-        "value_0": "Keskiverto"
+        "title": "Pelaajien odotettu taitotaso tässä pelisessiossa",
+        "value_0": "Tavanomainen"
       },
       "grimoire": {
-        "label": "Pääsy Loitsukirjaan"
+        "label": "Loitsukirjaan pääsy"
+      },
+      "travellers": {
+        "value_0": "Valinnainen"
       }
+    },
+    "title": "Verta Kellotornissa Online"
+  },
+  "grimoire": {
+    "phases": {
+      "end": "Pelien välissä"
     }
   }
 }
