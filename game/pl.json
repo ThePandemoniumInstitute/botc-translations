@@ -1,8 +1,8 @@
 {
   "editions": {
     "bmr": {
-      "description": "...jest widowiskiem życia i śmierci. Demony mogą zabijać kilkukrotnie podczas nocy, sługusy również mogą przyłączyć się do akcji. Gracze po dobrej stronie mogą decydować się na ryzykowne działania by zdobyć cenne informacje , ale mogą przez to niechcący zabić swoich sojuszników. Na szczęście istnieje sporo sposobów żeby utrzymywać graczy przy życiu długo po ich terminie ważności. Natomiast jeśli drużyna dobra nie może sprecyzować sługusów i demona w grze na czas, ich los jest przypieczętowany.",
-      "name": "Wschód Złego Księżyca"
+      "description": "...jest widowiskiem życia i śmierci. Demony mogą zabijać kilkukrotnie podczas nocy, sługusy również mogą przyłączyć się do akcji. Gracze po dobrej stronie mogą decydować się na ryzykowne działania, by zdobyć cenne informacje , ale mogą przez to niechcący zabić swoich sojuszników. Na szczęście istnieje sporo sposobów, żeby utrzymywać graczy przy życiu długo po ich terminie przydatności. Jednak jeśli dobra drużyna nie odgadnie w porę, z jakimi sługusami i z którym demonem się zmaga, ich los będzie praktycznie przypieczętowany.",
+      "name": "Kiedy wschodzi krwawy księżyc"
     },
     "snv": {
       "name": "Sekty i Fiołki"
