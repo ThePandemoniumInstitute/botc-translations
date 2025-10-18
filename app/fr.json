@@ -30,7 +30,7 @@
       "difficulty": {
         "label": "Difficulté",
         "title": "Le niveau d'expérience des joueur·euses pour cette partie",
-        "value_0": "Moyenne",
+        "value_0": "Intermédiaire",
         "value_1": "Vétéran",
         "value_2": "Débutant"
       },
