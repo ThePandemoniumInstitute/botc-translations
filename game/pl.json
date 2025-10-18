@@ -76,7 +76,15 @@
       "name": "Zmierzch"
     },
     "scarletwoman": {
-      "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)"
+      "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)",
+      "name": "Kochanica Diabła",
+      "other": "Jeżeli Kochanica Diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
+    },
+    "yaggababble": {
+      "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem gdy wypowiadasz ją publicznie, jakiś gracz może umrzeć.",
+      "first": "Wybierz tajemną frazę. Obudź Jaggablable i przekaż frazę.",
+      "flavor": "Morderstwo w Rue Morgue? Fake news! Ogary na wrzosowisku Baskerville? Fake news! Śmierć żeglując po rzece Nil? Fake news!",
+      "name": "Jaggablabla"
     }
   }
 }
