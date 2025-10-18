@@ -84,7 +84,8 @@
       "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
       "first": "Wybierz tajemną frazę. Obudź Yaggababble i przekaż frazę.",
       "flavor": "Zabójstwo przy Rue Morgue? Фальшивые новости! Psy na wrzosowisku Baskerville? Фальшивые новости! Śmierć podczas rejsu na Nilu? Фальшивые новости!",
-      "name": "Yaggababble"
+      "name": "Yaggababble",
+      "other": "Za każde wypowiedzenie przez Jaggablable tajemnej frazy, może wybrać gracza: umiera. :reminder:"
     }
   }
 }
