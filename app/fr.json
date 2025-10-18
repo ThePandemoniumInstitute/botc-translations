@@ -737,13 +737,13 @@
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours?",
       "empty_title": "Siège vide de {0}",
       "follow": "Suivre le·a Joueur·euse",
-      "nominate": "Accuser un joueur",
+      "nominate": "Nommer un joueur",
       "unfollow": "Ne Plus Suivre le·a Joueur·euse",
       "wake": "Réveiller",
       "whisper": "Envoyer Message Privé"
     },
     "name": {
-      "claim": "S'asseoir",
+      "claim": "Cliquer pour prendre place",
       "connecting": "Ce·tte joueur·euse se connecte au chat vocal.",
       "follow": "Vous suivez ce·tte joueur·euse.",
       "listening": "Ce·tte joueur·euse écoute le chat vocal.",
@@ -759,7 +759,7 @@
       "eyes_open": "A les yeux ouverts",
       "night_info_received": "Infos de nuit reçues",
       "night_info_sent": "Infos de Nuit envoyées",
-      "nominate": "Accuser ce joueur",
+      "nominate": "Nommer ce joueur",
       "point": "Pointez ce·tte joueur·euse"
     },
     "reminders": {
@@ -858,7 +858,7 @@
       "leave_private": "Quitter le Chat Privé",
       "leave_room": "Quitter la salle",
       "night": "La nuit est tombée...",
-      "nomination": "Un joueur a été accusé !",
+      "nomination": "Un joueur a été nommé !",
       "outgoing": "Sortant",
       "request_private": "Demander un Chat Privé",
       "requests": "Demandes de Chat",
@@ -929,7 +929,7 @@
       "player": "Parties\n Jouées",
       "player_wins": "% de Victoire",
       "role": "Rôles de Départ\n les plus joués",
-      "st_evil_wins": "{0}% de Victoire avec le Mal",
+      "st_evil_wins": "{0}% de victoire Maléfique",
       "storyteller": "Parties\n Contées",
       "warning": "Les statistiques sont en cours de génération...\n Revenez plus tard !"
     },
