@@ -22,14 +22,14 @@
     "session-tags": {
       "cameras": {
         "label": "Caméras",
-        "title": "Les caméras sont actives durant cette session de jeu",
+        "title": "Indique si des caméras sont utilisées dans cette partie",
         "value_0": "Optionnel",
         "value_1": "Obligatoire",
         "value_2": "Éteintes"
       },
       "difficulty": {
         "label": "Difficulté",
-        "title": "Le niveau d'expérience des joueur·euses pour cette partie",
+        "title": "Le niveau d’expérience attendu des joueurs dans cette partie",
         "value_0": "Intermédiaire",
         "value_1": "Vétéran",
         "value_2": "Débutant"
@@ -43,7 +43,7 @@
       },
       "streaming": {
         "label": "Partie Streamée",
-        "title": "La partie sera streamée en temps réel",
+        "title": "La partie sera diffusée en direct",
         "value_0": "Non",
         "value_1": "Oui"
       },
@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Voyageurs",
-        "title": "Les Voyageurs sont autorisés dans cette session de jeu",
+        "title": "Si les Voyageurs sont autorisés dans cette partie",
         "value_0": "Optionnel",
         "value_1": "Oui",
         "value_2": "Non"
@@ -62,7 +62,7 @@
     "terms_of_use": "Conditions d'utilisation",
     "title": "Blood on the Clocktower en ligne",
     "trademark": "\"Blood on the Clocktower\" est une marque déposée par Steven Medway et The Pandemonium Institute.",
-    "unnamed_user": "Utilisateur·ice sans nom"
+    "unnamed_user": "Utilisateur sans nom"
   },
   "grimoire": {
     "abilities": {
@@ -97,7 +97,7 @@
   "main-menu": {
     "cast_vote": "Voter",
     "change_icon": "Cliquer pour changer d’icône",
-    "char_sheet": "Feuille de Personnage",
+    "char_sheet": "Feuille de Rôles",
     "characters": "Sélectionner les Rôles",
     "clear_grim": "Vider le Grimoire",
     "download": "Télécharger {0} Applications",
@@ -108,22 +108,22 @@
     "error_audio4": "changer un paramètre",
     "fabled": "Ajouter un Légendaire",
     "fullscreen": "Plein-Écran",
-    "gather": "Rassemblez Vos Joueur·euses",
+    "gather": "Rassemblez Vos Joueurs",
     "gong_attention": "Gong d’Attention",
     "gong_recall": "Rappeler sur la Place du Village",
     "grim_access": "Vous avez maintenant accès au Grimoire",
-    "grim_request": "Un·e spectateur·ice a demandé l'accès au Grimoire",
+    "grim_request": "Un spectateur a demandé l’accès au Grimoire",
     "help": "Aide",
     "json_schema": "Schéma JSON de Script",
     "leave": "Quitter la partie",
     "mute_cam": "Désactiver votre caméra [{0}]",
     "mute_mic": "Désactiver votre microphone [{0}]",
     "night_info": "Info de la Nuit",
-    "night_info_text": "Le·a Conteur·euse vous a réveillé·e cette nuit !",
+    "night_info_text": "Le Conteur vous a réveillé cette nuit !",
     "night_sheet": "Feuille d’Ordre de Nuit",
-    "prompt_clear_player": "Êtes-vous sûr·e de vouloir retirer l'intégralité des jetons de rôles et d'aide-mémoire ?",
-    "prompt_clear_st": "Cette action videra le Grimoire et retirera tous les Aides-Mémoire pour vous et tou·tes les joueur·euses. Êtes-vous sûr·e ?",
-    "prompt_clear_title": "Vider le Grimoire et les Aides-Mémoire",
+    "prompt_clear_player": "Êtes-vous sûr de vouloir supprimer tous les rôles et jetons de rappel des joueurs ?",
+    "prompt_clear_st": "Cela effacera le Grimoire et tous les jetons de rappel pour vous et pour les autres. Êtes-vous sûr ?",
+    "prompt_clear_title": "Effacer le Grimoire et les Jetons de Rappel",
     "prompt_timer_text": "Choisissez une durée et un titre (optionnel) pour ce sablier :",
     "prompt_timer_title": "Mettre un sablier",
     "prompt_vacate_text": "Vous êtes actuellement dans une partie en cours, êtes-vous sûr·e de vouloir quitter votre siège ?",
