@@ -643,7 +643,15 @@
     "firstnight": {
       "bluffs": "악마에게 보여줄 비어있는 \"악마의 속임수\" 토큰을 선택해주세요.",
       "button_begin": "첫날 밤 시작",
-      "gardener_button": "캐릭터 보내기"
+      "gardener_button": "캐릭터 보내기",
+      "gardener_text": "캐릭터 구성이 만족스러우면, {0}을(를) 플레이어에게 나눠주세요. 배부를 마치면 첫날 밤을 세팅할 수 있습니다.",
+      "reminders": "필요한 {0} 알림 토큰을 추가하세요.",
+      "title": "첫날 밤을 준비하세요"
+    },
+    "gatherplayers": {
+      "button_add": "자리 추가",
+      "button_clear": "빈자리 삭제",
+      "button_clearall": "모두 비우기"
     }
   }
 }
