@@ -105,7 +105,7 @@
       "name": "Melek"
     },
     "apprentice": {
-      "ability": "İlk gecende, eğer iyiysen, bir Kasabalı yeteneği; eğer kötüysen, bir Yardakçı yeteneği kazan.",
+      "ability": "İlk gecende; iyiysen bir Kasabalı yeteneği, kötüysen bir Yardakçı yeteneği kazan.",
       "flavor": "Yıllarca gezdim gördüm, Zanaat'ın yöntemlerini çalıştım. Hangi zanaat mı? Basitçe, basit insanlarınki. Dert edilecek bir şey değil. Henüz.",
       "name": "Çırak"
     },
