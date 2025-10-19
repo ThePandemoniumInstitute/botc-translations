@@ -77,14 +77,14 @@
     },
     "scarletwoman": {
       "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)",
-      "name": "Kochanica Diabła",
-      "other": "Jeżeli Kochanica Diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
+      "name": "Kochanica diabła",
+      "other": "Jeżeli Kochanica diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
     },
     "yaggababble": {
-      "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem gdy wypowiadasz ją publicznie, jakiś gracz może umrzeć.",
-      "first": "Wybierz tajemną frazę. Obudź Jaggablable i przekaż frazę.",
-      "flavor": "Morderstwo w Rue Morgue? Fake news! Ogary na wrzosowisku Baskerville? Fake news! Śmierć żeglując po rzece Nil? Fake news!",
-      "name": "Jaggablabla"
+      "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
+      "first": "Wybierz tajemną frazę. Obudź Yaggababble i przekaż frazę.",
+      "flavor": "Zabójstwo przy Rue Morgue? Фальшивые новости! Psy na wrzosowisku Baskerville? Фальшивые новости! Śmierć podczas rejsu na Nilu? Фальшивые новости!",
+      "name": "Yaggababble"
     }
   }
 }
