@@ -638,7 +638,7 @@
   },
   "overlays": {
     "attention": {
-      "attention": "Lystring!",
+      "attention": "Lystring! Lystring!",
       "return": "Samling på torget! Samling på torget!"
     },
     "firstnight": {
@@ -931,7 +931,7 @@
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
       "jinxes": "Krockar",
-      "other_nights": "Inte första\n natten",
+      "other_nights": "Inte första\n natten",
       "popout": "Öppna rollark i nytt fönster"
     },
     "characters": {
