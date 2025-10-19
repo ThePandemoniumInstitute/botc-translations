@@ -29,7 +29,7 @@
       },
       "difficulty": {
         "label": "난이도",
-        "title": "이 방의 참가자에게 필요한 게임 경험 수준",
+        "title": "이 방의 참가자에게 필요한 게임 숙련도",
         "value_0": "보통",
         "value_1": "베테랑",
         "value_2": "초보"
@@ -622,7 +622,28 @@
     },
     "votehistory": {
       "clear": "투표 내역 초기화",
-      "execution": "처형"
+      "execution": "처형",
+      "exile": "추방",
+      "majority": "과반수",
+      "nominator": "지명자",
+      "nominee": "피지명자",
+      "phase": "단계",
+      "pregame": "게임 전",
+      "title": "투표 내역",
+      "type": "유형",
+      "voters": "투표자",
+      "votes": "투표"
+    }
+  },
+  "overlays": {
+    "attention": {
+      "attention": "모두 주목!",
+      "return": "마을 광장으로 즉시 복귀해주세요!"
+    },
+    "firstnight": {
+      "bluffs": "악마에게 보여줄 비어있는 \"악마의 속임수\" 토큰을 선택해주세요.",
+      "button_begin": "첫날 밤 시작",
+      "gardener_button": "캐릭터 보내기"
     }
   }
 }
