@@ -138,6 +138,11 @@
         "username_placeholder": "Nazwa Użytkownika",
         "username_text": "Wpisz swoją Nazwę Użytkownika:"
       }
+    },
+    "settings": {
+      "shortcuts": {
+        "toggleFullscreen": "Pełny ekran"
+      }
     }
   },
   "version": {
