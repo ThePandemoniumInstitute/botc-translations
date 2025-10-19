@@ -26,10 +26,10 @@
     "alive": "Hayatta",
     "cannotdie": "Ölemez",
     "dead": "Ölü",
-    "demonnotvoted": "Şeytan Oy Vermedi",
-    "demonvoted": "Şeytan Oy Verdi",
+    "demonnotvoted": "Şeytan Oy Kullanmadı",
+    "demonvoted": "Şeytan Oy Kullandı",
     "diedtoday": "Bugün Öldü",
-    "doesntkill": "Öldürmüyor",
+    "doesntkill": "Öldürmez",
     "drunk": "Sarhoş",
     "drunk1": "Sarhoş 1",
     "drunk2": "Sarhoş 2",
@@ -42,14 +42,14 @@
     "finalnightnoattack": "Son Gece: Saldırı Yok",
     "friend": "Arkadaş",
     "good": "İyi",
-    "goodplayerexecuted": "İyi Oyuncu İnfaz Edildi",
+    "goodplayerexecuted": "İyi Oyuncu İdam Edildi",
     "grandchild": "Torun",
     "guessused": "Tahmin Kullanıldı",
     "hasability": "Yeteneği Var",
     "isthealchemist": "Simyacı Olan Kişi",
-    "istheapprentice": "Bu Kişi Çırak",
+    "istheapprentice": "Çırak Olan Kişi",
     "isthedemon": "Şeytan Olan Kişi",
-    "isthedrunk": "Sarhoş",
+    "isthedrunk": "Sarhoş Olan Kişi",
     "know": "Biliyor",
     "mad": "Saplantılı",
     "master": "Sahip",
@@ -83,19 +83,19 @@
       "other": "Akrobat bir oyuncu seçer. :reminder:"
     },
     "alchemist": {
-      "ability": "Bir Yardakçı yeteneğine sahipsin. Yeneteğini kullanırken, Hikâyeci seçimini değiştirmeni isteyebilir.",
+      "ability": "Bir Yardakçı yeteneğine sahipsin. Yeteneğini kullanırken Hikâyeci seçimini değiştirmeni isteyebilir.",
       "first": "*SEN* pulunu göster ve bir Yardakçının karakter pulunu göster.",
       "name": "Simyacı"
     },
     "alhadikhia": {
-      "ability": "Her gece* 3 farklı oyuncuyu seçebilirsin, bütün oyuncular kim olduklarını öğrenir: her biri gizli şekilde yaşamayı veya ölmeyi seçer, fakat hepsi yaşarsa, hepsi ölür."
+      "ability": "Her gece*, 3 oyuncu seçebilirsin (bütün oyuncular kim olduklarını öğrenir): her biri sessizce yaşamayı veya ölmeyi seçer fakat hepsi yaşarsa hepsi ölür."
     },
     "alsaahir": {
-      "ability": "Her gün, herkesin önünde hangi oyuncuların Yardakçı, hangi oyuncuların Şeytan olduğunu tahmin edersen, iyiler kazanır.",
+      "ability": "Her gün, herkese açık bir şekilde hangi oyuncuların Yardakçı, hangi oyuncuların Şeytan olduğunu tahmin edersen, iyiler kazanır.",
       "flavor": "Ben senin yüzünden buradayım, sen de benim yüzümden buradasın."
     },
     "amnesiac": {
-      "ability": "Yeteneğinin ne olduğunu bilmiyorsun. Her gün, gizlice ne olduğunu tahmin et ve ne kadar yaklaştığını öğren.",
+      "ability": "Yeteneğinin ne olduğunu bilmiyorsun. Her gün, gizlice ne olduğunu tahmin et: ne kadar yaklaştığını öğrenirsin.",
       "flavor": "Bi saniye. Ne. Kim? Ha, tamam. Bi saniye. Ne?"
     },
     "angel": {
@@ -244,7 +244,7 @@
       "other": "Birkaç saniye bekle. Gece Evresini bitir."
     },
     "demoninfo": {
-      "name": "Şeytan Bilgileri"
+      "name": "Şeytan Bilgisi"
     },
     "deviant": {
       "name": "Aykırı"
