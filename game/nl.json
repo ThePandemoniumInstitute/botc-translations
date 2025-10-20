@@ -2,21 +2,21 @@
   "editions": {
     "bmr": {
       "description": "... is een extravaganza aan doden. De Demoon doodt meerdere keren per nacht, en Volgelingen doen mee aan de actie. Goede spelers kunnen een groot risico nemen om betrouwbare informatie te krijgen, maar kunnen daarbij hun vrienden doden in het proces. Gelukkig zijn er veel manieren om spelers in leven te houden na hun sterfdatum. Als het goede team niet kan bepalen welke Volgelingen en Demoon in het spel zitten, is hun ondergang vrijwel zeker.",
-      "name": "Nacht van de vervloekte maan"
+      "name": "Nacht van de Vervloekte Maan"
     },
     "custom": {
       "name": "Zelfgemaakt Script"
     },
     "homebrew": {
-      "name": "Eigen creatie"
+      "name": "Eigen Creatie"
     },
     "snv": {
       "description": "...is de gekste van de drie edities in de basisset. Goede karakters krijgen elke nacht fantastische informatie . Echter, het slechte team is extreem gevarieerd en bedreigend en kan voor enorme verwarring zorgen. Karakters kunnen van team veranderen. Zelfs het slechte team kan het overzicht verliezen van wie wie is. Dit is ook de eerste verschijning van waanzin, wat roet in het eten gooit.",
       "name": "Dood of de Gladiolen"
     },
     "tb": {
-      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommige moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demoon willen verleiden hen aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\n\"Naderend Onheil\" is een relatief eenvoudige demonenjacht, maar het slechte team heeft een aantal gemene misinformatie trucs achter de hand, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
-      "name": "Opborrelende onrust"
+      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommigen moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demoon willen verleiden hen aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\n\"Opborrelende Onrust\" is een relatief eenvoudige demonenjacht, maar het slechte team heeft een aantal gemene trucs achter de hand om misinformatie te verspreiden, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
+      "name": "Opborrelende Onrust"
     }
   },
   "jinxes": {
@@ -26,9 +26,9 @@
     "alchemist-organgrinder": "Als de Alchemist de Orgelman vaardigheid heeft, is de Orgelman in het spel. Als ze beiden nuchter zijn, zijn ze beiden dronken.",
     "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de Spion zit in het spel. Na elke executie mag de Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit goed is, moet de Demoon de Spion vannacht kiezen.",
     "alchemist-summoner": "De Alchemist-Bezweerder krijgt geen bluffs, en kiest een Demoon, maar geen speler. Als hij sterft voor dit gebeurt, wint slecht. [Geen Demoon]",
-    "alchemist-widow": "Een Alchemist-Weduwe heeft geen Weduwe-vaardigheid en de Weduwe zit in het spel. Na elke executie raad de Alchemist-Weduwe publiekelijk een levende speler als de Weduwe. Indien correct moet de Demoon de Weduwe vannacht kiezen.",
+    "alchemist-widow": "Een Alchemist-Weduwe heeft geen Weduwe-vaardigheid en de Weduwe zit in het spel. Na elke executie raadt de Alchemist-Weduwe publiekelijk een levende speler als de Weduwe. Indien correct moet de Demoon de Weduwe vannacht kiezen.",
     "alchemist-wraith": "Een Alchemist-Schim heeft geen Schim vaardigheid & de Schim zit in het spel. Na elke executie mag de Alchemist-Schim publiekelijk een levende speler raden als de Schim. Als dit goed is, moet de Demoon de Schim vannacht kiezen.",
-    "alhadikhia-mastermind": "Als de Al-Hadikhia sterft door executie, maar er is een Meesterbrein in leven, dan kiest de Al-Hadikhia 3 goede spelers vannacht: als ze alledrie kiezen om te leven, wint slecht. Anders wint goed.",
+    "alhadikhia-mastermind": "Als de Al-Hadikhia sterft door executie, en er is een Meesterbrein in leven, dan kiest de Al-Hadikhia 3 goede spelers vannacht: als ze alledrie kiezen om te leven, wint slecht. Anders wint goed.",
     "alhadikhia-princess": "Als de Prinses een speler nomineert & executeert op hun eerste dag, sterft er niemand door de Al-Hadikhia vannacht.",
     "alhadikhia-scarletwoman": "Als er twee Demonen zijn en 1 hiervan was de Rode Vrouw, dan veranderd de Rode Vrouw terug in de Rode Vrouw.",
     "alsaahir-vizier": "De verteller verklaart niet dat de Vizier in het spel zit."
