@@ -453,7 +453,7 @@
         "raiseHand": "Hand omhoog",
         "revealGrimoire": "Onthul Grimoire",
         "setTimer": "Timer instellen",
-        "toggleAudioDeafened": "Demp Audiogesprek",
+        "toggleAudioDeafened": "Demp Audiochat",
         "toggleAudioMuted": "Demp microfoon / push-to-talk",
         "toggleEdition": "Selecteer editie",
         "toggleFullscreen": "Volledig Scherm",
@@ -743,7 +743,7 @@
       "warning_shortcuts": "Snelkoppelingen uitgeschakeld!"
     },
     "whisper": {
-      "muted": "Deze speler is gedempt / uitgeschakeld in de audiogesprekken.",
+      "muted": "Deze speler is gedempt / uitgeschakeld in de audiochat.",
       "video_muted": "Deze speler heeft de camera gepauzeerd / uitgeschakeld."
     }
   },
@@ -853,7 +853,7 @@
     },
     "name": {
       "claim": "Klik om te Claimen",
-      "connecting": "Deze speler maakt verbinding met het audiogesprek.",
+      "connecting": "Deze speler maakt verbinding met de audiochat.",
       "follow": "Jij volgt deze speler.",
       "listening": "Deze speler luistert naar de audio chat.",
       "move": "Verplaats deze speler.",
@@ -967,13 +967,13 @@
       "chats": "Gesprekken",
       "following": "Je volgt deze speler.",
       "incoming": "Inkomend",
-      "leave_private": "Verlaat Privé Gesprek",
+      "leave_private": "Verlaat Privéchat",
       "leave_room": "Verlaat ruimte",
       "night": "De nacht is gevallen...",
       "nomination": "Een speler is genomineerd!",
       "outgoing": "Uitgaand",
       "request_private": "Verzoek Privéchat",
-      "requests": "Chat Verzoek",
+      "requests": "Chat Verzoeken",
       "reset_position": "Positie resetten",
       "spectator": "Toeschouwer",
       "title": "Spraak"
@@ -1050,13 +1050,13 @@
     "stats_hidden": "Verborgen",
     "stats_private": "Privé",
     "stats_public": "Openbaar",
-    "upload_avatar": "Avatar uploaden",
+    "upload_avatar": "Upload Spelersafbeelding",
     "verified": "Geverifieerde Gebruiker"
   },
   "version": {
-    "character_distribution": "Karakterverdeling",
+    "character_distribution": "Karakter verdeling",
     "download": "Download en installeer de nieuwste {0} versie hier.",
-    "players_alive": "{0}/{1} levende spelers",
+    "players_alive": "{0} / {1} spelers levend",
     "reload": "Herlaad of wis je browsercache om de nieuwe versie te krijgen.",
     "since": "sinds {0}",
     "translation_disclaimer": "Je gebruikt nu een gelokaliseerde versie van de app. Deze vertaling is gemaakt en beoordeeld door de volgende vrijwilligers, die niet verbonden zijn aan The Pandemonium Institute:",
