@@ -585,7 +585,7 @@
       "loading": "Gebruiker laden...",
       "prompt_kick": "Wil je echt {0} uit de sessie verwijderen?",
       "prompt_st": "Wil je echt {0} Verteller maken?\nAls zij dit goedkeuren, krijgen ze volledige Verteller-rechten en toegang tot het Grimoire.",
-      "title": "Gebruikers profiel"
+      "title": "Gebruikersprofiel"
     },
     "users": {
       "chat_connection": "Chat connectie type",
@@ -991,7 +991,7 @@
       },
       "message_blocked": "Niet bezorgd",
       "message_to": "aan",
-      "prompt_private": "Privé gesprek",
+      "prompt_private": "Privéchat",
       "prompt_public": "Publiekelijke aankondiging",
       "prompt_spectator": "Toeschouwers chat",
       "prompt_system": "Systeemberichten",
