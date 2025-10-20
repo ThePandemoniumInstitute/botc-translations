@@ -717,7 +717,7 @@
     },
     "vote": {
       "accusation": "Beschuldiging",
-      "button_chat": "Open Gesprek",
+      "button_chat": "Open Chat",
       "button_countdown": "Aftellen",
       "button_defense": "Ga naar Verdediging",
       "button_hand_down": "OMLAAG",
@@ -941,7 +941,7 @@
       "accept": "Accepteer aanvraag",
       "accept_request": "Accepteer chat aanvraag met {0}",
       "cancel": "Annuleer aanvraag",
-      "cancel_request": "Annuleer gesprekaanvraag met {0}",
+      "cancel_request": "Annuleer chataanvraag met {0}",
       "channels": {
         "bmr_0": "Taverne",
         "bmr_1": "Hut",
@@ -964,7 +964,7 @@
         "tb_3": "Bibliotheek",
         "tb_4": "Laboratorium"
       },
-      "chats": "Gesprekken",
+      "chats": "Chats",
       "following": "Je volgt deze speler.",
       "incoming": "Inkomend",
       "leave_private": "Verlaat Privéchat",
