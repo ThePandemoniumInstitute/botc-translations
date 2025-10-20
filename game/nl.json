@@ -16,7 +16,7 @@
     "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de Spion zit in het spel. Na elke executie mag de Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit goed is, moet de Demoon de Spion vannacht kiezen.",
     "alchemist-summoner": "De Alchemist-Bezweerder krijgt geen bluffs, en kiest een Demoon, maar geen speler. Als hij sterft voor dit gebeurt, wint slecht. [Geen Demoon]",
     "alchemist-wraith": "Een Alchemist-Schim heeft geen Schim vaardigheid & de Schim zit in het spel. Na elke executie mag de Alchemist-Schim publiekelijk een levende speler raden als de Schim. Als dit goed is, moet de Demoon de Schim vannacht kiezen.",
-    "alsaahir-vizier": "De verteller geeft niet aan dat de Vizier in het spel zit."
+    "alsaahir-vizier": "De verteller verklaart niet dat de Vizier in het spel zit."
   },
   "roles": {
     "amnesiac": {
