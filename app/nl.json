@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Reizigers",
-        "title": "Of Reizigers toegelaten worden in deze spelsessie",
+        "title": "Of reizigers zijn toegestaan in deze spelsessie",
         "value_0": "Optioneel",
         "value_1": "Ja",
         "value_2": "Nee"
