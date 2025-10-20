@@ -17,7 +17,7 @@
     "button_logout": "Uitloggen",
     "button_search": "Zoeken",
     "button_send": "Verzenden",
-    "cookie_policy": "Cookie beleid",
+    "cookie_policy": "Cookiebeleid",
     "privacy_policy": "Privacybeleid",
     "session-tags": {
       "cameras": {
@@ -35,7 +35,7 @@
         "value_2": "Beginner"
       },
       "grimoire": {
-        "label": "Grimoire toegang",
+        "label": "Grimoire Toegang",
         "title": "Of toeschouwers toegang krijgen tot de Grimoire",
         "value_0": "Vraag",
         "value_1": "Nee",
@@ -66,7 +66,7 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Rollen uitdelen",
+      "distribute-roles": "Rollen Uitdelen",
       "ghost-votes": "Geef spookstemmen terug",
       "grimoire": "Laat de Grimoire zien",
       "open-eyes": "Open/sluit ogen",
@@ -98,8 +98,8 @@
     "cast_vote": "Breng stem uit",
     "change_icon": "Klik om icoon te wijzigen",
     "char_sheet": "Karakterblad",
-    "characters": "Selecteer karakters",
-    "clear_grim": "Grimoire leegmaken",
+    "characters": "Selecteer Karakters",
+    "clear_grim": "Grimoire Leegmaken",
     "download": "Download {0} App",
     "edition": "Selecteer Editie",
     "error_audio": "Je browser weerhoudt de app van {0}. Klik hier om de chat te starten.",
@@ -134,7 +134,7 @@
     "reveal_grim": "Onthul Grimoire",
     "rules": "Lees de regels",
     "session_expires": "Er zijn op dit moment geen Volgeling-gebruikers in deze sessie. De sessie zou kunnen verlopen om {0}.",
-    "set_timer": "Timer instellen",
+    "set_timer": "Timer Instellen",
     "settings": "Instellingen",
     "show_grim": "Toon Grimoire",
     "show_town": "Toon dorpsplein",
@@ -196,7 +196,7 @@
         "loading_title": "Fout bij het laden van app-gegevens",
         "missing_edition": "Deze sessie gebruikt een editie die niet gevonden kan worden.",
         "missing_edition_title": "Fout bij het laden van editie",
-        "missing_roles": "Deze sessie gebruikt aangepaste karakters die niet gevonden kunnen worden. Laadt deze voordat je meedoet! Ontbrekende rollen:{0}",
+        "missing_roles": "Deze sessie gebruikt aangepaste karakters die niet gevonden kunnen worden. Laad deze voordat je meedoet! Ontbrekende rollen: {0}",
         "missing_roles_title": "Fout bij het laden van aangepaste rollen",
         "move_player": "Kan speler niet verplaatsen",
         "offline": "De server lijkt offline te zijn",
@@ -208,7 +208,7 @@
         "server2_text": "Verbinding met de spelserver verbroken, proberen opnieuw verbinding te maken...\nFoutmelding: {0}",
         "server_change": "Kan chatserver niet wijzigen",
         "server_text": "De verbinding is verbroken tijdens het wachten op de spelserver.",
-        "server_title": "Verbinding met spelserver verbroken",
+        "server_title": "Verbinding met Spelserver Verbroken",
         "session": "Fout bij het maken van spelsessie",
         "session_banned": "Jij bent verbannen.",
         "session_full": "Deze sessie heeft al 25 gebruikers.",
@@ -239,9 +239,9 @@
       },
       "prompt": {
         "chat_text": "De app heeft problemen met het bereiken van de chatserver {0}, wil je overstappen naar {1}?",
-        "chat_title": "Wisselen van chatserver",
+        "chat_title": "Wisselen van Chatserver",
         "join_placeholder": "Sessie-ID",
-        "join_text": "Voer het nummer of de naam in van de spel sessie waaraan je wilt meedoen",
+        "join_text": "Voer het nummer of de naam in van de spelsessie waaraan je wilt meedoen",
         "join_title": "Meedoen aan een spel",
         "leave_text": "Weet je zeker dat je dit spel wilt verlaten en terug wilt naar de Lobby?",
         "leave_text_player": "Weet je zeker dat je je stoel wilt vrijmaken en terug wilt keren naar de Lobby?",
@@ -251,7 +251,7 @@
         "pronouns_title": "Voer je voornaamwoorden in",
         "storyteller_text": "Wil je Verteller worden en de Grimoire zien?",
         "storyteller_title": "Verzoek van promotie tot Verteller",
-        "terms": "Servicevoorwaarden bijgewerkt",
+        "terms": "Servicevoorwaarden Bijgewerkt",
         "username_placeholder": "Gebruikersnaam",
         "username_text": "Voer je gebruikersnaam in:",
         "username_title": "Voer je gebruikersnaam in"
@@ -283,7 +283,7 @@
       "error_custom": "Fout bij het laden van aangepast script",
       "error_loading": "Sommige karakters konden niet geladen worden: {0}",
       "error_script": "Script is niet geldig",
-      "error_script_text": "Dit script is geladen, maar heeft problemen. Normaal gesproken betekend het dat er in de JSON regels staan die er niet moeten zijn volgens het officiële JSON schema.",
+      "error_script_text": "Dit script is geladen, maar heeft problemen. Dit betekent meestal dat er in de JSON regels staan die er niet moeten zijn volgens het officiële JSON schema.",
       "error_size": "Bestand is te groot",
       "error_size_text": "Het script dat je hebt geselecteerd heeft een grootte van {0}MB, maar de maximale grootte is {1}MB.",
       "homebrew_description": "Aangepaste afbeeldingen van Homebrew scripts zijn vervangen door generieke iconen vanwege veiligheidsredenen. Je kunt deze inschakelen in het Instellingen menu.",
@@ -306,7 +306,7 @@
       "link_3": "onze online winkel",
       "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:",
       "session_debug2": "Je app sessie wordt nu bijgehouden en automatisch naar ons verstuurd. Je kunt dit altijd handmatig stoppen door op de onderstaande knop te klikken of de app opnieuw te laden.",
-      "text1": "Deze app (versie {version}) is momenteel in ontwikkeling.",
+      "text1": "Deze app (versie {version}) is momenteel in Ontwikkeling.",
       "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}. Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}.",
       "welcome": "Welkom bij {0}!"
     },
@@ -347,7 +347,7 @@
     },
     "settings": {
       "background_placeholder": "URL naar achtergrond afbeelding",
-      "background_text": "Voer een URL in voor een aangepaste achtergrond, of laat dit veld leeg om een aangepaste achtergrond te verwijderen.",
+      "background_text": "Voer een URL voor een aangepaste achtergrond in, of laat dit veld leeg om een aangepaste achtergrond te verwijderen.",
       "background_title": "Aangepaste Achtergrond",
       "button_always": "Altijd",
       "button_edit": "Account Bewerken",
@@ -380,7 +380,7 @@
       "patreon_perks2": "Patreon abonnement",
       "patreon_update": "Update je Patreon status",
       "setting_alignment": "Laat Alliantie zien op het Dorpsplein",
-      "setting_animations": "Laat Animaties zien",
+      "setting_animations": "Toon Animaties",
       "setting_audio_deafen": "Luister naar gesprekken",
       "setting_audio_unnamed": "Naamloze Audio input",
       "setting_auto_gain": "Automatische Versterking",
@@ -453,7 +453,7 @@
         "raiseHand": "Hand omhoog",
         "revealGrimoire": "Onthul Grimoire",
         "setTimer": "Timer instellen",
-        "toggleAudioDeafened": "Demp Spraak Chat",
+        "toggleAudioDeafened": "Demp Audiogesprek",
         "toggleAudioMuted": "Demp microfoon / push-to-talk",
         "toggleEdition": "Selecteer editie",
         "toggleFullscreen": "Volledig Scherm",
@@ -717,7 +717,7 @@
     },
     "vote": {
       "accusation": "Beschuldiging",
-      "button_chat": "Open gesprek",
+      "button_chat": "Open Gesprek",
       "button_countdown": "Aftellen",
       "button_defense": "Ga naar Verdediging",
       "button_hand_down": "OMLAAG",
@@ -743,7 +743,7 @@
       "warning_shortcuts": "Snelkoppelingen uitgeschakeld!"
     },
     "whisper": {
-      "muted": "Deze speler is gedempt / uitgeschakeld in de privé gesprekken.",
+      "muted": "Deze speler is gedempt / uitgeschakeld in de audiogesprekken.",
       "video_muted": "Deze speler heeft de camera gepauzeerd / uitgeschakeld."
     }
   },
@@ -853,7 +853,7 @@
     },
     "name": {
       "claim": "Klik om te Claimen",
-      "connecting": "Deze speler maakt verbinding over audio chat.",
+      "connecting": "Deze speler maakt verbinding met het audiogesprek.",
       "follow": "Jij volgt deze speler.",
       "listening": "Deze speler luistert naar de audio chat.",
       "move": "Verplaats deze speler.",
@@ -967,13 +967,13 @@
       "chats": "Gesprekken",
       "following": "Je volgt deze speler.",
       "incoming": "Inkomend",
-      "leave_private": "Verlaat Privé gesprek",
+      "leave_private": "Verlaat Privé Gesprek",
       "leave_room": "Verlaat ruimte",
       "night": "De nacht is gevallen...",
       "nomination": "Een speler is genomineerd!",
       "outgoing": "Uitgaand",
-      "request_private": "Verzoek Privé gesprek",
-      "requests": "Gesprek verzoeken",
+      "request_private": "Verzoek Privé Gesprek",
+      "requests": "Gesprek Verzoeken",
       "reset_position": "Positie resetten",
       "spectator": "Toeschouwer",
       "title": "Spraak"
@@ -991,7 +991,7 @@
       },
       "message_blocked": "Niet bezorgd",
       "message_to": "aan",
-      "prompt_private": "Privé chat",
+      "prompt_private": "Privé gesprek",
       "prompt_public": "Publiekelijke aankondiging",
       "prompt_spectator": "Toeschouwers chat",
       "prompt_system": "Systeemberichten",
