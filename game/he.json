@@ -8,7 +8,8 @@
     }
   },
   "reminders": {
-    "townsfolk": "בן עיירה",
+    "townsfolk": "תושב-עיירה",
+    "turnsevil": "הופך לרע",
     "twin": "תאום"
   }
 }
