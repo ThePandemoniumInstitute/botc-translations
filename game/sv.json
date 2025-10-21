@@ -594,8 +594,8 @@
     "gambler": {
       "ability": "Varje natt* väljer du en spelare och gissar hens roll; om du gissar fel dör du.",
       "flavor": "Krona så vinner jag. Klave så förlorar du.",
-      "name": "Hasardspelaren",
-      "other": "Hasardspelaren väljer en spelare och en roll. :reminder:"
+      "name": "Dobblaren",
+      "other": "Dobblaren väljer en spelare och en roll. :reminder:"
     },
     "gangster": {
       "ability": "En gång om dagen kan du välja att döda en levande granne, om din andra levande granne samtycker.",
