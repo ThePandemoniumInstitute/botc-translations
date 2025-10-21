@@ -602,18 +602,18 @@
       "phone": "Numéro de Téléphone",
       "success": "Vérification réussie ! Vous pouvez à présent fermer cette fenêtre.",
       "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entachée. Les parties privées ne sont pas concernées.",
-      "text_body2": "des parties publiques",
+      "text_body2": "Parties publiques",
       "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable.",
       "text_title": "Pourquoi est-ce nécessaire ?",
       "title": "Vérification de compte"
     },
     "votehistory": {
-      "clear": "Vider l'historique des votes",
+      "clear": "Effacer l’historique des votes",
       "execution": "Exécution",
       "exile": "Exil",
       "majority": "Majorité",
-      "nominator": "Accusateur",
-      "nominee": "Accusé",
+      "nominator": "Nommant",
+      "nominee": "Nommé",
       "phase": "Phase",
       "pregame": "Avant-partie",
       "title": "Historique des votes",
@@ -625,20 +625,20 @@
   "overlays": {
     "attention": {
       "attention": "Votre attention s'il vous plait !",
-      "return": "Veuillez retourner sur la Place du Village immédiatement !"
+      "return": "Veuillez retourner sur la Place du Village maintenant !"
     },
     "firstnight": {
       "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de Démon\" à partager avec le Démon.",
       "button_begin": "Commencer la Première Phase de Nuit",
-      "gardener_button": "Envoyez les Personnages",
-      "gardener_text": "Quand vous êtes satisfait de la configuration des personnages, {0} à vos joueurs. Une fois les jetons distribués, vous pouvez passer à la mise en place de la Première Nuit.",
-      "reminders": "Ajoutez tous les jetons d'aide-mémoire {0} nécessaires.",
+      "gardener_button": "Envoyez les Rôles",
+      "gardener_text": "Lorsque vous êtes satisfait de la configuration des rôles, {0} à vos joueurs. Une fois les rôles distribués, vous pouvez passer à la mise en place de la Première Nuit.",
+      "reminders": "Ajoutez les jetons de rappel {0} nécessaires.",
       "title": "Préparer la Première Nuit"
     },
     "gatherplayers": {
       "button_add": "Ajoutez un Siège",
       "button_clear": "Vider les emplacements vides",
-      "button_clearall": "Tout Vider",
+      "button_clearall": "Tout Effacer",
       "button_select": "Sélectionner une Édition",
       "button_shuffle": "Mélanger les Sièges",
       "clear_text": "Êtes-vous sûr·e de vouloir retirer tou·tes les joueur·euses ?",
@@ -678,7 +678,7 @@
     "reveal": {
       "button_remaining": "Joueur·euses restant·es",
       "button_result": "Résultat de la partie",
-      "evil": "Le Mal",
+      "evil": "Maléfique",
       "good": "Bon",
       "prompt": "Attention : Cela mettra fin à la partie et révélera le Grimoire à tous les joueurs !\nQui a remporté la partie ?",
       "result": "{0} a gagné !",
@@ -686,10 +686,10 @@
       "title": "Révéler le Grimoire"
     },
     "rules": {
-      "button_select": "Sélectionner les Personnages",
+      "button_select": "Sélectionner les Rôles",
       "text": "Vous êtes prêt·e à {0}",
-      "text2": "Les Voyageurs doivent être attribués aux joueurs avant de sélectionner les personnages.",
-      "title": "Sélectionner les Personnages"
+      "text2": "Les Voyageurs doivent être attribués aux joueurs avant la sélection des rôles.",
+      "title": "Sélectionner les Rôles"
     },
     "towninfo": {
       "alive": "En vie",
@@ -736,7 +736,7 @@
       "description": "Votre compte a été {0} en raison de vos actions récentes, et ne peut plus être utilisé pour jouer sur l'application.",
       "description_banned": "banni",
       "expires": "Votre compte est banni jusqu'au :",
-      "expires2": "Veillez ne pas récidiver, ou vous pourriez vous faire bannir définitivement.",
+      "expires2": "Veuillez ne pas récidiver, ou vous risquez une exclusion permanente.",
       "footer1": "Si vous avez besoin d'assistance, veuillez nous contacter via {0}.",
       "footer2": "Rappelez-vous :",
       "footer3": "Tuez avec grâce, mourez avec dignité.",
@@ -760,7 +760,7 @@
       "button_quit": "Quitter",
       "button_settings": "Paramètres",
       "button_verify": "Vérifier le Compte",
-      "characters": "Personnages",
+      "characters": "Rôles",
       "create_game": "Créer une Nouvelle Partie",
       "edition_by": "par {author}",
       "fabled": "Légendaire",
@@ -809,10 +809,10 @@
       "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour effectuer la mise à jour."
     },
     "verification": {
-      "description": "Veuillez vérifier votre compte pour continuer. Nous vous avons envoyé un code par e-mail - Insérez-le pour continuer. Adresse e-mail inaccessible ?",
+      "description": "Veuillez vérifier votre compte pour continuer. Nous avons envoyé un code à votre adresse mail - saisissez-le pour poursuivre. Vous n’avez plus accès à cette adresse mail ?",
       "email_success": "E-mail envoyé avec succès.",
       "error_429": "Veuillez patienter au moins {0} secondes avant de réessayer.",
-      "error_disposable": "Les adresses e-mail jetables ne peuvent pas être utilisées pour la vérification de votre compte.",
+      "error_disposable": "Les adresses e-mail jetables ne peuvent pas être utilisées pour la vérification du compte.",
       "error_verified": "Déjà vérifié",
       "error_wrong": "Code incorrect, veuillez réessayer.",
       "link": "Vous pouvez le changer ici."
@@ -821,7 +821,7 @@
   "player": {
     "menu": {
       "alignment": "Changer d'Alignement",
-      "character": "Changer de Personnage",
+      "character": "Changer de Rôle",
       "chat": "Demander un Chat Privé",
       "empty": "Siège Vide",
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours ?",
@@ -979,7 +979,7 @@
       "prompt_user": "À {0}",
       "system": {
         "death": "{0} est mort·e.",
-        "end_evil": "La partie est terminée et l’Équipe du Mal a gagné !",
+        "end_evil": "La partie est terminée et l’Equipe Maléfique a gagné !",
         "end_good": "La partie est terminée et l’Équipe du Bien a gagné !",
         "grim_deny": "{0} s'est vu refusé·e l'accès au Grimoire.",
         "grim_receive": "{0} a reçu l'accès au Grimoire.",
@@ -1043,7 +1043,7 @@
     "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
     "update": "Veuillez Mettre À Jour !",
     "updating": "Mise à jour de l'app à la version {0}...",
-    "warning_browser": "Vous utilisez un navigateur obsolète ou non pris en charge",
+    "warning_browser": "Vous utilisez un navigateur ancien ou non pris en charge",
     "warning_browser2": "{0}, ce qui peut causer des problèmes avec l’application. Veuillez installer les dernières mises à jour de votre navigateur ou en utiliser un autre. L’application fonctionne de manière optimale avec Firefox et Chrome.",
     "warning_update": "Votre version de l’application est obsolète",
     "warning_update2": "{0}, la dernière version est la {1} !"
