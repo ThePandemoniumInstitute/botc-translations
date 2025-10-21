@@ -160,6 +160,11 @@
       }
     }
   },
+  "pages": {
+    "login": {
+      "username": "Nazwa Użytkownika"
+    }
+  },
   "version": {
     "warning_update2": "{0}, najnowsza wersja to {1}!"
   }
