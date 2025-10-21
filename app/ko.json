@@ -652,7 +652,17 @@
     "gatherplayers": {
       "button_add": "자리 추가",
       "button_clear": "빈자리 삭제",
-      "button_clearall": "모두 비우기"
+      "button_clearall": "모두 비우기",
+      "button_select": "에디션 선택",
+      "button_shuffle": "자리 섞기",
+      "clear_text": "모든 플레이어를 제거하시겠습니까?",
+      "clear_title": "모두 없애기",
+      "shuffle_text": "자리를 랜덤으로 배치하시겠습니까?",
+      "shuffle_title": "자리 랜덤",
+      "swap": "{0}랑\n바꾸기",
+      "text": "플레이어들의 자리를 추가하거나 섞거나 없앨 수 있습니다.",
+      "text2": "충분한 좌석이 준비되었다면, {0}",
+      "title": "플레이어 초대하기"
     }
   }
 }
