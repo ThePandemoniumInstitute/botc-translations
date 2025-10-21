@@ -144,9 +144,20 @@
         "toggleFullscreen": "Pełny ekran"
       }
     },
+    "signal": {
+      "player": "Gracz"
+    },
     "votehistory": {
       "execution": "Egzekucja",
-      "exile": "Wygnanie"
+      "exile": "Wygnanie",
+      "type": "Typ"
+    }
+  },
+  "overlays": {
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Zamknij"
+      }
     }
   },
   "version": {
