@@ -985,7 +985,7 @@
     "text": {
       "channels": {
         "private": "Privado",
-        "public": "Públicas",
+        "public": "Público",
         "spectator": "Espectadores",
         "system": "Partida"
       },
