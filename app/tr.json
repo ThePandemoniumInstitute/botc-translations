@@ -241,6 +241,13 @@
       "theme": "Tema:",
       "title": "Bir baskı seç:"
     },
+    "help": {
+      "link_0": "sorun izleyici",
+      "link_1": "e-posta ile",
+      "link_2": "burası",
+      "link_3": "çevrimiçi mağzamız",
+      "session_debug": "Hatalarla karşılaşıyor musunuz? Oturumunuz ve yakın geçmişiniz hakkında hata izleyicimize bilgi gönderip, yaşadığınız sorunları tespit etmemize yardımcı olabilirsiniz:"
+    },
     "role": {
       "title_alignment_e": "Kötü",
       "title_alignment_g": "İyi"
