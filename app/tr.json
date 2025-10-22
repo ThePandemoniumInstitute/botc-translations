@@ -260,6 +260,10 @@
       "button_shuffle": "Karıştır",
       "clear": "Seçilen karakterleri temizle",
       "title_players": "oyuncular"
+    },
+    "settings": {
+      "button_edit": "Hesabı Düzenle",
+      "setting_camera": "Kamera"
     }
   }
 }
