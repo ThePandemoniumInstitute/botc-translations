@@ -250,7 +250,16 @@
     },
     "role": {
       "title_alignment_e": "Kötü",
-      "title_alignment_g": "İyi"
+      "title_alignment_g": "İyi",
+      "title_alignment_r": "sıradan",
+      "title_target_bluff": "blöf",
+      "title_target_other": "karakter",
+      "title_target_player": "{0} için karakter"
+    },
+    "roles": {
+      "button_shuffle": "Karıştır",
+      "clear": "Seçilen karakterleri temizle",
+      "title_players": "oyuncular"
     }
   }
 }
