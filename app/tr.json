@@ -154,9 +154,9 @@
       "button_no": "Hayır",
       "button_yes": "Evet",
       "error": {
-        "add_storyteller": "Hikâyeci'yi eklerken hata oluştu",
-        "avatar": "Avatar'ı yüklerken bir hata oluştu",
-        "avatar_generic": "Avatar'ı yüklerken bir şey ters gitti.",
+        "add_storyteller": "Hikâyeciyi eklerken hata oluştu",
+        "avatar": "Avatarı yüklerken bir hata oluştu",
+        "avatar_generic": "Avatarı yüklerken bir şey ters gitti.",
         "avatar_pixel": "Görseliniz çok büyük. Lütfen 4000x4000'den daha az olacak şekilde düzenleyip tekrar yüklemeyi deneyin.",
         "avatar_size": "Dosyanız çok büyük. Lütfen 5 MB dosya boyutundan daha az bir görsel ile tekrar deneyin.",
         "avatar_type": "Dosyan bir görsel olarak tanınmadı.",
@@ -210,12 +210,12 @@
         "video_title": "Görüntülü sohbeti başlatırken bir hata oluştu"
       },
       "prompt": {
-        "join_placeholder": "Oturum ID'si",
+        "join_placeholder": "Oturum No.",
         "join_text": "Lütfen katılmak istediğiniz oyun oturumunun ismini veya numarasını giriniz",
         "join_title": "Bir oyuna katıl",
         "leave_text": "Olduğunuz oyundan çıkıp Lobiye dönmek istediğinize emin misiniz?",
         "leave_text_player": "Koltuğunuzdan kalkıp Lobiye dönmek istediğinizden emin misiniz?",
-        "leave_title": "Lobiye dön",
+        "leave_title": "Lobiye Dön",
         "pronouns_placeholder": "Kişi Zamirleri",
         "pronouns_text": "Lütfen Kişi Zamirlerinizi girin:",
         "pronouns_title": "Kişi Zamirlerinizi girin",
@@ -245,7 +245,7 @@
       "link_0": "sorun izleyici",
       "link_1": "e-posta ile",
       "link_2": "burası",
-      "link_3": "çevrimiçi mağzamız",
+      "link_3": "çevrim içi mağazamız",
       "session_debug": "Hatalarla karşılaşıyor musunuz? Oturumunuz ve yakın geçmişiniz hakkında hata izleyicimize bilgi gönderip, yaşadığınız sorunları tespit etmemize yardımcı olabilirsiniz:"
     },
     "role": {
