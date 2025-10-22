@@ -231,8 +231,15 @@
       "button_paste": "Yapıştır",
       "button_upload": "Yükle",
       "button_url": "URL",
+      "difficulty_intermediate": "Ortalama",
+      "error_character": "Çok fazla karakter var",
+      "error_character_text": "Bu senaryo 200'den fazla karakter içeriyor - lütfen bazılarını kaldırın.",
+      "error_loading": "Bazı karakterler yüklenemedi: {0}",
+      "error_script": "Senaryo geçerli değil",
       "error_size": "Dosya boyutu çok büyük",
-      "error_size_text": "Seçtiğiniz senaryo {0}MB boyutunda, fakat maksimum boyut {1}MB."
+      "error_size_text": "Seçtiğiniz senaryo {0}MB boyutunda, fakat maksimum boyut {1}MB.",
+      "theme": "Tema:",
+      "title": "Bir baskı seç:"
     },
     "role": {
       "title_alignment_e": "Kötü",
