@@ -211,7 +211,8 @@
     "settings": {
       "sounds": {
         "attentionGong": "Gongo de Atenção"
-      }
+      },
+      "tab_shortcuts": "Atalhos"
     }
   }
 }
