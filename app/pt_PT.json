@@ -207,6 +207,11 @@
         "sending_roles": "Erro ao enviar personagens",
         "server2_text": "Ligação perdida ao servidor de jogo, a tentar reconectar...\nMensagem de erro: {0}"
       }
+    },
+    "settings": {
+      "sounds": {
+        "attentionGong": "Gongo de Atenção"
+      }
     }
   }
 }
