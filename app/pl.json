@@ -139,6 +139,9 @@
         "username_text": "Wpisz swoją Nazwę Użytkownika:"
       }
     },
+    "edition": {
+      "homebrew_title": "Niestandardowe Obrazy Wyłączone"
+    },
     "settings": {
       "shortcuts": {
         "toggleFullscreen": "Pełny ekran"
