@@ -212,7 +212,8 @@
       "sounds": {
         "attentionGong": "Gongo de Atenção"
       },
-      "tab_shortcuts": "Atalhos"
+      "tab_shortcuts": "Atalhos",
+      "title_sound": "Volume de Efeitos de Som"
     }
   }
 }
