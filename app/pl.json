@@ -90,7 +90,7 @@
     },
     "dialogue": {
       "button_evil": "Zło wygrało",
-      "button_good": "Dobzi wygrali",
+      "button_good": "Dobro wygrało",
       "button_no": "Nie",
       "button_yes": "Tak",
       "close_timer": "Ten pop-up zamknie się za {n}s.",
