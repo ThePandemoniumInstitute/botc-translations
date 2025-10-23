@@ -41,7 +41,7 @@
     "baron-heretic": "Only 1 jinxed character can be in play.",
     "baron-plaguedoctor": "If the Storyteller would gain the Baron ability, up to two players become Outsiders.",
     "boffin-cultleader": "If the Demon has the Cult Leader ability, they can’t turn good due to this ability.",
-    "boffin-drunk": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead.",
+    "boffin-drunk": "The Demon cannot have the Drunk ability.",
     "boffin-goon": "If the Demon has the Goon ability, they can’t turn good due to this ability.",
     "boffin-heretic": "The Demon cannot have the Heretic ability.",
     "boffin-ogre": "The Demon cannot have the Ogre ability.",
@@ -228,6 +228,7 @@
     "soberhealthy": "Sober & Healthy",
     "somethingbad": "Something Bad",
     "storytellerability": "Storyteller Ability",
+    "stormcaught": "Stormcaught",
     "survivesexecution": "Survives Execution",
     "teapartytonight": "Tea Party Tonight",
     "townsfolk": "Townsfolk",
@@ -331,6 +332,10 @@
       "ability": "You must use a vote token to vote. If a dead player gives you theirs, you learn their alignment. You are sober & healthy.",
       "flavor": "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!",
       "name": "Beggar"
+    },
+    "bigwig": {
+      "ability": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
+      "name": "Big Wig"
     },
     "bishop": {
       "ability": "Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.",
@@ -1138,7 +1143,7 @@
     },
     "stormcatcher": {
       "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
-      "first": "At the start of the night, announce which character is favoured by the Storm Catcher. If that character is in play, mark that player as *SAFE*. Wake each evil player and show them the character token, then the marked player.\n If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* info token and the relevant character token.",
+      "first": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
       "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye.",
       "name": "Storm Catcher"
     },
@@ -1172,6 +1177,11 @@
       "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment...",
       "name": "Tinker",
       "other": "The Tinker might die. :reminder:"
+    },
+    "tor": {
+      "ability": "Players don't know their character or alignment. They learn them after they die.",
+      "first": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+      "name": "Tor"
     },
     "towncrier": {
       "ability": "Each night*, you learn if a Minion nominated today.",

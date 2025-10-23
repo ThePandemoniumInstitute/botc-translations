@@ -38,8 +38,8 @@
         "label": "Grimoire Access",
         "title": "Whether spectators receive access to the Grimoire",
         "value_0": "Ask",
-        "value_1": "No",
-        "value_2": "Yes"
+        "value_1": "Yes",
+        "value_2": "No"
       },
       "streaming": {
         "label": "Game Is Streamed",
@@ -74,6 +74,7 @@
     },
     "demon": "Demon|Demons",
     "fabled": "Fabled|Fabled",
+    "loric": "Loric|Loric",
     "minion": "Minion|Minions",
     "outsider": "Outsider|Outsiders",
     "phases": {
@@ -106,7 +107,7 @@
     "error_audio2": "auto-playing voice chat",
     "error_audio3": "You might also have to {0} in Firefox to hear audio from the app.",
     "error_audio4": "change a setting",
-    "fabled": "Add Fabled",
+    "npcs": "Add NPCs",
     "fullscreen": "Fullscreen",
     "gather": "Gather Your Players",
     "gong_attention": "Attention Gong",
@@ -187,7 +188,6 @@
         "end": "Error ending game",
         "eyes_close": "Unable to close eyes",
         "eyes_open": "Unable to open eyes",
-        "fabled": "Error updating fabled",
         "generic": "An error happened",
         "kick": "Unable to kick user",
         "link_text": "There was an error linking your account to Patreon. Please try again.",
@@ -199,6 +199,7 @@
         "missing_roles": "This session contains custom characters that can't be found. Please load them before joining! Missing roles: {0}",
         "missing_roles_title": "Error loading custom roles",
         "move_player": "Can't move player",
+        "npcs": "Error updating NPCs",
         "offline": "The server seems to be offline",
         "remove_player": "Can't remove player",
         "remove_storyteller": "Error removing Storyteller",
@@ -294,8 +295,8 @@
       "title": "Select an edition:",
       "upload_custom": "Upload Custom Script JSON"
     },
-    "fabled": {
-      "title": "Add a Fabled character"
+    "npc": {
+      "title": "Add a Non-Player Character"
     },
     "help": {
       "button_send": "Send Session Debug Data",
@@ -414,6 +415,7 @@
       "setting_ptt": "Push To Talk",
       "setting_reminder_zoom": "Reminder Token Size",
       "setting_reminders": "Stack Reminder Tokens",
+      "setting_reminders_always": "Always",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Never",
       "setting_reveal": "Show Cameras During Grimoire Reveal",
@@ -448,7 +450,7 @@
         "modalSettings": "Settings",
         "modalShortcuts": "Shortcuts",
         "modalUsers": "Users",
-        "modeFabled": "Add Fabled",
+        "toggleNPCs": "Add Non-Player Character",
         "modeGather": "Gather Your Players",
         "raiseHand": "Raise Hand",
         "revealGrimoire": "Reveal Grimoire",
@@ -768,6 +770,8 @@
       "title": "Please adjust your computer clock"
     },
     "lobby": {
+      "bootlegger_title": "Heads up!",
+      "bootlegger_warning": "This session is using the Bootlegger Loric, which means it has customised rules or characters outside of the official release, and is better suited for experienced players.\nIf you're new to Blood on the Clocktower, we recommend getting used to the standard rules and characters first, with one of the official base scripts. Trouble Brewing is perfect for the best first-game experience!\nIn any case, welcome — we're glad you're here!\nAre you sure you want to join this session?",
       "button_create_game": "Create Game",
       "button_help": "Help",
       "button_join_game": "Join Private Game",
@@ -779,7 +783,7 @@
       "characters": "Characters",
       "create_game": "Create New Game",
       "edition_by": "by {author}",
-      "fabled": "Fabled",
+      "npcs": "Non-Player Characters",
       "forced_private": "You can no longer play in public games.",
       "free_tier_free": "Free",
       "free_tier_patreon": "Patreon",
@@ -894,6 +898,7 @@
     "locked": "STs and Players",
     "locked_text": "Only seated players and current Storytellers can join the session.",
     "name_placeholder": "Game session name",
+    "open_text": "Everyone can join the session.",
     "prompt_public_text": "Are you sure you want to make the game session visible to the public?\n This will allow anyone to see and join your game.",
     "prompt_public_title": "Make Game Session Public",
     "server": "Chat Server:",
@@ -978,9 +983,10 @@
       "spectator": "Spectator",
       "title": "Voice"
     },
-    "fabled": {
-      "remove": "Remove Fabled",
-      "title": "Fabled"
+    "npcs": {
+      "remove_fabled": "Remove Fabled",
+      "remove_loric": "Remove Loric",
+      "title": "NPCs"
     },
     "text": {
       "channels": {
@@ -1041,7 +1047,7 @@
       "loading": "Loading statistics...",
       "none": "None",
       "player": "Games\n Played",
-      "player_wins": "% Winrate",
+      "player_wins": "{0}% Winrate",
       "role": "Top Starting\n Characters",
       "st_evil_wins": "{0}% Evil Winrate",
       "storyteller": "Games\n Storytold",
