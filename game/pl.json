@@ -25,7 +25,7 @@
     "alchemist-mastermind": "Alchemik-Geniusz zła nie ma umiejętności Geniusza zła, a Geniusza zła nie ma w grze.",
     "alchemist-organgrinder": "Jeżeli Alchemik ma zdolność Kataryniarza, Kataryniarz jest w grze. Jeżeli oboje są trzeźwi, oboje są pijani.",
     "alchemist-spy": "Alchemik-Szpieg nie ma umiejętności Szpiega, a Szpieg jest w grze. Po każdej egzekucji, żywy Alchemik-Szpieg może publicznie zgadnąć, który żywy gracz jest Szpiegiem. Jeżeli zgadnie poprawnie, Demon musi wybrać Szpiega tej nocy.",
-    "alchemist-summoner": "Alchemik-Przyzywacz nie dostaje blefów i wybiera, który Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie, zło wygrywa. [brak Demona]",
+    "alchemist-summoner": "Alchemik-Przywoływacz nie dostaje blefów i wybiera, który Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie, zło wygrywa. [brak Demona]",
     "alchemist-widow": "Alchemik-Wdowa nie ma umiejętności Wdowy, a Wdowa jest w grze. Po każdej egzekucji żywy Alchemik-Wdowa może publicznie zgadnąć, który żywy gracz jest Wdową. Jeżeli zgadnie poprawnie, Demon musi wybrać Wdowę tej nocy.",
     "alchemist-wraith": "Alchemik-Widmo nie ma zdolności Widma, a Widmo jest w grze. Po każdej egzekucji żywy Alchemik-Widmo może publicznie zgadnąć, który żywy gracz jest Widmem. Jeżeli zgadnie poprawnie, Demon musi wybrać Widmo tej nocy.",
     "alhadikhia-mastermind": "Jeżeli Al-Hadikhia umrze w wyniku egzekucji, a Geniusz Zła żyje, tej nocy Al-Hadikhia wybiera 3 dobrych graczy: jeżeli wszyscy 3 wybiorą życie, zło wygrywa. W przeciwnym wypadku wygrywa dobro.",
