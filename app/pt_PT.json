@@ -214,6 +214,14 @@
       },
       "tab_shortcuts": "Atalhos",
       "title_sound": "Volume de Efeitos de Som"
+    },
+    "signal": {
+      "cards": {
+        "evil": "Do Mal",
+        "no": "Não",
+        "yes": "Sim"
+      },
+      "character": "Personagem"
     }
   }
 }
