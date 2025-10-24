@@ -221,7 +221,8 @@
         "no": "Não",
         "yes": "Sim"
       },
-      "character": "Personagem"
+      "character": "Personagem",
+      "player": "Jogador"
     }
   }
 }
