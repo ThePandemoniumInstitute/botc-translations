@@ -123,7 +123,7 @@
         "loading_text": "Coś poszło nie tak przy ładowaniu danych aplikacji. Strona zostanie odświeżona.",
         "loading_title": "Błąd przy ładowaniu danych aplikacji",
         "missing_edition": "Ta sesja gry zawiera skrypt, którego nie można odnaleźć.",
-        "missing_edition_title": "Błąd przy ładowaniu edycji",
+        "missing_edition_title": "Błąd przy ładowaniu skryptu",
         "missing_roles": "Ta sesja zawiera niestandardowe postacie, których nie można znaleźć. Załaduj je, zanim dołączysz! Brakujące role: {0}",
         "missing_roles_title": "Błąd przy ładowaniu niestandardowych postaci",
         "move_player": "Nie udało się przemieścić gracza",
