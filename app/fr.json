@@ -682,7 +682,7 @@
       "good": "Bon",
       "prompt": "Attention : Cela mettra fin à la partie et révélera le Grimoire à tous les joueurs !\nQui a remporté la partie ?",
       "result": "{0} a gagné !",
-      "text": "Révélez le résultat de la partie et chaque joueur·euse en cliquant sur leur jeton. Vous pouvez survoler un jeton pour jeter un œil à son rôle.",
+      "text": "Révélez le résultat de la partie et chaque joueur en cliquant sur leur jeton. Vous pouvez survoler un jeton pour jeter un œil à son rôle.",
       "title": "Révéler le Grimoire"
     },
     "rules": {
@@ -729,7 +729,7 @@
       "warning_shortcuts": "Les raccourcis sont désactivés !"
     },
     "whisper": {
-      "muted": "Ce·tte joueur·euse est muet·te / réduit·e au silence dans le chat vocal.",
+      "muted": "Ce joueur est muet / réduit au silence dans le chat vocal.",
       "video_muted": "La caméra de ce joueur est en pause / désactivée."
     }
   },
