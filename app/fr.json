@@ -220,7 +220,7 @@
         "session_unverified": "Vous devez vérifier votre compte avant de pouvoir rejoindre des parties publiques.",
         "signal": "Erreur lors de l’envoi du signal de nuit",
         "start": "Erreur lors du démarrage de la partie",
-        "subscription": "Abonnement requis",
+        "subscription": "Abonnement Requis",
         "subscription_text": "Il vous faut un abonnement pour rejoindre cette partie.",
         "subscription_title": "Aucun abonnement Patreon trouvé",
         "theme_change": "Erreur lors du changement de thème",
@@ -251,7 +251,7 @@
         "storyteller_text": "Voulez vous devenir la Conteuse et voir le Grimoire ?",
         "storyteller_title": "Demander à être promu·e Conteur·euse",
         "terms": "Conditions d'Utilisation Mises à Jour",
-        "username_placeholder": "Nom d’utilisateur",
+        "username_placeholder": "Nom d'utilisateur",
         "username_text": "Veuillez entrer votre Pseudonyme :",
         "username_title": "Entrer votre Pseudonyme"
       },
@@ -801,7 +801,7 @@
       "register": "S'enregistrer",
       "subscribe": "S'inscrire à la Mailing List",
       "title": "Bienvenue sur Blood on the Clocktower En Ligne - En Construction !",
-      "username": "Nom d'utilisateur"
+      "username": "Pseudonyme"
     },
     "update": {
       "description": "Vous utilisez la version {0}, mais la version la plus récente est la {1}.",
