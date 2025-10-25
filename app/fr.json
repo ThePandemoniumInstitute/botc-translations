@@ -127,7 +127,7 @@
     "prompt_timer_text": "Choisissez une durée et un titre (facultatif) pour le minuteur :",
     "prompt_timer_title": "Régler un minuteur",
     "prompt_vacate_text": "Vous êtes actuellement dans une partie active, êtes-vous sûr de vouloir quitter votre siège ?",
-    "prompt_vacate_title": "Quitter le siège",
+    "prompt_vacate_title": "Quitter Son Siège",
     "push_to_talk": "Appuyez sur [{0}] pour parler",
     "raise_hand": "Lever La Main",
     "request_private": "Demander Une Conversation Privée",
@@ -574,7 +574,7 @@
       "grimoire_access_grant": "Accorder l’accès au Grimoire",
       "grimoire_access_revoke": "Révoquer l'Accès au Grimoire",
       "prompt_kick": "Voulez-vous vraiment retirer {0} de la partie ?",
-      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse? \n.Après avoir accepté cette invitation, {0} aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
+      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, cette personne aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
     },
     "users": {
       "grim_access": "Accès au Grimoire",
