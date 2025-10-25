@@ -168,7 +168,7 @@
       "button_yes": "Oui",
       "close_timer": "Cette pop-up se fermera automatiquement dans {n}s.",
       "error": {
-        "add_player": "Impossible d'ajouter ce·tte joueur·euse",
+        "add_player": "Impossible d'ajouter ce joueur",
         "add_storyteller": "Erreur lors de l'ajout de la Conteuse",
         "avatar": "Erreur lors du chargement de l'avatar",
         "avatar_generic": "Une erreur s'est produite lors du chargement de votre avatar.",
@@ -191,7 +191,7 @@
         "kick": "Impossible d'expulser l'utilisateur",
         "link_text": "Une erreur est survenue en associant votre compte Patreon. Veuillez réessayer.",
         "link_title": "Erreur lors de l'association du compte Patreon",
-        "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être actualisée.",
+        "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être rafraîchie.",
         "loading_title": "Erreur lors du chargement des données de l'application",
         "missing_edition": "Une édition contenue dans cette partie n'a pas pu être trouvée.",
         "missing_edition_title": "Erreur lors du chargement de l'édition",
