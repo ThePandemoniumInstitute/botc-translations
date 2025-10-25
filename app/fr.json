@@ -88,7 +88,7 @@
     "players": "Joueurs",
     "seat": "Siège {0}",
     "shroud": "Linceul",
-    "storyteller": "Conteur {0}",
+    "storyteller": "Conteuse {0}",
     "storytellers": "les Conteuses",
     "token": "Jeton",
     "townsfolk": "Villageois|Villageois",
@@ -119,11 +119,11 @@
     "mute_cam": "Désactiver votre caméra [{0}]",
     "mute_mic": "Désactiver votre microphone [{0}]",
     "night_info": "Info de la Nuit",
-    "night_info_text": "Le Conteur vous a réveillé cette nuit !",
+    "night_info_text": "La Conteuse vous a réveillé cette nuit !",
     "night_sheet": "Feuille d’Ordre de Nuit",
-    "prompt_clear_player": "Êtes-vous sûr de vouloir supprimer tous les rôles et jetons de rappel des joueurs ?",
-    "prompt_clear_st": "Cela effacera le Grimoire et tous les jetons de rappel pour vous et pour les autres. Êtes-vous sûr ?",
-    "prompt_clear_title": "Effacer le Grimoire et les Jetons de Rappel",
+    "prompt_clear_player": "Êtes-vous sûr de vouloir supprimer tous les rôles et jetons d'aide-mémoire des joueurs ?",
+    "prompt_clear_st": "Cela effacera le Grimoire et tous les jetons d'aide-mémoire pour vous et pour les autres. Êtes-vous sûr ?",
+    "prompt_clear_title": "Effacer le Grimoire et les Jetons d'Aide-Mémoire",
     "prompt_timer_text": "Choisissez une durée et un titre (facultatif) pour le minuteur :",
     "prompt_timer_title": "Régler un minuteur",
     "prompt_vacate_text": "Vous êtes actuellement dans une partie active, êtes-vous sûr de vouloir quitter votre siège ?",
@@ -140,7 +140,7 @@
     "show_town": "Afficher la Place du Village",
     "show_users": "Afficher les Utilisateurs [{0}]",
     "storyteller_add": "Devenir la Conteuse",
-    "storyteller_remove": "Se retirer en tant que Conteur",
+    "storyteller_remove": "Se retirer en tant que Conteuse",
     "tab_app": "Application",
     "tab_during_game": "Pendant la Partie",
     "tab_new_game": "Nouvelle Partie",
@@ -169,7 +169,7 @@
       "close_timer": "Cette pop-up se fermera automatiquement dans {n}s.",
       "error": {
         "add_player": "Impossible d'ajouter ce·tte joueur·euse",
-        "add_storyteller": "Erreur lors de l'ajout de le·a Conteur·euse",
+        "add_storyteller": "Erreur lors de l'ajout de la Conteuse",
         "avatar": "Erreur lors du chargement de l'avatar",
         "avatar_generic": "Une erreur s'est produite lors du chargement de votre avatar.",
         "avatar_pixel": "Votre image est trop grande. Veuillez réduire sa taille en dessous de 4000x4000 avant de réessayer.",
@@ -180,7 +180,7 @@
         "chat2_title": "Serveur de Chat Déconnecté",
         "chat_text": "Connexion perdue avec le serveur de chat, tentative de reconnexion…\n Message d’erreur : {0}",
         "chat_title": "Une erreur de connexion au chat s'est produite",
-        "claiming": "Erreur lors de la réclamation du siège",
+        "claiming": "Erreur lors de la revendication du siège",
         "clear_grim": "Impossible de vider le Grimoire",
         "connection": "Une erreur de connexion s'est produite",
         "edition_change": "Erreur lors du changement d'édition",
@@ -196,7 +196,7 @@
         "loading_title": "Erreur lors du chargement des données de l'application",
         "missing_edition": "Une édition contenue dans cette partie n'a pas pu être trouvée.",
         "missing_edition_title": "Erreur lors du chargement de l'édition",
-        "missing_roles": "Cette session contient des personnages personnalisés qui ne peuvent pas être trouvés. Veuillez les charger avant de rejoindre ! Rôles manquants : {0}",
+        "missing_roles": "Cette session contient des rôles personnalisés qui ne peuvent pas être trouvés. Veuillez les charger avant de rejoindre ! Rôles manquants : {0}",
         "missing_roles_title": "Erreur en chargeant des rôles personnalisés",
         "move_player": "Impossible de déplacer le joueur",
         "offline": "Ce serveur semble être hors ligne",
@@ -250,7 +250,7 @@
         "pronouns_text": "Veuillez entrer vos Pronoms :",
         "pronouns_title": "Entrez vos Pronoms",
         "storyteller_text": "Voulez vous devenir la Conteuse et voir le Grimoire ?",
-        "storyteller_title": "Demander à être promu·e Conteur·euse",
+        "storyteller_title": "Demander à être promue Conteuse",
         "terms": "Conditions d'Utilisation Mises à Jour",
         "username_placeholder": "Nom d'utilisateur",
         "username_text": "Veuillez entrer votre Pseudonyme :",
@@ -270,7 +270,7 @@
       "button_upload": "Charger",
       "button_url": "URL",
       "clear_description": "Cela réinitialisera le Grimoire et les jetons de rappel pour vous et pour tous les autres. Êtes-vous sûr ?",
-      "clear_title": "Réinitialiser le Grimoire et les jetons de rappel",
+      "clear_title": "Réinitialiser le Grimoire et les jetons d'aide-mémoire",
       "custom_placeholder": "URL du Script Personnalisé",
       "custom_text": "Entrer l'URL d'un fichier custom-script.json",
       "custom_title": "Charger un Script Personnalisé",
@@ -288,11 +288,11 @@
       "error_size_text": "Le script que vous avez choisi a une taille de {0} Mo, mais la taille maximale est de {1} Mo.",
       "homebrew_description": "Les images personnalisées des scripts Maison ont été remplacées par des icônes génériques pour des raisons de sécurité. Vous pouvez les autoriser dans les Paramètres.",
       "homebrew_title": "Images Personnalisées Désactivées",
-      "release_script": "Script de publication du rôle {role} :",
+      "release_script": "Script de Publication du Rôle {role} :",
       "theme": "Thème :",
       "theme_generic": "Thème générique :",
       "title": "Choisir une édition :",
-      "upload_custom": "Charger un JSON pour un Script Personnalisé"
+      "upload_custom": "Charger un JSON de Script Personnalisé"
     },
     "fabled": {
       "title": "Ajouter un rôle Légendaire"
@@ -314,10 +314,10 @@
       "custom_favorite": "Enregistré dans les favoris",
       "custom_note": "Note personnalisée",
       "custom_text": "Saisissez une note de rappel personnalisée à ajouter à {0}",
-      "custom_title": "Ajouter un rappel personnalisé",
-      "tab1": "Rappels Pertinents",
-      "tab2": "Autres Rappels",
-      "title": "Ajouter un Jeton de Rappel à {0}"
+      "custom_title": "Ajouter un Aide-Mémoire Personnalisé",
+      "tab1": "Aides-Mémoire Pertinents",
+      "tab2": "Autres Aides-Mémoire",
+      "title": "Ajouter un Jeton d'Aide-Mémoire à {0}"
     },
     "role": {
       "error_character": "Aucun rôle correspondant à {0} trouvé.",
@@ -358,7 +358,7 @@
       "css_confirm2": "Veuillez confirmer que vous souhaitez conserver les modifications CSS personnalisées. Sinon, elles seront désactivées automatiquement.",
       "css_text": "Vous pouvez modifier l’apparence de votre application ici en entrant l’URL d’un fichier CSS personnalisé ou le code CSS lui-même. Le Pandemonium Institute n’est pas responsable du code CSS fourni par d’autres utilisateurs. Le chargement d’un code CSS malveillant pourrait endommager votre application !",
       "css_title": "Entrer un CSS personnalisé",
-      "image_text": "Êtes-vous sûr·e de vouloir autoriser les images personnalisées ? Un·e auteur·ice de script malveillant pourrait ainsi suivre votre adresse IP. The Pandemonium Institute n’a aucun contrôle sur les images fournies par d’autres utilisateur·ices de l’application.",
+      "image_text": "Êtes-vous sûr·e de vouloir autoriser les images personnalisées ? Un auteur de script malveillant pourrait ainsi suivre votre adresse IP. The Pandemonium Institute n’a aucun contrôle sur les images fournies par d’autres utilisateurs de l’application.",
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
         "baker": {
@@ -392,7 +392,7 @@
       "setting_chroma_label": "Sélectionner la couleur de chrominance",
       "setting_clouds": "Afficher les Nuages de la Phase de Nuit",
       "setting_colorblind": "Mode Daltonien : {0}",
-      "setting_condense": "Condense les fiches de rôles",
+      "setting_condense": "Condenser les Fiches de Rôles",
       "setting_cosmetics": "Afficher les éléments cosmétiques des joueurs",
       "setting_css": "Règles CSS Personnalisées",
       "setting_css_label": "Entrer des Règles CSS Personnalisées",
@@ -408,7 +408,7 @@
       "setting_player_bluffs": "Joueur : Afficher l’onglet des Bluffs",
       "setting_player_night": "Joueur : Afficher les Feuilles d’Ordre de Nuit",
       "setting_player_reminders": "Joueur : Autoriser les doublons de jetons Mémo",
-      "setting_player_sound": "Joueur·euse : activer les effets sonores de demande de chat pendant la nuit",
+      "setting_player_sound": "Joueur : activer les effets sonores de demande de chat pendant la nuit",
       "setting_positioning": "Autoriser le Déplacement des Onglets Latéraux",
       "setting_private_cams": "Afficher les Caméras des Joueurs dans les Chats Privés",
       "setting_ptt": "Appuyer Pour Parler",
@@ -417,10 +417,10 @@
       "setting_reminders_auto": "Automatique",
       "setting_reminders_never": "Jamais",
       "setting_reveal": "Afficher les Caméras pendant la Révélation du Grimoire",
-      "setting_st_night": "Conteur·euse : afficher l’ordre de réveil",
-      "setting_st_nomination": "Conteur·euse : type de nomination",
-      "setting_st_vote": "Conteur·euse : durée du vote",
-      "setting_st_whisper": "Conteur·euse : autoriser les chuchotements écrits",
+      "setting_st_night": "Conteuse : Afficher l’Ordre de Réveil",
+      "setting_st_nomination": "Conteuse : Type de Nomination",
+      "setting_st_vote": "Conteuse : Durée du Vote",
+      "setting_st_whisper": "Conteuse : Autoriser les Chuchotements Écrits",
       "setting_tutorial": "Afficher les Étapes du Tutoriel de l’Application",
       "setting_video_deafen": "Afficher les Flux Caméra",
       "setting_video_hidden": "Cacher sa Caméra",
@@ -475,9 +475,9 @@
         "privateJoin": "Entrée du Chat Privé",
         "privateRequest": "Demande de Chat Privé",
         "timerGong": "Gong de Fin du Sablier",
-        "voteCast": "Vote Enregistré",
-        "voteTick": "Tic de l’Horloge de Vote",
-        "voteTickShort": "Tic de l’Horloge de Vote (<1 s)"
+        "voteCast": "Vote enregistré",
+        "voteTick": "Tic de l’horloge de vote",
+        "voteTickShort": "Tic de l’horloge de vote (<1 s)"
       },
       "tab_advanced": "Avancé",
       "tab_chat": "Chat",
@@ -549,15 +549,19 @@
       "player": "Joueur",
       "player_text": "Sélectionner un joueur en cliquant sur son jeton dans le Grimoire.",
       "prompt_custom_placeholder": "Message personnalisé",
+      "prompt_custom_player": "Que souhaitez-vous demander à la Conteuse ?",
       "prompt_custom_st": "Que souhaitez-vous dire au joueur ?",
       "prompt_custom_title": "Envoyer un message personnalisé",
       "received": "Reçu",
       "response": "Réponse :",
+      "saw_this": "Vu par {0}",
       "sent": "Envoyé",
+      "storyteller": "Conteuse|Conteuses",
       "title": "Réveiller {0}",
       "title_character": "Sélectionner un rôle",
       "title_player": "Sélectionner un joueur",
-      "title_spec": "Le Conteur a réveillé {0} :",
+      "title_spec": "La Conteuse a réveillé {0} :",
+      "title_st": "La Conteuse vous a réveillé :",
       "warning_dead": "Ce joueur est mort.",
       "warning_droison": "Ce joueur est ivre / empoisonné.",
       "warning_vortox": "Les pouvoirs de villageois donnent de fausses informations."
@@ -570,22 +574,29 @@
       "title": "Nouvelles Mises à Jour :"
     },
     "user": {
+      "button_add_st": "Ajouter une Conteuse",
+      "button_kick_user": "Expulser l'Utilisateur",
       "button_mod_user": "Modérer l’utilisateur",
       "error": "Une erreur est survenue lors du chargement des détails de l’utilisateur.",
-      "grimoire_access_grant": "Accorder l’accès au Grimoire",
+      "grimoire_access_grant": "Accorder l’Accès au Grimoire",
       "grimoire_access_revoke": "Révoquer l'Accès au Grimoire",
+      "loading": "Chargement de l'utilisateur…",
       "prompt_kick": "Voulez-vous vraiment retirer {0} de la partie ?",
-      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, cette personne aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire."
+      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, cette personne aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire.",
+      "title": "Profil utilisateur"
     },
     "users": {
+      "chat_connection": "Type de connexion chat",
       "grim_access": "Accès au Grimoire",
       "group_sub": "Abonné du Groupe",
       "new_user": "Nouvel Utilisateur",
       "official_mod": "Modérateur Officiel",
       "official_tpi": "TPI Officiel",
       "offline": "Déconnecté",
+      "st_requested": "Conteuse Demandée",
       "type_player": "Joueur|{n} Joueurs",
-      "type_spectator": "Spectateur|{n} Spectateurs"
+      "type_spectator": "Spectateur|{n} Spectateurs",
+      "type_storyteller": "Conteuse|{n} Conteuses"
     },
     "verification": {
       "button_reset": "Réinitialiser",
@@ -603,7 +614,7 @@
       "phone": "Numéro de Téléphone",
       "success": "Vérification réussie ! Vous pouvez à présent fermer cette fenêtre.",
       "text_body": "Nous mettons en place la vérification par SMS pour les comptes rejoignant {0} afin de conserver l'aspect vivant et respectueux de la communauté qui rend Blood on the Clocktower si spécial. Alors qu'une grande majorité des joueurs contribuent déjà à une culture saine et agréable, cette vérification nous permet de prendre des mesures rapides et appropriées lorsque l'expérience de jeu est entachée. Les parties privées ne sont pas concernées.",
-      "text_body2": "Parties publiques",
+      "text_body2": "parties publiques",
       "text_footer": "Les numéros de téléphone sont stockés de manière irrécupérable.",
       "text_title": "Pourquoi est-ce nécessaire ?",
       "title": "Vérification de compte"
@@ -625,8 +636,8 @@
   },
   "overlays": {
     "attention": {
-      "attention": "Votre attention s'il vous plait !",
-      "return": "Veuillez retourner sur la Place du Village maintenant !"
+      "attention": "Votre attention, s'il vous plait !",
+      "return": "Veuillez retourner sur la Place du Village immédiatement !"
     },
     "firstnight": {
       "bluffs": "Sélectionnez les 3 jetons vide de \"Bluff de Démon\" à partager avec le Démon.",
@@ -642,8 +653,8 @@
       "button_clearall": "Tout Effacer",
       "button_select": "Sélectionner une Édition",
       "button_shuffle": "Mélanger les Sièges",
-      "clear_text": "Êtes-vous sûr·e de vouloir retirer tou·tes les joueur·euses ?",
-      "clear_title": "Retirer tou·tes les joueur·euses",
+      "clear_text": "Êtes-vous sûr·e de vouloir retirer tous les joueurs ?",
+      "clear_title": "Retirer tous les joueurs",
       "move": "Déplacer après.\n.{0}",
       "shuffle_text": "Êtes-vous sûr de vouloir attribuer les sièges au hasard ?",
       "shuffle_title": "Attribuer les sièges au hasard",
@@ -651,20 +662,20 @@
       "text": "Ajoutez, mélangez ou supprimez des sièges de joueurs ici.",
       "text2": "Lorsqu’il y a suffisamment de sièges pour tout le monde, {0}",
       "title": "Rassemblez vos Joueurs",
-      "warning": "Vous avez besoin d’au moins 7 joueur·euses pour une partie classique à Ravenswood Bluff."
+      "warning": "Vous avez besoin d’au moins 7 joueurs pour une partie classique à Ravenswood Bluff."
     },
     "nightaction": {
       "open-eyes": {
         "button_close": "Fermer",
         "button_open": "Ouvrir",
-        "button_peek": "Entrouvrir",
+        "button_peek": "Scruter",
         "state_false": "Fermé",
         "state_open-eyes": "Ouvert",
-        "state_peek-eyes": "Entre-ouvert",
+        "state_peek-eyes": "Entre-ouverts",
         "text": "Vos yeux sont {0}",
-        "tooltip_false": "Vous ne verrez pas les signaux nocturnes des autres joueurs et ne pourrez envoyer de messages privés qu’à vos voisins et au Conteur.",
-        "tooltip_open-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tou·tes les autres joueur·euses, peu importe leur position. Vous verrez le contenu de chaque signal nocturne envoyé et reçu, cependant, il y a une chance que quelqu’un vous surprenne.",
-        "tooltip_peek-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tou·tes les autres joueur·euses, peu importe leur position. Vous verrez qui envoie et reçoit des signaux nocturnes, mais pas leur contenu. Vous ne pouvez pas être surpris en train de le faire."
+        "tooltip_false": "Vous ne verrez pas les signaux nocturnes des autres joueurs et ne pourrez envoyer de messages privés qu’à vos voisins et à la Conteuse.",
+        "tooltip_open-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tous les autres joueurs, peu importe leur position. Vous verrez le contenu de chaque signal nocturne envoyé et reçu, cependant, il y a une chance que quelqu’un vous surprenne.",
+        "tooltip_peek-eyes": "Vous pouvez envoyer et recevoir des messages privés avec tous les autres joueurs, peu importe leur position. Vous verrez qui envoie et reçoit des signaux nocturnes, mais pas leur contenu. Vous ne pouvez pas être surpris en train de le faire."
       }
     },
     "pointing": {
@@ -679,8 +690,8 @@
     "reveal": {
       "button_remaining": "Joueur·euses restant·es",
       "button_result": "Résultat de la partie",
-      "evil": "Maléfique",
-      "good": "Bon",
+      "evil": "Le Mal",
+      "good": "Le Bien",
       "prompt": "Attention : Cela mettra fin à la partie et révélera le Grimoire à tous les joueurs !\nQui a remporté la partie ?",
       "result": "{0} a gagné !",
       "text": "Révélez le résultat de la partie et chaque joueur en cliquant sur leur jeton. Vous pouvez survoler un jeton avec la souris pour entrevoir son rôle.",
@@ -697,7 +708,7 @@
       "button_gather": "Rassemblez vos Joueurs",
       "return": "Retour au Grimoire (Raccourci : {0}",
       "script_by": "par {0}",
-      "text_player": "Le Conteur doit ajouter plus de joueurs avant que vous puissiez commencer.",
+      "text_player": "La Conteuse doit ajouter plus de joueurs avant que vous puissiez commencer.",
       "text_st": "Pour commencer, vous devez d’abord {0}",
       "timer_ended": "terminé",
       "title": "Bienvenue sur {0}."
