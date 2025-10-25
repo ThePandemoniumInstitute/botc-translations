@@ -147,7 +147,7 @@
     "to_day": "Passer à la Phase Jour",
     "to_night": "Passer à la Phase Nuit",
     "translation": "Améliorer cette traduction",
-    "user_list": "Liste d'Utilisateur·ices",
+    "user_list": "Liste d'Utilisateurs",
     "vacate_seat": "Quitter Son Siège",
     "vote_history": "Historique Des Votes"
   },
@@ -187,7 +187,7 @@
         "eyes_close": "Impossible de fermer les yeux",
         "eyes_open": "Impossible d'ouvrir les yeux",
         "generic": "Une erreur s'est produite",
-        "kick": "Impossible d'expulser l'utilisateur·ice",
+        "kick": "Impossible d'expulser l'utilisateur",
         "link_text": "Une erreur est survenue en associant votre compte Patreon. Veuillez réessayer.",
         "link_title": "Erreur lors de l'association du compte Patreon",
         "loading_text": "Quelque chose d'inattendu s'est produit en chargeant les données de l'app. La page va être actualisée.",
