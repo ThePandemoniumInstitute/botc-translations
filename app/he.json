@@ -175,6 +175,22 @@
       "bluffs": "בחר את 3 ה\"בלופים של השד\" כדי לשתף עם השד.",
       "button_begin": "התחל את שלב הלילה הראשון",
       "gardener_button": "שלח את הדמויות"
+    },
+    "gatherplayers": {
+      "clear_text": "האם אתה בטוח שאתה רוצה להסיר את כל השחקנים?",
+      "clear_title": "הסר את כל השחקנים",
+      "shuffle_text": "אתה בטוח שאתה רוצה לערבב את הכסאות?",
+      "shuffle_title": "ערבב את הכסאות"
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "לסגור",
+        "button_open": "לפתוח",
+        "button_peek": "להציץ",
+        "state_false": "סגורות",
+        "state_open-eyes": "פתוחות",
+        "state_peek-eyes": "הצצה"
+      }
     }
   }
 }
