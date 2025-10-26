@@ -192,5 +192,12 @@
         "state_peek-eyes": "הצצה"
       }
     }
+  },
+  "tabs": {
+    "chat": {
+      "channels": {
+        "custom_3": "מדורה"
+      }
+    }
   }
 }
