@@ -231,6 +231,8 @@
       "button_paste": "Yapıştır",
       "button_upload": "Yükle",
       "button_url": "URL",
+      "clear_description": "Bu, sen ve herkes için Grimoire'ı ve Hatırlatıcı pulları temizleyecek. Emin misin?",
+      "clear_title": "Grimoire'ı ve Hatırlatıcı Pulları Temizle",
       "difficulty_intermediate": "Ortalama",
       "error_character": "Çok fazla karakter var",
       "error_character_text": "Bu senaryo 200'den fazla karakter içeriyor - lütfen bazılarını kaldırın.",
