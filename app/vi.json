@@ -209,6 +209,9 @@
       "clear_description": "Việc này sẽ dọn sạch Cấm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
       "clear_title": "Dọn sạch Cấm thư và Token Ghi chú"
     },
+    "role": {
+      "title_type_character": "nhân vật"
+    },
     "settings": {
       "shortcuts": {
         "revealGrimoire": "Tiết Lộ Cấm Thư"
