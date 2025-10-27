@@ -1037,7 +1037,7 @@
       "loading": "Chargement des statistiques...",
       "none": "Aucun",
       "player": "Parties\n Jouées",
-      "player_wins": "% de Victoire",
+      "player_wins": "{0}% de Victoire",
       "role": "Rôles de Départ\n les plus joués",
       "st_evil_wins": "{0}% de victoire Maléfique",
       "storyteller": "Parties\n Contées",
