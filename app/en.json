@@ -107,7 +107,6 @@
     "error_audio2": "auto-playing voice chat",
     "error_audio3": "You might also have to {0} in Firefox to hear audio from the app.",
     "error_audio4": "change a setting",
-    "npcs": "Add NPCs",
     "fullscreen": "Fullscreen",
     "gather": "Gather Your Players",
     "gong_attention": "Attention Gong",
@@ -122,6 +121,7 @@
     "night_info": "Night info",
     "night_info_text": "The Storyteller woke you this night!",
     "night_sheet": "Night Order Sheet",
+    "npcs": "Add NPCs",
     "prompt_clear_player": "Are you sure you want to remove all player characters and reminder tokens?",
     "prompt_clear_st": "This will clear the Grimoire and Reminder tokens for you and everyone else. Are you sure?",
     "prompt_clear_title": "Clear Grimoire and Reminder Tokens",
@@ -295,9 +295,6 @@
       "title": "Select an edition:",
       "upload_custom": "Upload Custom Script JSON"
     },
-    "npc": {
-      "title": "Add a Non-Player Character"
-    },
     "help": {
       "button_send": "Send Session Debug Data",
       "button_stop": "Stop Sending Debug Data",
@@ -310,6 +307,9 @@
       "text1": "This app (version {version}) is currently Under Construction.",
       "text2": "You can submit feedback through the {0} page or {1}. You can update your account email address and password {2}. If you want to buy the physical game, take a look at {3}.",
       "welcome": "Welcome to {0}!"
+    },
+    "npc": {
+      "title": "Add a Non-Player Character"
     },
     "reminder": {
       "custom_favorite": "Saved as favorite",
@@ -325,13 +325,13 @@
       "error_traveller": "No traveller matching {0} found.",
       "tab_character": "Available Characters",
       "tab_traveller": "Other Travellers",
-      "title": "Select a {alignment} {target}",
+      "title": "Select a {alignment} {type} {target}",
       "title_alignment_e": "Evil",
       "title_alignment_g": "Good",
       "title_alignment_r": "regular",
-      "title_target_bluff": "bluff",
-      "title_target_other": "character",
-      "title_target_player": "character for {0}"
+      "title_type_bluff": "bluff",
+      "title_type_character": "character",
+      "title_target": "for {0}"
     },
     "roles": {
       "button_distribute": "Pass out {0} characters",
@@ -450,7 +450,6 @@
         "modalSettings": "Settings",
         "modalShortcuts": "Shortcuts",
         "modalUsers": "Users",
-        "toggleNPCs": "Add Non-Player Character",
         "modeGather": "Gather Your Players",
         "raiseHand": "Raise Hand",
         "revealGrimoire": "Reveal Grimoire",
@@ -459,6 +458,7 @@
         "toggleAudioMuted": "Mute Mic / Push-to-Talk",
         "toggleEdition": "Select Edition",
         "toggleFullscreen": "Fullscreen",
+        "toggleNPCs": "Add Non-Player Character",
         "toggleNight": "Toggle Night Phase",
         "toggleNightOrder": "Night Order",
         "toggleNightSignal": "Show Night Info",
@@ -783,7 +783,6 @@
       "characters": "Characters",
       "create_game": "Create New Game",
       "edition_by": "by {author}",
-      "npcs": "Non-Player Characters",
       "forced_private": "You can no longer play in public games.",
       "free_tier_free": "Free",
       "free_tier_patreon": "Patreon",
@@ -794,6 +793,7 @@
       "language": "Language",
       "loading": "Loading games...",
       "no_games": "No public games found.",
+      "npcs": "Non-Player Characters",
       "page": "Page {page} of {total}",
       "phase": "Phase",
       "players": "Players",
@@ -850,7 +850,7 @@
       "empty_text": "Do you really want to remove this player from their seat while the game is running?",
       "empty_title": "Empty Seat of {0}",
       "follow": "Follow Player",
-      "nominate": "Nominate Player",
+      "nominate": "Nominate Self",
       "unfollow": "Unfollow Player",
       "wake": "Wake",
       "whisper": "Send Text Message"
