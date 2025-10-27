@@ -2,6 +2,16 @@
   "editions": {
     "bmr": {
       "description": "...là bản giao hưởng chết chóc. Ác quỷ có thể ra tay nhiều lần mỗi đêm, và lũ Tay sai cũng tham gia vũ điệu chết chóc đó. Người tốt có thể chấp nhận rủi ro lớn để thu thập thông tin đáng tin cậy, nhưng trong quá trình đó, họ có thể vô tình sát hại chính đồng đội của mình. May thay, có rất nhiều cách để giữ cho người chơi sống sót lâu hơn cả 'hạn sử dụng' của họ. Nhưng nếu phe tốt không thể xác đinh Tay sai và Ác quỷ nào đang hiện diện, sự diệt vong là gần như chắc chán."
+    },
+    "custom": {
+      "description": "Để chơi kịch bản tự làm, bạn cần chọn các nhân vật bạn muốn chơi bằng Công Cụ Tạo Kịch Bản chính thức rồi tải \"custom-list.json\" được tạo ra hoặc trực tiếp lên đây hoặc nhập URL chứa file JSON. Để tải nó, bạn cũng có thể kéo thả tệp kịch bản lên màn hình này hoặc dán JSON từ clipboard của bạn."
+    },
+    "snv": {
+      "description": "...là thể loại điên rồ nhất trong số 3 thể loại có trong bộ cơ bản. Nhân vật tốt có thông tin tuyệt vời vào từng và mỗi đêm. Nhưng phe xấu lại cực kỳ đa dạng và dăm đe và có thể tạo ra sự rối rắm to lớn trong nhóm.Những nhân vật đổi phe. Những người chơi đổi nhân vật. Ngay cả phe xấu cũng có thể mất dấu ai là ai. Đây cũng là sự xuất hiện đầu tiên của cơ chế \"điên\", tạo ra trở ngại lớn trong sự suy luận trên.",
+      "name": "Phái Giáo & Lan Tử Linh"
+    },
+    "tb": {
+      "description": "...có một chút của mọi thứ. Một số nhân vật nhận thông tin một cách bị động, một số cần hành động để biết ai là ai, trong khi một số chỉ làm mồi để Ác quỷ tấn công mình. Phe tốt và xấu có thể giành được lợi thế bằng việc hy sinh đúng thời điểm.\nPhạ Sự Nhưỡng Tửu là cuộc đi săn Ác quỷ thực thụ, nhưng phe xấu cũng chuẩn bị các chiêu trò gây rối thông tin, vậy nên người tốt cần phải suy nghĩ về những gì họ thấy để có thể sống sót."
     }
   },
   "jinxes": {
