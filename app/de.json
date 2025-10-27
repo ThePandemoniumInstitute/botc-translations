@@ -38,8 +38,8 @@
         "label": "Grimoire-Einblick",
         "title": "Ob Zuschauer Einblick in das Grimoire bekommen",
         "value_0": "Auf Anfrage",
-        "value_1": "Nein",
-        "value_2": "Ja"
+        "value_1": "Yes",
+        "value_2": "Nein"
       },
       "streaming": {
         "label": "Live gestreamt",
@@ -74,6 +74,7 @@
     },
     "demon": "Dämon|Dämonen",
     "fabled": "Legende|Legenden",
+    "loric": "Loric|Loric",
     "minion": "Scherge|Schergen",
     "outsider": "Außenseiter|Außenseiter",
     "phases": {
@@ -120,6 +121,7 @@
     "night_info": "Nacht-Info",
     "night_info_text": "Der Erzähler hat dich diese Nacht geweckt!",
     "night_sheet": "Nachtbogen",
+    "npcs": "NPC hinzufügen",
     "prompt_clear_player": "Bist du sicher, dass du alle Charakter- und Erinnerungsplättchen entfernen möchtest?",
     "prompt_clear_st": "Bei dir und allen anderen werden alle Charakter- und Erinnerungsplättchen entfernt. Bist du sicher?",
     "prompt_clear_title": "Grimoire leeren",
@@ -197,6 +199,7 @@
         "missing_roles": "Diese Runde enthälte unbekannte Charaktere. Bitte lade diese zuerst, bevor du der Runde beitrittst! Fehlende Charaktere: {0}",
         "missing_roles_title": "Fehler beim Laden der Charaktere",
         "move_player": "Spieler konnte nicht verschoben werden",
+        "npcs": "Fehler beim Ändern der NPCs",
         "offline": "Der Server scheint offline zu sein",
         "remove_player": "Spieler konnte nicht entfernt werden",
         "remove_storyteller": "Erzähler konnte nicht entfernt werden",
@@ -305,6 +308,9 @@
       "text2": "Du kannst uns jederzeit Feedback zukommen lassen, entweder über unseren {0} oder {1}. Deine Account-E-Mail-Adresse und dein Passwort kannst du {2} ändern. Wenn du das zugehörige Brettspiel kaufen möchtest, besuche {3}.",
       "welcome": "Willkommen bei {0}!"
     },
+    "npc": {
+      "title": "Nichtspielercharakter hinzufügen"
+    },
     "reminder": {
       "custom_favorite": "Als Favorit speichern",
       "custom_note": "Eigener Text",
@@ -319,10 +325,13 @@
       "error_traveller": "Keinen Reisenden mit {0} gefunden.",
       "tab_character": "Verfügbare Charaktere",
       "tab_traveller": "Andere Reisende",
-      "title": "Wähle einen {alignment} {target}",
+      "title": "Wähle einen {alignment} {type} {target}",
       "title_alignment_e": "bösen",
       "title_alignment_g": "guten",
-      "title_alignment_r": "normalen"
+      "title_alignment_r": "normalen",
+      "title_target": "für {0}",
+      "title_type_bluff": "Bluff",
+      "title_type_character": "Charakter"
     },
     "roles": {
       "button_distribute": "{0} Charaktere ausgeben",
@@ -406,6 +415,7 @@
       "setting_ptt": "Push To Talk",
       "setting_reminder_zoom": "Größe der Erinnerungsplättchen",
       "setting_reminders": "Erinnerungsplättchen stapeln",
+      "setting_reminders_always": "Immer",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Nie",
       "setting_reveal": "Zeige Kamera währen der Grimoire Aufdeckung",
@@ -448,6 +458,7 @@
         "toggleAudioMuted": "Mikrofon stumm / Push-to-Talk",
         "toggleEdition": "Szenario auswählen",
         "toggleFullscreen": "Vollbild",
+        "toggleNPCs": "Nichtspielercharakter hinzufügen",
         "toggleNight": "Tag / Nacht starten",
         "toggleNightOrder": "Nachtbogen",
         "toggleNightSignal": "Zeige Nacht-Zeichen",
@@ -759,6 +770,7 @@
       "title": "Synchronisiere deine Uhr"
     },
     "lobby": {
+      "bootlegger_title": "Aufgepasst!",
       "button_create_game": "Runde erstellen",
       "button_help": "Hilfe",
       "button_join_game": "Privater Runde beitreten",
@@ -780,6 +792,7 @@
       "language": "Sprache",
       "loading": "Lade Runden...",
       "no_games": "Keine öffentlichen Runden gefunden.",
+      "npcs": "Nichtspielercharaktere",
       "page": "Seite {page} von {total}",
       "phase": "Phase",
       "players": "Spieler",
@@ -836,7 +849,7 @@
       "empty_text": "Möchtest du diesen Spieler wirklich von seinem Sitz entfernen, während das Spiel läuft?",
       "empty_title": "Sitz leeren von {0}",
       "follow": "Spieler folgen",
-      "nominate": "Spieler nominieren",
+      "nominate": "Selbstnominierung",
       "unfollow": "Nicht mehr folgen",
       "wake": "Aufwecken",
       "whisper": "Text-Nachricht senden"
@@ -884,6 +897,7 @@
     "locked": "Nur Erzähler und Spieler",
     "locked_text": "Nur Erzähler und sitzende Spieler dürfen die Runde betreten.",
     "name_placeholder": "Rundenname",
+    "open_text": "Jeder kann der Runde beitreten.",
     "prompt_public_text": "Bist du sicher, dass du diese Runde öffentlich machen willst?\n Dadurch können alle Benutzer der App deine Runde sehen und ihr beitreten.",
     "prompt_public_title": "Runde öffentlich machen",
     "server": "Chat-Server:",
@@ -968,6 +982,11 @@
       "spectator": "Zuschauer",
       "title": "Sprache"
     },
+    "npcs": {
+      "remove_fabled": "Legende entfernen",
+      "remove_loric": "Loric entfernen",
+      "title": "NPCs"
+    },
     "text": {
       "channels": {
         "private": "Privat",
@@ -1027,7 +1046,7 @@
       "loading": "Lade Statistiken...",
       "none": "Keine",
       "player": "Runden\n gespielt",
-      "player_wins": "% gewonnen",
+      "player_wins": "{0}% gewonnen",
       "role": "Top Start-\n Charaktere",
       "st_evil_wins": "{0}% hat Böse gewonnen",
       "storyteller": "Runden\n geleitet",
