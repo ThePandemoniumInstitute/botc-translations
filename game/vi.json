@@ -1,4 +1,9 @@
 {
+  "editions": {
+    "bmr": {
+      "description": "...là bản giao hưởng chết chóc. Ác quỷ giết nhiều lần mỗi đêm, và Tay sai cũng tham gia vũ điệu chết chóc đó. Người tốt có thể chấp nhận rủi ro lới để nhận thông tin đáng tin cậy, nhưng có thể vô tình giết đồng minh của họ trong quá trình đó. May mắn rằng, có nhiều cách để giữ cho người chơi sống quá tuổi thọ của họ. Nhưng nếu phe tốt không thể xác đinh Tay sai và Ác quỷ nào có trong trò chơi, ngày tận thế sẽ không thể không xảy ra."
+    }
+  },
   "jinxes": {
     "alchemist-boffin": "Nếu Alchemist có năng lực của Boffin, Alchemist sẽ không biết năng lực mà Ác quỷ nhận được.",
     "alchemist-marionette": "Alchemist-Marionette không có năng lực của Marionette, nhưng biết tay sai đó đang có tham gia ván chơi.",
