@@ -855,7 +855,8 @@
       "seat_title": "자리 이름 변경"
     },
     "overlay": {
-      "eyes_open": "눈을 뜨고 있음"
+      "eyes_open": "눈을 뜨고 있음",
+      "night_info_received": "밤 정보 수신됨"
     }
   }
 }
