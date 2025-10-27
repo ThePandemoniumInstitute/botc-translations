@@ -335,6 +335,7 @@
     },
     "bigwig": {
       "ability": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
+      "flavor": "Vanity asks ‘Is it popular?’ Cowardice asks ‘Is it safe?’ Conscience asks ‘Is it right?’ Who among us will ask: ‘Is it true?’",
       "name": "Big Wig"
     },
     "bishop": {
@@ -361,7 +362,7 @@
     },
     "bootlegger": {
       "ability": "This script has homebrew characters or rules.",
-      "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?",
+      "flavor": "When I was born, I was named ‘Homebrewy McHomebrewface’, like my father before me. A respectable name, for a dignified age.",
       "name": "Bootlegger"
     },
     "bountyhunter": {
@@ -609,7 +610,7 @@
     },
     "gardener": {
       "ability": "The Storyteller assigns 1 or more players' characters.",
-      "flavor": "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears.",
+      "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones.",
       "name": "Gardener"
     },
     "general": {
@@ -1181,6 +1182,7 @@
     "tor": {
       "ability": "Players don't know their character or alignment. They learn them after they die.",
       "first": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+      "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth.",
       "name": "Tor"
     },
     "towncrier": {
