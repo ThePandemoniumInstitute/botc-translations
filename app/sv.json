@@ -74,6 +74,7 @@
     },
     "demon": "Demon|Demoner",
     "fabled": "Fabel|Fabler",
+    "loric": "Sägen|Sägner",
     "minion": "Kumpan|Kumpaner",
     "outsider": "Utböling|Utbölingar",
     "phases": {
@@ -120,6 +121,7 @@
     "night_info": "Nattinfo",
     "night_info_text": "Berättaren väckte dig inatt!",
     "night_sheet": "Nattordningsark",
+    "npcs": "Lägg till berättarroller",
     "prompt_clear_player": "Vill du verkligen ta bort alla spelares roller och påminnelsebrickor?",
     "prompt_clear_st": "Detta rensar grimoaren och tar bort påminnelsebrickor för dig och alla andra. Är du säker?",
     "prompt_clear_title": "Rensa grimoaren och påminnelser",
@@ -197,6 +199,7 @@
         "missing_roles": "Sessionen har hembryggda roller som inte går att hitta. Ladda dem innan du går med! Saknade roller: {0}",
         "missing_roles_title": "Det gick inte att ladda hembryggda roller",
         "move_player": "Kan inte flytta spelaren",
+        "npcs": "Det gick inte att uppdatera berättarroller",
         "offline": "Servern verkar vara nere",
         "remove_player": "Kan inte ta bort spelaren",
         "remove_storyteller": "Det gick inte att ta bort berättaren",
@@ -305,6 +308,9 @@
       "text2": "Du kan skicka feedback på sidan {0} eller {1}. Du kan uppdatera ditt kontos e-postadress och lösenord {2}. Om du vill köpa det fysiska spelet kan du gå till {3}.",
       "welcome": "Välkommen till {0}!"
     },
+    "npc": {
+      "title": "Lägg till en berättarroll"
+    },
     "reminder": {
       "custom_favorite": "Sparad som favorit",
       "custom_note": "Anteckning",
@@ -322,7 +328,10 @@
       "title": "Välj en {alignment} {target}",
       "title_alignment_e": "ond",
       "title_alignment_g": "god",
-      "title_alignment_r": "vanlig"
+      "title_alignment_r": "vanlig",
+      "title_target": "till {0}",
+      "title_type_bluff": "bluff",
+      "title_type_character": "roll"
     },
     "roles": {
       "button_distribute": "Dela ut {0} roller",
@@ -406,6 +415,7 @@
       "setting_ptt": "Tryck för att prata",
       "setting_reminder_zoom": "Storlek på påminnelser",
       "setting_reminders": "Stapla påminnelser",
+      "setting_reminders_always": "Alltid",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Aldrig",
       "setting_reveal": "Visa kameror när grimoaren avslöjas",
@@ -448,6 +458,7 @@
         "toggleAudioMuted": "Mikrofon av/på",
         "toggleEdition": "Välj utgåva",
         "toggleFullscreen": "Helskärm",
+        "toggleNPCs": "Lägg till berättarroll",
         "toggleNight": "Gå till natt/dag",
         "toggleNightOrder": "Nattordning",
         "toggleNightSignal": "Visa nattinfo",
