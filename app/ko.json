@@ -13,7 +13,7 @@
     "button_cancel": "취소",
     "button_close": "닫기",
     "button_confirm": "확인",
-    "button_continue": "다음",
+    "button_continue": "계속",
     "button_logout": "로그아웃",
     "button_search": "검색",
     "button_send": "전송",
@@ -74,6 +74,7 @@
     },
     "demon": "악마|악마들",
     "fabled": "전설적인 캐릭터|전설적인 캐릭터들",
+    "loric": "설화적인 캐릭터|설화적인 캐릭터",
     "minion": "하수인|하수인들",
     "outsider": "외지인|외지인들",
     "phases": {
@@ -120,6 +121,7 @@
     "night_info": "밤 정보",
     "night_info_text": "이야기꾼이 오늘 밤 당신을 깨웠습니다!",
     "night_sheet": "밤 순서 시트",
+    "npcs": "NPC 캐릭터 추가",
     "prompt_clear_player": "모든 플레이어의 캐릭터 및 알림 토큰을 제거하시겠습니까?",
     "prompt_clear_st": "마도서를 초기화하면 당신을 포함한 모두에게서 토큰이 제거됩니다. 정말 초기화 하시겠습니까?",
     "prompt_clear_title": "마도서 및 알림 토큰 초기화",
@@ -161,8 +163,8 @@
       "title": "공지하기"
     },
     "dialogue": {
-      "button_evil": "악이 승리했습니다",
-      "button_good": "선이 승리했습니다",
+      "button_evil": "악 승리",
+      "button_good": "선 승리",
       "button_no": "아니오",
       "button_yes": "네",
       "close_timer": "이 팝업은 {n}초 후에 자동으로 닫힙니다.",
@@ -197,6 +199,7 @@
         "missing_roles": "이 방에는 찾을 수 없는 커스텀 캐릭터가 포함되어 있습니다. 참가하기 전에 불러와주세요! 없는 캐릭터: {0}",
         "missing_roles_title": "커스텀 캐릭터 불러오기 실패",
         "move_player": "플레이어를 움직일 수 없습니다",
+        "npcs": "NPC 업데이트 오류",
         "offline": "서버가 오프라인 상태입니다",
         "remove_player": "플레이어를 제거할 수 없습니다",
         "remove_storyteller": "이야기꾼 제거 오류",
@@ -305,6 +308,9 @@
       "text2": "{0} 페이지 또는 {1}를 통해 피드백을 제출할 수 있습니다. 계정 이메일 주소와 비밀번호는 {2}에서 변경할 수 있습니다. 실물 게임을 구매하려면 {3}에서 확인해 보세요.",
       "welcome": "{0}에 오신 것을 환영합니다!"
     },
+    "npc": {
+      "title": "NPC 캐릭터 추가"
+    },
     "reminder": {
       "custom_favorite": "즐겨찾기에 저장",
       "custom_note": "커스텀 메모",
@@ -319,10 +325,12 @@
       "error_traveller": "{0}와(과) 일치하는 여행자를 찾을 수 없습니다.",
       "tab_character": "사용 가능한 캐릭터",
       "tab_traveller": "기타 여행자",
-      "title": "{target} {alignment}{type} 선택",
+      "title": "{target} {alignment} {type} 선택",
       "title_alignment_e": "악한",
       "title_alignment_g": "선한",
-      "title_alignment_r": "일반"
+      "title_alignment_r": "일반",
+      "title_target": "{0}의",
+      "title_type_character": "캐릭터"
     },
     "roles": {
       "button_distribute": "캐릭터 {0}개 나눠주기",
@@ -406,6 +414,7 @@
       "setting_ptt": "눌러서 말하기",
       "setting_reminder_zoom": "알림 토큰 크기",
       "setting_reminders": "알림 토큰 쌓기",
+      "setting_reminders_always": "항상",
       "setting_reminders_auto": "자동",
       "setting_reminders_never": "불가",
       "setting_reveal": "마도서 공개 시 카메라 표시",
@@ -448,6 +457,7 @@
         "toggleAudioMuted": "마이크 음소거 / 눌러서 말하기",
         "toggleEdition": "에디션 선택",
         "toggleFullscreen": "전체 화면",
+        "toggleNPCs": "NPC 캐릭터 추가",
         "toggleNight": "밤 단계 토글",
         "toggleNightOrder": "밤 순서",
         "toggleNightSignal": "밤 정보 표시",
@@ -567,7 +577,7 @@
     "user": {
       "button_add_st": "이야기꾼 추가",
       "button_cancel_st": "이야기꾼 요청 취소",
-      "button_kick_user": "유저 추방하기",
+      "button_kick_user": "유저 추방",
       "button_mod_user": "유저 관리",
       "button_remove_st": "이야기꾼 제거",
       "error": "유저 세부 사항을 불러오는 데 오류가 발생했습니다.",
@@ -634,7 +644,7 @@
     },
     "firstnight": {
       "bluffs": "악마에게 보여줄 비어있는 \"악마의 속임수\" 토큰을 선택해주세요.",
-      "button_begin": "첫날 밤 단계 시작",
+      "button_begin": "첫날 밤 시작",
       "gardener_button": "보내주세요",
       "gardener_text": "캐릭터 구성이 만족스럽다면, 플레이어들에게 {0}. 배정을 마치면 첫날 밤을 세팅할 수 있습니다.",
       "reminders": "필요한 {0} 알림 토큰을 추가하세요.",
@@ -681,7 +691,7 @@
       "you_pointed": "당신이 가리킨 플레이어는:"
     },
     "reveal": {
-      "button_remaining": "남은 플레이어",
+      "button_remaining": "모두 공개",
       "button_result": "게임 결과",
       "evil": "악",
       "good": "선",
@@ -702,7 +712,7 @@
       "return": "마도서로 돌아가기 (단축키:{0})",
       "script_by": "{0} 지음",
       "text_player": "이야기꾼은 게임을 시작하기 전에 더 많은 플레이어를 추가해야 합니다.",
-      "text_st": "시작하기 앞서, 먼저 {0}(이)가 필요합니다",
+      "text_st": "시작하기 앞서, {0}이(가) 필요합니다",
       "timer_ended": "끝",
       "title": "{0}에 오신 것을 환영합니다."
     },
@@ -759,6 +769,8 @@
       "title": "컴퓨터 시계를 조정해 주세요"
     },
     "lobby": {
+      "bootlegger_title": "경고!",
+      "bootlegger_warning": "이 방은 밀주업자 캐릭터를 사용 중입니다. 이는 공식적으로 출시되지 않은 커스텀 규칙이나 캐릭터가 포함되어 있다는 뜻으로, 경험자에게 더 적합합니다.\n시계탑에 흐른 피가 처음이라면, 먼저 공식 기본 스크립트로 표준 규칙과 캐릭터에 익숙해지시길 권장합니다. 초보자에겐 <점철되는 혼란>을 추천합니다!\n어찌됐건 환영합니다, 와 주셔서 기뻐요!\n정말 이 방에 입장하시겠습니까?",
       "button_create_game": "게임 생성하기",
       "button_help": "도움말",
       "button_join_game": "비공개 게임 참가하기",
@@ -780,6 +792,7 @@
       "language": "언어",
       "loading": "게임을 불러오는 중...",
       "no_games": "공개 게임이 없습니다.",
+      "npcs": "NPC 캐릭터",
       "page": "{total} 중 {page} 페이지",
       "phase": "단계",
       "players": "플레이어",
@@ -856,7 +869,207 @@
     },
     "overlay": {
       "eyes_open": "눈을 뜨고 있음",
-      "night_info_received": "밤 정보 수신됨"
+      "night_info_received": "밤 정보 수신됨",
+      "night_info_sent": "밤 정보 전송됨",
+      "nominate": "이 플레이어를 지명함",
+      "point": "이 플레이어를 가리킴"
+    },
+    "reminders": {
+      "add": "알림 토큰 추가",
+      "edit": "{0} 알림 토큰 편집",
+      "edit_placeholder": "커스텀 메모",
+      "edit_text": "{0}의 커스텀 알림 메모 편집하기",
+      "edit_title": "알림 토큰 편집",
+      "flip": "{0} 알림 토큰 뒤집기",
+      "remove": "{0} 알림 토큰 제거하기",
+      "saved_favorite": "즐겨찾기에 저장됨"
+    },
+    "shroud_add": "수의 토큰은 플레이어에게 보이지 않습니다. 낮 동안 다시 클릭하면 표시됩니다.",
+    "shroud_remove": "수의 토큰이 아직 플레이어들에게 표시되고 있습니다. 낮 동안 다시 클릭하면 제거됩니다.",
+    "toggle_status": "상태 전환"
+  },
+  "session": {
+    "access": "접근",
+    "copy": "클릭하여 복사하기",
+    "created": "{1}에 의해 {0} 전에 생성되었습니다.",
+    "free": "모두에게 공개",
+    "language": "사용 언어",
+    "locked": "이야기꾼과 플레이어",
+    "locked_text": "이미 자리가 있는 플레이어와 이야기꾼만 참가할 수 있습니다.",
+    "name_placeholder": "방 제목",
+    "open_text": "모두가 방에 참가할 수 있습니다.",
+    "prompt_public_text": "방을 공개로 여시겠습니까?\n 누구나 당신의 게임을 보고 참여할 수 있습니다.",
+    "prompt_public_title": "방을 공개로 열기",
+    "server": "채팅 서버:",
+    "server_name": "이름",
+    "server_stats": "사용자 {0}명, 서버 부하 {1}",
+    "session_name": "방 제목",
+    "subscription_needed": "구독 필요",
+    "tags": "공개 게임 태그",
+    "title_create": "방 생성하기",
+    "title_current": "최근 열린 방",
+    "visibility": "공개 여부",
+    "visibility_private": "비공개",
+    "visibility_public": "공개"
+  },
+  "storyteller": {
+    "connecting": "이야기꾼이 음성 채팅에 연결 중입니다.",
+    "follow": "이야기꾼 따라가기",
+    "following": "이야기꾼을 따라가고 있습니다.",
+    "listening": "이야기꾼이 음성 채팅을 청취 중입니다.",
+    "offline": "이야기꾼이 현재 오프라인 상태입니다.",
+    "prompt_grim_text": "신규 유저는 공개 게임에서 마도서 열람을 요청할 수 없습니다.\n 이 기능을 잠금 해제하려면 더 많은 게임을 완료해 주세요.",
+    "prompt_grim_title": "마도서 열람 요청 오류",
+    "remove": "이야기꾼 제거",
+    "request_grim": "마도서 열람 요청",
+    "title": "이야기꾼",
+    "unfollow": "따라가기 해제"
+  },
+  "tabs": {
+    "bluffs": {
+      "drag": "이 탭을 드래그 하여 원하는 곳에 둘 수 있습니다."
+    },
+    "character": {
+      "download": "스크립트 JSON 다운로드",
+      "error_popout": "새 창 생성 오류",
+      "error_save": "파일 저장 오류",
+      "jinxes": "징크스",
+      "other_nights": "첫날 밤이\n 아닙니다",
+      "popout": "캐릭터 탭 팝업창으로 열기"
+    },
+    "characters": {
+      "title": "캐릭터"
+    },
+    "chat": {
+      "accept": "요청 수락",
+      "accept_request": "{0}를 눌러 요청 수락하기",
+      "cancel": "요청 취소",
+      "cancel_request": "{0}를 눌러 요청 취소하기",
+      "channels": {
+        "bmr_0": "선술집",
+        "bmr_1": "오두막",
+        "bmr_2": "연못",
+        "bmr_3": "농가",
+        "bmr_4": "캐러밴",
+        "custom_0": "물약 상점",
+        "custom_1": "망루",
+        "custom_2": "성당",
+        "custom_3": "모닥불",
+        "custom_4": "냇가",
+        "snv_0": "정원",
+        "snv_1": "온실",
+        "snv_2": "동굴",
+        "snv_3": "사원",
+        "snv_4": "서커스장",
+        "tb_0": "수도원",
+        "tb_1": "교회",
+        "tb_2": "공동묘지",
+        "tb_3": "도서관",
+        "tb_4": "실험실"
+      },
+      "chats": "채팅",
+      "following": "당신은 이 플레이어를 따라가고 있습니다.",
+      "incoming": "수신",
+      "leave_private": "밀담 나가기",
+      "leave_room": "이 장소에서 나가기",
+      "night": "밤이 드리웁니다...",
+      "nomination": "플레이어가 지명됐습니다!",
+      "outgoing": "발신",
+      "request_private": "밀담 신청하기",
+      "requests": "대화 요청",
+      "reset_position": "위치 초기화",
+      "spectator": "관전자",
+      "title": "음성"
+    },
+    "npcs": {
+      "remove_fabled": "전설적인 캐릭터 제거",
+      "remove_loric": "설화적인 캐릭터 제거",
+      "title": "NPC 캐릭터"
+    },
+    "text": {
+      "channels": {
+        "private": "밀담",
+        "public": "공개",
+        "spectator": "관전자",
+        "system": "방"
+      },
+      "message_blocked": "전송되지 않음",
+      "message_to": "에게",
+      "prompt_private": "밀담",
+      "prompt_public": "전체 채팅",
+      "prompt_spectator": "관전자 채팅",
+      "prompt_system": "시스템 메세지",
+      "prompt_user": "{0} 에게",
+      "system": {
+        "death": "{0}이(가) 죽었습니다.",
+        "end_evil": "악의 승리로 게임이 종료되었습니다!",
+        "end_good": "선의 승리로 게임이 종료되었습니다!",
+        "grim_deny": "{0}이(가) 마도서 열람을 거부했습니다.",
+        "grim_receive": "{0}이(가) 마도서 열람을 허락했습니다.",
+        "grim_remove": "{0}은(는) 마도서 열람이 더이상 불가능합니다.",
+        "grim_request": "{0}이(가) 마도서 열람을 요청했습니다.",
+        "join": "{0}이(가) 게임에 참가했습니다.",
+        "leave": "{0}이(가) 게임을 떠났습니다.",
+        "phase": "{0}이(가) 시작되었습니다.",
+        "revive": "{0}이(가) 부활했습니다.",
+        "seat_claim": "{0}이(가) {1} 번 자리에 착석했습니다.",
+        "seat_empty": "{0}이(가) {1} 번 자리에서 제거되었습니다.",
+        "seat_vacate": "{0}이(가) {1}번 자리를 떠났습니다.",
+        "signal": "{0}이(가) {1}에게 밤 신호를 보냈습니다.",
+        "start": "캐릭터를 모두 배정했고 게임이 시작되었습니다!",
+        "storyteller_add": "{0}이(가) 이야기꾼이 되었습니다.",
+        "storyteller_remove": "{0}이(가) 이야기꾼을 그만두었습니다.",
+        "vote": "{0}이(가) 투표 토큰을 사용했습니다."
+      },
+      "title": "문자",
+      "tooltip": "{1}에게 온 읽지 않은 메시지 {0}개 보기"
     }
+  },
+  "user": {
+    "avatar_enabled": "아바타 사용",
+    "camera_enabled": "카메라 사용",
+    "error_avatar_text": "선택한 아바타의 크기는 {0} MB이지만, 최대 허용 크기는 {1} MB입니다.",
+    "error_avatar_title": "파일 용량이 너무 큽니다",
+    "gain": "음량",
+    "group_subscription": "단체 구독",
+    "id": "유저 아이디",
+    "level": "계정 등급",
+    "mic_volume": "마이크 볼륨",
+    "new_user": "새 유저",
+    "pronouns": "선호 지칭 대명사",
+    "registration": "회원 가입",
+    "statistics": "통계",
+    "stats": {
+      "edition": "가장 많이 한\n 에디션",
+      "homebrew": "홈브류 캐릭터",
+      "loading": "통계 불러오는 중...",
+      "none": "없음",
+      "player": "플레이한\n 게임 수",
+      "player_wins": "승률 {0}%",
+      "role": "가장 많이 한\n 캐릭터",
+      "st_evil_wins": "{0}% 승률(악)",
+      "storyteller": "이야기꾼\n 진행 횟수",
+      "warning": "통계가 생성 중입니다...\n 잠시 후에 다시 와주세요!"
+    },
+    "stats_hidden": "숨김",
+    "stats_private": "비공개",
+    "stats_public": "공개",
+    "upload_avatar": "아바타 업로드",
+    "verified": "인증된 유저"
+  },
+  "version": {
+    "character_distribution": "캐릭터 분포",
+    "download": "최신 {0}용 버전을 여기에서 다운로드하여 설치하세요.",
+    "players_alive": "{0}/{1} 플레이어 생존",
+    "reload": "최신 버전을 받으려면 페이지를 새로고침하거나 브라우저 캐시를 지워 주세요.",
+    "since": "{0} 부터",
+    "translation_disclaimer": "현재 현지화된 앱 버전을 사용 중입니다. 이 번역은 TPI와 무관한 다음 자원봉사자들이 제작하고 검수했습니다:",
+    "translation_game": "이 게임 콘텐츠 번역은 TPI가 작성한 공식 영문 규칙을 정확히 반영하지 않을 수 있습니다.",
+    "update": "업데이트 해주세요!",
+    "updating": "{0} 버전으로 업데이트 중...",
+    "warning_browser": "오래되었거나 지원하지 않는 브라우저를 사용 중입니다",
+    "warning_browser2": "{0}을(를) 사용 중이며, 이로 인해 앱에 문제가 발생할 수 있습니다. 최신 브라우저로 업데이트하거나 다른 브라우저로 전환해 주세요. 이 앱은 파이어폭스와 크롬에서 가장 잘 작동합니다.",
+    "warning_update": "앱이 최신 버전이 아닙니다",
+    "warning_update2": "지금 {0} 버전을 사용 중입니다. 최신 버전은 {1}입니다!"
   }
 }
