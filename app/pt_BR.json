@@ -38,8 +38,8 @@
         "label": "Acesso ao Grimório",
         "title": "Se espectadores recebem acesso ao Grimório",
         "value_0": "Pedir",
-        "value_1": "Não",
-        "value_2": "Sim"
+        "value_1": "Sim",
+        "value_2": "Não"
       },
       "streaming": {
         "label": "O jogo está sendo transmitido",
@@ -74,6 +74,7 @@
     },
     "demon": "Demônio|Demônios",
     "fabled": "Lenda|Lendas",
+    "loric": "Lorica",
     "minion": "Lacaio|Lacaios",
     "outsider": "Forasteiro|Forasteiros",
     "phases": {
@@ -322,7 +323,10 @@
       "title": "Selecionar um {target} {alignment}",
       "title_alignment_e": "Mau",
       "title_alignment_g": "Bom",
-      "title_alignment_r": "Normal"
+      "title_alignment_r": "Normal",
+      "title_target": "Para {0}",
+      "title_type_bluff": "Enganando",
+      "title_type_character": "Personagem"
     },
     "roles": {
       "button_distribute": "Dsitribuir {0} personagens",
@@ -406,6 +410,7 @@
       "setting_ptt": "Pressionar para falar",
       "setting_reminder_zoom": "Tamanho dos marcadores",
       "setting_reminders": "Empilhar marcadores",
+      "setting_reminders_always": "Sempre",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Nunca",
       "setting_reveal": "Mostrar câmeras durante revelação do Grimório",
@@ -759,6 +764,7 @@
       "title": "Ajuste o relógio do seu computador"
     },
     "lobby": {
+      "bootlegger_title": "Cabeças Erguidas!",
       "button_create_game": "Criar jogo",
       "button_help": "Ajuda",
       "button_join_game": "Juntar-se a um jogo privado",
@@ -884,6 +890,7 @@
     "locked": "Narradores e jogadores",
     "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
     "name_placeholder": "Nome da partida",
+    "open_text": "Todos podem se juntar a sessão.",
     "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\n Isso permitirá que qualquer pessoa veja e participe do seu jogo.",
     "prompt_public_title": "Tornar a partida pública",
     "server": "Servidor das conversas:",
@@ -967,6 +974,10 @@
       "reset_position": "Redefinir posição",
       "spectator": "Espectador",
       "title": "Voz"
+    },
+    "npcs": {
+      "remove_fabled": "Remover Lendário",
+      "remove_loric": "Remover Loric"
     },
     "text": {
       "channels": {
