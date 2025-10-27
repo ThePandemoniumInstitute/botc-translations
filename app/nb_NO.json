@@ -38,8 +38,8 @@
         "label": "Grimoire-tilgang",
         "title": "Om tilskuere har tilgang til Grimoiret",
         "value_0": "Spør",
-        "value_1": "Nei",
-        "value_2": "Ja"
+        "value_1": "Ja",
+        "value_2": "Nei"
       },
       "streaming": {
         "label": "Spillet blir strømmet",
@@ -322,7 +322,10 @@
       "title": "Velg en {alignment} {type} {target}",
       "title_alignment_e": "Ond",
       "title_alignment_g": "God",
-      "title_alignment_r": "vanlig"
+      "title_alignment_r": "vanlig",
+      "title_target": "for {0}",
+      "title_type_bluff": "Bløff",
+      "title_type_character": "karakter"
     },
     "roles": {
       "button_distribute": "Send ut {0} karakterer",
@@ -406,6 +409,7 @@
       "setting_ptt": "Trykk for å snakke",
       "setting_reminder_zoom": "Størrelse på Hjelpebrikke",
       "setting_reminders": "Stable Hjelpebrikke",
+      "setting_reminders_always": "alltid",
       "setting_reminders_auto": "Auto",
       "setting_reminders_never": "Aldri",
       "setting_reveal": "Vis kameraer under avsløringen av grimoire",
@@ -574,6 +578,7 @@
       "grimoire_access_revoke": "Fjern Grimoire Tilgang",
       "loading": "Laster bruker...",
       "prompt_kick": "Vil du virkelig fjerne {0}fra dette spillet?",
+      "prompt_st": "Vil du virkelig gjøre {0} til en Forteller? \nEtter de godtar denne forespørselen, vil de ha full tilgang som Forteller og tilgang til Grimoiren.",
       "title": "Bruker profil"
     },
     "users": {
