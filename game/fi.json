@@ -1329,6 +1329,9 @@
       "ability": "Yhdellä tai useammalla pelaajalla on tavoite. Sen saavuttaessaan pelaaja oppii jonkin tositiedon."
     },
     "zombuul": {
+      "ability": "Joka yö*, jos kukaan ei kuollut tänään, valitse pelaaja: he kuolevat. 1. kerralla kun sinä kuolet, elät mutta rekisteröidyt kuolleeksi.",
+      "flavor": "Ymmärtää en. Voi tapojasi. Ihmistoveri. Näytä minulle. Multa. Missä pyhät. Lepäävät. Minun myös. Nukkua täytyy. Pian.",
+      "name": "Zombuul",
       "other": "Jos kukaan ei kuollut tänään, Zombuul valitsee pelaajan. :reminder:"
     }
   }
