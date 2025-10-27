@@ -302,6 +302,9 @@
       "tab2": "Memberin' Marks for other Stations",
       "title": "Add Memberin' Mark to {0}"
     },
+    "role": {
+      "title": "Pick a {alignment} {target}"
+    },
     "settings": {
       "setting_player_reminders": "Matey: Multiple Memberin' Marks",
       "setting_reminder_zoom": "Memberin' Mark Size",
