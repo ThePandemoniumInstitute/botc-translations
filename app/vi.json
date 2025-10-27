@@ -228,5 +228,8 @@
     "lobby": {
       "free_tier_free": "Miễn phí"
     }
+  },
+  "session": {
+    "server": "Máy Chủ Trò Chuyện:"
   }
 }
