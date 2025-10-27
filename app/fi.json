@@ -606,6 +606,7 @@
   },
   "user": {
     "blocked": "Estetty",
+    "error_avatar_text": "Avatari, jonka valitsit koko on {0} MB, mutta maksimikoko on {1}MB.",
     "gain": "Vahvistus"
   },
   "version": {
