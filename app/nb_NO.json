@@ -105,7 +105,6 @@
     "error_audio2": "automatisk avspilling av stemmechat",
     "error_audio3": "Du må kanskje også {0} i Firefox for å høre lyd fra appen.",
     "error_audio4": "Endre en innstilling",
-    "fabled": "Legg til fabel",
     "fullscreen": "Fullskjerm",
     "gather": "Samle spillerne",
     "gong_attention": "Oppmerksomhetsgong",
@@ -178,7 +177,6 @@
         "end": "Feil under avslutting av spill",
         "eyes_close": "Kan ikke lukke øynene",
         "eyes_open": "Kan ikke åpne øynene",
-        "fabled": "Feil ved oppdatering av fabel",
         "generic": "En feil har skjedd",
         "link_text": "Det oppsto en feil da kontoen din skulle kobles til Patreon. Prøv på nytt.",
         "link_title": "Feil ved kobling av konto til Patreon",
@@ -273,9 +271,6 @@
       "title": "Velg en utgave:",
       "upload_custom": "Last opp egendefinert manus JSON"
     },
-    "fabled": {
-      "title": "Legg til en fabelkarakter"
-    },
     "help": {
       "button_stop": "Slutt å sende feilsøkingsdata",
       "link_0": "Problemfølger",
@@ -302,10 +297,7 @@
       "tab_traveller": "Andre reisende",
       "title": "Velg en {alignment} {target}",
       "title_alignment_e": "Ond",
-      "title_alignment_g": "God",
-      "title_target_bluff": "bløff",
-      "title_target_other": "karakter",
-      "title_target_player": "karakter for {0}"
+      "title_alignment_g": "God"
     },
     "roles": {
       "button_distribute": "Send ut {0} karakterer",
@@ -505,7 +497,6 @@
       "characters": "Karakterer",
       "create_game": "Lag Nytt Spill",
       "edition_by": "av {author}",
-      "fabled": "Fabel",
       "forced_private": "Du kan ikke lenger spille i offentlige spill.",
       "free_tier_free": "Gratis",
       "game": "Spill",

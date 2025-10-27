@@ -106,7 +106,6 @@
     "error_audio2": "afspiller automatisk stemmechat",
     "error_audio3": "Du behøver måske også at {0} i Firefox for at høre lyd fra appen.",
     "error_audio4": "skift en indstilling",
-    "fabled": "Tilføj Sagnhelt",
     "fullscreen": "Fuld skærm",
     "gather": "Saml Dine Spillere",
     "gong_attention": "Opmærksomheds-gong",
@@ -187,7 +186,6 @@
         "end": "Fejl ved afslutning af spil",
         "eyes_close": "Kan ikke lukke øjne",
         "eyes_open": "Kan ikke åbne øjne",
-        "fabled": "Fejl ved opdatering af Sagnhelt",
         "generic": "Der opstod en fejl",
         "kick": "Kan ikke fjerne bruger",
         "link_text": "Der var en fejl ved at forbinde din konto til Patreon. Prøv igen.",
@@ -294,9 +292,6 @@
       "title": "Vælg en udgave:",
       "upload_custom": "Upload Tilpasset Manuskript JSON"
     },
-    "fabled": {
-      "title": "Tilføj en Sagnhelt karakter"
-    },
     "help": {
       "button_send": "Send Session-fejldata",
       "button_stop": "Stop med at Sende Fejldata",
@@ -327,10 +322,7 @@
       "title": "Vælg en {alignment} {target}",
       "title_alignment_e": "Ond",
       "title_alignment_g": "God",
-      "title_alignment_r": "standard",
-      "title_target_bluff": "bluff",
-      "title_target_other": "karakter",
-      "title_target_player": "karakter til {0}"
+      "title_alignment_r": "standard"
     },
     "roles": {
       "button_distribute": "Del ud {0} karakterer",
@@ -448,7 +440,6 @@
         "modalSettings": "Indstillinger",
         "modalShortcuts": "Genveje",
         "modalUsers": "Brugere",
-        "modeFabled": "Tilføj Sagnhelte",
         "modeGather": "Saml Dine Spillere",
         "raiseHand": "Rejs Hånd",
         "revealGrimoire": "Afslør Grimoire",
@@ -779,7 +770,6 @@
       "characters": "Karakterer",
       "create_game": "Opret Nyt Spil",
       "edition_by": "af {author}",
-      "fabled": "Sagnhelt",
       "forced_private": "Du kan ikke længere spille i offentlige spil.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Nulstil position",
       "spectator": "Tilskuer",
       "title": "Stemme"
-    },
-    "fabled": {
-      "remove": "Fjern Sagnhelt",
-      "title": "Sagnhelt"
     },
     "text": {
       "channels": {

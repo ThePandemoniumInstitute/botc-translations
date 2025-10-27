@@ -106,7 +106,6 @@
     "error_audio2": "automatisch Sprache abspielt",
     "error_audio3": "Möglicherweise musst du außerdem in Firefox {0}, um Sprach-Chat in der App zu hören.",
     "error_audio4": "eine Einstellung ändern",
-    "fabled": "Legenden hinzufügen",
     "fullscreen": "Vollbild",
     "gather": "Sitze verwalten",
     "gong_attention": "Zur Achtung rufen",
@@ -187,7 +186,6 @@
         "end": "Fehler beim Beenden des Spiels",
         "eyes_close": "Augen konnten nicht geschlossen werden",
         "eyes_open": "Augen konnten nicht geöffnet werden",
-        "fabled": "Fehler beim Anpassen der Legenden",
         "generic": "Ein Fehler ist aufgetreten",
         "kick": "Spieler konnte nicht rausgeworfen werden",
         "link_text": "Bei der Account-Verknüpfung mit Patreon ist ein Fehler aufgetreten. Bitte versuche es erneut.",
@@ -294,9 +292,6 @@
       "title": "Wähle ein Szenario:",
       "upload_custom": "Skript JSON hochladen"
     },
-    "fabled": {
-      "title": "Legende hinzufügen"
-    },
     "help": {
       "button_send": "Runden-Daten senden",
       "button_stop": "Runden-Daten stoppen",
@@ -327,10 +322,7 @@
       "title": "Wähle einen {alignment} {target}",
       "title_alignment_e": "bösen",
       "title_alignment_g": "guten",
-      "title_alignment_r": "normalen",
-      "title_target_bluff": "Bluff",
-      "title_target_other": "Charakter",
-      "title_target_player": "Charakter für {0}"
+      "title_alignment_r": "normalen"
     },
     "roles": {
       "button_distribute": "{0} Charaktere ausgeben",
@@ -448,7 +440,6 @@
         "modalSettings": "Einstellungen",
         "modalShortcuts": "Tastenkürzel",
         "modalUsers": "Benutzer",
-        "modeFabled": "Legende hinzufügen",
         "modeGather": "Sitze verwalten",
         "raiseHand": "Hand heben",
         "revealGrimoire": "Grimoire aufdecken",
@@ -779,7 +770,6 @@
       "characters": "Charaktere",
       "create_game": "Neue Runde erstellen",
       "edition_by": "von {author}",
-      "fabled": "Legenden",
       "forced_private": "Du darfst keine öffentlichen Runden mehr betreten.",
       "free_tier_free": "Kostenlos",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Position zurücksetzen",
       "spectator": "Zuschauer",
       "title": "Sprache"
-    },
-    "fabled": {
-      "remove": "Legende entfernen",
-      "title": "Legenden"
     },
     "text": {
       "channels": {

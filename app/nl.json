@@ -106,7 +106,6 @@
     "error_audio2": "voicechat automatisch afspelen",
     "error_audio3": "Je moet misschien ook {0} in Firefox om het geluid van de app te horen.",
     "error_audio4": "verander een instelling",
-    "fabled": "Voeg een Fictief toe",
     "fullscreen": "Volledig scherm",
     "gather": "Verzamel Je Spelers",
     "gong_attention": "Aandachtsgong",
@@ -187,7 +186,6 @@
         "end": "Fout bij het beëindigen van het spel",
         "eyes_close": "Kan de ogen niet sluiten",
         "eyes_open": "Kan de ogen niet openen",
-        "fabled": "Fout bij het bijwerken van Fictieven",
         "generic": "Er is een fout opgetreden",
         "kick": "Kan gebruiker niet verwijderen",
         "link_text": "Er is een fout opgetreden bij het koppelen van je account aan Patreon. Probeer het opnieuw.",
@@ -294,9 +292,6 @@
       "title": "Selecteer een editie:",
       "upload_custom": "Upload Speciaal Script JSON"
     },
-    "fabled": {
-      "title": "Voeg een Legendarisch karakter toe"
-    },
     "help": {
       "button_send": "Verzend Sessie Debug Gegevens",
       "button_stop": "Stop met Verzenden van Debug Gegevens",
@@ -327,10 +322,7 @@
       "title": "Selecteer een {alignment}{target}",
       "title_alignment_e": "Slecht",
       "title_alignment_g": "Goed",
-      "title_alignment_r": "normaal",
-      "title_target_bluff": "bluffen",
-      "title_target_other": "karakter",
-      "title_target_player": "karakter voor {0}"
+      "title_alignment_r": "normaal"
     },
     "roles": {
       "button_distribute": "{0} karakters uitdelen",
@@ -448,7 +440,6 @@
         "modalSettings": "Instellingen",
         "modalShortcuts": "Snelkoppelingen",
         "modalUsers": "Gebruikers",
-        "modeFabled": "Voeg Legendarische toe",
         "modeGather": "Verzamel je spelers",
         "raiseHand": "Hand omhoog",
         "revealGrimoire": "Onthul Grimoire",
@@ -779,7 +770,6 @@
       "characters": "Karakters",
       "create_game": "Maak nieuw spel",
       "edition_by": "door {author}",
-      "fabled": "Legendarisch",
       "forced_private": "Je kunt niet langer spelen in publieke spellen.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Positie resetten",
       "spectator": "Toeschouwer",
       "title": "Spraak"
-    },
-    "fabled": {
-      "remove": "Verwijder Legendarisch",
-      "title": "Legendarisch"
     },
     "text": {
       "channels": {

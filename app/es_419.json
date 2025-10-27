@@ -106,7 +106,6 @@
     "error_audio2": "reproducción automática del chat de voz",
     "error_audio3": "Quizás tengas que {0} en Firefox para escuchar el audio de la app.",
     "error_audio4": "cambiar la configuración",
-    "fabled": "Agregar Legendario",
     "fullscreen": "Pantalla completa",
     "gather": "Reunir a los Jugadores",
     "gong_attention": "Gong de Atención",
@@ -187,7 +186,6 @@
         "end": "Error al terminar el juego",
         "eyes_close": "No se puede cerrar los ojos",
         "eyes_open": "No se puede abrir los ojos",
-        "fabled": "Error al actualizar el Legendario",
         "generic": "Ocurrió un error",
         "kick": "No se puede botar al usuario",
         "link_text": "Se produjo un error al vincular tu cuenta a Patreon. Por favor, intenta nuevamente.",
@@ -294,9 +292,6 @@
       "title": "Escoge una edición:",
       "upload_custom": "Cargar JSON de Escenario Personalizado"
     },
-    "fabled": {
-      "title": "Agregar Rol Legendario"
-    },
     "help": {
       "button_send": "Enviar Data de Depuración de la Sesión",
       "button_stop": "Detener el Envío de Data de Depuración",
@@ -327,10 +322,7 @@
       "title": "Escoge un {alignment} {target}",
       "title_alignment_e": "Malvado",
       "title_alignment_g": "Bueno",
-      "title_alignment_r": "normal",
-      "title_target_bluff": "coartada",
-      "title_target_other": "rol",
-      "title_target_player": "rol para {0}"
+      "title_alignment_r": "normal"
     },
     "roles": {
       "button_distribute": "Repartir {0} roles",
@@ -448,7 +440,6 @@
         "modalSettings": "Configuración",
         "modalShortcuts": "Atajos",
         "modalUsers": "Usuarios",
-        "modeFabled": "Agregar Legendario",
         "modeGather": "Reúne a tus Jugadores",
         "raiseHand": "Levantar la Mano",
         "revealGrimoire": "Revelar Grimorio",
@@ -779,7 +770,6 @@
       "characters": "Personajes",
       "create_game": "Crear Nuevo Juego",
       "edition_by": "por {author}",
-      "fabled": "Legendario",
       "forced_private": "Ya no puede jugar en juegos públicos.",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Resetear posición",
       "spectator": "Espectador",
       "title": "Voz"
-    },
-    "fabled": {
-      "remove": "Eliminar Legendario",
-      "title": "Legendario"
     },
     "text": {
       "channels": {

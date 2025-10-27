@@ -106,7 +106,6 @@
     "error_audio2": "보이스 채팅 자동 사용",
     "error_audio3": "파이어폭스에서 앱의 오디오를 들으려면 {0}이(가) 필요할 수도 있습니다.",
     "error_audio4": "설정을 변경하세요",
-    "fabled": "전설적인 캐릭터 추가",
     "fullscreen": "전체 화면",
     "gather": "플레이어 조정",
     "gong_attention": "주목 알림",
@@ -187,7 +186,6 @@
         "end": "게임 종료 오류",
         "eyes_close": "눈을 감을 수 없습니다",
         "eyes_open": "눈을 뜰 수 없습니다",
-        "fabled": "전설적인 캐릭터 업데이트 오류",
         "generic": "오류가 발생했습니다",
         "kick": "유저를 내보낼 수 없습니다",
         "link_text": "Patreon에 계정을 연결하는데 오류가 발생하였습니다. 다시 시도해주세요.",
@@ -294,9 +292,6 @@
       "title": "에디션 선택:",
       "upload_custom": "스크립트 JSON 업로드"
     },
-    "fabled": {
-      "title": "전설적인 캐릭터 추가"
-    },
     "help": {
       "button_send": "디버그 데이터 전송",
       "button_stop": "디버그 데이터 전송 중지",
@@ -327,10 +322,7 @@
       "title": "{alignment} {target} 선택",
       "title_alignment_e": "악한",
       "title_alignment_g": "선한",
-      "title_alignment_r": "일반",
-      "title_target_bluff": "속임수",
-      "title_target_other": "캐릭터",
-      "title_target_player": "캐릭터 ({0})"
+      "title_alignment_r": "일반"
     },
     "roles": {
       "button_distribute": "캐릭터 {0}개 나눠주기",
@@ -448,7 +440,6 @@
         "modalSettings": "설정",
         "modalShortcuts": "단축키",
         "modalUsers": "유저",
-        "modeFabled": "전설적인 캐릭터 추가",
         "modeGather": "플레이어 조정",
         "raiseHand": "손 들기",
         "revealGrimoire": "마도서 공개",

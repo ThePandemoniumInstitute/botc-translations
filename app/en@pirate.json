@@ -101,7 +101,6 @@
     "error_audio2": "playing yer mateys at ye, like it or not",
     "error_audio3": "Mayhap ye should {0} if ye be using firey foxes if ye want to hear yer mateys.",
     "error_audio4": "shift the rigging",
-    "fabled": "Bring Captains o' Legend aboard",
     "fullscreen": "See it big like",
     "gather": "Assemble Yer Crew",
     "gong_attention": "Ship's Bell",
@@ -178,7 +177,6 @@
         "end": "We couldn't bring ye in to port safe",
         "eyes_close": "Ye can't rest yer blinkers right now, sorry",
         "eyes_open": "Ye gotta keep yer blinkers shut for a second, sorry",
-        "fabled": "That Captain o' Legend is too important for yer measly crew. Try asking more nicely.",
         "generic": "We botched something",
         "kick": "Ye can't throw them overboard right now, try harder",
         "link_text": "Yer messenger pigeon got shot down so we dont know how much ye paid. Please try again.",
@@ -281,9 +279,6 @@
       "theme_generic": "Normal trimmings:",
       "title": "Pick yer sea:",
       "upload_custom": "Gimme Jason's Ledger"
-    },
-    "fabled": {
-      "title": "Invite a Captain o' Legend"
     },
     "help": {
       "button_send": "Send news to the carpenter",

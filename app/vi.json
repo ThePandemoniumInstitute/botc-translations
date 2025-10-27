@@ -106,7 +106,6 @@
     "error_audio2": "tự phát tin nhắn giọng nói",
     "error_audio3": "Bạn có thể cần phải {0} ở Firefox để nghe tiếng từ ứng dụng.",
     "error_audio4": "đổi cài đặt",
-    "fabled": "Thêm Thần Thoại",
     "fullscreen": "Toàn màn hình",
     "gather": "Tập Hợp Người Chơi",
     "gong_attention": "Chiêng Chú Ý",
@@ -187,7 +186,6 @@
         "end": "Lỗi kết thúc trò chơi",
         "eyes_close": "Không thể nhắm mắt",
         "eyes_open": "Không thể mở mắt",
-        "fabled": "Lỗi cập nhật thần thoại",
         "generic": "Đã xảy ra lỗi",
         "kick": "Không thể đuổi người dùng",
         "link_text": "Đã xảy ra lỗi khi liên kết tài khoản của bạn với Patreon. Vui lòng thử lại.",
@@ -213,7 +211,6 @@
     },
     "settings": {
       "shortcuts": {
-        "modeFabled": "Thêm Thần Thoại",
         "revealGrimoire": "Tiết Lộ Cấm Thư"
       },
       "tab_general": "Chung"

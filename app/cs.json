@@ -106,7 +106,6 @@
     "error_audio2": "automatické přehrávání hlasového hovoru",
     "error_audio3": "Pro poslech zvuku z aplikace může být nutné ve Firefoxu také použít {0}.",
     "error_audio4": "Změnit nastavení",
-    "fabled": "Přidat Báje",
     "fullscreen": "Režim celé obrazovky",
     "gather": "Svolat hráče",
     "gong_attention": "Pozornostní gong",
@@ -187,7 +186,6 @@
         "end": "Chyba při ukončení hry",
         "eyes_close": "Není možné zavřít oči",
         "eyes_open": "Není možné otevřít oči",
-        "fabled": "Chyba při aktualizaci Bájí",
         "generic": "Došlo k chybě",
         "kick": "Nelze vyhodit uživatele",
         "link_text": "Při propojování vašeho účtu s Patreonem došlo k chybě. Zkuste to prosím znovu.",
@@ -294,9 +292,6 @@
       "title": "Vybrat edici:",
       "upload_custom": "Nahrát vlastní scénář JSON"
     },
-    "fabled": {
-      "title": "Přidat Bájnou postavu"
-    },
     "help": {
       "button_send": "Odeslat data z relace pro ladění",
       "button_stop": "Přestat odesílat data z relace pro ladění",
@@ -327,10 +322,7 @@
       "title": "Vyberte {alignment} {target}",
       "title_alignment_e": "Zlý",
       "title_alignment_g": "Dobrý",
-      "title_alignment_r": "běžný",
-      "title_target_bluff": "blaf",
-      "title_target_other": "Postava",
-      "title_target_player": "Postava pro {0}"
+      "title_alignment_r": "běžný"
     },
     "roles": {
       "button_distribute": "Vynechat {0} postav",
@@ -448,7 +440,6 @@
         "modalSettings": "Nastavení",
         "modalShortcuts": "Zkratky",
         "modalUsers": "Uživatelé",
-        "modeFabled": "Přidat Báje",
         "modeGather": "Shromážděte své hráče",
         "raiseHand": "Zvednout ruku",
         "revealGrimoire": "Odhalit grimoár",
@@ -779,7 +770,6 @@
       "characters": "Postavy",
       "create_game": "Vytvořit novou hru",
       "edition_by": "vytvořil {author}",
-      "fabled": "Báje",
       "forced_private": "Už nemůžete hrát ve veřejných hrách.",
       "free_tier_free": "Zdarma",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Obnovit pozici",
       "spectator": "Sledující",
       "title": "Hlas"
-    },
-    "fabled": {
-      "remove": "Odstranit Báje",
-      "title": "Báje"
     },
     "text": {
       "channels": {

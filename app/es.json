@@ -106,7 +106,6 @@
     "error_audio2": "inicie automáticamente el chat de voz",
     "error_audio3": "Es posible que también tengas que {0} en Firefox para escuchar el audio de la aplicación.",
     "error_audio4": "cambiar algún ajuste",
-    "fabled": "Añadir Fábula",
     "fullscreen": "Pantalla completa",
     "gather": "Reúne a los jugadores",
     "gong_attention": "Tocar el gong",
@@ -187,7 +186,6 @@
         "end": "Error al finalizar la partida",
         "eyes_close": "No puedes cerrar los ojos",
         "eyes_open": "No puedes abrir los ojos",
-        "fabled": "Error al actualizar la Fábula",
         "generic": "Ha ocurrido un error",
         "kick": "No puedes expulsar al usuario",
         "link_text": "Ha habido un error al vincular la cuenta con Patreon. Inténtalo de nuevo, por favor.",
@@ -294,9 +292,6 @@
       "title": "Elige una edición:",
       "upload_custom": "Cargar guion JSON personalizado"
     },
-    "fabled": {
-      "title": "Agregar un personaje Fábula"
-    },
     "help": {
       "button_send": "Enviar los datos de depuración de la sesión",
       "button_stop": "Detener el envío de datos de depuración",
@@ -327,10 +322,7 @@
       "title": "Elige un {target} {alignment}",
       "title_alignment_e": "Malvado",
       "title_alignment_g": "Bueno",
-      "title_alignment_r": "normal",
-      "title_target_bluff": "farol",
-      "title_target_other": "personaje",
-      "title_target_player": "personaje para {0}"
+      "title_alignment_r": "normal"
     },
     "roles": {
       "button_distribute": "Distribuir {0} personajes",
@@ -448,7 +440,6 @@
         "modalSettings": "Ajustes",
         "modalShortcuts": "Atajos",
         "modalUsers": "Usuarios",
-        "modeFabled": "Agregar Fábula",
         "modeGather": "Reunir a los jugadores",
         "raiseHand": "Levantar la mano",
         "revealGrimoire": "Revelar Grimorio",
@@ -779,7 +770,6 @@
       "characters": "Personajes",
       "create_game": "Crear nueva partida",
       "edition_by": "Por {author}",
-      "fabled": "Fábula",
       "forced_private": "Ya no puedes jugar en partidas públicas.",
       "free_tier_free": "Gratuita",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "Reiniciar posición",
       "spectator": "Espectador",
       "title": "Voz"
-    },
-    "fabled": {
-      "remove": "Eliminar Fábula",
-      "title": "Fábula"
     },
     "text": {
       "channels": {

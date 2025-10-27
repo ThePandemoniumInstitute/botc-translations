@@ -106,7 +106,6 @@
     "error_audio2": "Lecture automatique du chat vocal",
     "error_audio3": "Vous devrez potentiellement {0} dans Firefox pour que le son de l'application fonctionne.",
     "error_audio4": "changer un paramètre",
-    "fabled": "Ajouter un Légendaire",
     "fullscreen": "Plein-Écran",
     "gather": "Rassemblez Vos Joueurs",
     "gong_attention": "Gong d’Attention",
@@ -187,7 +186,6 @@
         "end": "Erreur lors de la fin de la partie",
         "eyes_close": "Impossible de fermer les yeux",
         "eyes_open": "Impossible d'ouvrir les yeux",
-        "fabled": "Erreur lors de la mise à jour de Légendaire",
         "generic": "Une erreur s'est produite",
         "kick": "Impossible d'expulser l'utilisateur·ice",
         "link_text": "Une erreur est survenue en associant votre compte Patreon. Veuillez réessayer.",
@@ -294,9 +292,6 @@
       "title": "Choisir une édition :",
       "upload_custom": "Charger un JSON de Script Personnalisé"
     },
-    "fabled": {
-      "title": "Ajouter un rôle Légendaire"
-    },
     "help": {
       "button_send": "Envoyer les Données de Debug de la Partie",
       "button_stop": "Arrêter d'envoyer les Données de Debug",
@@ -327,10 +322,7 @@
       "title": "Sélectionnez un {target} ({alignment})",
       "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
-      "title_alignment_r": "normal",
-      "title_target_bluff": "bluff",
-      "title_target_other": "rôle",
-      "title_target_player": "rôle pour {0}"
+      "title_alignment_r": "normal"
     },
     "roles": {
       "button_distribute": "Distribuer {0} rôles",
@@ -448,7 +440,6 @@
         "modalSettings": "Paramètres",
         "modalShortcuts": "Raccourcis",
         "modalUsers": "Utilisateur·ices",
-        "modeFabled": "Ajouter un Légendaire",
         "modeGather": "Rassemblez Vos Joueurs",
         "raiseHand": "Lever la Main",
         "revealGrimoire": "Révéler le Grimoire",
@@ -777,7 +768,6 @@
       "characters": "Rôles",
       "create_game": "Créer une Nouvelle Partie",
       "edition_by": "par {author}",
-      "fabled": "Légendaire",
       "forced_private": "Vous ne pouvez plus jouer dans les parties publiques.",
       "free_tier_free": "Gratuit",
       "free_tier_patreon": "Patreon",
@@ -975,10 +965,6 @@
       "reset_position": "Réinitialiser la position",
       "spectator": "Spectateur·ice",
       "title": "Voix"
-    },
-    "fabled": {
-      "remove": "Enlever le Légendaire",
-      "title": "Légendaire"
     },
     "text": {
       "channels": {

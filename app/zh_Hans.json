@@ -106,7 +106,6 @@
     "error_audio2": "自动播放聊天语音",
     "error_audio3": "您可能需要在火狐浏览器开启“{0}”以接收音频。",
     "error_audio4": "改变设置",
-    "fabled": "加入传奇角色",
     "fullscreen": "全屏模式",
     "gather": "集合玩家",
     "gong_attention": "锣声通知",
@@ -187,7 +186,6 @@
         "end": "结束游戏的操作发生了错误",
         "eyes_close": "无法闭眼",
         "eyes_open": "无法睁眼",
-        "fabled": "更新传奇角色时发生了错误",
         "generic": "发生了一个错误",
         "kick": "无法踢出该用户",
         "link_text": "您的账号与Patreon建立连接的过程中发生了错误，请重新尝试。",
@@ -294,9 +292,6 @@
       "title": "选择一个剧本：",
       "upload_custom": "上传自定义剧本JSON"
     },
-    "fabled": {
-      "title": "添加一个传奇角色"
-    },
     "help": {
       "button_send": "发送游戏会话调试信息",
       "button_stop": "停止发送调试信息",
@@ -327,10 +322,7 @@
       "title": "选择一个 {alignment} {target}",
       "title_alignment_e": "邪恶阵营",
       "title_alignment_g": "善良阵营",
-      "title_alignment_r": "常规阵营",
-      "title_target_bluff": "伪装",
-      "title_target_other": "角色",
-      "title_target_player": "{0} 的角色"
+      "title_alignment_r": "常规阵营"
     },
     "roles": {
       "button_distribute": "发送 {0} 个角色",
@@ -448,7 +440,6 @@
         "modalSettings": "设置",
         "modalShortcuts": "快捷键",
         "modalUsers": "用户",
-        "modeFabled": "加入传奇角色",
         "modeGather": "集合玩家",
         "raiseHand": "举手",
         "revealGrimoire": "揭晓魔典",
@@ -779,7 +770,6 @@
       "characters": "角色",
       "create_game": "创建新游戏",
       "edition_by": "by {author}",
-      "fabled": "传奇角色",
       "forced_private": "您将再也无法加入并游玩一场公开游戏。",
       "free_tier_free": "免费",
       "free_tier_patreon": "Patreon",
@@ -977,10 +967,6 @@
       "reset_position": "重置位置",
       "spectator": "旁观者",
       "title": "语音"
-    },
-    "fabled": {
-      "remove": "移除传奇角色",
-      "title": "传奇角色"
     },
     "text": {
       "channels": {
