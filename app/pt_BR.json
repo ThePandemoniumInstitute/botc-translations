@@ -121,6 +121,7 @@
     "night_info": "Informação da Noite",
     "night_info_text": "O Narrador acordou você esta noite!",
     "night_sheet": "Ficha de Ordem da Noite",
+    "npcs": "Adicionar NPCs",
     "prompt_clear_player": "Tem certeza de que deseja remover todos os Personagens e Marcadores?",
     "prompt_clear_st": "O Grimório e os Marcadores serão apagados para todos, incluindo você. Tem certeza?",
     "prompt_clear_title": "Apagar Grimório e Marcadores",
@@ -324,7 +325,7 @@
       "error_traveller": "Nenhum Viajante correspondente a {0} encontrado.",
       "tab_character": "Personagens disponíveis",
       "tab_traveller": "Outros Viajantes",
-      "title": "Selecionar um {target} {alignment}",
+      "title": "Selecionar um {target} {type}{alignment}",
       "title_alignment_e": "Mau",
       "title_alignment_g": "Bom",
       "title_alignment_r": "Normal",
@@ -457,6 +458,7 @@
         "toggleAudioMuted": "Silenciar microfone/Apertar para falar",
         "toggleEdition": "Selecionar edição",
         "toggleFullscreen": "Tela cheia",
+        "toggleNPCs": "Adicionar Personagem Não Jogador",
         "toggleNight": "Alternar Fase da Noite",
         "toggleNightOrder": "Ordem da Noite",
         "toggleNightSignal": "Mostrar informação da Noite",
@@ -769,6 +771,7 @@
     },
     "lobby": {
       "bootlegger_title": "Atenção!",
+      "bootlegger_warning": "Esta sessão está usando o Loric Bootlegger, o que significa que ela possui regras ou personagens personalizados fora da versão oficial, sendo mais indicada para jogadores experientes.\nSe você é novo em Blood on the Clocktower, recomendamos se familiarizar primeiro com as regras e personagens padrão, usando um dos roteiros oficiais base. Trouble Brewing é perfeito para a melhor experiência de primeira partida!\nDe qualquer forma, bem-vindo — estamos felizes que você esteja aqui!\nTem certeza de que deseja entrar nesta sessão?",
       "button_create_game": "Criar jogo",
       "button_help": "Ajuda",
       "button_join_game": "Juntar-se a um jogo privado",
@@ -790,6 +793,7 @@
       "language": "Idioma",
       "loading": "Carregando jogos...",
       "no_games": "Nenhuma partida pública encontrada.",
+      "npcs": "Personagem Não Jogador",
       "page": "Página {page} de {total}",
       "phase": "Fase",
       "players": "Jogadores",
@@ -981,7 +985,8 @@
     },
     "npcs": {
       "remove_fabled": "Remover Lenda",
-      "remove_loric": "Remover Mito"
+      "remove_loric": "Remover Mito",
+      "title": "NPCs."
     },
     "text": {
       "channels": {
