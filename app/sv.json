@@ -770,6 +770,8 @@
       "title": "Ställ om din dators klocka"
     },
     "lobby": {
+      "bootlegger_title": "Observera!",
+      "bootlegger_warning": "Den här sessionen använder Sägnen Hembrännaren, vilket innebär att den har hembryggda regler eller roller som inte är officiella, och är mer lämpad för erfarna spelare.\nOm du inte spelar Blood on the Clocktower så mycket så rekommenderar vi att du vänjer dig vid de officiella reglerna och rollerna först, i något av de officiella manusen. Trouble Brewing är perfekt för nya spelare!\nHur som helst är du välkommen – vi är glada att ha dig här!\nVill du verkligen gå med i den här sessionen?",
       "button_create_game": "Skapa session",
       "button_help": "Hjälp",
       "button_join_game": "Hitta privat session",
@@ -791,6 +793,7 @@
       "language": "Språk",
       "loading": "Laddar sessioner…",
       "no_games": "Inga öppna sessioner hittades.",
+      "npcs": "Berättarroller",
       "page": "Sida {page} av {total}",
       "phase": "Fas",
       "players": "Spelare",
@@ -895,6 +898,7 @@
     "locked": "Berättare och spelare",
     "locked_text": "Bara sittande spelare och berättare kan ansluta till sessionen.",
     "name_placeholder": "Sessionens namn",
+    "open_text": "Alla kan gå med i sessionen.",
     "prompt_public_text": "Vill du verkligen göra sessionen öppen för alla?\nDet innebär att vem som helst kan se och ansluta till sessionen.",
     "prompt_public_title": "Gör sessionen öppen",
     "server": "Chattserver:",
@@ -978,6 +982,11 @@
       "reset_position": "Återställ läge",
       "spectator": "Åskådare",
       "title": "Röst"
+    },
+    "npcs": {
+      "remove_fabled": "Ta bort Fabeln",
+      "remove_loric": "Ta bort Sägnen",
+      "title": "Berättarroller"
     },
     "text": {
       "channels": {
