@@ -333,6 +333,11 @@
       "flavor": "Allmosor till en fattig, min gode herre? Har du en slant över, madam? Tack. Gud signe dig! Du är en ädel själ! Idag får jag mig ett rejält skrovmål!",
       "name": "Tiggaren"
     },
+    "bigwig": {
+      "ability": "Nominerade väljer en spelare: fram till röstning får bara hen prata och hen är galen att den nominerade är god, eller kanske dör.",
+      "flavor": "Fåfängan frågar om det är populärt. Fegheten frågar om det är säkert. Samvetet frågar om det är rätt. Vem av oss frågar om det är sant?",
+      "name": "Talmannen"
+    },
     "bishop": {
       "ability": "Bara berättaren kan nominera. Minst 1 motspelare måste nomineras varje dag.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
@@ -357,7 +362,7 @@
     },
     "bootlegger": {
       "ability": "Det här manuset har hembryggda roller eller regler.",
-      "flavor": "Jag har med mig senaste leveransen hemifrån, en brygd jag kallar ”Barrowfog”. Vill du smaka?",
+      "flavor": "Jag är ingen smugglare; jag är missionär. Jag har valt att vara lydig och att våga möta faror. När lagen säger nej men hjärtat säger ja så lyder jag hjärtat.",
       "name": "Hembrännaren"
     },
     "bountyhunter": {
@@ -582,7 +587,7 @@
     },
     "fool": {
       "ability": "Första gången du dör så överlever du.",
-      "flavor": "… och kungen sa ”Vafalls?! Jag har då aldrig haft gummipantalonger, för att inte tala om någon skinnflöjt!” Haha!",
+      "flavor": "… och kungen sa ’Vafalls?! Jag har då aldrig haft gummipantalonger, för att inte tala om någon skinnflöjt!’ Haha!",
       "name": "Narren"
     },
     "fortuneteller": {
@@ -605,7 +610,7 @@
     },
     "gardener": {
       "ability": "Berättaren bestämmer en eller flera spelares roller.",
-      "flavor": "Nej men det här går ju inte för sig. Munkaluvan har blandats med ulvatanden, och odörten kväver julrosen! Kära någon, det är bäst att börja om. Hämta saxen.",
+      "flavor": "När ord blir tomma och den skenheliga blir grym, ta tillflykt i trädgården. De gamlas sista kärlek är blommor och stenar.",
       "name": "Trädgårdsmästaren"
     },
     "general": {
@@ -1139,7 +1144,7 @@
     },
     "stormcatcher": {
       "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är.",
-      "first": "Meddela i början av natten vilken roll som gynnas av Stormfångaren. Markera den spelaren som *SÄKER*. Väck de onda spelarna, visa rollbrickan och peka på den markerade spelaren.\nOm rollen inte är i spel, väck de onda spelarna och visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* samt rollbrickan.",
+      "first": "Meddela i början av natten vilken roll som är stormfångad. Markera den spelaren som *STORMFÅNGAD*. Väck de onda spelarna, visa rollbrickan och peka på den markerade spelaren. Om rollen inte är i spel, väck de onda spelarna och visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* samt rollbrickan.",
       "flavor": "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat.",
       "name": "Stormfångaren"
     },
@@ -1173,6 +1178,11 @@
       "flavor": "Jag tror jag vet vad problemet är. Som tur är så har jag en idé! En smärre justering är allt som krävs för att få katapulten att skjuta dubbelt så långt…",
       "name": "Mekaren",
       "other": "Mekaren kan dö. :reminder:"
+    },
+    "tor": {
+      "first": "Om en spelare dog inatt, visa kortet *DU ÄR* följt av spelarens rollbricka och tummen upp eller ner.",
+      "flavor": "Med åskan som min röst och blixten som mitt svärd ska jag, den eviga väktaren, frossa på de dårar som vågar närma sig den förbjudna porten. Skåda mitt heliga mål! Att utrota skalbaggen från den steniga jordens buk, att snärja den i ett nät av stjärnor, på kullen där himmel möter jord.",
+      "name": "Väktaren"
     },
     "towncrier": {
       "ability": "Varje natt* får du veta om en Kumpan nominerade idag.",
@@ -1214,7 +1224,7 @@
     "vizier": {
       "ability": "Alla vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstade kan du välja att avrätta direkt.",
       "first": "Meddela öppet vem som är Vesiren.",
-      "flavor": "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ”rättvisa” och ”nåd”. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig.",
+      "flavor": "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ’rättvisa’ och ’nåd’. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig.",
       "name": "Vesiren"
     },
     "vortox": {
