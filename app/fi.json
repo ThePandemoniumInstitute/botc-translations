@@ -351,6 +351,10 @@
     "overlay": {
       "night_info_received": "Yötieto vastaanotettu",
       "night_info_sent": "Yötieto lähetetty"
+    },
+    "reminders": {
+      "edit_placeholder": "Mukautettu muistiinpano",
+      "edit_text": "Muokkaa mukautettua muistiinpanoa {0}"
     }
   },
   "session": {
