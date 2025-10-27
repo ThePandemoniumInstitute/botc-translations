@@ -38,8 +38,8 @@
         "label": "마도서 열람",
         "title": "관전자의 마도서 열람 여부",
         "value_0": "요청 시 허용",
-        "value_1": "불가능",
-        "value_2": "가능"
+        "value_1": "가능",
+        "value_2": "불가"
       },
       "streaming": {
         "label": "게임 스트리밍",
@@ -319,7 +319,7 @@
       "error_traveller": "{0}와(과) 일치하는 여행자를 찾을 수 없습니다.",
       "tab_character": "사용 가능한 캐릭터",
       "tab_traveller": "기타 여행자",
-      "title": "{alignment} {target} 선택",
+      "title": "{target} {alignment}{type} 선택",
       "title_alignment_e": "악한",
       "title_alignment_g": "선한",
       "title_alignment_r": "일반"
@@ -710,7 +710,152 @@
       "accusation": "발언",
       "button_chat": "대화 재개",
       "button_countdown": "카운트다운",
-      "button_defense": "반론하기"
+      "button_defense": "변론 시작",
+      "button_hand_down": "손 내리기",
+      "button_hand_up": "손 들기",
+      "button_mark": "처형 예정",
+      "button_mark_remove": "표시 제거",
+      "button_pause": "일시정지",
+      "button_reset": "초기화",
+      "button_restart": "다시 시작",
+      "button_resume": "투표 재개",
+      "button_start": "시작",
+      "countdown_go": "시작",
+      "defense": "변론",
+      "highscore_placeholder": "최다 득표",
+      "highscore_text": "오늘의 투표의 최다 득표 수를 입력하세요.\n 비워 두면 기본값인 생존 플레이어 과반수가 적용됩니다.",
+      "highscore_title": "최다 득표 변경",
+      "majority": "과반수는 {0}표 입니다|과반수는 {0}표 입니다",
+      "no_majority": "과반수 불필요",
+      "pointing": "{0}을(를) 가리킴",
+      "secret": "투표는 비공개입니다.",
+      "secret_vote": "비밀 투표",
+      "votes": "동표는 {0}표이며, 처형에는 {1}표가 필요합니다|동표는 {0}표이며, 처형에는 {1}표가 필요합니다",
+      "warning_shortcuts": "단축키를 사용할 수 없습니다!"
+    },
+    "whisper": {
+      "muted": "이 플레이어는 음성 채팅에서 음소거(발언 제한) 상태입니다.",
+      "video_muted": "이 플레이어는 카메라 일시 중지/비활성화 상태입니다."
+    }
+  },
+  "pages": {
+    "banned": {
+      "description": "최근 행동으로 인해 계정이 {0} 되었으며, 더 이상 앱에서 플레이할 수 없습니다.",
+      "description_banned": "정지",
+      "expires": "귀하의 계정은 다음 기한까지 정지되었습니다:",
+      "expires2": "반복된 규정 위반을 삼가해 주십시오. 계속될 경우 영구 정지 조치가 내려질 수 있습니다.",
+      "footer1": "지원이 필요하시면 {0}를 통해 문의해 주십시오.",
+      "footer2": "기억하세요:",
+      "footer3": "살인은 우아하게, 죽음은 품위있게.",
+      "permanent": "귀하의 계정은 영구 정지되었습니다.",
+      "reason": "사유는 다음과 같습니다:",
+      "title": "계정 정지"
+    },
+    "clock": {
+      "description": "현재 컴퓨터 시각이 {0}만큼 맞지 않습니다. 이로 인해 온라인 플레이 중 앱이 오작동할 수 있습니다. 컴퓨터 시각은 {1}에서 동기화할 수 있습니다. 동기화가 완료되면 앱을 새로 고침하세요.",
+      "description_mins": "1분|{n}분",
+      "description_online": "온라인",
+      "return": "앱으로 돌아가기",
+      "title": "컴퓨터 시계를 조정해 주세요"
+    },
+    "lobby": {
+      "button_create_game": "게임 생성하기",
+      "button_help": "도움말",
+      "button_join_game": "비공개 게임 참가하기",
+      "button_local_play": "로컬 게임",
+      "button_mod": "조정",
+      "button_quit": "나가기",
+      "button_settings": "설정",
+      "button_verify": "계정 인증",
+      "characters": "캐릭터",
+      "create_game": "새 게임 생성하기",
+      "edition_by": "{author} 지음",
+      "forced_private": "귀하는 더이상 공개 게임에 참가할 수 없습니다.",
+      "free_tier_free": "무료 등급",
+      "free_tier_patreon": "Patreon",
+      "free_tier_unverified": "귀하는 {0} 계정입니다. 왼쪽의 버튼을 클릭해 위의 어떤 게임이든 플레이할 수 있습니다(구독이 필요한 게임은 제외). 직접 게임을 호스팅하려면 {1}에서 구독을 신청하세요.",
+      "free_tier_verified": "귀하는 {0} 계정입니다. 공개 게임에서 플레이하려면 먼저 {1}이(가) 필요합니다. 직접 게임을 호스팅하려면 {2}에서 구독을 신청하세요.",
+      "free_tier_verify": "계정 인증",
+      "game": "게임",
+      "language": "언어",
+      "loading": "게임을 불러오는 중...",
+      "no_games": "공개 게임이 없습니다.",
+      "page": "{total} 중 {page} 페이지",
+      "phase": "단계",
+      "players": "플레이어",
+      "script": "스크립트",
+      "show_private": "비공개 게임 표시",
+      "spectators": "관전자",
+      "stats": "{1} {2} 게임에 {0}명의 유저가 있습니다",
+      "stats_public": "공개",
+      "storyteller": "이야기꾼",
+      "subscription": "구독 등급",
+      "updating": "업데이트 중...",
+      "welcome": "{0}에 오신 것을 환영합니다!"
+    },
+    "login": {
+      "accept": "{0}, {1} & {2}을(를) 수락해주세요.",
+      "description": "계속하려면 로그인하거나 계정을 생성해 주세요:",
+      "email": "이메일 주소",
+      "error_captcha": "captcha 인증을 완료해주세요",
+      "error_password": "비밀번호가 일치하지 않습니다",
+      "login": "로그인",
+      "password": "비밀번호",
+      "password_confirm": "비밀번호 승인",
+      "password_reset": "연결된 이메일 주소로 비밀번호 재설정 메일을 전송했습니다.",
+      "recover_password": "비밀번호 찾기",
+      "register": "회원 가입",
+      "subscribe": "뉴스레터 구독",
+      "title": "시계탑에 흐른 피 온라인에 오신 것을 환영합니다 - 개발 중!",
+      "username": "유저명"
+    },
+    "update": {
+      "description": "현재 사용 중인 버전은 {0}이며, 최신 버전은 {1}입니다.",
+      "download": "최신 {label}용 버전을 여기에서 다운로드하세요.",
+      "reload": "업데이트하려면 페이지를 새로고침하거나 브라우저 캐시를 지워 주세요.",
+      "title": "앱을 업데이트 해주세요"
+    },
+    "verification": {
+      "button_resend": "코드 재전송",
+      "code": "숫자 6개로 된 코드",
+      "description": "계속하려면 계정을 인증해 주세요. 이메일로 코드를 전송한 코드를 입력하세요. 해당 이메일로 접속할 수 없으신가요?",
+      "email_success": "성공적으로 전송되었습니다.",
+      "error_429": "최소 {0}초 경과 후 다시 시도해 주십시오.",
+      "error_disposable": "임시/가상 이메일 주소는 계정 인증용으로 사용할 수 없습니다.",
+      "error_verified": "인증이 완료된 계정입니다",
+      "error_wrong": "잘못된 코드입니다. 다시 시도해주세요.",
+      "link": "여기에서 변경할 수 있습니다."
+    }
+  },
+  "player": {
+    "menu": {
+      "alignment": "진영 변경",
+      "character": "캐릭터 변경",
+      "chat": "밀담 요청",
+      "empty": "자리 비우기",
+      "empty_text": "게임 진행 중입니다. 해당 플레이어를 자리에서 제거하시겠습니까?",
+      "empty_title": "{0} 비우기",
+      "follow": "플레이어 따라가기",
+      "nominate": "본인 지명",
+      "unfollow": "따라가기 해제",
+      "wake": "일어나기",
+      "whisper": "귓속말 보내기"
+    },
+    "name": {
+      "claim": "클릭하여 주장하기",
+      "connecting": "이 플레이어는 음성 채팅에 연결 중입니다.",
+      "follow": "당신은 해당 플레이어를 따라가고 있습니다.",
+      "listening": "이 플레이어는 음성 채팅을 청취 중입니다.",
+      "move": "해당 플레이어를 옮깁니다.",
+      "offline": "이 플레이어는 현재 오프라인 상태입니다.",
+      "remove": "이 플레이어를 제거합니다.",
+      "remove_text": "{0}번 자리를 정말 제거하시겠습니까?\n 현재 {1}이(가) 해당 자리에 있습니다.",
+      "remove_title": "자리 제거하기",
+      "seat_text": "(이 내용은 당신만 볼 수 있습니다)",
+      "seat_title": "자리 이름 변경"
+    },
+    "overlay": {
+      "eyes_open": "눈을 뜨고 있음"
     }
   }
 }
