@@ -16,14 +16,14 @@
     "button_continue": "다음",
     "button_logout": "로그아웃",
     "button_search": "검색",
-    "button_send": "보내기",
+    "button_send": "전송",
     "cookie_policy": "쿠키 정책",
     "privacy_policy": "개인정보처리방침",
     "session-tags": {
       "cameras": {
         "label": "카메라",
         "title": "이 방에서의 카메라 사용 여부",
-        "value_0": "선택",
+        "value_0": "선택 사항",
         "value_1": "필수",
         "value_2": "꺼짐"
       },
@@ -31,43 +31,43 @@
         "label": "난이도",
         "title": "이 방의 참가자에게 필요한 게임 숙련도",
         "value_0": "보통",
-        "value_1": "베테랑",
+        "value_1": "고수",
         "value_2": "초보"
       },
       "grimoire": {
-        "label": "마도서",
+        "label": "마도서 열람",
         "title": "관전자의 마도서 열람 여부",
-        "value_0": "확인 후 허용",
+        "value_0": "요청 시 허용",
         "value_1": "불가능",
         "value_2": "가능"
       },
       "streaming": {
-        "label": "스트리밍 중",
-        "title": "이 방의 게임이 라이브로 스트리밍될 예정입니다",
-        "value_0": "스트리밍 안 함",
-        "value_1": "스트리밍 함"
+        "label": "게임 스트리밍",
+        "title": "게임의 라이브 스트리밍 여부",
+        "value_0": "안 함",
+        "value_1": "함"
       },
       "subscription": {
         "label": "구독 필요",
-        "title": "이 게임에 참가하려면 구독이 필요합니다"
+        "title": "이 게임에 참가하려면 구독해야 합니다"
       },
       "travellers": {
         "label": "여행자",
-        "title": "이 방에서의 여행자 허용 여부",
-        "value_0": "선택",
+        "title": "이 방에서의 여행자 참가 여부",
+        "value_0": "선택 사항",
         "value_1": "허용",
-        "value_2": "금지"
+        "value_2": "불가"
       }
     },
     "terms_of_use": "이용약관",
     "title": "시계탑에 흐른 피 온라인",
-    "trademark": "\"시계탑에 흐른 피\"는 스티븐 메드웨이(Steven Medway)와 판데모니움 인스티튜트(The Pandemonium Institute)의 대표 게임입니다.",
+    "trademark": "\"시계탑에 흐른 피\"는 스티븐 메드웨이(Steven Medway)와 판데모니움 인스티튜트(The Pandemonium Institute, 이하 TPI)의 대표 게임입니다.",
     "unnamed_user": "이름 없는 유저"
   },
   "grimoire": {
     "abilities": {
       "distribute-roles": "캐릭터 배정",
-      "ghost-votes": "망자 투표권 되돌리기",
+      "ghost-votes": "사망자 투표권 되돌리기",
       "grimoire": "마도서 보여주기",
       "open-eyes": "눈 뜨기/감기",
       "pointing": "플레이어 선택"
