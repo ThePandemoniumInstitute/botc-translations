@@ -38,8 +38,8 @@
         "label": "Accès au Grimoire",
         "title": "Si les spectateurs ont accès au Grimoire",
         "value_0": "Demander",
-        "value_1": "Non",
-        "value_2": "Oui"
+        "value_1": "Oui",
+        "value_2": "Non"
       },
       "streaming": {
         "label": "Partie Streamée",
