@@ -158,6 +158,7 @@
     "abnormal": "Niepoprawne działanie",
     "abouttodie": "Niebawem zginie",
     "actstwice": "Działa dwa razy",
+    "aligned": "Połączony",
     "alive": "Żywy",
     "amigo": "Amigo",
     "cannotdie": "Nie może umrzeć",
@@ -215,6 +216,7 @@
     "outsider": "Outsider",
     "poisoned": "Zatruty",
     "protected": "Chroniony",
+    "redherring": "Podpucha",
     "registerfalsely": "Pokazał się Niepoprawnie?",
     "safe": "Bezpieczny",
     "soberhealthy": "Trzeźwy i Zdrowy",
@@ -233,9 +235,11 @@
   "roles": {
     "acrobat": {
       "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz.",
-      "name": "Akrobata"
+      "name": "Akrobata",
+      "other": "Akrobata wybiera gracza. :reminder:"
     },
     "alchemist": {
+      "first": "Pokaż kartę *JESTEŚ* i żeton postaci Sługusa.",
       "flavor": "Odwiedź wnętrze Ziemi. Poprzez oczyszczenie odnajdziesz ukryty kamień. Ponad złotem leży czerwień. Kether w Malkuth.",
       "name": "Alchemik"
     },
