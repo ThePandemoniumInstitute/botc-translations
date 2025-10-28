@@ -87,6 +87,11 @@
     "baron": {
       "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderów]"
     },
+    "bigwig": {
+      "ability": "Każdy nominowany wybiera gracza:do momentu głosowania, tylko on może mówić i ma obsesję, że nominowany jest dobry albo może umrzeć.",
+      "flavor": "Próżność pyta: „Czy to popularne?” Tchórzostwo pyta: „Czy to bezpieczne?” Sumienie pyta: „Czy to słuszne?” Kto z nas zapyta: „Czy to prawda?”",
+      "name": "Wielka Peruka"
+    },
     "dawn": {
       "name": "Świt"
     },
