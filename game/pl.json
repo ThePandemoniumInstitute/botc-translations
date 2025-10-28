@@ -72,6 +72,12 @@
     "townsfolk": "Mieszczanin"
   },
   "roles": {
+    "artist": {
+      "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie."
+    },
+    "banshee": {
+      "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
+    },
     "dawn": {
       "name": "Świt"
     },
@@ -80,6 +86,12 @@
     },
     "fortuneteller": {
       "name": "Wróżbita"
+    },
+    "gambler": {
+      "ability": "Każdej nocy*, wybierz gracza i odgadnij jego postać: jeżeli źle odgadniesz, umierasz."
+    },
+    "gangster": {
+      "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi."
     },
     "goon": {
       "name": "Zbir"
