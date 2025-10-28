@@ -150,9 +150,11 @@
     "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon.",
     "riot-sage": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności, ale nie umiera.",
     "riot-soldier": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji Żołnierza, dobro wygrywa.",
+    "summoner-zombuul": "Jeżeli Przywoływacz przyzwie martwego gracza w Zombuula, Zombuul ma już \"raz umarł\".",
     "vizier-zealot": "Zelota może pokazać się jako zły dla Wezyra."
   },
   "reminders": {
+    "2nd": "2gi",
     "3attacks": "3 Ataki",
     "3votes": "3 Głosy",
     "abnormal": "Niepoprawne działanie",
@@ -182,9 +184,11 @@
     "drunk3": "Pijany 3",
     "everyoneisdrunk": "Wszyscy są pijani",
     "evil": "Zły",
+    "evilwakes": "Zło się Budzi",
     "falseinfo": "Fałszywe informacje",
     "fauxpaw": "Faux Paw",
     "fear": "Zastraszony",
+    "finalnightnoattack": "Ostatnia Noc: Brak Ataków",
     "friend": "Przyjaciel",
     "good": "Dobry",
     "goodplayerexecuted": "Dobry gracz został stracony",
