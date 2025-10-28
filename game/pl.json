@@ -63,6 +63,7 @@
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Yaggababble, Yaggababble nie zabija tej nocy.",
     "fanggu-scarletwoman": "Jeśli w grze byłyby dwa Demony, z których jeden był Kochanicą diabła, Kochanica diabła pozostaje Kochanicą diabła.",
     "farmer-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzedniej nocy): Farmer, jeśli wybrany, używa swojej umiejętności ale nie umiera.",
+    "goon-pithag": "Jeżeli Jędza przemieni złego gracza w Zbira, nie może on zmienić się w dobrego w wyniku swojej umiejętności.",
     "lilmonsta-scarletwoman": "Jeżeli Potforek umrze przy 5 lub ponad 5 żywych graczach, Kochanica Diabła opiekuje się Potforkiem do końca gry.",
     "plaguedoctor-scarletwoman": "Jeżeli Bajarz miał by dostać umiejętność Kochanicy Diabła, otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
@@ -79,6 +80,9 @@
     },
     "fortuneteller": {
       "name": "Wróżbita"
+    },
+    "goon": {
+      "name": "Zbir"
     },
     "scarletwoman": {
       "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)",
