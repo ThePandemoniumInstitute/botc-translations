@@ -1180,6 +1180,7 @@
       "other": "Mekaren kan dö. :reminder:"
     },
     "tor": {
+      "ability": "Spelare vet inte sin roll eller sitt lag. De får veta det när de har dött.",
       "first": "Om en spelare dog inatt, visa kortet *DU ÄR* följt av spelarens rollbricka och tummen upp eller ner.",
       "flavor": "Med åskan som min röst och blixten som mitt svärd ska jag, den eviga väktaren, frossa på de dårar som vågar närma sig den förbjudna porten. Skåda mitt heliga mål! Att utrota skalbaggen från den steniga jordens buk, att snärja den i ett nät av stjärnor, på kullen där himmel möter jord.",
       "name": "Väktaren"
