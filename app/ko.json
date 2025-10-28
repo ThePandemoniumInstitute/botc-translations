@@ -330,6 +330,7 @@
       "title_alignment_g": "선한",
       "title_alignment_r": "일반",
       "title_target": "{0}의",
+      "title_type_bluff": "속임수",
       "title_type_character": "캐릭터"
     },
     "roles": {
@@ -927,7 +928,8 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "이 탭을 드래그 하여 원하는 곳에 둘 수 있습니다."
+      "drag": "이 탭을 드래그 하여 원하는 곳에 둘 수 있습니다.",
+      "title": "속임수"
     },
     "character": {
       "download": "스크립트 JSON 다운로드",
