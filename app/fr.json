@@ -890,6 +890,7 @@
     "locked": "Conteur·euses et Joueur·euses",
     "locked_text": "Seuls les joueur·euses assi·ses et les Conteur·euses actuel·les peuvent rejoindre la session.",
     "name_placeholder": "Nom de la session de jeu",
+    "open_text": "Tous le monde peut rejoindre cette session.",
     "prompt_public_text": "Êtes-vous sûr de vouloir rendre la session de jeu publique ?\n Cela permettra à n’importe qui de voir et de rejoindre votre partie.",
     "prompt_public_title": "Rendre la Session de Jeu Publique",
     "server": "Serveur de Chat :",
