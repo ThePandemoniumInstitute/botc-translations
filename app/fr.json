@@ -1037,6 +1037,7 @@
       "toggle": "Basculer sur la fiche de nuit"
     },
     "npcs": {
+      "remove_fabled": "Retirer Légendaire",
       "title": "PNJs"
     },
     "text": {
