@@ -38,8 +38,8 @@
         "label": "Acceso al Grimorio",
         "title": "Si los espectadores reciben acceso al Grimorio",
         "value_0": "Consultar",
-        "value_1": "No",
-        "value_2": "Sí"
+        "value_1": "Sí",
+        "value_2": "No"
       },
       "streaming": {
         "label": "El juego se transmite en directo",
@@ -74,6 +74,7 @@
     },
     "demon": "Demonio|Demonios",
     "fabled": "Legendario|Legendarios",
+    "loric": "Loric|Loric",
     "minion": "Secuaz|Secuaces",
     "outsider": "Extranjero|Extranjeros",
     "phases": {
