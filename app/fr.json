@@ -322,7 +322,8 @@
       "title": "Sélectionnez un {target} ({alignment})",
       "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
-      "title_alignment_r": "normal"
+      "title_alignment_r": "normal",
+      "title_type_bluff": "bluff"
     },
     "roles": {
       "button_distribute": "Distribuer {0} rôles",
@@ -406,6 +407,7 @@
       "setting_ptt": "Appuyer Pour Parler",
       "setting_reminder_zoom": "Taille du Jeton d'Aide-Mémoire",
       "setting_reminders": "Empiler les Jetons d'Aide-Mémoire",
+      "setting_reminders_always": "Toujours",
       "setting_reminders_auto": "Automatique",
       "setting_reminders_never": "Jamais",
       "setting_reveal": "Afficher les Caméras pendant la Révélation du Grimoire",
