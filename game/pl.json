@@ -630,6 +630,7 @@
     },
     "gnome": {
       "ability": "Gdy wchodzisz do gry, wszyscy gracze poznają jednego gracza z twojej drużyny. Możesz zabić kogokolwiek, kto go nominuje.",
+      "flavor": "„- Ha – zaciekawił się Jaskier, który właśnie zbliżył się do nich. – Więc to są te słynne tajne runy krasnoludów? Co głosi ten napis?\n– Na pohybel skur...\"\n\t - Andrzej Sapkowski, \"Chrzest ognia\" (Saga o Wiedźminie)",
       "name": "Krasnal"
     },
     "goblin": {
