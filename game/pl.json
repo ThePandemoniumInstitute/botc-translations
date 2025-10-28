@@ -465,7 +465,8 @@
     },
     "deusexfiasco": {
       "ability": "Przynajmniej raz w tej grze Bajarz popełni błąd, poprawi go i ogłosi to publicznie.",
-      "flavor": "To nie błąd, to funkcja. To nie usterka, tylko poprawka. To nie jest zepsute, to po prostu tak ma."
+      "flavor": "To nie błąd, to funkcja. To nie usterka, tylko poprawka. To nie jest zepsute, to po prostu tak ma.",
+      "name": "Deus ex Fiasco"
     },
     "deviant": {
       "ability": "Jeżeli dzisiaj byłeś zabawny, to nie można cię wygnać.",
@@ -629,6 +630,7 @@
     },
     "golem": {
       "ability": "Możesz nominować tylko raz na grę. Jeżeli nominowana przez ciebie osoba nie jest Demonem, umiera.",
+      "flavor": "Golem pomóc? Golem roztrzaskać. Golem pomóc.",
       "name": "Golem"
     },
     "goon": {
