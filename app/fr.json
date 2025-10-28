@@ -120,6 +120,7 @@
     "night_info": "Info de la Nuit",
     "night_info_text": "La Conteuse vous a réveillé cette nuit !",
     "night_sheet": "Feuille d’Ordre de Nuit",
+    "npcs": "Ajouter des PNJs",
     "prompt_clear_player": "Êtes-vous sûr de vouloir supprimer tous les rôles et jetons d'aide-mémoire des joueurs ?",
     "prompt_clear_st": "Cela réinitialisera le Grimoire et les jetons d'aide-mémoire pour vous et pour les autres. Êtes-vous sûr ?",
     "prompt_clear_title": "Effacer le Grimoire et les Jetons d'Aide-Mémoire",
@@ -304,6 +305,9 @@
       "text1": "Cette application (version {version}) est actuellement en cours de développement.",
       "text2": "Vous pouvez envoyer vos commentaires via la page {0} ou {1}. Vous pouvez mettre à jour l’adresse e-mail et le mot de passe de votre compte {2}.Si vous souhaitez acheter le jeu physique, rendez-vous sur {3}.",
       "welcome": "Bienvenue à {0} !"
+    },
+    "npc": {
+      "title": "Ajouter un personnage non-joueur"
     },
     "reminder": {
       "custom_favorite": "Enregistré dans les favoris",
