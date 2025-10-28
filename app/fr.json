@@ -251,7 +251,7 @@
         "storyteller_text": "Voulez vous devenir la Conteuse et voir le Grimoire ?",
         "storyteller_title": "Demander à être promue Conteuse",
         "terms": "Conditions d'Utilisation Mises à Jour",
-        "username_placeholder": "Nom d'utilisateur",
+        "username_placeholder": "Pseudonyme",
         "username_text": "Veuillez entrer votre Pseudonyme :",
         "username_title": "Entrez votre Pseudonyme"
       },
@@ -268,7 +268,7 @@
       "button_paste": "Coller",
       "button_upload": "Charger",
       "button_url": "URL",
-      "clear_description": "Cela réinitialisera le Grimoire et les jetons d'aide-mémoire pour vous et pour tous les autres. Êtes-vous sûr ?",
+      "clear_description": "Cela réinitialisera le Grimoire et les jetons d'aide-mémoire pour vous et pour les autres. Êtes-vous sûr ?",
       "clear_title": "Réinitialiser le Grimoire et les jetons d'aide-mémoire",
       "custom_placeholder": "URL du Script Personnalisé",
       "custom_text": "Entrer l'URL d'un fichier custom-script.json",
@@ -307,7 +307,7 @@
       "welcome": "Bienvenue à {0} !"
     },
     "npc": {
-      "title": "Ajouter un personnage non-joueur"
+      "title": "Ajouter un Personnage Non-Joueur"
     },
     "reminder": {
       "custom_favorite": "Enregistré dans les favoris",
@@ -405,7 +405,7 @@
       "setting_player_bluffs": "Joueur : Afficher l’onglet des Bluffs",
       "setting_player_night": "Joueur : Afficher les Feuilles d’Ordre de Nuit",
       "setting_player_reminders": "Joueur : Autoriser les doublons de jetons Mémo",
-      "setting_player_sound": "Joueur : activer les effets sonores de demande de chat pendant la nuit",
+      "setting_player_sound": "Joueur : Activer les effets sonores de demande de Chat pendant la nuit",
       "setting_positioning": "Autoriser le Déplacement des Onglets Latéraux",
       "setting_private_cams": "Afficher les Caméras des Joueurs dans les Chats Privés",
       "setting_ptt": "Appuyer Pour Parler",
@@ -454,6 +454,7 @@
         "toggleAudioMuted": "Couper le Micro / Appuyer pour Parler",
         "toggleEdition": "Sélectionner une Édition",
         "toggleFullscreen": "Plein-Écran",
+        "toggleNPCs": "Ajouter un Personnage Non-Joueur",
         "toggleNight": "Activer / Désactiver la Phase de Nuit",
         "toggleNightOrder": "Ordre de Nuit",
         "toggleNightSignal": "Afficher les Informations de la Nuit",
@@ -784,6 +785,7 @@
       "language": "Langue",
       "loading": "Chargement des parties...",
       "no_games": "Aucune partie publique trouvée.",
+      "npcs": "Personnages Non-Joueurs",
       "page": "Page {page} sur {total}",
       "phase": "Phase",
       "players": "Joueurs",
