@@ -81,8 +81,14 @@
     "dawn": {
       "name": "Świt"
     },
+    "djinn": {
+      "name": "Dżinn"
+    },
     "dusk": {
       "name": "Zmierzch"
+    },
+    "fiddler": {
+      "name": "Skrzypek"
     },
     "fortuneteller": {
       "name": "Wróżbita"
