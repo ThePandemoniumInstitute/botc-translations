@@ -70,7 +70,7 @@
       "ghost-votes": "Restituisci i Voti Fantasma",
       "grimoire": "Mostra Grimoire",
       "open-eyes": "Apri/Chiudi occhi",
-      "pointing": "Scegli un giorcatore"
+      "pointing": "Scegli un giocatore"
     },
     "demon": "Demone|Demoni",
     "fabled": "Leggendario|Leggendari",
@@ -167,7 +167,7 @@
       "button_yes": "Sì",
       "close_timer": "Il pop-up si chiuderà in {n}s.",
       "error": {
-        "add_player": "Non si può aggiungere il giocatore",
+        "add_player": "Il giocatore non può essere aggiunto",
         "add_storyteller": "Errore aggiunta Narratore",
         "avatar": "Errore upload avatar",
         "avatar_generic": "Qualcosa è andato storto nell'upload del tuo avatar.",
@@ -254,8 +254,8 @@
         "username_text": "Per favore inserisci il tuo Username:",
         "username_title": "Inserisci il tuo Username"
       },
-      "terms": "Utilizzando Blood on the Clocktower Online, riconosci di aver letto e aver aderito ai seguenti termini e norme:",
-      "terms_confirm": "Confermo di aver letto e aderisco a questi termini e norme.",
+      "terms": "Utilizzando Blood on the Clocktower Online, riconosci di aver letto e aver aderito ai seguenti termini e condizioni:",
+      "terms_confirm": "Confermo di aver letto e aderisco a questi termini e condizioni.",
       "timer_paused": "In pausa durante Accuse e Voti",
       "timer_start": "Inizia",
       "timer_title": "Titolo timer (opzionale)",
@@ -269,7 +269,7 @@
       "button_url": "URL",
       "clear_description": "Il Grimorio e i Gettoni Promemoria verranno ripuliti per te e tutti gli altri. Sei sicuro/a?",
       "clear_title": "Pulisci Grimorio e Gettoni Promemoria",
-      "custom_placeholder": "URL Lista Customizzata",
+      "custom_placeholder": "URL Lista Personalizzata",
       "custom_text": "Inserisci l'URL di un file custom-script.json",
       "custom_title": "Carica Lista Personalizzata",
       "difficulty": "Difficoltà:",
