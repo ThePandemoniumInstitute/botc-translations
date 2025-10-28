@@ -5,7 +5,7 @@
       "name": "Luna en Muerto Creciente"
     },
     "custom": {
-      "description": "Para jugar con un escenario personalizado, tienes que seleccionar los roles con los que quieres jugar en la Herramienta de Escenarios oficial y luego subir el archivo generado \"lista-personalizada.json\" directamente aquí o mediante una URL a un archivo JSON hosteado. Para subirlo, también puedes arrastar el archivo del escenario aquí o puedes pegar el JSON desde tu portapapeles.",
+      "description": "Para jugar con un escenario personalizado, tienes que seleccionar los roles con los que quieres jugar en la Herramienta de Escenarios oficial y luego subir el archivo generado \"lista-personalizada.json\" directamente aquí o mediante una URL a un archivo JSON hosteado. Para subirlo, también puedes arrastrar el archivo del escenario aquí o puedes pegar el JSON desde tu portapapeles.",
       "name": "Escenario Personalizado"
     },
     "homebrew": {
@@ -41,7 +41,7 @@
     "baron-heretic": "Solo 1 de los roles conjurados puede estar en juego.",
     "baron-plaguedoctor": "Si el Narrador fuera a ganar la habilidad del Barón, hasta 2 jugadores se convierten en Extranjeros.",
     "boffin-cultleader": "Si el Demonio posee la habilidad del Cultista, él no se puede volver bueno debido a esta habilidad.",
-    "boffin-drunk": "Si el Demonio fuera a poseer la habilidad del Borracho, en lugar de esto, el Científico escoge a un jugador Ciudadano para poseer esta habilidad.",
+    "boffin-drunk": "El Demonio no puede poseer la habilidad del Borracho.",
     "boffin-goon": "Si el Demonio posee la habilidad del Matón, él no se puede volver bueno debido a esta habilidad.",
     "boffin-heretic": "El Demonio no puede poseer la habilidad del Hereje.",
     "boffin-ogre": "El Demonio no puede poseer la habilidad del Ogro.",
