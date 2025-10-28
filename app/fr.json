@@ -976,6 +976,9 @@
       "spectator": "Spectateur",
       "title": "Voix"
     },
+    "npcs": {
+      "title": "PNJs"
+    },
     "text": {
       "channels": {
         "private": "Privé",
