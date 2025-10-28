@@ -327,7 +327,8 @@
       "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
       "title_alignment_r": "normal",
-      "title_type_bluff": "bluff"
+      "title_type_bluff": "bluff",
+      "title_type_character": "rôle"
     },
     "roles": {
       "button_distribute": "Distribuer {0} rôles",
@@ -794,7 +795,7 @@
       "spectators": "Spectateurs",
       "stats": "{0} utilisateurs sont dans {1} {2} parties",
       "stats_public": "publique",
-      "storyteller": "Conteur",
+      "storyteller": "Conteuse",
       "subscription": "Niveau d'abonnement",
       "updating": "Mise à jour...",
       "welcome": "Bienvenue sur {0} !"
@@ -890,7 +891,7 @@
     "locked": "Conteuses et Joueurs",
     "locked_text": "Seuls les joueurs assis et les Conteuses actuelles peuvent rejoindre la session.",
     "name_placeholder": "Nom de la session de jeu",
-    "open_text": "Tous le monde peut rejoindre cette session.",
+    "open_text": "Tout le monde peut rejoindre cette session.",
     "prompt_public_text": "Êtes-vous sûr de vouloir rendre la session de jeu publique ?\n Cela permettra à n’importe qui de voir et de rejoindre votre partie.",
     "prompt_public_title": "Rendre la Session de Jeu Publique",
     "server": "Serveur de Chat :",
@@ -1007,7 +1008,7 @@
         "signal": "{0} a envoyé un signal de nuit à {1}.",
         "start": "La partie a commencé et les rôles ont été distribués !",
         "storyteller_add": "{0} est devenue la Conteuse.",
-        "storyteller_remove": "{0} n’est plus le Conteur.",
+        "storyteller_remove": "{0} n’est plus la Conteuse.",
         "vote": "{0} a utilisé son Vote de Mort."
       },
       "title": "Texte",
