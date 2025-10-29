@@ -85,7 +85,15 @@
     "token": "トークン"
   },
   "main-menu": {
+    "change_icon": "プロフィール写真を変更する",
+    "char_sheet": "キャラクターシート",
+    "characters": "キャラクターを選択する",
+    "clear_grim": "魔導書を削除する",
     "download": "{0}アプリをダウンロードする",
+    "edition": "スクリプトを選択する",
+    "error_audio4": "設定を変更する",
+    "fullscreen": "フルスクリーン",
+    "gather": "プレイヤーを集める",
     "gong_recall": "村の広場に呼び戻す",
     "grim_access": "グリモワール閲覧権限を付与されました",
     "help": "ヘルプ",
