@@ -885,14 +885,14 @@
       "remove": "Erinnerung {0} entfernen",
       "saved_favorite": "Als Favorit gespeichert"
     },
-    "shroud_add": "Dieses Leichentuch ist nicht für Spieler sichtbar. Du kannst es sichtbar machen, indem du am folgenden Tag nochmal darauf klickst.",
-    "shroud_remove": "Dieses Leichentuch ist weiterhin für Spieler sichtbar. Du kannst es entfernen, indem du am folgenden Tag nochmal darauf klickst.",
+    "shroud_add": "Dieses Leichentuch ist für die Spieler nicht sichtbar. Du kannst es sichtbar machen, indem du es nach Start der Tag-Phase noch einmal anklickst.",
+    "shroud_remove": "Dieses Leichentuch ist weiterhin für Spieler sichtbar. Du kannst es entfernen, indem du es nach Start der Tag-Phase noch einmal anklickst.",
     "toggle_status": "Status ändern"
   },
   "session": {
     "access": "Zugang",
     "copy": "Kopieren",
-    "created": "Erstellt vor {0} von {1}.",
+    "created": "Erstellt vor {0} von {1}",
     "free": "Offen für alle",
     "language": "Chat-Sprache",
     "locked": "Nur Erzähler und Spieler",
@@ -919,7 +919,7 @@
     "following": "Du folgst dem Erzähler.",
     "listening": "Dieser Erzähler lauscht im Chat.",
     "offline": "Dieser Erzähler ist gerade offline.",
-    "prompt_grim_text": "Benutzer mit neuen Accounts können noch keinen Einblick in das Grimoire in öffentlichen Runden erhalten.\nBitte absolviere erst noch ein paar Spiele, um diese Funktion freizuschalten.",
+    "prompt_grim_text": "Benutzer mit neuen Accounts können in öffentlichen Runden noch keinen Einblick in das Grimoire erhalten.\n Bitte absolviere erst noch ein paar Spiele, um diese Funktion freizuschalten.",
     "prompt_grim_title": "Fehler beim Einblick in das Grimoire",
     "remove": "Erzähler entfernen",
     "request_grim": "Einblick in das Grimoire anfragen",
