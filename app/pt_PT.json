@@ -3,7 +3,7 @@
     "account-levels": {
       "free": "Grátis",
       "patreon-demon": "Nível Demónio",
-      "patreon-minion": "Nível Lacaio",
+      "patreon-minion": "Nível Cúmplice",
       "patreon-townsfolk": "Nível Habitante",
       "special-free": "De cortesia",
       "special-moderator": "Moderador",
@@ -14,7 +14,7 @@
     "button_close": "Fechar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
-    "button_logout": "Desconectar",
+    "button_logout": "Desligar",
     "button_search": "Pesquisar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
@@ -38,8 +38,8 @@
         "label": "Acesso ao Grimório",
         "title": "Se os espectadores têm acesso ao Grimório",
         "value_0": "Consultar",
-        "value_1": "Não",
-        "value_2": "Sim"
+        "value_1": "Sim",
+        "value_2": "Não"
       },
       "streaming": {
         "label": "O jogo está a ser transmitido online",
@@ -69,11 +69,12 @@
       "distribute-roles": "Distribuir Personagens",
       "ghost-votes": "Restaurar Votos Fantasma",
       "grimoire": "Mostrar Grimório",
-      "open-eyes": "Abrir/Fechar Olhos",
+      "open-eyes": "Abrir/Fechar os Olhos",
       "pointing": "Escolher Jogador"
     },
     "demon": "Demónio|Demónios",
     "fabled": "Mítico|Míticos",
+    "loric": "Lórico|Lóricos",
     "minion": "Cúmplice|Cúmplices",
     "outsider": "Marginal|Marginais",
     "phases": {
@@ -100,7 +101,7 @@
     "char_sheet": "Lista de personagens",
     "characters": "Escolher Personagens",
     "clear_grim": "Limpar o Grimório",
-    "download": "Download {0} App",
+    "download": "Fazer download da App {0}",
     "edition": "Escolher Colecção",
     "error_audio": "O teu browser impediu a app de {0}. Carrega aqui para começar o chat.",
     "error_audio2": "Reprodução automática do chat de voz",
@@ -113,20 +114,21 @@
     "grim_access": "Foi-te dado acesso ao Grimório",
     "grim_request": "Um espectador pediu acesso ao Grimório",
     "help": "Ajuda",
-    "json_schema": "Schema JSON Guião",
+    "json_schema": "Esquema JSON do Guião",
     "leave": "Abandonar Jogo",
     "mute_cam": "Desligar câmara [{0}]",
     "mute_mic": "Silenciar o microfone [{0}]",
     "night_info": "Informação da Noite",
     "night_info_text": "O Narrador acordou-te esta noite!",
     "night_sheet": "Lista de Ordem Nocturna",
+    "npcs": "Adicionar NPCs",
     "prompt_clear_player": "Tens a certeza que queres remover todas as personagens e marcadores de aviso?",
     "prompt_clear_st": "Isto vai limpar o Grimório e marcadores de aviso para ti e todos os restantes. Tens a certeza?",
     "prompt_clear_title": "Limpar Grimório e Marcadores de Aviso",
-    "prompt_timer_text": "Escolhe a duração e título (optional) para o temporizador:",
+    "prompt_timer_text": "Escolhe a duração e título (opcional) para o temporizador:",
     "prompt_timer_title": "Começar um temporizador",
     "prompt_vacate_text": "Estás num jogo activo, tens a certeza que queres abandonar o lugar?",
-    "prompt_vacate_title": "Abandonar Lugar",
+    "prompt_vacate_title": "Abandonar o Lugar",
     "push_to_talk": "Carrega [{0}] para falar",
     "raise_hand": "Levantar a Mão",
     "request_private": "Pedir Conversa Privada",
@@ -161,8 +163,8 @@
       "title": "Fazer um Comunicado"
     },
     "dialogue": {
-      "button_evil": "Ganhou o Mal",
-      "button_good": "Ganhou o Bem",
+      "button_evil": "Vitória do Mal",
+      "button_good": "Vitória do Bem",
       "button_no": "Não",
       "button_yes": "Sim",
       "close_timer": "Este pop-up fechar-se-á em {n}s.",
@@ -197,6 +199,7 @@
         "missing_roles": "Esta sessão contém personagens personalizados que não podem ser encontrados. Por favor carrega-os antes de te juntares. Em falta: {0}",
         "missing_roles_title": "Erro ao carregar papéis personalizados",
         "move_player": "Não se pode mover o jogador",
+        "npcs": "Erro ao actualizar NPCs",
         "offline": "O servidor parece estar offline",
         "remove_player": "Não se pode remover o jogador",
         "remove_storyteller": "Erro ao remover o Narrador",
@@ -305,6 +308,9 @@
       "text2": "Podes enviar feedback através da página {0} ou {1}. Podes actualizar o teu endereço de email e password {2}. Se queres comprar o jogo físico, espreita em {3}.",
       "welcome": "Bem-vindo a {0}!"
     },
+    "npc": {
+      "title": "Adicionar um Personagem Não-Jogável"
+    },
     "reminder": {
       "custom_favorite": "Marcado como favorito",
       "custom_note": "Nota pessoal",
@@ -322,7 +328,10 @@
       "title": "Escolhe uma {alignment} {type} {target}",
       "title_alignment_e": "Do Mal",
       "title_alignment_g": "Do Bem",
-      "title_alignment_r": "normal"
+      "title_alignment_r": "normal",
+      "title_target": "para {0}",
+      "title_type_bluff": "bluff",
+      "title_type_character": "personagem"
     },
     "roles": {
       "button_distribute": "Distribuir {0} personagens",
@@ -449,6 +458,7 @@
         "toggleAudioMuted": "Silenciar Microfone / Carregar para Falar",
         "toggleEdition": "Escolher Colecção",
         "toggleFullscreen": "Ecrã Inteiro",
+        "toggleNPCs": "Adicionar Personagem Não-Jogável",
         "toggleNight": "Ir para a Fase da Noite",
         "toggleNightOrder": "Ordem Nocturna",
         "toggleNightSignal": "Mostrar Informação da Noite",
@@ -760,6 +770,8 @@
       "title": "Por favor ajusta o teu relógio do computador"
     },
     "lobby": {
+      "bootlegger_title": "Atenção!",
+      "bootlegger_warning": "Esta sessão utiliza o Lórico Bootlegger, o que significa que tem regras ou personagens personalizadas fora da versão oficial, sendo mais indicada para jogadores experientes.\nSe és novo no Blood on the Clocktower, recomendamos que te habitues primeiro às regras e personagens normais, com um dos guiões base oficiais. O Trouble Brewing é perfeito para uma primeira experiência de jogo!\nDe qualquer forma, sê bem-vindo — estamos contentes por ter-te aqui!\nTens a certeza que queres entrar nesta sessão?",
       "button_create_game": "Criar Jogo",
       "button_help": "Ajuda",
       "button_join_game": "Junta-te a um Jogo Privado",
@@ -781,6 +793,7 @@
       "language": "Língua",
       "loading": "A carregar jogos...",
       "no_games": "Não foram encontrados jogos públicos.",
+      "npcs": "Personagens Não-Jogáveis",
       "page": "Página {page} de {total}",
       "phase": "Fase",
       "players": "Jogadores",
@@ -885,6 +898,7 @@
     "locked": "Narradores e Jogadores",
     "locked_text": "Apenas jogadores sentados e Narradores actuais podem juntar-se à sessão.",
     "name_placeholder": "Nome da sessão de jogo",
+    "open_text": "Todos podem juntar-se à sessão.",
     "prompt_public_text": "Tens a certeza que queres tornar a sessão de jogo visível ao público?\nIsto vai permitir que qualquer pessoa veja e se junte ao teu jogo.",
     "prompt_public_title": "Tornar a Sessão de Jogo Pública",
     "server": "Servidor de Chat:",
@@ -969,6 +983,11 @@
       "spectator": "Espectador",
       "title": "Voz"
     },
+    "npcs": {
+      "remove_fabled": "Remover Mítico",
+      "remove_loric": "Remover Lórico",
+      "title": "NPCs"
+    },
     "text": {
       "channels": {
         "private": "Privado",
@@ -1048,6 +1067,7 @@
     "since": "desde {0}",
     "translation_disclaimer": "Estás actualmente a utilizar uma versão localizada da app. Esta tradução foi criada e revista pelos seguintes voluntários, que não estão afiliados ao The Pandemonium Institute:",
     "translation_game": "Esta tradução do conteúdo do jogo pode não reflectir adequadamente as regras oficiais em Inglês, tal como escritas pelo The Pandemonium Institute.",
+    "update": "Por favor faz Update!",
     "updating": "A fazer update à app para a versão {0}...",
     "warning_browser": "Estás a usar um browser antigo ou não suportado",
     "warning_browser2": "{0}, o que pode causar problemas com a app. Por favor, faz download do update mais recente do browser ou muda para um browser diferente. A app funciona melhor no Firefox e no Chrome.",
