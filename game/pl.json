@@ -1132,6 +1132,7 @@
       "name": "Kapuś"
     },
     "soldier": {
+      "ability": "Jesteś bezpieczny od Demona.",
       "flavor": "Jak Dawid rzekł do Goliata, jak Tezeusz rzekł do Minotaura, jak Arjuna rzekł do Bhagadatty... Nie.",
       "name": "Żołnierz"
     },
@@ -1172,6 +1173,7 @@
     },
     "thief": {
       "ability": "Każdej nocy wybierz gracza (nie siebie): jutro jego głos jest ujemny.",
+      "flavor": "Ja nie zrobił nic. Nawet mnie nie była w tej alejce tej nocy! To nie ja zwinąłem teczkę Burmistrza Bruno z tymi fszystkimi dokmentami. Poza tym, była zbyt ciężka aby ją nieść.",
       "name": "Złodziej"
     },
     "tinker": {
