@@ -281,6 +281,15 @@
       "ability": "Kun kuolet, Kertoja saa jonkin Kätyrin kyvyn.",
       "name": "Ruttolääkäri"
     },
+    "poisoner": {
+      "name": "Myrkyttäjä"
+    },
+    "politician": {
+      "name": "Poliitikko"
+    },
+    "poppygrower": {
+      "name": "Unikkotarhuri"
+    },
     "sailor": {
       "name": "Merimies"
     },
