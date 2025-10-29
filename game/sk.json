@@ -1,22 +1,288 @@
 {
+  "editions": {
+    "bmr": {
+      "name": "Povstanie Zla"
+    },
+    "custom": {
+      "name": "Vlastný Scenár"
+    },
+    "homebrew": {
+      "name": "Domáce Výtvory"
+    },
+    "snv": {
+      "name": "Smrť a Klamstvá"
+    },
+    "tb": {
+      "name": "Problémy pod Povrchom"
+    }
+  },
   "roles": {
+    "alsaahir": {
+      "name": "Alsahír"
+    },
+    "amnesiac": {
+      "name": "Sklerotik"
+    },
+    "angel": {
+      "name": "Anjel"
+    },
+    "apprentice": {
+      "name": "Učeň"
+    },
+    "artist": {
+      "name": "Umelec"
+    },
+    "assassin": {
+      "flavor": "...",
+      "name": "Nájomný Vrah"
+    },
+    "atheist": {
+      "name": "Ateista"
+    },
+    "balloonist": {
+      "name": "Meteorológ"
+    },
+    "banshee": {
+      "name": "Rusalka"
+    },
+    "barber": {
+      "name": "Kaderník"
+    },
+    "barista": {
+      "name": "Barista"
+    },
+    "baron": {
+      "name": "Barón"
+    },
+    "beggar": {
+      "name": "Žobrák"
+    },
+    "bishop": {
+      "name": "Biskup"
+    },
+    "boffin": {
+      "name": "Šialený Vedec"
+    },
+    "bonecollector": {
+      "name": "Zberateľ Kostí"
+    },
+    "boomdandy": {
+      "name": "Výbušník"
+    },
+    "bootlegger": {
+      "name": "Pašerák"
+    },
+    "bountyhunter": {
+      "name": "Lovec Odmien"
+    },
+    "buddhist": {
+      "name": "Budhista"
+    },
+    "butcher": {
+      "name": "Rezník"
+    },
+    "butler": {
+      "name": "Komorník"
+    },
+    "cannibal": {
+      "name": "Kanibal"
+    },
+    "cerenovus": {
+      "name": "Cerebrál"
+    },
+    "chambermaid": {
+      "name": "Komorná"
+    },
+    "chef": {
+      "name": "Šéfkuchár"
+    },
+    "choirboy": {
+      "name": "Zborista"
+    },
+    "clockmaker": {
+      "name": "Hodinár"
+    },
+    "courtier": {
+      "name": "Dvoran"
+    },
+    "cultleader": {
+      "name": "Vodca Kultu"
+    },
+    "damsel": {
+      "name": "Slečna v Núdzi"
+    },
+    "deviant": {
+      "name": "Úchylák"
+    },
+    "devilsadvocate": {
+      "name": "Diablov Advokát"
+    },
+    "djinn": {
+      "name": "Džin"
+    },
+    "doomsayer": {
+      "name": "Prorok"
+    },
+    "dreamer": {
+      "name": "Snílek"
+    },
+    "drunk": {
+      "name": "Opilec"
+    },
+    "duchess": {
+      "name": "Vojvodkyňa"
+    },
+    "dusk": {
+      "name": "Súmrak"
+    },
+    "empath": {
+      "name": "Empat"
+    },
+    "engineer": {
+      "name": "Mechanik"
+    },
+    "eviltwin": {
+      "name": "Zlé Dvojča"
+    },
+    "exorcist": {
+      "name": "Exorcista"
+    },
+    "fanggu": {
+      "name": "Fang Gú"
+    },
+    "farmer": {
+      "name": "Farmár"
+    },
+    "ferryman": {
+      "name": "Prievozník"
+    },
+    "fibbin": {
+      "name": "Táraj"
+    },
+    "fiddler": {
+      "name": "Fidlikant"
+    },
+    "fisherman": {
+      "name": "Rybár"
+    },
+    "flowergirl": {
+      "name": "Kvetinárka"
+    },
+    "fool": {
+      "name": "Šašo"
+    },
+    "fortuneteller": {
+      "name": "Veštica"
+    },
+    "gambler": {
+      "name": "Gemblér"
+    },
+    "gangster": {
+      "name": "Mafiían"
+    },
+    "gardener": {
+      "name": "Záhradník"
+    },
+    "general": {
+      "name": "Generál"
+    },
+    "gnome": {
+      "name": "Trpaslík"
+    },
+    "goblin": {
+      "name": "Škriatok"
+    },
+    "godfather": {
+      "name": "Krstný Otec"
+    },
+    "golem": {
+      "name": "Golem"
+    },
+    "goon": {
+      "name": "Bitkár"
+    },
+    "gossip": {
+      "name": "Klebetnica"
+    },
+    "grandmother": {
+      "name": "Babička"
+    },
+    "gunslinger": {
+      "name": "Pištoľník"
+    },
+    "harlot": {
+      "name": "Prostitútka"
+    },
+    "harpy": {
+      "name": "Harpya"
+    },
+    "hatter": {
+      "name": "Klobúčník"
+    },
+    "hellslibrarian": {
+      "name": "Knihovník z Pekla"
+    },
+    "heretic": {
+      "name": "Kacír"
+    },
+    "hermit": {
+      "name": "Pustovník"
+    },
+    "highpriestess": {
+      "name": "Veľkňažka"
+    },
+    "huntsman": {
+      "name": "Poľovník"
+    },
+    "imp": {
+      "name": "Čert"
+    },
+    "innkeeper": {
+      "name": "Hostinská"
+    },
+    "judge": {
+      "name": "Sudca"
+    },
+    "juggler": {
+      "name": "Žonglér"
+    },
+    "kazali": {
+      "name": "Kázali"
+    },
     "king": {
-      "ability": "Každú noc, ak je počet mŕtvych väčší alebo rovný počtu živých, dozvieš sa 1 živú postavu. Démon vie, že si Kráľ."
+      "ability": "Každú noc, ak je počet mŕtvych väčší alebo rovný počtu živých, dozvieš sa 1 živú postavu. Démon vie, že si Kráľ.",
+      "name": "Kráľ"
+    },
+    "klutz": {
+      "name": "Nemehlo"
+    },
+    "knight": {
+      "name": "Rytier"
     },
     "legion": {
-      "ability": "Každú noc* možno zomrie hráč. Popravy zlyhajú ak hlasovalo iba zlo. Si považovaný aj za Poskoka. [Väčšina hráčov je Sekta]"
+      "ability": "Každú noc* možno zomrie hráč. Popravy zlyhajú ak hlasovalo iba zlo. Si považovaný aj za Poskoka. [Väčšina hráčov je Sekta]",
+      "name": "Sekta"
+    },
+    "leviathan": {
+      "name": "Leviatán"
     },
     "librarian": {
-      "ability": "Na začiatku sa dozvieš, že 1 z 2 hráčov je konkrétny Čudák. (Alebo že žiaden nie je v hre.)"
+      "ability": "Na začiatku sa dozvieš, že 1 z 2 hráčov je konkrétny Čudák. (Alebo že žiaden nie je v hre.)",
+      "name": "Knihovníčka"
     },
     "lilmonsta": {
-      "flavor": "Krok 1: Byť rozkošnučký. Krok 2: Ovládnuť svet. Krok 3: Jaňajočky."
+      "flavor": "Krok 1: Byť rozkošnučký. Krok 2: Ovládnuť svet. Krok 3: Jaňajočky.",
+      "name": "Pán Príšerka"
+    },
+    "lleech": {
+      "name": "Pijavica"
     },
     "lordoftyphon": {
       "ability": "Každú noc* si vyberieš hráča, ktorý zomrie. [Zlé postavy sú v rade. Ty si v strede. +1 Poskok. -? až +? Čudákov]"
     },
     "lunatic": {
-      "ability": "Myslíš si, že si Démon, ale nie si. Démon vie kto si a koho si v noci vyberáš."
+      "ability": "Myslíš si, že si Démon, ale nie si. Démon vie kto si a koho si v noci vyberáš.",
+      "name": "Šialenec"
     },
     "lycanthrope": {
       "name": "Vlkolak",
