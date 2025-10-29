@@ -71,7 +71,13 @@
     "lilmonsta-marionette": "Als er een Marionet in het spel zit, dan komen zij in het spel na de Demoon en moeten als hun buur starten.",
     "lilmonsta-poppygrower": "Als mini-Monster en de Papaverkweker leven, worden de Minions 1-voor-1 wakker, tot 1 van hen zichzelf kiest voor het mini-Monster token.",
     "lilmonsta-psychopath": "Als de Psychopaat op mini-Monster past, sterven ze bij executie.",
-    "lilmonsta-scarletwoman": "Als mini-Monster sterft met 5 of meer levende spelers, dan heeft de Rode Vrouw mini-Monster voor de rest van het spel."
+    "lilmonsta-scarletwoman": "Als mini-Monster sterft met 5 of meer levende spelers, dan heeft de Rode Vrouw mini-Monster voor de rest van het spel.",
+    "magician-spy": "Als de Spion de Grimoire ziet, zijn de Demoon en Tovenaarstokens verwijderd.",
+    "magician-vizier": "Als de Vizier in het spel zit heeft de Tovenaar geen vaardigheid maar is imuun voor de Viziers vaardigheid.",
+    "magician-widow": "Als de Weduwe de Grimoire ziet, zijn de Demoon en Tovenaar verwijderd.",
+    "magician-wraith": "Na elke executie kiest de levende Tovenaar publiekelijk een speler als Schim. Als dit goed is, moet de Demoon vannacht de Schim kiezen.",
+    "marionette-mathematician": "De Wiskundige kan leren of de Marionets informatie verkeerde informatie heeft gegeven, of incorrect werkt.",
+    "marionette-plaguedoctor": "Als de Verteller de Marionet vaardigheid krijgt, moet een van de Demoons goede buren een Marionet worden."
   },
   "roles": {
     "amnesiac": {
