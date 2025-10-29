@@ -319,7 +319,7 @@
       "error_traveller": "Geen reizigers gevonden die overeenkomen met {0}.",
       "tab_character": "Beschikbare Karakters",
       "tab_traveller": "Andere Reizigers",
-      "title": "Selecteer een {alignment}{target}",
+      "title": "Selecteer een {alignment} {type} {target}",
       "title_alignment_e": "Slecht",
       "title_alignment_g": "Goed",
       "title_alignment_r": "normaal"
@@ -343,7 +343,7 @@
       "background_title": "Aangepaste Achtergrond",
       "button_always": "Altijd",
       "button_edit": "Account Bewerken",
-      "button_setup": "Start de opstelling.",
+      "button_setup": "Voer de installatie uit",
       "button_verify": "Account Verifiëren",
       "css_apply": "Aangepaste CSS Regels toevoegen?",
       "css_confirm": "Ik weet wat ik doe, laat mij het uiterlijk van de app veranderen",
@@ -580,7 +580,7 @@
     },
     "users": {
       "chat_connection": "Chat connectie type",
-      "grim_access": "Toegang tot Spreukenboek",
+      "grim_access": "Toegang tot de Grimoire",
       "group_sub": "Groepsabonnee",
       "new_user": "Nieuwe gebruiker",
       "official_mod": "Officiële Moderator",
