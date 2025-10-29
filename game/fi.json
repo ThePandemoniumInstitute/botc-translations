@@ -599,6 +599,18 @@
       "flavor": "...ja Kuningas sanoi: \"Mitä?! Minulla ei ole koskaan edes ollut kumisia housuja, saati sitten vaniljakastiketykkiä!\" Ho-ho! Hilpeää päivää!",
       "name": "Narri"
     },
+    "fortuneteller": {
+      "name": "Ennustaja",
+      "other": "Ennustaja valitsee 2 pelaajaa. Nyökkää jos jompikumpi on Demoni (tai *HARHAUTUS*)."
+    },
+    "gambler": {
+      "ability": "Joka yö*, valitse pelaaja ja arvaa hänen hahmonsa: jos arvaat väärin, kuolet.",
+      "name": "Uhkapeluri"
+    },
+    "gangster": {
+      "ability": "Kerran päivässä, voit päättää tappaa yhden elävän naapurisi, jos toinen elävä naapurisi hyväksyy tämän.",
+      "name": "Gangsteri"
+    },
     "gardener": {
       "flavor": "Kun viisastelusta tulee tyhmyyttä ja tekopyhyydestä julmuutta, vetäydy puutarhaan. Kukat ja kivet ovat vanhojen ihmisten viimeinen rakkaus.",
       "name": "Puutarhuri"
@@ -705,6 +717,13 @@
       "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi.",
       "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
       "name": "Hindu"
+    },
+    "huntsman": {
+      "name": "Metsästäjä"
+    },
+    "imp": {
+      "ability": "Joka yö*, valitse pelaaja: hän kuolee. Jos tapat tällä tavoin itsesi, jostakin Kätyristä tulee uusi Piru.",
+      "name": "Piru"
     },
     "innkeeper": {
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
