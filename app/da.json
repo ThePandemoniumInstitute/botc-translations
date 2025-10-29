@@ -1028,7 +1028,7 @@
       "loading": "Indlæser statistikker...",
       "none": "Ingen",
       "player": "Spil\nspillet",
-      "player_wins": "% Vinderate",
+      "player_wins": "{0}% Vinderate",
       "role": "Top Startende\nKarakterer",
       "st_evil_wins": "{0}% Ond Vinderate",
       "storyteller": "Spil\nFortalt",
