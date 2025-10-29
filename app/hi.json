@@ -2,5 +2,10 @@
   "common": {
     "button_search": "खोजें",
     "button_send": "भेजें"
+  },
+  "grimoire": {
+    "phases": {
+      "first_night": "पहली रात"
+    }
   }
 }
