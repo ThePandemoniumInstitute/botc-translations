@@ -201,15 +201,24 @@
     },
     "amnesiac": {
       "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
-      "flavor": "Ik heb hier geen actieve herinnering aan."
+      "flavor": "Ik heb hier geen actieve herinnering aan.",
+      "name": "Amnesist"
     },
     "angel": {
       "name": "Engel"
     },
     "apprentice": {
+      "flavor": "Jarenlang trok ik rond, lerend van de geheimen van Het Ambacht. ‘Welk ambacht?’, hoor ik je vragen. Het ambacht van het gewone volk. Maar maak je geen zorgen... nog niet.",
       "name": "Leerling"
     },
+    "artist": {
+      "ability": "Een keer per spel, tijdens de dag, stel je de Verteller privé een ja/nee vraag.",
+      "flavor": "Mon Dieu! C'est lumineux! Mijn werk, ze is... hoe zeg je dit... Magnifique! Dieu est révélé! Oui.",
+      "name": "Artiest"
+    },
     "assassin": {
+      "ability": "Een keer per spel, in de nacht*, kies een speler: deze sterft zelfs als ze dat niet kunnen.",
+      "flavor": "...",
       "name": "Sluipmoordenaar",
       "other": "De Sluipmoordenaar mag een speler kiezen. :reminder: :reminder:"
     },
@@ -223,6 +232,8 @@
       "other": "Laat een speler met een ander karaktertype zien als hiervoor. :reminder:"
     },
     "barber": {
+      "ability": "Als jij vandaag of vannacht bent gestorven, mag de Demoon 2 spelers kiezen (niet een andere Demoon) om van karakter te wisselen.",
+      "flavor": "Wist je dat barbier en chirurg ooit hetzelfde beroep waren? Nee? Nu weet je het wel.",
       "name": "Barbier"
     },
     "barista": {
@@ -237,6 +248,7 @@
       "name": "Bedelaar"
     },
     "bishop": {
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Bisschop"
     },
     "boffin": {
