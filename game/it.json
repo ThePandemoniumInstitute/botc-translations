@@ -1,1 +1,13 @@
-{}
+{
+  "roles": {
+    "fibbin": {
+      "flavor": "Ha-ha-ha. Ha. Ha. Ha."
+    },
+    "gnome": {
+      "flavor": "Quattro i punti o sette le birre, nessuno spettacolo va per me e il mio. Uno scherzo per far scricchiolare le manovelle e le assi del pavimento lungo le fondamenta, così incontroversibilmente piccole. I grandi saggi lungo le correnti di gioia, non più grandi di quanto sia la scena, già ereditati. Ha-urrumph."
+    },
+    "goon": {
+      "flavor": "Sì, capo. Gli ho spiegato tutto per bene a quel tipo. Non vuole che glielo spieghi di nuovo. No capo, non ho bisogno di un dottore - è solo un a ferita da coltello. Starò bene domattina."
+    }
+  }
+}
