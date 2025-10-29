@@ -332,6 +332,12 @@
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
+    "washerwoman": {
+      "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
+      "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *BŁĘDNIE*.",
+      "flavor": "Ślady krwi na kamizelce? Nie, to tylko trochę wina. Jakże niezdarnie.",
+      "name": "Praczka"
+    },
     "xaan": {
       "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]",
       "first": "Oznacz Xaana przypominajką *NOC 1*. Jeżeli X to 1, oznacz Xaana przypominajką *X*. :reminder: :reminder:",
