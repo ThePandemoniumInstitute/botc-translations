@@ -932,7 +932,7 @@
       "title": "Bluffs"
     },
     "character": {
-      "download": "Skript JSON runterladen",
+      "download": "Skript-JSON herunterladen",
       "error_popout": "Fehler beim Öffnen des Fensters",
       "error_save": "Fehler beim Speichern der Datei",
       "jinxes": "Jinxes",
@@ -1006,10 +1006,10 @@
         "death": "{0} ist gestorben.",
         "end_evil": "Das Spiel ist zu Ende und das böse Team hat gewonnen!",
         "end_good": "Das Spiel ist zu Ende und das gute Team hat gewonnen!",
-        "grim_deny": "{0} hat keinen Einblick in das Grimoire erhalten.",
+        "grim_deny": "{0} wurde der Grimoire-Einblick verweigert.",
         "grim_receive": "{0} hat Einblick in das Grimoire erhalten.",
         "grim_remove": "{0} hat keinen Einblick mehr in das Grimoire.",
-        "grim_request": "{0} möchte Einblick in das Grimoire haben.",
+        "grim_request": "{0} hat Einblick in das Grimoire erbeten.",
         "join": "{0} ist der Runde beigetreten.",
         "leave": "{0} hat die Runde verlassen.",
         "phase": "{0} hat begonnen.",
@@ -1030,7 +1030,7 @@
   "user": {
     "avatar_enabled": "Avatar sichtbar",
     "camera_enabled": "Kamera sichtbar",
-    "error_avatar_text": "Der hochgeladene Avatar hat eine Dateigröße von {0}MB, aber die Obergrenze ist {1}MB.",
+    "error_avatar_text": "Der hochgeladene Avatar hat eine Dateigröße von {0} MB, aber die Obergrenze liegt bei {1} MB.",
     "error_avatar_title": "Datei zu groß",
     "gain": "Audio-Verstärkung",
     "group_subscription": "Gruppen-Abonnement",
@@ -1049,7 +1049,7 @@
       "player": "Runden\ngespielt",
       "player_wins": "{0}% gewonnen",
       "role": "Top Start-\nCharaktere",
-      "st_evil_wins": "{0}% hat Böse gewonnen",
+      "st_evil_wins": "{0} % Sieg für Böse",
       "storyteller": "Runden\ngeleitet",
       "warning": "Statistiken werden generiert ...\nSchau später noch mal nach!"
     },
