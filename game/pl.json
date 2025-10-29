@@ -449,6 +449,13 @@
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
+    "villageidiot": {
+      "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych Idiotów, 1 z dodatkowych jest pijany]",
+      "first": "Wybierz Wioskowego Idiotę aby był pijany. Obudź pojedynczo każdego Wioskowego Idiotę, wybierają gracza, pokaż kciukiem dobry albo zły zgodnie z drużyną tego gracza.",
+      "flavor": "Róże są niebieskie, a fiołki czerwone. Proszę odwrócić to co właśnie powiedziałem.",
+      "name": "Wioskowy Idiota",
+      "other": "Obudź pojedynczo każdego Wioskowego Idiotę, wybierają gracza, pokaż kciukiem dobry albo zły zgodnie z drużyną tego gracza."
+    },
     "washerwoman": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
       "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *PODPUCHA*.",
