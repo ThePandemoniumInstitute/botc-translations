@@ -520,6 +520,9 @@
       "ability": "Sinä ja yksi vastapuolen pelaaja tiedätte toisenne. Jos hyvä pelaaja teloitetaan, paha voittaa. Hyvä ei voi voittaa, jos kumpikin teistä on elossa.",
       "name": "Paha Kaksonen"
     },
+    "exorcist": {
+      "name": "Manaaja"
+    },
     "farmer": {
       "name": "Maajussi"
     },
@@ -612,6 +615,10 @@
     },
     "poppygrower": {
       "name": "Unikkotarhuri"
+    },
+    "ravenkeeper": {
+      "ability": "Jos kuolet yöllä, heräät valitsemaan pelaajan: saat tietää tämän hahmon.",
+      "name": "Korpinkesyttäjä"
     },
     "recluse": {
       "ability": "Saatat näyttäytyä pahana & Kätyrinä tai Demonina, vaikka olisit kuollut.",
