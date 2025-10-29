@@ -1007,6 +1007,7 @@
     "error_avatar_title": "ファイルサイズが大きすぎます",
     "gain": "ゲイン",
     "group_subscription": "グループサブスクリプション",
+    "id": "ユーザーID",
     "level": "アカウントレベル",
     "mic_volume": "マイク音量",
     "new_user": "ニューユーザー",
@@ -1014,7 +1015,15 @@
     "registration": "登録",
     "statistics": "統計",
     "stats": {
+      "edition": "よくする\n スクリプト",
+      "homebrew": "自家製のキャラクター",
+      "loading": "統計を準備中…",
+      "none": "なし",
+      "player": "ゲーム\nに参加した",
+      "player_wins": "{0}％勝利率",
       "role": "開始キャラ\nランキング",
+      "st_evil_wins": "{0}％悪のチーム勝利率",
+      "storyteller": "ゲームを\n実行した",
       "warning": "統計が生成中…\n後でまた見てみてね！"
     },
     "stats_hidden": "非表示",
