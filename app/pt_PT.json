@@ -207,6 +207,7 @@
       }
     },
     "settings": {
+      "setting_reminders_always": "Sempre",
       "sounds": {
         "attentionGong": "Gongo de Atenção"
       },
