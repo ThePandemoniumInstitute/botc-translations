@@ -552,16 +552,66 @@
     "farmer": {
       "name": "Maajussi"
     },
+    "gardener": {
+      "name": "Puutarhuri"
+    },
+    "general": {
+      "name": "Kenraali"
+    },
+    "gnome": {
+      "name": "Tonttu"
+    },
     "goblin": {
       "ability": "Jos väität julkisesti olevasi Hiisi, kun sinut nimitetään & samana päivänä teloitetaan, joukkueesi voittaa.",
       "flavor": "Et halua loukata shishissä shihiseviä vesihiisiä. Ei, et todellakaan halua. Enivei… saisinko toisenkin palasen kakkua?",
       "name": "Hiisi"
     },
+    "godfather": {
+      "name": "Kummisetä",
+      "other": "Jos Muukalainen kuoli tänään, Kummisetä valitsee pelaajan. :reminder:"
+    },
+    "golem": {
+      "flavor": "Golem auttaa? Golem tuhoaa! Golem auttaa.",
+      "name": "Golem"
+    },
+    "goon": {
+      "name": "Konna"
+    },
     "gossip": {
-      "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
+      "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä.",
+      "name": "Juorukello"
+    },
+    "grandmother": {
+      "name": "Isoäiti",
+      "other": "Jos Demoni tappoi lapsenlapsen, Isoäiti kuolee myös. :reminder:"
+    },
+    "harlot": {
+      "name": "Ilotyttö"
+    },
+    "harpy": {
+      "name": "Harpyija"
+    },
+    "hatter": {
+      "ability": "Jos kuolit tänään tai tänä yönä, Kätyrit ja Demoni voivat valita itselleen uudet Kätyri- ja Demoniroolit.",
+      "name": "Hatuntekijä"
+    },
+    "hellslibrarian": {
+      "name": "Tuonelan Kirjastonhoitaja"
+    },
+    "heretic": {
+      "ability": "Voittajat häviävät ja häviäjät voittavat, vaikka olisit kuollut.",
+      "name": "Kerettiläinen"
     },
     "hermit": {
-      "ability": "Sinulla on kaikkien Hylkiöiden kyvyt. [-0 tai -1 Hylkiötä]"
+      "ability": "Sinulla on kaikkien Hylkiöiden kyvyt. [-0 tai -1 Hylkiötä]",
+      "flavor": "Maailman kadonneissa ja unohdetuissa kolkissa sielun valo kutsuu luokseen.",
+      "name": "Erakko"
+    },
+    "highpriestess": {
+      "ability": "Joka yö, saat tietää kelle pelaajista sinun pitäisi Kertojan mielestä puhua pikimmiten.",
+      "first": "Osoita pelaajaa.",
+      "name": "Ylipapitar",
+      "other": "Osoita pelaajaa."
     },
     "hindu": {
       "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
