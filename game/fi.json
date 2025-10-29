@@ -577,6 +577,9 @@
       "first": "Mörkö valitsee pelaajan. :reminder:",
       "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>"
     },
+    "oracle": {
+      "other": "Anna sormimerkki."
+    },
     "pixie": {
       "first": "Näytä Kyläläisen hahmomerkki *RAIVO* -merkittynä.",
       "name": "Keiju"
