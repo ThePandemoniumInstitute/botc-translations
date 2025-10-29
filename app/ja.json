@@ -44,6 +44,7 @@
         "title": "このゲームはライブ配信でストリームされる"
       },
       "travellers": {
+        "label": "旅人",
         "title": "このゲームに旅人が参加できるかどうか",
         "value_0": "オプショナル",
         "value_1": "はい",
@@ -55,8 +56,18 @@
   },
   "grimoire": {
     "abilities": {
+      "grimoire": "魔導書を見せる",
       "open-eyes": "目を開く・閉じる",
       "pointing": "選手を選択する"
+    },
+    "demon": "鬼|鬼たち",
+    "minion": "共犯者|共犯者たち",
+    "outsider": "部外者|部外者たち",
+    "phases": {
+      "day": "初日|{n}日目",
+      "first_night": "初夜",
+      "night": "初夜|{n}夜目",
+      "other_nights": "他の夜"
     },
     "seat": "座席{0}",
     "shroud": "帷子",
