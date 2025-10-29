@@ -27,10 +27,12 @@
     "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee haluamansa Demonin - mutta ei pelaajaa. Jos Alkemisti kuolee ennen kuin herätys tapahtuu, paha voittaa. [Ei Demonia]",
     "alchemist-widow": "Alkemisti-Leskellä ei ole Lesken kykyä & Leski on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Leski saattaa julkisesti arvata elävän pelaajan olevan Leski. Jos oikeassa, Demonin täytyy valita Leski tänä yönä.",
     "alchemist-wraith": "Alkemisti-Haamulla ei ole Haamun kykyä & Haamu on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Haamu saattaa julkisesti arvata elävän pelaajan olevan Haamu. Jos oikeassa, Demonin täytyy valita Haamu tänä yönä.",
+    "alsaahir-vizier": "Kertoja ei ilmoita, että Visiiri on pelissä.",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
     "baron-plaguedoctor": "Jos tarinankertoja saisi Paronin kyvyn, enintään kaksi pelaajaa muuttuu ulkopuolisiksi.",
+    "boffin-cultleader": "Demoni, jolla on Kulttijohtajan kyky, ei voi muuttua hyväksi tämän kyvyn seurauksena.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
     "boffin-ogre": "Demonilla ei voi olla Jätin kykyä.",
     "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
@@ -50,6 +52,7 @@
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
     "ogre-recluse": "Jos Rastuli näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
+    "ogre-spy": "Vakooja näyttäytyy pahana Jätille.",
     "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
     "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
   },
@@ -326,6 +329,9 @@
     },
     "minstrel": {
       "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
+    },
+    "ogre": {
+      "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty."
     },
     "pixie": {
       "name": "Keiju"
