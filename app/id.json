@@ -2,7 +2,56 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
-      "patreon-demon": "Tingkat Iblis"
-    }
+      "patreon-demon": "Tingkat Iblis",
+      "patreon-minion": "Tingkat Antek",
+      "special-tpi": "Staf TPI"
+    },
+    "button_cancel": "Batal",
+    "button_close": "Tutup",
+    "button_confirm": "Setuju",
+    "button_continue": "Lanjut",
+    "button_logout": "Keluar",
+    "button_search": "Cari",
+    "button_send": "Kirim",
+    "cookie_policy": "Kebijakan Cookie",
+    "privacy_policy": "Kebijakan Privasi",
+    "session-tags": {
+      "cameras": {
+        "label": "Kamera",
+        "title": "Apakah kamera digunakan dalam sesi game ini",
+        "value_0": "Opsional",
+        "value_1": "Diperlukan",
+        "value_2": "Mati"
+      },
+      "difficulty": {
+        "label": "Tingkat kesulitan",
+        "title": "Tingkat pengalaman yang diharapkan dari para pemain dalam sesi game ini",
+        "value_0": "Sedang",
+        "value_1": "Ahli",
+        "value_2": "Pemula"
+      },
+      "grimoire": {
+        "value_0": "Tanya"
+      },
+      "streaming": {
+        "label": "Game sedang disiarkan",
+        "title": "Sesi game akan disiarkan",
+        "value_0": "Tidak",
+        "value_1": "Iya"
+      },
+      "subscription": {
+        "label": "Subskripsi Diperlukan",
+        "title": "Bergabung ke game ini memerlukan subskripsi aktif"
+      },
+      "travellers": {
+        "label": "Pengunjung",
+        "title": "Apakah pengunjung diizinkan dalam sesi permainan ini",
+        "value_0": "Opsional",
+        "value_1": "Iya",
+        "value_2": "Tidak"
+      }
+    },
+    "terms_of_use": "Syarat Penggunaan",
+    "trademark": "\"Blood on the Clocktower\" adalah merek dagang milik Steven Medway dan The Pandemonium Institute."
   }
 }
