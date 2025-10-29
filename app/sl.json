@@ -2,6 +2,14 @@
   "common": {
     "account-levels": {
       "free": "Zastonj"
+    },
+    "session-tags": {
+      "grimoire": {
+        "value_0": "Na zahtevo"
+      }
     }
+  },
+  "grimoire": {
+    "player": "Igralec_ka {0}"
   }
 }
