@@ -5,6 +5,7 @@
       "name": "Kiedy wschodzi krwawy księżyc"
     },
     "custom": {
+      "description": "Aby grać z użyciem niestandardowego scenariusza, musisz wybrać postacie, z którymi chcesz grać, w oficjalnym narzędziu do scenariuszy, a następnie wczytać wygenerowany \"custom-list.json\" lub podać link URL do tego pliku JSON. Możesz wczytać plik przeciągając go do tego okna lub wklejając JSON ze swojego schowka.",
       "name": "Własny scenariusz"
     },
     "homebrew": {
@@ -35,6 +36,7 @@
     "atheist-riot": "Podczas zadymy, jeżeli Bajarz zostanie nominowany, gracze głosują. Jeżeli \"ma umrzeć\", gra się kończy. Jeżeli nie, mogą dalej nominować.",
     "balloonist-marionette": "Jeżeli Marionetka myśli, że jest Baloniarzem, to Outsider mógł zostać dodany podczas przygotowywania gry.",
     "banshee-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzednich nocy): wybrana Banshee umiera i otrzymuje swoją umiejętność.",
+    "banshee-riot": "Każdej nocy* Zadyma wybiera żywego gracza (innego niż poprzednich nocy): wybrana Banshee umiera i otrzymuje swoją umiejętność.",
     "banshee-vortox": "Jeżeli Vortox zabije Banshee, wszyscy gracze dowiadują się, że Banshee umarła.",
     "baron-heretic": "Tylko 1 przeklęta postać może być w grze.",
     "baron-plaguedoctor": "Jeżeli Bajarz zdobył umiejętność Barona, maksymalnie dwóch graczy staje się Outsiderami.",
@@ -45,7 +47,9 @@
     "boffin-ogre": "Demon nie może mieć umiejętności Ogra.",
     "boffin-politician": "Demon nie może mieć umiejętności Polityka.",
     "boffin-villageidiot": "Jeżeli w grze jest zbędny żeton, Szalony naukowiec może dać Demonowi umiejętność Wioskowego głupka.",
-    "bountyhunter-kazali": "Jeżeli Kazali zmieni Łowcę Nagród w Sługusa to wtedy nie powstaje zły Mieszczanin.",
+    "boomdandy-plaguedoctor": "Jeżeli Bajarz miałby dostać umiejętność Zamachowca, gracz staje się Zamachowcem.",
+    "bountyhunter-kazali": "Jeżeli Kazali zmieni Łowcę Nagród w Sługusa, nie powstaje zły Mieszczanin.",
+    "bountyhunter-philosopher": "Jeżeli Filozof otrzymuje zdolność Łowcy Nagród, jeden z Mieszczan może stać się zły.",
     "butler-cannibal": "Jeżeli Kanibal otrzymuje umiejętność Lokaja, Kanibal się o tym dowiaduje.",
     "butler-organgrinder": "Jeśli Kataryniarz powoduje głosowanie z zamkniętymi oczami, Lokaj może podnieść rękę podczas głosowania, ale jego głos się liczy tylko, gdy jego pan także zagłosował.",
     "cannibal-juggler": "Jeżeli Żongler zgadywał pierwszego dnia i umrze w wyniku egzekucji, tej nocy żywy Kanibal dowiaduje się ile trafnych zgadnięć dostałby Żongler.",
@@ -62,11 +66,14 @@
     "engineer-summoner": "Jeżeli żywy Przywoływacz zostanie usunięty z gry, Bajarz ma umiejętność Przywoływacza.",
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
     "exorcist-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
+    "exorcist-riot": "Jeżeli Rozróba nominowała i poddała egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Yaggababble, Yaggababble nie zabija tej nocy.",
     "fanggu-scarletwoman": "Jeśli w grze byłyby dwa Demony, z których jeden był Kochanicą diabła, Kochanica diabła pozostaje Kochanicą diabła.",
     "farmer-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzedniej nocy): wybrany Farmer używa swojej umiejętności, ale nie umiera.",
+    "farmer-riot": "Każdej nocy* Zamieszki wybierają żywego dobrego gracza (innego niż poprzedniej nocy): Farmer, jeśli wybrany, używa swojej umiejętności ale nie umiera.",
     "goon-pithag": "Jeżeli Jędza przemieni złego gracza w Zbira, nie może on zmienić się w dobrego w wyniku swojej umiejętności.",
     "grandmother-leviathan": "Jeśli Lewiatan jest w grze i Wnuczek umrze przez egzekucję, zło wygrywa.",
+    "grandmother-riot": "Jeśli Rewolta jest w grze i Wnuczek umrze przez egzekucję, zło wygrywa.",
     "hatter-legion": "Jeżeli zostanie stworzony Legion, wszyscy źli gracze stają się Legionem. Jeżeli Legion jest w grze, Kapelusznik nie ma umiejętności.",
     "hatter-leviathan": "Lewiatan nie może dołączyć do gry po 5 dniu.",
     "hatter-lilmonsta": "Jeżeli Kapelusznik umrze, a Demon wybierze Potforka, to wybiera także Sługusa, którym się staje.",
@@ -75,8 +82,10 @@
     "heretic-spy": "Tylko jedna przeklęta postać może być w grze.",
     "huntsman-marionette": "Jeżeli Marionetka myśli, że jest Łowczym, to Damulka została dodana podczas przygotowywania gry.",
     "innkeeper-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji postaci chronionej przez Karczmarza, dobro zwycięża.",
+    "innkeeper-riot": "Jeżeli Zamieszki nominowały i poddały egzekucji postać chronioną przez Karczmarza, dobro wygrywa.",
     "investigator-vizier": "Bajarz nie ogłasza, że Wezyr jest w grze.",
     "king-leviathan": "Jeżeli Lewiatan jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
+    "king-riot": "Jeżeli Zamieszki są w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
     "leviathan-mayor": "Jeżeli Lewiatan i Burmistrz są żywi 5-tego dnia i nie nastąpi wtedy egzekucja, dobro wygrywa.",
     "leviathan-monk": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "leviathan-pithag": "Lewiatan nie może wejść do gry po 5 dniu.",
@@ -92,6 +101,7 @@
     "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
     "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
     "magician-spy": "Kiedy Szpieg podgląda Grymuar, żetony Demona i Magika należy usunąć.",
+    "mayor-riot": "Burmistrz może wybrać aby przerwać zamieszki. Jeżeli to zrobi gdy tylko jedne Zamieszki żyją, dobro wygrywa. W innym przypadku wygrywa zło.",
     "monk-riot": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "ogre-recluse": "Jeżeli Odludek pokazał się Ogrowi jako zły, Ogr dowiaduje się, że jest zły.",
@@ -103,10 +113,14 @@
     "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
     "ravenkeeper-riot": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca kruków używa swojej umiejętności, ale nie umiera.",
-    "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon."
+    "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon.",
+    "riot-sage": "Każdej nocy* Zamieszki wybierają dobrego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności ale nie umiera.",
+    "riot-soldier": "Jeżeli Zamieszki nominują i doprowadza do egzekucji Żołnierza, dobro wygrywa."
   },
   "reminders": {
+    "abnormal": "Błędnie",
     "amigo": "Amigo",
+    "correct": "Prawidłowo",
     "drunk": "Pijak",
     "drunk1": "Pijany 1",
     "drunk2": "Pijany 2",
@@ -114,12 +128,17 @@
     "everyoneisdrunk": "Wszyscy są pijani",
     "friend": "Przyjaciel",
     "isthedrunk": "Jest Pijakiem",
+    "know": "Wie",
+    "master": "Pan",
     "outsider": "Outsider",
     "townsfolk": "Mieszczanin"
   },
   "roles": {
     "acrobat": {
       "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz."
+    },
+    "alchemist": {
+      "flavor": "Odwiedź wnętrze Ziemi. Poprzez oczyszczenie odnajdziesz ukryty kamień. Ponad złotem leży czerwień. Kether w Malkuth."
     },
     "alhadikhia": {
       "name": "Al-Hadikhia"
@@ -150,6 +169,9 @@
     "banshee": {
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
+    "barber": {
+      "name": "Balwierz"
+    },
     "baron": {
       "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderów]",
       "flavor": "To miasto zeszło na psy, może nie? Tania siła robocza z zagranicy... no właśnie. Do kopalni z nimi. Odrobina ciężkiej pracy nikomu jeszcze nie zaszkodziła, a jak się jakiemuś pętakowi nie podoba, to może dostać w ucho. Czysty interes, nieprawdaż?",
@@ -161,7 +183,8 @@
       "name": "Mecenas"
     },
     "boffin": {
-      "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką."
+      "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
+      "name": "Szalony Naukowiec"
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -245,6 +268,12 @@
       "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
       "name": "Zbir"
     },
+    "gunslinger": {
+      "name": "Rewolwerowiec"
+    },
+    "harlot": {
+      "name": "Harlota"
+    },
     "hatter": {
       "ability": "Jeżeli umarłeś dzisiaj albo tej nocy, Sługusi i Demon mogą wybrać sobie nowe postacie Sługusów i Demona.",
       "name": "Kapelusznik",
@@ -279,7 +308,8 @@
       "other": "Chochlik wybiera gracza. :reminder: Jeżeli Chochlik wybrał siebie: Zamień żeton żyjącego Sługusa na jeden zapasowy żeton Chochlika. Uśpij dotychczasowego Chochlika. Obudź nowego. Pokaż kartę *JESTEŚ* i żeton Chochlika."
     },
     "innkeeper": {
-      "ability": "Każdej nocy* wybierz 2 graczy: nie mogą umrzeć tej nocy, ale jeden z nich jest pijany do zmierzchu."
+      "ability": "Każdej nocy* wybierz 2 graczy: nie mogą umrzeć tej nocy, ale jeden z nich jest pijany do zmierzchu.",
+      "name": "Karczmarz"
     },
     "investigator": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Sługusem.",
@@ -376,6 +406,7 @@
       "ability": "Raz na grę, w nocy, wybierz dobrą postać: otrzymujesz jej umiejętność. Jeżeli ta postać jest w grze, jest pijana."
     },
     "pithag": {
+      "flavor": "Czas czarodziejski taniec zawrócić; W kotła wnętrzności truciznę rzucić; Ropucho czarna, co od miesiąca; Pod zimnym głazem skryta śpiąca; Sączyłaś jady, ty na początek; Zaprawisz kotła naszego wrzątek.",
       "name": "Jędza",
       "other": "Jędza wybiera gracza i postać. Jeżeli wybranej postaci nie ma w grze: Uśpij Jędzę. Obudź cel. Pokaż kastę *JESTEŚ* i jego nowy żeton postaci."
     },
@@ -385,6 +416,9 @@
       "flavor": "Dodaj składnik Alfa do składnika Beta... NIE ZA DUŻO!",
       "name": "Truciciel",
       "other": "Truciciel wybiera gracza. :reminder:"
+    },
+    "poppygrower": {
+      "name": "Siewca Maku"
     },
     "professor": {
       "flavor": "Procedura jest prosta. Zamocuj hydrauliczny konfabulator do zmodyfikowanego wzmacniacza matrycy chi, dodaj 20 ml pseudodorafiny, utrzymuj poziom Z powyżej 20%, a twój mąż będzie cały i zdrów. Teraz potrzebujemy tylko pioruna."
@@ -406,7 +440,9 @@
       "name": "Odludek"
     },
     "riot": {
-      "flavor": "Larga vida a la revolución! Mi revolucion!"
+      "ability": "3-ciego dnia Sługusi stają się Zamieszkami, a nominowani gracze umierają od razu, ale natychmiast nominują kogoś żywego. To się musi odbyć.",
+      "flavor": "Larga vida a la revolución! Mi revolucion!",
+      "name": "Zamieszki"
     },
     "sailor": {
       "ability": "Każdej nocy wybierz gracza: jeden z was jest pijany do zmierzchu. Nie możesz umrzeć."
@@ -437,12 +473,18 @@
       "name": "Szpieg",
       "other": "Pokaż Grymuar na tak długo, jak Szpieg potrzebuje."
     },
+    "stormcatcher": {
+      "name": "Łowca Burz"
+    },
     "summoner": {
       "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie."
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
       "other": "Po śmierci Cukiereczka jeden z graczy natychmiast staje się pijany. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
+    },
+    "tealady": {
+      "name": "Herbaciarka"
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
