@@ -1203,6 +1203,7 @@
       "other": "Varas valitsee pelaajan. :reminder:"
     },
     "tinker": {
+      "ability": "Saatat kuolla koska tahansa.",
       "flavor": "Taidan tietää mikä ongelma on. Onneksi minulla on idea! Katapultti tulee ampumaan kaksinkertaisen matkan vain pienellä säädöllä...",
       "name": "Nikkaroija",
       "other": "Nikkaroija saattaa kuolla. :reminder:"
@@ -1214,6 +1215,7 @@
     "towncrier": {
       "ability": "Joka yö*, saat tietää, nimittikö Kätyri tänään.",
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!",
+      "name": "Julkihuutaja",
       "other": "Joko nyökkää tai pudista päätäsi."
     },
     "toymaker": {
@@ -1221,7 +1223,9 @@
       "name": "Leluntekijä"
     },
     "undertaker": {
-      "flavor": "Hmmm....mitäs meillä täällä on? Vasen saapas on kulunut korkoon asti ja kielen alta löytyy kiviä. Tämä on sotilaan varustus."
+      "ability": "Joka yö*, saat tietää mikä hahmo kuoli teloitukseen tänään.",
+      "flavor": "Hmmm....mitäs meillä täällä on? Vasen saapas on kulunut korkoon asti ja kielen alta löytyy kiviä. Tämä on sotilaan varustus.",
+      "name": "Haudankaivaja"
     },
     "ventriloquist": {
       "name": "Käsinukke"
@@ -1229,12 +1233,18 @@
     "vigormortis": {
       "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 Kyläläisnaapurinsa. [-1 Hylkiö]"
     },
+    "villageidiot": {
+      "ability": "Joka yö, valitse pelaaja: saat tietää millä puolella tämä on. [+0 - +2 Kylähullua. 1 ylimääräisistä on juopunut.]",
+      "name": "Kylähullu"
+    },
     "virgin": {
       "ability": "1. kerta, kun sinut Nimitetään, jos nimittäjä on Kyläläinen, heidät teloitetaan heti.",
-      "flavor": "Olen puhdas. Antaa synnittömien kärsiä puolestani. Kunniaani ei tule tahria katkerilla syytöksillänne."
+      "flavor": "Olen puhdas. Antaa synnittömien kärsiä puolestani. Kunniaani ei tule tahria katkerilla syytöksillänne.",
+      "name": "Neitsyt"
     },
     "vizier": {
-      "flavor": "Oivallinen valinta, kuten aina, herra. Piispaan tömräämisen kaltainen pikkurikos tosiaan ansaitsee 'oikeudenmukaisuutesi' ja 'armosi'. Käy kävelyllä puutarhoissa. Käy galleriassa tutki Von Straufin veistoksia. Rentoudu, herra. Jätä kaikki... minulle."
+      "flavor": "Oivallinen valinta, kuten aina, herra. Piispaan tömräämisen kaltainen pikkurikos tosiaan ansaitsee 'oikeudenmukaisuutesi' ja 'armosi'. Käy kävelyllä puutarhoissa. Käy galleriassa tutki Von Straufin veistoksia. Rentoudu, herra. Jätä kaikki... minulle.",
+      "name": "Visiiri"
     },
     "vortox": {
       "ability": "Joka yö*, valitse pelaaja: hän kuolee. Kyläläisten kyvyt tuottavat väärää tietoa. Joka päivä, jos ketään ei teloiteta, paha voittaa."
@@ -1243,14 +1253,21 @@
       "name": "Voudon"
     },
     "washerwoman": {
+      "ability": "Aloitat tietäen, että yksi kahdesta pelaajasta on tietty Kyläläinen.",
       "first": "Näytä Kyläläinen hahmomerkki. Osoita sekä *KYLÄLÄINEN* että *VÄÄRÄ* pelaajia.",
-      "flavor": "Veritahroja smokilla? Ei, tämä on ruoanlaitto sherryä. Olipa huolimatonta."
+      "flavor": "Veritahroja smokilla? Ei, tämä on ruoanlaitto sherryä. Olipa huolimatonta.",
+      "name": "Pyykkäri"
     },
     "widow": {
-      "flavor": "Lisää viiniä? Château d’Ergot ’07 on hyvin erityinen vintage. Oi kyllä, erityinen tosiaan."
+      "ability": "1. yönäsi, katso Loitsukirjaa & valitse pelaaja: tämä on myrkytetty. 1 hyvä pelaaja tietää, että Leski on pelissä.",
+      "flavor": "Lisää viiniä? Château d’Ergot ’07 on hyvin erityinen vintage. Oi kyllä, erityinen tosiaan.",
+      "name": "Leski"
     },
     "witch": {
-      "ability": "Joka yö, valitse pelaaja: jos hän nimittää huomenna hän kuolee. Jos vain 3 pelaajaa on hengissä, menetät tämän kyvyn."
+      "ability": "Joka yö, valitse pelaaja: jos hän nimittää huomenna hän kuolee. Jos vain 3 pelaajaa on hengissä, menetät tämän kyvyn.",
+      "first": "Noita valitsee pelaajan. :reminder:",
+      "name": "Noita",
+      "other": "Noita valitsee pelaajan. :reminder:"
     },
     "wizard": {
       "ability": "Kerran pelissä, tee toive. Toteutuessaan sillä voi olla hintansa & jäättää jäljen luonteestaan.",
