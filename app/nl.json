@@ -38,8 +38,8 @@
         "label": "Grimoire Toegang",
         "title": "Of toeschouwers toegang krijgen tot de Grimoire",
         "value_0": "Vraag",
-        "value_1": "Nee",
-        "value_2": "Ja"
+        "value_1": "Ja",
+        "value_2": "Nee"
       },
       "streaming": {
         "label": "Spel wordt gestreamd",
@@ -73,7 +73,7 @@
       "pointing": "Kies een speler"
     },
     "demon": "Demoon|Demonen",
-    "fabled": "Fictief|Fictief",
+    "fabled": "Legendarisch|Legendarisch",
     "minion": "Volgeling|Volgelingen",
     "outsider": "Buitenstaander|Buitenstaanders",
     "phases": {
