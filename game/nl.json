@@ -231,6 +231,9 @@
       "name": "Ballonvaarder",
       "other": "Laat een speler met een ander karaktertype zien als hiervoor. :reminder:"
     },
+    "banshee": {
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+    },
     "barber": {
       "ability": "Als jij vandaag of vannacht bent gestorven, mag de Demoon 2 spelers kiezen (niet een andere Demoon) om van karakter te wisselen.",
       "flavor": "Wist je dat barbier en chirurg ooit hetzelfde beroep waren? Nee? Nu weet je het wel.",
