@@ -1222,6 +1222,7 @@
     },
     "vortox": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Umiejętności Mieszczan generują fałszywe informacje. Każdego dnia, jeżeli nikt nie zostanie stracony, zło wygrywa.",
+      "flavor": "Czarne jest Białe. Prawe jest Złe. Lewo to Prawo. W Górę jest Wszerz. W Dół droga zła. Idźże za mną, tam prawda twa.",
       "name": "Vortox"
     },
     "voudon": {
@@ -1282,7 +1283,9 @@
     },
     "zombuul": {
       "ability": "Każdej nocy*, jeżeli nikt nie zginął tego dnia, wybierz gracza: umiera. Za pierwszym razem gdybyś miał umrzeć żyjesz, ale pokazujesz się jako martwy.",
-      "name": "Zombuul"
+      "flavor": "Nie. Rozumiem. Waszych zwyczajów. Towarzyszu. Pokarz mi. Ziemie. Gdzie święci. Leżą. Śpią. Ja także. Muszę spać. Niebawem.",
+      "name": "Zombuul",
+      "other": "Jeżeli nikt nie umarł dzisiaj, Zombuul wybiera gracza. :reminder:"
     }
   }
 }
