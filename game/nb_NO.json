@@ -1,23 +1,52 @@
 {
   "editions": {
+    "custom": {
+      "name": "Egendefinert manus"
+    },
     "homebrew": {
       "name": "Hjemmebrygg"
+    },
+    "tb": {
+      "name": "Bryggende trøbbel"
     }
   },
   "jinxes": {
-    "legion-politician": "Politikeren kan registreres som ond for Legion."
+    "boffin-politician": "Demonen kan ikke ha Politikerens evne.",
+    "hatter-leviathan": "Leviatanen kan ikke komme inn i spillet etter dag 5.",
+    "legion-politician": "Politikeren kan registreres som ond for Legion.",
+    "legion-zealot": "Fanatikeren kan registrere som ond for legionen.",
+    "leviathan-pithag": "Leviatanen kan ikke komme inn i spillet etter dag 5."
   },
   "reminders": {
     "2nd": "2.",
+    "3attacks": "Tre angrep",
+    "3votes": "3 stemmer",
     "abnormal": "Abnormal",
     "abouttodie": "Kommer til å dø",
     "alive": "Levende",
+    "amigo": "Kompis",
+    "cannotdie": "Kan ikke dø",
     "chosen": "Valgt",
     "correct": "Korrekt",
     "cursed": "Forbannet",
+    "day1": "Dag 1",
+    "day2": "Dag 2",
+    "day3": "Dag 3",
+    "day4": "Dag 4",
+    "day5": "Dag 5",
     "dead": "Død",
+    "demonnotvoted": "Demon stemte ikke",
+    "demonvoted": "Demon stemte",
+    "diedtoday": "Døde i dag",
+    "doesntkill": "Dreper ikke",
     "drunk": "Full",
+    "drunk1": "Full 1",
+    "drunk3": "Full 3",
+    "everyoneisdrunk": "Alle er fulle",
     "evil": "Ond",
+    "falseinfo": "Falsk info",
+    "fear": "Frykt",
+    "finalnightnoattack": "Siste natt: Ingen angrep",
     "friend": "Venn",
     "good": "God",
     "grandchild": "Barnebarn",
