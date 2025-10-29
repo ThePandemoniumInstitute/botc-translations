@@ -167,7 +167,7 @@
       "button_good": "Gut siegt",
       "button_no": "Nein",
       "button_yes": "Ja",
-      "close_timer": "Dieses Pop-Up schließt sich selbst in {n}s.",
+      "close_timer": "Dieses Pop-up schließt sich in {n} s.",
       "error": {
         "add_player": "Fehler beim Hinzufügen von Spielern",
         "add_storyteller": "Fehler beim Hinzufügen von Erzählern",
