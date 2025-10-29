@@ -103,6 +103,7 @@
     "prompt_timer_text": "タイマーの設定時間と（任意）テキストを設定：",
     "prompt_timer_title": "タイマーをセット",
     "prompt_vacate_text": "ゲームが進行中です。本当に席から立ってよろしいですか？",
+    "prompt_vacate_title": "座席を立ち上がる",
     "push_to_talk": "しゃべる時は [{0}] を押してください",
     "raise_hand": "手を上げる",
     "request_private": "密談に誘う",
