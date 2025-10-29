@@ -917,15 +917,34 @@
       "flavor": "On yö kolkko ja kolea, mutta mul on seuranain kuu, tähtöset, raikas tuulonen ja nahk'saappaitteni pehmyt tömähtely mukulaisil kivil. Tuolko tuikun valo lepattaa hämäräisen akkunan takan...",
       "name": "Yövahti"
     },
+    "noble": {
+      "name": "Aatelinen"
+    },
+    "nodashii": {
+      "other": "No Dashii valitsee pelaajan. :reminder:"
+    },
     "ogre": {
       "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty.",
       "first": "Mörkö valitsee pelaajan. :reminder:",
-      "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>"
+      "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>",
+      "name": "Jätti"
+    },
+    "ojo": {
+      "ability": "Joka yö*, valitse hahmo: tämä kuolee. Jos hahmo ei ole pelissä, Kertoja valitsee, kuka kuolee."
     },
     "oracle": {
       "ability": "Joka yö*, saat tietää, kuinka moni paha on kuollut.",
       "name": "Oraakkeli",
       "other": "Anna sormimerkki."
+    },
+    "organgrinder": {
+      "ability": "Pelaajat sulkevat silmänsä äänestyksen ajaksi ja äänestystulos on salattu. Joka yö, päätä oletko juopunut iltaan saakka."
+    },
+    "pacifist": {
+      "ability": "Teloitetut hyvät pelaajat saattavat jäädä eloon."
+    },
+    "philosopher": {
+      "name": "Filosofi"
     },
     "pixie": {
       "first": "Näytä Kyläläisen hahmomerkki *RAIVO* -merkittynä.",
@@ -936,9 +955,12 @@
       "name": "Ruttotohtori"
     },
     "poisoner": {
-      "name": "Myrkyttäjä"
+      "first": "Myrkyttäjä valitsee pelaajan. :reminder:",
+      "name": "Myrkyttäjä",
+      "other": "Myrkyttäjä valitsee pelaajan. :reminder:"
     },
     "politician": {
+      "ability": "Jos olit eniten vastuussa joukkueesi häviöstä, vaihdat puolta ja voitat, vaikka olisit kuollut.",
       "name": "Poliitikko"
     },
     "pope": {
@@ -946,7 +968,21 @@
       "name": "Paavi"
     },
     "poppygrower": {
+      "ability": "Kätyrit ja Demonit eivät tiedä toisiaan. Jos kuolet, he saavat tietää toisensa sinä yönä.",
       "name": "Unikkotarhuri"
+    },
+    "preacher": {
+      "name": "Saarnaaja"
+    },
+    "princess": {
+      "name": "Prinsessa"
+    },
+    "professor": {
+      "name": "Professori",
+      "other": "Professori saattaa valita kuolleen pelaajan. :reminder: :reminder:"
+    },
+    "psychopath": {
+      "name": "Psykopaatti"
     },
     "ravenkeeper": {
       "ability": "Jos kuolet yöllä, heräät valitsemaan pelaajan: saat tietää tämän hahmon.",
