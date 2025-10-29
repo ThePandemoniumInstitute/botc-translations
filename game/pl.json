@@ -360,7 +360,8 @@
     },
     "boomdandy": {
       "ability": "Jeżeli zostaniesz stracony, wszyscy oprócz 3 graczy umierają. Po odliczaniu od 10 do 1, gracz, na którego wskazuje większość graczy, umiera.",
-      "flavor": "Tik... Tik... Tik... TAK."
+      "flavor": "Tik... Tik... Tik... TAK.",
+      "name": "Zamachowiec"
     },
     "bootlegger": {
       "ability": "Ten skrypt zawiera chałupnicze postacie lub zasady.",
@@ -1071,6 +1072,7 @@
     },
     "sage": {
       "ability": "Jeżeli zabije cię Demon, dowiadujesz się, że jest nim 1 z 2 graczy.",
+      "flavor": "Te wielgachne tomiszcza strzegą tajemnice, jestem tego pewien! Między wierszem, a słowem czai się w milczeniu. Więcej świec, chłopcze! Więcej atramentu! Te notatki może i wyglądają bluźnierczo, ale piekielna zagadka zaczyna się odsłaniać.",
       "name": "Mędrzec",
       "other": "Jeżeli Demon zabił Mędrca, obudź Mędrca i wskaż 2 graczy, z których 1 jest Demonem."
     },
@@ -1088,6 +1090,7 @@
     },
     "savant": {
       "ability": "Każdego dnia możesz odwiedzić Bajarza, aby dowiedzieć się 2 faktów: 1 jest prawdziwy, drugi fałszywy.",
+      "flavor": "Na podłodze leżą siedemdziesiąt dwie zapałki... słońce zachodzi wcześnie, ale księżyc jest niezmienny... podarty kawałem tkaniny... zło we dworze... trzy na trzy... ten któremu zaufaliśmy ni ejest tym za kogo się podaje... zielone światło oznacza magnez... osad, ale wzór jest nieprawidłowy... Siedemdziesiąt dwie zapałki na podłodze...",
       "name": "Uczony"
     },
     "scapegoat": {
@@ -1104,9 +1107,13 @@
     "seamstress": {
       "ability": "Raz na grę, nocą, wybierz 2 graczy (nie siebie): dowiadujesz się, czy należą do tej samej drużyny.",
       "first": "Szwaczka może wybrać 2 graczy. Pokiwaj lub pokręć głową. :reminder:",
-      "name": "Szwaczka"
+      "flavor": "Słyszałaś, że ten nieznajomy w kaszmirowym płaszczu dał po słowie małej Belle? I powiedziała tak? Cóż, to nic w porównaniu z tym co Harry i ten żongler narozrabiali podczas festynu! Mogła bym tak opowiadać i opowiadać...jak bym była plotkarą, o tak.",
+      "name": "Szwaczka",
+      "other": "Szwaczka może wybrać 2 graczy. Potaknij albo zaprzecz głową. :reminder:"
     },
     "sentinel": {
+      "ability": "W grze może być 1 więcej lub 1 mniej Outsiderów.",
+      "flavor": "Poproszę o imię. Poproszę o dokumenty. Poproszę o Broń.",
       "name": "Strażnik"
     },
     "shabaloth": {
@@ -1173,6 +1180,8 @@
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
+      "flavor": "Nigdy jej nie zapomnę. Nigdy.",
+      "name": "Ukochana",
       "other": "Po śmierci Cukiereczka jeden z graczy natychmiast staje się pijany. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
     },
     "tealady": {
@@ -1182,8 +1191,10 @@
     },
     "thief": {
       "ability": "Każdej nocy wybierz gracza (nie siebie): jutro jego głos jest ujemny.",
+      "first": "Złodziej wybiera gracza. :reminder:",
       "flavor": "Ja żem nic nie zrobił. A coś pan, nawet nie byłem w tej alejce tej nocy! To nie ja zwinąłem teczkę Burmistrza Bruno z tymi fszyskimi papierami. Poza tym w ciul ciężka była, daleko bym jej nie doniósł.",
-      "name": "Złodziej"
+      "name": "Złodziej",
+      "other": "Złodziej wybiera gracza. :reminder:"
     },
     "tinker": {
       "ability": "Możesz umrzeć w dowolnym momencie.",
