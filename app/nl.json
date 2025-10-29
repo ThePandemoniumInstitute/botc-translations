@@ -1027,7 +1027,7 @@
       "loading": "Statistieken laden...",
       "none": "Geen",
       "player": "Spellen\n Gespeeld",
-      "player_wins": "Winpercentage %",
+      "player_wins": "{0}Winpercentage %",
       "role": "Top\n Start percentage",
       "st_evil_wins": "{0}% Slechte Winpercentage",
       "storyteller": "Spellen\n Verteld",
