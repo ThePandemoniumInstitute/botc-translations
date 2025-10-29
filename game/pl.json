@@ -555,7 +555,8 @@
       "name": "Herbaciarka"
     },
     "tor": {
-      "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
+      "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
+      "first": "Jeśli tej nocy zmarł gracz, pokaż mu kartę informacyjną \"JESTEŚ\", żeton postaci i kciuk do góry bądź w dół."
     },
     "towncrier": {
       "name": "Krzykacz Miejski"
