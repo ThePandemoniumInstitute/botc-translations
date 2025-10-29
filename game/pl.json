@@ -582,6 +582,12 @@
       "flavor": "Jestem czysta. Niech ci, którzy są bez grzechu, ukorzą się i cierpią za mnie. Moja reputacja nie zostanie splamiona waszymi pełnymi jadu oskarżeniami.",
       "name": "Dziewica"
     },
+    "vortox": {
+      "name": "Vortox"
+    },
+    "voudon": {
+      "name": "Voudon"
+    },
     "washerwoman": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
       "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *PODPUCHA*.",
