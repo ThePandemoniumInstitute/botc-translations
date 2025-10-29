@@ -86,12 +86,17 @@
       "first_night": "Ensimmäinen yö",
       "grim_reveal": "Loitsukirjan paljastus",
       "night": "Ensimmäinen yö|Yö {n}",
-      "other_nights": "Muut yöt"
+      "other_nights": "Muut yöt",
+      "start": "1. yötä valmistellaan"
     },
     "player": "Pelaaja {0}",
     "players": "Pelaajat",
+    "seat": "Paikka {0}",
+    "shroud": "Harso",
     "storyteller": "Tarinankertoja {0}",
+    "storytellers": "Kertojat",
     "token": "Merkki",
+    "townsfolk": "Kyläläinen|Kyläläinen",
     "traveller": "Matkalainen| Matkalaiset"
   },
   "main-menu": {
