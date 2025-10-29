@@ -489,6 +489,9 @@
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
+    "towncrier": {
+      "name": "Orędownik"
+    },
     "undertaker": {
       "ability": "Każdej nocy* dowiadujesz się, jaka postać zmarła dziś w wyniku egzekucji.",
       "flavor": "Hmmm...co my tu mamy? Lewy but jest zdarty aż do cholewy, z odłamkami krzesiwa pod językiem. To odzienie wojskowego.",
