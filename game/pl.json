@@ -463,6 +463,11 @@
       "name": "Wioskowy głupek",
       "other": "Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza."
     },
+    "virgin": {
+      "ability": "Gdy jesteś nominowana po raz pierwszy, jeżeli nominował cię Mieszczanin, zostaje on natychmiast stracony.",
+      "flavor": "Jestem czysta. Niech ci, którzy są bez grzechu, ukorzą się i cierpią za mnie. Moja reputacja nie zostanie splamiona waszymi oskarżeniami pełnymi jadu.",
+      "name": "Dziewica"
+    },
     "washerwoman": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
       "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *PODPUCHA*.",
