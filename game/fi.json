@@ -573,6 +573,18 @@
       "flavor": "Kun vanhurskaat unelmat tulevat, on niillä totuuden paino.",
       "name": "Lautturi"
     },
+    "fisherman": {
+      "name": "Kalastaja"
+    },
+    "flowergirl": {
+      "ability": "Joka yö*, saat tietää äänestikö Demoni tänään.",
+      "name": "Kukkaistyttö",
+      "other": "Nyökkää tai pudista päätäsi."
+    },
+    "fool": {
+      "ability": "Kun kuolet 1. kerran, et kuole.",
+      "name": "Narri"
+    },
     "gardener": {
       "flavor": "Kun viisastelusta tulee tyhmyyttä ja tekopyhyydestä julmuutta, vetäydy puutarhaan. Kukat ja kivet ovat vanhojen ihmisten viimeinen rakkaus.",
       "name": "Puutarhuri"
