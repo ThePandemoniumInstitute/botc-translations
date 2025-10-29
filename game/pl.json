@@ -681,7 +681,8 @@
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
-      "first": "Jeśli tej nocy zmarł gracz, pokaż mu kartę informacyjną *JESTEŚ*, żeton postaci i kciuk do góry bądź w dół (dobry/zły)."
+      "first": "Jeśli tej nocy zmarł gracz, pokaż mu kartę informacyjną *JESTEŚ*, żeton postaci i kciuk do góry bądź w dół (dobry/zły).",
+      "name": "Tor"
     },
     "towncrier": {
       "name": "Krzykacz Miejski"
