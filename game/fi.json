@@ -230,6 +230,7 @@
     "safe": "Turvassa",
     "soberhealthy": "Selvä & terve",
     "somethingbad": "Jotain ikävää",
+    "storytellerability": "Kertojan kyky",
     "survivesexecution": "Selviytyy teloituksesta",
     "teapartytonight": "Teekutsut tänä yönä",
     "townsfolk": "Kyläläinen",
@@ -246,6 +247,7 @@
       "other": "Akrobaatti valitsee yhden pelaajan. :reminder:"
     },
     "alchemist": {
+      "ability": "Sinulla on jonkin Kätyrin kyky. Sitä käyttäessäsi Kertoja voi kehottaa sinua valitsemaan uudestaan.",
       "name": "Alkemisti"
     },
     "alsaahir": {
