@@ -1,1 +1,349 @@
-{}
+{
+  "roles": {
+    "acrobat": {
+      "name": "Акробат"
+    },
+    "alchemist": {
+      "name": "Алхімік"
+    },
+    "amnesiac": {
+      "name": "Амнезіак"
+    },
+    "assassin": {
+      "name": "Вбивця"
+    },
+    "atheist": {
+      "name": "Атеїст"
+    },
+    "banshee": {
+      "name": "Банші"
+    },
+    "barber": {
+      "name": "Перукар"
+    },
+    "baron": {
+      "name": "Барон"
+    },
+    "beggar": {
+      "name": "Злидар"
+    },
+    "bishop": {
+      "name": "Єпископ"
+    },
+    "boffin": {
+      "name": "Хімік"
+    },
+    "bonecollector": {
+      "name": "Збирач Кісток"
+    },
+    "bootlegger": {
+      "name": "Контрабандист"
+    },
+    "bountyhunter": {
+      "name": "Мисливець за головами"
+    },
+    "buddhist": {
+      "name": "Буддист"
+    },
+    "bureaucrat": {
+      "name": "Бюрократ"
+    },
+    "butcher": {
+      "name": "М'ясник"
+    },
+    "butler": {
+      "name": "Дворецький"
+    },
+    "cannibal": {
+      "name": "Канібал"
+    },
+    "chambermaid": {
+      "name": "Покоївка"
+    },
+    "chef": {
+      "name": "Шеф"
+    },
+    "choirboy": {
+      "name": "Хорист"
+    },
+    "clockmaker": {
+      "name": "Годинникар"
+    },
+    "courtier": {
+      "name": "Придворний"
+    },
+    "cultleader": {
+      "name": "Лідер Культу"
+    },
+    "deviant": {
+      "name": "Юродивий"
+    },
+    "devilsadvocate": {
+      "name": "Адвокат Диявола"
+    },
+    "djinn": {
+      "name": "Джин"
+    },
+    "dreamer": {
+      "name": "Сновида"
+    },
+    "duchess": {
+      "name": "Княгиня"
+    },
+    "empath": {
+      "name": "Емпат"
+    },
+    "engineer": {
+      "name": "Інженер"
+    },
+    "eviltwin": {
+      "name": "Злий Близнюк"
+    },
+    "exorcist": {
+      "name": "Екзорцист"
+    },
+    "farmer": {
+      "name": "Фермер"
+    },
+    "fearmonger": {
+      "name": "Страховій"
+    },
+    "ferryman": {
+      "name": "Перевізник"
+    },
+    "flowergirl": {
+      "name": "Квіткарка"
+    },
+    "fortuneteller": {
+      "name": "Ворожка"
+    },
+    "gambler": {
+      "name": "Азартний Гравець"
+    },
+    "gangster": {
+      "name": "Гангстер"
+    },
+    "general": {
+      "name": "Генерал"
+    },
+    "gnome": {
+      "name": "Гном"
+    },
+    "goblin": {
+      "name": "Гоблін"
+    },
+    "godfather": {
+      "name": "Хрещений Батько"
+    },
+    "golem": {
+      "name": "Голем"
+    },
+    "gossip": {
+      "name": "Пліткар"
+    },
+    "grandmother": {
+      "name": "Бабуся"
+    },
+    "harpy": {
+      "name": "Гарпія"
+    },
+    "hatter": {
+      "name": "Капелюшник"
+    },
+    "heretic": {
+      "name": "Єретик"
+    },
+    "hermit": {
+      "name": "Самітник"
+    },
+    "highpriestess": {
+      "name": "Верховна Жриця"
+    },
+    "huntsman": {
+      "name": "Єгер"
+    },
+    "investigator": {
+      "name": "Слідчий"
+    },
+    "judge": {
+      "name": "Суддя"
+    },
+    "juggler": {
+      "name": "Жонглер"
+    },
+    "kazali": {
+      "name": "Казалі"
+    },
+    "king": {
+      "name": "Король"
+    },
+    "knight": {
+      "name": "Лицар"
+    },
+    "legion": {
+      "name": "Легіон"
+    },
+    "leviathan": {
+      "name": "Левіафан"
+    },
+    "marionette": {
+      "name": "Маріонетка"
+    },
+    "mathematician": {
+      "name": "Математик"
+    },
+    "matron": {
+      "name": "Матрона"
+    },
+    "mayor": {
+      "name": "Мер"
+    },
+    "mezepheles": {
+      "name": "Мезефель"
+    },
+    "monk": {
+      "name": "Монах"
+    },
+    "mutant": {
+      "name": "Мутант"
+    },
+    "nightwatchman": {
+      "name": "Ліхтарник"
+    },
+    "ogre": {
+      "name": "Огр"
+    },
+    "ojo": {
+      "name": "Охо"
+    },
+    "oracle": {
+      "name": "Оракул"
+    },
+    "organgrinder": {
+      "name": "Катеринщик"
+    },
+    "pacifist": {
+      "name": "Пацифіст"
+    },
+    "philosopher": {
+      "name": "Філософ"
+    },
+    "pixie": {
+      "name": "Піксі"
+    },
+    "plaguedoctor": {
+      "name": "Чумний Доктор"
+    },
+    "po": {
+      "name": "По"
+    },
+    "politician": {
+      "name": "Політик"
+    },
+    "poppygrower": {
+      "name": "Маковій"
+    },
+    "preacher": {
+      "name": "Проповідник"
+    },
+    "princess": {
+      "name": "Принцеса"
+    },
+    "professor": {
+      "name": "Професор"
+    },
+    "psychopath": {
+      "name": "Психопат"
+    },
+    "recluse": {
+      "name": "Відлюдник"
+    },
+    "revolutionary": {
+      "name": "Революціонер"
+    },
+    "riot": {
+      "name": "Заколот"
+    },
+    "sage": {
+      "name": "Мудрець"
+    },
+    "sailor": {
+      "name": "Моряк"
+    },
+    "saint": {
+      "name": "Святий"
+    },
+    "savant": {
+      "name": "Савант"
+    },
+    "seamstress": {
+      "name": "Кравчиня"
+    },
+    "sentinel": {
+      "name": "Вартовий"
+    },
+    "slayer": {
+      "name": "Мисливець"
+    },
+    "snakecharmer": {
+      "name": "Заклинач Змій"
+    },
+    "snitch": {
+      "name": "Стукач"
+    },
+    "soldier": {
+      "name": "Солдат"
+    },
+    "spy": {
+      "name": "Шпигун"
+    },
+    "steward": {
+      "name": "Стюард"
+    },
+    "summoner": {
+      "name": "Заклинач"
+    },
+    "thief": {
+      "name": "Крадій"
+    },
+    "tinker": {
+      "name": "Лудильник"
+    },
+    "towncrier": {
+      "name": "Глашатай"
+    },
+    "toymaker": {
+      "name": "Лялькар"
+    },
+    "undertaker": {
+      "name": "Трунар"
+    },
+    "vigormortis": {
+      "name": "Вігормортіс"
+    },
+    "villageidiot": {
+      "name": "Сільський Дурник"
+    },
+    "virgin": {
+      "name": "Діва"
+    },
+    "washerwoman": {
+      "name": "Прачка"
+    },
+    "widow": {
+      "name": "Чорна Вдова"
+    },
+    "witch": {
+      "name": "Відьма"
+    },
+    "xaan": {
+      "name": "Хаан"
+    },
+    "zealot": {
+      "name": "Фанатик"
+    },
+    "zombuul": {
+      "name": "Зомбуул"
+    }
+  }
+}
