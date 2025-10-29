@@ -693,7 +693,8 @@
       "other": "Jeżeli jakiś gracz został dziś stracony, pokaż jego żeton postaci."
     },
     "vigormortis": {
-      "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
+      "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]",
+      "name": "Vigormortis"
     },
     "villageidiot": {
       "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych głupków, 1 z dodatkowych jest pijany]",
@@ -707,6 +708,9 @@
       "flavor": "Jestem czysta. Niech ci, którzy są bez grzechu, ukorzą się i cierpią za mnie. Moja reputacja nie zostanie splamiona waszymi pełnymi jadu oskarżeniami.",
       "name": "Dziewica"
     },
+    "vizier": {
+      "name": "Wezyr"
+    },
     "vortox": {
       "name": "Vortox"
     },
@@ -718,6 +722,15 @@
       "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *PODPUCHA*.",
       "flavor": "Ślady krwi na smokingu? Nie, to tylko trochę wina. Ale gapa.",
       "name": "Praczka"
+    },
+    "widow": {
+      "name": "Wdowa"
+    },
+    "wizard": {
+      "name": "Czarodziej"
+    },
+    "wraith": {
+      "name": "Upiór"
     },
     "xaan": {
       "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]",
@@ -733,8 +746,12 @@
       "name": "Yaggababble",
       "other": "Za każde wypowiedzenie przez Yaggababble tajemnej frazy, możesz wybrać gracza. Umiera. :reminder:"
     },
+    "zealot": {
+      "name": "Zelota"
+    },
     "zombuul": {
-      "ability": "Każdej nocy*, jeżeli nikt nie zginął tego dnia, wybierz gracza: umiera. Za pierwszym razem gdybyś miał umrzeć żyjesz, ale pokazujesz się jako martwy."
+      "ability": "Każdej nocy*, jeżeli nikt nie zginął tego dnia, wybierz gracza: umiera. Za pierwszym razem gdybyś miał umrzeć żyjesz, ale pokazujesz się jako martwy.",
+      "name": "Zombuul"
     }
   }
 }
