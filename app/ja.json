@@ -2,6 +2,7 @@
   "common": {
     "account-levels": {
       "free": "無料",
+      "patreon-demon": "悪チーム",
       "patreon-minion": "ミニオンティア",
       "special-free": "優待ティア",
       "special-moderator": "モデレーター",
@@ -27,6 +28,9 @@
   },
   "grimoire": {
     "token": "トークン"
+  },
+  "main-menu": {
+    "download": "アプリをダウンロードする"
   },
   "pages": {
     "lobby": {
