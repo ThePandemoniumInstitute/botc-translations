@@ -1042,6 +1042,9 @@
     "pukka": {
       "ability": "Joka yö, valitse pelaaja: tämä on myrkytetty. Aiemmin myrkytetty pelaaja kuolee ja tervehtyy sitten."
     },
+    "puzzlemaster": {
+      "ability": "1 pelaaja on juopunut, vaikka kuolisit. Jos arvaat (kerran) kuka se on, saat tietää Demonin pelaajan, mutta jos arvaat väärin, saat väärää tietoa."
+    },
     "ravenkeeper": {
       "ability": "Jos kuolet yöllä, heräät valitsemaan pelaajan: saat tietää tämän hahmon.",
       "flavor": "Lintuni kostavat! Lentäkää! Lentäkää, suloiset ja nöyrät lemmikkini! Kartanoon ja joelle! Kujille ja salonkeihin! Liitäkää!",
@@ -1060,14 +1063,32 @@
       "flavor": "Larga vida a la revolución! Mi revolucion!",
       "name": "Mellakka"
     },
+    "sage": {
+      "ability": "Jos Demoni tappaa sinut, saat tietää että se on yksi kahdesta pelaajasta.",
+      "name": "Tietäjä"
+    },
     "sailor": {
+      "ability": "Joka yö, valitse elävä pelaaja: jompikumpi teistä on juopunut iltaan asti. Et voi kuolla.",
       "name": "Merimies"
+    },
+    "saint": {
+      "ability": "Jos kuolet teloitukseen, joukkueesi häviää.",
+      "name": "Pyhimys"
     },
     "savant": {
       "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla..."
     },
+    "scapegoat": {
+      "ability": "Jos puolellasi oleva pelaaja teloitetaan, sinut saatetaan teloittaa tämän sijaan."
+    },
     "scarletwoman": {
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)"
+    },
+    "seamstress": {
+      "ability": "Kerran pelissä, yöllä, valitse 2 pelaajaa (ei itseäsi): saat tietää, ovatko nämä samalla puolella keskenään.",
+      "first": "Räätäli saattaa valita 2 pelaajaa. Nyökkää tai pudista päätäsi. :reminder:",
+      "name": "Räätäli",
+      "other": "Räätäli saattaa valita 2 pelaajaa. Nyökkää tai pudista päätäsi. :reminder:"
     },
     "sentinel": {
       "ability": "Pelissä saattaa olla 1 Hylkiö enemmän tai vähemmän."
@@ -1081,11 +1102,38 @@
     "slayer": {
       "name": "Lahtari"
     },
+    "snakecharmer": {
+      "ability": "Joka yö, valitse elävä pelaaja: valittu Demoni vaihtaa hahmoa & puolta kanssasi & on sen jälkeen myrkytetty.",
+      "name": "Käärmeenlumooja"
+    },
+    "snitch": {
+      "name": "Vasikka"
+    },
+    "soldier": {
+      "ability": "Olet turvassa Demonilta.",
+      "name": "Sotilas"
+    },
+    "spiritofivory": {
+      "ability": "Pelissä voi olla korkeintaan 1 ylimääräinen paha pelaaja.",
+      "name": "Norsunluun Henki"
+    },
     "spy": {
-      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Hylkiönä, vaikka olisit kuollut."
+      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Hylkiönä, vaikka olisit kuollut.",
+      "name": "Vakooja"
+    },
+    "steward": {
+      "ability": "Aloitat tietäen 1 hyvän pelaajan.",
+      "name": "Tilanhoitaja"
     },
     "summoner": {
       "name": "Rienaaja"
+    },
+    "sweetheart": {
+      "ability": "Kun kuolet, 1 pelaaja on juopunut siitä alkaen.",
+      "name": "Kullanmuru"
+    },
+    "tealady": {
+      "ability": "Jos molemmat elävät naapurisi ovat hyviä, he eivät voi kuolla."
     },
     "towncrier": {
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!"
