@@ -41,7 +41,12 @@
       },
       "streaming": {
         "label": "ストリーミングされている",
-        "title": "このゲームはライブ配信でストリームされる"
+        "title": "このゲームはライブ配信でストリームされる",
+        "value_0": "されない",
+        "value_1": "される"
+      },
+      "subscription": {
+        "label": "要購読契約"
       },
       "travellers": {
         "label": "旅人",
