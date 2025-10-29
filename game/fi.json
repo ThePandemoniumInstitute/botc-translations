@@ -265,6 +265,9 @@
     "gossip": {
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
     },
+    "sailor": {
+      "name": "Merimies"
+    },
     "zombuul": {
       "other": "Jos kukaan ei kuollut tänään, Zombuul valitsee pelaajan. :reminder:"
     }
