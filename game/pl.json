@@ -69,7 +69,7 @@
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
-    "amigo": "Przyjaciel",
+    "amigo": "Amigo",
     "friend": "Przyjaciel",
     "outsider": "Outsider",
     "townsfolk": "Mieszczanin"
@@ -79,13 +79,13 @@
       "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie."
     },
     "balloonist": {
-      "ability": "Każdej nocy* dowiadujesz się gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]"
+      "ability": "Każdej nocy* poznajesz gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]"
     },
     "banshee": {
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
     "baron": {
-      "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderzy]"
+      "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderów]"
     },
     "dawn": {
       "name": "Świt"
@@ -97,8 +97,8 @@
       "name": "Zmierzch"
     },
     "fanggu": {
-      "ability": "Każdej nocy* wybierz gracza: umiera. Pierwszy Outsider, którego tak zabijesz staje się złym Fan Gu, a ty umierasz w zamian. [+1 Outsider]",
-      "other": "Fang Gu wybiera gracza. :reminder: Jeżeli wybrał Outsidera (tylko raz): Zamień żeton Outsidera na dodatkowy żeton Fang Gu. Uśpij Fang Gu i obudź cel. Pokaż kartę *JESTEŚ* i żeton Fang Gu i kciuk w dół (zły). :reminder:"
+      "ability": "Każdej nocy* wybierz gracza: umiera. Pierwszy Outsider, którego tak zabijesz, staje się złym Fang Gu, a ty umierasz zamiast niego. [+1 Outsider]",
+      "other": "Fang Gu wybiera gracza. :reminder: Jeżeli wybrał Outsidera (tylko raz): Zamień żeton Outsidera na dodatkowy żeton Fang Gu. Uśpij Fang Gu i obudź cel. Pokaż kartę *JESTEŚ* i żeton Fang Gu i kciuk w dół. :reminder:"
     },
     "fiddler": {
       "name": "Skrzypek"
@@ -113,9 +113,9 @@
       "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi."
     },
     "godfather": {
-      "ability": "Zaczynasz grę wiedząc, którzy Outsiderzy są w grze. Jeżeli jeden umarł tego dnia, wybierz gracza tej nocy: umiera. [-1 albo +1 Outsider]",
+      "ability": "Zaczynasz grę wiedząc, którzy Outsiderzy są w grze. Jeżeli jeden umarł za dnia, wybierz gracza tej nocy: umiera. [-1 albo +1 Outsider]",
       "first": "Pokaż żetony postaci wszystkich Outsiderów, którzy są w grze.",
-      "other": "Jeżeli Outsider umarł dzisiaj, Ojciec Chrzestny wybiera gracza. :reminder:"
+      "other": "Jeżeli za dnia umarł Outsider, Ojciec chrzestny wybiera gracza. :reminder:"
     },
     "goon": {
       "name": "Zbir"
@@ -124,14 +124,14 @@
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]"
     },
     "kazali": {
-      "ability": "Każdej nocy wybierz gracza: umiera. [Ty wybierasz który gracz jest jakim Sługusem. -? do +? Outsiderów]"
+      "ability": "Każdej nocy* wybierz gracza: umiera. [Wybierasz, którzy gracze zostają jakimi Sługusami. -? do +? Outsiderów]"
     },
     "librarian": {
-      "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Outsiderem. (Albo, że nie ma ich w grze)",
-      "first": "Pokaż żeton Outsidera. Wskaż na obu graczy oznaczonych *OUTSIDER* i *BŁĘDNIE*."
+      "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Outsiderem. (Lub że żadnego nie ma w grze.)",
+      "first": "Pokaż żeton Outsidera. Wskaż na obu graczy oznaczonych *OUTSIDER* i *PODPUCHA*."
     },
     "lordoftyphon": {
-      "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie są ustawione w linii. Ty jesteś pośrodku. +1 Sługus. -? do +? Outsiderzy]"
+      "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]"
     },
     "mutant": {
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony."
@@ -145,16 +145,16 @@
       "other": "Jeżeli Kochanica diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
     },
     "spy": {
-      "ability": "Każdej nocy masz wgląd w Grymuar. Możesz zarejestrować się jako dobry i/lub Mieszczanin albo Outsider, nawet jak jesteś martwy."
+      "ability": "Każdej nocy zaglądasz do Grymuaru. Możesz pokazać się jako dobry i jako Mieszczanin lub Outsider, nawet po śmierci."
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
     "vigormortis": {
-      "ability": "Każdej nocy* wybierz gracza: umiera. Zabici w ten sposób Sługusi zachowują swą umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
+      "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
     "xaan": {
-      "ability": "W nocy X, wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]"
+      "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]"
     },
     "yaggababble": {
       "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
