@@ -46,6 +46,7 @@
         "title": "Tähän peliin liittyminen vaatii aktiivisen tilauksen"
       },
       "travellers": {
+        "title": "Voiko pelisessioon osallistua Kiertolaisena",
         "value_0": "Valinnainen",
         "value_1": "Kyllä",
         "value_2": "Ei"
