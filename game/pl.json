@@ -912,6 +912,7 @@
       "name": "Tor"
     },
     "towncrier": {
+      "ability": "Każdej nocy* dowiadujesz się czy Sługus nominował.",
       "flavor": "Słuchajcie! Słuchajcie! Czary w labiryncie! Genialny uczony odkrywa wszystko! Miasteczko zagrożone! Słuchajcie!",
       "name": "Krzykacz Miejski"
     },
@@ -941,6 +942,7 @@
       "name": "Wezyr"
     },
     "vortox": {
+      "ability": "Każdej nocy* wybierz gracza: umiera. Umiejętności Mieszczan generują fałszywe informacje, jeżeli nikt nie zostanie poddany egzekucji zło wygrywa.",
       "name": "Vortox"
     },
     "voudon": {
@@ -954,6 +956,9 @@
     },
     "widow": {
       "name": "Wdowa"
+    },
+    "witch": {
+      "ability": "Każdej nocy wybierz gracza: jeśli jutro nominuje, umiera. Jeżeli w grze jest tylko 3 graczy, tracisz tą umiejętność."
     },
     "wizard": {
       "name": "Czarodziej"
