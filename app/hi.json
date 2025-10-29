@@ -1,1 +1,6 @@
-{}
+{
+  "common": {
+    "button_search": "खोजें",
+    "button_send": "भेजें"
+  }
+}
