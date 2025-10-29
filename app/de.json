@@ -591,11 +591,11 @@
     },
     "users": {
       "chat_connection": "Chat-Verbindung",
-      "grim_access": "Einblick in das Grimoire",
+      "grim_access": "Grimoire-Einblick",
       "group_sub": "Gruppen-Abonnement",
       "new_user": "Neuer Benutzer",
       "official_mod": "Offizieller Moderator",
-      "official_tpi": "Offizieller TPI-Mitarbeiter",
+      "official_tpi": "Offiziell Teil des TPI-Teams",
       "offline": "Offline",
       "st_requested": "Erzähler angefragt",
       "type_player": "Spieler|{n} Spieler",
@@ -605,26 +605,26 @@
     "verification": {
       "button_reset": "Zurücksetzen",
       "code": "Code",
-      "code_sent": "Ein SMS-Code wurde an deine Telefonnummer geschickt. Bitte gib ihn ein, um deinen Account zu verifizieren!",
+      "code_sent": "Ein Code wurde per SMS an deine Telefonnummer geschickt. Bitte gib ihn ein, um deinen Account zu verifizieren.",
       "country_code": "Landesvorwahl",
-      "error_402": "Leider können Einweg-Telefonnummern nicht für die Account-Verifizierung verwendet werden.",
-      "error_403": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Sollte es sich dabei um einen Fehler handeln, schreib uns bitte eine Mail an {0}.",
+      "error_402": "Einweg-Telefonnummern können nicht für die Account-Verifizierung verwendet werden.",
+      "error_403": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Sollte es sich dabei um einen Fehler handeln, schreib uns bitte eine E-Mail an {0}.",
       "error_404": "Die Verifizierung ist abgelaufen oder ungültig. Bitte versuche es noch einmal.",
-      "error_assigned": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Bitte benutze eine andere Telefonnummer.",
+      "error_assigned": "Diese Telefonnummer wird bereits von einem anderen Benutzer verwendet. Bitte versuche es mit einer anderen Telefonnummer.",
       "error_cooldown": "Du hast die maximale Anzahl an Versuchen erreicht. Bitte warte mindestens {0} Minuten, bevor du es erneut versuchst.",
-      "error_other": "Etwas ist schief gelaufen: {0}. Bitte versuche es noch einmal.",
+      "error_other": "Etwas ist schiefgelaufen: {0}. Bitte versuche es noch einmal.",
       "error_pending": "Ungültiger Code. Bitte versuche es noch einmal.",
       "error_restart": "Du hast die maximale Anzahl an Versuchen erreicht. Bitte gib deine Telefonnummer erneut ein.",
       "phone": "Telefonnummer",
       "success": "Verifizierung erfolgreich! Du kannst dieses Fenster nun schließen.",
-      "text_body": "Wir haben die SMS Verifizierung als Voraussetzung für das Spielen in {0} eingeführt, um die blühende, respektvolle Community zu beschützen, die Blood on the Clocktower zu so etwas Besonderem macht. Während sich die meisten von euch bereits positiv an unserer fantastischen Online-Kultur beteiligen, erlaubt uns dieser Schritt, schnell und zielgerichtet eingreifen zu können, sollte jemand aktiv das Spielerlebnis anderer stören. Private Spiele-Runden sind von dieser Maßnahme nicht betroffen und benötigen keine Verifizierung.",
+      "text_body": "Wir haben die SMS-Verifizierung als Voraussetzung für das Spielen in {0} eingeführt, um die blühende, respektvolle Community zu beschützen, die Blood on the Clocktower zu so etwas Besonderem macht. Während sich die meisten von euch bereits positiv an unserer fantastischen Online-Kultur beteiligen, erlaubt uns dieser Schritt, schnell und zielgerichtet eingreifen zu können, sollte jemand aktiv das Spielerlebnis anderer stören. Private Runden sind von dieser Maßnahme nicht betroffen und benötigen keine Verifizierung.",
       "text_body2": "öffentlichen Runden",
-      "text_footer": "Übertragene Telefonnummern werden nicht in einer lesbaren Form gespeichert.",
+      "text_footer": "Telefonnummern werden in nicht-lesbarer Form gespeichert.",
       "text_title": "Warum ist das notwendig?",
       "title": "Account-Verifizierung"
     },
     "votehistory": {
-      "clear": "Nominierungsliste leeren",
+      "clear": "Abstimmungsverlauf leeren",
       "execution": "Hinrichtung",
       "exile": "Verbannung",
       "majority": "Mehrheit",
@@ -632,8 +632,8 @@
       "nominee": "Angeklagter",
       "phase": "Spielphase",
       "pregame": "Vor Spielbeginn",
-      "title": "Nominierungsliste",
-      "type": "Art",
+      "title": "Abstimmungsverlauf",
+      "type": "Typ",
       "voters": "Abstimmende",
       "votes": "Stimmen"
     }
@@ -649,21 +649,21 @@
       "gardener_button": "verteile die Charaktere",
       "gardener_text": "Wenn du mit der Charakter-Zusammenstellung zufrieden bist, {0} an deine Spieler. Sobald die Charaktere ausgegeben sind, kannst du mit der Vorbereitung der ersten Nacht beginnen.",
       "reminders": "Verteile alle notwendigen {0} Erinnerungsplättchen.",
-      "title": "Erste Nacht Vorbereiten"
+      "title": "Erste Nacht vorbereiten"
     },
     "gatherplayers": {
       "button_add": "Neuer Sitz",
       "button_clear": "Leere löschen",
       "button_clearall": "Alle löschen",
       "button_select": "Wähle ein Szenario",
-      "button_shuffle": "Sitze mischen",
+      "button_shuffle": "Sitze durchmischen",
       "clear_text": "Möchtest du wirklich alle Sitze entfernen?",
       "clear_title": "Alle Sitze entfernen",
       "move": "Hinter\n{0}",
-      "shuffle_text": "Möchtest du wirklich alle Sitze mischen?",
-      "shuffle_title": "Sitze mischen",
+      "shuffle_text": "Möchtest du wirklich alle Sitze zufällig neu anordnen?",
+      "shuffle_title": "Sitze durchmischen",
       "swap": "Tauschen mit\n{0}",
-      "text": "Hier kannst du Spieler-Sitze hinzufügen, mischen oder entfernen.",
+      "text": "Hier kannst du Spieler-Sitze hinzufügen, durchmischen oder entfernen.",
       "text2": "Wenn genug Sitze für alle Spieler da sind, {0}",
       "title": "Sitze verwalten",
       "warning": "Du brauchst mindestens 7 Spieler für ein normales Spiel in Rabenholz."
@@ -677,16 +677,16 @@
         "state_open-eyes": "offen",
         "state_peek-eyes": "halb offen",
         "text": "Deine Augen sind {0}",
-        "tooltip_false": "Du siehst keine Nacht-Zeichen von anderen Spielern und du kannst auch niemandem eine private Text-Nachricht senden, außer den Erzählern und deinen Sitz-Nachbarn.",
-        "tooltip_open-eyes": "Du kannst allen anderen Spielern private Text-Nachrichten schicken und von ihnen erhalten, egal wo sie sitzen. Du siehst den Inhalt aller Nacht-Zeichen, die von allen Spielern geschickt und empfangen werden, aber es besteht das Risiko, dass du dabei erwischt wirst.",
-        "tooltip_peek-eyes": "Du kannst allen anderen Spielern private Text-Nachrichten schicken und von ihnen erhalten, egal wo sie sitzen. Du siehst, wer wann Nacht-Zeichen sendet und empfängt, jedoch nicht deren Inhalte. Dafür kann dich aber niemand erwischen dabei."
+        "tooltip_false": "Du siehst keine Nacht-Zeichen, die andere Spieler senden oder empfangen, und du kannst niemandem eine private Text-Nachricht senden, außer deinen Sitz-Nachbarn und dem Erzähler.",
+        "tooltip_open-eyes": "Du kannst allen Spielern private Text-Nachrichten schicken und von ihnen erhalten, egal wo sie sitzen. Du siehst alle Nacht-Zeichen, die andere Spieler senden oder empfangen, aber es besteht das Risiko, dass du dabei erwischt wirst.",
+        "tooltip_peek-eyes": "Du kannst allen Spielern private Text-Nachrichten schicken und von ihnen erhalten, egal wo sie sitzen. Du siehst, wer wann Nacht-Zeichen sendet und empfängt, jedoch nicht deren Inhalte. Niemand kann dich dabei erwischen."
       }
     },
     "pointing": {
       "button_countdown": "Countdown",
       "countdown_freeze": "Stop",
       "nobody": "niemand",
-      "prompt": "Klicke auf einen Spieler um auf ihn zu zeigen!",
+      "prompt": "Klicke auf einen Spieler, um auf ihn zu zeigen.",
       "title_locked": "Gewählter Spieler:|Gewählte Spieler:",
       "title_open": "Aktuell gewählt:|Aktuell gewählt:",
       "you_pointed": "Du zeigst auf:"
@@ -696,16 +696,16 @@
       "button_result": "Spielergebnis",
       "evil": "Böse",
       "good": "Gut",
-      "prompt": "Achtung: diese Aktion beendet das Spiel und deckt das Grimoire für alle Spieler auf!\nWelche Fraktion hat gewonnen?",
+      "prompt": "Achtung: Diese Aktion beendet das Spiel und deckt das Grimoire für alle Spieler auf!\nWelche Fraktion hat gewonnen?",
       "result": "{0} hat gewonnen!",
-      "text": "Gib das Spiel-Ergebnis bekannt und decke die einzelnen Charaktere auf, indem du auf den jeweiligen Token klickst. Du kannst vorab mit der Maus über den Token fahren, um eine Vorschau des Charakters zu erhalten.",
-      "title": "Grimoire Aufdecken"
+      "text": "Gib das Spielergebnis bekannt und decke die einzelnen Charaktere auf, indem du das jeweilige Plättchen anklickst. Du kannst vorab mit der Maus über ein Plättchen fahren, um eine Vorschau des Charakters zu sehen.",
+      "title": "Grimoire aufdecken"
     },
     "rules": {
       "button_select": "Charaktere auszuwählen",
       "text": "Du bist nun bereit, um die {0}",
-      "text2": "Sollte es Reisende von Beginn an in diesem Spiel geben, musst du diese vor der Ausgabe der Charaktere zuweisen.",
-      "title": "Charaktere Auswählen"
+      "text2": "Sollte es von Beginn an Reisende in diesem Spiel geben, musst du diese vor der Ausgabe der Charaktere zuweisen.",
+      "title": "Charaktere auswählen"
     },
     "towninfo": {
       "alive": "Lebendig",
@@ -722,12 +722,12 @@
       "button_chat": "Chat öffnen",
       "button_countdown": "Countdown",
       "button_defense": "Zur Verteidigung",
-      "button_hand_down": "RUNTER",
-      "button_hand_up": "HOCH",
+      "button_hand_down": "SENKEN",
+      "button_hand_up": "HEBEN",
       "button_mark": "Stirbt bald",
       "button_mark_remove": "Niemand stirbt",
       "button_pause": "Pause",
-      "button_reset": "Reset",
+      "button_reset": "Zurücksetzen",
       "button_restart": "Neustart",
       "button_resume": "Fortsetzen",
       "button_start": "Start",
@@ -745,13 +745,13 @@
       "warning_shortcuts": "Tastenkürzel sind deaktiviert!"
     },
     "whisper": {
-      "muted": "Dieser Spieler ist stumm geschaltet (worden) im Sprach-Chat.",
-      "video_muted": "Dieser Spieler hat die Kamera pausiert / blockiert."
+      "muted": "Dieser Spieler ist stummgeschaltet (worden).",
+      "video_muted": "Die Kamera dieses Spielers ist pausiert / deaktiviert."
     }
   },
   "pages": {
     "banned": {
-      "description": "Dein Account wurde {0} aufgrund von in der Vergangenheit liegenden Vorfällen und kann aktuell nicht verwendet werden.",
+      "description": "Dein Account wurde aufgrund von kürzlich vorgefallenen Ereignissen {0} und kann aktuell nicht verwendet werden.",
       "description_banned": "gesperrt",
       "expires": "Die Sperre gilt bis zum:",
       "expires2": "Wir hoffen, dass sich dieses Verhalten nicht wiederholt, da dein Account andernfalls permanent gesperrt werden könnte.",
@@ -763,7 +763,7 @@
       "title": "Account gesperrt"
     },
     "clock": {
-      "description": "Deine Computer-Uhr weicht aktuell von der tatsächlichen Uhrzeit ab um {0}. Dies kann dazu führen, dass während einer Online-Runde in der App Fehler auftreten. Du kannst deine Computer-Uhr {1} synchronisieren. Bitte lade die App neu, sobald du deine Uhr synchronisiert hast.",
+      "description": "Deine Computer-Uhr weicht um {0} von der tatsächlichen Uhrzeit ab. Dies kann dazu führen, dass beim Spielen in der App Fehler auftreten. Du kannst deine Computer-Uhr {1} synchronisieren. Bitte lade die App neu, sobald du deine Uhr synchronisiert hast.",
       "description_mins": "1 Minute|{n} Minuten",
       "description_online": "online",
       "return": "Zurück zur App",
@@ -783,11 +783,11 @@
       "characters": "Charaktere",
       "create_game": "Neue Runde erstellen",
       "edition_by": "von {author}",
-      "forced_private": "Du darfst keine öffentlichen Runden mehr betreten.",
+      "forced_private": "Du darfst öffentlichen Runden nicht mehr beitreten.",
       "free_tier_free": "Kostenlos",
       "free_tier_patreon": "Patreon",
-      "free_tier_unverified": "Du hast einen {0}-Account. Du kannst jeder der oben aufgelisteten Runden mit einem Klick auf den Namen beitreten, sofern sie kein Abonnement voraussetzen. Wenn du deine eigenen Runden erstellen möchtest, benötigst du ein bezahltes Abo von {1}.",
-      "free_tier_verified": "Du hast einen {0} Account. Du musst zuerst deinen {1} bevor du in öffentlichen Runden mitspielen kannst. Wenn du deine eigenen Runden erstellen möchtest, benötigst du ein bezahltes Abo von {2}.",
+      "free_tier_unverified": "Du hast einen {0}-Account. Du kannst jeder der oben aufgelisteten Runden mit einem Klick auf den Namen beitreten, sofern sie kein Abonnement voraussetzen. Wenn du deine eigenen Runden erstellen möchtest, benötigst du ein kostenpflichtiges Abo von {1}.",
+      "free_tier_verified": "Du hast einen {0} Account. Du musst deinen {1}, bevor du in öffentlichen Runden mitspielen kannst. Wenn du deine eigenen Runden erstellen möchtest, benötigst du ein kostenpflichtiges Abo von {2}.",
       "free_tier_verify": "Account verifizieren",
       "game": "Runde",
       "language": "Sprache",
@@ -820,35 +820,35 @@
       "recover_password": "Passwort vergessen",
       "register": "Registrieren",
       "subscribe": "Mailing-Liste abonnieren",
-      "title": "Willkommen bei Blood on the Clocktower Online - Under Construction!",
+      "title": "Willkommen bei Blood on the Clocktower Online – Under Construction!",
       "username": "Benutzername"
     },
     "update": {
-      "description": "Du verwendest derzeit die App Version {0}, aber es ist bereits Version {1} erschienen.",
-      "download": "Lade die neueste {label} Version hier runter.",
+      "description": "Du verwendest derzeit die App-Version {0}, aber es ist bereits Version {1} erschienen.",
+      "download": "Lade die neueste {label}-Version hier herunter.",
       "reload": "Bitte lade die Seite neu und leere gegebenenfalls deinen Browser-Cache, um die neueste Version zu nutzen.",
       "title": "Bitte aktualisiere deine App"
     },
     "verification": {
-      "button_resend": "Code neu senden",
-      "code": "6-stellige Zahl",
-      "description": "Bitte verifiziere deinen Account, um fortzufahren. Wir haben einen Code an die hinterlegte Email-Adresse gesendet - gib ihn bitte ein, um fortzufahren. Hast du keinen Zugriff mehr auf diese Email-Adresse?",
+      "button_resend": "Code erneut senden",
+      "code": "6-stelliger Code",
+      "description": "Bitte verifiziere deinen Account. Wir haben einen Code an die hinterlegte E-Mail-Adresse gesendet – gib ihn ein, um fortzufahren. Hast du keinen Zugriff mehr auf diese E-Mail-Adresse?",
       "email_success": "E-Mail erfolgreich versandt.",
-      "error_429": "Bitte warte mindestens {0} Sekunden, bevor du es nochmal versuchst.",
-      "error_disposable": "Einweg-Email-Adressen können leider nicht zur Verifizierung von Accounts verwendet werden.",
-      "error_verified": "Account bereits verifiziert",
-      "error_wrong": "Falscher Code, bitte versuche es nochmal.",
+      "error_429": "Bitte warte mindestens {0} Sekunden, bevor du es noch einmal versuchst.",
+      "error_disposable": "Einweg-E-Mail-Adressen können nicht zur Verifizierung von Accounts verwendet werden.",
+      "error_verified": "Account ist bereits verifiziert",
+      "error_wrong": "Falscher Code, bitte versuche es noch einmal.",
       "link": "Dann kannst du sie hier ändern."
     }
   },
   "player": {
     "menu": {
-      "alignment": "Fraktion ändern",
+      "alignment": "Fraktion wechseln",
       "character": "Charakter ändern",
       "chat": "Privates Gespräch",
       "empty": "Sitz leeren",
       "empty_text": "Möchtest du diesen Spieler wirklich von seinem Sitz entfernen, während das Spiel läuft?",
-      "empty_title": "Sitz leeren von {0}",
+      "empty_title": "Sitz von {0} leeren",
       "follow": "Spieler folgen",
       "nominate": "Selbstnominierung",
       "unfollow": "Nicht mehr folgen",
@@ -857,13 +857,13 @@
     },
     "name": {
       "claim": "Klick zum Sitzen",
-      "connecting": "Dieser Spieler verbindet sich gerade zum Chat.",
+      "connecting": "Dieser Spieler verbindet sich gerade zum Sprach-Chat.",
       "follow": "Du folgst diesem Spieler.",
       "listening": "Dieser Spieler hört den Sprach-Chat.",
-      "move": "Spieler bewegen.",
+      "move": "Spieler verschieben",
       "offline": "Dieser Spieler ist gerade offline.",
-      "remove": "Sitz entfernen.",
-      "remove_text": "Möchtest du wirklich Sitz {0} entfernen?\nDort sitzt gerade {1}.",
+      "remove": "Sitz entfernen",
+      "remove_text": "Möchtest du Sitz {0} wirklich entfernen?\n Dort sitzt gerade {1}.",
       "remove_title": "Sitz entfernen",
       "seat_text": "(dieser Name ist nur für dich sichtbar)",
       "seat_title": "Sitz umbenennen"
