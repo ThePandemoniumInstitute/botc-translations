@@ -338,6 +338,12 @@
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
+    "undertaker": {
+      "ability": "Każdej nocy* dowiadujesz się jaką postacią był gracz stracony tego dnia.",
+      "flavor": "Hmmm...co my tu mamy? Lewy but jest zdarty aż do cholewy, z odłamkami krzesiwa pod językiem. To odzienie kogoś z wojska.",
+      "name": "Grabarz",
+      "other": "Jeżeli jakiś gracz został stracony tego dnia, pokaż jego żeton postaci."
+    },
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
