@@ -30,6 +30,7 @@
       "difficulty": {
         "label": "難易度",
         "title": "このゲームの参加者はどのぐらいの経験があるか",
+        "value_0": "中級者",
         "value_1": "上級者",
         "value_2": "初心者"
       },
@@ -37,6 +38,7 @@
         "label": "グリモワールのアクセス",
         "title": "観戦者がグリモワールの中を覗けるか",
         "value_0": "依頼",
+        "value_1": "なし",
         "value_2": "いいえ"
       },
       "streaming": {
@@ -70,6 +72,7 @@
       "pointing": "選手を選択する"
     },
     "demon": "悪魔|悪魔たち",
+    "fabled": "伝説人|伝説人たち",
     "minion": "手下|手下たち",
     "outsider": "よそ者|よそ者たち",
     "phases": {
@@ -84,7 +87,11 @@
     "players": "参加者",
     "seat": "座席{0}",
     "shroud": "帷子",
-    "token": "トークン"
+    "storyteller": "ストリーテラー{0}",
+    "storytellers": "ストリーテラーたち",
+    "token": "トークン",
+    "townsfolk": "市人",
+    "traveller": "旅人"
   },
   "main-menu": {
     "cast_vote": "投票する",
@@ -902,7 +909,8 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "このタブを画面上の任意な位置にドラッグして配置できます。"
+      "drag": "このタブを画面上の任意な位置にドラッグして配置できます。",
+      "title": "虚勢"
     },
     "character": {
       "download": "台本のJSONをダウンロード",
