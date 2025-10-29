@@ -150,6 +150,12 @@
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
+    "vigormortis": {
+      "ability": "Każdej nocy* wybierz gracza: umiera. Zabici w ten sposób Sługusi zachowują swą umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
+    },
+    "xaan": {
+      "ability": "W nocy X, wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]"
+    },
     "yaggababble": {
       "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
       "first": "Wybierz tajemną frazę. Obudź Yaggababble i przekaż frazę.",
