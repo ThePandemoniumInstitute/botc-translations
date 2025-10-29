@@ -1028,7 +1028,7 @@
       "loading": "Cargando estadísticas...",
       "none": "Ninguna",
       "player": "Juegos\n Jugados",
-      "player_wins": "% Victoria",
+      "player_wins": "{0}% Victoria",
       "role": "Roles Iniciales más\n Recibidos",
       "st_evil_wins": "{0}% Victoria de los Malvados",
       "storyteller": "Juegos\n Narrados",
