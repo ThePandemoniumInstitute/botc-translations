@@ -45,7 +45,7 @@
     "boffin-villageidiot": "Jeżeli w grze jest zbędny token, Szalony Naukowiec może dać Demonowi umiejętność Wioskowego Idioty.",
     "bountyhunter-kazali": "Jeżeli Kazali zmieni Łowcę Nagród w Sługusa to wtedy nie powstaje zły Mieszczanin.",
     "butler-cannibal": "Jeżeli Kanibal otrzymuje umiejętność Lokaja, Kanibal się o tym dowiaduje.",
-    "butler-organgrinder": "Jeśli Zgniatacz Organów powoduje głosowanie na ślepo, Lokaj może podnieść rękę podczas głosowania, ale jego głos się liczy tylko gdy jego pan także zagłosował.",
+    "butler-organgrinder": "Jeśli Kataryniarz powoduje głosowanie z zamkniętymi oczami, Lokaj może podnieść rękę podczas głosowania, ale jego głos się liczy tylko, gdy jego pan także zagłosował.",
     "cannibal-juggler": "Jeżeli Żongler zgadywał pierwszego dnia i umrze w wyniku egzekucji, tej nocy żywy Kanibal dowiaduje się ile trafnych zgadnięć dostałby Żongler.",
     "cannibal-zealot": "Jeżeli Kanibal otrzymuje umiejętność Zeloty, Kanibal się o tym dowiaduje.",
     "chambermaid-mathematician": "Pokojówka może wykryć, że Matematyk obudzi się tej nocy.",
@@ -100,7 +100,11 @@
       "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie."
     },
     "balloonist": {
-      "ability": "Każdej nocy* poznajesz gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]"
+      "ability": "Każdej nocy* poznajesz gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]",
+      "first": "Pokaż dowolnego gracza. :reminder:",
+      "flavor": "Więcej ciepła! Wyżej! Wyżej! Più alto! Ahhh... wszystko jest takie piękne z tej wysokości, prawda? Widzisz dzieci bawiące się przy rzece, koło tej wierzby? Widzisz jak promienie słońca odbijają się od wsporników cyrkowego namiotu? A co to? Starzec, sam, leży w winnicy, zemdlał? Mniej ciepła! Niżej! Niżej! Vai più in basso!",
+      "name": "Baloniarz",
+      "other": "Pokaż gracza o innym typie postaci niż poprzednio. :reminder:"
     },
     "banshee": {
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
@@ -196,7 +200,10 @@
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony."
     },
     "organgrinder": {
-      "name": "Kataryniarz"
+      "ability": "Wszyscy gracze mają zamknięte oczy podczas głosowania, a jego wynik jest tajny. Każdej nocy wybierz czy jesteś pijany do zmierzchu.",
+      "first": "Kataryniarz potakuje na tak, albo zaprzecza ruchem głowy na nie czy jest pijany. :reminder:",
+      "name": "Kataryniarz",
+      "other": "Kataryniarz potakuje na tak, albo zaprzecza ruchem głowy na nie czy jest pijany. :reminder:"
     },
     "pithag": {
       "name": "Jędza",
