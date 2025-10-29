@@ -83,7 +83,7 @@
       "first_night": "Erste Nacht",
       "night": "Erste Nacht|Nacht {n}",
       "other_nights": "Weitere Nächte",
-      "start": "Vorbereitung der 1. Nacht"
+      "start": "Vorbereiten der 1. Nacht"
     },
     "player": "Spieler {0}",
     "players": "Spieler",
@@ -124,7 +124,7 @@
     "npcs": "NPC hinzufügen",
     "prompt_clear_player": "Bist du sicher, dass du alle Charakter- und Erinnerungsplättchen entfernen möchtest?",
     "prompt_clear_st": "Bei dir und allen anderen werden alle Charakter- und Erinnerungsplättchen entfernt. Bist du sicher?",
-    "prompt_clear_title": "Grimoire leeren",
+    "prompt_clear_title": "Grimoire und Erinnerungstoken leeren",
     "prompt_timer_text": "Wähle die Dauer und (optional) einen Titel für den Timer:",
     "prompt_timer_title": "Timer starten",
     "prompt_vacate_text": "Du befindest dich gerade in einer laufenden Runde. Bist du sicher, dass du deinen Sitzplatz verlassen möchtest?",
