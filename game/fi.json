@@ -45,6 +45,7 @@
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
+    "ogre-recluse": "Jos Hylkiö näyttäytyy pahana Jätille, Jätti saa tietää olevansa paha.",
     "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
     "recluse-sage": "Hylkiö saattaa näyttäytyä Demonina Tietäjälle."
   },
@@ -330,6 +331,10 @@
     "poppygrower": {
       "name": "Unikkotarhuri"
     },
+    "recluse": {
+      "ability": "Saatat näyttäytyä pahana & Kätyrinä tai Demonina, vaikka olisit kuollut.",
+      "name": "Hylkiö"
+    },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!",
       "name": "Mellakka"
@@ -339,6 +344,9 @@
     },
     "savant": {
       "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla..."
+    },
+    "scarletwoman": {
+      "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kiertolaisia ei lasketa.)"
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
