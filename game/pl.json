@@ -1077,7 +1077,9 @@
     "sailor": {
       "ability": "Każdej nocy wybierz gracza: jeden z was jest pijany do zmierzchu. Nie możesz umrzeć.",
       "first": "Żeglarz wybiera żywego gracza. :reminder:",
-      "name": "Żeglarz"
+      "flavor": "Przepiję któregokolwiek z was pod stół! Ty! Gaduło! Myślisz, że dasz mi radę? Nie? A ty, babciu? Próbowałaś kiedyś Old McKilly’s Extra Spiced Rum? Gwarantuję, że wyrosną ci po tym włosy na klacie! Wskakuj na pokład, ej!",
+      "name": "Żeglarz",
+      "other": "Żeglarz wybiera żywego gracza. :reminder:"
     },
     "saint": {
       "ability": "Jeżeli umrzesz w wyniku egzekucji, twoja drużyna przegrywa.",
@@ -1108,8 +1110,10 @@
       "name": "Strażnik"
     },
     "shabaloth": {
+      "ability": "Każdej nocy* wybierz 2 graczy: umierają. Martwy gracz, którego wybrałeś poprzedniej nocy może zostać zwrócony.",
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
-      "name": "Shabaloth"
+      "name": "Shabaloth",
+      "other": "Poprzednio wybrany gracz może zostać wskrzeszony. :reminder: Shabaloth wybiera 2 graczy. :reminder: :reminder:"
     },
     "shugenja": {
       "ability": "Na początku gry dowiadujesz się, czy najbliższy zły gracz siedzi od ciebie w stronę ruchu wskazówek zegara, czy w przeciwną. Jeżeli odległość jest identyczna, Bajarz wybiera, co pokazać.",
@@ -1122,6 +1126,9 @@
       "name": "Pogromca"
     },
     "snakecharmer": {
+      "ability": "Każdej nocy wybierz żywego gracza: wybrany Demon zamienia się z tobą postacią i przynależnością, następnie staje się zatruty.",
+      "first": "Zaklinacz Węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół (zły). Zamień żeton Zaklinacza Wężów i Demona. Uśpij starego Zaklinacza Wężów. Obudź starego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza Węży oraz kciuk w górę (dobry). :reminder:",
+      "flavor": "Effendi... jestem tylko skromnym człowiekiem, ale mój flet jest złoty i jedna nuta ukoi najdzikszego dżina, Inshallah. Powiadają, że chciwość powiesiła więcej ludzi niż pozróz. Ale nie ja, Effendi... nie ja.",
       "name": "Zaklinacz Węży",
       "other": "Zaklinacz węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół. Zamień żeton Zaklinacza węży i Demona. Uśpij poprzedniego Zaklinacza węży. Obudź poprzedniego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza węży oraz kciuk w górę. :reminder:"
     },
@@ -1169,6 +1176,8 @@
       "other": "Po śmierci Cukiereczka jeden z graczy natychmiast staje się pijany. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
     },
     "tealady": {
+      "ability": "Jeżeli oboje z twoich żyjących sąsiadów są dobrzy, nie mogą umrzeć.",
+      "flavor": "Jeśli ci zimno, herbata cie ogrzeje. Jeśli ci gorąco, herbata cie ochłodzi. Jeśli masz depresję, herbata cię pocieszy. Jeśli jesteś podniecony, herbata cię uspokoi.",
       "name": "Herbaciarka"
     },
     "thief": {
@@ -1178,7 +1187,9 @@
     },
     "tinker": {
       "ability": "Możesz umrzeć w każdej chwili.",
-      "flavor": "Chyba wiem, gdzie leży problem. Na szczęście mam pomysł! Wystarczy jedna drobna poprawka, a katapulta będzie strzelała dwa razy dalej..."
+      "flavor": "Chyba wiem, gdzie leży problem. Na szczęście mam pomysł! Wystarczy jedna drobna poprawka, a katapulta będzie strzelała dwa razy dalej...",
+      "name": "Majsterkowicz",
+      "other": "Majsterkowicz może umrzeć. :reminder:"
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
