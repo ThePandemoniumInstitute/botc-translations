@@ -4,6 +4,7 @@
       "free": "無料",
       "patreon-demon": "悪ティア",
       "patreon-minion": "ミニオンティア",
+      "patreon-townsfolk": "市人ティア",
       "special-free": "優待ティア",
       "special-moderator": "モデレーター",
       "special-tpi": "TPIのスタッフ"
@@ -12,6 +13,7 @@
     "button_cancel": "止める",
     "button_close": "閉じる",
     "button_confirm": "確かめる",
+    "button_continue": "次へ",
     "button_logout": "ログアウト",
     "button_search": "検索",
     "button_send": "送信",
@@ -20,7 +22,10 @@
     "session-tags": {
       "cameras": {
         "label": "カメラ",
-        "value_1": "必要"
+        "title": "このゲームでカメラが使用されているかどうか",
+        "value_0": "オプショナル",
+        "value_1": "必要",
+        "value_2": "なし"
       },
       "difficulty": {
         "label": "難易度",
