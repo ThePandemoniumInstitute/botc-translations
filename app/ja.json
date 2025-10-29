@@ -687,5 +687,46 @@
     "lobby": {
       "free_tier_free": "無料"
     }
+  },
+  "player": {
+    "name": {
+      "connecting": "このプレイヤーはボイスチャットに接続中です。"
+    },
+    "overlay": {
+      "point": "このプレイヤーに指す"
+    }
+  },
+  "session": {
+    "access": "アクセス",
+    "created": "{0}分前、{1}に作成された。",
+    "title_create": "ゲームを作成する"
+  },
+  "storyteller": {
+    "following": "このストーリーテラーをフォローしています。",
+    "listening": "ストーリーテラーはボイスチャットで聞いています。",
+    "offline": "ストリーテラーはオフラインです。",
+    "title": "ストーリーテラー"
+  },
+  "tabs": {
+    "chat": {
+      "channels": {
+        "custom_1": "塔",
+        "tb_4": "研究室"
+      },
+      "spectator": "観客者"
+    },
+    "text": {
+      "prompt_spectator": "観客者チャット",
+      "system": {
+        "seat_vacate": "{0}が座席{1}を立ち上がった。",
+        "signal": "{0}が夜の合図を{1}に送信した。",
+        "start": "ゲームスタート！キャラクターが選手全員に送信されました。",
+        "storyteller_add": "{0}がストーリーテラーになりました。",
+        "storyteller_remove": "{0}がストリーテラーをやめました。",
+        "vote": "{0}がお化けの投票を使用しました。"
+      },
+      "title": "テキスト",
+      "tooltip": "受信者{1}との{0}コの未読メッセージを見せる"
+    }
   }
 }
