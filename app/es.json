@@ -325,7 +325,7 @@
       "error_traveller": "No se ha encontrado ningún Viajero que coincida con {0}.",
       "tab_character": "Personajes disponibles",
       "tab_traveller": "Otros Viajeros",
-      "title": "Elige un {target} {alignment}",
+      "title": "Elige un {target} {type} {alignment}",
       "title_alignment_e": "Malvado",
       "title_alignment_g": "Bueno",
       "title_alignment_r": "normal"
