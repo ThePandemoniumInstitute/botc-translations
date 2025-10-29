@@ -89,6 +89,7 @@
     "lilmonsta-vizier": "Jeżeli Wezyr opiekuje się Potforkiem, to umiera od egzekucji.",
     "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
     "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
+    "monk-riot": "Jeżeli Zamieszki nominowały i doprowadziły do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
@@ -282,6 +283,12 @@
     },
     "minstrel": {
       "name": "Minstrel"
+    },
+    "monk": {
+      "ability": "Każdej nocy* wybierz gracza (nie siebie): tej nocy jest on bezpieczny przed Demonem.",
+      "flavor": "Zły to wiatr, co śmiercią dziś powiewa. Pójdź, bracie mój, schroń się w murach opactwa, gdy nawałnica huczy. Na słowo moje i na życie własne, będziesz dziś bezpieczny.",
+      "name": "Mnich",
+      "other": "Mnich wybiera gracza. :reminder:"
     },
     "mutant": {
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony.",
