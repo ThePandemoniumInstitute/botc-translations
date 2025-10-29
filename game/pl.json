@@ -841,6 +841,7 @@
       "name": "Tor"
     },
     "towncrier": {
+      "flavor": "Słuchajcie! Słuchajcie! Czary w labiryncie! Genialny uczony odkrywa wszystko! Miasteczko zagrożone! Słuchajcie!",
       "name": "Krzykacz Miejski"
     },
     "undertaker": {
@@ -887,6 +888,7 @@
       "name": "Czarodziej"
     },
     "wraith": {
+      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
       "name": "Upiór"
     },
     "xaan": {
