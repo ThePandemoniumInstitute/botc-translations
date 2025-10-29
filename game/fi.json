@@ -1098,7 +1098,8 @@
     },
     "scapegoat": {
       "ability": "Jos puolellasi oleva pelaaja teloitetaan, sinut saatetaan teloittaa tämän sijaan.",
-      "flavor": "Hyvää iltaa! Kiitos tanssiais-kutsusta. En ole täältäpäin kotoisin, mutta vaikutatte kyllä ystävälliseltä porukalta. Tulemme varmasti oikein hyvin toimeen. Mitähän varten tuo köysi on?"
+      "flavor": "Hyvää iltaa! Kiitos tanssiais-kutsusta. En ole täältäpäin kotoisin, mutta vaikutatte kyllä ystävälliseltä porukalta. Tulemme varmasti oikein hyvin toimeen. Mitähän varten tuo köysi on?",
+      "name": "Syntipukki"
     },
     "scarletwoman": {
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)",
