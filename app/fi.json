@@ -176,11 +176,13 @@
       "close_timer": "Tämä pop-up sulkee itsensä {n}s.",
       "error": {
         "add_player": "Pelaajaa ei voi lisätä",
+        "add_storyteller": "Virhe Kertojan lisäyksessä",
         "avatar": "Virhe avatarin lataamisessa",
         "avatar_generic": "Jokin meni vikaan yrittäessä ladata avatariasi.",
         "avatar_pixel": "Kuvasi oli liian iso. Pinennä sen kokoa olemaan vähempi kuin 4000x4000 ennen kuin lataat sen uudestaan.",
         "avatar_size": "Tiedostosi oli liian iso. Yritä uudestaan kuvalla jonka koko on pienempi kuin 5MB.",
         "avatar_type": "Tiedostoasi ei tunnistettu kuvaksi.",
+        "bluffs": "Virhe bluffien päivityksessä",
         "claiming": "Virhe istuimen ottamisessa",
         "clear_grim": "Loitsukirjaa ei voi tyhjentää",
         "connection": "Tapahtui yhteysvirhe",
