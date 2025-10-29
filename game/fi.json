@@ -553,7 +553,11 @@
       "name": "Maajussi"
     },
     "fearmonger": {
-      "ability": "Joka yö, valitse pelaaja: jos nimität & teloitat heidät, heidän joukkueensa häviää. Kaikki pelaajat tietävät jos valitset uuden pelaajan."
+      "ability": "Joka yö, valitse pelaaja: jos nimität & teloitat heidät, heidän joukkueensa häviää. Kaikki pelaajat tietävät jos valitset uuden pelaajan.",
+      "name": "Pelonlietsoja"
+    },
+    "ferryman": {
+      "name": "Lautturi"
     },
     "gardener": {
       "flavor": "Kun viisastelusta tulee tyhmyyttä ja tekopyhyydestä julmuutta, vetäydy puutarhaan. Kukat ja kivet ovat vanhojen ihmisten viimeinen rakkaus.",
