@@ -46,7 +46,8 @@
         "value_1": "はい"
       },
       "subscription": {
-        "label": "サブスクリプションが必要"
+        "label": "サブスクリプションが必要",
+        "title": "このゲームを参加するには購読契約が必要となります"
       },
       "travellers": {
         "label": "旅人",
@@ -85,6 +86,7 @@
     "token": "トークン"
   },
   "main-menu": {
+    "cast_vote": "投票する",
     "change_icon": "プロフィール写真を変更する",
     "char_sheet": "キャラクターシート",
     "characters": "キャラクターを選択する",
