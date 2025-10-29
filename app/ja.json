@@ -31,6 +31,8 @@
     }
   },
   "grimoire": {
+    "seat": "座席{0}",
+    "shroud": "帷子",
     "token": "トークン"
   },
   "main-menu": {
