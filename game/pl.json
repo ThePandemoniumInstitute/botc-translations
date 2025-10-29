@@ -35,12 +35,12 @@
     "atheist-riot": "Podczas zadymy, jeżeli Bajarz zostanie nominowany, gracze głosują. Jeżeli \"ma umrzeć\", gra się kończy. Jeżeli nie, mogą dalej nominować.",
     "balloonist-marionette": "Jeżeli Marionetka myśli, że jest Baloniarzem, to Outsider mógł zostać dodany podczas przygotowywania gry.",
     "banshee-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzednich nocy): wybrana Banshee umiera i otrzymuje swoją umiejętność.",
-    "banshee-vortox": "Jeżeli Vortox zabije Banshee wszyscy gracze dowiadują się, że Banshee umarła.",
+    "banshee-vortox": "Jeżeli Vortox zabije Banshee, wszyscy gracze dowiadują się, że Banshee umarła.",
     "baron-heretic": "Tylko 1 przeklęta postać może być w grze.",
     "baron-plaguedoctor": "Jeżeli Bajarz zdobył umiejętność Barona, maksymalnie dwóch graczy staje się Outsiderami.",
     "boffin-cultleader": "Jeżeli Demon ma zdolność Sekciarza, nie może on zmienić się w dobrego w wyniku działania tej umiejętności.",
     "boffin-drunk": "Demon nie może mieć umiejętności Pijaka.",
-    "boffin-goon": "Jeśli Demon miał by mieć umiejętność Zbira, nie może on zmienić się w dobrego w wyniku tej umiejętności.",
+    "boffin-goon": "Jeśli Demon miałby mieć umiejętność Zbira, nie może zmienić się w dobrego demona w wyniku tej umiejętności.",
     "boffin-heretic": "Demon nie może mieć umiejętności Heretyka.",
     "boffin-ogre": "Demon nie może mieć umiejętności Ogra.",
     "boffin-politician": "Demon nie może mieć umiejętności Polityka.",
@@ -102,6 +102,7 @@
     "plaguedoctor-spy": "Jeżeli Bajarz miałby dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
+    "ravenkeeper-riot": "Każdej nocy* Zamieszki wybierają dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca Kruków używa swojej umiejętności ale nie umiera.",
     "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon."
   },
   "reminders": {
@@ -393,6 +394,12 @@
     },
     "puzzlemaster": {
       "ability": "1 z graczy jest pijany, nawet po twojej śmierci. Jeżeli zgadniesz (raz), kto to jest, dowiesz się, który gracz jest Demonem, jeśli zgadniesz niepoprawnie, dostaniesz fałszywe informacje."
+    },
+    "ravenkeeper": {
+      "ability": "Jeżeli umrzesz w nocy, zostaniesz obudzony aby wybrać gracza: poznajesz jego postać.",
+      "flavor": "Moje ptaki mnie pomszczą! Lećcie! Lećcie, moje słodkie i oddane zwierzaki! Do dworu i nad rzekę! Nad alejki i na salony! Lećcie!",
+      "name": "Hodowca Kruków",
+      "other": "Jeżeli Hodowca Kruków umarł tej nocy, Hodowca Kruków wybiera gracza. Pokaż żeton postaci tego gracza."
     },
     "recluse": {
       "ability": "Możesz pokazywać się jako zły oraz jako Sługus lub Demon, nawet po śmierci.",
