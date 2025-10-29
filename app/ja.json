@@ -75,8 +75,11 @@
       "day": "初日|{n}日目",
       "first_night": "初夜",
       "night": "初夜|{n}夜目",
-      "other_nights": "他の夜"
+      "other_nights": "他の夜",
+      "start": "初夜の準備中"
     },
+    "player": "参加者{0}",
+    "players": "参加者",
     "seat": "座席{0}",
     "shroud": "帷子",
     "token": "トークン"
