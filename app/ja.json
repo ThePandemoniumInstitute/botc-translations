@@ -91,7 +91,10 @@
     "help": "ヘルプ",
     "json_schema": "台本のJSONスキーマ",
     "leave": "ゲームを退出",
+    "mute_cam": "カメラをオフにする[{0}]",
     "mute_mic": "マイクをミュート [{0}]",
+    "night_info": "夜の情報",
+    "night_info_text": "ストーリーテラーはあなたを目指しました！",
     "night_sheet": "夜間行動表",
     "npcs": "NPCを追加",
     "prompt_clear_player": "すべてのプレイヤーキャラクターやリマインダートークンを本当に削除してよろしいですか？"
