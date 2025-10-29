@@ -2,8 +2,13 @@
   "common": {
     "account-levels": {
       "free": "無料",
-      "patreon-minion": "ミニオンティア"
-    }
+      "patreon-minion": "ミニオンティア",
+      "special-free": "優待ティア",
+      "special-moderator": "モデレーター",
+      "special-tpi": "TPIのスタフ"
+    },
+    "botc_online": "BOTCオンライン",
+    "button_close": "閉じる"
   },
   "grimoire": {
     "token": "トークン"
