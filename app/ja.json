@@ -50,6 +50,10 @@
     "unnamed_user": "匿名ユーザー"
   },
   "grimoire": {
+    "abilities": {
+      "open-eyes": "目を開く・閉じる",
+      "pointing": "選手を選択する"
+    },
     "seat": "座席{0}",
     "shroud": "帷子",
     "token": "トークン"
