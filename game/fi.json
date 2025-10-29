@@ -1,5 +1,8 @@
 {
   "editions": {
+    "bmr": {
+      "name": "Paha Kuu Nousee"
+    },
     "homebrew": {
       "name": "Kotipolttoinen"
     },
