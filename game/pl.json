@@ -1002,10 +1002,12 @@
     },
     "sage": {
       "ability": "Jeżeli zabije cię Demon, dowiadujesz się, że jest nim 1 z 2 graczy.",
-      "name": "Mędrzec"
+      "name": "Mędrzec",
+      "other": "Jeżeli Demon zabił Mędrca, obudź Mędrca i wskaż 2 graczy z których 1 jest Demonem."
     },
     "sailor": {
       "ability": "Każdej nocy wybierz gracza: jeden z was jest pijany do zmierzchu. Nie możesz umrzeć.",
+      "first": "Żeglarz wybiera żywego gracza. :reminder:",
       "name": "Żeglarz"
     },
     "saint": {
@@ -1014,6 +1016,8 @@
       "name": "Święty"
     },
     "scapegoat": {
+      "ability": "Jeżeli gracz z twojej drużyny zostanie stracony, możesz zostać straconym zamiast niego.",
+      "flavor": "Dobry wieczór! Dziękuję, że zaprosiliście mnie na ten bal. Nie jestem stąd, ale wyglądacie na sympatyczną grupę, na Boga. Na pewno się dogadamy. Po co wam tyle liny?",
       "name": "Kozioł Ofiarny"
     },
     "scarletwoman": {
@@ -1023,6 +1027,8 @@
       "other": "Jeżeli Kochanica diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
     },
     "seamstress": {
+      "ability": "Raz na grę, w nocy, wybierz 2 graczy (nie siebie): dowiadujesz się czy należą do tej samej drużyny.",
+      "first": "Szwaczka może wybrać 2 graczy. Potaknij albo zaprzecz głową. :reminder:",
       "name": "Szwaczka"
     },
     "sentinel": {
