@@ -771,6 +771,7 @@
     },
     "lobby": {
       "bootlegger_title": "Aufgepasst!",
+      "bootlegger_warning": "Diese Runde verwendet den Bootlegger/Schmuggler Loric, was bedeutet, dass sie eigen kreierte Regeln oder Charaktere außerhalb der offiziellen Veröffentlichung enthält und eher für erfahrene Spieler geeignet ist.\nWenn du neu bei Blood on the Clocktower bist, empfehlen wir dir, dich zunächst mit den Standardregeln und -charakteren vertraut zu machen, indem du eines der offiziellen Basisskripte spielst. Trouble Brewing ist perfekt für das beste erste Spielerlebnis!\nAuf jeden Fall herzlich willkommen — wir freuen uns, dass du hier bist!\nMöchtest du wirklich an dieser Runde teilnehmen?",
       "button_create_game": "Runde erstellen",
       "button_help": "Hilfe",
       "button_join_game": "Privater Runde beitreten",
