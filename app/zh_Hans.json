@@ -78,7 +78,7 @@
     "outsider": "外来者",
     "phases": {
       "day": "首个白天|第 {n} 天",
-      "end": "游戏中",
+      "end": "等待开局",
       "first_night": "首个夜晚",
       "night": "首个夜晚|第 {n} 夜",
       "other_nights": "其他夜晚",
@@ -132,7 +132,7 @@
     "request_private": "请求私聊",
     "reveal_grim": "揭晓魔典",
     "rules": "阅读游戏规则",
-    "session_expires": "当前游戏房间中不存在 精英爪牙 用户，即将在 {0} 到期。",
+    "session_expires": "当前游戏房间中不存在 精英爪牙 用户，房间将在 {0} 解散。",
     "set_timer": "设定计时器",
     "settings": "设置",
     "show_grim": "显示魔典",
@@ -613,14 +613,14 @@
       "title": "账号验证"
     },
     "votehistory": {
-      "clear": "清空投票历史记录",
+      "clear": "清除投票记录",
       "execution": "处决",
       "exile": "流放",
-      "majority": "多数",
+      "majority": "多数票",
       "nominator": "提名者",
       "nominee": "被提名者",
       "phase": "阶段",
-      "pregame": "之前的对局",
+      "pregame": "游戏前",
       "title": "投票历史记录",
       "type": "类型",
       "voters": "投票人",
@@ -629,14 +629,14 @@
   },
   "overlays": {
     "attention": {
-      "attention": "请注意！",
-      "return": "请立即到城镇广场集合！"
+      "attention": "请大家注意！",
+      "return": "现在请回到城镇广场！"
     },
     "firstnight": {
-      "bluffs": "在 “伪装” 标签页选择 3个角色以分享给恶魔。",
-      "button_begin": "开始进行首个夜晚",
+      "bluffs": "选择三个不在场的善良角色标记作为“恶魔的伪装”来向恶魔展示。",
+      "button_begin": "开始首夜阶段",
       "gardener_button": "发送角色",
-      "gardener_text": "当您已经觉得角色的设置都没问题了，{0} 给你的玩家们。之后便可以开始准备首个夜晚了。",
+      "gardener_text": "当您已经觉得角色的设置都没问题了，{0} 给您的玩家们。然后您就可以开始为首个夜晚做准备了。",
       "reminders": "添加任何需要的{0}提示标记。",
       "title": "准备首个夜晚"
     },
@@ -692,7 +692,7 @@
     },
     "rules": {
       "button_select": "选择角色",
-      "text": "您已经准备好进行 {0}",
+      "text": "您已经准备好 {0}",
       "text2": "旅行者需要在选择角色之前分配给指定玩家。",
       "title": "选择角色"
     },
@@ -710,7 +710,7 @@
       "accusation": "指控",
       "button_chat": "打开聊天",
       "button_countdown": "倒计时",
-      "button_defense": "反对",
+      "button_defense": "转为反对",
       "button_hand_down": "放下",
       "button_hand_up": "举手",
       "button_mark": "标记",
@@ -1027,7 +1027,7 @@
       "loading": "统计加载中...",
       "none": "无",
       "player": "游戏\n场次",
-      "player_wins": "% 胜率",
+      "player_wins": "{0}% 胜率",
       "role": "最多的\n起始角色",
       "st_evil_wins": "邪恶胜率 {0}%",
       "storyteller": "说书\n次数",
