@@ -9,6 +9,7 @@
       "special-moderator": "Moderaattori",
       "special-tpi": "TPI henkilöstö"
     },
+    "botc_online": "Verta Kellotornissa Online",
     "button_allow": "Salli",
     "button_cancel": "Peru",
     "button_close": "Sulje",
@@ -38,6 +39,7 @@
       },
       "grimoire": {
         "label": "Loitsukirjaan pääsy",
+        "title": "Näkevätkö sivustaseuraajat Loitsukirjan",
         "value_0": "Kysy",
         "value_1": "Kyllä",
         "value_2": "Ei"
@@ -60,14 +62,18 @@
     },
     "terms_of_use": "Käyttöehdot",
     "title": "Blood on the Clocktower Online",
+    "trademark": "\"Verta Kellotornissa\" on tavaramerkki, jonka omistavat Steven Medway ja The Pandemonium Institute.",
     "unnamed_user": "Nimetön käyttäjä"
   },
   "grimoire": {
     "abilities": {
+      "distribute-roles": "Jaa roolit",
       "ghost-votes": "Palauta Haamuäänet",
       "grimoire": "Näytä Loitsukirja",
-      "open-eyes": "Avaa/Sulje silmät"
+      "open-eyes": "Avaa/Sulje silmät",
+      "pointing": "Valitse pelaaja"
     },
+    "demon": "Demoni|Demonit",
     "loric": "Satuinen|Satuiset",
     "minion": "Kätyri|Kätyrit",
     "phases": {
