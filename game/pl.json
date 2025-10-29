@@ -301,7 +301,11 @@
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
     "xaan": {
-      "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]"
+      "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]",
+      "first": "Oznacz Xaana przypominajką *NOC 1*. Jeżeli X to 1, oznacz Xaana przypominajką *X*. :reminder: :reminder:",
+      "flavor": "I tak oto upadają. Pojedynczo. Dwójkami, trójkami, pięciorgiem.",
+      "name": "Xaan",
+      "other": "Zmień przypominajkę Xaana na odpowiednia noc. Jeżeli jest to noc X, oznacz Xaana przypominajką *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
