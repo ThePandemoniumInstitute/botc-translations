@@ -1,7 +1,8 @@
 {
   "common": {
     "account-levels": {
-      "free": "無料"
+      "free": "無料",
+      "patreon-minion": "共犯者ティア"
     }
   },
   "grimoire": {
