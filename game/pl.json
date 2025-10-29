@@ -1090,6 +1090,7 @@
       "name": "Praczka"
     },
     "widow": {
+      "ability": "Twojej pierwszej nocy spójrz w Grymuar i wybierz gracza: jest zatruty. 1 dobry gracz dowiaduje się, że Wdowa jest w grze.",
       "first": "Pokaż Grymuar na tak długo jak Wdowa potrzebuje. Wdowa wybiera gracza. :reminder: Uśpij Wdowę. Obudź gracza oznaczonego *Wie* i pokaż żeton Wdowy. :reminder:",
       "name": "Wdowa"
     },
