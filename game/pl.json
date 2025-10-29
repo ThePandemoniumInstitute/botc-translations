@@ -1233,7 +1233,9 @@
     },
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]",
-      "name": "Vigormortis"
+      "flavor": "Wszystkie drzwi są jednymi drzwiami. Wszystkie klucze są tym samym kluczem. Wszystkie filiżanki są tą samą filiżanką, ale ktokolwiek spija wodę, którą mu oferuję nigdy nie będzie spragniony, albowiem woda będzie w nim, źródło tryskające wiekuistym życiem.",
+      "name": "Vigormortis",
+      "other": "Vigormortis wybiera gracza. :reminder: Jeżeli ten gracz był Sługusem, zatruj sąsiadującego Mieszczanina. :reminder: :reminder:"
     },
     "villageidiot": {
       "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych głupków, 1 z dodatkowych jest pijany]",
@@ -1249,14 +1251,18 @@
     },
     "vizier": {
       "ability": "Wszyscy gracze wiedzą, że jesteś Wezyrem. Nie możesz umrzeć za dnia. Jeżeli zagłosował dobry gracz, możesz natychmiast wymusić egzekucję.",
+      "flavor": "Doskonała decyzja, jak zawsze, ekscelencjo. Tak małe wykroczenia jak potrącenie Biskupa rzeczywiście zasługuje na \"sprawiedliwość\" i \"łaskę\". Idź na spacer do ogrodu. Odwiedź galerię i podziwiaj rzeźby Von Straufa. Odpręż się, panie. Ja wszystkim się... zajmę.",
       "name": "Wezyr"
     },
     "vortox": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Umiejętności Mieszczan generują fałszywe informacje. Każdego dnia, jeżeli nikt nie zostanie stracony, zło wygrywa.",
       "flavor": "Czarne jest Białe. Prawe jest Złe. Lewo to Prawo. W Górę jest Wszerz. W Dół droga zła. Idźże za mną, tam prawda twa.",
-      "name": "Vortox"
+      "name": "Vortox",
+      "other": "Vortox wybiera gracza. :reminder:"
     },
     "voudon": {
+      "ability": "Tylko ty i martwi możecie głosować. Nie potrzeba widmowego głosu aby głosować. Większość nie jest wymagana.",
+      "flavor": "Bien venu. Usiądź. Oddychaj głęboko. Wkrocz do krainy umarłych. Przejrzyj ich oczami. Przemów ich głosem. Yon sel lang se janm ase.",
       "name": "Voudon"
     },
     "washerwoman": {
