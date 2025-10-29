@@ -77,6 +77,7 @@
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
+    "magician-vizier": "Jos Visiiri on pelissä, Taikurilla ei ole kykyä, mutta hän on immuuni Visiirin kyvylle.",
     "marionette-plaguedoctor": "Jos Tarinankertoja saisi Sätkynuken kyvyn, yksi Demonin hyvistä naapureista muuttuu Sätkynukeksi.",
     "ogre-pithag": "Jos Pata-akka muuttaa pahan pelaajan Möröksi, ei tämä voi kääntyä oman kykynsä vuoksi hyväksi.",
     "ogre-recluse": "Jos Rastuli näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
@@ -85,6 +86,8 @@
     "plaguedoctor-spy": "Jos Tarinankertoja saisi Vakoojan kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
     "plaguedoctor-wraith": "Jos Tarinankertoja saisi Räyhähengen kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
     "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
+    "poppygrower-spy": "Jos Unikkotarhurilla on kykynsä, Vakooja ei näe Loitsukirjaa.",
+    "poppygrower-widow": "Jos Unikkotarhurilla on kykynsä, Leski ei näe Loitsukirjaa.",
     "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
   },
   "reminders": {
