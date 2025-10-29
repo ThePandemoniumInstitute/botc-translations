@@ -1004,6 +1004,7 @@
       "name": "Dziewica"
     },
     "vizier": {
+      "ability": "Wszyscy gracze wiedzą, że jesteś Wezyrem. Nie możesz umrzeć za dnia. Jeżeli dobrzy głosowali, możesz natychmiast wymusić egzekucje.",
       "name": "Wezyr"
     },
     "vortox": {
@@ -1047,6 +1048,7 @@
       "other": "Za każde wypowiedzenie przez Yaggababble tajemnej frazy, możesz wybrać gracza. Umiera. :reminder:"
     },
     "zealot": {
+      "ability": "Jeżeli żyje 5 lub więcej graczy, musisz głosować podczas każdej nominacji.",
       "name": "Zelota"
     },
     "zenomancer": {
