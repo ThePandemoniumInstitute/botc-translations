@@ -274,6 +274,13 @@
     "lunatic": {
       "name": "Mielipuoli"
     },
+    "pixie": {
+      "name": "Keiju"
+    },
+    "plaguedoctor": {
+      "ability": "Kun kuolet, Kertoja saa jonkin Kätyrin kyvyn.",
+      "name": "Ruttolääkäri"
+    },
     "sailor": {
       "name": "Merimies"
     },
