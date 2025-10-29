@@ -521,6 +521,7 @@
       "name": "Ogrodnik"
     },
     "general": {
+      "ability": "Każdej nocy, dowiadujesz się która przynależność, według Bajarza, wygrywa: dobro, zło, czy żadne.",
       "flavor": "Nie mam czasu na cytaty.",
       "name": "Generał"
     },
@@ -634,6 +635,7 @@
       "name": "Kazali"
     },
     "king": {
+      "ability": "Każdej nocy, jeżeli liczba martwych zrównała się lub przewyższa żywych, dowiadujesz się o 1 żyjącej postaci. Demon wie, że jesteś Królem.",
       "flavor": "Między znojem śmiertelnych, nieznanych dróg / A nocą chorą, słodką w tajemnicy swej / Spoczywa losu barwny, nieskrępowany próg / Gdzie każda twarz — to kwiat w ogrodzie jej.",
       "name": "Król"
     },
@@ -752,6 +754,7 @@
       "other": "Ojo wybiera postać. :reminder: "
     },
     "oracle": {
+      "ability": "Każdej nocy* dowiadujesz się ilu martwych graczy jest złych.",
       "name": "Wyrocznia"
     },
     "organgrinder": {
