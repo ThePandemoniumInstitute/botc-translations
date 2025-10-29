@@ -271,6 +271,7 @@
       "name": "Oppipoika"
     },
     "artist": {
+      "ability": "Kerran pelissä, päivän aikana, voit yksityisesti kysyä Kertojalta minkä tahansa kyllä/ei -kysymyksen.",
       "flavor": "Mon Dieu! C'est lumineux! Luomukseni, hän on... kuinka se sanotaan... Magnifique! Dieu est révélé! Oui.",
       "name": "Taiteilija"
     },
@@ -281,6 +282,7 @@
       "other": "Salamurhaaja saattaa valita pelaajan. :reminder: :reminder:"
     },
     "atheist": {
+      "ability": "Kertoja saa rikkoa pelin sääntöjä, ja jos hänet teloitetaan, hyvät voittavat, vaikka olisit kuollut. [Ei pahoja hahmoja]",
       "name": "Ateisti"
     },
     "balloonist": {
