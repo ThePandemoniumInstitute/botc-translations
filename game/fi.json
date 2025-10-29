@@ -72,12 +72,16 @@
     "exorcist-riot": "Jos Mellakka nimittää ja teloituttaa Manaajan valitseman pelaajan, hyvä voittaa.",
     "exorcist-yaggababble": "Jos Manaaja valitsee Hölösuun, ei Hölösuu tapa ketään yöllä.",
     "fanggu-scarletwoman": "Jos on olemassa samaan aikaan kaksi Demonia, joista toinen oli aiemmin Punahuuli, pysyy tämä Kätyri Punahuulena.",
+    "farmer-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Maanviljelijä käyttää kykyään, mutta ei kuole.",
     "fearmonger-plaguedoctor": "Jos Tarinankertoja saisi Pelonlietsojan kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
     "goblin-plaguedoctor": "Jos Tarinankertoja saisi Hiiden kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
     "grandmother-leviathan": "Jos Leviatan on pelissä ja Lapsenlapsi kuolee teloitukseen, paha voittaa.",
     "hatter-leviathan": "Leviatan ei voi tulla peliin 5. päivän jälkeen.",
+    "hatter-lilmonsta": "Jos Hatuntekijä kuolee ja Demoni valitsee Pikku Riiviön, hän saa myös valita, miksi Kätyriksi muuttuu.",
     "hatter-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
+    "huntsman-marionette": "Jos Marionetti luulee olevansa Metsästäjä, Neito on lisättävä peliin valmisteluvaiheessa.",
     "kazali-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
+    "king-leviathan": "Jos Leviatan on pelissä ja vähintään 1 pelaaja on kuollut, Kuningas saa tietää elävän hahmon joka yö.",
     "king-riot": "Jos Mellakka on pelissä, ja vähintään 1 pelaaja on kuollut, Kuningas saa tietää yhden elävän hahmon joka yö.",
     "legion-magician": "Taikuri herää Leegion kanssa ja saattaa näyttäytyä pahana. Leegio tietää, jos Taikuri on pelissä, muttei kuka tämä on.",
     "legion-minstrel": "Jos Leegio kuolee teloitukseen, Leegio pitää kykynsä, mutta Trubaduuri saattaa tietää, että tämä on Leegio.",
@@ -125,6 +129,7 @@
     "poppygrower-spy": "Jos Unikkotarhurilla on kykynsä, Vakooja ei näe Loitsukirjaa.",
     "poppygrower-summoner": "Jos Unikkotarhuri on elossa 3. yönä, Rienaaja valitsee Demonin, muttei pelaajaa.",
     "poppygrower-widow": "Jos Unikkotarhurilla on kykynsä, Leski ei näe Loitsukirjaa.",
+    "preacher-vizier": "Jos Visiiri menettää kykynsä, hän saa tietää tästä, eikä voi kuolla päivällä.",
     "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
   },
   "reminders": {
@@ -174,6 +179,8 @@
     "lunch": "Lounas",
     "master": "Isäntä",
     "minion": "Kätyri",
+    "minionnominated": "Kätyri teki esityksen",
+    "minionsnotnominated": "Kätyreiltä ei esityksiä",
     "negativevote": "Negatiivinen ääni",
     "night1": "Yö 1",
     "night2": "Yö 2",
@@ -184,6 +191,7 @@
     "outsider": "Muukalainen",
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
+    "redherring": "Harhautus",
     "safe": "Turvassa",
     "soberhealthy": "Selvä & terve",
     "somethingbad": "Jotain ikävää",
@@ -389,6 +397,9 @@
     "gossip": {
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
     },
+    "hermit": {
+      "ability": "Sinulla on kaikkien Muukalaisten kyvyt. [-0 tai -1 Muukalainen]"
+    },
     "hindu": {
       "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
     },
@@ -457,6 +468,9 @@
     "scarletwoman": {
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)"
     },
+    "sentinel": {
+      "ability": "Pelissä saattaa olla 1 Muukalainen enemmän tai vähemmän."
+    },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
@@ -465,6 +479,9 @@
     },
     "slayer": {
       "name": "Lahtari"
+    },
+    "spy": {
+      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Muukalaisena, vaikka olisit kuollut."
     },
     "summoner": {
       "name": "Rienaaja"
@@ -475,6 +492,9 @@
     "ventriloquist": {
       "name": "Käsinukke"
     },
+    "vigormortis": {
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 kyläläisnaapurinsa. [-1 Muukalainen]"
+    },
     "voudon": {
       "name": "Voudon"
     },
@@ -482,6 +502,7 @@
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
     },
     "xaan": {
+      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Muukalaista]",
       "name": "Xaan"
     },
     "zombuul": {
