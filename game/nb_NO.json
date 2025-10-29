@@ -56,6 +56,12 @@
     },
     "barber": {
       "name": "Barberer"
+    },
+    "barista": {
+      "name": "Barista"
+    },
+    "boomdandy": {
+      "flavor": "Tikk… tikk… tikk… TAKK."
     }
   }
 }
