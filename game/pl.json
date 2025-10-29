@@ -1170,6 +1170,7 @@
     "stormcatcher": {
       "ability": "Wymień dobrą postać. Jeżeli jest w grze, może umrzeć jedynie przez egzekucję, ale źli gracze dowiadują się, który to gracz.",
       "first": "Ogłoś, która postać jest pod ochroną Łowcy Burz. Jeżeli ta postać jest w grze, oznacz ją przypominajką *CHRONIONY*. Obudź każdego złego gracza i pokaż żeton tej postaci, następnie wskaż gracza. Jeżeli nie ma jej w grze, obudź każdego złego gracza, pokaż kartę *TYCH POSTACI NIE MA W GRZE* i żeton odpowiedniej postaci.",
+      "flavor": "O świcie, długie cienie świątyni podchodzą pod fontannę. O zmierzchu, obelisk blokuje czerwoną poświatę, ochładzając ciepłą wodę pod łukiem. Wszystkie linie zbiegają się tutaj. Nadchodzi burza i to, to miejsce pełne kamyczków, bujne i święte miejsce pomiędzy jabłoniami, jest jej okiem.",
       "name": "Łowca Burz"
     },
     "summoner": {
