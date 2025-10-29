@@ -8,7 +8,22 @@
       "special-tpi": "TPIのスタッフ"
     },
     "botc_online": "BOTCオンライン",
-    "button_close": "閉じる"
+    "button_close": "閉じる",
+    "button_logout": "ログアウト",
+    "button_search": "検索",
+    "button_send": "送信",
+    "cookie_policy": "クッキーポリシー",
+    "privacy_policy": "個人情報保護方針",
+    "session-tags": {
+      "cameras": {
+        "label": "カメラ",
+        "value_1": "必要"
+      },
+      "difficulty": {
+        "label": "難易度",
+        "title": "このゲームの参加者はどのぐらいの経験があるか"
+      }
+    }
   },
   "grimoire": {
     "token": "トークン"
