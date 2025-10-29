@@ -1,1 +1,8 @@
-{}
+{
+  "roles": {
+    "lycanthrope": {
+      "name": "Vlkodlak",
+      "other": "Lykantrop si vyberie hráča. :reminder:"
+    }
+  }
+}
