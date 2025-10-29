@@ -1027,7 +1027,7 @@
       "loading": "Cargando estadísticas...",
       "none": "Ninguno",
       "player": "Partidas\njugadas",
-      "player_wins": "% Victoria",
+      "player_wins": "{0}% Victoria",
       "role": "Personajes iniciales\ndestacados",
       "st_evil_wins": "{0}% Victoria del Mal",
       "storyteller": "Partidas\nnarradas",
