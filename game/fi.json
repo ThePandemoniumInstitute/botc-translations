@@ -1,6 +1,7 @@
 {
   "editions": {
     "bmr": {
+      "description": "...on kuoleman loistelias näytös. Demoni tappaa useita kertoja yössä ja Kätyrit pääsevät myös mukaan toimintaan. Hyvät pelaajat voivat ottaa isoja riskejä saadakseen luotettavaa tietoa, mutta saattavat samassa saada ystävänsä hengiltä. Onneksi on monia tapoja pitää pelaajia elossa pitkään parasta ennen päiväyksen jälkeenkin. Mikäli hyvä joukkue ei kykene selvittämään mitkä Kätyrit ja Demonit ovat pelissä on heidän kohtalonsa selvä.",
       "name": "Alla Apean Kuun"
     },
     "homebrew": {
