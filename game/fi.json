@@ -143,6 +143,9 @@
       "ability": "Jos kuolit tänään tai tänä yönä, Demoni voi valita kaksi pelaajaa (ei toista Demonia), jotka vaihtavat hahmoja keskenään.",
       "name": "Parturi"
     },
+    "barista": {
+      "name": "Barista"
+    },
     "baron": {
       "ability": "Pelissä on ylimääräisiä Muukalaisia. [+2 Muukalaista]",
       "name": "Paroni"
