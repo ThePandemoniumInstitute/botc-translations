@@ -1163,7 +1163,13 @@
     "towncrier": {
       "ability": "Każdej nocy* dowiadujesz się, czy Sługus nominował.",
       "flavor": "Słuchajcie! Słuchajcie! Czary w labiryncie! Genialny uczony odkrywa wszystko! Miasteczko zagrożone! Słuchajcie!",
-      "name": "Krzykacz Miejski"
+      "name": "Krzykacz Miejski",
+      "other": "Potaknij albo zaprzecz głową."
+    },
+    "toymaker": {
+      "ability": "Demon może wybrać aby nie zaatakować i musi zrobić to przynajmniej raz na grę. Zli gracze otrzymują poprawne startowe informacje.",
+      "flavor": "Bzyczy! Schodzi po schodach! Zapewnia ciepło w nocy! Smakuje jak cukier! Dzieciaki je kochają! Przedstawiam... całkiem nowe... Bzycząco-schodzące-ciepło-słodkie-ustrojstwo! Zabawa dla całej rodziny!",
+      "name": "Lalkarz"
     },
     "undertaker": {
       "ability": "Każdej nocy* dowiadujesz się, jaka postać zmarła dziś w wyniku egzekucji.",
