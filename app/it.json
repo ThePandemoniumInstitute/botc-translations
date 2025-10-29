@@ -38,8 +38,8 @@
         "label": "Accesso al Grimorio",
         "title": "Se gli spettatori ricevono accesso al Grimorio",
         "value_0": "Chiedi",
-        "value_1": "No",
-        "value_2": "Sí"
+        "value_1": "Sì",
+        "value_2": "Sì"
       },
       "streaming": {
         "label": "Il Gioco è in Streaming",
@@ -1027,7 +1027,7 @@
       "loading": "Caricamento statistiche...",
       "none": "Nessuno",
       "player": "Partite\nGiocate",
-      "player_wins": "% Percentuale Vittorie",
+      "player_wins": "{0}% Percentuale Vittorie",
       "role": "Personaggi\nPiù Pescati",
       "st_evil_wins": "{0}% Percentuale Vittorie Malvagi",
       "storyteller": "Partite\nNarrate",
