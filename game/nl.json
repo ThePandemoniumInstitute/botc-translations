@@ -304,6 +304,7 @@
       "other": "Het Kamermeisje kiest 2 levende spelers. Geef een vinger signaal."
     },
     "chef": {
+      "first": "Geef een vingersignaal.",
       "flavor": "De reservering van vanavond is vreemd. Mevrouw Mayweather heeft nooit gezelschap gehad van de schurk uit Hudson Lane. En toch, vanavond, hebben ze een tafel voor 2. Raar.",
       "name": "Kok"
     },
@@ -312,6 +313,7 @@
       "name": "Koorknaap"
     },
     "clockmaker": {
+      "first": "Geef een vingersignaal.",
       "name": "Klokmaker"
     },
     "courtier": {
@@ -367,6 +369,10 @@
       "name": "Schemering",
       "other": "Start de Nacht fase."
     },
+    "empath": {
+      "first": "Geef een vingersignaal.",
+      "other": "Geef een vingersignaal."
+    },
     "engineer": {
       "name": "Ingenieur"
     },
@@ -415,8 +421,10 @@
       "name": "Tuinman"
     },
     "general": {
+      "first": "Geef een duimsignaal.",
       "flavor": "Ik heb geen tijd voor citaten.",
-      "name": "Generaal"
+      "name": "Generaal",
+      "other": "Geef een duimsignaal."
     },
     "gnome": {
       "name": "Kabouter"
@@ -464,8 +472,10 @@
       "ability": "Jij hebt de vaardigheid van alle Buitenstaanders. [-0 of -1 Buitenstaander]"
     },
     "highpriestess": {
+      "first": "Wijs naar een speler.",
       "flavor": "Achter de persoonlijkheid die maskers van anderen draagt, schuilt het ware leven. Soms legt het leven zijn masker af en biedt het diepe antwoorden op diepste vragen.",
-      "name": "Hoge Priester"
+      "name": "Hoge Priester",
+      "other": "Wijs naar een speler."
     },
     "huntsman": {
       "flavor": "Mijn hut is warm en stevig. Mijn bijl staat bij de deur, mijn laarzen drogen bij het vuur, en er pruttelt elandstoof op het fornuis… Hoor! Een kreet weergalmt door de vallei! De regen, de modder en de ijskoude wind verbergen de geur van de wolven, maar ik ken het pad en mijn tred is vast. Ik kom eraan.",
@@ -486,7 +496,8 @@
       "name": "Rechter"
     },
     "juggler": {
-      "name": "Jongleur"
+      "name": "Jongleur",
+      "other": "Geef een vingersignaal."
     },
     "kazali": {
       "name": "Kazali",
@@ -496,6 +507,7 @@
       "name": "Koning"
     },
     "klutz": {
+      "flavor": "Oeps.",
       "name": "Kluns"
     },
     "knight": {
@@ -541,6 +553,10 @@
     "mastermind": {
       "flavor": "De tentakels van dat monster zijn aan de deuren van de kerk genageld. Moeders en kinderen zwieren dansend door de straat. Perfect. Alles gaat precies zoals ik dat bedacht heb."
     },
+    "mathematician": {
+      "first": "Geef een vingersignaal.",
+      "other": "Geef een vingersignaal."
+    },
     "mayor": {
       "flavor": "We moeten onze meningsverschillen opzijzetten en stoppen met dit zinloze geweld. Uiteindelijk zijn we allemaal belastingbetalers. Nou ja… de meesten van ons."
     },
@@ -570,6 +586,9 @@
     "ojo": {
       "name": "Ojo",
       "other": "De Ojo kiest een karakter. :reminder:"
+    },
+    "oracle": {
+      "other": "Geef een vingersignaal."
     },
     "organgrinder": {
       "flavor": "Rond en rond, het orgelpracht. Hoe meer je danst, hoe minder je lacht."
@@ -656,6 +675,7 @@
       "name": "Shugenja"
     },
     "slayer": {
+      "flavor": "Sterf.",
       "name": "Boogschieter"
     },
     "snakecharmer": {
@@ -700,7 +720,8 @@
       "flavor": "Met donder als mijn stem en bliksem als mijn zwaard, ik, de eeuwige wachter, voed mij met de dwazen die het wagen de verboden poort te naderen. Aanschouw mijn heilige doel! De kever uit de buik van de rotsachtige aarde verdrijven, hem vangen in een net van sterren, op de heuveltop waar hemel en aarde elkaar raken."
     },
     "towncrier": {
-      "name": "Stadsomroeper"
+      "name": "Stadsomroeper",
+      "other": "Knik of schud je hoofd."
     },
     "toymaker": {
       "name": "Speelgoedmaker"
