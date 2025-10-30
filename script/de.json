@@ -1,5 +1,6 @@
 {
   "keyword": {
+    "player": "Player|Players",
     "townsfolk": "Bürger|Bürger",
     "outsider": "Außenseiter|Außenseiter",
     "minion": "Scherge|Schergen",
@@ -18,7 +19,8 @@
     "custom": "Experimentell"
   },
   "print": {
-    "not-first-night": "* Nicht in der ersten Nacht"
+    "not-first-night": "* Nicht in der ersten Nacht",
+    "too-many-characters": "Your script has too many characters ({nchars}). The max amount recommended is 25. This might look broken in print. Continue?"
   },
   "settings": {
     "display-and-ui-heading": "Darstellung und Benutzeroberfläche",
@@ -30,6 +32,8 @@
     "show-analysis-icons": "Analyse-Icons anzeigen",
     "show-night-sheet": "Nachtblatt anzeigen",
     "font-size": "Schriftgröße",
+    "font-size-normal": "Normal",
+    "font-size-larger": "Larger",
     "print-columns": "Gedruckte Spalten",
     "allow-external-images": "Externe Bilder laden",
     "script-type": "Art des Skripts",

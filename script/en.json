@@ -1,5 +1,6 @@
 {
   "keyword": {
+    "player": "Player|Players",
     "townsfolk": "Townsfolk|Townsfolk",
     "outsider": "Outsider|Outsiders",
     "minion": "Minion|Minions",
@@ -18,7 +19,8 @@
     "custom": "Custom"
   },
   "print": {
-    "not-first-night": "* Not the first night"
+    "not-first-night": "* Not the first night",
+    "too-many-characters": "Your script has too many characters ({nchars}). The max amount recommended is 25. This might look broken in print. Continue?"
   },
   "settings": {
     "display-and-ui-heading": "Display and User Interface",
@@ -30,6 +32,8 @@
     "show-analysis-icons": "Show Analysis Icons",
     "show-night-sheet": "Show Night Sheet",
     "font-size": "Font Size",
+    "font-size-normal": "Normal",
+    "font-size-larger": "Larger",
     "print-columns": "Print Columns",
     "allow-external-images": "Allow External Images",
     "script-type": "Script Type",
@@ -45,7 +49,9 @@
   },
   "analysis": {
     "heading": "Script Analytics",
+
     "no-messages": "Nothing to report!",
+
     "too-many-townsfolk": "Too many Townsfolk",
     "too-many-outsider": "Too many Outsiders",
     "too-many-minion": "Too many Minions",
@@ -54,20 +60,25 @@
     "too-few-outsider": "Not enough Outsiders",
     "too-few-minion": "Not enough Minions",
     "too-few-demon": "Not enough Demons",
+
     "maximum-character-recommendation": "The recommended maximum number of characters is {number}.",
     "maximum-character-recommendation-teensy": "The recommended maximum number of characters in Teensyville is {number}.",
+
     "range-exact-recommendation-full-townsfolk": "It is recommended to have exactly {number} Townsfolk.",
     "range-exact-recommendation-full-outsider": "It is recommended to have exactly {number} Outsiders.",
     "range-exact-recommendation-full-minion": "It is recommended to have exactly {number} Minions.",
     "range-exact-recommendation-full-demon": "It is recommended to have exactly {number} Demons.",
+
     "range-between-recommendation-full-townsfolk": "It is recommended to have between {lower} and {upper} Townsfolk.",
     "range-between-recommendation-full-outsider": "It is recommended to have between {lower} and {upper} Outsiders.",
     "range-between-recommendation-full-minion": "It is recommended to have between {lower} and {upper} Minions.",
     "range-between-recommendation-full-demon": "It is recommended to have between {lower} and {upper} Demons.",
+
     "range-exact-recommendation-teensy-townsfolk": "It is recommended to have exactly {number} Townsfolk in Teensyville.",
     "range-exact-recommendation-teensy-outsider": "It is recommended to have exactly {number} Outsiders in Teensyville.",
     "range-exact-recommendation-teensy-minion": "It is recommended to have exactly {number} Minions in Teensyville.",
     "range-exact-recommendation-teensy-demon": "It is recommended to have exactly {number} Demons in Teensyville.",
+
     "range-between-recommendation-teensy-townsfolk": "It is recommended to have between {lower} and {upper} Townsfolk in Teensyville.",
     "range-between-recommendation-teensy-outsider": "It is recommended to have between {lower} and {upper} Outsiders in Teensyville.",
     "range-between-recommendation-teensy-minion": "It is recommended to have between {lower} and {upper} Minions in Teensyville.",
@@ -97,11 +108,14 @@
     "autosort-heading": "Automatic sorting",
     "script-analytics-heading": "Script analytics",
     "final-heading": "Enjoy!",
+
     "welcome-01": "This is a brand new script tool for {bold}Blood on the Clocktower{/bold}! This tour will give you a quick overview of the basic features to get you started.",
+
     "add-and-remove-characters-01": "You can {bold}add a character{/bold} from the characters tab. Click on any character you want to add.",
     "add-and-remove-characters-02": "To {bold}remove a character{/bold}, click it again here, or click on its icon in the script.",
     "add-and-remove-characters-03": "If you’re on mobile, you can open this tab by swiping right or tapping the {menuIcon} button on the top left. You can close it by swiping left.",
     "add-and-remove-characters-04": "You can also quickly add characters using the ‘quick add’ input, which you can toggle by pressing the {plusIcon} button.",
+
     "script-name-and-authors-01": "The {bold}script name and authors{/bold} can be changed here.",
     "undo-redo-01": "If you mess up, don’t worry! You can always {block}{undoIcon} undo{/block} or {block}{redoIcon} redo{/block} it. You can also empty the script by clicking the {binIcon} button.",
     "multiple-scripts-01": "You can click on the {heading}scripts{/heading} tab here to see all the scripts you’ve been working on.",
@@ -124,24 +138,30 @@
   "toast": {
     "cannot-remove-bootlegger": "There are homebrew characters on this script, so you can't remove the Bootlegger."
   },
+
   "script-name": "Script name",
   "author": "Author",
   "by-author-isolated": "by",
   "by-author": "by {author}",
   "script-name-placeholder": "Untitled Script",
   "author-placeholder": "Unknown",
+
   "scripts": "Scripts",
   "characters": "Characters",
   "filters": "Filters",
   "quick-add": "Search characters …",
   "search-character": "Search characters …",
+
   "name": "Name",
   "sao": "SAO",
+
   "add-townsfolk": "Add Townsfolk",
   "add-outsider": "Add Outsiders",
   "add-minion": "Add Minions",
   "add-demon": "Add Demons",
+
   "external-image-confirm": "Are you sure you want to allow custom images? A malicious script file author might track your IP address this way. The Pandemonium Institute has no control over the images being provided by other users of the app.",
+
   "new-script": "New Script",
   "delete-script-confirmation": "Are you sure you want to delete this script? This action is irreversible.",
   "toggle-all": "Toggle All",
@@ -168,10 +188,13 @@
   "commit-all-details": "Commit all draft characters to the script.",
   "unpin": "Unpin",
   "close": "Close",
+
   "import-typing-error": "This box exists to allow pasting JSONs on mobile and touch devices. Typing and submitting is not allowed.",
+
   "djinn-rules": "Djinn Rules",
   "bootlegger-rules": "Bootlegger Rules",
   "add-bootlegger-rules": "Click the plus icon to add a bootlegger rule.",
+
   "read-more": "Read the almanac/wiki entry",
   "click-drag-move": "Click to remove, drag to move",
   "character-tooltip": "Drag to move, double click or right click to show the context menu"
