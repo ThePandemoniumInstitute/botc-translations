@@ -1,10 +1,29 @@
 {
   "editions": {
+    "bmr": {
+      "description": "...er et overflødighedshorn af død. Dæmonerne kan dræbe adskillige gange hver nat, og håndlangerne er også involveret. Gode spillere kan tage store chancer for at få pålidelig information, men kan i farten komme til at dræbe deres venner. Heldigvis er der mange måder at holde spillere i live langt over deres udløbsdato. Men hvis det gode hold ikke  finder ud af, hvilke Håndlangere og Dæmon der er i spil, er deres undergang så godt som sikker."
+    },
     "custom": {
       "name": "Tilpasset Manuskript"
+    },
+    "snv": {
+      "description": "...er den skøreste af de tre udgaver, der er inkluderet i basissættet. Gode karakterer får fantastisk information hver eneste nat. Det onde hold er dog ekstremt varieret og truende, og kan skabe massiv forvirring. Karakterer kan skifte fraktion. Spillere kan skifte karakter. Selv det onde hold kan miste overblik over hvem er hvem. Dette er også den første gang Galskab dukker op, hvilket kaster alting ud af kurs."
     }
   },
   "jinxes": {
+    "alchemist-boffin": "Hvis Alkymisten har Æggehoved-evnen, lærer Alkymisten ikke hvilken evne Dæmonen har.",
+    "alchemist-marionette": "En Alkymist-Marionet har ingen Marionetevne, og Marionetten er i spil.",
+    "alchemist-mastermind": "En Alkymist-Mastermind har ingen Mastermind-evne, og Masterminden er ikke i spil.",
+    "alchemist-organgrinder": "Hvis Alkymisten har Organkværner-evnen, er Organkværneren i spil. Hvis begge er ædru, er begge fulde.",
+    "alchemist-spy": "En Alkymist-Spion har ingen Spion-evne, og en Spion er i spil. Efter hver henrettelse, kan en levende Alkymist-Spion offentligt gætte en levende spiller som Spionen. Gættes korrekt, skal Dæmonen vælge Spionen i nat.",
+    "alchemist-summoner": "Alkymist-Hidkalderen får ikke bluffs, og vælger hvilken Dæmon der er i spil, men ikke hvilken spiller. Hvis de dør før dette sker, vinder det onde hold. [Ingen Dæmon]",
+    "alchemist-widow": "En Alkymist-Enke har ingen Enke-evne, og der er en Enke i spil. Efter hver henrettelse kan en levende Alkymist-Enke offentligt gætte en levende spiller som Enken. Gættes korrekt, skal Dæmonen vælge Enken i nat.",
+    "alchemist-wraith": "Et Alkymist-Genfærd har ingen Genfærd-evne, og et Genfærd er i spil. Efter hver henrettelse, et levende Alkymist-Genfærd kan offentligt gætte en levende spiller som Genfærdet. Hvis rigtigt, skal Dæmonen vælge Genfærdet i nat.",
+    "alhadikhia-mastermind": "Hvis Al-Hadikhiaen dør til henrettelse, og Overmanden er i live, vælger Al-Hadikhiaen 3 gode spillere i nat: hvis alle 3 vælger at leve, vinder det onde hold. Ellers, vinder det gode hold.",
+    "alhadikhia-princess": "Hvis Prinsessen nominerede og henrettede en spiller på deres 1. dag, dør ingen til Al-Hadikhiaen i nat.",
+    "alhadikhia-scarletwoman": "Hvis der ville være to Dæmoner, og en af dem var Skarlagenkvinden, bliver Skarlagenkvinden til Skarlagenkvinden igen.",
+    "alsaahir-vizier": "Fortælleren erklærer ikke at Vesiren er i spil.",
+    "balloonist-marionette": "Hvis Marionetten tror de er Ballonfareren, kan en Fremmed være blevet tilføjet ved opsætning.",
     "marionette-mathematician": "Matematikeren lærer om Marionettens evne gav falsk info, eller ikke fungerede korrekt."
   },
   "reminders": {
