@@ -38,8 +38,8 @@
         "label": "Quyền Truy Cập Cấm Thư",
         "title": "Cho phép khán giả nhận quyền truy cập Cấm thư hay không",
         "value_0": "Hỏi",
-        "value_1": "Không",
-        "value_2": "Có"
+        "value_1": "Có",
+        "value_2": "Không"
       },
       "streaming": {
         "label": "Trò Chơi Được Phát Trực Tuyến",
