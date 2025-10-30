@@ -261,7 +261,12 @@
     },
     "settings": {
       "button_edit": "Hesabı Düzenle",
-      "setting_camera": "Kamera"
+      "setting_camera": "Kamera",
+      "shortcuts": {
+        "modeGather": "Oyuncularını Topla",
+        "toggleEdition": "Baskı Seç",
+        "toggleFullscreen": "Tam Ekran"
+      }
     }
   }
 }
