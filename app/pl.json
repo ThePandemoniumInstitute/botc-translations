@@ -39,7 +39,7 @@
         "title": "Czy widzowie mogą otrzymać dostęp do Grymuaru",
         "value_0": "Zapytaj",
         "value_1": "Nie",
-        "value_2": "Tak"
+        "value_2": "Nie"
       },
       "streaming": {
         "label": "Gra jest streamowana",
@@ -74,6 +74,7 @@
     },
     "demon": "Demon|Demony",
     "fabled": "Legenda|Legendy",
+    "loric": "Mityczny|Mityczni",
     "minion": "Sługus|Sługusy",
     "outsider": "Outsider|Outsiderzy",
     "phases": {
@@ -101,7 +102,7 @@
     "characters": "Wybierz postacie",
     "clear_grim": "Wyczyść grymuar",
     "download": "Pobierz aplikację {0}",
-    "edition": "Wybierz edycję",
+    "edition": "Wybierz Skrypt",
     "error_audio": "Twoja przeglądarka uniemożliwiła {0}. Kliknij tutaj, aby rozpocząć czat.",
     "error_audio2": "automatycznego włączenia rozmowy głosowej",
     "error_audio3": "Możliwe, że w przeglądarce Firefox będziesz musiał {0}, aby słyszeć dźwięk z aplikacji.",
@@ -120,6 +121,7 @@
     "night_info": "Informacje nocne",
     "night_info_text": "Bajarz obudził cię tej nocy!",
     "night_sheet": "Kolejności Nocna",
+    "npcs": "Dodaj NPC-a",
     "prompt_clear_player": "Czy na pewno chcesz usunąć wszystkie postacie graczy i żetony przypominające?",
     "prompt_clear_st": "Grymuar i żetony przypominające zostaną wyczyszczone dla ciebie i pozostałych graczy. Jesteś pewien?",
     "prompt_clear_title": "Wyczyść grymuar i żetony przypominające",
@@ -136,8 +138,8 @@
     "set_timer": "Ustaw licznik",
     "settings": "Ustawienia",
     "show_grim": "Pokaż Grymuar",
-    "show_town": "Pokaż rynek",
-    "show_users": "Pokaż użytkowników [{0}]",
+    "show_town": "Pokaż Rynek",
+    "show_users": "Pokaż Użytkowników [{0}]",
     "storyteller_add": "Zostań Bajarzem",
     "storyteller_remove": "Ustąp z roli Bajarza",
     "tab_app": "Aplikacja",
@@ -174,10 +176,10 @@
         "avatar_pixel": "Twój obraz jest za duży. Przeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
         "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
         "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
-        "bluffs": "Błąd przy zmianie blefów.",
+        "bluffs": "Błąd przy zmianie blefów",
         "chat2_text": "Serwer czatu wydaje się być offline",
         "chat2_title": "Rozłączono z serwerem czatu",
-        "chat_text": "Stracono połączenie z serwerem czatu, próba ponownego połączenia...\n Wiadomość błędu: {0}",
+        "chat_text": "Utracono połączenie z serwerem czatu, próba ponownego połączenia...\n Komunikat błędu: {0}",
         "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
         "claiming": "Błąd podczas zajmowania krzesła",
         "clear_grim": "Nie udało się wyczyścić grymuaru",
@@ -197,6 +199,7 @@
         "missing_roles": "Ta sesja zawiera niestandardowe postacie, których nie można znaleźć. Załaduj je, zanim dołączysz! Brakujące role: {0}",
         "missing_roles_title": "Błąd przy ładowaniu niestandardowych postaci",
         "move_player": "Nie udało się przemieścić gracza",
+        "npcs": "Błąd podczas aktualizacji NPC-ta",
         "offline": "Serwer wydaje się być offline",
         "remove_player": "Nie udało się usunąć gracza",
         "remove_storyteller": "Błąd podczas usuwania Bajarza",
@@ -305,6 +308,9 @@
       "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego kąta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
       "welcome": "Witaj w {0}!"
     },
+    "npc": {
+      "title": "Dodaj postać niezależną"
+    },
     "reminder": {
       "custom_favorite": "Zapisane jako ulubione",
       "custom_note": "Własna notatka",
@@ -322,7 +328,10 @@
       "title": "Wybierz {alignment} {type} {target}",
       "title_alignment_e": "Złą",
       "title_alignment_g": "Dobrą",
-      "title_alignment_r": "normalny"
+      "title_alignment_r": "normalny",
+      "title_target": "dla {0}",
+      "title_type_bluff": "blef",
+      "title_type_character": "postać"
     },
     "roles": {
       "button_distribute": "Rozdaj {0} postaci",
@@ -406,6 +415,7 @@
       "setting_ptt": "Push To Talk",
       "setting_reminder_zoom": "Wielkość Przypominajek",
       "setting_reminders": "Grupuj Przypominajki",
+      "setting_reminders_always": "Zawsze",
       "setting_reminders_auto": "Automatycznie",
       "setting_reminders_never": "Nigdy",
       "setting_reveal": "Pokaż Kamery Podczas Prezentowania Grymuaru",
@@ -448,6 +458,7 @@
         "toggleAudioMuted": "Wygłusz Mikrofon / Push-to-Talk",
         "toggleEdition": "Wybierz Scenariusz",
         "toggleFullscreen": "Pełny ekran",
+        "toggleNPCs": "Dodaj postać niezależną (NPC)",
         "toggleNight": "Przełącz Dzień / Noc",
         "toggleNightOrder": "Kolejność Nocna",
         "toggleNightSignal": "Pokaż Informacje z Nocy",
@@ -759,6 +770,8 @@
       "title": "Proszę dostosować zegar komputera"
     },
     "lobby": {
+      "bootlegger_title": "Orientuj się!",
+      "bootlegger_warning": "Ta gra zawiera postać Mityczną, co oznacza, że zasady lub postacie zostały zmienione w stosunku do oryginalnych zasad i w związku z tym zaleca się odpowiedni poziom doświadczenia graczy.\nJeżeli jesteś nowy w Blood on the Clocktower, zalecamy najpierw zapoznać się z podstawowymi postaciami i zasadami przy użyciu oficjalnych skryptów. \"Idzie Burza\" jest idealnym na pierwszą grę.\nW każdym razie witaj - cieszymy się że tu jesteś!\nCzy na pewno chcesz dołączyć do tej gry?",
       "button_create_game": "Załóż Grę",
       "button_help": "Pomoc",
       "button_join_game": "Dołącz do Gry Prywatnej",
@@ -780,6 +793,7 @@
       "language": "Język",
       "loading": "Ładuje gry...",
       "no_games": "Nie znaleziono publicznych gier.",
+      "npcs": "Postać Niezależna (NPC)",
       "page": "Strona {page} z {total}",
       "phase": "Fraza",
       "players": "Gracze",
@@ -884,6 +898,7 @@
     "locked": "Bajarze i Gracze",
     "locked_text": "Tylko siedzący gracze i obecny Bajarz mogą dołączyć.",
     "name_placeholder": "Nazwa gry",
+    "open_text": "Każdy może dołączyć do tej gry.",
     "prompt_public_text": "Jesteś pewien aby udostępnić tą grę publicznie?\n To spowoduje, że każdy będzie mógł zobaczyć i dołączyć do twojej gry.",
     "prompt_public_title": "Ustaw tą grę jako Publiczną",
     "server": "Serwery Czatu:",
@@ -967,6 +982,11 @@
       "reset_position": "Zresetuj pozycję",
       "spectator": "Widz",
       "title": "Głos"
+    },
+    "npcs": {
+      "remove_fabled": "Usuń Legendę",
+      "remove_loric": "Usuń Mit",
+      "title": "NPC-ty"
     },
     "text": {
       "channels": {
