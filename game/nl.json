@@ -111,14 +111,39 @@
     "magician-wraith": "Na elke executie, mag de levende Tovenaar publiekelijk een speler als Schim aanwijzen. Als dit goed is, moet de Demoon vannacht de Schim kiezen.",
     "marionette-mathematician": "De Wiskundige kan leren of de Marionets informatie verkeerde informatie heeft gegeven, of incorrect werkt.",
     "marionette-plaguedoctor": "Als de Verteller de Marionet vaardigheid krijgt, wordt een van de Demoons goede buren een Marionet.",
+    "marionette-summoner": "Als er een Marionet in het spel zit, dan beginnen zij na de Demoon en starten als hun buur.",
+    "mastermind-vigormortis": "Een Meesterbrein dat zijn vaardigheden heeft, houdt deze als de Vigormortis sterft.",
     "mayor-riot": "De Burgemeester kan kiezen om de Rellen te stoppen. Als ze dit doen met nog 1 levende Rellen, wint goed. Anders wint slecht.",
+    "monk-riot": "Als Rellen de door de Monnik beschermde speler nomineren en executeren, wint goed.",
+    "ogre-pithag": "Als de Grotheks een slechte speler in de Oger veranderd, kunnen zij niet goed worden door hun eigen vaardigheid.",
+    "ogre-recluse": "Als de Kluizenaar registreert als slecht voor de Oger, dan leert de Oger dat ze slecht zijn.",
     "ogre-spy": "De Spion registreert als slecht voor de Oger.",
+    "pithag-politician": "Als de Grotheks een slechte speler in de Politicus veranderd, kan deze niet goed worden door hun eigen vaardigheid.",
+    "pithag-summoner": "Als de Bezweerder een tweede levende Demoon maakt, zijn doden vannacht willekeurig.",
+    "pithag-villageidiot": "Als er een token beschikbaar is kan de Grotheks een extra Dorpsgek maken. Als dit gebeurd mag de dronken Dorpsgek veranderen.",
+    "plaguedoctor-scarletwoman": "Als de Verteller de Rode Vrouw vaardigheid krijgt, krijgt een Minion deze en leert dit.",
+    "plaguedoctor-spy": "Als de Verteller de Spion vaardigheid krijgt, dan krijgt een Minion deze en leert dit.",
+    "plaguedoctor-wraith": "Als de Verteller de Schim vaardigheid krijgt, krijgt een Minion deze en leert dit.",
     "politician-vizier": "De Politicus kan als slecht registreren voor de Vizier.",
+    "poppygrower-spy": "Als de Papaverkweker zijn vaardigheid heeft, ziet de Spion de Grimoire niet.",
+    "poppygrower-summoner": "Als de Papaverkweker leeft op de 3e nacht, kiest de Bezweerder welke Demoon maar niet welke speler.",
+    "poppygrower-widow": "Als de Papaverkweker zijn vaardigheid heeft, ziet de Weduwe de Grimoire niet.",
+    "preacher-summoner": "Als de levende Bezweerder geen vaardigheid heeft, krijgt de Verteller de vaardigheid.",
+    "preacher-vizier": "Als de Vizier zijn vaardigheid verliest dan leren ze dit, en kunnen niet sterven tijdens de dag.",
     "pukka-summoner": "De Bezweerder kan een Pukka bezweren op de 2e nacht, in plaats van de 3e.",
     "recluse-sage": "De Kluizenaar kan als Demoon registreren voor de Wijze.",
+    "riot-soldier": "Als Rellen de Soldaat nomineert en executeert, wint goed.",
     "vizier-zealot": "De Fanaticus kan als slecht registreren voor de Vizier."
   },
   "reminders": {
+    "minion": "Volgeling",
+    "registerfalsely": "Foutief Registreren?",
+    "safe": "Veilig",
+    "soberhealthy": "Nuchter & Gezond",
+    "somethingbad": "Iets Slechts",
+    "storytellerability": "Verteller Vaardigheid",
+    "survivesexecution": "Overleeft Executie",
+    "teapartytonight": "Vanavond Theekransje",
     "townsfolk": "Dorpeling",
     "turnsevil": "Wordt Slecht",
     "twin": "Tweeling",
@@ -127,91 +152,237 @@
   },
   "roles": {
     "acrobat": {
-      "flavor": "Welkom allemaal bij het grootste spektakel op aarde."
+      "flavor": "Welkom allemaal bij het grootste spektakel op aarde.",
+      "name": "Acrobaat",
+      "other": "De Acrobaat kiest een speler. :reminder:"
     },
     "alchemist": {
       "ability": "Jij hebt een Minion vaardigheid. Als je deze gebruikt mag de Verteller aangeven dat je anders moet keizen.",
-      "flavor": "Bezoek het hart van de Aarde. Door zuivering vind je de Steen der Wijzen. Boven het goud rust het rubedo. Het Kether in Malkuth."
+      "flavor": "Bezoek het hart van de Aarde. Door zuivering vind je de Steen der Wijzen. Boven het goud rust het rubedo. Het Kether in Malkuth.",
+      "name": "Alchemist"
+    },
+    "alhadikhia": {
+      "name": "Al-Hadikhia"
+    },
+    "alsaahir": {
+      "name": "Alsaahir"
     },
     "amnesiac": {
       "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
       "flavor": "Ik heb hier geen actieve herinnering aan."
     },
+    "angel": {
+      "name": "Engel"
+    },
+    "apprentice": {
+      "name": "Leerling"
+    },
+    "assassin": {
+      "name": "Sluipmoordenaar",
+      "other": "De Sluipmoordenaar mag een speler kiezen. :reminder: :reminder:"
+    },
     "atheist": {
-      "flavor": "Laten we ons niet verliezen in de nutteloze veronderstellingen en dwaze paranoia. Er is een volstrekt normale en rationale verklaring voor alles. Ja, een theekopje kan om de planeet draaien, te klein om te zien, maar ik drink mijn thee uit het daadwerkelijk servies dat in mijn handen rust."
+      "flavor": "Laten we ons niet verliezen in de nutteloze veronderstellingen en dwaze paranoia. Er is een volstrekt normale en rationale verklaring voor alles. Ja, een theekopje kan om de planeet draaien, te klein om te zien, maar ik drink mijn thee uit het daadwerkelijk servies dat in mijn handen rust.",
+      "name": "Atheïst"
+    },
+    "balloonist": {
+      "first": "Laat een speler zien. :reminder:",
+      "name": "Ballonvaarder",
+      "other": "Laat een speler met een ander karaktertype zien als hiervoor. :reminder:"
+    },
+    "barber": {
+      "name": "Barbier"
+    },
+    "barista": {
+      "name": "Barista"
     },
     "baron": {
       "ability": "Er zijn extra Buitenstaanders in het spel. [+2 Buitenstaanders]",
-      "flavor": "Wat is dan het probleem?\nWij dragen alles en u draagt niets!\nIk draag niets? Ik draag... de verantwoording! En die is al zwaar genoeg."
+      "flavor": "Wat is dan het probleem?\nWij dragen alles en u draagt niets!\nIk draag niets? Ik draag... de verantwoording! En die is al zwaar genoeg.",
+      "name": "Baron"
+    },
+    "beggar": {
+      "name": "Bedelaar"
+    },
+    "bishop": {
+      "name": "Bisschop"
+    },
+    "boffin": {
+      "flavor": "Stellaire waterstof, enorm inert: koolstof, zuurstof, neon, allemaal verpest. Moleculaire chaos, entropie, nieuwe kosmische verschijnselen. Wedergeboorte door atomische chaos, duistere materie stort in. En dat alles in een piepklein flesje.",
+      "name": "Bolleboos"
+    },
+    "bonecollector": {
+      "name": "Bottenhoeder"
     },
     "boomdandy": {
       "flavor": "Harry doet boem."
     },
+    "bountyhunter": {
+      "name": "Premiejager"
+    },
     "buddhist": {
-      "flavor": "Je gooit met doornen. Maar in mijn rust worden ze bloemen."
+      "flavor": "Je gooit met doornen. Maar in mijn rust worden ze bloemen.",
+      "name": "Boeddhist"
     },
     "bureaucrat": {
       "first": "De Ambtenaar kiest een speler. :reminder:",
+      "flavor": "Hier tekenen alsjeblieft. En hier. En hier. Eeeeeeeen hier. Dit komt allemaal voor elkaar voor het einde van de dag, mits de handtekening leesbaar is. We hebben in geen tijden een probleem gehad. Gistermiddag voor het laatst, kan ik mij herinneren.",
+      "name": "Ambtenaar",
       "other": "De Ambtenaar kiest een speler. :reminder:"
+    },
+    "butcher": {
+      "name": "Slager"
     },
     "butler": {
       "first": "De Butler kiest een speler. :reminder:",
+      "name": "Butler",
       "other": "De Butler kiest een speler. :reminder:"
+    },
+    "cannibal": {
+      "name": "Kannibaal"
+    },
+    "cerenovus": {
+      "name": "Cerenovus"
     },
     "chambermaid": {
       "first": "Het Kamermeisje kiest 2 levende spelers. Geef een vinger signaal.",
+      "name": "Kamermeisje",
       "other": "Het Kamermeisje kiest 2 levende spelers. Geef een vinger signaal."
     },
     "chef": {
-      "flavor": "De reservering van vanavond is vreemd. Mevrouw Mayweather heeft nooit gezelschap gehad van de schurk uit Hudson Lane. En toch, vanavond, hebben ze een tafel voor 2. Raar."
+      "flavor": "De reservering van vanavond is vreemd. Mevrouw Mayweather heeft nooit gezelschap gehad van de schurk uit Hudson Lane. En toch, vanavond, hebben ze een tafel voor 2. Raar.",
+      "name": "Kok"
+    },
+    "choirboy": {
+      "name": "Koorknaap"
+    },
+    "clockmaker": {
+      "name": "Klokmaker"
     },
     "courtier": {
       "first": "De Hofmeester mag een karakter kiezen. :reminder: :reminder:",
+      "name": "Hofdienaar",
       "other": "De Hofdienaar mag een karakter kiezen. :reminder: :reminder:"
     },
+    "cultleader": {
+      "name": "Cultleider"
+    },
     "damsel": {
-      "flavor": "Schat, kom niet aan het haar."
+      "flavor": "Schat, kom niet aan het haar.",
+      "name": "Jonkvrouw"
     },
     "dawn": {
-      "first": "Wacht een paar seconden. Eindig de nacht fase."
+      "first": "Wacht een paar seconden. Eindig de nacht fase.",
+      "name": "Dageraad"
+    },
+    "demoninfo": {
+      "name": "Demoon informatie"
+    },
+    "deusexfiasco": {
+      "name": "Deus ex Fiasco"
     },
     "deviant": {
       "flavor": "Het was de kwinkslag van de dame, inderdaad."
     },
     "devilsadvocate": {
       "first": "De Advocaat van de Duivel kiest een levende speler. :reminder:",
+      "name": "Advocaat van de Duivel",
       "other": "De Advocaat van de Duivel kiest een levende speler. :reminder:"
     },
     "djinn": {
       "ability": "Gebruik de speciale regel van de Djinn. Alle spelers weten wat het is.",
-      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
+      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
+      "name": "Djinn"
+    },
+    "doomsayer": {
+      "name": "Doembrenger"
+    },
+    "dreamer": {
+      "name": "Dromer"
     },
     "drunk": {
-      "ability": "Jij weet niet dat je Dronken bent. Jij denkt dat je een Dorpeling bent, maar dat ben je niet."
+      "ability": "Jij weet niet dat je Dronken bent. Jij denkt dat je een Dorpeling bent, maar dat ben je niet.",
+      "name": "Dronkaard"
     },
     "duchess": {
-      "flavor": "Gasten worden ontvangen tussen 6 en 7 uur precies. Thee om kwart over 6, Koekjes om kwart voor 7. Kom stipt op tijd en draag formele kleding, zoals altijd."
+      "flavor": "Gasten worden ontvangen tussen 6 en 7 uur precies. Thee om kwart over 6, Koekjes om kwart voor 7. Kom stipt op tijd en draag formele kleding, zoals altijd.",
+      "name": "Hertogin"
+    },
+    "dusk": {
+      "name": "Schemering",
+      "other": "Start de Nacht fase."
+    },
+    "engineer": {
+      "name": "Ingenieur"
+    },
+    "eviltwin": {
+      "name": "Slechte Tweeling"
     },
     "exorcist": {
-      "flavor": "Wij bannen u uit: elke onreine geest, elke satanische macht, elke aanval van de helse vijand, elk Legioen, elke duivelse menigte en sekte, in de naam en de kracht van onze Heer Jezus Christus. Wij gebieden u: ga heen en vlucht van Gods Kerk, van de zielen geschapen naar Zijn beeld en verlost door het bloed van het Goddelijke Lam."
+      "flavor": "Wij bannen u uit: elke onreine geest, elke satanische macht, elke aanval van de helse vijand, elk Legioen, elke duivelse menigte en sekte, in de naam en de kracht van onze Heer Jezus Christus. Wij gebieden u: ga heen en vlucht van Gods Kerk, van de zielen geschapen naar Zijn beeld en verlost door het bloed van het Goddelijke Lam.",
+      "name": "Exorcist"
     },
     "fanggu": {
-      "flavor": "Je muren en je wapens zijn als rook in dromen."
+      "flavor": "Je muren en je wapens zijn als rook in dromen.",
+      "name": "Fang Gu"
+    },
+    "farmer": {
+      "name": "Boer"
+    },
+    "fearmonger": {
+      "name": "Angstzaaier"
     },
     "ferryman": {
       "flavor": "Wanneer rechtvaardigen durven dromen, dragen zij de waarheid."
     },
     "fibbin": {
-      "flavor": "Gniffel Gniffel. Hihihi. Hi. Hi. Hi."
+      "flavor": "Gniffel Gniffel. Hihihi. Hi. Hi. Hi.",
+      "name": "Jokkebrok"
     },
     "fisherman": {
-      "flavor": "Dit was mijn favoriete deel van de rivier... zie hoe het zonlicht een regenboog vormt van het klooster tot de markt. De beste plek voor grote vissen en hoe ouder ik word, de groter ze waren."
+      "flavor": "Dit was mijn favoriete deel van de rivier... zie hoe het zonlicht een regenboog vormt van het klooster tot de markt. De beste plek voor grote vissen en hoe ouder ik word, de groter ze waren.",
+      "name": "Visser"
+    },
+    "flowergirl": {
+      "name": "Bloemenmeisje"
+    },
+    "fool": {
+      "name": "Hofnar"
+    },
+    "fortuneteller": {
+      "name": "Waarzegger"
     },
     "gambler": {
+      "name": "Gokker",
       "other": "De Gokker kiest een speler & karakter. :reminder:"
     },
+    "gardener": {
+      "name": "Tuinman"
+    },
+    "general": {
+      "name": "Generaal"
+    },
+    "gnome": {
+      "name": "Kabouter"
+    },
     "goblin": {
-      "flavor": "Je wilt de kobolden echt niet beledigen. Echt, écht niet. Over iets heel anders gesproken… mag ik nog een stuk taart?"
+      "flavor": "Je wilt de kobolden echt niet beledigen. Echt, écht niet. Over iets heel anders gesproken… mag ik nog een stuk taart?",
+      "name": "Kobold"
+    },
+    "godfather": {
+      "name": "Mafioso"
+    },
+    "golem": {
+      "name": "Golem"
+    },
+    "grandmother": {
+      "flavor": "Trek een jas aan als je naar buiten gaat, lieverd. En je drinken. En je sjaal. Ik heb een slecht hart. Wat moet ik doen als je ziek wordt... of erger."
+    },
+    "harpy": {
+      "flavor": "Zo'n mooie dag heb ik nog nooit gezien, noch zo'n kraaiend gezelschap om mij heen."
+    },
+    "hellslibrarian": {
+      "flavor": "Sssssssst. Wees stil. Het is beter om de bibliothecaris niet te storen. Ik heb gehoord dat hij met het verkeerde been uit bed is gestapt."
     },
     "heretic": {
       "ability": "Wie wint, verliest & wie verliest, wint. Zelfs als jij dood bent."
@@ -271,11 +442,21 @@
     "mayor": {
       "flavor": "Aan allen die gekomen zijn: proficiat! Aan allen die niet gekomen zijn: ook proficiat!"
     },
+    "mezepheles": {
+      "first": "Laat het geschreven woord zien.",
+      "flavor": "Wat recht uit het hart komt, vindt zijn weg naar het hart van een ander."
+    },
     "monk": {
       "other": "De Monnik kiest een speler. :reminder:"
     },
+    "moonchild": {
+      "flavor": "De Schorpioen werpt een schuine blik op de geliefden, en je hebt een keuze te maken. Met een zilveren kruis in de hand zal je lot geopenbaard worden. Met een stalen kruis bij de keel zul je er spijt van krijgen."
+    },
     "nightwatchman": {
       "flavor": "De nacht is koud en verlaten, maar ik heb de maan en de sterren, een zuchtje wind en het zachte geplof van mijn laarzen op de stenen. Daarginds flikkert kaarslicht achter het raam..."
+    },
+    "noble": {
+      "flavor": "Sarcasme is de laagste vorm van humor. Maar als ik op uw kritiek reageer, meneer, is het nog altijd een vorm van humor."
     },
     "nodashii": {
       "other": "De No Dashii kiest een speler. :reminder:"
@@ -286,6 +467,12 @@
     },
     "ojo": {
       "other": "De Ojo kiest een karakter. :reminder: "
+    },
+    "organgrinder": {
+      "flavor": "Rond en rond, het orgelpracht. Hoe meer je danst, hoe minder je lacht."
+    },
+    "pithag": {
+      "flavor": "Rond de ketel ik ga, en de vergiftigde ingewanden sta; een pad die onder koude steen, eenendertig dag en nacht te leen; Gezweet gif in slaap verkregen, in de betoverde pot gelegen."
     },
     "po": {
       "flavor": "Wil je ook een bloem? Ik ben zo eenzaam.",
@@ -298,6 +485,9 @@
     "professor": {
       "flavor": "Het proces is eenvoudig. Sluit de hydraulische confabulator aan op de gemodificeerde chi-matrixversterker, voeg 20 cc pseudodorafine toe, houd zijn Z-waarden boven de 20% en je man komt er wel. Nu hebben we alleen nog een blikseminslag nodig."
     },
+    "psychopath": {
+      "flavor": "Verrassing!"
+    },
     "pukka": {
       "first": "De Pukka kiest een speler. :reminder:"
     },
@@ -307,15 +497,29 @@
     "recluse": {
       "ability": "Jij kan registreren als slecht & Minion of Demoon, zelfs als je dood bent."
     },
+    "revolutionary": {
+      "name": "Revolutionair"
+    },
     "riot": {
       "name": "Rellen"
     },
+    "sage": {
+      "name": "Wijze"
+    },
     "sailor": {
       "first": "De Matroos kiest een levende speler. :reminder:",
+      "name": "Matroos",
       "other": "De Matroos kiest een levende speler. :reminder:"
     },
     "saint": {
-      "flavor": "Wijsheid zaait vrede. Geduld zaait wijsheid. Vrees niet, de tijd komt dat ook de angst wordt vergeten. Laat ons bidden en moge de eenheid van ons aanzien ons tot heiligen maken."
+      "flavor": "Wijsheid zaait vrede. Geduld zaait wijsheid. Vrees niet, de tijd komt dat ook de angst wordt vergeten. Laat ons bidden en moge de eenheid van ons aanzien ons tot heiligen maken.",
+      "name": "Heilige"
+    },
+    "savant": {
+      "name": "Geleerde"
+    },
+    "scapegoat": {
+      "name": "Zondebok"
     },
     "scarletwoman": {
       "flavor": "Je liet me de geheimen zien van de Raad van de Paarse Vlam. In vuur, lust en beestachtig verlangen hebben wij verenigd, en ik ben voor eeuwig dienstbaar. Maar vannacht, liefste, ben ik jouw meester.",
@@ -324,26 +528,52 @@
     "seamstress": {
       "first": "De Naaister mag 2 spelers kiezen. Knik of schud je hoofd. :reminder:",
       "flavor": "Heb je gehoord dat die vreemdeling in de kasjmierjas ons jonge Belle het hof maakte? En ze heeft ja gezegd? Nou, dat is niets vergeleken met wat Harry en die jongleur op de kermis hebben uitgespookt! De dingen die ik zou kunnen vertellen als ik roddelde… ach, ja.",
+      "name": "Naaister",
       "other": "De Naaister mag 2 spelers kiezen. Knik of schud je hoofd. :reminder:"
     },
     "sentinel": {
-      "ability": "Er kan 1 Buitenstaander meer of minder in het spel zitten."
+      "ability": "Er kan 1 Buitenstaander meer of minder in het spel zitten.",
+      "name": "Schaduwwachter"
+    },
+    "shabaloth": {
+      "name": "Shabaloth"
     },
     "shugenja": {
-      "flavor": "これは夢。それも夢。すべて夢です。"
+      "flavor": "これは夢。それも夢。すべて夢です。",
+      "name": "Shugenja"
+    },
+    "slayer": {
+      "name": "Boogschieter"
     },
     "snakecharmer": {
-      "flavor": "Effendi... Ik ben slechts een nederig man, maar mijn fluit is van goud en één melodie zal de wildste djinn temmen, Inshallah. Ze zeggen dat hebzucht meer mannen het leven kost dan touw. Maar ik niet, Effendi... ik niet."
+      "flavor": "Effendi... Ik ben slechts een nederig man, maar mijn fluit is van goud en één melodie zal de wildste djinn temmen, Inshallah. Ze zeggen dat hebzucht meer mannen het leven kost dan touw. Maar ik niet, Effendi... ik niet.",
+      "name": "Slangentemmer"
     },
     "soldier": {
-      "ability": "Jij bent veilig voor de Demoon."
+      "ability": "Jij bent veilig voor de Demoon.",
+      "name": "Soldaat"
     },
     "spiritofivory": {
       "ability": "Er kan niet meer dan 1 extra slechte speler zijn.",
-      "flavor": "De Woestenij roept. Beenderen tot vlees, vallen terug tot stof. De grote geest groeit. De grote geest aanschouwt. De grote geest leidt. De mens luistert, of is niet meer."
+      "flavor": "De Woestenij roept. Beenderen tot vlees, vallen terug tot stof. De grote geest groeit. De grote geest aanschouwt. De grote geest leidt. De mens luistert, of is niet meer.",
+      "name": "Geest van Ivoor"
     },
     "spy": {
-      "ability": "Elke nacht bekijk je de Grimoire. Je registreert mogelijk als goed & als Dorpeling of Buitenstaander, zelfs als je dood bent."
+      "ability": "Elke nacht bekijk je de Grimoire. Je registreert mogelijk als goed & als Dorpeling of Buitenstaander, zelfs als je dood bent.",
+      "name": "Spion"
+    },
+    "steward": {
+      "name": "Hofmeester"
+    },
+    "summoner": {
+      "first": "Laat het *DEZE KARAKTERS ZIJN NIET IN HET SPEL* fiche zien. Laat 3 goede character fiches zien die niet in het spel zijn.",
+      "name": "Oproeper"
+    },
+    "sweetheart": {
+      "name": "Schatje"
+    },
+    "tealady": {
+      "name": "Thee Dame"
     },
     "thief": {
       "first": "De Dief kiest een speler. :reminder:",
@@ -367,6 +597,7 @@
       "other": "De Vigormortis kiest een speler. :reminder: Als deze speler een volgeling is, vergiftig een naburige Dorpeling. :reminder: :reminder:"
     },
     "villageidiot": {
+      "flavor": "Rozen zijn blauw, en violen zijn rood. Draai alsjeblieft om wat ik zojuist zei.",
       "name": "Dorpsgek",
       "other": "Maak de Dorpsgekken één voor één wakker, de Dorpsgek kiest een speler, laat een goede of slechte duim zien afhankelijk van het team van de gekozen speler."
     },
@@ -388,6 +619,7 @@
       "name": "Wasvrouw"
     },
     "widow": {
+      "first": "Laat de Grimoire zien zolang de Weduwe dit nodig heeft. De Weduwe kiest een speler. :reminder:",
       "name": "Weduwe"
     },
     "witch": {
@@ -396,6 +628,7 @@
       "other": "De Heks kiest een speler. :reminder:"
     },
     "wizard": {
+      "first": "Voer de Tovenaars vaardigheid uit als dit van toepassing is.",
       "name": "Tovenaar"
     },
     "wraith": {
