@@ -79,6 +79,9 @@
     "heretic-widow": "Er kan maar 1 vervloekt karakter in het spel zijn.",
     "innkeeper-leviathan": "Als de Leviathan een door de Herbergier beschermde speler nomineert en executeert, wint goed.",
     "innkeeper-riot": "Als Rellen een door de Herbergier beschermde speler nomineert en executeert, wint goed.",
+    "kazali-summoner": "Als de Bezweerder een tweede levende Demoon maakt, zijn de doden vannacht willekeurig.",
+    "king-leviathan": "Als de Leviathan in het spel is en er is ten minste 1 dode, dan leert de Koning elke nacht een levend karakter.",
+    "king-riot": "Als Rellen in het spel zijn en er is ten minste 1 dode, dan leert de Koning elke nacht een levend karakter.",
     "leviathan-sage": "Elke nacht* kiest de Leviathan een levende goede speler (anders dan de vorige nacht): een gekozen Wijze gebruikt hun vaardigheid en sterft niet.",
     "leviathan-soldier": "Als de Leviathan de Soldaat nomineert en executeert, wint goede team.",
     "lilmonsta-marionette": "Als er een Marionet in het spel zit, dan komen zij in het spel na de Demoon en moeten als hun buur starten.",
@@ -92,21 +95,94 @@
     "marionette-mathematician": "De Wiskundige kan leren of de Marionets informatie verkeerde informatie heeft gegeven, of incorrect werkt.",
     "marionette-plaguedoctor": "Als de Verteller de Marionet vaardigheid krijgt, wordt een van de Demoons goede buren een Marionet."
   },
+  "reminders": {
+    "townsfolk": "Dorpeling",
+    "turnsevil": "Wordt Slecht",
+    "twin": "Tweeling",
+    "visitor": "Bezoeker",
+    "whoopsie": "Oepsie"
+  },
   "roles": {
+    "acrobat": {
+      "flavor": "Welkom allemaal bij het grootste spektakel op aarde."
+    },
+    "alchemist": {
+      "ability": "Jij hebt een Minion vaardigheid. Als je deze gebruikt mag de Verteller aangeven dat je anders moet keizen.",
+      "flavor": "Bezoek het hart van de Aarde. Door zuivering vind je de Steen der Wijzen. Boven het goud rust het rubedo. Het Kether in Malkuth."
+    },
     "amnesiac": {
+      "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
       "flavor": "Ik heb hier geen actieve herinnering aan."
     },
     "atheist": {
       "flavor": "Laten we ons niet verliezen in de nutteloze veronderstellingen en dwaze paranoia. Er is een volstrekt normale en rationale verklaring voor alles. Ja, een theekopje kan om de planeet draaien, te klein om te zien, maar ik drink mijn thee uit het daadwerkelijk servies dat in mijn handen rust."
     },
+    "baron": {
+      "flavor": "Wat is dan het probleem?\nWij dragen alles en u draagt niets!\nIk draag niets? Ik draag... de verantwoording! En die is al zwaar genoeg."
+    },
     "boomdandy": {
       "flavor": "Harry doet boem."
+    },
+    "buddhist": {
+      "flavor": "Je gooit met doornen. Maar in mijn rust worden ze bloemen."
+    },
+    "chef": {
+      "flavor": "De reservering van vanavond is vreemd. Mevrouw Mayweather heeft nooit gezelschap gehad van de schurk uit Hudson Lane. En toch, vanavond, hebben ze een tafel voor 2. Raar."
     },
     "damsel": {
       "flavor": "Schat, kom niet aan het haar."
     },
+    "dawn": {
+      "first": "Wacht een paar seconden. Eindig de nacht fase."
+    },
+    "deviant": {
+      "flavor": "Het was de kwinkslag van de dame, inderdaad."
+    },
+    "djinn": {
+      "ability": "Gebruik de speciale regel van de Djinn. Alle spelers weten wat het is.",
+      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
+    },
+    "drunk": {
+      "ability": "Jij weet niet dat je Dronken bent. Jij denkt dat je een Dorpeling bent, maar dat ben je niet."
+    },
+    "duchess": {
+      "flavor": "Gasten worden ontvangen tussen 6 en 7 uur precies. Thee om kwart over 6, Koekjes om kwart voor 7. Kom stipt op tijd en draag formele kleding, zoals altijd."
+    },
+    "exorcist": {
+      "flavor": "Wij bannen u uit: elke onreine geest, elke satanische macht, elke aanval van de helse vijand, elk Legioen, elke duivelse menigte en sekte, in de naam en de kracht van onze Heer Jezus Christus. Wij gebieden u: ga heen en vlucht van Gods Kerk, van de zielen geschapen naar Zijn beeld en verlost door het bloed van het Goddelijke Lam."
+    },
+    "fanggu": {
+      "flavor": "Je muren en je wapens zijn als rook in dromen."
+    },
+    "ferryman": {
+      "flavor": "Wanneer rechtvaardigen durven dromen, dragen zij de waarheid."
+    },
     "fibbin": {
       "flavor": "Gniffel Gniffel. Hihihi. Hi. Hi. Hi."
+    },
+    "fisherman": {
+      "flavor": "Dit was mijn favoriete deel van de rivier... zie hoe het zonlicht een regenboog vormt van het klooster tot de markt. De beste plek voor grote vissen en hoe ouder ik word, de groter ze waren."
+    },
+    "goblin": {
+      "flavor": "Je wilt de kobolden echt niet beledigen. Echt, écht niet. Over iets heel anders gesproken… mag ik nog een stuk taart?"
+    },
+    "heretic": {
+      "ability": "Wie wint, verliest & wie verliest, wint. Zelfs als jij dood bent."
+    },
+    "hermit": {
+      "ability": "Jij hebt de vaardigheid van alle Buitenstaanders. [-0 of -1 Buitenstaander]"
+    },
+    "imp": {
+      "flavor": "Houd het verstand scherp en het zwaard scherper. Het kwaad loop rond en keert zich tegen ons, het goede en eenvoudige volk. Ons dorp wordt geruïneerd. Vertrouw niemand. Maar als je iemand wil vertrouwen, vertrouw dan mij."
+    },
+    "knight": {
+      "flavor": "Als een man liegt, stort een deel van de wereld in."
+    },
+    "legion": {
+      "flavor": "Wij zijn de kille wind op een winterdag. Wij zijn de schaduw in de nacht zonder maan. Wij zijn het gif in je kopje en het gefluister in je oor. Wij zijn overal."
+    },
+    "leviathan": {
+      "flavor": "Tot het einde zal ik met je worstelen. Vanuit het diepst van de hel haal ik je neer. Uit haat spuw ik mijn laatste adem naar je uit."
     },
     "lilmonsta": {
       "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Ompbijt."
@@ -114,25 +190,85 @@
     "lleech": {
       "flavor": "Lekker, lekker, lekker, lekker, lekker, lekker, herse.... ik bedoel taart! Cake. Lekker stukje taart. Cake. Dat is wat ik wilde zeggen."
     },
+    "lunatic": {
+      "ability": "Jij denkt dat je de Demoon bent, maar dat ben je niet. De Demoon weet wie jij bent & wie jij 's nachts kiest."
+    },
+    "magician": {
+      "name": "Magiër"
+    },
+    "marionette": {
+      "ability": "Jij denkt dat je een goed karakter bent, maar dat ben je niet. De Demoon weet wie je bent. [Jij zit naast de Demoon]"
+    },
+    "mayor": {
+      "flavor": "Aan allen die gekomen zijn: proficiat! Aan allen die niet gekomen zijn: ook proficiat!"
+    },
+    "ogre": {
+      "flavor": "\\<grunt\\>\\<grin\\>\\</grunt\\>"
+    },
+    "po": {
+      "flavor": "Wil je ook een bloem? Ik ben zo eenzaam."
+    },
     "ravenkeeper": {
       "flavor": "Mijn vogels zullen wraak nemen! Vlieg! Vlieg mijn lieve loyale dieren. Van het kasteel tot de oceaan. Van de vallei tot aan de straten. Vlieg!"
+    },
+    "recluse": {
+      "ability": "Jij kan registreren als slecht & Minion of Demoon, zelfs als je dood bent."
     },
     "riot": {
       "name": "Rellen"
     },
+    "saint": {
+      "flavor": "Wijsheid zaait vrede. Geduld zaait wijsheid. Vrees niet, de tijd komt dat ook de angst wordt vergeten. Laat ons bidden en moge de eenheid van ons aanzien ons tot heiligen maken."
+    },
     "scarletwoman": {
+      "flavor": "Je liet me de geheimen zien van de Raad van de Paarse Vlam. In vuur, lust en beestachtig verlangen hebben wij verenigd, en ik ben voor eeuwig dienstbaar. Maar vannacht, liefste, ben ik jouw meester.",
       "name": "Rode Vrouw"
     },
     "seamstress": {
       "flavor": "Heb je gehoord dat die vreemdeling in de kasjmierjas ons jonge Belle het hof maakte? En ze heeft ja gezegd? Nou, dat is niets vergeleken met wat Harry en die jongleur op de kermis hebben uitgespookt! De dingen die ik zou kunnen vertellen als ik roddelde… ach, ja."
     },
+    "shugenja": {
+      "flavor": "これは夢。それも夢。すべて夢です。"
+    },
     "snakecharmer": {
       "flavor": "Effendi... Ik ben slechts een nederig man, maar mijn fluit is van goud en één melodie zal de wildste djinn temmen, Inshallah. Ze zeggen dat hebzucht meer mannen het leven kost dan touw. Maar ik niet, Effendi... ik niet."
+    },
+    "soldier": {
+      "ability": "Jij bent veilig voor de Demoon."
     },
     "spy": {
       "ability": "Elke nacht bekijk je de Grimoire. Je registreert mogelijk als goed & als Dorpeling of Buitenstaander, zelfs als je dood bent."
     },
+    "thief": {
+      "name": "Dief"
+    },
+    "tinker": {
+      "ability": "Je kan ieder moment sterven."
+    },
+    "towncrier": {
+      "name": "Stadsomroeper"
+    },
+    "toymaker": {
+      "name": "Speelgoedmaker"
+    },
+    "undertaker": {
+      "name": "Begrafenisondernemer"
+    },
+    "vigormortis": {
+      "name": "Vigormortis"
+    },
+    "villageidiot": {
+      "name": "Dorpsgek",
+      "other": "Maak de Dorpsgekken één voor één wakker, de Dorpsgek kiest een speler, laat een goede of slechte duim zien afhankelijk van het team van de gekozen speler."
+    },
+    "virgin": {
+      "name": "Maagd"
+    },
+    "vizier": {
+      "name": "Vizier"
+    },
     "vortox": {
+      "flavor": "Zwart is Wit. Goed is Fout. Links is Rechts. Boven is Lang. Beneden is Zicht. Kort is Blind. Volg mij. Antwoorden vind.",
       "name": "Vortox"
     },
     "voudon": {
