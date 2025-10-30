@@ -206,6 +206,7 @@
       "name": "Vergeetachtige"
     },
     "angel": {
+      "flavor": "Laat hun wie zonder zonde is, durven zijn hand te heffen tegen mijn uitverkorene; ik zal die dwazen treffen met de toorn en rechtvaardigheid van duizend stormen.",
       "name": "Engel"
     },
     "apprentice": {
@@ -249,6 +250,7 @@
       "name": "Baron"
     },
     "beggar": {
+      "flavor": "Een aalmoes voor de armen, meneer? Ik vraag slecht een muntje, mevrouw? Dank u, Gods zegen! U bent een goede ziel, geen twijfel mogelijk! Ik heb het chique eten vanavond.",
       "name": "Bedelaar"
     },
     "bishop": {
@@ -279,6 +281,7 @@
       "other": "De Ambtenaar kiest een speler. :reminder:"
     },
     "butcher": {
+      "flavor": "Kip, het meest veelzijdige stukje vlees. Kip!",
       "name": "Slager"
     },
     "butler": {
@@ -302,6 +305,7 @@
       "name": "Kok"
     },
     "choirboy": {
+      "flavor": "Ik zag het, echt waar! Ik was in de kerkbanken de liederboeken aan het opruimen toen er een vreselijke melodie uit de pijporgel kwam. De organist had een lange mantel en lange vingers aan de toetsen. En ook een hoed... die precies... op jouwe lijkt!",
       "name": "Koorknaap"
     },
     "clockmaker": {
@@ -408,6 +412,7 @@
       "name": "Tuinman"
     },
     "general": {
+      "flavor": "\"Ik kwam, ik zag en ik overwon.\"",
       "name": "Generaal"
     },
     "gnome": {
@@ -424,6 +429,7 @@
       "name": "Golem"
     },
     "goon": {
+      "flavor": "Ja, baas. Ik heb het zeker goed uitgelegd. Hij wil het niet nog eens horen.\nNee, baas. Ik heb geen dokter nodig - het is maar een messteek. Ik voel me morgen weer oké.",
       "name": "Zot"
     },
     "gossip": {
@@ -441,6 +447,7 @@
       "name": "Harpij"
     },
     "hatter": {
+      "flavor": "1...2...3...4... hoedje van, hoedje van, 1...2...3...4... hoedje van papier!",
       "name": "Hoedenmaker"
     },
     "hellslibrarian": {
@@ -458,6 +465,7 @@
       "name": "Hoge Priester"
     },
     "huntsman": {
+      "flavor": "Mijn hut staat warm, stevig en stil, bij de deur mijn bijl, bij het vuur mijn wil. Laarzen drogen, stoofpot pruttelt zacht, maar hoor daar! Een gil door de vallei die lacht.\nRegen en modder, de koude wind waait, het spoor van de wolven door de duisternis gaat. Ik ken het pad, mijn pas is vast, ik nader nu, ik sta paraat.",
       "name": "Jager"
     },
     "imp": {
@@ -569,6 +577,9 @@
     "pithag": {
       "flavor": "Rond de ketel ik ga, en de vergiftigde ingewanden sta; een pad die onder koude steen, eenendertig dag en nacht te leen; Gezweet gif in slaap verkregen, in de betoverde pot gelegen."
     },
+    "pixie": {
+      "first": "Laat het token van de Dorpeling zien dat gemarkeerd staat als *WAANZIN*"
+    },
     "po": {
       "flavor": "Wil je ook een bloem? Ik ben zo eenzaam.",
       "other": "De Po mag een speler kiezen, of 3 als ze de vorige nacht niemand kozen. :reminder: or :reminder: :reminder: :reminder:"
@@ -605,6 +616,7 @@
     },
     "sailor": {
       "first": "De Matroos kiest een levende speler. :reminder:",
+      "flavor": "Ik drink jullie allemaal onder de tafel, schavuiten. Jij! Kletskous! Denk jij dat je mij aankunt? Nee?\nEn jij, omaatje? Ooit Old McKillys Extra Rum geprobeerd? Het geeft je haren op je tanden, oké. Stap aan boord, aye!",
       "name": "Matroos",
       "other": "De Matroos kiest een levende speler. :reminder:"
     },
