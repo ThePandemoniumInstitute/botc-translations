@@ -375,45 +375,88 @@
     "golem": {
       "name": "Golem"
     },
+    "goon": {
+      "name": "Zot"
+    },
+    "gossip": {
+      "name": "Roddelaar"
+    },
     "grandmother": {
-      "flavor": "Trek een jas aan als je naar buiten gaat, lieverd. En je drinken. En je sjaal. Ik heb een slecht hart. Wat moet ik doen als je ziek wordt... of erger."
+      "flavor": "Trek een jas aan als je naar buiten gaat, lieverd. En je drinken. En je sjaal. Ik heb een slecht hart. Wat moet ik doen als je ziek wordt... of erger.",
+      "name": "Oma"
+    },
+    "harlot": {
+      "name": "Maîtresse"
     },
     "harpy": {
-      "flavor": "Zo'n mooie dag heb ik nog nooit gezien, noch zo'n kraaiend gezelschap om mij heen."
+      "flavor": "Zo'n mooie dag heb ik nog nooit gezien, noch zo'n kraaiend gezelschap om mij heen.",
+      "name": "Harpij"
+    },
+    "hatter": {
+      "name": "Hoedenmaker"
     },
     "hellslibrarian": {
       "flavor": "Sssssssst. Wees stil. Het is beter om de bibliothecaris niet te storen. Ik heb gehoord dat hij met het verkeerde been uit bed is gestapt."
     },
     "heretic": {
-      "ability": "Wie wint, verliest & wie verliest, wint. Zelfs als jij dood bent."
+      "ability": "Wie wint, verliest & wie verliest, wint. Zelfs als jij dood bent.",
+      "name": "Ketter"
     },
     "hermit": {
       "ability": "Jij hebt de vaardigheid van alle Buitenstaanders. [-0 of -1 Buitenstaander]"
     },
     "highpriestess": {
-      "flavor": "Achter de persoonlijkheid die maskers van anderen draagt, schuilt het ware leven. Soms legt het leven zijn masker af en biedt het diepe antwoorden op diepste vragen."
+      "flavor": "Achter de persoonlijkheid die maskers van anderen draagt, schuilt het ware leven. Soms legt het leven zijn masker af en biedt het diepe antwoorden op diepste vragen.",
+      "name": "Hoge Priester"
+    },
+    "huntsman": {
+      "name": "Jager"
     },
     "imp": {
-      "flavor": "Houd het verstand scherp en het zwaard scherper. Het kwaad loop rond en keert zich tegen ons, het goede en eenvoudige volk. Ons dorp wordt geruïneerd. Vertrouw niemand. Maar als je iemand wil vertrouwen, vertrouw dan mij."
+      "flavor": "Houd het verstand scherp en het zwaard scherper. Het kwaad loop rond en keert zich tegen ons, het goede en eenvoudige volk. Ons dorp wordt geruïneerd. Vertrouw niemand. Maar als je iemand wil vertrouwen, vertrouw dan mij.",
+      "name": "Imp"
     },
     "innkeeper": {
+      "name": "Herbergier",
       "other": "De Herbergier kiest 2 spelers. :reminder: :reminder: :reminder:"
     },
+    "investigator": {
+      "name": "Onderzoeker"
+    },
+    "judge": {
+      "name": "Rechter"
+    },
+    "juggler": {
+      "name": "Jongleur"
+    },
     "kazali": {
+      "name": "Kazali",
       "other": "De Kazali kiest een speler. :reminder: "
     },
+    "king": {
+      "name": "Koning"
+    },
+    "klutz": {
+      "name": "Kluns"
+    },
     "knight": {
-      "flavor": "Als een man liegt, stort een deel van de wereld in."
+      "flavor": "Als een man liegt, stort een deel van de wereld in.",
+      "name": "Ridder"
     },
     "legion": {
-      "flavor": "Wij zijn de kille wind op een winterdag. Wij zijn de schaduw in de nacht zonder maan. Wij zijn het gif in je kopje en het gefluister in je oor. Wij zijn overal."
+      "flavor": "Wij zijn de kille wind op een winterdag. Wij zijn de schaduw in de nacht zonder maan. Wij zijn het gif in je kopje en het gefluister in je oor. Wij zijn overal.",
+      "name": "Legioen"
     },
     "leviathan": {
       "flavor": "Tot het einde zal ik met je worstelen. Vanuit het diepst van de hel haal ik je neer. Uit haat spuw ik mijn laatste adem naar je uit.",
       "name": "Leviathan"
     },
+    "librarian": {
+      "name": "Bibliothecaris"
+    },
     "lilmonsta": {
-      "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Ompbijt."
+      "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Ompbijt.",
+      "name": "mini-Monster"
     },
     "lleech": {
       "first": "De Bloedzuiger kiest een speler. :reminder:",
