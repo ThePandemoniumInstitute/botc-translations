@@ -556,10 +556,14 @@
       "flavor": "\\<grunt\\>\\<grin\\>\\</grunt\\>"
     },
     "ojo": {
+      "name": "Ojo",
       "other": "De Ojo kiest een karakter. :reminder: "
     },
     "organgrinder": {
       "flavor": "Rond en rond, het orgelpracht. Hoe meer je danst, hoe minder je lacht."
+    },
+    "pacifist": {
+      "name": "Pacifist"
     },
     "pithag": {
       "flavor": "Rond de ketel ik ga, en de vergiftigde ingewanden sta; een pad die onder koude steen, eenendertig dag en nacht te leen; Gezweet gif in slaap verkregen, in de betoverde pot gelegen."
@@ -573,13 +577,15 @@
       "other": "De Gifmenger kiest een speler. :reminder:"
     },
     "professor": {
-      "flavor": "Het proces is eenvoudig. Sluit de hydraulische confabulator aan op de gemodificeerde chi-matrixversterker, voeg 20 cc pseudodorafine toe, houd zijn Z-waarden boven de 20% en je man komt er wel. Nu hebben we alleen nog een blikseminslag nodig."
+      "flavor": "Het proces is eenvoudig. Sluit de hydraulische confabulator aan op de gemodificeerde chi-matrixversterker, voeg 20 cc pseudodorafine toe, houd zijn Z-waarden boven de 20% en je man komt er wel. Nu hebben we alleen nog een blikseminslag nodig.",
+      "name": "Professor"
     },
     "psychopath": {
       "flavor": "Verrassing!"
     },
     "pukka": {
-      "first": "De Pukka kiest een speler. :reminder:"
+      "first": "De Pukka kiest een speler. :reminder:",
+      "name": "Pukka"
     },
     "ravenkeeper": {
       "flavor": "Mijn vogels zullen wraak nemen! Vlieg! Vlieg mijn lieve loyale dieren. Van het kasteel tot de oceaan. Van de vallei tot aan de straten. Vlieg!"
