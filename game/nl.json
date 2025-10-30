@@ -66,6 +66,12 @@
     "exorcist-riot": "Als de Rellen een door de Exorcist geselecteerde speler nomineert en executeert, wint het Goede Team.",
     "exorcist-yaggababble": "Als de Exorcist de Kletsmajoor kiest, kan de Kletsmajoor vannacht niet doden.",
     "fanggu-scarletwoman": "Als er twee Demonen zijn, waarvan er 1 de Rode Vrouw was, dan blijft de Rode Vrouw de Rode Vrouw.",
+    "heretic-lleech": "Er is maar 1 vervloekt karakter in het spel.",
+    "heretic-pithag": "Er is maar 1 vervloekt karakter in het spel.",
+    "heretic-spy": "Er is maar 1 vervloekt karakter in het spel.",
+    "heretic-widow": "Er is maar 1 vervloekt karakter in het spel.",
+    "innkeeper-leviathan": "Als de Leviathan een door de Herbergier beschermde speler nomineert en executeert, wint goed.",
+    "innkeeper-riot": "Als Rellen een door de Herbergier beschermde speler nomineert en executeert, wint goed.",
     "leviathan-sage": "Elke nacht* kiest de Leviathan een levende goede speler (anders dan de vorige nacht): een gekozen Wijze gebruikt hun vaardigheid en sterft niet.",
     "leviathan-soldier": "Als de Leviathan de Soldaat nomineert en executeert, wint goede team.",
     "lilmonsta-marionette": "Als er een Marionet in het spel zit, dan komen zij in het spel na de Demoon en moeten als hun buur starten.",
@@ -103,6 +109,9 @@
     },
     "ravenkeeper": {
       "flavor": "Mijn vogels zullen wraak nemen! Vlieg! Vlieg mijn lieve loyale dieren. Van het kasteel tot de oceaan. Van de vallei tot aan de straten. Vlieg!"
+    },
+    "riot": {
+      "name": "Rellen"
     },
     "scarletwoman": {
       "name": "Rode Vrouw"
