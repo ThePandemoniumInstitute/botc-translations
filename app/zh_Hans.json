@@ -322,7 +322,9 @@
       "title": "选择一个 {alignment} {target}",
       "title_alignment_e": "邪恶阵营",
       "title_alignment_g": "善良阵营",
-      "title_alignment_r": "常规阵营"
+      "title_alignment_r": "常规阵营",
+      "title_type_bluff": "伪装",
+      "title_type_character": "角色"
     },
     "roles": {
       "button_distribute": "发送 {0} 个角色",
@@ -406,6 +408,7 @@
       "setting_ptt": "按住说话",
       "setting_reminder_zoom": "提示标记尺寸",
       "setting_reminders": "堆叠提示标记",
+      "setting_reminders_always": "总是",
       "setting_reminders_auto": "自动",
       "setting_reminders_never": "从不",
       "setting_reveal": "在揭示魔典的时候显示玩家摄像头",
@@ -836,7 +839,7 @@
       "empty_text": "游戏还未结束，您确定要将该玩家从座位上移除吗？",
       "empty_title": "清空 {0} 号座位",
       "follow": "跟随该玩家",
-      "nominate": "提名玩家",
+      "nominate": "提名自己",
       "unfollow": "取消跟随该玩家",
       "wake": "唤醒",
       "whisper": "发送文本信息"
@@ -884,6 +887,7 @@
     "locked": "说书人和玩家",
     "locked_text": "只有已入座的玩家和该房间的说书人可以加入该房间。",
     "name_placeholder": "游戏房间名称",
+    "open_text": "所有人都可以加入对局。",
     "prompt_public_text": "您确定要将游戏房间设置为公开吗？\n这样一来所有人都可以看到和加入到您的游戏。",
     "prompt_public_title": "公开游戏房间",
     "server": "聊天服务器：",
@@ -967,6 +971,9 @@
       "reset_position": "重置位置",
       "spectator": "旁观者",
       "title": "语音"
+    },
+    "npcs": {
+      "remove_fabled": "移除传奇角色"
     },
     "text": {
       "channels": {
