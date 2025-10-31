@@ -56,7 +56,7 @@
     "cannibal-princess": "Om Kannibalen nominerade, avrättade och dödade Prinsessan idag så kan Demonen inte döda inatt.",
     "cannibal-zealot": "Om Kannibalen får Fanatikerns förmåga så får Kannibalen veta det.",
     "cerenovus-goblin": "Cerenovus får välja att en spelare ska vara galen att hen är Vätten.",
-    "chambermaid-mathematician": "Kammarjungfrun får veta om Matematikern kommer att vakna inatt.",
+    "chambermaid-mathematician": "Husan får veta om Matematikern kommer att vakna inatt.",
     "clockmaker-summoner": "Åkallaren registreras som Demonen för Urmakaren.",
     "courtier-summoner": "Om den levande Åkallaren inte har någon förmåga så har berättaren Åkallarens förmåga.",
     "courtier-vizier": "Om Vesiren förlorar sin förmåga så får hen veta det och kan inte dö på dagen.",
@@ -411,10 +411,10 @@
     },
     "chambermaid": {
       "ability": "Varje natt väljer du 2 levande spelare (inte dig själv); du får veta hur många som vaknade inatt p.g.a. sin förmåga.",
-      "first": "Kammarjungfrun väljer två levande spelare. Ge en fingersignal.",
+      "first": "Husan väljer två levande spelare. Ge en fingersignal.",
       "flavor": "Jag har inte sett nåt opassande, frun. Och med förlov sagt, om jag hade sett nåt så var det verkligen inte husbonn som smög in i professorns laboratorium runt klockan elva och mixtrade med brygder, precis som frun misstänkte.",
-      "name": "Kammarjungfrun",
-      "other": "Kammarjungfrun väljer två levande spelare. Ge en fingersignal."
+      "name": "Husan",
+      "other": "Husan väljer två levande spelare. Ge en fingersignal."
     },
     "chef": {
       "ability": "I början vet du hur många par onda spelare det finns.",
@@ -909,7 +909,7 @@
     "ogre": {
       "ability": "Din första natt väljer du en spelare (inte dig själv); du är på hens lag (du vet inte vilket), även om du är full eller förgiftad.",
       "first": "Resen pekar på en spelare. :reminder:",
-      "flavor": "\\<grymt\\>\\<flin\\>\\</grymt\\>",
+      "flavor": "<grymt><flin></grymt>",
       "name": "Resen"
     },
     "ojo": {
