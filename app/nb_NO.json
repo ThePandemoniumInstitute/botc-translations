@@ -3,7 +3,7 @@
     "account-levels": {
       "free": "Gratis",
       "patreon-demon": "Demon nivå",
-      "patreon-minion": "Undersått",
+      "patreon-minion": "Undersått nivå",
       "patreon-townsfolk": "Byfolk",
       "special-free": "Gratis",
       "special-moderator": "Moderator",
@@ -60,7 +60,7 @@
       }
     },
     "terms_of_use": "Bruksvilkår",
-    "title": "Blod på klokketårnet Online",
+    "title": "Blood on the Clocktower Online",
     "trademark": "\"Blood on the Clocktower\" er et varemerke tilhørende Steven Medway og The Pandemonium Institute.",
     "unnamed_user": "Bruker uten navn"
   },
@@ -77,10 +77,10 @@
     "minion": "Håndlager|Håndlagere",
     "outsider": "Outsider|Outsiders",
     "phases": {
-      "day": "Første Dag|Dag{n}",
+      "day": "Første Dag|Dag {n}",
       "end": "Mellom spill",
       "first_night": "Første natt",
-      "night": "Første Natt|Natt{n}",
+      "night": "Første Natt|Natt {n}",
       "other_nights": "Andre netter",
       "start": "Forbereder Natt 1"
     },
@@ -88,17 +88,17 @@
     "players": "Spillere",
     "seat": "Sete {0}",
     "shroud": "Likklede",
-    "storyteller": "Historieforteller {0}",
-    "storytellers": "Historiefortellerene",
+    "storyteller": "Forteller {0}",
+    "storytellers": "Fortellerne",
     "token": "Brikke",
     "townsfolk": "Bygdefolk|Bygdefolk",
     "traveller": "Reisende|Reisere"
   },
   "main-menu": {
-    "cast_vote": "Stem",
+    "cast_vote": "Avgi stemme",
     "change_icon": "Klikk for å bytte ikon",
-    "char_sheet": "Rolleoversikt",
-    "characters": "Velg roller",
+    "char_sheet": "Karakteroversikt",
+    "characters": "Velg Karakterer",
     "clear_grim": "Tøm Grimoire",
     "download": "Last ned {0} App",
     "edition": "Velg utgave",
@@ -138,7 +138,7 @@
     "show_grim": "Vis Grimoire",
     "show_town": "Vis Torget",
     "show_users": "Vis brukere [{0}]",
-    "storyteller_add": "Bli historiefortelleren",
+    "storyteller_add": "Bli fortelleren",
     "storyteller_remove": "Gå av som forteller",
     "tab_app": "Applikasjon",
     "tab_during_game": "Under spillet",
@@ -147,7 +147,7 @@
     "to_day": "Gå til dagsfase",
     "to_night": "Gå til nattfase",
     "translation": "Forbedre denne oversettelsen",
-    "user_list": "Bruker Liste",
+    "user_list": "Brukerliste",
     "vacate_seat": "Forlat Sete",
     "vote_history": "Stemme Historikk"
   },
@@ -168,7 +168,7 @@
       "close_timer": "Denne meldingen vil lukke seg selv om {n}s.",
       "error": {
         "add_player": "Kan ikke legge til spiller",
-        "add_storyteller": "Feil med å legge til Historieforteller",
+        "add_storyteller": "Feil med å legge til Forteller",
         "avatar": "Feil ved opplasting av avatar",
         "avatar_generic": "Noe gikk galt ved opplasting av din avatar.",
         "avatar_pixel": "Bildet ditt var for stort. Vennligst skaler det ned til 4000x4000 før du laster opp igjen.",
@@ -683,8 +683,8 @@
       "you_pointed": "Du pekte på:"
     },
     "reveal": {
-      "button_remaining": "Gjennstående spillere",
-      "button_result": "Spill resultat",
+      "button_remaining": "Gjennværende spillere",
+      "button_result": "Spillresultat",
       "evil": "Ond",
       "good": "God",
       "prompt": "Advarsel: Dette vil avslutte spillet og vise girmoret til alle spillere!\nHvem vant spillet?",
@@ -715,10 +715,10 @@
       "button_defense": "Gå til Forsvar",
       "button_hand_down": "NED",
       "button_hand_up": "OPP",
-      "button_mark": "Merk",
+      "button_mark": "Marker",
       "button_mark_remove": "Fjern Merke",
       "button_pause": "Pause",
-      "button_reset": "Tilbakestill",
+      "button_reset": "Nullstill",
       "button_restart": "Start på nytt",
       "button_resume": "Fortsett",
       "button_start": "Start",
@@ -761,7 +761,7 @@
       "title": "Vennligst juster klokken på datamaskinen din"
     },
     "lobby": {
-      "button_create_game": "Lag Spill",
+      "button_create_game": "Opprett Spill",
       "button_help": "Hjelp",
       "button_join_game": "Bli med i et privat spill",
       "button_local_play": "Lokalt Spill",
@@ -770,7 +770,7 @@
       "button_settings": "Innstillinger",
       "button_verify": "Bekreft konto",
       "characters": "Karakterer",
-      "create_game": "Lag Nytt Spill",
+      "create_game": "Opprett Nytt Spill",
       "edition_by": "av {author}",
       "forced_private": "Du kan ikke lenger spille i offentlige spill.",
       "free_tier_free": "Gratis",
@@ -832,7 +832,7 @@
   "player": {
     "menu": {
       "alignment": "Endre tilhørlighet",
-      "character": "Endre karakter",
+      "character": "Endre Karakter",
       "chat": "Be om privat chat",
       "empty": "Tøm Sete",
       "empty_text": "Vil du virkelig fjerne denne spilleren fra setet dems mens spiller er i gang?",
@@ -865,7 +865,7 @@
     },
     "reminders": {
       "add": "Legg til Påminnelse",
-      "edit": "Rediger Påminnelse{0}",
+      "edit": "Rediger Påminnelse {0}",
       "edit_placeholder": "Tilpasset notat",
       "edit_text": "Rediger den tilpassede påminnelsesnotaten for {0}",
       "edit_title": "Rediger Påminnelse",
@@ -881,11 +881,12 @@
     "access": "Tilgang",
     "copy": "Klikk for å kopiere",
     "created": "Laget {0} siden av {1}.",
-    "free": "Gratis for alle",
+    "free": "Tilgjengelig for alle",
     "language": "Samtale Språk",
     "locked": "Fortellere og Spillere",
     "locked_text": "Kun sittende spillere og nåværende fortellere kan delta i økten.",
     "name_placeholder": "Spill økt navn",
+    "open_text": "Alle kan bli med i økten.",
     "prompt_public_text": "Er du sikker på at du vil gjøre spilløkten synlig for offentligheten?\n Dette vil tillate alle å se og bli med i spillet ditt.",
     "prompt_public_title": "Lag Spill Økten Offentlig",
     "server": "Chat-server:",
@@ -902,7 +903,7 @@
   },
   "storyteller": {
     "connecting": "Fortelleren kobler seg til stemmechatten.",
-    "follow": "Følg Historieforteller",
+    "follow": "Følg Forteller",
     "following": "Du følger denne fortelleren.",
     "listening": "Fortelleren lytter i stemmechatten.",
     "offline": "Fortelleren er for øyeblikket frakoblet.",
@@ -910,7 +911,7 @@
     "prompt_grim_title": "Feil i å forespørre Grimoire Tilgang",
     "remove": "Fjern Forteller",
     "request_grim": "Forespør Grimoire Tilgang",
-    "title": "Historiefortellere",
+    "title": "Fortellere",
     "unfollow": "Slutt å følge Forteller"
   },
   "tabs": {
