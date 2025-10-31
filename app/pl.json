@@ -120,7 +120,7 @@
     "mute_mic": "Wycisz mikrofon [{0}]",
     "night_info": "Informacje nocne",
     "night_info_text": "Bajarz obudził cię tej nocy!",
-    "night_sheet": "Kolejności Nocna",
+    "night_sheet": "Kolejność nocna",
     "npcs": "Dodaj NPC-a",
     "prompt_clear_player": "Czy na pewno chcesz usunąć wszystkie postacie graczy i żetony przypominające?",
     "prompt_clear_st": "Grymuar i żetony przypominające zostaną wyczyszczone dla ciebie i pozostałych graczy. Jesteś pewien?",
@@ -1003,7 +1003,7 @@
       "prompt_system": "Wiadomości systemowe",
       "prompt_user": "Do {0}",
       "system": {
-        "death": "{0} umarł.",
+        "death": "{0} umiera.",
         "end_evil": "Gra się kończyła i wygrała drużyna Zła!",
         "end_good": "Gra się skończyła i wygrała drużyna Dobra!",
         "grim_deny": "{0} został odmówiony dostęp do Grymuaru.",
