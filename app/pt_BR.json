@@ -888,7 +888,7 @@
     "prompt_public_title": "Tornar a partida pública",
     "server": "Servidor das conversas:",
     "server_name": "Nome",
-    "server_stats": "{0} usuários, servidor {1} carregado",
+    "server_stats": "{0} usuários, carga de {1} no servidor",
     "session_name": "Nome da partida",
     "subscription_needed": "Assinatura necessária",
     "tags": "Rótulos para jogo público",
