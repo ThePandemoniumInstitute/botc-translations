@@ -73,7 +73,7 @@
       "pointing": "플레이어 선택"
     },
     "demon": "악마|악마들",
-    "fabled": "전설적인 캐릭터|전설적인 캐릭터들",
+    "fabled": "전설적인 캐릭터|전설적인 캐릭터",
     "loric": "설화적인 캐릭터|설화적인 캐릭터",
     "minion": "하수인|하수인들",
     "outsider": "외지인|외지인들",
@@ -655,7 +655,7 @@
       "button_add": "자리 추가",
       "button_clear": "빈자리 삭제",
       "button_clearall": "모든 자리 비우기",
-      "button_select": "에디션 선택",
+      "button_select": "에디션을 선택하세요",
       "button_shuffle": "자리 섞기",
       "clear_text": "모든 플레이어를 제거하시겠습니까?",
       "clear_title": "모든 플레이어 제거",
@@ -856,7 +856,7 @@
       "whisper": "귓속말 보내기"
     },
     "name": {
-      "claim": "클릭하여 주장하기",
+      "claim": "클릭하여 앉기",
       "connecting": "이 플레이어는 음성 채팅에 연결 중입니다.",
       "follow": "당신은 해당 플레이어를 따라가고 있습니다.",
       "listening": "이 플레이어는 음성 채팅을 청취 중입니다.",
