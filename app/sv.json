@@ -121,7 +121,7 @@
     "night_info": "Nattinfo",
     "night_info_text": "Berättaren väckte dig inatt!",
     "night_sheet": "Nattordningsark",
-    "npcs": "Lägg till berättarroller",
+    "npcs": "Lägg till myter",
     "prompt_clear_player": "Vill du verkligen ta bort alla spelares roller och påminnelsebrickor?",
     "prompt_clear_st": "Detta rensar grimoaren och tar bort påminnelsebrickor för dig och alla andra. Är du säker?",
     "prompt_clear_title": "Rensa grimoaren och påminnelser",
@@ -199,7 +199,7 @@
         "missing_roles": "Sessionen har hembryggda roller som inte går att hitta. Ladda dem innan du går med! Saknade roller: {0}",
         "missing_roles_title": "Det gick inte att ladda hembryggda roller",
         "move_player": "Kan inte flytta spelaren",
-        "npcs": "Det gick inte att uppdatera berättarroller",
+        "npcs": "Det gick inte att uppdatera myter",
         "offline": "Servern verkar vara nere",
         "remove_player": "Kan inte ta bort spelaren",
         "remove_storyteller": "Det gick inte att ta bort berättaren",
@@ -309,7 +309,7 @@
       "welcome": "Välkommen till {0}!"
     },
     "npc": {
-      "title": "Lägg till en berättarroll"
+      "title": "Lägg till en myt"
     },
     "reminder": {
       "custom_favorite": "Sparad som favorit",
@@ -458,7 +458,7 @@
         "toggleAudioMuted": "Mikrofon av/på",
         "toggleEdition": "Välj utgåva",
         "toggleFullscreen": "Helskärm",
-        "toggleNPCs": "Lägg till berättarroll",
+        "toggleNPCs": "Lägg till myt",
         "toggleNight": "Gå till natt/dag",
         "toggleNightOrder": "Nattordning",
         "toggleNightSignal": "Visa nattinfo",
@@ -793,7 +793,7 @@
       "language": "Språk",
       "loading": "Laddar sessioner…",
       "no_games": "Inga öppna sessioner hittades.",
-      "npcs": "Berättarroller",
+      "npcs": "Myter",
       "page": "Sida {page} av {total}",
       "phase": "Fas",
       "players": "Spelare",
@@ -850,7 +850,7 @@
       "empty_text": "Vill du verkligen ta bort den här spelaren under pågående spel?",
       "empty_title": "Släng ut {0}",
       "follow": "Följ spelaren",
-      "nominate": "Nominera spelare",
+      "nominate": "Självnominering",
       "unfollow": "Sluta följa spelaren",
       "wake": "Väck",
       "whisper": "Skicka textmeddelande"
