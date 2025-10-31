@@ -74,7 +74,7 @@
     },
     "demon": "Demônio|Demônios",
     "fabled": "Lenda|Lendas",
-    "loric": "Lorica",
+    "loric": "Mito|Mitos",
     "minion": "Lacaio|Lacaios",
     "outsider": "Forasteiro|Forasteiros",
     "phases": {
@@ -976,8 +976,8 @@
       "title": "Voz"
     },
     "npcs": {
-      "remove_fabled": "Remover Lendário",
-      "remove_loric": "Remover Loric"
+      "remove_fabled": "Remover Lenda",
+      "remove_loric": "Remover Mito"
     },
     "text": {
       "channels": {
@@ -1038,7 +1038,7 @@
       "loading": "Carregando estatísticas...",
       "none": "Nada",
       "player": "Partidas\n jogadas",
-      "player_wins": "% de vitórias",
+      "player_wins": "{0}% de vitórias",
       "role": "Personagens \n mais recebidos",
       "st_evil_wins": "{0}% de vitória do Mal",
       "storyteller": "Partidas\n narradas",
