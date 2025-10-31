@@ -149,7 +149,7 @@
     "translation": "Forbedre denne oversettelsen",
     "user_list": "Brukerliste",
     "vacate_seat": "Forlat Sete",
-    "vote_history": "Stemme Historikk"
+    "vote_history": "Avstemningshistorikk"
   },
   "modals": {
     "announcement": {
@@ -175,7 +175,7 @@
         "avatar_size": "Filen din var for stor. Vennligst prøv igjen med et bilde med en filstørrelse mindre enn 5 MB.",
         "avatar_type": "Filen din var ikke gjenkjent som et bilde.",
         "bluffs": "Feil under oppdatering av bløffer",
-        "chat2_text": "Chat-serveren ser ut til å være offline",
+        "chat2_text": "Chat-serveren ser ut til å være nede",
         "chat2_title": "Chat-server koblet fra",
         "chat_text": "Brudd på forbindelsen til chat-serveren, prøver å koble til igjen...\nFeilmelding: {0}",
         "chat_title": "Det oppsto en feil med chattilkoblingen",
