@@ -324,9 +324,9 @@
       "title_alignment_e": "Mau",
       "title_alignment_g": "Bom",
       "title_alignment_r": "Normal",
-      "title_target": "Para {0}",
-      "title_type_bluff": "Blefe",
-      "title_type_character": "Personagem"
+      "title_target": "para {0}",
+      "title_type_bluff": "blefe",
+      "title_type_character": "personagem"
     },
     "roles": {
       "button_distribute": "Dsitribuir {0} personagens",
@@ -580,7 +580,7 @@
       "grimoire_access_revoke": "Revogar acesso ao Grimório",
       "loading": "Carregando usuário...",
       "prompt_kick": "Tem certeza de que deseja remover {0} da partida?",
-      "prompt_st": "Você realmente quer que {0} vire um Narrador?\n Depois que esta pessoa confirmar, ela terá todos os poderes de um Narrador e acesso ao Grimório.",
+      "prompt_st": "Você realmente quer que {0} vire um Narrador?\nDepois que esta pessoa confirmar, ela terá todos os poderes de um Narrador e acesso ao Grimório.",
       "title": "Perfil de usuário"
     },
     "users": {
@@ -653,10 +653,10 @@
       "button_shuffle": "Embaralhar assentos",
       "clear_text": "Tem certeza de que quer remover todos os jogadores?",
       "clear_title": "Remover todos os jogadores",
-      "move": "Mover depois de \n {0}",
+      "move": "Mover depois de \n{0}",
       "shuffle_text": "Tem certeza de que quer aleatorizar os assentos?",
       "shuffle_title": "Aleatorizar assentos",
-      "swap": "Trocar com \n {0}",
+      "swap": "Trocar com \n{0}",
       "text": "Adicione, embaralhe ou remova assentos de jogadores aqui.",
       "text2": "Quando houver assentos o suficiente para todos, {0}",
       "title": "Reunir seus jogadores",
@@ -728,7 +728,7 @@
       "countdown_go": "Já",
       "defense": "Defesa",
       "highscore_placeholder": "maior número de votos",
-      "highscore_text": "Digite um novo número para o voto máximo de hoje\n ou deixe em branco para deixar como a maioria dos jogadores vivos.",
+      "highscore_text": "Digite um novo número para o voto máximo de hoje\nou deixe em branco para deixar como a maioria dos jogadores vivos.",
       "highscore_title": "Mudar o número máximo da votação",
       "majority": "A maioria é {0} voto|A maioria é {0} votos",
       "no_majority": "Maioria não é necessária",
@@ -764,7 +764,7 @@
       "title": "Ajuste o relógio do seu computador"
     },
     "lobby": {
-      "bootlegger_title": "Cabeças Erguidas!",
+      "bootlegger_title": "Atenção!",
       "button_create_game": "Criar jogo",
       "button_help": "Ajuda",
       "button_join_game": "Juntar-se a um jogo privado",
@@ -855,7 +855,7 @@
       "move": "Mover este jogador.",
       "offline": "Este jogador está offline no momento.",
       "remove": "Remover este jogador.",
-      "remove_text": "Tem certeza de que deseja remover o assento {0}?\n Ele está sendo ocupado por {1}.",
+      "remove_text": "Tem certeza de que deseja remover o assento {0}?\nEle está sendo ocupado por {1}.",
       "remove_title": "Remover assento",
       "seat_text": "(Apenas visível para você)",
       "seat_title": "Alterar nome do assento"
@@ -890,8 +890,8 @@
     "locked": "Narradores e jogadores",
     "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
     "name_placeholder": "Nome da partida",
-    "open_text": "Todos podem se juntar a sessão.",
-    "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\n Isso permitirá que qualquer pessoa veja e participe do seu jogo.",
+    "open_text": "Qualquer um pode entrar na sessão.",
+    "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\nIsso permitirá que qualquer pessoa veja e participe do seu jogo.",
     "prompt_public_title": "Tornar a partida pública",
     "server": "Servidor das conversas:",
     "server_name": "Nome",
@@ -1033,16 +1033,16 @@
     "registration": "Registro",
     "statistics": "Estatísticas",
     "stats": {
-      "edition": "Edições\n mais jogadas",
+      "edition": "Edições\nmais jogadas",
       "homebrew": "Um Personagem Caseiro",
       "loading": "Carregando estatísticas...",
       "none": "Nada",
-      "player": "Partidas\n jogadas",
+      "player": "Partidas\njogadas",
       "player_wins": "{0}% de vitórias",
       "role": "Personagens \n mais recebidos",
       "st_evil_wins": "{0}% de vitória do Mal",
-      "storyteller": "Partidas\n narradas",
-      "warning": "As estatísticas estão sendo geradas...\n Cheque novamente mais tarde!"
+      "storyteller": "Partidas\nnarradas",
+      "warning": "As estatísticas estão sendo geradas...\nCheque novamente mais tarde!"
     },
     "stats_hidden": "Oculto",
     "stats_private": "Privado",
