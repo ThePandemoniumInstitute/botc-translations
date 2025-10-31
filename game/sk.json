@@ -1,8 +1,41 @@
 {
   "roles": {
+    "king": {
+      "ability": "Každú noc, ak je počet mŕtvych väčší alebo rovný počtu živých, dozvieš sa jednu živú postavu. Démon vie, že si Kráľ."
+    },
+    "legion": {
+      "ability": "Každú noc* možno zomrie hráč. Popravy zlyhajú ak hlasovalo iba zlo. Si považovaný aj za Poskoka. [Väčšina hráčov je Sekta]"
+    },
+    "librarian": {
+      "ability": "Na začiatku sa dozvieš, že 1 z 2 hráčov je konkrétny Čudák. (Alebo že žiaden nie je v hre.)"
+    },
+    "lilmonsta": {
+      "flavor": "Krok 1: Byť rozkošnučký. Krok 2: Ovládnuť svet. Krok 3: Jaňajočky."
+    },
+    "lordoftyphon": {
+      "ability": "Každú noc* si vyber hráča, ktorý zomrie. [Zlé postavy sú v rade. Ty si v strede. +1 Poskok. -? až +? Čudákov]"
+    },
+    "lunatic": {
+      "ability": "Myslíš si, že si Démon, ale nie si. Démon vie kto si a koho si v noci vyberáš."
+    },
     "lycanthrope": {
-      "name": "Vlkodlak",
-      "other": "Lykantrop si vyberie hráča. :reminder:"
+      "name": "Vlkolak",
+      "other": "Vlkolak si vyberie hráča. :reminder:"
+    },
+    "magician": {
+      "ability": "Démon si myslí, že si Poskok. Poskokovia si myslia, že si Démon."
+    },
+    "marionette": {
+      "ability": "Myslíš si, že si dobrá postava, ale nie si. Démon vie kto si. [Susedíš s Démonom]"
+    },
+    "noble": {
+      "ability": "Na začiatku sa dozvieš 3 hráčov. Práve 1 z nich je zlý."
+    },
+    "pacifist": {
+      "ability": "Popravení dobrí hráči možno nezomrú."
+    },
+    "plaguedoctor": {
+      "ability": "Keď zomrieš, rozprávač získa schopnosť Poskoka."
     }
   }
 }
