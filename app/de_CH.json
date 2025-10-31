@@ -1,6 +1,10 @@
 {
   "common": {
     "account-levels": {
+      "free": "Gratis",
+      "patreon-demon": "Dämon-Stufe",
+      "patreon-minion": "Handlanger-Stufe",
+      "patreon-townsfolk": "Dorfbewohner-Stufe",
       "special-free": "Gesponsert",
       "special-moderator": "Moderator",
       "special-tpi": "TPI-Team"
