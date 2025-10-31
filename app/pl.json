@@ -23,7 +23,7 @@
       "cameras": {
         "label": "Kamery",
         "title": "Czy kamery są używane podczas tej sesji",
-        "value_0": "Opcjonalne",
+        "value_0": "opcjonalnie",
         "value_1": "Wymagane",
         "value_2": "Wyłączone"
       },
@@ -795,7 +795,7 @@
       "no_games": "Nie znaleziono publicznych gier.",
       "npcs": "Postać Niezależna (NPC)",
       "page": "Strona {page} z {total}",
-      "phase": "Fraza",
+      "phase": "Faza",
       "players": "Gracze",
       "script": "Skrypt",
       "show_private": "Pokaż gry prywatne",
