@@ -72,11 +72,11 @@
       "open-eyes": "눈 뜨기/감기",
       "pointing": "플레이어 선택"
     },
-    "demon": "악마|악마들",
+    "demon": "악마|악마",
     "fabled": "전설적인 캐릭터|전설적인 캐릭터",
     "loric": "설화적인 캐릭터|설화적인 캐릭터",
-    "minion": "하수인|하수인들",
-    "outsider": "외지인|외지인들",
+    "minion": "하수인|하수인",
+    "outsider": "외지인|외지인",
     "phases": {
       "day": "첫번째 낮|{n}번째 낮",
       "end": "쉬는 시간",
@@ -558,7 +558,7 @@
       "response": "답변:",
       "saw_this": "{0}이(가) 보았습니다",
       "sent": "보냄",
-      "storyteller": "이야기꾼|이야기꾼들",
+      "storyteller": "이야기꾼|이야기꾼",
       "title": "{0} 깨우기",
       "title_character": "캐릭터 선택",
       "title_player": "플레이어 선택",
