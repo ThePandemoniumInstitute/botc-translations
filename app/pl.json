@@ -296,8 +296,8 @@
       "upload_custom": "Prześlij plik JSON skryptu niestandardowego"
     },
     "help": {
-      "button_send": "Wyślij Dane Debuggowe Sesji",
-      "button_stop": "Zatrzymaj Wysyłanie Danych Debuggowych",
+      "button_send": "Wyślij dane debugowe sesji",
+      "button_stop": "Zatrzymaj wysyłanie danych debugowych",
       "link_0": "rejestratora błędów",
       "link_1": "za pomocą poczty elektronicznej",
       "link_2": "tutaj",
@@ -305,7 +305,7 @@
       "session_debug": "Napotykasz na błędy? Możesz wysłać informacje o swojej sesji i historię działań do naszego rejestru błędów, abyśmy mogli określić, na czym polega problem:",
       "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana do nas automatycznie. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
       "text1": "Niniejsza aplikacja (w wersji {version}) jest w rozbudowie.",
-      "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego kąta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
+      "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego konta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
       "welcome": "Witaj w {0}!"
     },
     "npc": {
@@ -315,7 +315,7 @@
       "custom_favorite": "Zapisane jako ulubione",
       "custom_note": "Własna notatka",
       "custom_text": "Wypełnij własną notatkę aby dodać do {0}",
-      "custom_title": "Dodaj Własną Notatkę",
+      "custom_title": "Dodaj własną notatkę",
       "tab1": "Ważne Przypominajki",
       "tab2": "Inne Przypominajki",
       "title": "Dodaj Przypominajkę do {0}"
@@ -348,12 +348,12 @@
     },
     "settings": {
       "background_placeholder": "Adres URL tła",
-      "background_text": "Podaj adres URL niestandardowego tła, albo został puste aby usunąć niestandardowe tło.",
-      "background_title": "Niestandardowe Tło",
+      "background_text": "Podaj adres URL niestandardowego tła, albo zostaw puste pole, aby usunąć niestandardowe tło.",
+      "background_title": "Niestandardowe tło",
       "button_always": "Zawsze",
       "button_edit": "Edytuj konto",
       "button_setup": "Uruchom Konfigurację",
-      "button_verify": "Zweryfikuj Konto",
+      "button_verify": "Zweryfikuj konto",
       "css_apply": "Zastosować niestandardowe reguły CSS?",
       "css_confirm": "Wiem co robię, pozwól mi zmienić wygląd aplikacji",
       "css_confirm2": "Potwierdź, że chcesz zachować zmiany CSS. W przeciwnym razie zostaną one automatycznie wyłączone.",
@@ -846,7 +846,7 @@
       "alignment": "Zmień drużynę (dobry/zły)",
       "character": "Zmień Postać",
       "chat": "Poproś o rozmowę prywatną",
-      "empty": "Puste Krzesło",
+      "empty": "Puste krzesło",
       "empty_text": "Naprawdę chcesz usunąć tego gracza z jego krzesła w trakcie trwającej gry?",
       "empty_title": "Puste Krzesło {0}",
       "follow": "Podążaj za Graczem",
@@ -856,7 +856,7 @@
       "whisper": "Wyślij Wiadomość Tekstową"
     },
     "name": {
-      "claim": "Kliknij aby zająć",
+      "claim": "Kliknij, aby usiąść",
       "connecting": "Ten gracz łączy się z czatem głosowym.",
       "follow": "Podążasz za tym graczem.",
       "listening": "Ten gracz się przysłuchuje.",
@@ -864,7 +864,7 @@
       "offline": "Ten gracz jest obecnie offline.",
       "remove": "Usuń tego gracza.",
       "remove_text": "Naprawdę chcesz usunąć Krzesło? {0}?\n Jest obecnie zajęte przez {1}.",
-      "remove_title": "Usuń Krzesło",
+      "remove_title": "Usuń krzesło",
       "seat_text": "(to będzie widoczne tylko dla ciebie)",
       "seat_title": "Zmień Nazwę Krzesła"
     },
@@ -984,7 +984,7 @@
       "title": "Głos"
     },
     "npcs": {
-      "remove_fabled": "Usuń Legendę",
+      "remove_fabled": "Usuń NPC",
       "remove_loric": "Usuń Mit",
       "title": "NPC"
     },
