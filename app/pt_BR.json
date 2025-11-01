@@ -114,8 +114,8 @@
     "grim_access": "Você recebeu acesso ao Grimório",
     "grim_request": "Um espectador pediu acesso ao Grimório",
     "help": "Ajuda",
-    "json_schema": "Esquema JSON do Cenário",
-    "leave": "Sair do Jogo",
+    "json_schema": "Esquema JSON de Cenários",
+    "leave": "Sair do jogo",
     "mute_cam": "Desabilitar câmera [{0}]",
     "mute_mic": "Mutar microfone [{0}]",
     "night_info": "Informação da Noite",
@@ -129,7 +129,7 @@
     "prompt_vacate_text": "Você está no meio de uma partida. Tem certeza de que deseja sair do seu assento?",
     "prompt_vacate_title": "Abandonar Assento",
     "push_to_talk": "Aperte [{0}] para falar",
-    "raise_hand": "Levantar a Mão",
+    "raise_hand": "Levantar a mão",
     "request_private": "Solicitar conversa particular",
     "reveal_grim": "Revelar Grimório",
     "rules": "Ler as regras",
@@ -198,7 +198,7 @@
         "missing_roles": "Esta partida contém personagens personalizados que não podem ser encontrados. Carregue-os antes de entrar no jogo! Personagens faltando: {0}",
         "missing_roles_title": "Erro ao carregar personagens personalizados",
         "move_player": "Não foi possível mover jogador",
-        "npcs": "Erro atualizando NPCs",
+        "npcs": "Erro ao atualizar lendas e mitos",
         "offline": "O servidor parece estar offline",
         "remove_player": "Não foi possível remover jogador",
         "remove_storyteller": "Erro ao remover Narrador",
@@ -308,7 +308,7 @@
       "welcome": "Boas-vindas ao {0}!"
     },
     "npc": {
-      "title": "Adicionar um Personagem Não Jogador"
+      "title": "Adicionar uma Lenda ou um Mito"
     },
     "reminder": {
       "custom_favorite": "Favoritado",
