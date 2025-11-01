@@ -49,7 +49,7 @@
       },
       "subscription": {
         "label": "Subskrypcja jest wymagana",
-        "title": "Aby dołączyć do tej, gry wymagana jest wykupiona subskrypcja"
+        "title": "Aby dołączyć do tej gry, wymagana jest wykupiona subskrypcja"
       },
       "travellers": {
         "label": "Podróżnicy",
@@ -396,7 +396,7 @@
       "setting_condense": "Zagęszcz Arkusz Postaci",
       "setting_cosmetics": "Pokaż dodatki kosmetyczne graczy",
       "setting_css": "Niestandardowe reguły CSS",
-      "setting_css_label": "Wprowadź Niestandardowe Reguły CSS",
+      "setting_css_label": "Wprowadź niestandardowe reguły CSS",
       "setting_echo_cancellation": "Redukcja echa",
       "setting_english": "Pokaż dodatkowe angielskie nazwy postaci",
       "setting_gain": "Wzmocnienie dźwięku",
@@ -421,7 +421,7 @@
       "setting_reveal": "Pokazuj kamery podczas ujawniania Grymuaru",
       "setting_st_night": "Bajarz: Pokazuj kolejność wybudzania",
       "setting_st_nomination": "Bajarz: Typ Nominacji",
-      "setting_st_vote": "Bajarz: Czas na Głosowanie",
+      "setting_st_vote": "Bajarz: Czas pomiędzy głosami",
       "setting_st_whisper": "Bajarz: Zezwól na szepty (tekstowe)",
       "setting_tutorial": "Pokazuj kroki samouczka aplikacji",
       "setting_video_deafen": "Pokazuj obrazy z kamer",
@@ -461,7 +461,7 @@
         "toggleNPCs": "Dodaj postać niezależną (NPC)",
         "toggleNight": "Przełącz Dzień / Noc",
         "toggleNightOrder": "Kolejność Nocna",
-        "toggleNightSignal": "Pokaż Informacje z Nocy",
+        "toggleNightSignal": "Pokaż informacje z nocy",
         "toggleReference": "Postacie",
         "toggleRoles": "Wybierz Postacie",
         "toggleTownSquare": "Pokaż rynek",
