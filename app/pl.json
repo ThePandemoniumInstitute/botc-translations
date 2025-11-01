@@ -23,7 +23,7 @@
       "cameras": {
         "label": "Kamery",
         "title": "Czy kamery są używane podczas tej sesji",
-        "value_0": "opcjonalnie",
+        "value_0": "Opcjonalnie",
         "value_1": "Wymagane",
         "value_2": "Wyłączone"
       },
