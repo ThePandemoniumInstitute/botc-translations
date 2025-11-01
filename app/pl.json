@@ -303,7 +303,7 @@
       "link_2": "tutaj",
       "link_3": "nasz sklep online",
       "session_debug": "Napotykasz na błędy? Możesz wysłać informacje o swojej sesji i historię działań do naszego rejestru błędów, abyśmy mogli określić, na czym polega problem:",
-      "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana automatycznie do nas. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
+      "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana do nas automatycznie. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
       "text1": "Niniejsza aplikacja (w wersji {version}) jest w rozbudowie.",
       "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego kąta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
       "welcome": "Witaj w {0}!"
@@ -354,7 +354,7 @@
       "button_edit": "Edytuj konto",
       "button_setup": "Uruchom Konfigurację",
       "button_verify": "Zweryfikuj Konto",
-      "css_apply": "Zastosować Niestandardowe Reguły CSS?",
+      "css_apply": "Zastosować niestandardowe reguły CSS?",
       "css_confirm": "Wiem co robię, pozwól mi zmienić wygląd aplikacji",
       "css_confirm2": "Potwierdź, że chcesz zachować zmiany CSS. W przeciwnym razie zostaną one automatycznie wyłączone.",
       "css_text": "Możesz zmienić wygląd aplikacji poprzez podanie adresu URL do pliku CSS lub wpisanie reguł CSS poniżej. Złośliwy kod CSS może powodować usterki. The Pandemonium Institute nie ponosi odpowiedzialności za kod dostarczony przez innych użytkowników. Załadowanie szkodliwego kodu może zepsuć aplikację!",
@@ -694,8 +694,8 @@
     "reveal": {
       "button_remaining": "Pozostali gracze",
       "button_result": "Wynik gry",
-      "evil": "Zły",
-      "good": "Dobry",
+      "evil": "Zło",
+      "good": "Dobro",
       "prompt": "Ostrzeżenie: Ta gra zakończy się i Grymuar zostanie ujawniony dla wszystkich graczy!\nKto wygrał grę?",
       "result": "{0} wygrało!",
       "text": "Ujawnij wynik gry i postacie każdego gracza klikając na ich żeton. Najedź myszką na żeton aby zajrzeć jaka to postać.",
@@ -928,7 +928,7 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Możesz przeciągnąć tą zakładkę w każde miejsce na ekranie.",
+      "drag": "Możesz przeciągnąć tę zakładkę w dowolne miejsce na ekranie.",
       "title": "Blefy"
     },
     "character": {
