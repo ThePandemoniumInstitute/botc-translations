@@ -38,7 +38,7 @@
         "label": "Dostęp do Grymuaru",
         "title": "Czy widzowie mogą otrzymać dostęp do Grymuaru",
         "value_0": "Zapytaj",
-        "value_1": "Nie",
+        "value_1": "Tak",
         "value_2": "Nie"
       },
       "streaming": {
