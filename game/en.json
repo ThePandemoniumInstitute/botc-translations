@@ -909,7 +909,7 @@
     "ogre": {
       "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
       "first": "The Ogre points to a player. :reminder:",
-      "flavor": "\\<grunt\\>\\<grin\\>\\</grunt\\>",
+      "flavor": "<grunt><grin></grunt>",
       "name": "Ogre"
     },
     "ojo": {
