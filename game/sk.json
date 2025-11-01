@@ -1,7 +1,7 @@
 {
   "roles": {
     "king": {
-      "ability": "Každú noc, ak je počet mŕtvych väčší alebo rovný počtu živých, dozvieš sa jednu živú postavu. Démon vie, že si Kráľ."
+      "ability": "Každú noc, ak je počet mŕtvych väčší alebo rovný počtu živých, dozvieš sa 1 živú postavu. Démon vie, že si Kráľ."
     },
     "legion": {
       "ability": "Každú noc* možno zomrie hráč. Popravy zlyhajú ak hlasovalo iba zlo. Si považovaný aj za Poskoka. [Väčšina hráčov je Sekta]"
@@ -13,7 +13,7 @@
       "flavor": "Krok 1: Byť rozkošnučký. Krok 2: Ovládnuť svet. Krok 3: Jaňajočky."
     },
     "lordoftyphon": {
-      "ability": "Každú noc* si vyber hráča, ktorý zomrie. [Zlé postavy sú v rade. Ty si v strede. +1 Poskok. -? až +? Čudákov]"
+      "ability": "Každú noc* si vyberieš hráča, ktorý zomrie. [Zlé postavy sú v rade. Ty si v strede. +1 Poskok. -? až +? Čudákov]"
     },
     "lunatic": {
       "ability": "Myslíš si, že si Démon, ale nie si. Démon vie kto si a koho si v noci vyberáš."
@@ -29,7 +29,7 @@
       "ability": "Myslíš si, že si dobrá postava, ale nie si. Démon vie kto si. [Susedíš s Démonom]"
     },
     "noble": {
-      "ability": "Na začiatku sa dozvieš 3 hráčov. Práve 1 z nich je zlý."
+      "ability": "Na začiatku sa dozvieš 3 hráčov, práve 1 z nich je zlý."
     },
     "pacifist": {
       "ability": "Popravení dobrí hráči možno nezomrú."
