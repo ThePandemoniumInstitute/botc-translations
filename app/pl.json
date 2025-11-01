@@ -54,14 +54,14 @@
       "travellers": {
         "label": "Podróżnicy",
         "title": "Czy podróżnicy są dozwoleni w tej grze",
-        "value_0": "Opcjonalnie",
+        "value_0": "Być może",
         "value_1": "Tak",
         "value_2": "Nie"
       }
     },
     "terms_of_use": "Warunki korzystania",
     "title": "Blood on the Clocktower Online",
-    "trademark": "\"Blood on the Clocktower\" to znak handlowy Stevena Medwaya i The Pandemonium Institute.",
+    "trademark": "\"Blood on the Clocktower\" to znak handlowy Stevena Medwaya i Pandemonium Institute.",
     "unnamed_user": "Nienazwany użytkownik"
   },
   "grimoire": {
@@ -302,9 +302,9 @@
       "link_1": "za pomocą poczty elektronicznej",
       "link_2": "tutaj",
       "link_3": "nasz sklep online",
-      "session_debug": "Napotykasz jakieś błędy? Możesz wysłać informacje o swojej sesji i ostatnią historię do naszego rejestru błędów, abyśmy mogli zidentyfikować na czym polega problem:",
+      "session_debug": "Napotykasz na błędy? Możesz wysłać informacje o swojej sesji i historię działań do naszego rejestru błędów, abyśmy mogli określić, na czym polega problem:",
       "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana automatycznie do nas. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
-      "text1": "Wersja ten aplikacji (wersja {version}) jest w tej chwili w rozbudowie.",
+      "text1": "Niniejsza aplikacja (w wersji {version}) jest w rozbudowie.",
       "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego kąta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
       "welcome": "Witaj w {0}!"
     },
@@ -397,15 +397,15 @@
       "setting_cosmetics": "Pokaż dodatki kosmetyczne graczy",
       "setting_css": "Niestandardowe Reguły CSS",
       "setting_css_label": "Wprowadź Niestandardowe Reguły CSS",
-      "setting_echo_cancellation": "Tłumienie Echa",
+      "setting_echo_cancellation": "Redukcja echa",
       "setting_english": "Pokaż dodatkowe angielskie nazwy postaci",
-      "setting_gain": "Wzmocnienie Dźwięku",
+      "setting_gain": "Wzmocnienie dźwięku",
       "setting_general_volume": "Głośność - ogólnie",
       "setting_homebrew": "Pokaż niestandardowe / przemycone Ikony",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Wycisz Audio",
       "setting_mute_video": "Ukryj Video",
-      "setting_noise_suppression": "Tłumienie Hałasu",
+      "setting_noise_suppression": "Redukcja hałasu",
       "setting_player_bluffs": "Gracz: Pokazuj zakładkę blefów",
       "setting_player_night": "Gracz: Pokazuj zakładkę kolejności nocnej",
       "setting_player_reminders": "Gracz: Pozwól na duplikaty przypominajek",
