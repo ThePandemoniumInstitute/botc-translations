@@ -66,7 +66,7 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Rozdaje role",
+      "distribute-roles": "Rozdaj postacie",
       "ghost-votes": "Przywróć głosy duchów",
       "grimoire": "Pokaż Grymuar",
       "open-eyes": "Otwórz/Zamknij oczy",
@@ -75,7 +75,7 @@
     "demon": "Demon|Demony",
     "fabled": "Legenda|Legendy",
     "loric": "Mityczny|Mityczni",
-    "minion": "Sługus|Sługusy",
+    "minion": "Sługus|Sługusi",
     "outsider": "Outsider|Outsiderzy",
     "phases": {
       "day": "Pierwszy dzień|Dzień {n}",
@@ -298,7 +298,7 @@
     "help": {
       "button_send": "Wyślij Dane Debuggowe Sesji",
       "button_stop": "Zatrzymaj Wysyłanie Danych Debuggowych",
-      "link_0": "rejestr błędów",
+      "link_0": "rejestratora błędów",
       "link_1": "za pomocą poczty elektronicznej",
       "link_2": "tutaj",
       "link_3": "nasz sklep online",
@@ -351,7 +351,7 @@
       "background_text": "Podaj adres URL niestandardowego tła, albo został puste aby usunąć niestandardowe tło.",
       "background_title": "Niestandardowe Tło",
       "button_always": "Zawsze",
-      "button_edit": "Edytuj Konto",
+      "button_edit": "Edytuj konto",
       "button_setup": "Uruchom Konfigurację",
       "button_verify": "Zweryfikuj Konto",
       "css_apply": "Zastosować Niestandardowe Reguły CSS?",
@@ -378,14 +378,14 @@
       "option_disabled": "Wyłączony",
       "patreon_link": "Połącz z kontem na Patreon",
       "patreon_perks": "Ustawianie własnych avatarów i specjalne plakietki imienne są dostępne z płatną {0}!",
-      "patreon_perks2": "Subskrypcja Patreona",
+      "patreon_perks2": "subskrypcją Patreona",
       "patreon_update": "Zaktualizuj status Patreaona",
       "setting_alignment": "Pokaż strony (dobry/zły) na rynku",
       "setting_animations": "Pokaż animacje",
       "setting_audio_deafen": "Słuchaj czatu głosowego",
       "setting_audio_unnamed": "Nienazwane wejście audio",
       "setting_auto_gain": "Automatyczna kontrola wzmocnienia dźwięku",
-      "setting_avatar_size": "Rozmiar Avatara Gracza",
+      "setting_avatar_size": "Rozmiar avatara gracza",
       "setting_avatars": "Pokaż avatary / kamery na rynku",
       "setting_background": "Obraz tła",
       "setting_camera": "Kamera",
@@ -413,7 +413,7 @@
       "setting_positioning": "Pozwalaj na przemieszczanie bocznych kart",
       "setting_private_cams": "Pokazuj kamery w prywatnych rozmowach",
       "setting_ptt": "Push To Talk",
-      "setting_reminder_zoom": "Wielkość Przypominajek",
+      "setting_reminder_zoom": "Wielkość przypominajek",
       "setting_reminders": "Grupuj przypominajki",
       "setting_reminders_always": "Zawsze",
       "setting_reminders_auto": "Automatycznie",
@@ -423,13 +423,13 @@
       "setting_st_nomination": "Bajarz: Typ Nominacji",
       "setting_st_vote": "Bajarz: Czas na Głosowanie",
       "setting_st_whisper": "Bajarz: Zezwól na szepty (tekstowe)",
-      "setting_tutorial": "Pokazuj Kroki Samouczka Aplikacji",
-      "setting_video_deafen": "Pokazuj Obrazy z Kamer",
-      "setting_video_hidden": "Ukryj Własną Kamerę",
+      "setting_tutorial": "Pokazuj kroki samouczka aplikacji",
+      "setting_video_deafen": "Pokazuj obrazy z kamer",
+      "setting_video_hidden": "Ukryj własną kamerę",
       "setting_video_mirrored": "Odwróć Swoją Własną Kamerę",
       "setting_video_unnamed": "Nienazwane źródło obrazu",
-      "setting_volume": "Głośność Efektów Dźwiękowych",
-      "setting_zoom": "Wielkość Żetonów Graczy",
+      "setting_volume": "Głośność efektów dźwiękowych",
+      "setting_zoom": "Wielkość żetonów graczy",
       "setup": "Problemy z Mikrofonem albo Kamerą?",
       "shortcut_add": "Przycisk Dodaj",
       "shortcut_escape": "Naciśnij Escape aby zresetować skrót",
@@ -489,7 +489,7 @@
       "tab_user": "Profil",
       "title": "Ustawienia Apki",
       "title_avatar": "Wybierz Avatara",
-      "title_sound": "Głośność Efektów Dźwiękowych"
+      "title_sound": "Głośność efektów dźwiękowych"
     },
     "setup": {
       "audio_devices": "Urządzenia Audio",
@@ -906,7 +906,7 @@
     "server_stats": "{0} użytkowników, {1} obciążenia serwera",
     "session_name": "Nazwa Gry",
     "subscription_needed": "Potrzebna subskrypcja",
-    "tags": "Ustawienia Gry Publicznej",
+    "tags": "Ustawienia gry Publicznej",
     "title_create": "Stwórz grę",
     "title_current": "Obecna gra",
     "visibility": "Widoczność",
@@ -986,7 +986,7 @@
     "npcs": {
       "remove_fabled": "Usuń Legendę",
       "remove_loric": "Usuń Mit",
-      "title": "NPC-ty"
+      "title": "NPC"
     },
     "text": {
       "channels": {
@@ -1032,11 +1032,11 @@
     "camera_enabled": "Kamery widoczne",
     "error_avatar_text": "Wybrany awatar ma rozmiar {0} MB, ale maksymalny rozmiar to {1} MB.",
     "error_avatar_title": "Za duży plik",
-    "gain": "Wzmocnienie Mikrofonu",
+    "gain": "Wzmocnienie mikrofonu",
     "group_subscription": "Subskrypcja grupowa",
     "id": "ID Użytkownika",
-    "level": "Poziom Subskrypcji",
-    "mic_volume": "Głośność Mikrofonu",
+    "level": "Poziom subskrypcji",
+    "mic_volume": "Głośność mikrofonu",
     "new_user": "Nowy Użytkownik",
     "pronouns": "zaimki",
     "registration": "Rejestracja",
@@ -1054,7 +1054,7 @@
       "warning": "Generuję statystyki...\n Wróć do nas później!"
     },
     "stats_hidden": "Ukryte",
-    "stats_private": "Prywatna",
+    "stats_private": "Prywatne",
     "stats_public": "Publiczne",
     "upload_avatar": "Załaduj Awatar",
     "verified": "Zweryfikowany Użytkownik"
