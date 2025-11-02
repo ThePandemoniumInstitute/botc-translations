@@ -267,6 +267,9 @@
         "toggleEdition": "Baskı Seç",
         "toggleFullscreen": "Tam Ekran"
       }
+    },
+    "setup": {
+      "button_start": "Başlat"
     }
   }
 }
