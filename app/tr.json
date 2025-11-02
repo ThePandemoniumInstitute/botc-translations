@@ -270,6 +270,12 @@
     },
     "setup": {
       "button_start": "Başlat"
+    },
+    "signal": {
+      "cards": {
+        "evil": "Kötü",
+        "good": "İyi"
+      }
     }
   }
 }
