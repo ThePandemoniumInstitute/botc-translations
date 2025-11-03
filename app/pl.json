@@ -49,7 +49,7 @@
       },
       "subscription": {
         "label": "Subskrypcja jest wymagana",
-        "title": "Aby dołączyć do tej gry, wymagana jest wykupiona subskrypcja"
+        "title": "Aby dołączyć do tej gry, wymagana jest subskrypcja"
       },
       "travellers": {
         "label": "Podróżnicy",
@@ -719,7 +719,7 @@
     },
     "vote": {
       "accusation": "Oskarżenie",
-      "button_chat": "Otworzyć Czat",
+      "button_chat": "Otwórz czat",
       "button_countdown": "Odliczanie",
       "button_defense": "Przejdź do Obrony",
       "button_hand_down": "OPUŚĆ",
@@ -972,13 +972,13 @@
       "chats": "Czaty",
       "following": "Podążasz za tym graczem.",
       "incoming": "Nadchodzące",
-      "leave_private": "Opuść Czat Prywatny",
+      "leave_private": "Opuść prywatny czat",
       "leave_room": "Opuść pokój",
       "night": "Zapadła noc...",
       "nomination": "Gracz został nominowany!",
       "outgoing": "Wychodzące",
       "request_private": "Poproś o rozmowę prywatną",
-      "requests": "Prośby o Czat",
+      "requests": "Prośby o rozmowę",
       "reset_position": "Zresetuj pozycję",
       "spectator": "Widz",
       "title": "Głos"
