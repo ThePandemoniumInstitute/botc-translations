@@ -714,7 +714,7 @@
       "script_by": "autorstwa {0}",
       "text_player": "Bajarz musi dodać więcej graczy zanim można będzie zacząć.",
       "text_st": "Aby zacząć najpierw trzeba {0}",
-      "timer_ended": "zakończony",
+      "timer_ended": "koniec czasu",
       "title": "Witamy w {0}."
     },
     "vote": {
