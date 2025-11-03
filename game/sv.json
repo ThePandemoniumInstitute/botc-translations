@@ -298,7 +298,7 @@
       "name": "Ateisten"
     },
     "balloonist": {
-      "ability": "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]",
+      "ability": "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]",
       "first": "Visa en spelare. :reminder:",
       "flavor": "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert uppifrån, eller vad säger du? Ser du barnen som fiskar vid floden, under pilen? Ser du solens glans i cirkusens tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!",
       "name": "Ballongfararen",
@@ -743,7 +743,7 @@
       "other": "Ge en fingersignal."
     },
     "kazali": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är vilka Kumpaner. ±? Utbölingar]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är vilka Kumpaner. ±? Utbölingar]",
       "first": "Kazali väljer sina Kumpaner.",
       "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig.",
       "name": "Kazali",
