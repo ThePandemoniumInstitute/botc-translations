@@ -135,10 +135,10 @@
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]"
     },
     "highpriestess": {
-      "ability": "Każdej nocy dowiadujesz się, z którym z graczy, według Bajarza, powinnaś porozmawiać najbardziej.",
+      "ability": "Każdej nocy dowiadujesz się, z którym z graczy, według Bajarza, najbardziej warto porozmawiać.",
       "first": "Wskaż gracza.",
-      "flavor": "Jest życie za osobowością, która używa osobowości jako maski. Są czasy gdy życie zdejmuje maskę i głębia odpowiada głębi.",
-      "name": "Najwyższa Kapłanka",
+      "flavor": "Jest życie za osobowością, która używa osobowości jako maski. Są momenty, gdy życie zdejmuje maskę i głębia odpowiada głębi.",
+      "name": "Arcykapłanka",
       "other": "Wskaż gracza."
     },
     "kazali": {
