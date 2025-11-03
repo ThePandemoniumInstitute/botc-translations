@@ -324,7 +324,7 @@
       "other": "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk/nykter/sann info eller aktivera förmågan två gånger)."
     },
     "baron": {
-      "ability": "Det är extra Utbölingar i spel. [+2 Utbölingar]",
+      "ability": "Det är extra Utbölingar i spel. [+2 Utbölingar]",
       "flavor": "Byn har gått helt åt pipsvängen, eller hur? Billig utländsk arbetskraft – det är lösningen. Ner med dem i gruvan, bara. Lite hårt arbete har ingen dött av, och en hurring ska den skurk ha som säger annat. Profiten framför allt, eller hur?",
       "name": "Baronen"
     },
@@ -541,7 +541,7 @@
       "other": "Exorcisten väljer en spelare. :reminder: Söv Exorcisten. Om Exorcisten valde Demonen, väck Demonen, visa kortet *DU PÅVERKAS AV* och Exorcistens rollbricka. Peka på Exorcisten."
     },
     "fanggu": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Första Utbölingen som dör så blir en ond Fang Gu och du dör istället. [+1 Utböling]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. Första Utbölingen som dör så blir en ond Fang Gu och du dör istället. [+1 Utböling]",
       "flavor": "Era murar och era vapen är blott drömmars rök.",
       "name": "Fang Gu",
       "other": "Fang Gu väljer en spelare. :reminder: Om hen valde en Utböling (endast en gång), byt ut Utbölingens bricka mot den andra Fang Gu-brickan. Söv Fang Gu. Väck den valda spelaren. Visa kortet *DU ÄR* och Fang Gu-brickan samt tummen ner. :reminder:"
@@ -631,7 +631,7 @@
       "name": "Vätten"
     },
     "godfather": {
-      "ability": "I början vet du vilka Utbölingar som är i spel. Om en dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
+      "ability": "I början vet du vilka Utbölingar som är i spel. Om en dog idag väljer du en spelare inatt; hen dör. [−1 eller +1 Utböling]",
       "first": "Visa rollbrickor för att ange alla Utbölingar som är i spel.",
       "flavor": "I vanliga fall är det bara affärer. Men när du förolämpar min dotter så förolämpar du mig. Och när du förolämpar mig så förolämpar du min familj. Du borde vara försiktigare än så – vi vill ju inte att du ska råka illa ut.",
       "name": "Gudfadern",
@@ -695,7 +695,7 @@
       "name": "Kättaren"
     },
     "hermit": {
-      "ability": "Du har alla Utbölingars förmågor. [−0 eller −1 Utböling]",
+      "ability": "Du har alla Utbölingars förmågor. [−0 eller −1 Utböling]",
       "flavor": "På jordens förlorade och bortglömda platser kallar själens ljus.",
       "name": "Eremiten"
     },
@@ -787,7 +787,7 @@
       "name": "Bibliotekarien"
     },
     "lilmonsta": {
-      "ability": "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kanske en spelare dör. [+1 Kumpan]",
+      "ability": "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kanske en spelare dör. [+1 Kumpan]",
       "first": "Väck alla Kumpaner och låt dem välja en barnvakt. :reminder:",
       "flavor": "Steg 1: Va söt. Steg 2: Ta övej väden. Steg 3: Äta fjukost.",
       "name": "Lillmonstret",
@@ -801,7 +801,7 @@
       "other": "Lleech väljer en spelare. :reminder:"
     },
     "lordoftyphon": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]",
       "first": "Byt ut Demonens grannar mot Kumpaner, väck dem, visa deras nya lag och roll, och ge Kumpan-info.",
       "flavor": "I kosmos förgätna avkrokar, där stjärnorna viskar hemligheter till intet, vilar en sanning så djup att minsta skymt av den kan driva dödliga till vansinne.",
       "name": "Tyfons Herre",
@@ -1205,13 +1205,13 @@
       "other": "Om en spelare avrättades idag så visa den spelarens rollbricka."
     },
     "vigormortis": {
-      "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]",
+      "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]",
       "flavor": "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av vattnet jag ger kommer aldrig gå törstig, för vattnet ska i honom vara en källa som ger evigt liv.",
       "name": "Vigormortis",
       "other": "Vigormortis väljer en spelare. :reminder: Om den spelaren är en Kumpan, förgifta en Bybogranne. :reminder: :reminder:"
     },
     "villageidiot": {
-      "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]",
+      "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]",
       "first": "Välj en Byfåne som är full. :reminder: Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
       "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så.",
       "name": "Byfånen",
