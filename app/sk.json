@@ -31,7 +31,7 @@
         "label": "Obtiažnosť",
         "title": "Predpokladaná úroveň skúsenosti hráčov v tejto hre",
         "value_0": "Priemerná",
-        "value_1": "Veternánska",
+        "value_1": "Veteránska",
         "value_2": "Začiatočnícka"
       },
       "grimoire": {
@@ -966,7 +966,7 @@
       "requests": "Žiadosti o Hovor",
       "reset_position": "Obnoviť Pozíciu",
       "spectator": "Divák",
-      "title": "Hlas"
+      "title": "Hovory"
     },
     "text": {
       "channels": {
