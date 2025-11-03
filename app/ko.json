@@ -5,7 +5,7 @@
       "patreon-demon": "악마 등급",
       "patreon-minion": "하수인 등급",
       "patreon-townsfolk": "주민 등급",
-      "special-free": "제공 등급",
+      "special-free": "외지인 등급",
       "special-moderator": "운영자",
       "special-tpi": "TPI 스태프"
     },
@@ -30,14 +30,14 @@
       "difficulty": {
         "label": "난이도",
         "title": "이 방의 참가자에게 필요한 게임 숙련도",
-        "value_0": "보통",
-        "value_1": "고수",
-        "value_2": "초보"
+        "value_0": "중",
+        "value_1": "상",
+        "value_2": "하"
       },
       "grimoire": {
         "label": "마도서 열람",
         "title": "관전자의 마도서 열람 여부",
-        "value_0": "요청 시 허용",
+        "value_0": "요청 시",
         "value_1": "가능",
         "value_2": "불가"
       },
@@ -67,7 +67,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "캐릭터 배정",
-      "ghost-votes": "사망자 투표권 되돌리기",
+      "ghost-votes": "투표 토큰 주기",
       "grimoire": "마도서 보여주기",
       "open-eyes": "눈 뜨기/감기",
       "pointing": "플레이어 선택"
@@ -83,7 +83,7 @@
       "first_night": "첫날 밤",
       "night": "첫번째 밤|{n}번째 밤",
       "other_nights": "다른 밤",
-      "start": "첫날 밤 준비하기"
+      "start": "게임 세팅 중"
     },
     "player": "플레이어 {0}",
     "players": "플레이어",
@@ -92,7 +92,7 @@
     "storyteller": "이야기꾼 {0}",
     "storytellers": "이야기꾼",
     "token": "토큰",
-    "townsfolk": "주민|주민",
+    "townsfolk": "마을 주민|마을 주민",
     "traveller": "여행자|여행자"
   },
   "main-menu": {
@@ -119,7 +119,7 @@
     "mute_cam": "카메라 끄기 [{0}]",
     "mute_mic": "마이크 끄기 [{0}]",
     "night_info": "밤 정보",
-    "night_info_text": "이야기꾼이 오늘 밤 당신을 깨웠습니다!",
+    "night_info_text": "이야기꾼이 당신을 깨웠습니다!",
     "night_sheet": "밤 순서 시트",
     "npcs": "NPC 캐릭터 추가",
     "prompt_clear_player": "모든 플레이어의 캐릭터 및 알림 토큰을 제거하시겠습니까?",
@@ -139,13 +139,13 @@
     "settings": "설정",
     "show_grim": "마도서 보기",
     "show_town": "마을 광장 보기",
-    "show_users": "유저 [{0}] 보기",
+    "show_users": "유저 보기 [{0}]",
     "storyteller_add": "이야기꾼 하기",
     "storyteller_remove": "이야기꾼 그만두기",
     "tab_app": "앱",
     "tab_during_game": "게임 중",
     "tab_new_game": "새 게임",
-    "tab_playing": "플레이",
+    "tab_playing": "플레이어",
     "to_day": "낮 단계로",
     "to_night": "밤 단계로",
     "translation": "번역 제안하기",
@@ -254,7 +254,7 @@
         "storyteller_title": "이야기꾼 변경 요청",
         "terms": "이용약관 업데이트",
         "username_placeholder": "유저명",
-        "username_text": "유저 이름을 입력해주세요:",
+        "username_text": "유저명을 입력해주세요:",
         "username_title": "유저명 입력"
       },
       "terms": "시계탑에 흐른 피 온라인을 이용함에 있어, 귀하는 아래의 약관 및 정책을 읽었으며 이에 동의함을 인정합니다.",
@@ -289,7 +289,7 @@
       "error_size_text": "선택한 스크립트의 용량은 {0} MB이지만 최대 용량은 {1} MB입니다.",
       "homebrew_description": "보안상의 이유로 홈브루 스크립트의 커스텀 이미지는 일반 아이콘으로 대체되었습니다. 설정 메뉴에서 다시 활성화할 수 있습니다.",
       "homebrew_title": "커스텀 이미지 사용 불가",
-      "release_script": "{role} 캐릭터 공개 스크립트:",
+      "release_script": "{role}의 캐릭터 공개 스크립트:",
       "theme": "테마:",
       "theme_generic": "일반 테마:",
       "title": "에디션 선택:",
@@ -330,14 +330,14 @@
       "title_alignment_g": "선한",
       "title_alignment_r": "일반",
       "title_target": "{0}의",
-      "title_type_bluff": "속임수",
+      "title_type_bluff": "속임수 캐릭터",
       "title_type_character": "캐릭터"
     },
     "roles": {
       "button_distribute": "캐릭터 {0}개 나눠주기",
       "button_gardener": "캐릭터 {0}개 지정하기",
-      "button_shuffle": "섞기",
-      "button_sort": "정렬하기",
+      "button_shuffle": "셔플",
+      "button_sort": "정렬",
       "clear": "캐릭터 선택 해제",
       "title": "{0}의 캐릭터 선택",
       "title_players": "플레이어",
@@ -385,7 +385,7 @@
       "setting_audio_deafen": "음성 채팅 듣기",
       "setting_audio_unnamed": "알 수 없는 오디오 입력",
       "setting_auto_gain": "자동 이득 조정(AGC)",
-      "setting_avatar_size": "플레이어 아바타 크기",
+      "setting_avatar_size": "아바타 크기",
       "setting_avatars": "마을 광장에 아바타/카메라 보이기",
       "setting_background": "배경 이미지",
       "setting_camera": "카메라",
@@ -471,8 +471,8 @@
       },
       "sounds": {
         "attentionGong": "주목 알림",
-        "chatJoin": "전체 채팅 입장",
-        "chatLeave": "전체 채팅 나감",
+        "chatJoin": "전체 채팅 열기",
+        "chatLeave": "전체 채팅 닫기",
         "countdown": "카운트다운",
         "privateJoin": "밀담 입장",
         "privateRequest": "밀담 요청",
@@ -524,11 +524,11 @@
         "ability": "능력을 사용합니까?",
         "acknowledge": "확인했습니다",
         "anticlockwise": "반시계",
-        "bluffs": "이 캐릭터들은 참가하고 있지 않습니다",
+        "bluffs": "이 캐릭터들은 참가하지 않습니다",
         "choice": "선택하세요",
         "claim": "이 플레이어는",
         "clockwise": "시계",
-        "demon": "이 플레이어는 악마입니다",
+        "demon": "악마는",
         "evil": "악한",
         "five": "다섯",
         "four": "넷",
@@ -564,8 +564,8 @@
       "title_player": "플레이어 선택",
       "title_spec": "이야기꾼이 {0}을(를) 깨웠습니다:",
       "title_st": "이야기꾼이 당신을 깨웠습니다:",
-      "warning_dead": "이 플레이어는 죽었습니다.",
-      "warning_droison": "이 플레이어는 만취/중독 상태입니다.",
+      "warning_dead": "해당 플레이어는 죽었습니다.",
+      "warning_droison": "해당 플레이어는 만취/중독 상태입니다.",
       "warning_vortox": "주민의 능력은 거짓 정보를 받습니다."
     },
     "update": {
@@ -585,7 +585,7 @@
       "grimoire_access_grant": "마도서 열람 승인",
       "grimoire_access_revoke": "마도서 열람 중지",
       "loading": "유저 불러오는 중...",
-      "prompt_kick": "정말 {0}을(를) 게임에서 제거 하시겠습니까?",
+      "prompt_kick": "정말 {0}을(를) 게임에서 내보내시겠습니까?",
       "prompt_st": "정말 {0}을(를) 이야기꾼으로 만드시겠습니까?\n요청이 수락되면, 해당 플레이어는 이야기꾼의 모든 권한을 얻고 마도서를 열람할 수 있습니다.",
       "title": "유저 프로필"
     },
