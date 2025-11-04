@@ -936,7 +936,7 @@
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
       "jinxes": "Krockar",
-      "other_nights": "Inte första\n natten",
+      "other_nights": "Inte 1:a\n natten",
       "popout": "Öppna rollark i nytt fönster"
     },
     "characters": {
@@ -1045,7 +1045,7 @@
       "edition": "Mest spelade\nutgåvorna",
       "homebrew": "En hembryggd roll",
       "loading": "Laddar statistik…",
-      "none": "Ingen",
+      "none": "Inga",
       "player": "Spelade\npartier",
       "player_wins": "% vunna",
       "role": "Vanligaste\nstartrollerna",
