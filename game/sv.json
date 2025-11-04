@@ -300,7 +300,7 @@
     "balloonist": {
       "ability": "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]",
       "first": "Visa en spelare. :reminder:",
-      "flavor": "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert uppifrån, eller vad säger du? Ser du barnen som fiskar vid floden, under pilen? Ser du solens glans i cirkusens tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!",
+      "flavor": "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert uppifrån, eller vad säger du? Ser du barnen som fiskar vid älven, under pilen? Ser du solens glans i cirkusens tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!",
       "name": "Ballongfararen",
       "other": "Visa en spelare med en annan rolltyp än den senaste. :reminder:"
     },
