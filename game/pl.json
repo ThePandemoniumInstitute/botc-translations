@@ -102,7 +102,7 @@
     "balloonist": {
       "ability": "Każdej nocy* poznajesz gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]",
       "first": "Pokaż dowolnego gracza. :reminder:",
-      "flavor": "Więcej ciepła! Wyżej! Wyżej! Più alto! Ahhh... wszystko jest takie piękne z tej wysokości, prawda? Widzisz dzieci bawiące się przy rzece, koło tej wierzby? Widzisz jak promienie słońca odbijają się od wsporników cyrkowego namiotu? A co to? Starzec, sam, leży w winnicy, zemdlał? Mniej ciepła! Niżej! Niżej! Vai più in basso!",
+      "flavor": "Więcej ciepła! Wyżej! Wyżej! Più alto! Achhh... wszystko jest takie piękne z tej wysokości, prawda? Widzisz dzieci łowiące ryby w rzece, pod wierzbą? Widzisz jak promienie słońca odbijają się od wsporników cyrkowego namiotu? A to co? Starzec, sam, leży w winnicy, zemdlał? Mniej ciepła! Niżej! Niżej! Vai più in basso!",
       "name": "Baloniarz",
       "other": "Pokaż gracza o innym typie postaci niż poprzednio. :reminder:"
     },
@@ -200,10 +200,10 @@
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony."
     },
     "organgrinder": {
-      "ability": "Wszyscy gracze mają zamknięte oczy podczas głosowania, a jego wynik jest tajny. Każdej nocy wybierz czy jesteś pijany do zmierzchu.",
-      "first": "Kataryniarz potakuje na tak, albo zaprzecza ruchem głowy na nie czy jest pijany. :reminder:",
+      "ability": "Wszyscy gracze na czas głosowania zamykają oczy, a jego wynik jest tajny. Każdej nocy wybierz, czy jesteś pijany do zmierzchu.",
+      "first": "Kataryniarz kiwa głową, jeśli chce być pijany, albo potrząsa głową, jeśli chce być trzeźwy. :reminder:",
       "name": "Kataryniarz",
-      "other": "Kataryniarz potakuje na tak, albo zaprzecza ruchem głowy na nie czy jest pijany. :reminder:"
+      "other": "Kataryniarz kiwa głową, jeśli chce być pijany, albo potrząsa głową, jeśli chce być trzeźwy. :reminder:"
     },
     "pithag": {
       "name": "Jędza",
