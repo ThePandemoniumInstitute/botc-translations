@@ -4,10 +4,10 @@
       "free": "Gratis",
       "patreon-demon": "Dæmon niveau",
       "patreon-minion": "Håndlanger niveau",
-      "patreon-townsfolk": "Borger niveau",
+      "patreon-townsfolk": "Landsbyboer niveau",
       "special-free": "Gratis",
       "special-moderator": "Moderator",
-      "special-tpi": "TPI Personale"
+      "special-tpi": "TPI Medarbejder"
     },
     "botc_online": "BOTC Online",
     "button_cancel": "Annullere",
@@ -25,7 +25,7 @@
         "title": "Om der bruges kameraer i denne spilsession",
         "value_0": "Valgfrit",
         "value_1": "Påkrævet",
-        "value_2": "Fra"
+        "value_2": "Slukket"
       },
       "difficulty": {
         "label": "Sværhedsgrad",
@@ -38,8 +38,8 @@
         "label": "Grimoire-adgang",
         "title": "Om tilskuere får adgang til Grimoiren",
         "value_0": "Spørg",
-        "value_1": "Nej",
-        "value_2": "Ja"
+        "value_1": "Ja",
+        "value_2": "Nej"
       },
       "streaming": {
         "label": "Spil Streames",
@@ -53,7 +53,7 @@
       },
       "travellers": {
         "label": "Rejsende",
-        "title": "Om Rejsende er tilladt i denne spilsession",
+        "title": "Om rejsende er tilladt i denne spilsession",
         "value_0": "Valgfrit",
         "value_1": "Ja",
         "value_2": "Nej"
@@ -66,7 +66,7 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Fordel Roller",
+      "distribute-roles": "Uddel Roller",
       "ghost-votes": "Returner Spøgelsesstemmer",
       "grimoire": "Vis Grimoire",
       "open-eyes": "Åbne/Lukke Øjne",
