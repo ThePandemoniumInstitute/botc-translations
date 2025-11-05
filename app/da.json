@@ -48,8 +48,8 @@
         "value_1": "Ja"
       },
       "subscription": {
-        "label": "Abonnement Påkrævet",
-        "title": "Det kræver et aktivt abonnement for at deltage i dette spil"
+        "label": "Abonnement påkrævet",
+        "title": "Der kræves et aktivt abonnement for at deltage i dette spil"
       },
       "travellers": {
         "label": "Rejsende",
@@ -59,7 +59,7 @@
         "value_2": "Nej"
       }
     },
-    "terms_of_use": "Brugsbetingelser",
+    "terms_of_use": "Service betingelser",
     "title": "Blood on the Clocktower Online",
     "trademark": "\"Blood on the Clocktower\" er et varemærke tilhørende Steven Medway og The Pandemonium Institute.",
     "unnamed_user": "Navnløs bruger"
@@ -67,7 +67,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Uddel Roller",
-      "ghost-votes": "Returner Spøgelsesstemmer",
+      "ghost-votes": "Returner spøgelsesstemmer",
       "grimoire": "Vis Grimoire",
       "open-eyes": "Åbne/Lukke Øjne",
       "pointing": "Vælg Spiller"
