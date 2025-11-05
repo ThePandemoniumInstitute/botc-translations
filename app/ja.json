@@ -2,7 +2,7 @@
   "common": {
     "account-levels": {
       "free": "無料",
-      "patreon-demon": "悪チーム",
+      "patreon-demon": "悪ティア",
       "patreon-minion": "ミニオンティア",
       "special-free": "優待ティア",
       "special-moderator": "モデレーター",
@@ -23,6 +23,10 @@
       "difficulty": {
         "label": "難易度",
         "title": "このゲームの参加者はどのぐらいの経験があるか"
+      },
+      "travellers": {
+        "value_1": "はい",
+        "value_2": "いいえ"
       }
     }
   },
@@ -30,7 +34,7 @@
     "token": "トークン"
   },
   "main-menu": {
-    "download": "アプリをダウンロードする"
+    "download": "{0}アプリをダウンロードする"
   },
   "pages": {
     "lobby": {
