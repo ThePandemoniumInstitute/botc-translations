@@ -150,7 +150,14 @@
     "storyteller_remove": "Luovu Tarinankertomisesta",
     "tab_app": "Sovellus",
     "tab_during_game": "Pelin Aikana",
-    "tab_new_game": "Uusi Peli"
+    "tab_new_game": "Uusi Peli",
+    "tab_playing": "Pelissä",
+    "to_day": "Mene Päivä Vaiheesen",
+    "to_night": "Mene Yö Vaiheeseen",
+    "translation": "Kehitä tätä käännöstä",
+    "user_list": "Käyttäjälista",
+    "vacate_seat": "Vapauta Istuin",
+    "vote_history": "Äänestyshistoria"
   },
   "modals": {
     "dialogue": {
@@ -236,10 +243,22 @@
     }
   },
   "player": {
+    "menu": {
+      "empty_title": "Tyhjä Istuin {0}"
+    },
+    "name": {
+      "remove_text": "Haluatko varmasti poistaa istuimen {0}?\nSiinä istuu nyt {1}.",
+      "remove_title": "Poista Istuin",
+      "seat_text": "(tämä näkyy vain sinulle)",
+      "seat_title": "Vaihda Istuimen Nimeä"
+    },
     "overlay": {
       "night_info_received": "Yötieto vastaanotettu",
       "night_info_sent": "Yötieto lähetetty"
     }
+  },
+  "session": {
+    "locked_text": "Vain istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä sessioon."
   },
   "tabs": {
     "chat": {
@@ -249,7 +268,12 @@
       "channels": {
         "spectator": "Sivustaseuraajat"
       },
-      "prompt_spectator": "Sivustaseuraajien keskustelu"
+      "prompt_spectator": "Sivustaseuraajien keskustelu",
+      "system": {
+        "seat_claim": "{0} on ottanut istuimen {1}.",
+        "seat_empty": "{0} on poistettu istuimelta {1}.",
+        "seat_vacate": "{0} on lähtenyt istuimelta {1}."
+      }
     }
   },
   "user": {
