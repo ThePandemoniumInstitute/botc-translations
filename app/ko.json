@@ -533,7 +533,7 @@
         "five": "다섯",
         "four": "넷",
         "good": "선",
-        "minions": "이 플레이어들은 하수인입니다",
+        "minions": "하수인은",
         "neutral": "중립",
         "no": "아니오",
         "one": "하나",
@@ -687,7 +687,7 @@
       "countdown_freeze": "정지",
       "nobody": "가리키지 않음",
       "prompt": "플레이어를 클릭하여 가리키세요!",
-      "title_locked": "선택된 플레이어:|선택된 플레이어들:",
+      "title_locked": "선택된 플레이어:|선택된 플레이어:",
       "title_open": "최근 선택:|최근 선택:",
       "you_pointed": "당신이 가리킨 플레이어는:"
     },
@@ -936,7 +936,7 @@
       "error_popout": "새 창 생성 오류",
       "error_save": "파일 저장 오류",
       "jinxes": "징크스",
-      "other_nights": "첫날 제외",
+      "other_nights": "첫날\n제외",
       "popout": "캐릭터 탭 팝업창으로 열기"
     },
     "characters": {
