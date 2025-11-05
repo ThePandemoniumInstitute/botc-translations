@@ -202,7 +202,7 @@
     "amnesiac": {
       "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
       "flavor": "Ik heb hier geen actieve herinnering aan.",
-      "name": "Amnesist"
+      "name": "Vergeetachtige"
     },
     "angel": {
       "name": "Engel"
@@ -214,7 +214,7 @@
     "artist": {
       "ability": "Een keer per spel, tijdens de dag, stel je de Verteller privé een ja/nee vraag.",
       "flavor": "Mon Dieu! C'est lumineux! Mijn werk, ze is... hoe zeg je dit... Magnifique! Dieu est révélé! Oui.",
-      "name": "Artiest"
+      "name": "Kunstenaar"
     },
     "assassin": {
       "ability": "Een keer per spel, in de nacht*, kies een speler: deze sterft zelfs als ze dat niet kunnen.",
