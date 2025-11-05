@@ -1,4 +1,12 @@
 {
+  "editions": {
+    "bmr": {
+      "name": "バッド・ムーン・ライジング"
+    },
+    "custom": {
+      "name": "カスタムスクリプト"
+    }
+  },
   "reminders": {
     "townsfolk": "村人"
   },
