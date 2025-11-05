@@ -67,11 +67,11 @@
     "exorcist-yaggababble": "Als de Exorcist de Kletsmajoor kiest, kan de Kletsmajoor vannacht niet doden.",
     "fanggu-scarletwoman": "Als er twee Demonen zijn, waarvan er 1 de Rode Vrouw was, dan blijft de Rode Vrouw de Rode Vrouw.",
     "leviathan-sage": "Elke nacht* kiest de Leviathan een levende goede speler (anders dan de vorige nacht): een gekozen Wijze gebruikt hun vaardigheid en sterft niet.",
-    "leviathan-soldier": "Als de Leviathan de Soldaat nomineert en executeert, wint goed.",
-    "lilmonsta-marionette": "Als er een Marionet in het spel zit dan komen zij in het spel na de Demoon en moeten als hun buur starten.",
-    "lilmonsta-poppygrower": "Als mini-Monster en de Papaverkweker leven, worden de Minions 1-voor-1 wakker tot 1 van hun zichzelf kiest voor het mini-Monster token.",
+    "leviathan-soldier": "Als de Leviathan de Soldaat nomineert en executeert, wint goede team.",
+    "lilmonsta-marionette": "Als er een Marionet in het spel zit, dan komen zij in het spel na de Demoon en moeten als hun buur starten.",
+    "lilmonsta-poppygrower": "Als mini-Monster en de Papaverkweker leven, worden de Minions 1-voor-1 wakker, tot 1 van hen zichzelf kiest voor het mini-Monster token.",
     "lilmonsta-psychopath": "Als de Psychopaat op mini-Monster past, sterven ze bij executie.",
-    "lilmonsta-scarletwoman": "Als mini-Monster sterft met 5 of meer levende spelers, dan heeft de Rode vrouw mini-Monster voor de rest van het spel."
+    "lilmonsta-scarletwoman": "Als mini-Monster sterft met 5 of meer levende spelers, dan heeft de Rode Vrouw mini-Monster voor de rest van het spel."
   },
   "roles": {
     "amnesiac": {
