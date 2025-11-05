@@ -1105,6 +1105,13 @@
     "reload": "Päivitä näkymä tai tyhjennä välimuisti aktivoidaksesi tuoreimman version.",
     "since": "{0} lähtien",
     "translation_disclaimer": "Käytät tällä hetkellä paikallista versiota sovelluksesta. Tämän käännöksen ovat laatineet ja tarkistaneet seuraavat vapaaehtoiset, The Pandemonium Instituteen liittymättömät henkilöt:",
-    "travellers_alive": "{0} / {1} kulkuria elossa"
+    "translation_game": "Tämä pelisisällön käännös ei välttämättä vastaa täsmälleen The Pandemonium Instituutin laatimia virallisia englanninkielisiä pelisääntöjä.",
+    "travellers_alive": "{0} / {1} kulkuria elossa",
+    "update": "Päivitä!",
+    "updating": "Päivitetään sovellusta versioon {0}...",
+    "warning_browser": "Käytät vanhaa ei tuettua selainta",
+    "warning_browser2": "{0}, mikä saattaa aiheuttaa ongelmia sovelluksen käytössä. Lataa uusimmat selaimen päivitykset tai vaihda toiseen selaimeen. Sovellus toimii parhaiten Firefox ja Chome selaimella.",
+    "warning_update": "Sovellusversiosi on vanhentunut",
+    "warning_update2": "{0}, viimeisin versio on {1}!"
   }
 }
