@@ -60,34 +60,34 @@
     "engineer-legion": "Jeżeli zostanie stworzony Legion, wszyscy źli gracze stają się Legionem. Jeżeli Legion jest w grze, Inżynier dowiaduje się o tym i nie ma swojej umiejętności.",
     "engineer-summoner": "Jeżeli żywy Przywoływacz zostanie usunięty z gry, Bajarz ma umiejętność Przywoływacza.",
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
-    "exorcist-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
+    "exorcist-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Yaggababble, Yaggababble nie zabija tej nocy.",
     "fanggu-scarletwoman": "Jeśli w grze byłyby dwa Demony, z których jeden był Kochanicą diabła, Kochanica diabła pozostaje Kochanicą diabła.",
-    "farmer-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzedniej nocy): Farmer, jeśli wybrany, używa swojej umiejętności ale nie umiera.",
+    "farmer-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzedniej nocy): wybrany Farmer używa swojej umiejętności, ale nie umiera.",
     "goon-pithag": "Jeżeli Jędza przemieni złego gracza w Zbira, nie może on zmienić się w dobrego w wyniku swojej umiejętności.",
     "grandmother-leviathan": "Jeśli Lewiatan jest w grze i Wnuczek umrze przez egzekucję, zło wygrywa.",
     "hatter-legion": "Jeżeli zostanie stworzony Legion, wszyscy źli gracze stają się Legionem. Jeżeli Legion jest w grze, Kapelusznik nie ma umiejętności.",
     "hatter-leviathan": "Lewiatan nie może dołączyć do gry po 5 dniu.",
     "hatter-lilmonsta": "Jeżeli Kapelusznik umrze, a Demon wybierze Potforka, to wybiera także Sługusa, którym się staje.",
     "hatter-summoner": "Jeżeli Przyzywacz stworzy drugiego żyjącego Demona, śmierci tej nocy są arbitralne.",
-    "heretic-lleech": "Tylko jedna postać z Jinxem może być w grze.",
+    "heretic-lleech": "Tylko jedna postać z klątwą może być w grze.",
     "huntsman-marionette": "Jeżeli Marionetka myśli, że jest Łowczym, to Damulka została dodana podczas przygotowywania gry.",
-    "innkeeper-leviathan": "Jeżeli Lewiatan nominował i poddał egzekucji postać chronioną przez Karczmarza, dobro zwycięża.",
+    "innkeeper-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji postaci chronionej przez Karczmarza, dobro zwycięża.",
     "king-leviathan": "Jeżeli Lewiatan jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
-    "leviathan-mayor": "Jeżeli Lewiatan i Burmistrz są żywi dnia 5-tego i nie nastąpi egzekucja, dobro wygrywa.",
+    "leviathan-mayor": "Jeżeli Lewiatan i Burmistrz są żywi 5-tego dnia i nie nastąpi wtedy egzekucja, dobro wygrywa.",
     "leviathan-monk": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "leviathan-pithag": "Lewiatan nie może wejść do gry po 5 dniu.",
-    "leviathan-ravenkeeper": "Każdej nocy* Lewiatan wybiera żywego gracza (innego niż poprzednich nocy): wybrany Hodowca Kruków używa swojej umiejętności, ale nie umiera.",
+    "leviathan-ravenkeeper": "Każdej nocy* Lewiatan wybiera żywego gracza (innego niż poprzednich nocy): wybrany Hodowca kruków używa swojej umiejętności, ale nie umiera.",
     "leviathan-sage": "Każdej nocy* Lewiatan wybiera żywego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności, ale nie umiera.",
     "leviathan-soldier": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji Żołnierza, dobro wygrywa.",
-    "lilmonsta-magician": "Jeżeli Magik żyje to Bajarz wybiera, który ze Sługusów opiekuje się Potforkiem.",
-    "lilmonsta-marionette": "Jeżeli Marionetka miała by być w grze, to wchodzi do gry po Demonie i musi zaczynać grę jako jego sąsiad.",
+    "lilmonsta-magician": "Jeżeli Magik żyje, Bajarz wybiera, który ze Sługusów opiekuje się Potforkiem.",
+    "lilmonsta-marionette": "Jeżeli Marionetka miałaby być w grze, to wchodzi do gry po Demonie i musi zacząć grę jako jego sąsiad.",
     "lilmonsta-poppygrower": "Jeżeli Potforek i Siewca Maku żyją, Sługusi budzą się pojedynczo, aż któryś z nich zdecyduje się opiekować Potforkiem.",
-    "lilmonsta-psychopath": "Jeżeli to Psychopata opiekuje się Potforkiem to umierają gdy są poddawani egzekucji.",
-    "lilmonsta-scarletwoman": "Jeżeli Potforek umrze przy 5 lub ponad 5 żywych graczach, Kochanica Diabła opiekuje się Potforkiem do końca gry.",
-    "lilmonsta-vizier": "Jeżeli Wezyr opiekuje się Potforkiem to umiera gdy jest poddawany egzekucji.",
-    "lleech-mastermind": "Jeżeli Geniusz Zbrodni żyje i żywiciel Pijawki umrze przez egzekucję, Pijawka nadal żyje ale traci swoją umiejętność.",
-    "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawki, żywiciel umiera.",
+    "lilmonsta-psychopath": "Jeżeli Psychopata opiekuje się Potforkiem, to umiera od egzekucji.",
+    "lilmonsta-scarletwoman": "Jeżeli Potforek umrze przy 5 lub ponad 5 żywych graczach, Kochanica diabła opiekuje się Potforkiem do końca gry.",
+    "lilmonsta-vizier": "Jeżeli Wezyr opiekuje się Potforkiem, to umiera od egzekucji.",
+    "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
+    "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
@@ -156,7 +156,7 @@
       "name": "Dżinn"
     },
     "duchess": {
-      "other": "Obudź pojedynczo każdego gracza oznaczonego *ODWIEDZAJĄCY*, albo *FAŁSZYWE INFORMACJE*. Pokaż im żeton Księżnej i ilość palców (1,2,3) równą liczbie złych graczy oznaczonych \"ODWIEDZAJĄCY\", albo gdy budzisz gracza oznaczonego \"FAŁSZYWE INFORMACJE\", pokaż mu dowolną liczbę inną niż liczba graczy oznaczonych jako *ODWIEDZAJĄCY*."
+      "other": "Obudź pojedynczo każdego gracza oznaczonego *ODWIEDZAJĄCY* albo *FAŁSZYWE INFORMACJE*. Pokaż im żeton Księżnej i ilość palców (1,2,3) równą liczbie złych graczy oznaczonych \"ODWIEDZAJĄCY\" albo, gdy budzisz gracza oznaczonego \"FAŁSZYWE INFORMACJE\", pokaż mu dowolną liczbę inną niż liczba graczy oznaczonych jako \"ODWIEDZAJĄCY\"."
     },
     "dusk": {
       "name": "Zmierzch"
@@ -209,7 +209,7 @@
     },
     "kazali": {
       "ability": "Każdej nocy* wybierz gracza: umiera. [Wybierasz, którzy gracze zostają jakimi Sługusami. -? do +? Outsiderów]",
-      "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+      "flavor": "Gon(z)a7les6. Uwa$aj. Mech4niz4cj4 odwr0cona. B7Edy w 5y5tem1e. Reko{7}figur4cja.",
       "name": "Kazali"
     },
     "legion": {
@@ -218,27 +218,27 @@
     "leviathan": {
       "ability": "Jeżeli więcej niż 1 dobry gracz umarł w wyniku egzekucji, zło wygrywa. Wszyscy gracze wiedzą, że jesteś w grze. Po 5-tym dniu zło wygrywa.",
       "first": "Ogłoś, że \"Lewiatan jest w grze\". Oznacz Lewiatana przypominajką *DZIEŃ 1*. :reminder:",
-      "flavor": "Do ostatka zmagam się z tobą, z samego serca piekieł godzę w ciebie. W imię nienawiści plwam na ciebie ostatnim mym tchnieniem!",
+      "flavor": "Do ostatka zmagam się z tobą. Z samego serca piekieł godzę w ciebie. W imię nienawiści plwam na ciebie ostatnim mym tchnieniem!",
       "name": "Lewiatan",
-      "other": "Opcjonalnie, ogłoś że \"Lewiatan jest w grze\". Podmień żeton przypominajki. :reminder:"
+      "other": "Opcjonalnie ogłoś, że \"Lewiatan jest w grze\". Podmień żeton przypominajki. :reminder:"
     },
     "librarian": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Outsiderem. (Lub że żadnego nie ma w grze.)",
       "first": "Pokaż żeton Outsidera. Wskaż na obu graczy oznaczonych *OUTSIDER* i *PODPUCHA*."
     },
     "lilmonsta": {
-      "ability": "Każdej nocy Sługusi wybierają, kto opiekuje się Potforkiem i *Jest Demonem\", jakiś gracz może umrzeć. [+1 Sługus]",
-      "first": "Obudź Sługusów, pozwól im wybrać kto będzię opiekunką. :reminder:",
-      "flavor": "Krok 1: Być słodkim. Krok 2: Władza nad światem. Krok 3: Śniadanko.",
+      "ability": "Każdej nocy Sługusi wybierają, kto opiekuje się Potforkiem i \"jest Demonem\". Każdej nocy* któryś z graczy może umrzeć. [+1 Sługus]",
+      "first": "Obudź wszystkich Sługusów, pozwól im wybrać, kto będzię opiekunką. :reminder:",
+      "flavor": "Krok 1: Bądź uroczy. Krok 2: Władza nad światem. Krok 3: Śniadanko.",
       "name": "Potforek",
-      "other": "Obudź Sługusów, pozwól im wybrać opiekunkę. :reminder: Gracz może umrzeć. :reminder:"
+      "other": "Obudź wszystkich Sługusów, pozwól im wybrać opiekunkę. :reminder: Gracz może umrzeć. :reminder:"
     },
     "lleech": {
-      "ability": "Każdej nocy wybierz gracza: umiera. Gdy zaczynasz grę wybierz gracza: jest zatruty. Umierasz tylko i wyłącznie gdy on umiera.",
-      "first": "Pijawka wybiera gracza. :reminder:",
-      "flavor": "Smaczny, smaczny, smaczny, smaczny, smaczny, smaczny, smaczny, smaczny móz- tfu, placek! Smaczny placek. Tak, to miałem na myśli.",
-      "name": "Pijawka",
-      "other": "Pijawka wybiera gracza. :reminder:"
+      "ability": "Każdej nocy* wybierz gracza: umiera. Gdy zaczynasz grę wybierasz gracza: jest zatruty. Umierasz tylko i wyłącznie, gdy on umiera.",
+      "first": "Pijawa wybiera gracza. :reminder:",
+      "flavor": "Smaczny, smaczny, smaczny, smaczny, smaczny, smaczny, smaczny, smaczny móz... tfu, placek! Smaczny placek. Tak, to miałem na myśli.",
+      "name": "Pijawa",
+      "other": "Pijawa wybiera gracza. :reminder:"
     },
     "lordoftyphon": {
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]"
@@ -255,9 +255,9 @@
     },
     "ojo": {
       "ability": "Każdej nocy* wybierz postać: umiera. Jeżeli nie ma jej w grze, to Bajarz wybiera kto umrze.",
-      "flavor": "Jak ognisko w bezksiężycową noc...widzę cię, śmiertelniku.",
+      "flavor": "Jak ognisko w bezksiężycową noc... widzę cię, śmiertelniku.",
       "name": "Ojo",
-      "other": "Ojo wybiera gracza. :reminder: "
+      "other": "Ojo wybiera postać. :reminder: "
     },
     "organgrinder": {
       "ability": "Wszyscy gracze na czas głosowania zamykają oczy, a jego wynik jest tajny. Każdej nocy wybierz, czy jesteś pijany do zmierzchu.",
@@ -303,9 +303,9 @@
     "xaan": {
       "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]",
       "first": "Oznacz Xaana przypominajką *NOC 1*. Jeżeli X to 1, oznacz Xaana przypominajką *X*. :reminder: :reminder:",
-      "flavor": "I tak oto upadają. Pojedynczo. Dwójkami, trójkami, pięciorgiem.",
+      "flavor": "I tak oto upadają. Jeden po drugim. Dwójkami, trójkami, pięciorgiem.",
       "name": "Xaan",
-      "other": "Zmień przypominajkę Xaana na odpowiednia noc. Jeżeli jest to noc X, oznacz Xaana przypominajką *X*. :reminder: :reminder:"
+      "other": "Zmień przypominajkę Xaana na odpowiednią noc. Jeżeli jest to noc X, oznacz Xaana przypominajką *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Zaczynasz grę znając tajemną frazę. Za każdym razem, gdy wypowiesz ją publicznie, jakiś gracz może umrzeć.",
