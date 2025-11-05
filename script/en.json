@@ -20,7 +20,18 @@
   },
   "print": {
     "not-first-night": "* Not the first night",
-    "too-many-characters": "Your script has too many characters ({nchars}). The max amount recommended is 25. This might look broken in print. Continue?"
+    "too-many-characters": "Your script has too many characters ({nchars}). The max amount recommended is 25. This might look broken in print. Continue?",
+    "ios": "Printing from iOS devices is not supported yet. You can try anyway, but it might not look good."
+  },
+  "export": {
+    "download-json": "Download JSON",
+    "copy-json": "Copy JSON",
+    "png": "Export PNG",
+    "pdf": "Print/Export PDF",
+    "screenshot": {
+      "save": "Save",
+      "share": "Share"
+    }
   },
   "settings": {
     "display-and-ui-heading": "Display and User Interface",
@@ -35,6 +46,7 @@
     "font-size-normal": "Normal",
     "font-size-larger": "Larger",
     "print-columns": "Print Columns",
+    "print-player-count-table": "Display Player Count Table",
     "allow-external-images": "Allow External Images",
     "script-type": "Script Type",
     "script-type-standard": "Standard",
@@ -89,8 +101,8 @@
       "title": "No Outsider modification",
       "msg": "Without Outsider modification, evil players cannot reliably pretend to be Outsiders."
     },
-    "+king-choirboy": {
-      "title": "King, but no Choirboy",
+    "+choirboy-king": {
+      "title": "Choirboy, but no King",
       "msg": "Scripts with a Choirboy must have a King."
     },
     "+huntsman-damsel": {
@@ -164,7 +176,6 @@
 
   "new-script": "New Script",
   "delete-script-confirmation": "Are you sure you want to delete this script? This action is irreversible.",
-  "toggle-all": "Toggle All",
   "undo": "Undo",
   "redo": "Redo",
   "clear-script": "Clear script",
