@@ -373,6 +373,10 @@
         "zookeeper": {
           "text": "Only the nominator and nominee may talk.",
           "title": "Zookeeper"
+        },
+        "bigwig": {
+          "text": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
+          "title": "Big Wig"
         }
       },
       "option_disabled": "Disabled",
@@ -557,6 +561,7 @@
       "received": "Received",
       "response": "Response:",
       "saw_this": "{0} saw this",
+      "selected_players": "Selected players",
       "sent": "Sent",
       "storyteller": "Storyteller|Storytellers",
       "title": "Wake {0}",
@@ -720,6 +725,7 @@
     "vote": {
       "accusation": "Accusation",
       "button_chat": "Open Chat",
+      "button_clear_selection": "Clear Selection",
       "button_countdown": "Countdown",
       "button_defense": "Go to Defense",
       "button_hand_down": "DOWN",
@@ -730,9 +736,13 @@
       "button_reset": "Reset",
       "button_restart": "Restart",
       "button_resume": "Resume",
+      "button_select_player": "Select Player",
+      "button_set_highscore": "Set Highscore",
       "button_start": "Start",
+      "choose_defense_attorney": "Choose a defense attorney!",
       "countdown_go": "Go",
       "defense": "Defense",
+      "defense_attorney": "Defense attorney",
       "highscore_placeholder": "highest vote tally",
       "highscore_text": "Enter a new number for today's vote highscore\nor leave empty for the regular living player majority.",
       "highscore_title": "Change Vote Highscore",
@@ -873,7 +883,8 @@
       "night_info_received": "Night info received",
       "night_info_sent": "Night info sent",
       "nominate": "Nominate this player",
-      "point": "Point at this player"
+      "point": "Point at this player",
+      "select": "Select this player"
     },
     "reminders": {
       "add": "Add Reminder",
