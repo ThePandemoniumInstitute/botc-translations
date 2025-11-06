@@ -39,7 +39,7 @@
         "title": "Se gli spettatori ricevono accesso al Grimorio",
         "value_0": "Chiedi",
         "value_1": "Sì",
-        "value_2": "Sì"
+        "value_2": "No"
       },
       "streaming": {
         "label": "Il Gioco è in Streaming",
