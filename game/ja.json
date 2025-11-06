@@ -21,11 +21,63 @@
     "townsfolk": "村人"
   },
   "roles": {
+    "alchemist": {
+      "name": "錬金術師"
+    },
+    "angel": {
+      "name": "天使"
+    },
+    "artist": {
+      "name": "画家"
+    },
+    "assassin": {
+      "flavor": "...",
+      "name": "暗殺者"
+    },
+    "atheist": {
+      "name": "無神論者"
+    },
+    "balloonist": {
+      "name": "気球乗り"
+    },
+    "banshee": {
+      "name": "怨霊"
+    },
+    "barista": {
+      "name": "バリスタ"
+    },
+    "baron": {
+      "ability": "よそ者が2名追加される。〔よそ者＋2〕",
+      "name": "男爵"
+    },
     "beggar": {
       "name": "物乞い"
     },
+    "bishop": {
+      "name": "司教"
+    },
+    "bootlegger": {
+      "name": "密売人"
+    },
+    "bountyhunter": {
+      "name": "賞金稼ぎ"
+    },
+    "bureaucrat": {
+      "ability": "毎夜、プレイヤーを1人選ぶ（自分は不可）。翌日、そのプレイヤーの賛成投票は3票として数える。",
+      "name": "公務員"
+    },
+    "butler": {
+      "ability": "毎夜、自分以外のプレイヤーを1人選ぶ。翌日、投票時はその人物が賛成した場合にのみ自分は賛成できる。",
+      "name": "執事"
+    },
     "chef": {
       "name": "料理人"
+    },
+    "choirboy": {
+      "name": "聖歌隊員"
+    },
+    "clockmaker": {
+      "name": "時計師"
     },
     "drunk": {
       "name": "酔っ払い"
