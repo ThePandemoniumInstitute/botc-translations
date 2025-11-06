@@ -782,7 +782,7 @@
       "button_verify": "계정 인증",
       "characters": "캐릭터",
       "create_game": "새 게임 생성하기",
-      "edition_by": "{author} 지음",
+      "edition_by": "지은이： {author}",
       "forced_private": "귀하는 더이상 공개 게임에 참가할 수 없습니다.",
       "free_tier_free": "무료 등급",
       "free_tier_patreon": "Patreon",
