@@ -465,6 +465,7 @@
         "toggleAudioMuted": "Silenciar micrófono / Pulsar para hablar",
         "toggleEdition": "Elegir edición",
         "toggleFullscreen": "Pantalla completa",
+        "toggleNPCs": "Añadir personaje no jugable",
         "toggleNight": "Activar / Desactivar la fase de noche",
         "toggleNightOrder": "Orden de noche",
         "toggleNightSignal": "Mostrar la información de la noche",
