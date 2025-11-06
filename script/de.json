@@ -47,6 +47,7 @@
     "font-size-larger": "Groß",
     "print-columns": "Gedruckte Spalten",
     "print-player-count-table": "Charakter-Verteilungs-Tabelle anzeigen",
+    "print-compact-night-sheet": "Kompaktes Nachtblatt",
     "allow-external-images": "Externe Bilder laden",
     "script-type": "Art des Skripts",
     "script-type-standard": "Standard",
@@ -63,6 +64,8 @@
     "heading": "Skript-Analyse",
 
     "no-messages": "Keine Auffälligkeiten gefunden!",
+
+    "too-many-characters": "Zu viele Charaktere",
 
     "too-many-townsfolk": "Zu viele Bürger",
     "too-many-outsider": "Zu viele Außenseiter",
@@ -148,7 +151,8 @@
     "draft-details": "Ein vorgeschlagener Charakter ist noch nicht fest auf dem Skript. Wenn du den \"Zufall\"-Button erneut drückst, werden vorgeschlagene Charaktere durch neue zufällige Charaktere des selben Typs ersetzt."
   },
   "toast": {
-    "cannot-remove-bootlegger": "Es befinden sich Eigenkreation-Charaktere auf dem Skript, darum kann der Bootlegger nicht entfernt werden."
+    "cannot-remove-bootlegger": "Es befinden sich Eigenkreation-Charaktere auf dem Skript, darum kann der Bootlegger nicht entfernt werden.",
+    "copied": "In die Zwischenablage kopiert!"
   },
 
   "script-name": "Skriptname",

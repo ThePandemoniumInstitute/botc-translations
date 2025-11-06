@@ -47,6 +47,7 @@
     "font-size-larger": "Larger",
     "print-columns": "Print Columns",
     "print-player-count-table": "Display Player Count Table",
+    "print-compact-night-sheet": "Compact Night Sheet",
     "allow-external-images": "Allow External Images",
     "script-type": "Script Type",
     "script-type-standard": "Standard",
@@ -63,6 +64,8 @@
     "heading": "Script Analytics",
 
     "no-messages": "Nothing to report!",
+
+    "too-many-characters": "Too many characters",
 
     "too-many-townsfolk": "Too many Townsfolk",
     "too-many-outsider": "Too many Outsiders",
@@ -148,7 +151,8 @@
     "draft-details": "A draft character is not yet fully committed to the script. If you hit the randomise button, draft characters will be replaced by a character of the same type."
   },
   "toast": {
-    "cannot-remove-bootlegger": "There are homebrew characters on this script, so you can't remove the Bootlegger."
+    "cannot-remove-bootlegger": "There are homebrew characters on this script, so you can't remove the Bootlegger.",
+    "copied": "Copied to clipboard!"
   },
 
   "script-name": "Script name",
