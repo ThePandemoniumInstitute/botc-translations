@@ -38,8 +38,8 @@
         "label": "Přístup do grimoáru",
         "title": "Může-li divák nahlížet do grimoáru",
         "value_0": "Zeptat se",
-        "value_1": "Ne",
-        "value_2": "Ano"
+        "value_1": "Ano",
+        "value_2": "Ne"
       },
       "streaming": {
         "label": "Hra je živě vysílána",
@@ -1027,7 +1027,7 @@
       "loading": "Načítání statistik...",
       "none": "Žádné",
       "player": "Her\n odehráno",
-      "player_wins": "% poměr vítězství",
+      "player_wins": "{0}% poměr vítězství",
       "role": "Nejhranější\n postavy",
       "st_evil_wins": "{0}% míra vítězství zla",
       "storyteller": "Odvyprávěné\n hry",
