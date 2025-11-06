@@ -213,7 +213,7 @@
     },
     "artist": {
       "ability": "Een keer per spel, tijdens de dag, stel je de Verteller privé een ja/nee vraag.",
-      "flavor": "Mon Dieu! C'est lumineux! Mijn werk, ze is... hoe zeg je dit... Magnifique! Dieu est révélé! Oui.",
+      "flavor": "Een kloddertje hier, en een kloddertje daar.",
       "name": "Kunstenaar"
     },
     "assassin": {
@@ -248,7 +248,7 @@
       "name": "Bedelaar"
     },
     "bishop": {
-      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
+      "flavor": "Zie de maan schijnt door de bomen. Makkers staakt uw wild geraas.",
       "name": "Bisschop"
     },
     "boffin": {
