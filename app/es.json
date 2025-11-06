@@ -38,8 +38,8 @@
         "label": "Acceso al Grimorio",
         "title": "Si los espectadores tienen acceso al Grimorio",
         "value_0": "Solicitar",
-        "value_1": "No",
-        "value_2": "Sí"
+        "value_1": "Sí",
+        "value_2": "No"
       },
       "streaming": {
         "label": "Transmisión de la partida",
