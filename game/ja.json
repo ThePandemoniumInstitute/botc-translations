@@ -1,1 +1,19 @@
-{}
+{
+  "roles": {
+    "beggar": {
+      "name": "物乞い"
+    },
+    "chef": {
+      "name": "料理人"
+    },
+    "drunk": {
+      "name": "酔っ払い"
+    },
+    "fortuneteller": {
+      "name": "占い師"
+    },
+    "gunslinger": {
+      "name": "ガンマン"
+    }
+  }
+}
