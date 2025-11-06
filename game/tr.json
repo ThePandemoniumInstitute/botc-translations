@@ -88,7 +88,8 @@
       "name": "Simyacı"
     },
     "alhadikhia": {
-      "ability": "Her gece*, 3 oyuncu seçebilirsin (bütün oyuncular kim olduklarını öğrenir): her biri sessizce yaşamayı veya ölmeyi seçer fakat hepsi yaşarsa hepsi ölür."
+      "ability": "Her gece*, 3 oyuncu seçebilirsin (bütün oyuncular kim olduklarını öğrenir): her biri sessizce yaşamayı veya ölmeyi seçer fakat hepsi yaşarsa hepsi ölür.",
+      "flavor": "Alsukut min dhahab."
     },
     "alsaahir": {
       "ability": "Her gün, herkese açık bir şekilde hangi oyuncuların Yardakçı, hangi oyuncuların Şeytan olduğunu tahmin edersen, iyiler kazanır.",
@@ -241,10 +242,12 @@
       "name": "Tarikat Lideri"
     },
     "damsel": {
+      "ability": "Bütün Yardakçılar bir Küçük Hanımın oyunda olduğunu bilir. Bir Yardakçı herkesin önünde seni tahmin ederse (bir seferlik), takımın kaybeder.",
       "flavor": "Saçıma dokunma tatlım."
     },
     "dawn": {
       "first": "Birkaç saniye bekle. Gece Evresini bitir.",
+      "name": "Gün Doğumu",
       "other": "Birkaç saniye bekle. Gece Evresini bitir."
     },
     "demoninfo": {
@@ -291,6 +294,7 @@
       "name": "Mühendis"
     },
     "eviltwin": {
+      "ability": "Sen ve karşı taraftan bir oyuncu birbirinizi bilirsiniz. İyi olan oyuncu idam edilirse, kötüler kazanır. İkiniz de hayatta olduğunuz sürece iyiler kazanamaz.",
       "flavor": "Ben Sara değilim! Ben Clara'yım! O Sara! Sara kötü olan! Ben değil!",
       "name": "Kötü İkiz"
     },
@@ -315,6 +319,7 @@
       "name": "Mavalcı"
     },
     "fiddler": {
+      "ability": "Oyunda bir kez, Şeytan gizlice karşı taraftan bir oyuncu seçer: bütün oyuncular bu 2 oyuncudan hangisinin kazandığını seçer.",
       "name": "Kemancı"
     },
     "fisherman": {
@@ -474,8 +479,10 @@
       "name": "Kütüphaneci"
     },
     "lilmonsta": {
+      "ability": "Her gece, Yardakçılar kimin Küçük Canavara bakıcılık yaptığını ve “Şeytan olduğunu” seçer. Her gece*, bir oyuncu ölebilir. [+1 Yardakçı]",
       "first": "Bütün Yardakçıları uyandır, bakıcı seçmelerine izin ver. :reminder:",
       "flavor": "1. Adım: Tatlı ol. 2. Adım: Dünyaya hükmet. 3. Adım: Kaavaltı.",
+      "name": "Küçük Canavar",
       "other": "Bütün Yardakçıları uyandır, bakıcı seçmelerine izin ver. :reminder: Bir oyuncu ölebilir. :reminder:"
     },
     "lleech": {
@@ -484,7 +491,8 @@
       "other": "Süllük bir oyuncu seçer. :reminder:"
     },
     "lordoftyphon": {
-      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Kötü karakterler sıra hâlinde. Sen ortadasın. +1 Yardakçı. -? ila +? Yabancı]"
+      "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Kötü karakterler sıra hâlinde. Sen ortadasın. +1 Yardakçı. -? ila +? Yabancı]",
+      "other": "Tifon Efendisi bir oyuncu seçer. :reminder:"
     },
     "lunatic": {
       "flavor": "Ben geceyim... sanırım.",
@@ -635,7 +643,8 @@
       "other": "Pukka bir oyuncu seçer. :reminder: Önceden zehirlenen oyuncu ölür ve sonra sağlıklı olur. :reminder:"
     },
     "puzzlemaster": {
-      "ability": "1 oyuncu sarhoş olur, ölsen bile. Bunun kim olduğunu tahmin edersen (bir seferlik) Şeytan oyuncusunu öğrenirsin, ama yanlış tahmin edersen yanlış bilgi alırsın."
+      "ability": "1 oyuncu sarhoş olur, ölsen bile. Bunun kim olduğunu tahmin edersen (bir seferlik) Şeytan oyuncusunu öğrenirsin, ama yanlış tahmin edersen yanlış bilgi alırsın.",
+      "name": "Yapboz Ustası"
     },
     "ravenkeeper": {
       "ability": "Geceleyin ölürsen, bir oyuncu seçmek üzere uyandırılırsın: o kişinin karakterini öğrenirsin.",
@@ -728,6 +737,9 @@
     "vizier": {
       "name": "Vezir"
     },
+    "vortox": {
+      "name": "Vortoks"
+    },
     "voudon": {
       "flavor": "Bien venu. Otur. Derin nefes al. Ölüler diyarına giriş yap. Onların gözlerinden bak. Onların sesine bürün. Yon sel lang se janm ase."
     },
@@ -745,7 +757,9 @@
       "other": "Cadı bir oyuncu seçer. :reminder:"
     },
     "zombuul": {
-      "ability": "Her gece*, bugün hiç kimse ölmediyse, bir oyuncu seç: o kişi ölür. İlk öldüğünde, hayatta kalırsın ama ölü olarak gözükürsün."
+      "ability": "Her gece*, bugün hiç kimse ölmediyse, bir oyuncu seç: o kişi ölür. İlk öldüğünde, hayatta kalırsın ama ölü olarak gözükürsün.",
+      "name": "Zombuul",
+      "other": "Bugün hiç kimse ölmediyse, Zombuul bir oyuncu seçer. :reminder:"
     }
   }
 }
