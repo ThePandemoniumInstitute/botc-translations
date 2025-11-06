@@ -54,7 +54,7 @@
       "travellers": {
         "label": "Viajeros",
         "title": "Si pueden unirse viajeros a esta sesión de juego",
-        "value_0": "Opcional",
+        "value_0": "Opcionales",
         "value_1": "Sí",
         "value_2": "No"
       }
@@ -107,7 +107,7 @@
     "error_audio3": "Es posible que también tengas que {0} en Firefox para escuchar el audio de la aplicación.",
     "error_audio4": "cambiar algún ajuste",
     "fullscreen": "Pantalla completa",
-    "gather": "Reúne a los jugadores",
+    "gather": "Reunir a los jugadores",
     "gong_attention": "Tocar el gong",
     "gong_recall": "Llamar a la plaza",
     "grim_access": "Tienes acceso al Grimorio",
@@ -139,14 +139,14 @@
     "show_town": "Mostrar la plaza",
     "show_users": "Mostrar los usuarios {0}",
     "storyteller_add": "Convertirse en Narrador",
-    "storyteller_remove": "Renunciar como Narardor",
+    "storyteller_remove": "Renunciar como Narrador",
     "tab_app": "Aplicación",
     "tab_during_game": "Durante la partida",
     "tab_new_game": "Nueva partida",
     "tab_playing": "En partida",
     "to_day": "Pasar a la fase de día",
     "to_night": "Pasar a la fase de noche",
-    "translation": "Mejora esta traducción",
+    "translation": "Mejorar esta traducción",
     "user_list": "Lista de usuarios",
     "vacate_seat": "Abandonar el asiento",
     "vote_history": "Historial de votos"
@@ -645,7 +645,7 @@
       "button_clear": "Limpiar sitios vacíos",
       "button_clearall": "Limpiar todos",
       "button_select": "Elige una edición",
-      "button_shuffle": "Mezcla los asientos",
+      "button_shuffle": "Mezclar los asientos",
       "clear_text": "¿Estás seguro de que quieres eliminar a todos los jugadores?",
       "clear_title": "Elimina a todos los jugadores",
       "move": "Mover después de \n {0}",
@@ -654,7 +654,7 @@
       "swap": "Intercambiar con \n {0}",
       "text": "Añade, mezcla o elimina los asientos de los jugadores aquí.",
       "text2": "Cuando haya suficientes asientos para todos, {0}",
-      "title": "Reúne a tus jugadores",
+      "title": "Reunir a los jugadores",
       "warning": "Necesitas sl menos 7 jugadores para una partida normal de Ravenswood Bluff."
     },
     "nightaction": {
@@ -698,7 +698,7 @@
     },
     "towninfo": {
       "alive": "Vivo",
-      "button_gather": "Reúne a tus Jugadores",
+      "button_gather": "Reunir a los jugadores",
       "return": "Volver al Grimorio (Atajo: {0})",
       "script_by": "por {0}",
       "text_player": "El Narrador debe añadir más jugadores antes de que podáis empezar.",
@@ -842,7 +842,7 @@
       "whisper": "Enviar Mensaje de Texto"
     },
     "name": {
-      "claim": "Haga clic para Reclamar",
+      "claim": "Haz clic para reclamar",
       "connecting": "El jugador está conectando con el chat de voz.",
       "follow": "Estás siguiendo a este jugador.",
       "listening": "El jugador está escuchando el chat de voz.",
@@ -880,13 +880,13 @@
     "copy": "Clicar para copiar",
     "created": "Creado hace {0} por {1}.",
     "free": "Gratis para todos",
-    "language": "Lenguaje del Chat",
+    "language": "Idioma del chat",
     "locked": "Narradores y Jugadores",
     "locked_text": "Solo jugadores sentados y los Narradores actuales pueden unirse a la sesión.",
     "name_placeholder": "Nombre de la sesión",
     "prompt_public_text": "¿Estás seguro de que quieres hacer la sesión de juego visible al público?\nEsto permitirá que cualquiera se pueda unir a la partida.",
     "prompt_public_title": "Hacer pública la sesión",
-    "server": "Servidor de Chat:",
+    "server": "Servidor del chat:",
     "server_name": "Nombre",
     "server_stats": "{0} usuarios, {1} carga del servidor",
     "session_name": "Nombre de sesión",
@@ -895,8 +895,8 @@
     "title_create": "Crear sesión de juego",
     "title_current": "Sesión de juego actual",
     "visibility": "Visibilidad",
-    "visibility_private": "Privado",
-    "visibility_public": "Público"
+    "visibility_private": "Privada",
+    "visibility_public": "Pública"
   },
   "storyteller": {
     "connecting": "El narrador está conectando al chat de voz.",
@@ -907,7 +907,7 @@
     "prompt_grim_text": "Los usuarios nuevos no pueden solicitar acceso al Grimorio en partidas públicas. \nCompleta más partidas para desbloquear esta opción.",
     "prompt_grim_title": "Error Solicitando Acceso al Grimorio",
     "remove": "Eliminar Narrador",
-    "request_grim": "Solicitar Acceso al Grimorio",
+    "request_grim": "Solicitar acceso al Grimorio",
     "title": "Narradores",
     "unfollow": "Dejar de seguir al Narrador"
   },
