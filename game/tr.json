@@ -93,7 +93,8 @@
     },
     "alsaahir": {
       "ability": "Her gün, herkese açık bir şekilde hangi oyuncuların Yardakçı, hangi oyuncuların Şeytan olduğunu tahmin edersen, iyiler kazanır.",
-      "flavor": "Ben senin yüzünden buradayım, sen de benim yüzümden buradasın."
+      "flavor": "Ben senin yüzünden buradayım, sen de benim yüzümden buradasın.",
+      "name": "Alsaahir"
     },
     "amnesiac": {
       "ability": "Yeteneğinin ne olduğunu bilmiyorsun. Her gün, gizlice ne olduğunu tahmin et: ne kadar yaklaştığını öğrenirsin.",
@@ -174,7 +175,8 @@
       "flavor": "Tik... Tik... Tik... TAK."
     },
     "bootlegger": {
-      "ability": "Bu senaryoda ev yapımı karakterler veya kurallar var."
+      "ability": "Bu senaryoda ev yapımı karakterler veya kurallar var.",
+      "name": "Korsan Satıcı"
     },
     "bountyhunter": {
       "ability": "1 kötü oyuncuyu bilerek başlarsın. Bildiğin oyuncu ölürse, bu gece başka bir kötü oyuncuyu öğrenirsin. [1 Kasabalı kötü]",
@@ -229,6 +231,7 @@
     },
     "clockmaker": {
       "ability": "Şeytanın en yakın Yardakçısından kaç adım uzakta olduğunu bilerek başlarsın.",
+      "first": "Parmak işareti yap.",
       "name": "Saatçi"
     },
     "courtier": {
@@ -252,6 +255,9 @@
     },
     "demoninfo": {
       "name": "Şeytan Bilgisi"
+    },
+    "deusexfiasco": {
+      "name": "Deus ex Fiasco"
     },
     "deviant": {
       "name": "Aykırı"
@@ -492,6 +498,7 @@
     },
     "lordoftyphon": {
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Kötü karakterler sıra hâlinde. Sen ortadasın. +1 Yardakçı. -? ila +? Yabancı]",
+      "name": "Tifon Efendisi",
       "other": "Tifon Efendisi bir oyuncu seçer. :reminder:"
     },
     "lunatic": {
@@ -709,6 +716,9 @@
       "name": "Canan",
       "other": "Canan öldüyse, bir oyuncu derhâl sarhoş oldu. Bunu henüz yapmadıysan şimdi yap. :reminder:"
     },
+    "tealady": {
+      "name": "Çaycı"
+    },
     "thief": {
       "ability": "Her gece, bir oyuncu seç (kendini değil): yarın onun oyu negatif sayılır.",
       "name": "Hırsız"
@@ -741,11 +751,13 @@
       "name": "Vortoks"
     },
     "voudon": {
-      "flavor": "Bien venu. Otur. Derin nefes al. Ölüler diyarına giriş yap. Onların gözlerinden bak. Onların sesine bürün. Yon sel lang se janm ase."
+      "flavor": "Bien venu. Otur. Derin nefes al. Ölüler diyarına giriş yap. Onların gözlerinden bak. Onların sesine bürün. Yon sel lang se janm ase.",
+      "name": "Voudon"
     },
     "washerwoman": {
       "ability": "2 oyuncudan 1'inin belli bir Kasabalı olduğunu bilerek başlarsın.",
-      "first": "Kasabalı karakter pulunu göster. Hem *KASABALI* hem de *YANLIŞ* oyuncuya işaret et."
+      "first": "Kasabalı karakter pulunu göster. Hem *KASABALI* hem de *YANLIŞ* oyuncuya işaret et.",
+      "name": "Çamaşırcı"
     },
     "widow": {
       "flavor": "Daha fazla şarap mı? Château d’Ergot ’07 çok özel bir bağbozumudur. Ah evet, gerçekten de çok özel.",
