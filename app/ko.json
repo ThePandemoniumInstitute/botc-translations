@@ -366,6 +366,10 @@
           "text": "지명된 플레이어는 모두의 주목을 받습니다.",
           "title": "제빵사"
         },
+        "bigwig": {
+          "text": "각 피지명자는 플레이어를 1명 선택합니다. 투표가 끝나기 전까지 해당 플레이어만 말할 수 있으며, 피지명자가 선하다고 \"광기\"하지 않으면 죽을 수도 있습니다.",
+          "title": "큰 가발"
+        },
         "regular": {
           "text": "모든 플레이어는 원한다면 말할 수 있습니다.",
           "title": "일반"
@@ -557,6 +561,7 @@
       "received": "수신",
       "response": "답변:",
       "saw_this": "{0}이(가) 보았습니다",
+      "selected_players": "선택된 플레이어",
       "sent": "보냄",
       "storyteller": "이야기꾼|이야기꾼",
       "title": "{0} 깨우기",
@@ -720,6 +725,7 @@
     "vote": {
       "accusation": "발언",
       "button_chat": "대화 재개",
+      "button_clear_selection": "선택 해제",
       "button_countdown": "카운트다운",
       "button_defense": "변론 시작",
       "button_hand_down": "손 내리기",
@@ -730,9 +736,13 @@
       "button_reset": "초기화",
       "button_restart": "다시 시작",
       "button_resume": "투표 재개",
+      "button_select_player": "플레이어 선택",
+      "button_set_highscore": "최다 득표 설정",
       "button_start": "시작",
+      "choose_defense_attorney": "변호사를 선임하세요!",
       "countdown_go": "시작",
       "defense": "변론",
+      "defense_attorney": "변호사",
       "highscore_placeholder": "최다 득표",
       "highscore_text": "처형에 필요한 최소 득표 수를 입력하세요.\n비워 두면 이전 투표수 기준으로 집계됩니다.",
       "highscore_title": "최다 득표 변경",
@@ -873,7 +883,8 @@
       "night_info_received": "밤 정보 수신됨",
       "night_info_sent": "밤 정보 전송됨",
       "nominate": "이 플레이어를 지명함",
-      "point": "이 플레이어를 가리킴"
+      "point": "이 플레이어를 가리킴",
+      "select": "이 플레이어를 선택합니다"
     },
     "reminders": {
       "add": "알림 토큰 추가",
