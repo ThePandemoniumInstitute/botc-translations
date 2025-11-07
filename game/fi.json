@@ -1199,7 +1199,8 @@
       "ability": "Joka yö, valitse pelaaja (ei itseäsi): heidän äänensä lasketaan negatiivisena huomenna.",
       "first": "Varas valitsee pelaajan. :reminder:",
       "flavor": "Emmä mittää tehny oo. Emmä siel kujal eile ees ollu! Pormestari Brunon salkun kaikkine hienoine paperinee vei kyll iha jokku muu. Sit paitsi se oli liian painava kannettavaks kovi pitkälle.",
-      "name": "Varas"
+      "name": "Varas",
+      "other": "Varas valitsee pelaajan. :reminder:"
     },
     "towncrier": {
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!"
