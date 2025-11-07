@@ -115,5 +115,8 @@
       "link_1": "sähköpostitse",
       "link_2": "täällä"
     }
+  },
+  "user": {
+    "gain": "Vahvistus"
   }
 }
