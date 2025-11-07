@@ -1,4 +1,7 @@
 {
+  "reminders": {
+    "townsfolk": "村人"
+  },
   "roles": {
     "beggar": {
       "name": "物乞い"
