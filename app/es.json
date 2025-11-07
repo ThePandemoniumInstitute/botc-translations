@@ -836,7 +836,7 @@
       "empty_text": "¿Estás seguro de que quieres eliminar a este jugador de su asiento mientras la partida está en curso?",
       "empty_title": "Asiento Vacío de {0}",
       "follow": "Seguir Jugador",
-      "nominate": "Nominar Jugador",
+      "nominate": "Nominarse a sí mismo",
       "unfollow": "Dejar de Seguir al Jugador",
       "wake": "Despertar",
       "whisper": "Enviar Mensaje de Texto"
@@ -1022,7 +1022,7 @@
     "registration": "Registro",
     "statistics": "Estadísticas",
     "stats": {
-      "edition": "Ediciones más\n Jugadas",
+      "edition": "Ediciones más\n jugadas",
       "homebrew": "Personaje no oficial",
       "loading": "Cargando estadísticas...",
       "none": "Ninguno",
