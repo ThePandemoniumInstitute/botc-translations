@@ -366,6 +366,10 @@
           "text": "Tylko nominowany gracz może mówić.",
           "title": "Piekarz"
         },
+        "bigwig": {
+          "text": "Każdy nominowany wybiera gracza: do momentu głosowania tylko on może mówić i ma obsesję, że nominowany jest dobry, inaczej może umrzeć.",
+          "title": "Mecenas"
+        },
         "regular": {
           "text": "Wszyscy mogą mówić, gdy tylko chcą.",
           "title": "Zwykły"
