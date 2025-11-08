@@ -276,6 +276,9 @@
         "evil": "Kötü",
         "good": "İyi"
       }
+    },
+    "users": {
+      "grim_access": "Grimoire Erişimi"
     }
   }
 }
