@@ -85,7 +85,16 @@
     "token": "トークン"
   },
   "main-menu": {
-    "download": "{0}アプリをダウンロードする"
+    "download": "{0}アプリをダウンロードする",
+    "gong_recall": "村の広場に呼び戻す",
+    "grim_access": "グリモワール閲覧権限を付与されました",
+    "help": "ヘルプ",
+    "json_schema": "台本のJSONスキーマ",
+    "leave": "ゲームを退出",
+    "mute_mic": "マイクをミュート [{0}]",
+    "night_sheet": "夜間行動表",
+    "npcs": "NPCを追加",
+    "prompt_clear_player": "すべてのプレイヤーキャラクターやリマインダートークンを本当に削除してよろしいですか？"
   },
   "pages": {
     "lobby": {
