@@ -386,6 +386,96 @@
       "error_pending": "コードが間違っています。もう一度試してください。",
       "error_restart": "最大回数に達しました。もう一度電話番号をご入力ください。",
       "phone": "電話番号"
+    },
+    "votehistory": {
+      "clear": "投票履歴を消去",
+      "exile": "追放",
+      "majority": "過半数",
+      "nominator": "告発者",
+      "nominee": "被告人",
+      "phase": "フェイズ",
+      "pregame": "ゲーム前",
+      "title": "投票履歴",
+      "type": "タイプ",
+      "voters": "投票者",
+      "votes": "投票数"
+    }
+  },
+  "overlays": {
+    "attention": {
+      "attention": "ご注目ください！",
+      "return": "村の広場にお戻りください！"
+    },
+    "firstnight": {
+      "bluffs": "悪魔に共有する、３つの空の「悪魔ブラフ」トークンを選んでください。",
+      "button_begin": "最初の夜フェイズを開始",
+      "gardener_button": "配役を配布する",
+      "gardener_text": "キャラクター設定に満足したら、プレイヤーに{0}。配布したら、最初の夜の準備に進めます。",
+      "reminders": "必要な {0} リマインダートークンを追加してください。",
+      "title": "最初の夜の準備"
+    },
+    "gatherplayers": {
+      "button_add": "席を追加",
+      "button_clear": "空席を削除",
+      "button_clearall": "席をすべて削除",
+      "button_select": "エディションを選択",
+      "button_shuffle": "席をシャッフル",
+      "clear_text": "すべてのプレイヤーを外しますか？",
+      "clear_title": "すべてのプレイヤーを外す",
+      "move": "{0}\nの後に移動",
+      "shuffle_text": "本当に席順をシャッフルしますか？",
+      "shuffle_title": "席順をシャッフル",
+      "swap": "{0}\nと入れ替える",
+      "text": "ここで席を追加・シャッフル・削除することができます。",
+      "text2": "みんなの分の席を用意できたら、{0}",
+      "title": "プレイヤーを集める",
+      "warning": "レーブンズウッドブラフでの通常ゲームには、最低では７人のプレイヤーが必要です。"
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "閉じる",
+        "button_open": "開ける",
+        "button_peek": "半閉じ",
+        "state_false": "閉じている",
+        "state_open-eyes": "開けている",
+        "state_peek-eyes": "半閉じ状態",
+        "text": "あなたの目は{0}",
+        "tooltip_false": "ほかのプレイヤーの夜情報が見れなくて、テキストメッセージを自分の隣のプレイヤーとストーリーテラーにしか送れません。",
+        "tooltip_open-eyes": "すべてのプレイヤーとテキストメッセージのやり取りができます。すべての夜情報が見れますが、ばれるリスクがあります。",
+        "tooltip_peek-eyes": "すべてのプレイヤーとテキストメッセージのやり取りができます。夜でやり取りしている人がわかりますが、その内容までがわかりません。ばれるリスクがありません。"
+      }
+    },
+    "pointing": {
+      "button_countdown": "カウントダウン",
+      "countdown_freeze": "フリーズ",
+      "nobody": "なし",
+      "prompt": "指さすプレイヤーをクリックしてください！",
+      "title_locked": "選択されたプレイヤー：|選択されたプレイヤー：",
+      "title_open": "現在の選択：|現在の選択：",
+      "you_pointed": "あなたが指さしたのは："
+    },
+    "reveal": {
+      "button_remaining": "残り人数",
+      "button_result": "ゲーム結果",
+      "evil": "悪",
+      "good": "善",
+      "prompt": "注意：ゲームを終了し、全プレイヤーにグリモワールを開示します。\nどちらの陣営が勝ちましたか？",
+      "result": "{0}の勝利！",
+      "text": "ゲームの勝敗を開示し、トークンをクリックすることで各プレイヤーを開示しましょう。マウスを合わせることでキャラクターを確認できます。",
+      "title": "グリモワールを開示"
+    },
+    "rules": {
+      "button_select": "キャラクターを選択",
+      "text": "{0}の準備ができました",
+      "text2": "キャラクターを選択する前に、旅人をプレイヤーに設定しましょう。",
+      "title": "キャラクターを選択"
+    },
+    "towninfo": {
+      "alive": "生きている",
+      "button_gather": "プレイヤーを集める",
+      "return": "グリモワールに戻る（ショートカット：{0}）",
+      "script_by": "作：{0}",
+      "text_player": "開始するには、ストーリーテラーがプレイヤーを追加する必要があります。"
     }
   },
   "pages": {
