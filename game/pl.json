@@ -89,7 +89,7 @@
     "lilmonsta-vizier": "Jeżeli Wezyr opiekuje się Potforkiem, to umiera od egzekucji.",
     "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
     "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
-    "monk-riot": "Jeżeli Zamieszki nominowały i doprowadziły do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
+    "monk-riot": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
@@ -285,8 +285,8 @@
       "name": "Minstrel"
     },
     "monk": {
-      "ability": "Każdej nocy* wybierz gracza (nie siebie): tej nocy jest on bezpieczny przed Demonem.",
-      "flavor": "Zły to wiatr, co śmiercią dziś powiewa. Pójdź, bracie mój, schroń się w murach opactwa, gdy nawałnica huczy. Na słowo moje i na życie własne, będziesz dziś bezpieczny.",
+      "ability": "Każdej nocy* wybierz gracza (nie siebie): tej nocy jest on chroniony przed działaniem Demona.",
+      "flavor": "Zły to wiatr, co śmiercią dziś powiewa. Chodź, bracie mój, schroń się w murach opactwa, gdy nawałnica huczy. Na słowo moje i na życie własne przysięgam, będziesz bezpieczny.",
       "name": "Mnich",
       "other": "Mnich wybiera gracza. :reminder:"
     },
@@ -346,10 +346,10 @@
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
     "undertaker": {
-      "ability": "Każdej nocy* dowiadujesz się jaką postacią był gracz stracony tego dnia.",
-      "flavor": "Hmmm...co my tu mamy? Lewy but jest zdarty aż do cholewy, z odłamkami krzesiwa pod językiem. To odzienie kogoś z wojska.",
+      "ability": "Każdej nocy* dowiadujesz się, jaka postać zmarła dziś w wyniku egzekucji.",
+      "flavor": "Hmmm...co my tu mamy? Lewy but jest zdarty aż do cholewy, z odłamkami krzesiwa pod językiem. To odzienie wojskowego.",
       "name": "Grabarz",
-      "other": "Jeżeli jakiś gracz został stracony tego dnia, pokaż jego żeton postaci."
+      "other": "Jeżeli jakiś gracz został dziś stracony, pokaż jego żeton postaci."
     },
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
