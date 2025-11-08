@@ -92,7 +92,7 @@
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
-    "plaguedoctor-scarletwoman": "Jeżeli Bajarz miał by dostać umiejętność Kochanicy Diabła, otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
+    "plaguedoctor-scarletwoman": "Jeżeli Bajarz miałby dostać umiejętność Kochanicy Diabła, otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
@@ -137,9 +137,9 @@
       "name": "Mecenas"
     },
     "chef": {
-      "ability": "Zaczynasz grę wiedząc ile jest par złych graczy.",
-      "first": "Pokarz palcem.",
-      "flavor": "Rezerwacje tej nocy wydają się kuriozalne. Nigdy wcześniej Pani Mayweather nie pokazywała się z tym Nicponiem Hudson Lane. Jednak dzisiaj mają rezerwacje na stolik dla dwojga. Dziwne.",
+      "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
+      "first": "Pokaż palcem.",
+      "flavor": "Rezerwacje tej nocy wydają się kuriozalne. Nigdy wcześniej pani Mayweather nie pokazywała się z tym nicponiem z Hudson Lane. Jednak dzisiaj zarezerwowali stolik dla dwojga. Dziwne.",
       "name": "Kucharz"
     },
     "cultleader": {
@@ -159,6 +159,9 @@
     "dawn": {
       "name": "Świt"
     },
+    "demoninfo": {
+      "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Demona: Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż każdego Sługusa. Pokaż kartę *POSTACIE, KTÓRYCH NIE MA W GRZE*. Pokaż 3 żetony dobrych postaci, których nie ma w grze."
+    },
     "djinn": {
       "name": "Dżinn"
     },
@@ -169,11 +172,11 @@
       "name": "Zmierzch"
     },
     "empath": {
-      "ability": "Każdej nocy dowiadujesz się ilu ze swoich żyjących sąsiadów jest złych.",
-      "first": "Pokarz palcem.",
+      "ability": "Każdej nocy dowiadujesz się, ilu z twoich żyjących sąsiadów jest złych.",
+      "first": "Pokaż palcem.",
       "flavor": "Aż mnie ciarki przeszły. Coś tu nie gra. Czuję to.",
       "name": "Empata",
-      "other": "Pokarz palcem."
+      "other": "Pokaż palcem."
     },
     "fanggu": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Pierwszy Outsider, którego tak zabijesz, staje się złym Fang Gu, a ty umierasz zamiast niego. [+1 Outsider]",
@@ -183,11 +186,11 @@
       "name": "Skrzypek"
     },
     "fortuneteller": {
-      "ability": "Każdej nocy wybierz 2 graczy: dowiadujesz się czy któryś z nich jest Demonem. Jeden z dobrych graczy rejestruje się dla ciebie jako Demon.",
-      "first": "Wróżbita wybiera 2 graczy. Potaknij jeśli któryś z nich jest Demonem (albo *PODPUCHA*).",
-      "flavor": "Wyczuwam wielkie zło w twej duszy! Ale... to mogą być po prostu twoje perfumy. Jestem uczulona na Czarny Bez.",
-      "name": "Wróżbita",
-      "other": "Wróżbita wybiera 2 graczy. Potaknij jeśli któryś z nich jest Demonem (albo *PODPUCHA*)."
+      "ability": "Każdej nocy wybierz 2 graczy: dowiadujesz się, czy któryś z nich jest Demonem. Jeden z dobrych graczy pokazuje ci się jako Demon.",
+      "first": "Wróżka wybiera 2 graczy. Przytaknij, jeśli któryś z nich jest Demonem (albo *PODPUCHĄ*).",
+      "flavor": "Wyczuwam w twej duszy wielkie zło! Ale... to mogą być po prostu twoje perfumy. Jestem uczulona na czarny bez.",
+      "name": "Wróżka",
+      "other": "Wróżka wybiera 2 graczy. Przytaknij, jeśli któryś z nich jest Demonem (albo *PODPUCHĄ*)."
     },
     "gambler": {
       "ability": "Każdej nocy*, wybierz gracza i odgadnij jego postać: jeżeli źle odgadniesz, umierasz."
@@ -209,9 +212,9 @@
       "other": "Jeżeli Kapelusznik umarł tego dnia lub tej nocy, obudź Sługusów i Demona, pozwól im wybrać nowe postacie (Sługusów i/lub Demona)."
     },
     "hellslibrarian": {
-      "ability": "Coś złego może się przydarzyć komukolwiek kto rozmawia, po tym jak Bajarz poprosił o ciszę.",
-      "flavor": "Ciiii. Proszę być cicho. Najlepiej nie przeszkadzać Bibliotekarzowi. Słyszałem, że ma temperament.",
-      "name": "Piekielny Bibliotekarz"
+      "ability": "Coś złego może się przydarzyć komuś, kto rozmawia po tym, jak Bajarz poprosił o ciszę.",
+      "flavor": "Ćśśś. Proszę być cicho. Lepiej nie przeszkadzać Bibliotekarzowi. Słyszałem, że to niezły piekielnik.",
+      "name": "Piekielny bibliotekarz"
     },
     "hermit": {
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]"
@@ -232,8 +235,8 @@
     },
     "investigator": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Sługusem.",
-      "first": "Pokaż żeton Sługusa. Wskaż na obu graczy oznaczonych przypominajkami *Sługus* i *Błędnie*.",
-      "flavor": "To piękna noc na spacer, nieprawdaż panie Morozov? Czy może jednak...BARONIE Morozov?",
+      "first": "Pokaż żeton Sługusa. Wskaż na obu graczy oznaczonych przypominajkami *SŁUGUS* i *PODPUCHA*.",
+      "flavor": "To piękna noc na spacer, nieprawdaż, panie Morozov? Czy może jednak...BARONIE Morozov?",
       "name": "Śledczy"
     },
     "kazali": {
@@ -254,7 +257,7 @@
     "librarian": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Outsiderem. (Lub że żadnego nie ma w grze.)",
       "first": "Pokaż żeton Outsidera. Wskaż na obu graczy oznaczonych *OUTSIDER* i *PODPUCHA*.",
-      "flavor": "Oczywiście madam, w normalnych okolicznościach, mogła by pani wypożyczyć \"Codex Malificarium - Młot na Czarownice\" z naszych bibliotecznych zasobów. Jednakże, nie wydaje mi się aby miała pani kartę biblioteczną.",
+      "flavor": "Oczywiście droga pani, w normalnych okolicznościach mogłaby pani wypożyczyć \"Codex Malificarium - Młot na Czarownice\" z naszych bibliotecznych zasobów. Jednakże, nie wydaje mi się, aby miała pani kartę biblioteczną.",
       "name": "Bibliotekarz"
     },
     "lilmonsta": {
@@ -274,6 +277,9 @@
     "lordoftyphon": {
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]"
     },
+    "minioninfo": {
+      "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Sługusów: Pokaż kartę *TO JEST DEMON*. Wskaż Demona. Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż innych Sługusów."
+    },
     "minstrel": {
       "name": "Minstrel"
     },
@@ -283,6 +289,9 @@
     },
     "nodashii": {
       "name": "No Dashii"
+    },
+    "ogre": {
+      "flavor": "<hark><wyszczerz></hark>"
     },
     "ojo": {
       "ability": "Każdej nocy* wybierz postać: umiera. Jeżeli nie ma jej w grze, to Bajarz wybiera kto umrze.",
@@ -308,7 +317,7 @@
     },
     "scarletwoman": {
       "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)",
-      "flavor": "Pokazałeś mi sekrety Rady Purpurowego Ognia. Legliśmy razem w ogniu i pożądaniu i bestialskiej komunii, jestem twą wieczną służką. Ale tej nocy, moje kochanie, jam jest twoim panem.",
+      "flavor": "Pokazałeś mi sekrety Rady Purpurowego Ognia. Legliśmy razem w ogniu i pożądaniu i bestialskiej komunii, jestem twą wieczną służką. Ale tej nocy, moje kochanie, jam jest twoją panią.",
       "name": "Kochanica diabła",
       "other": "Jeżeli Kochanica diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
     },
@@ -334,8 +343,8 @@
     },
     "washerwoman": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
-      "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *BŁĘDNIE*.",
-      "flavor": "Ślady krwi na kamizelce? Nie, to tylko trochę wina. Jakże niezdarnie.",
+      "first": "Pokaż żeton Mieszczanina. Wskaż obu graczy oznaczonych *MIESZCZANIN* i *PODPUCHA*.",
+      "flavor": "Ślady krwi na smokingu? Nie, to tylko trochę wina. Ale gapa.",
       "name": "Praczka"
     },
     "xaan": {
