@@ -408,13 +408,13 @@
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]",
       "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak głęboka, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom.",
       "name": "Tyfaon",
-      "other": "Tyfon wybiera gracza. :reminder:"
+      "other": "Tyfaon wybiera gracza. :reminder:"
     },
     "lunatic": {
       "name": "Szaleniec"
     },
     "lycanthrope": {
-      "ability": "Każdej nocy* wybierz żywego gracza. Jeżeli dobry umiera, a Demon nie zabija tej nocy. Jeden z dobrych graczy rejestruje się jako zły."
+      "ability": "Każdej nocy* wybierz żywego gracza. Jeżeli dobry umiera, a Demon nie zabija tej nocy. Jeden z dobrych graczy pokazuje się jako zły."
     },
     "mastermind": {
       "name": "Geniusz Zła"
@@ -544,8 +544,8 @@
     },
     "summoner": {
       "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie.",
-      "name": "Przywoływacz",
-      "other": "Zamień przypominajkę Przywoływacza na odpowiedni numer nocy. Jeżeli to noc 3-cia Przywoływacz wybiera gracza i Demona. Uśpij Przywoływacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
+      "name": "Przyzywacz",
+      "other": "Zamień przypominajkę Przyzywacza na odpowiedni numer nocy. Jeżeli to noc 3-cia Przyzywacz wybiera gracza i Demona. Uśpij Przyzywacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
