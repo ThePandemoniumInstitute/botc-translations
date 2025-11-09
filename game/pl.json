@@ -26,7 +26,7 @@
     "alchemist-mastermind": "Alchemik-Geniusz zła nie ma umiejętności Geniusza zła, a Geniusza zła nie ma w grze.",
     "alchemist-organgrinder": "Jeżeli Alchemik ma zdolność Kataryniarza, Kataryniarz jest w grze. Jeżeli oboje są trzeźwi, oboje są pijani.",
     "alchemist-spy": "Alchemik-Szpieg nie ma umiejętności Szpiega, a Szpieg jest w grze. Po każdej egzekucji, żywy Alchemik-Szpieg może publicznie zgadnąć, który żywy gracz jest Szpiegiem. Jeżeli zgadnie poprawnie, Demon musi wybrać Szpiega tej nocy.",
-    "alchemist-summoner": "Alchemik-Przywoływacz nie dostaje blefów i wybiera, który Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie, zło wygrywa. [brak Demona]",
+    "alchemist-summoner": "Alchemik-Przyzywacz nie dostaje blefów i wybiera, który Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie, zło wygrywa. [brak Demona]",
     "alchemist-widow": "Alchemik-Wdowa nie ma umiejętności Wdowy, a Wdowa jest w grze. Po każdej egzekucji żywy Alchemik-Wdowa może publicznie zgadnąć, który żywy gracz jest Wdową. Jeżeli zgadnie poprawnie, Demon musi wybrać Wdowę tej nocy.",
     "alchemist-wraith": "Alchemik-Widmo nie ma zdolności Widma, a Widmo jest w grze. Po każdej egzekucji żywy Alchemik-Widmo może publicznie zgadnąć, który żywy gracz jest Widmem. Jeżeli zgadnie poprawnie, Demon musi wybrać Widmo tej nocy.",
     "alhadikhia-mastermind": "Jeżeli Al-Hadikhia umrze w wyniku egzekucji, a Geniusz Zła żyje, tej nocy Al-Hadikhia wybiera 3 dobrych graczy: jeżeli wszyscy 3 wybiorą życie, zło wygrywa. W przeciwnym wypadku wygrywa dobro.",
@@ -57,7 +57,7 @@
     "cannibal-zealot": "Jeżeli Kanibal otrzymuje umiejętność Zeloty, Kanibal się o tym dowiaduje.",
     "cerenovus-goblin": "Cerenovus może zdecydować, że wybrany gracz ma mieć obsesję na punkcie tego, że jest Goblinem.",
     "chambermaid-mathematician": "Pokojówka może wykryć, że Matematyk obudzi się tej nocy.",
-    "clockmaker-summoner": "Przyzywacz rejestruje się Zegarmistrzowi jako Demon.",
+    "clockmaker-summoner": "Przyzywacz pokazuje się Zegarmistrzowi jako Demon.",
     "courtier-summoner": "Jeżeli żywy Przyzywacz nie posiada umiejętności, Bajarz posiada umiejętność Przyzywacza.",
     "courtier-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
     "cultleader-pithag": "Jeżeli Jędza przemieni złego gracza w Sekciarza, nie może on zmienić się w dobrego w wyniku swojej umiejętności.",
@@ -85,16 +85,16 @@
     "hatter-leviathan": "Lewiatan nie może dołączyć do gry po 5 dniu.",
     "hatter-lilmonsta": "Jeżeli Kapelusznik umrze, a Demon wybierze Potforka, to wybiera także Sługusa, którym się staje.",
     "hatter-summoner": "Jeżeli Przyzywacz stworzy drugiego żyjącego Demona, śmierci tej nocy są arbitralne.",
-    "heretic-lleech": "Tylko jedna postać z klątwą może być w grze.",
+    "heretic-lleech": "Tylko 1 przeklęta postać może być w grze.",
     "heretic-pithag": "Tylko 1 przeklęta postać może być w grze.",
-    "heretic-spy": "Tylko jedna przeklęta postać może być w grze.",
+    "heretic-spy": "Tylko 1 przeklęta postać może być w grze.",
     "heretic-widow": "Tylko 1 przeklęta postać może być w grze.",
     "huntsman-marionette": "Jeżeli Marionetka myśli, że jest Łowczym, to Damulka została dodana podczas przygotowywania gry.",
     "innkeeper-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji postaci chronionej przez Karczmarza, dobro zwycięża.",
     "innkeeper-riot": "Jeżeli Zadyma nominuje i podda egzekucji postać chronioną przez Karczmarza, dobro wygrywa.",
     "investigator-vizier": "Bajarz nie ogłasza, że Wezyr jest w grze.",
     "kazali-marionette": "Jeżeli Marionetka miałaby być w grze, to wchodzi do gry po Demonie i musi zaczynać grę jako jego sąsiad.",
-    "kazali-summoner": "Jeżeli Przywoływacz stworzy drugiego żyjącego Demona, śmierci tej nocy są arbitralne.",
+    "kazali-summoner": "Jeżeli Przyzywacz stworzy drugiego żyjącego Demona, śmierci tej nocy są arbitralne.",
     "king-leviathan": "Jeżeli Lewiatan jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
     "king-riot": "Jeżeli Zadyma jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
     "legion-magician": "Magik budzi się z Legionem i może zarejestrować się jako zły. Legion wie, że Magik jest w grze, ale nie wie który to gracz.",
@@ -139,17 +139,17 @@
     "plaguedoctor-scarletwoman": "Jeżeli Bajarz miałby dostać umiejętność Kochanicy Diabła, otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "plaguedoctor-spy": "Jeżeli Bajarz miałby dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "plaguedoctor-wraith": "Jeżeli Bajarz miał by dostać umiejętność Upiora, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
-    "politician-vizier": "Polityk może się zarejestrować jako zły dla Wezyra.",
+    "politician-vizier": "Polityk może się pokazać jako zły dla Wezyra.",
     "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
-    "poppygrower-summoner": "Jeżeli Siewca Maku żyje 3 nocy, Przywoływacz wybiera Demona, ale nie gracza który się nim staje.",
-    "preacher-summoner": "Jeżeli żywy Przywoływacz nie posiada umiejętności, Bajarz posiada umiejętność Przywoływacza.",
+    "poppygrower-summoner": "Jeżeli Siewca Maku żyje 3 nocy, Przyzywacz wybiera Demona, ale nie gracza który się nim staje.",
+    "preacher-summoner": "Jeżeli żywy Przyzywacz nie posiada umiejętności, Bajarz posiada umiejętność Przyzywacza.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
-    "pukka-summoner": "Przywoływacz może przyzwać Pukkę 2 nocy, a nie 3-ciej.",
+    "pukka-summoner": "Przyzywacz może przyzwać Pukkę 2 nocy, a nie 3-ciej.",
     "ravenkeeper-riot": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca kruków używa swojej umiejętności, ale nie umiera.",
     "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon.",
     "riot-sage": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności, ale nie umiera.",
     "riot-soldier": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji Żołnierza, dobro wygrywa.",
-    "vizier-zealot": "Zelota może zarejestrować się jako zły dla Wezyra."
+    "vizier-zealot": "Zelota może pokazać się jako zły dla Wezyra."
   },
   "reminders": {
     "abnormal": "Niepoprawne działanie",
@@ -165,7 +165,7 @@
     "know": "Znany",
     "master": "Jaśnie pan",
     "outsider": "Outsider",
-    "registerfalsely": "Zarejestrował się Niepoprawnie?",
+    "registerfalsely": "Pokazał się Niepoprawnie?",
     "townsfolk": "Mieszczanin"
   },
   "roles": {
@@ -393,10 +393,10 @@
     "lordoftyphon": {
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]",
       "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak głęboka, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom.",
-      "name": "Tyfon"
+      "name": "Tyfaon"
     },
     "mastermind": {
-      "name": "Geniusz Zbrodni"
+      "name": "Geniusz Zła"
     },
     "mathematician": {
       "flavor": "Każdy spójny formalny system x, w którym można wykonać określoną liczbę podstawowych działań arytmetycznych, jest niezupełny; znaczy się, istnieją stwierdzenia w języku x, których nie da się udowodnić ani obalić w x. Ergo, jesteś pijany."
