@@ -97,7 +97,77 @@
     "night_info_text": "ストーリーテラーはあなたを目指しました！",
     "night_sheet": "夜間行動表",
     "npcs": "NPCを追加",
-    "prompt_clear_player": "すべてのプレイヤーキャラクターやリマインダートークンを本当に削除してよろしいですか？"
+    "prompt_clear_player": "すべてのプレイヤーキャラクターやリマインダートークンを本当に削除してよろしいですか？",
+    "prompt_clear_st": "グリモワール、およびリマインダートークンを自分だけでなく、他のプレイヤーでも初期化します。本当によろしいですか？",
+    "prompt_clear_title": "グリモワールやリマインダートークンを初期化",
+    "prompt_timer_text": "タイマーの設定時間と（任意）テキストを設定：",
+    "prompt_timer_title": "タイマーをセット",
+    "prompt_vacate_text": "ゲームが進行中です。本当に席から立ってよろしいですか？",
+    "push_to_talk": "しゃべる時は [{0}] を押してください",
+    "raise_hand": "手を上げる",
+    "request_private": "密談に誘う",
+    "reveal_grim": "グリモワールを開示する",
+    "rules": "ルールを読む",
+    "set_timer": "タイマーをセット",
+    "settings": "設定",
+    "show_grim": "グリモワールを表示する",
+    "show_town": "村の広場を表示する",
+    "show_users": "ユーザーを表示 [{0}]",
+    "storyteller_add": "ストーリーテラーになる",
+    "storyteller_remove": "ストーリーテラーを辞退",
+    "tab_app": "アプリ",
+    "tab_during_game": "ゲーム中",
+    "tab_new_game": "卓を作成",
+    "tab_playing": "プレイ中",
+    "to_day": "日中フェイズに進む",
+    "to_night": "夜間フェイズに進む",
+    "translation": "翻訳の改善点を提案",
+    "user_list": "ユーザーリスト",
+    "vacate_seat": "席を空ける",
+    "vote_history": "投票履歴"
+  },
+  "modals": {
+    "announcement": {
+      "input_session": "セッション名（任意）",
+      "input_text": "発表内容",
+      "input_title": "発表タイトル",
+      "title": "発表する"
+    },
+    "dialogue": {
+      "button_evil": "悪陣営の勝利",
+      "button_good": "善陣営の勝利",
+      "button_no": "いいえ",
+      "button_yes": "はい",
+      "close_timer": "このポップアップは{n}秒後に自動的に閉じます。",
+      "error": {
+        "add_player": "プレイヤーを追加できませんでした",
+        "add_storyteller": "ストーリーテラーを追加できませんでした",
+        "avatar": "アバターアップロードに失敗しました",
+        "avatar_generic": "アバターをアップロード中に失敗しました。",
+        "chat2_title": "チャットサーバー切断",
+        "chat_text": "チャットサーバーと切断されました。再接続中…\nエラー内容： {0}",
+        "chat_title": "チャット接続エラー",
+        "connection": "接続エラーが発生",
+        "generic": "エラーが発生",
+        "loading_title": "読み込みエラー",
+        "missing_edition_title": "エディション情報の読み込み失敗",
+        "missing_roles_title": "カスタム役職の読み込み失敗",
+        "session_general": "セッション接続に失敗。",
+        "subscription": "サブスクリプションが必要",
+        "theme_change": "テーマ変更に失敗",
+        "update": "ゲーム更新に失敗",
+        "update_game": "セッション更新に失敗",
+        "update_player": "プレイヤー更新に失敗",
+        "update_storyteller": "ストーリーテラー更新に失敗",
+        "user_title": "ユーザー更新に失敗",
+        "video_title": "ビデオ通話開始に失敗"
+      },
+      "prompt": {
+        "chat_title": "チャットサーバーを変更",
+        "join_placeholder": "セッションID",
+        "join_title": "ゲームに参加"
+      }
+    }
   },
   "pages": {
     "lobby": {
