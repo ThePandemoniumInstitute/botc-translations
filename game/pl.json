@@ -225,7 +225,7 @@
       "name": "Laborant"
     },
     "cerenovus": {
-      "name": "Kosiarz Umysłów"
+      "name": "Cerenovus"
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -313,7 +313,7 @@
       "name": "Zbir"
     },
     "gossip": {
-      "name": "Plotkarka"
+      "name": "Plotkara"
     },
     "gunslinger": {
       "name": "Rewolwerowiec"
@@ -374,7 +374,7 @@
       "name": "Kazali"
     },
     "legion": {
-      "ability": "Każdej nocy jakiś gracz może umrzeć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Rejestrujesz się także jako Sługus. [większość graczy jest Legionem]",
+      "ability": "Każdej nocy jakiś gracz może umrzeć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Pokazujesz się także jako Sługus. [większość graczy jest Legionem]",
       "name": "Legion"
     },
     "leviathan": {
