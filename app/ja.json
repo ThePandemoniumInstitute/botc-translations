@@ -1003,6 +1003,39 @@
   "user": {
     "avatar_enabled": "アバター表示中",
     "camera_enabled": "カメラ表示中",
-    "error_avatar_text": "あなたが選択したアバターが{0}MBですが、最大サイズが{1}MBです。"
+    "error_avatar_text": "あなたが選択したアバターが{0}MBですが、最大サイズが{1}MBです。",
+    "error_avatar_title": "ファイルサイズが大きすぎます",
+    "gain": "ゲイン",
+    "group_subscription": "グループサブスクリプション",
+    "level": "アカウントレベル",
+    "mic_volume": "マイク音量",
+    "new_user": "ニューユーザー",
+    "pronouns": "呼び方",
+    "registration": "登録",
+    "statistics": "統計",
+    "stats": {
+      "role": "開始キャラ\nランキング",
+      "warning": "統計が生成中…\n後でまた見てみてね！"
+    },
+    "stats_hidden": "非表示",
+    "stats_private": "非公開",
+    "stats_public": "公開",
+    "upload_avatar": "アバターをアップロード",
+    "verified": "認証されたユーザー"
+  },
+  "version": {
+    "character_distribution": "キャラクター分布",
+    "download": "{0}用の最新版をこちらでダウンロードしてインストールください。",
+    "players_alive": "{1}人中 {0}人が生きています",
+    "reload": "最新版を読み込むには、リロードするかキャッシュ消去を行ってください。",
+    "since": "{0}から",
+    "translation_disclaimer": "あなたは現在、翻訳されたバージョンを使用しています。この翻訳は、The Pandemonium Institute とは無関係な、以下のボランティアが制作・確認しています：",
+    "translation_game": "ゲームコンテンツの翻訳は、The Pandemonium Instituteが作成した公式英語ゲームルールと異なる場合があります。",
+    "update": "更新してください！",
+    "updating": "バージョン{0}に更新中…",
+    "warning_browser": "古い、または非対応ブラウザー",
+    "warning_browser2": "{0}を使用しているため、アプリで問題が起きる可能性があります。ブラウザーを更新するか、別のブラウザーに切り替えてください。FirefoxとChromeが推奨です。",
+    "warning_update": "アプリバージョン",
+    "warning_update2": "{0}が古いです。最新版は{1}です！"
   }
 }
