@@ -23,7 +23,7 @@
   "jinxes": {
     "alchemist-boffin": "Jeśli Alchemik posiada umiejętność Szalonego naukowca, nie dowiaduje się, jaką umiejętność uzyskał Demon.",
     "alchemist-marionette": "Alchemik-Marionetka nie posiada umiejętności Marionetki, a Marionetka jest w grze.",
-    "alchemist-mastermind": "Alchemik-Geniusz zła nie ma umiejętności Geniusza zła, a Geniusza zła nie ma w grze.",
+    "alchemist-mastermind": "Alchemik-Geniusz Zła nie ma umiejętności Geniusza Zła, a Geniusza Zła nie ma w grze.",
     "alchemist-organgrinder": "Jeżeli Alchemik ma zdolność Kataryniarza, Kataryniarz jest w grze. Jeżeli oboje są trzeźwi, oboje są pijani.",
     "alchemist-spy": "Alchemik-Szpieg nie ma umiejętności Szpiega, a Szpieg jest w grze. Po każdej egzekucji, żywy Alchemik-Szpieg może publicznie zgadnąć, który żywy gracz jest Szpiegiem. Jeżeli zgadnie poprawnie, Demon musi wybrać Szpiega tej nocy.",
     "alchemist-summoner": "Alchemik-Przyzywacz nie dostaje blefów i wybiera, który Demon jest w grze, ale nie który gracz nim jest. Jeśli umrze zanim to się stanie, zło wygrywa. [brak Demona]",
@@ -153,27 +153,49 @@
   },
   "reminders": {
     "abnormal": "Niepoprawne działanie",
+    "alive": "Żywy",
     "amigo": "Amigo",
+    "chosen": "Wybrany",
+    "claimed": "Twierdzi, że jest",
     "correct": "Poprawnie",
+    "cursed": "Przeklęty",
+    "dead": "Martwy",
     "drunk": "Pijak",
     "drunk1": "Pijany 1",
     "drunk2": "Pijany 2",
     "drunk3": "Pijany 3",
     "everyoneisdrunk": "Wszyscy są pijani",
+    "evil": "Zły",
+    "fear": "Zastraszony",
     "friend": "Przyjaciel",
+    "good": "Dobry",
+    "grandchild": "Wnuczek",
     "isthedrunk": "Jest Pijakiem",
     "know": "Znany",
+    "lunch": "Kolacja",
+    "mad": "Obsesja",
     "master": "Jaśnie pan",
+    "minion": "Sługus",
+    "once": "Zmieniony",
     "outsider": "Outsider",
+    "poisoned": "Zatruty",
+    "protected": "Chroniony",
     "registerfalsely": "Pokazał się Niepoprawnie?",
-    "townsfolk": "Mieszczanin"
+    "safe": "Bezpieczny",
+    "townsfolk": "Mieszczanin",
+    "twin": "Bliźniak",
+    "visitor": "Odwiedzający",
+    "whoopsie": "Ups",
+    "wrong": "Błędny"
   },
   "roles": {
     "acrobat": {
-      "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz."
+      "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz.",
+      "name": "Akrobata"
     },
     "alchemist": {
-      "flavor": "Odwiedź wnętrze Ziemi. Poprzez oczyszczenie odnajdziesz ukryty kamień. Ponad złotem leży czerwień. Kether w Malkuth."
+      "flavor": "Odwiedź wnętrze Ziemi. Poprzez oczyszczenie odnajdziesz ukryty kamień. Ponad złotem leży czerwień. Kether w Malkuth.",
+      "name": "Alchemik"
     },
     "alhadikhia": {
       "name": "Al-Hadikhia"
@@ -188,11 +210,23 @@
       "name": "Sklerotyk",
       "other": "Jeżeli trzeba, odpal umiejętność Sklerotyka."
     },
+    "angel": {
+      "name": "Anioł"
+    },
     "apprentice": {
-      "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze."
+      "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze.",
+      "name": "Czeladnik"
     },
     "artist": {
-      "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie."
+      "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie.",
+      "name": "Artysta"
+    },
+    "assassin": {
+      "flavor": "...",
+      "name": "Skrytobójca"
+    },
+    "atheist": {
+      "name": "Ateista"
     },
     "balloonist": {
       "ability": "Każdej nocy* poznajesz gracza o innym typie postaci niż poprzedniej nocy. [+0 lub +1 Outsider]",
@@ -202,15 +236,22 @@
       "other": "Pokaż gracza o innym typie postaci niż poprzednio. :reminder:"
     },
     "banshee": {
+      "name": "Banshee",
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
     "barber": {
       "name": "Balwierz"
     },
+    "barista": {
+      "name": "Barista"
+    },
     "baron": {
       "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderów]",
       "flavor": "To miasto zeszło na psy, może nie? Tania siła robocza z zagranicy... no właśnie. Do kopalni z nimi. Odrobina ciężkiej pracy nikomu jeszcze nie zaszkodziła, a jak się jakiemuś pętakowi nie podoba, to może dostać w ucho. Czysty interes, nieprawdaż?",
       "name": "Baron"
+    },
+    "beggar": {
+      "name": "Żebrak"
     },
     "bigwig": {
       "ability": "Każdy nominowany wybiera gracza: do momentu głosowania tylko on może mówić i ma obsesję, że nominowany jest dobry, inaczej może umrzeć.",
@@ -224,8 +265,26 @@
       "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
       "name": "Laborant"
     },
+    "buddhist": {
+      "name": "Buddysta"
+    },
+    "bureaucrat": {
+      "name": "Biurokrata"
+    },
+    "butcher": {
+      "name": "Rzeźnik"
+    },
+    "butler": {
+      "name": "Lokaj"
+    },
+    "cannibal": {
+      "name": "Kanibal"
+    },
     "cerenovus": {
       "name": "Cerenovus"
+    },
+    "chambermaid": {
+      "name": "Pokojówka"
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -233,8 +292,15 @@
       "flavor": "Rezerwacje tej nocy wydają się kuriozalne. Nigdy wcześniej pani Mayweather nie pokazywała się z tym nicponiem z Hudson Lane. Jednak dzisiaj zarezerwowali stolik dla dwojga. Dziwne.",
       "name": "Kucharz"
     },
+    "choirboy": {
+      "name": "Chórzysta"
+    },
+    "clockmaker": {
+      "name": "Zegarmistrz"
+    },
     "courtier": {
-      "ability": "Raz na grę, w nocy, wybierz postać: jest ona pijana przez 3 dni i 3 noce."
+      "ability": "Raz na grę, w nocy, wybierz postać: jest ona pijana przez 3 dni i 3 noce.",
+      "name": "Dworzanin"
     },
     "cultleader": {
       "ability": "Każdej nocy zmieniasz swoją przynależność na przynależność jednego ze swoich żywych sąsiadów. Jeżeli wszyscy dobrzy gracze przyłączą się do twojej sekty, twoja drużyna wygrywa.",
@@ -256,11 +322,17 @@
     "demoninfo": {
       "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Demona: Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż każdego Sługusa. Pokaż kartę *POSTACIE, KTÓRYCH NIE MA W GRZE*. Pokaż 3 żetony dobrych postaci, których nie ma w grze."
     },
+    "deviant": {
+      "name": "Dewiant"
+    },
     "devilsadvocate": {
       "flavor": "Mój klient, jeśli sprzeciw zostanie oddalony, utrzymuje niewinność z mocy faktu, iż oskarżenie nie dochowało postanowień statutu 27.B — dotyczącego niepoprawnej lub wprowadzającej w błąd koniugacji czasownika. Fakt, że dziewięciu przysięgłych zmarło zeszłej nocy, stanowi jedynie prima facie, co — jak ustanowił precedens w sprawie Wills przeciwko Thule — jest dodatkową podstawą do uniewinnienia."
     },
     "djinn": {
       "name": "Dżinn"
+    },
+    "doomsayer": {
+      "name": "Wieszcz Zagłady"
     },
     "drunk": {
       "ability": "Nie wiesz, że jesteś Pijakiem. Myślisz, że jesteś Mieszczaninem, ale nim nie jesteś.",
@@ -280,12 +352,30 @@
       "name": "Empata",
       "other": "Pokaż palcem."
     },
+    "engineer": {
+      "name": "Inżynier"
+    },
+    "exorcist": {
+      "name": "Egzorcysta"
+    },
     "fanggu": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Pierwszy Outsider, którego tak zabijesz, staje się złym Fang Gu, a ty umierasz zamiast niego. [+1 Outsider]",
       "other": "Fang Gu wybiera gracza. :reminder: Jeżeli wybrał Outsidera (tylko raz): Zamień żeton Outsidera na dodatkowy żeton Fang Gu. Uśpij Fang Gu i obudź cel. Pokaż kartę *JESTEŚ* i żeton Fang Gu i kciuk w dół. :reminder:"
     },
+    "farmer": {
+      "name": "Rolnik"
+    },
+    "fearmonger": {
+      "name": "Siewca Strachu"
+    },
     "fiddler": {
       "name": "Skrzypek"
+    },
+    "fisherman": {
+      "name": "Rybak"
+    },
+    "flowergirl": {
+      "name": "Kwiaciarka"
     },
     "fool": {
       "name": "Błazen"
@@ -298,15 +388,30 @@
       "other": "Wróżka wybiera 2 graczy. Przytaknij, jeśli któryś z nich jest Demonem (albo *PODPUCHĄ*)."
     },
     "gambler": {
-      "ability": "Każdej nocy*, wybierz gracza i odgadnij jego postać: jeżeli źle odgadniesz, umierasz."
+      "ability": "Każdej nocy*, wybierz gracza i odgadnij jego postać: jeżeli źle odgadniesz, umierasz.",
+      "name": "Hazardzista"
     },
     "gangster": {
-      "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi."
+      "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi.",
+      "name": "Gangster"
+    },
+    "gardener": {
+      "name": "Ogrodnik"
+    },
+    "general": {
+      "name": "Generał"
+    },
+    "goblin": {
+      "name": "Goblin"
     },
     "godfather": {
       "ability": "Zaczynasz grę wiedząc, którzy Outsiderzy są w grze. Jeżeli jeden umarł za dnia, wybierz gracza tej nocy: umiera. [-1 albo +1 Outsider]",
       "first": "Pokaż żetony postaci wszystkich Outsiderów, którzy są w grze.",
+      "name": "Ojciec Chrzestny",
       "other": "Jeżeli za dnia umarł Outsider, Ojciec chrzestny wybiera gracza. :reminder:"
+    },
+    "golem": {
+      "name": "Golem"
     },
     "goon": {
       "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
@@ -315,11 +420,17 @@
     "gossip": {
       "name": "Plotkara"
     },
+    "grandmother": {
+      "name": "Babcia"
+    },
     "gunslinger": {
       "name": "Rewolwerowiec"
     },
     "harlot": {
       "name": "Nierządnica"
+    },
+    "harpy": {
+      "name": "Harpia"
     },
     "hatter": {
       "ability": "Jeżeli umarłeś dzisiaj albo tej nocy, Sługusi i Demon mogą wybrać sobie nowe postacie Sługusów i Demona.",
@@ -332,8 +443,12 @@
       "flavor": "Ćśśś. Proszę być cicho. Lepiej nie przeszkadzać Bibliotekarzowi. Słyszałem, że to niezły piekielnik.",
       "name": "Piekielny Bibliotekarz"
     },
+    "heretic": {
+      "name": "Heretyk"
+    },
     "hermit": {
-      "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]"
+      "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]",
+      "name": "Pustelnik"
     },
     "highpriestess": {
       "ability": "Każdej nocy dowiadujesz się, z którym z graczy, według Bajarza, najbardziej warto porozmawiać.",
@@ -366,12 +481,22 @@
       "name": "Śledczy"
     },
     "judge": {
-      "flavor": "Uznaję oskarżonego za winnego zbrodni morderstwa, oszustwa, podpalenia, kradzieży, podszywania się pod funkcjonariusza prawa, wykonywania praktyki lekarskiej bez uprawnień, zniesławienia, królobójstwa oraz zaśmiecania."
+      "flavor": "Uznaję oskarżonego za winnego zbrodni morderstwa, oszustwa, podpalenia, kradzieży, podszywania się pod funkcjonariusza prawa, wykonywania praktyki lekarskiej bez uprawnień, zniesławienia, królobójstwa oraz zaśmiecania.",
+      "name": "Sędzia"
+    },
+    "juggler": {
+      "name": "Żongler"
     },
     "kazali": {
       "ability": "Każdej nocy* wybierz gracza: umiera. [Wybierasz, którzy gracze zostają jakimi Sługusami. -? do +? Outsiderów]",
       "flavor": "Gon(z)a7les6. Uwa$aj. Mech4niz4cj4 odwr0cona. B7Edy w 5y5tem1e. Reko{7}figur4cja.",
       "name": "Kazali"
+    },
+    "king": {
+      "name": "Król"
+    },
+    "klutz": {
+      "flavor": "Ups."
     },
     "legion": {
       "ability": "Każdej nocy jakiś gracz może zginąć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Pokazujesz się także jako Sługus. [większość graczy jest Legionem]",
@@ -609,7 +734,7 @@
       "other": "Za każde wypowiedzenie przez Yaggababble tajemnej frazy, możesz wybrać gracza. Umiera. :reminder:"
     },
     "zombuul": {
-      "ability": "Każdej nocy*, jeżeli nikt nie umarł tego dnia, wybierz gracza: umiera. Za pierwszym razem gdybyś miał umrzeć żyjesz, ale pokazujesz się jako martwy."
+      "ability": "Każdej nocy*, jeżeli nikt nie zginął tego dnia, wybierz gracza: umiera. Za pierwszym razem gdybyś miał umrzeć żyjesz, ale pokazujesz się jako martwy."
     }
   }
 }
