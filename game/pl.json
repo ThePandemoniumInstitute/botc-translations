@@ -217,9 +217,15 @@
       "flavor": "Próżność pyta: „Czy to popularne?” Tchórzostwo pyta: „Czy to bezpieczne?” Sumienie pyta: „Czy to słuszne?” Kto z nas zapyta: „Czy to prawda?”",
       "name": "Mecenas"
     },
+    "bishop": {
+      "name": "Biskup"
+    },
     "boffin": {
       "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
       "name": "Laborant"
+    },
+    "cerenovus": {
+      "name": "Kosiarz Umysłów"
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -281,6 +287,9 @@
     "fiddler": {
       "name": "Skrzypek"
     },
+    "fool": {
+      "name": "Błazen"
+    },
     "fortuneteller": {
       "ability": "Każdej nocy wybierz 2 graczy: dowiadujesz się, czy któryś z nich jest Demonem. Jeden z dobrych graczy pokazuje ci się jako Demon.",
       "first": "Wróżka wybiera 2 graczy. Przytaknij, jeśli któryś z nich jest Demonem (albo *PODPUCHĄ*).",
@@ -303,6 +312,9 @@
       "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
       "name": "Zbir"
     },
+    "gossip": {
+      "name": "Plotkarka"
+    },
     "gunslinger": {
       "name": "Rewolwerowiec"
     },
@@ -311,6 +323,7 @@
     },
     "hatter": {
       "ability": "Jeżeli umarłeś dzisiaj albo tej nocy, Sługusi i Demon mogą wybrać sobie nowe postacie Sługusów i Demona.",
+      "flavor": "\"Ja... ja naprawdę w tej chwili nie bardzo wiem, kim jestem, proszę pana. Mogłabym powiedzieć, kim byłam dziś rano, ale od tego czasu musiałam się już zmienić wiele razy.\" - Lewis Carroll, \"Alicja w Krainie Czarów\"",
       "name": "Kapelusznik",
       "other": "Jeżeli Kapelusznik umarł tego dnia lub tej nocy, obudź Sługusów i Demona, pozwól im wybrać nowe postacie (Sługusów i/lub Demona)."
     },
@@ -361,6 +374,7 @@
       "name": "Kazali"
     },
     "legion": {
+      "ability": "Każdej nocy jakiś gracz może umrzeć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Rejestrujesz się także jako Sługus. [większość graczy jest Legionem]",
       "name": "Legion"
     },
     "leviathan": {
@@ -393,7 +407,14 @@
     "lordoftyphon": {
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]",
       "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak głęboka, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom.",
-      "name": "Tyfaon"
+      "name": "Tyfaon",
+      "other": "Tyfon wybiera gracza. :reminder:"
+    },
+    "lunatic": {
+      "name": "Szaleniec"
+    },
+    "lycanthrope": {
+      "ability": "Każdej nocy* wybierz żywego gracza. Jeżeli dobry umiera, a Demon nie zabija tej nocy. Jeden z dobrych graczy rejestruje się jako zły."
     },
     "mastermind": {
       "name": "Geniusz Zła"
@@ -418,6 +439,9 @@
     "mutant": {
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony.",
       "name": "Mutant"
+    },
+    "noble": {
+      "name": "Szlachcic"
     },
     "nodashii": {
       "name": "No Dashii"
@@ -505,6 +529,9 @@
       "flavor": "これは夢。それも夢。すべて夢です。",
       "name": "Shugenja"
     },
+    "snitch": {
+      "name": "Kapuś"
+    },
     "spy": {
       "ability": "Każdej nocy zaglądasz do Grymuaru. Możesz pokazać się jako dobry i jako Mieszczanin lub Outsider, nawet po śmierci.",
       "first": "Pokaż Grymuar na tak długo, jak Szpieg potrzebuje.",
@@ -516,7 +543,9 @@
       "name": "Łowca Burz"
     },
     "summoner": {
-      "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie."
+      "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie.",
+      "name": "Przywoływacz",
+      "other": "Zamień przypominajkę Przywoływacza na odpowiedni numer nocy. Jeżeli to noc 3-cia Przywoływacz wybiera gracza i Demona. Uśpij Przywoływacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
