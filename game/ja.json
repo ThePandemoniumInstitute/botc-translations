@@ -47,7 +47,16 @@
     "nominategood": "善を告発",
     "nomoreevil": "悪なし",
     "once": "一回",
-    "townsfolk": "村人"
+    "redherring": "燻製ニシン",
+    "registerfalsely": "偽りの認識？",
+    "safe": "安全",
+    "soberhealthy": "健康・素面",
+    "somethingbad": "悪いこと",
+    "storytellerability": "ストーリーテラー能力",
+    "survivesexecution": "処刑しても生き残る",
+    "teapartytonight": "今夜はお茶会",
+    "townsfolk": "村人",
+    "turnsevil": "悪になる"
   },
   "roles": {
     "alchemist": {
