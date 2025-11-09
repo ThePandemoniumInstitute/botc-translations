@@ -680,47 +680,318 @@
       "button_gather": "プレイヤーを集める",
       "return": "グリモワールに戻る（ショートカット：{0}）",
       "script_by": "作：{0}",
-      "text_player": "開始するには、ストーリーテラーがプレイヤーを追加する必要があります。"
+      "text_player": "開始するには、ストーリーテラーがプレイヤーを追加する必要があります。",
+      "text_st": "始めるには、まずは{0}",
+      "timer_ended": "終了",
+      "title": "{0}へようこそ。"
+    },
+    "vote": {
+      "accusation": "告発",
+      "button_chat": "チャットを開く",
+      "button_clear_selection": "選択を解除",
+      "button_countdown": "カウントダウン",
+      "button_defense": "便宜へ進む",
+      "button_hand_down": "下ろす",
+      "button_hand_up": "上げる",
+      "button_mark": "マーク",
+      "button_mark_remove": "マークを解除",
+      "button_pause": "一時停止",
+      "button_reset": "リセット",
+      "button_restart": "やり直し",
+      "button_resume": "続行",
+      "button_select_player": "プレイヤーを選択",
+      "button_set_highscore": "ハイスコアを設定",
+      "button_start": "開始",
+      "choose_defense_attorney": "弁護人を選択しましょう！",
+      "countdown_go": "開始",
+      "defense": "便宜",
+      "defense_attorney": "弁護人",
+      "highscore_placeholder": "最大票数",
+      "highscore_text": "今日の最大票数を入力\n空欄の場合は生きているプレイヤーの過半数になります。",
+      "highscore_title": "最大票数を編集",
+      "majority": "{0}表で過半数|{0}表で過半数",
+      "no_majority": "過半数が不要",
+      "pointing": "{0}を指さしてる",
+      "secret": "秘密投票になります。",
+      "secret_vote": "秘密投票",
+      "votes": "{0}表で引き分け、{1}で処刑|{0}表で引き分け、{1}で処刑",
+      "warning_shortcuts": "ショートカットが無効化されています！"
+    },
+    "whisper": {
+      "muted": "このプレイヤーが音声通話でミュート・サイレンスされています。",
+      "video_muted": "このプレイヤーのカメラが一時停止、または無効化されています。"
     }
   },
   "pages": {
+    "banned": {
+      "description": "最近の行いにより、あなたのアカウントが{0}され、今後アプリでプレイできません。",
+      "description_banned": "バン",
+      "expires": "以下の日付までバンされています：",
+      "expires2": "繰り返し違反した場合は永久バンになる場合があるのでご注意ください。",
+      "footer1": "ご不明点がありましたら、{0}でご連絡ください。",
+      "footer2": "忘れないで：",
+      "footer3": "節度を持って殺し、誇りをもって葬られよう。",
+      "permanent": "あなたのアカウントは永久にバンされています。",
+      "reason": "以下の理由が添付されています：",
+      "title": "アカウントバン"
+    },
+    "clock": {
+      "description": "あなたのパソコンの時計が{0}でずれています。オンラインプレイ中に誤作動が起きる恐れがあります。{1}で時計の同期を行ってください。行ったあとにアプリをリロードしてください。",
+      "description_mins": "1分|{n}分",
+      "description_online": "オンライン",
+      "return": "アプリに戻る",
+      "title": "パソコンの時計を調整してください"
+    },
     "lobby": {
-      "free_tier_free": "無料"
+      "bootlegger_title": "注意！",
+      "bootlegger_warning": "このセッションはブートレッグのロリクを使用しています。通常のゲーム外のルールやキャラクターを使用しているので、上級者向けの卓となります。\nもしBlood on the Clocktowerの経験が浅い場合は、まずは公式台本で通常のルールやキャラクターで慣らしていくことをお勧めします。最初のプレイはトラブル・ブルイングから始めることをお勧めします。\nどのみち、ようこそ！来てくれてありがとうございます！\nこのセッションに入りますか？",
+      "button_create_game": "ゲームを作成",
+      "button_help": "ヘルプ",
+      "button_join_game": "プライベートゲームに参加",
+      "button_local_play": "ローカルプレイ",
+      "button_mod": "モデレーション",
+      "button_quit": "終了",
+      "button_settings": "設定",
+      "button_verify": "アカウント認証",
+      "characters": "キャラクター",
+      "create_game": "ゲームを作成",
+      "edition_by": "作：{author}",
+      "forced_private": "あなたは、パブリックゲームに参加できなくなっています。",
+      "free_tier_free": "無料",
+      "free_tier_patreon": "パトレオン",
+      "free_tier_unverified": "あなたは{0}のアカウントを使用しています。上記のゲームには、サブスクリプションが不要な場合は左のボタンで参加できます。自分でゲームを作成したい場合は、{1}でサブスクリプションしてください。",
+      "free_tier_verified": "あなたは{0}のアカウントを使用しています。パブリックゲームに参加するには、{1}する必要があります。自分でゲームを作成したい場合は、{2}でサブスクリプションしてください。",
+      "free_tier_verify": "アカウント認証",
+      "game": "ゲーム",
+      "language": "言語",
+      "loading": "ゲームリスト読み込み中…",
+      "no_games": "パブリックゲームが見つかりませんでした。",
+      "npcs": "NPC",
+      "page": "{total}ページ中{page}ページ目",
+      "phase": "フェイズ",
+      "players": "プレイヤー数",
+      "script": "台本",
+      "show_private": "非公開ゲームを表示",
+      "spectators": "観戦者",
+      "stats": "{0}人のユーザーが{1}個の{2}ゲームに参加しています",
+      "stats_public": "公開",
+      "storyteller": "ストーリーテラー",
+      "subscription": "サブスクリプションレベル",
+      "updating": "更新中…",
+      "welcome": "{0}へようこそ！"
+    },
+    "login": {
+      "accept": "{0}、{1}、および{2}に同意します。",
+      "description": "ログイン、またはアカウント作成をしてください：",
+      "email": "メールアドレス",
+      "error_captcha": "キャプチャーを解いてください",
+      "error_password": "パスワードが一致していません",
+      "login": "ログイン",
+      "password": "パスワード",
+      "password_confirm": "パスワード（確認）",
+      "password_reset": "登録されたメールアドレスにパスワードリセットの案内を送りました。",
+      "recover_password": "パスワードの再設定",
+      "register": "登録",
+      "subscribe": "メールマガジンに登録",
+      "title": "Blood on the Clocktower オンラインへようこそ！まだまだ更新中！",
+      "username": "ユーザー名"
+    },
+    "update": {
+      "description": "あなたは現在バージョン{0}を使用していますが、最新は{1}です。",
+      "download": "{label}の最新版はこちらでダウンロードしてください。",
+      "reload": "ページをリロード、またはブラウザーのキャッシュを消去することで更新してください。",
+      "title": "更新してください"
+    },
+    "verification": {
+      "button_resend": "コードを再送",
+      "code": "六桁のコード",
+      "description": "アカウントを認証してください。メールアドレスに認証コードを送りました。進には入力してください。登録したメールアドレスにアクセスできませんか？",
+      "email_success": "メールを送信しました。",
+      "error_429": "やり直す前に{0}秒をお待ちください。",
+      "error_disposable": "アカウント認証には、使い捨てのメールアドレスが使えません。",
+      "error_verified": "すでに認証済み",
+      "error_wrong": "認証コードが間違っています。もう一度入力してください。",
+      "link": "ここで変更できます。"
     }
   },
   "player": {
+    "menu": {
+      "alignment": "陣営を変更",
+      "character": "キャラクターを変更",
+      "chat": "密談に誘う",
+      "empty": "席を空ける",
+      "empty_text": "ゲーム中にこのプレイヤーを席から外して本当によろしいですか？",
+      "empty_title": "{0}の席を空ける",
+      "follow": "プレイヤーを追う",
+      "nominate": "自分を告発",
+      "unfollow": "プレイヤーを追わない",
+      "wake": "起こす",
+      "whisper": "テキストメッセージを送る"
+    },
     "name": {
-      "connecting": "このプレイヤーはボイスチャットに接続中です。"
+      "claim": "クリックで席を確保",
+      "connecting": "このプレイヤーはボイスチャットに接続中です。",
+      "follow": "このプレイヤーを追っています。",
+      "listening": "このプレイヤーが音声通話で聞いています。",
+      "move": "このプレイヤーを移動させる。",
+      "offline": "このプレイヤーが現在オフラインです。",
+      "remove": "このプレイヤーを外す。",
+      "remove_text": "{0}番席を本当に削除しますか？\n現在{1}が使用しています。",
+      "remove_title": "席を削除",
+      "seat_text": "（あなたにしか見えません）",
+      "seat_title": "席の名前を変更"
     },
     "overlay": {
-      "point": "このプレイヤーに指す"
-    }
+      "eyes_open": "目を開けています",
+      "night_info_received": "夜情報を受信しています",
+      "night_info_sent": "夜情報を送信しています",
+      "nominate": "このプレイヤーを告発",
+      "point": "このプレイヤーに指す",
+      "select": "このプレイヤーを選択"
+    },
+    "reminders": {
+      "add": "リマインダーを追加",
+      "edit": "{0}のリマインダーを編集",
+      "edit_placeholder": "カスタムメモ",
+      "edit_text": "{0}のカスタムメモを編集",
+      "edit_title": "リマインダーを編集",
+      "flip": "{0}のリマインダーをさかさまにする",
+      "remove": "{0}のリマインダーを外す",
+      "saved_favorite": "お気に入りに登録済み"
+    },
+    "shroud_add": "この死亡幕はまだプレイヤーに見えません。日中にクリックすることで公開できます。",
+    "shroud_remove": "この死亡幕はまだプレイヤーに見えています。日中にまたクリックすることで外せます。",
+    "toggle_status": "状態をトグル"
   },
   "session": {
     "access": "アクセス",
+    "copy": "クリックでコピーできます",
     "created": "{0}分前、{1}に作成された。",
-    "title_create": "ゲームを作成する"
+    "free": "どなたでも参加できます",
+    "language": "チャット言語",
+    "locked": "ストーリーテラーとプレイヤー",
+    "locked_text": "席を確保しているプレイヤーと現在のストーリーテラーしか参加できません。",
+    "name_placeholder": "ゲームのセッション名",
+    "open_text": "誰でもセッションに参加できます。",
+    "prompt_public_text": "このゲームセッションを公開して本当によろしいですか？\n誰でもセッションが見えて、参加できるようになります。",
+    "prompt_public_title": "セッションをパブリックに公開",
+    "server": "チャットサーバー：",
+    "server_name": "名前",
+    "server_stats": "ユーザー数 {0}人、サーバー負荷 {1}",
+    "session_name": "セッション名",
+    "subscription_needed": "サブスクリプションが必要",
+    "tags": "パブリックゲームのタグ",
+    "title_create": "ゲームを作成する",
+    "title_current": "現在のゲームセッション",
+    "visibility": "公開範囲",
+    "visibility_private": "プライベート",
+    "visibility_public": "パブリック"
   },
   "storyteller": {
+    "connecting": "音声通話にストーリーテラーが接続中。",
+    "follow": "ストーリーテラーを追う",
     "following": "このストーリーテラーをフォローしています。",
     "listening": "ストーリーテラーはボイスチャットで聞いています。",
     "offline": "ストリーテラーはオフラインです。",
-    "title": "ストーリーテラー"
+    "prompt_grim_text": "新規ユーザーがパブリックゲームでグリモワールアクセスを要求できません。\nこの機能を利用するには、まずはもう少しゲームに参加してください。",
+    "prompt_grim_title": "グリモワールアクセス要求に失敗",
+    "remove": "ストーリーテラーを外す",
+    "request_grim": "グリモワールアクセスを要求",
+    "title": "ストーリーテラー",
+    "unfollow": "ストーリーテラーを追わない"
   },
   "tabs": {
+    "bluffs": {
+      "drag": "このタブを画面上の任意な位置にドラッグして配置できます。"
+    },
+    "character": {
+      "download": "台本のJSONをダウンロード",
+      "error_popout": "ウィンドウ作成に失敗",
+      "error_save": "ファイルの保存に失敗",
+      "jinxes": "ジンクス",
+      "other_nights": "最初の夜\nではない",
+      "popout": "キャラクタータブをポップアウト"
+    },
+    "characters": {
+      "title": "キャラクター"
+    },
     "chat": {
+      "accept": "応じる",
+      "accept_request": "{0}との密談に応じる",
+      "cancel": "密談要請をキャンセル",
+      "cancel_request": "{0}との密談要請をキャンセル",
       "channels": {
+        "bmr_0": "酒場",
+        "bmr_1": "小屋",
+        "bmr_2": "沼地",
+        "bmr_3": "農場",
+        "bmr_4": "キャラバン",
+        "custom_0": "ポーション屋",
         "custom_1": "塔",
+        "custom_2": "大聖堂",
+        "custom_3": "キャンプファイヤー",
+        "custom_4": "川辺",
+        "snv_0": "ハーブ園",
+        "snv_1": "グリーンハウス",
+        "snv_2": "洞窟",
+        "snv_3": "寺院",
+        "snv_4": "サーカスのテント",
+        "tb_0": "修道院",
+        "tb_1": "会堂",
+        "tb_2": "墓地",
+        "tb_3": "図書館",
         "tb_4": "研究室"
       },
-      "spectator": "観客者"
+      "chats": "チャット",
+      "following": "このプレイヤーを追っています。",
+      "incoming": "受信中",
+      "leave_private": "密談を抜ける",
+      "leave_room": "部屋を退出",
+      "night": "夜になりました…",
+      "nomination": "プレイヤーが告発されました！",
+      "outgoing": "送信中",
+      "request_private": "密談に誘う",
+      "requests": "密談要請",
+      "reset_position": "位置をリセット",
+      "spectator": "観客者",
+      "title": "通話"
+    },
+    "npcs": {
+      "remove_fabled": "伝説キャラクターを外す",
+      "remove_loric": "奇譚キャラクターを外す",
+      "title": "NPC"
     },
     "text": {
+      "channels": {
+        "private": "密談",
+        "public": "公開",
+        "spectator": "観戦者",
+        "system": "セッション"
+      },
+      "message_blocked": "届いていません",
+      "message_to": "宛先",
+      "prompt_private": "密談",
+      "prompt_public": "公開チャット",
       "prompt_spectator": "観客者チャット",
+      "prompt_system": "システムメッセージ",
+      "prompt_user": "{0}へ",
       "system": {
+        "death": "{0}が死亡しました。",
+        "end_evil": "ゲームが終了し、悪チームの勝利です！",
+        "end_good": "ゲームが終了し、善チームの勝利！",
+        "grim_deny": "{0}のグリモワールアクセスが拒否されました。",
+        "grim_receive": "{0}にグリモワールアクセスが付与されました。",
+        "grim_remove": "{0}のグリモワールアクセスが解除されました。",
+        "grim_request": "{0}がグリモワールアクセスを要求しました。",
+        "join": "{0}がゲームに参加しました。",
+        "leave": "{0}がゲームから抜けました。",
+        "phase": "{0}が開始しました。",
+        "revive": "{0}が復活しました。",
+        "seat_claim": "{0}が{1}番席に座りました。",
+        "seat_empty": "{0}が{1}番席から外されました。",
         "seat_vacate": "{0}が座席{1}を立ち上がった。",
         "signal": "{0}が夜の合図を{1}に送信した。",
-        "start": "ゲームスタート！キャラクターが選手全員に送信されました。",
+        "start": "ゲームスタート！キャラクターがプレイヤーに送信されました！",
         "storyteller_add": "{0}がストーリーテラーになりました。",
         "storyteller_remove": "{0}がストリーテラーをやめました。",
         "vote": "{0}がお化けの投票を使用しました。"
@@ -728,5 +999,10 @@
       "title": "テキスト",
       "tooltip": "受信者{1}との{0}コの未読メッセージを見せる"
     }
+  },
+  "user": {
+    "avatar_enabled": "アバター表示中",
+    "camera_enabled": "カメラ表示中",
+    "error_avatar_text": "あなたが選択したアバターが{0}MBですが、最大サイズが{1}MBです。"
   }
 }
