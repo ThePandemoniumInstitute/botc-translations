@@ -102,7 +102,7 @@
     "plaguedoctor-spy": "Jeżeli Bajarz miałby dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
-    "ravenkeeper-riot": "Każdej nocy* Zamieszki wybierają dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca Kruków używa swojej umiejętności ale nie umiera.",
+    "ravenkeeper-riot": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca kruków używa swojej umiejętności, ale nie umiera.",
     "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon."
   },
   "reminders": {
@@ -396,10 +396,10 @@
       "ability": "1 z graczy jest pijany, nawet po twojej śmierci. Jeżeli zgadniesz (raz), kto to jest, dowiesz się, który gracz jest Demonem, jeśli zgadniesz niepoprawnie, dostaniesz fałszywe informacje."
     },
     "ravenkeeper": {
-      "ability": "Jeżeli umrzesz w nocy, zostaniesz obudzony aby wybrać gracza: poznajesz jego postać.",
-      "flavor": "Moje ptaki mnie pomszczą! Lećcie! Lećcie, moje słodkie i oddane zwierzaki! Do dworu i nad rzekę! Nad alejki i na salony! Lećcie!",
-      "name": "Hodowca Kruków",
-      "other": "Jeżeli Hodowca Kruków umarł tej nocy, Hodowca Kruków wybiera gracza. Pokaż żeton postaci tego gracza."
+      "ability": "Jeżeli umrzesz w nocy, zostaniesz obudzony aby wybrać gracza: poznasz jego postać.",
+      "flavor": "Moje ptaki mnie pomszczą! Lećcie! Lećcie, moje słodkie i oddane zwierzaki! Do dworu i nad rzekę! Nad uliczki i na salony! Lećcie!",
+      "name": "Hodowca kruków",
+      "other": "Jeżeli Hodowca kruków umarł tej nocy, Hodowca kruków wybiera gracza. Pokaż żeton postaci tego gracza."
     },
     "recluse": {
       "ability": "Możesz pokazywać się jako zły oraz jako Sługus lub Demon, nawet po śmierci.",
@@ -464,8 +464,8 @@
       "other": "Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza."
     },
     "virgin": {
-      "ability": "Gdy jesteś nominowana po raz pierwszy, jeżeli nominował cię Mieszczanin, zostaje on natychmiast stracony.",
-      "flavor": "Jestem czysta. Niech ci, którzy są bez grzechu, ukorzą się i cierpią za mnie. Moja reputacja nie zostanie splamiona waszymi oskarżeniami pełnymi jadu.",
+      "ability": "Gdy zostaniesz nominowany po raz pierwszy, jeżeli nominował cię Mieszczanin, zostaje on natychmiast stracony.",
+      "flavor": "Jestem czysta. Niech ci, którzy są bez grzechu, ukorzą się i cierpią za mnie. Moja reputacja nie zostanie splamiona waszymi pełnymi jadu oskarżeniami.",
       "name": "Dziewica"
     },
     "washerwoman": {
