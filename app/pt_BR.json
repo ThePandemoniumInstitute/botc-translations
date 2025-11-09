@@ -363,6 +363,10 @@
       "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP dessa maneira. The Pandemonium Institute não tem controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
       "nomination": {
+        "bigwig": {
+          "text": "Cada nomeado escolhe um jogador: até a votação, apenas o jogador escolhido pode falar & deve alucinar que o nomeado é do bem, ou pode morrer.",
+          "title": "Big Wig"
+        },
         "focus": {
           "text": "O jogador nomeado tem a atenção do grupo."
         },
@@ -723,6 +727,7 @@
     "vote": {
       "accusation": "Acusação",
       "button_chat": "Abrir para conversas",
+      "button_clear_selection": "Apagar seleção",
       "button_countdown": "Contagem regressiva",
       "button_defense": "Ir para defesa",
       "button_hand_down": "ABAIXAR",
