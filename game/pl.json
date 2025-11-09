@@ -72,7 +72,7 @@
     "hatter-lilmonsta": "Jeżeli Kapelusznik umrze, a Demon wybierze Potforka, to wybiera także Sługusa, którym się staje.",
     "hatter-summoner": "Jeżeli Przyzywacz stworzy drugiego żyjącego Demona, śmierci tej nocy są arbitralne.",
     "heretic-lleech": "Tylko jedna postać z klątwą może być w grze.",
-    "heretic-spy": "Tylko jedna postać z Jinxem może być w grze.",
+    "heretic-spy": "Tylko jedna przeklęta postać może być w grze.",
     "huntsman-marionette": "Jeżeli Marionetka myśli, że jest Łowczym, to Damulka została dodana podczas przygotowywania gry.",
     "innkeeper-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji postaci chronionej przez Karczmarza, dobro zwycięża.",
     "investigator-vizier": "Bajarz nie ogłasza, że Wezyr jest w grze.",
@@ -91,15 +91,15 @@
     "lilmonsta-vizier": "Jeżeli Wezyr opiekuje się Potforkiem, to umiera od egzekucji.",
     "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
     "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
-    "magician-spy": "Jeżeli Szpieg widzi Grymuar, to żetony Demona i Magika są usuwane.",
+    "magician-spy": "Kiedy Szpieg podgląda Grymuar, żetony Demona i Magika należy usunąć.",
     "monk-riot": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
-    "ogre-spy": "Szpieg rejestruje się jako zły Ogrowi.",
+    "ogre-spy": "Szpieg pokazuje się Ogrowi jako zły.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
     "plaguedoctor-scarletwoman": "Jeżeli Bajarz miałby dostać umiejętność Kochanicy Diabła, otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
-    "plaguedoctor-spy": "Jeżeli Bajarz miał by dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
-    "poppygrower-spy": "Jeżeli Siewca Maku ma swoją umiejętność, Szpieg nie dostaje dostępu do Grymuaru.",
+    "plaguedoctor-spy": "Jeżeli Bajarz miałby dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
+    "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia."
   },
   "reminders": {
@@ -123,7 +123,7 @@
       "other": "Jeżeli trzeba, odpal umiejętność Sklerotyka."
     },
     "apprentice": {
-      "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze nie."
+      "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze."
     },
     "artist": {
       "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie."
@@ -250,7 +250,7 @@
     },
     "imp": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Jeżeli zabijesz w ten sposób siebie, Sługus staje się Chochlikiem.",
-      "flavor": "Musimy utrzymywać nasze umysły ostre i nasze miecze ostrzejsze. Zło kroczy między nami i nie zatrzyma się przed niczym aby zniszczyć dobrych, prostych ludzi zamieniając nasze porządne miasto w ruinę. Nie ufajcie nikomu. Ale, jeśli zaufać komuś musicie, zaufajcie mi.",
+      "flavor": "Musimy zachować trzeźwość umysłu i gotowość oręża. Zło kroczy między nami i nie zatrzyma się przed niczym aby zniszczyć dobrych, prostych ludzi, sprowadzając zagładę na nasze wspaniałe miasto. Nie ufajcie nikomu. Ale, jeśli zaufać komuś musicie, zaufajcie mi.",
       "name": "Chochlik",
       "other": "Chochlik wybiera gracza. :reminder: Jeżeli Chochlik wybrał siebie: Zamień żeton żyjącego Sługusa na jeden zapasowy żeton Chochlika. Uśpij dotychczasowego Chochlika. Obudź nowego. Pokaż kartę *JESTEŚ* i żeton Chochlika."
     },
@@ -300,13 +300,13 @@
     },
     "lordoftyphon": {
       "ability": "Każdej nocy wybierz gracza: umiera. [Złe postacie siuedzą rzędzie. Ty siedzisz pośrodku. +1 Sługus. -? do +? Outsiderów]",
-      "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak dogłębna, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom."
+      "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak głęboka, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom."
     },
     "minioninfo": {
       "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Sługusów: Pokaż kartę *TO JEST DEMON*. Wskaż Demona. Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż innych Sługusów."
     },
     "minstrel": {
-      "flavor": "Usłyszę cię, choć nade mną stąpasz lekko... I wszystkie sny staną się cieplejsze, słodsze... Jeśli tylko nie zapomnisz powiedzieć, że mnie kochasz... Będę spał spokojnie, dopóki nie przyjdziesz do mnie.",
+      "flavor": "Usłyszę cię, choć nade mną stąpasz lekko... I wszystkie me sny staną się cieplejsze, słodsze... Jeśli tylko nie zapomnisz powiedzieć, że mnie kochasz... Będę spał spokojnie, dopóki nie przyjdziesz do mnie.",
       "name": "Minstrel"
     },
     "monk": {
@@ -345,7 +345,7 @@
       "other": "Jędza wybiera gracza i postać. Jeżeli wybranej postaci nie ma w grze: Uśpij Jędzę. Obudź cel. Pokaż kastę *JESTEŚ* i jego nowy żeton postaci."
     },
     "professor": {
-      "flavor": "Proces jest prosty. Zamocuj hydrauliczny konfabulator to zmodyfikowanego wzmacniacza matrycy chi, dodaj 20 ml pseudorafiny, utrzymuj poziomy Z powyżej 20% i twój mąż będzie cały i zdrów. Teraz potrzebujemy tylko pioruna."
+      "flavor": "Procedura jest prosta. Zamocuj hydrauliczny konfabulator do zmodyfikowanego wzmacniacza matrycy chi, dodaj 20 ml pseudodorafiny, utrzymuj poziom Z powyżej 20%, a twój mąż będzie cały i zdrów. Teraz potrzebujemy tylko pioruna."
     },
     "pukka": {
       "name": "Pukka"
@@ -369,10 +369,10 @@
     },
     "spy": {
       "ability": "Każdej nocy zaglądasz do Grymuaru. Możesz pokazać się jako dobry i jako Mieszczanin lub Outsider, nawet po śmierci.",
-      "first": "Pokaż Grymuar na tak długo jak Szpieg potrzebuje.",
-      "flavor": "Każdy gorzelnik warty swego trunku wie, że żadna mikstura nie nabawia tylu kłopotów, niż ta która sprawia że szpiedzy się mnożą.",
+      "first": "Pokaż Grymuar na tak długo, jak Szpieg potrzebuje.",
+      "flavor": "Każdy gorzelnik warty swego trunku wie, że żadna mikstura nie powoduje więcej kłopotów niż ta, która sprawia, że szpiedzy się mnożą.",
       "name": "Szpieg",
-      "other": "Pokaż Grymuar na tak długo jak Szpieg potrzebuje."
+      "other": "Pokaż Grymuar na tak długo, jak Szpieg potrzebuje."
     },
     "summoner": {
       "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie."
