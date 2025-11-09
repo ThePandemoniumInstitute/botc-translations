@@ -330,7 +330,7 @@
     "hellslibrarian": {
       "ability": "Coś złego może się przydarzyć komuś, kto rozmawia po tym, jak Bajarz poprosił o ciszę.",
       "flavor": "Ćśśś. Proszę być cicho. Lepiej nie przeszkadzać Bibliotekarzowi. Słyszałem, że to niezły piekielnik.",
-      "name": "Piekielny bibliotekarz"
+      "name": "Piekielny Bibliotekarz"
     },
     "hermit": {
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]"
@@ -374,7 +374,7 @@
       "name": "Kazali"
     },
     "legion": {
-      "ability": "Każdej nocy jakiś gracz może umrzeć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Pokazujesz się także jako Sługus. [większość graczy jest Legionem]",
+      "ability": "Każdej nocy jakiś gracz może zginąć. Egzekucje nie dochodzą do skutku, jeżeli tylko zło głosowało. Pokazujesz się także jako Sługus. [większość graczy jest Legionem]",
       "name": "Legion"
     },
     "leviathan": {
@@ -518,7 +518,7 @@
     "scarletwoman": {
       "ability": "Jeżeli żyje 5 lub więcej graczy, a Demon ginie, stajesz się Demonem. (Podróżnicy się nie liczą)",
       "flavor": "Pokazałeś mi sekrety Rady Purpurowego Ognia. Legliśmy razem w ogniu i pożądaniu i bestialskiej komunii, jestem twą wieczną służką. Ale tej nocy, moje kochanie, jam jest twoją panią.",
-      "name": "Kochanica diabła",
+      "name": "Kochanica Diabła",
       "other": "Jeżeli Kochanica diabła stała się Demonem, pokaż kartę *JESTEŚ* i żeton Demona."
     },
     "shabaloth": {
@@ -545,7 +545,7 @@
     "summoner": {
       "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie.",
       "name": "Przyzywacz",
-      "other": "Zamień przypominajkę Przyzywacza na odpowiedni numer nocy. Jeżeli to noc 3-cia Przyzywacz wybiera gracza i Demona. Uśpij Przyzywacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
+      "other": "Zamień przypominajkę Przyzywacza na odpowiedni numer nocy. Jeżeli to noc 3-cia, Przyzywacz wybiera gracza i Demona. Uśpij Przyzywacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
@@ -556,7 +556,7 @@
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
-      "first": "Jeśli tej nocy zmarł gracz, pokaż mu kartę informacyjną \"JESTEŚ\", żeton postaci i kciuk do góry bądź w dół."
+      "first": "Jeśli tej nocy zmarł gracz, pokaż mu kartę informacyjną *JESTEŚ*, żeton postaci i kciuk do góry bądź w dół (dobry/zły)."
     },
     "towncrier": {
       "name": "Krzykacz Miejski"
