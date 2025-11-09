@@ -66,14 +66,14 @@
     "engineer-summoner": "Jeżeli żywy Przywoływacz zostanie usunięty z gry, Bajarz ma umiejętność Przywoływacza.",
     "eviltwin-plaguedoctor": "Jeżeli Bajarz ma otrzymać umiejętność Złego Bliźniaka, któryś z graczy staje się Złym Bliźniakiem.",
     "exorcist-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
-    "exorcist-riot": "Jeżeli Rozróba nominowała i poddała egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
+    "exorcist-riot": "Jeżeli Zadyma nominuje i podda egzekucji gracza wybranego przez Egzorcystę, dobro wygrywa.",
     "exorcist-yaggababble": "Jeżeli Egzorcysta wybrał Yaggababble, Yaggababble nie zabija tej nocy.",
     "fanggu-scarletwoman": "Jeśli w grze byłyby dwa Demony, z których jeden był Kochanicą diabła, Kochanica diabła pozostaje Kochanicą diabła.",
     "farmer-leviathan": "Każdej nocy* Lewiatan wybiera żywego dobrego gracza (innego niż poprzedniej nocy): wybrany Farmer używa swojej umiejętności, ale nie umiera.",
-    "farmer-riot": "Każdej nocy* Zamieszki wybierają żywego dobrego gracza (innego niż poprzedniej nocy): Farmer, jeśli wybrany, używa swojej umiejętności ale nie umiera.",
+    "farmer-riot": "Każdej nocy* Zadyma wybiera żywego dobrego gracza (innego niż poprzedniej nocy): wybrany Farmer używa swojej umiejętności, ale nie umiera.",
     "goon-pithag": "Jeżeli Jędza przemieni złego gracza w Zbira, nie może on zmienić się w dobrego w wyniku swojej umiejętności.",
     "grandmother-leviathan": "Jeśli Lewiatan jest w grze i Wnuczek umrze przez egzekucję, zło wygrywa.",
-    "grandmother-riot": "Jeśli Rewolta jest w grze i Wnuczek umrze przez egzekucję, zło wygrywa.",
+    "grandmother-riot": "Jeśli Zadyma jest w grze, a Wnuczek umrze przez egzekucję, zło wygrywa.",
     "hatter-legion": "Jeżeli zostanie stworzony Legion, wszyscy źli gracze stają się Legionem. Jeżeli Legion jest w grze, Kapelusznik nie ma umiejętności.",
     "hatter-leviathan": "Lewiatan nie może dołączyć do gry po 5 dniu.",
     "hatter-lilmonsta": "Jeżeli Kapelusznik umrze, a Demon wybierze Potforka, to wybiera także Sługusa, którym się staje.",
@@ -82,10 +82,10 @@
     "heretic-spy": "Tylko jedna przeklęta postać może być w grze.",
     "huntsman-marionette": "Jeżeli Marionetka myśli, że jest Łowczym, to Damulka została dodana podczas przygotowywania gry.",
     "innkeeper-leviathan": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji postaci chronionej przez Karczmarza, dobro zwycięża.",
-    "innkeeper-riot": "Jeżeli Zamieszki nominowały i poddały egzekucji postać chronioną przez Karczmarza, dobro wygrywa.",
+    "innkeeper-riot": "Jeżeli Zadyma nominuje i podda egzekucji postać chronioną przez Karczmarza, dobro wygrywa.",
     "investigator-vizier": "Bajarz nie ogłasza, że Wezyr jest w grze.",
     "king-leviathan": "Jeżeli Lewiatan jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
-    "king-riot": "Jeżeli Zamieszki są w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
+    "king-riot": "Jeżeli Zadyma jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
     "leviathan-mayor": "Jeżeli Lewiatan i Burmistrz są żywi 5-tego dnia i nie nastąpi wtedy egzekucja, dobro wygrywa.",
     "leviathan-monk": "Jeżeli Lewiatan nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "leviathan-pithag": "Lewiatan nie może wejść do gry po 5 dniu.",
@@ -101,7 +101,7 @@
     "lleech-mastermind": "Jeżeli Geniusz zła żyje, a żywiciel Pijawy umrze przez egzekucję, Pijawa przeżywa, ale traci swoją umiejętność.",
     "lleech-slayer": "Jeżeli Pogromca strzeli w żywiciela Pijawy, żywiciel umiera.",
     "magician-spy": "Kiedy Szpieg podgląda Grymuar, żetony Demona i Magika należy usunąć.",
-    "mayor-riot": "Burmistrz może wybrać aby przerwać zamieszki. Jeżeli to zrobi gdy tylko jedne Zamieszki żyją, dobro wygrywa. W innym przypadku wygrywa zło.",
+    "mayor-riot": "Burmistrz może zdecydować o przerwaniu zadymy. Jeżeli zrobi to przy jednej żywej Zadymie, dobro wygrywa. W innym przypadku wygrywa zło.",
     "monk-riot": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "ogre-recluse": "Jeżeli Odludek pokazał się Ogrowi jako zły, Ogr dowiaduje się, że jest zły.",
@@ -114,8 +114,8 @@
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
     "ravenkeeper-riot": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Hodowca kruków używa swojej umiejętności, ale nie umiera.",
     "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon.",
-    "riot-sage": "Każdej nocy* Zamieszki wybierają dobrego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności ale nie umiera.",
-    "riot-soldier": "Jeżeli Zamieszki nominują i doprowadza do egzekucji Żołnierza, dobro wygrywa."
+    "riot-sage": "Każdej nocy* Zadyma wybiera dobrego gracza (innego niż poprzednich nocy): wybrany Mędrzec używa swojej umiejętności, ale nie umiera.",
+    "riot-soldier": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji Żołnierza, dobro wygrywa."
   },
   "reminders": {
     "abnormal": "Błędnie",
@@ -440,9 +440,9 @@
       "name": "Odludek"
     },
     "riot": {
-      "ability": "3-ciego dnia Sługusi stają się Zamieszkami, a nominowani gracze umierają od razu, ale natychmiast nominują kogoś żywego. To się musi odbyć.",
+      "ability": "3-ciego dnia Sługusi stają się Zadymą, a nominowani gracze umierają od razu, ale natychmiast nominują kogoś żywego. Jest to obowiązkowe.",
       "flavor": "Larga vida a la revolución! Mi revolucion!",
-      "name": "Zamieszki"
+      "name": "Zadyma"
     },
     "sailor": {
       "ability": "Każdej nocy wybierz gracza: jeden z was jest pijany do zmierzchu. Nie możesz umrzeć."
