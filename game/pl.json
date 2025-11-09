@@ -118,9 +118,9 @@
     "riot-soldier": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji Żołnierza, dobro wygrywa."
   },
   "reminders": {
-    "abnormal": "Błędnie",
+    "abnormal": "Niepoprawne działanie",
     "amigo": "Amigo",
-    "correct": "Prawidłowo",
+    "correct": "Poprawnie",
     "drunk": "Pijak",
     "drunk1": "Pijany 1",
     "drunk2": "Pijany 2",
@@ -128,8 +128,8 @@
     "everyoneisdrunk": "Wszyscy są pijani",
     "friend": "Przyjaciel",
     "isthedrunk": "Jest Pijakiem",
-    "know": "Wie",
-    "master": "Pan",
+    "know": "Znany",
+    "master": "Jaśnie pan",
     "outsider": "Outsider",
     "townsfolk": "Mieszczanin"
   },
@@ -184,7 +184,7 @@
     },
     "boffin": {
       "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
-      "name": "Szalony Naukowiec"
+      "name": "Laborant"
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -272,7 +272,7 @@
       "name": "Rewolwerowiec"
     },
     "harlot": {
-      "name": "Harlota"
+      "name": "Nierządnica"
     },
     "hatter": {
       "ability": "Jeżeli umarłeś dzisiaj albo tej nocy, Sługusi i Demon mogą wybrać sobie nowe postacie Sługusów i Demona.",
@@ -490,7 +490,7 @@
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
     },
     "towncrier": {
-      "name": "Orędownik"
+      "name": "Krzykacz Miejski"
     },
     "undertaker": {
       "ability": "Każdej nocy* dowiadujesz się, jaka postać zmarła dziś w wyniku egzekucji.",
