@@ -52,11 +52,14 @@
       }
     },
     "title": "「ブラッド・オン・ザ・クロックタワー」オンライン",
+    "trademark": "\"Blood on the Clocktower\"はSteven MedwayおよびThe Pandemonium Instituteの商標です。",
     "unnamed_user": "匿名ユーザー"
   },
   "grimoire": {
     "abilities": {
-      "grimoire": "魔導書を見せる",
+      "distribute-roles": "役職を配布",
+      "ghost-votes": "幽霊票を戻す",
+      "grimoire": "グリモワールを見せる",
       "open-eyes": "目を開く・閉じる",
       "pointing": "選手を選択する"
     },
