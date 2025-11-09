@@ -39,12 +39,12 @@
     "baron-heretic": "Tylko 1 przeklęta postać może być w grze.",
     "baron-plaguedoctor": "Jeżeli Bajarz zdobył umiejętność Barona, maksymalnie dwóch graczy staje się Outsiderami.",
     "boffin-cultleader": "Jeżeli Demon ma zdolność Sekciarza, nie może on zmienić się w dobrego w wyniku działania tej umiejętności.",
-    "boffin-drunk": "Jeżeli Demon miał by mieć umiejętność Pijaka, Szalony Naukowiec wybiera gracza grającego Mieszczaninem, aby miał tą zdolność.",
+    "boffin-drunk": "Demon nie może mieć umiejętności Pijaka.",
     "boffin-goon": "Jeśli Demon miał by mieć umiejętność Zbira, nie może on zmienić się w dobrego w wyniku tej umiejętności.",
     "boffin-heretic": "Demon nie może mieć umiejętności Heretyka.",
     "boffin-ogre": "Demon nie może mieć umiejętności Ogra.",
     "boffin-politician": "Demon nie może mieć umiejętności Polityka.",
-    "boffin-villageidiot": "Jeżeli w grze jest zbędny token, Szalony Naukowiec może dać Demonowi umiejętność Wioskowego Idioty.",
+    "boffin-villageidiot": "Jeżeli w grze jest zbędny żeton, Szalony naukowiec może dać Demonowi umiejętność Wioskowego głupka.",
     "bountyhunter-kazali": "Jeżeli Kazali zmieni Łowcę Nagród w Sługusa to wtedy nie powstaje zły Mieszczanin.",
     "butler-cannibal": "Jeżeli Kanibal otrzymuje umiejętność Lokaja, Kanibal się o tym dowiaduje.",
     "butler-organgrinder": "Jeśli Kataryniarz powoduje głosowanie z zamkniętymi oczami, Lokaj może podnieść rękę podczas głosowania, ale jego głos się liczy tylko, gdy jego pan także zagłosował.",
@@ -94,7 +94,7 @@
     "magician-spy": "Kiedy Szpieg podgląda Grymuar, żetony Demona i Magika należy usunąć.",
     "monk-riot": "Jeżeli Zadyma nominuje i doprowadzi do egzekucji gracza chronionego przez Mnicha, dobro wygrywa.",
     "ogre-pithag": "Jeżeli Jędza zamieni złego gracza w Ogra, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
-    "ogre-recluse": "Jeżeli Odludek zarejestruje się jako zły dla Ogra, Ogr dowiaduje się że jest zły.",
+    "ogre-recluse": "Jeżeli Odludek pokazał się Ogrowi jako zły, Ogr dowiaduje się, że jest zły.",
     "ogre-spy": "Szpieg pokazuje się Ogrowi jako zły.",
     "pithag-politician": "Jeżeli Jędza zamieni złego gracza w Polityka, to nie może on zmienić się w dobrego przy pomocy swojej umiejętności.",
     "pithag-villageidiot": "Jeżeli są wolne żetony, to Jędza może stworzyć kolejnego Wioskowego głupka. Jeżeli tak się stało, to pijany Wioskowy głupek może się zmienić.",
@@ -102,7 +102,7 @@
     "plaguedoctor-spy": "Jeżeli Bajarz miałby dostać umiejętność Szpiega, to otrzymuje ją jeden ze Sługusów i się o tym dowiaduje.",
     "poppygrower-spy": "Jeżeli Siewca maku ma swoją umiejętność, Szpieg nie dostaje wglądu do Grymuaru.",
     "preacher-vizier": "Jeżeli Wezyr utraci swoją umiejętność, dowiaduje się o tym i nie może zginąć w ciągu dnia.",
-    "recluse-sage": "Odludek może się zarejestrować jako Demon dla Mędrca."
+    "recluse-sage": "Odludek może pokazać się Mędrcowi jako Demon."
   },
   "reminders": {
     "amigo": "Amigo",
@@ -110,7 +110,7 @@
     "drunk1": "Pijany 1",
     "drunk2": "Pijany 2",
     "drunk3": "Pijany 3",
-    "everyoneisdrunk": "Każdy Jest Pijany",
+    "everyoneisdrunk": "Wszyscy są pijani",
     "friend": "Przyjaciel",
     "isthedrunk": "Jest Pijakiem",
     "outsider": "Outsider",
@@ -118,7 +118,7 @@
   },
   "roles": {
     "acrobat": {
-      "ability": "Każdej nocy* wybierz gracza: jeżeli są lub staną się pijani lub zatruci tej nocy, umierasz."
+      "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz."
     },
     "alhadikhia": {
       "name": "Al-Hadikhia"
@@ -160,7 +160,7 @@
       "name": "Mecenas"
     },
     "boffin": {
-      "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej nie będącej w grze postaci. Oboje wiecie którą."
+      "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką."
     },
     "chef": {
       "ability": "Zaczynasz grę wiedząc, ile par złych graczy siedzi obok siebie.",
@@ -198,8 +198,8 @@
       "name": "Dżinn"
     },
     "drunk": {
-      "ability": "Nie wiesz, że jesteś pijakiem. Myślisz, że jesteś Mieszczaninem, ale nim nie jesteś.",
-      "flavor": "Ja pijam tylko *hic* dla towarzystwa, moja droga. Przyznam, że jestem *beek* bardzo towarzyski.",
+      "ability": "Nie wiesz, że jesteś Pijakiem. Myślisz, że jesteś Mieszczaninem, ale nim nie jesteś.",
+      "flavor": "Ja pijam tylko *hep* dla towarzystwa, moja droga. Przyznam, że jestem *beek* bardzo towarzyski.",
       "name": "Pijak"
     },
     "duchess": {
@@ -241,7 +241,7 @@
       "other": "Jeżeli za dnia umarł Outsider, Ojciec chrzestny wybiera gracza. :reminder:"
     },
     "goon": {
-      "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę (dobry/zły).",
+      "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
       "name": "Zbir"
     },
     "hatter": {
@@ -329,13 +329,13 @@
       "flavor": "W zaciemnionych i zapomnianych zakątkach kosmosu, gdzie gwiazdy szepczą tajemnice w otchłań, znajduje się prawda tak głęboka, że nawet najlżejszy rzut oka przetrąca zdrowe zmysły śmiertelnikom."
     },
     "mathematician": {
-      "flavor": "Każdy spójny formalny system x, w którym można wykonać określoną liczbę podstawowych działań arytmetycznych, jest niezupełny; znaczy się, istnieją stwierdzenia w języku x których nie da się udowodnić ani obalić w x. Ergo, jesteś pijany."
+      "flavor": "Każdy spójny formalny system x, w którym można wykonać określoną liczbę podstawowych działań arytmetycznych, jest niezupełny; znaczy się, istnieją stwierdzenia w języku x, których nie da się udowodnić ani obalić w x. Ergo, jesteś pijany."
     },
     "minioninfo": {
       "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Sługusów: Pokaż kartę *TO JEST DEMON*. Wskaż Demona. Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż innych Sługusów."
     },
     "minstrel": {
-      "ability": "Gdy Sługus zostaje stracony, wszyscy inni gracze (oprócz Wędrowców) są pijani do zmierzchu następnego dnia.",
+      "ability": "Gdy Sługus zostaje stracony, wszyscy inni gracze (oprócz Podróżników) są pijani do zmierzchu następnego dnia.",
       "flavor": "Usłyszę cię, choć nade mną stąpasz lekko... I wszystkie me sny staną się cieplejsze, słodsze... Jeśli tylko nie zapomnisz powiedzieć, że mnie kochasz... Będę spał spokojnie, dopóki nie przyjdziesz do mnie.",
       "name": "Minstrel"
     },
@@ -353,7 +353,7 @@
       "name": "No Dashii"
     },
     "ogre": {
-      "ability": "Podczas swojej pierwszej nocy wybierze gracza (nie siebie): przyłączasz się do ich drużyny (ale nie wiesz jakiej) nawet gdy jesteś pijany albo zatruty.",
+      "ability": "Swojej pierwszej nocy wybierz gracza (nie siebie): przechodzisz na jego stronę (nie wiesz, którą) nawet gdy jesteś pijany albo zatruty.",
       "flavor": "<hark><wyszczerz></hark>"
     },
     "ojo": {
@@ -372,14 +372,14 @@
       "flavor": "Nie ufaj nikomu kto ma chęć karać wielką."
     },
     "philosopher": {
-      "ability": "Raz na grę, w nocy, wybierz dobrą postać: otrzymaj jej umiejętność. Jeżeli ta postać jest w grze, jest pijana."
+      "ability": "Raz na grę, w nocy, wybierz dobrą postać: otrzymujesz jej umiejętność. Jeżeli ta postać jest w grze, jest pijana."
     },
     "pithag": {
       "name": "Jędza",
       "other": "Jędza wybiera gracza i postać. Jeżeli wybranej postaci nie ma w grze: Uśpij Jędzę. Obudź cel. Pokaż kastę *JESTEŚ* i jego nowy żeton postaci."
     },
     "poisoner": {
-      "ability": "Każdej nocy wybierz gracza: są zatruci tej nocy i następnego dnia.",
+      "ability": "Każdej nocy wybierz gracza: jest zatruty tej nocy i następnego dnia.",
       "first": "Truciciel wybiera gracza. :reminder:",
       "flavor": "Dodaj składnik Alfa do składnika Beta... NIE ZA DUŻO!",
       "name": "Truciciel",
@@ -392,17 +392,17 @@
       "name": "Pukka"
     },
     "puzzlemaster": {
-      "ability": "1 z graczy jest pijany, nawet gdy umrzesz. Jeżeli zgadniesz (raz) kto to jest dowiedz się który gracz jest Demonem, zgadnij niepoprawnie, a dostaniesz fałszywe informacje."
+      "ability": "1 z graczy jest pijany, nawet po twojej śmierci. Jeżeli zgadniesz (raz), kto to jest, dowiesz się, który gracz jest Demonem, jeśli zgadniesz niepoprawnie, dostaniesz fałszywe informacje."
     },
     "recluse": {
-      "ability": "Możesz zarejestrować się jako zły i/lub Sługus albo Demon, nawet gdy jesteś martwy.",
+      "ability": "Możesz pokazywać się jako zły oraz jako Sługus lub Demon, nawet po śmierci.",
       "name": "Odludek"
     },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!"
     },
     "sailor": {
-      "ability": "Każdej nocy wybierz gracza: albo ty albo on jesteście pijani do zmierzchu. Nie możesz umrzeć."
+      "ability": "Każdej nocy wybierz gracza: jeden z was jest pijany do zmierzchu. Nie możesz umrzeć."
     },
     "saint": {
       "ability": "Jeżeli umrzesz w wyniku egzekucji, twoja drużyna przegrywa.",
@@ -435,7 +435,7 @@
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
-      "other": "Jeżeli Ukochana umarła, natychmiast jakiś gracz staje się pijany. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
+      "other": "Po śmierci Cukiereczka jeden z graczy natychmiast staje się pijany. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci."
@@ -450,11 +450,11 @@
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]"
     },
     "villageidiot": {
-      "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych Idiotów, 1 z dodatkowych jest pijany]",
-      "first": "Wybierz Wioskowego Idiotę aby był pijany. Obudź pojedynczo każdego Wioskowego Idiotę, wybierają gracza, pokaż kciukiem dobry albo zły zgodnie z drużyną tego gracza.",
-      "flavor": "Róże są niebieskie, a fiołki czerwone. Proszę odwrócić to co właśnie powiedziałem.",
-      "name": "Wioskowy Idiota",
-      "other": "Obudź pojedynczo każdego Wioskowego Idiotę, wybierają gracza, pokaż kciukiem dobry albo zły zgodnie z drużyną tego gracza."
+      "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych głupków, 1 z dodatkowych jest pijany]",
+      "first": "Wybierz pijanego Wioskowego głupka. Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza.",
+      "flavor": "Róże są niebieskie, a fiołki czerwone. Ma to sens, jeśli jest odwrócone.",
+      "name": "Wioskowy głupek",
+      "other": "Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza."
     },
     "washerwoman": {
       "ability": "Zaczynasz grę wiedząc, że 1 z 2 graczy jest konkretnym Mieszczaninem.",
