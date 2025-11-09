@@ -30,7 +30,7 @@
       "difficulty": {
         "label": "難易度",
         "title": "このゲームの参加者はどのぐらいの経験があるか",
-        "value_0": "中級者",
+        "value_0": "平均",
         "value_1": "上級者",
         "value_2": "初心者"
       },
@@ -38,7 +38,7 @@
         "label": "グリモワールのアクセス",
         "title": "観戦者がグリモワールの中を覗けるか",
         "value_0": "依頼",
-        "value_1": "なし",
+        "value_1": "はい",
         "value_2": "いいえ"
       },
       "streaming": {
@@ -59,6 +59,7 @@
         "value_2": "いいえ"
       }
     },
+    "terms_of_use": "利用条件",
     "title": "「ブラッド・オン・ザ・クロックタワー」オンライン",
     "trademark": "「Blood on the Clocktower」は Steven Medway および The Pandemonium Institute の商標です。",
     "unnamed_user": "匿名ユーザー"
@@ -73,7 +74,7 @@
     },
     "demon": "悪魔|悪魔たち",
     "fabled": "伝説人|伝説人たち",
-    "loric": "奇譚|奇譚",
+    "loric": "ロリク|ロリク",
     "minion": "手下|手下たち",
     "outsider": "よそ者|よそ者たち",
     "phases": {
@@ -88,9 +89,9 @@
     "players": "参加者",
     "seat": "座席{0}",
     "shroud": "帷子",
-    "storyteller": "ストリーテラー{0}",
-    "storytellers": "ストリーテラーたち",
-    "token": "トークン",
+    "storyteller": "語り手{0}",
+    "storytellers": "語り手達",
+    "token": "コイン",
     "townsfolk": "市人",
     "traveller": "旅人"
   },
@@ -322,19 +323,35 @@
       "error_character": "{0}に該当キャラクターが見つかりませんでした。",
       "error_traveller": "{0}に該当する旅人が見つかりませんでした。",
       "tab_character": "使用可能のキャラクター",
-      "tab_traveller": "その他の旅人"
+      "tab_traveller": "その他の旅人",
+      "title": "{alignment} {type} {target}を選んで",
+      "title_alignment_e": "悪",
+      "title_alignment_g": "善",
+      "title_alignment_r": "普通",
+      "title_type_bluff": "擬勢",
+      "title_type_character": "キャラ"
     },
     "roles": {
+      "button_distribute": "{0}キャラを配て",
+      "button_gardener": "{0}キャラを与えて",
+      "button_shuffle": "シャッフル",
+      "button_sort": "分ける",
       "clear": "キャラクターの選択を解除",
       "title": "{0}のキャラクターを選択",
+      "title_players": "選手",
       "warning": "注意：ゲームセットアップに影響するキャラクターが選択されています！手動で処理する必要があります。"
+    },
+    "rules": {
+      "title": "ルール"
     },
     "settings": {
       "background_placeholder": "背景画像のURL",
       "background_text": "カスタム背景URLを入力するか、空白にすることで解除できます。",
       "background_title": "カスタム背景",
+      "button_always": "何時も",
       "button_edit": "アカウント編集",
       "button_setup": "ゲームセットアップ",
+      "button_verify": "アカウントを確認する",
       "css_apply": "カスタムCSSルールを適用しますか？",
       "css_confirm": "わかっているからアプリの見た目を変えさせて",
       "css_confirm2": "カスタムCSSの変更を適用するか確認してください。しない場合は自動的に無効化されます。",
@@ -611,6 +628,7 @@
     },
     "votehistory": {
       "clear": "投票履歴を消去",
+      "execution": "処刑",
       "exile": "追放",
       "majority": "過半数",
       "nominator": "告発者",
