@@ -366,6 +366,9 @@
           "text": "Der nominierte Spieler steht im Vordergrund.",
           "title": "Bäcker"
         },
+        "bigwig": {
+          "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben."
+        },
         "regular": {
           "text": "Jeder darf jederzeit reden.",
           "title": "Normal"
@@ -557,6 +560,7 @@
       "received": "Empfangen",
       "response": "Antwort:",
       "saw_this": "{0} hat dies gesehen",
+      "selected_players": "Ausgewählte Spieler",
       "sent": "Gesendet",
       "storyteller": "Erzähler",
       "title": "Wecke {0}",
@@ -720,6 +724,7 @@
     "vote": {
       "accusation": "Anklage",
       "button_chat": "Chat öffnen",
+      "button_clear_selection": "Auswahl aufheben",
       "button_countdown": "Countdown",
       "button_defense": "Zur Verteidigung",
       "button_hand_down": "SENKEN",
@@ -730,9 +735,12 @@
       "button_reset": "Zurücksetzen",
       "button_restart": "Neustart",
       "button_resume": "Fortsetzen",
+      "button_select_player": "Spieler auswählen",
       "button_start": "Start",
+      "choose_defense_attorney": "Wähle einen Verteidiger!",
       "countdown_go": "Los",
       "defense": "Verteidigung",
+      "defense_attorney": "Verteidiger",
       "highscore_placeholder": "Anzahl an Stimmen",
       "highscore_text": "Gib eine neue Höchstzahl an Stimmen ein für diesen Tag, oder\nlass das Feld leer um die reguläre Anzahl der Mehrheit lebender Spieler zu nehmen.",
       "highscore_title": "Stimmzahl ändern",
@@ -873,7 +881,8 @@
       "night_info_received": "Nacht-Zeichen erhalten",
       "night_info_sent": "Nacht-Zeichen gesendet",
       "nominate": "Spieler nominieren",
-      "point": "Auf Spieler zeigen"
+      "point": "Auf Spieler zeigen",
+      "select": "Diesen Spieler auswählen"
     },
     "reminders": {
       "add": "Erinnerung hinzufügen",
