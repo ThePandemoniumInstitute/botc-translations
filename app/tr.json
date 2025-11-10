@@ -287,6 +287,10 @@
     "verification": {
       "text_body2": "herkese açık oyunlar",
       "text_footer": "Telefon numaraları, geri alınamayacak bir şekilde saklanmaktadır."
+    },
+    "votehistory": {
+      "execution": "İdam",
+      "exile": "Sürgün"
     }
   }
 }
