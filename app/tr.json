@@ -291,7 +291,29 @@
     },
     "votehistory": {
       "execution": "İdam",
-      "exile": "Sürgün"
+      "exile": "Sürgün",
+      "votes": "Oylar"
+    }
+  },
+  "overlays": {
+    "attention": {
+      "attention": "Lütfen dikkat!"
+    },
+    "gatherplayers": {
+      "shuffle_title": "Sandalyeleri rastgele dağıt",
+      "title": "Oyuncularını Topla",
+      "warning": "Ravenswood Bluff'da geçen sıradan bir oyun için en az 7 oyuncuya ihtiyacınız var."
+    },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Kapat",
+        "button_open": "Aç",
+        "button_peek": "Gizlice Bak",
+        "state_false": "Kapalı",
+        "state_open-eyes": "Açık",
+        "state_peek-eyes": "Gizlice Bakılıyor",
+        "text": "Gözlerin {0}"
+      }
     }
   }
 }
