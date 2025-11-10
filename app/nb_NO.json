@@ -371,6 +371,7 @@
       "image_title": "Tillat tilpassede bilder",
       "nomination": {
         "bigwig": {
+          "text": "Hver nominerte velger en spiller: frem til avstemming er det kun de som kan prate, og de er Gal om at den nominerte spilleren er God, eller kan dø.",
           "title": "Talerstol"
         },
         "focus": {
@@ -472,6 +473,7 @@
         "toggleAudioMuted": "Demp mikrofon / Trykk-for-å-snakke",
         "toggleEdition": "Velg Utgave",
         "toggleFullscreen": "Fullskjerm",
+        "toggleNPCs": "Legg til Ikke-Spillbar Karakter",
         "toggleNight": "Veksle nattfase",
         "toggleNightOrder": "Nattordre",
         "toggleNightSignal": "Vis Natt Info",
