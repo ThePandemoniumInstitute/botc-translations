@@ -277,8 +277,16 @@
         "good": "İyi"
       }
     },
+    "user": {
+      "button_mod_user": "Kullanıcıyı Yönet"
+    },
     "users": {
-      "grim_access": "Grimoire Erişimi"
+      "grim_access": "Grimoire Erişimi",
+      "group_sub": "Grup Abonesi"
+    },
+    "verification": {
+      "text_body2": "herkese açık oyunlar",
+      "text_footer": "Telefon numaraları, geri alınamayacak bir şekilde saklanmaktadır."
     }
   }
 }
