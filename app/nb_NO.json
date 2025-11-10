@@ -364,6 +364,9 @@
       "image_text": "Er du sikker på at du vil tillate tilpassede bilder? En ondsinnet manusforfatter kan spore IP-adressen din på denne måten. Pandemonium Institute har ingen kontroll over bildene som leveres av andre brukere av appen.",
       "image_title": "Tillat tilpassede bilder",
       "nomination": {
+        "bigwig": {
+          "title": "Talerstol"
+        },
         "focus": {
           "text": "Den nominerte spilleren har gruppens oppmerksomhet."
         },
@@ -458,6 +461,7 @@
         "raiseHand": "Løft Hånd",
         "revealGrimoire": "Avslør Grimoire",
         "setTimer": "Still inn timeren",
+        "toggleAudioDeafened": "Demp stemmesamtale",
         "toggleAudioMuted": "Demp mikrofon / Trykk-for-å-snakke",
         "toggleEdition": "Velg Utgave",
         "toggleFullscreen": "Fullskjerm",
@@ -560,6 +564,7 @@
       "response": "Svar:",
       "saw_this": "{0} så dette",
       "select_everyone": "Velg alle",
+      "selected_players": "Valgte spillere",
       "sent": "Sendt",
       "storyteller": "Forteller|Fortellere",
       "title": "Vekk{0}",
@@ -638,6 +643,7 @@
       "pregame": "Før spill",
       "title": "Stemme historie",
       "type": "Type",
+      "voters": "Velgere",
       "votes": "Stemmer"
     }
   },
@@ -723,6 +729,7 @@
     "vote": {
       "accusation": "Anklage",
       "button_chat": "Åpne chat",
+      "button_clear_selection": "Tøm valg",
       "button_countdown": "Nedtelling",
       "button_defense": "Gå til Forsvar",
       "button_hand_down": "NED",
@@ -733,9 +740,13 @@
       "button_reset": "Nullstill",
       "button_restart": "Start på nytt",
       "button_resume": "Fortsett",
+      "button_select_player": "Velg spiller",
+      "button_set_highscore": "Sett stemmetall",
       "button_start": "Start",
+      "choose_defense_attorney": "Velg en forsvarsadvokat!",
       "countdown_go": "Start",
       "defense": "Forsvar",
+      "defense_attorney": "Forsvarsadvokat",
       "highscore_placeholder": "høyeste stemmetall",
       "highscore_text": "Skriv inn et nytt tall for dagens avstemningshighscore\n eller la feltet stå tomt for flertallet av de vanlige, levende spillerne.",
       "highscore_title": "Endre stemme-høyscore",
@@ -874,7 +885,8 @@
       "night_info_received": "Nattinfo mottatt",
       "night_info_sent": "Nattinfo sendt",
       "nominate": "Nominer denne spilleren",
-      "point": "Pek på denne spilleren"
+      "point": "Pek på denne spilleren",
+      "select": "Velg denne spilleren"
     },
     "reminders": {
       "add": "Legg til Påminnelse",
