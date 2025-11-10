@@ -795,6 +795,8 @@
       "description_online": "pålogget"
     },
     "lobby": {
+      "bootlegger_title": "Vær Oppmerksom!",
+      "bootlegger_warning": "Denne økten bruker Bootlegger Loric'en, hvilket betyr at den har skreddersydde regler eller karakterer utenom de offisielle, og er best egnet for erfarne spillere.\nHvis du er ny i Blood on the Clocktower anbefaler vi at du blir vant til standard regler og karakterer først, med en av de offisielle utgavene. Trouble Brewing er perfekt for førstegangs spill opplevelsen!\nUansett, velkommen — vi er glade for at du er her!\nEr du sikker på at du vil bli med i denne økten?",
       "button_create_game": "Opprett spill",
       "button_help": "Hjelp",
       "button_join_game": "Bli med i et privat spill",
@@ -1056,6 +1058,7 @@
     "camera_enabled": "Kamera synlig",
     "error_avatar_text": "Avataren du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
     "error_avatar_title": "Filstørrelsen er for stor",
+    "gain": "Volumøkning",
     "group_subscription": "Gruppeabonnement",
     "id": "Bruker-ID",
     "level": "Kontonivå",
