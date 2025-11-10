@@ -366,6 +366,10 @@
           "text": "Den nominerade spelaren har gruppens uppmärksamhet.",
           "title": "Bagaren"
         },
+        "bigwig": {
+          "text": "Nominerade väljer en spelare: fram till röstning får bara hen prata och hen är galen att den nominerade är god, eller kanske dör.",
+          "title": "Talmannen"
+        },
         "regular": {
           "text": "Alla får prata fritt.",
           "title": "Vanlig"
@@ -557,6 +561,7 @@
       "received": "Mottaget",
       "response": "Svar:",
       "saw_this": "{0} såg det här",
+      "selected_players": "Valda spelare",
       "sent": "Skickat",
       "storyteller": "Berättare|Berättare",
       "title": "Väck {0}",
@@ -720,6 +725,7 @@
     "vote": {
       "accusation": "Åtal",
       "button_chat": "Öppna samtal",
+      "button_clear_selection": "Rensa val",
       "button_countdown": "Räkna ner",
       "button_defense": "Gå till försvar",
       "button_hand_down": "NER",
@@ -730,9 +736,13 @@
       "button_reset": "Återställ",
       "button_restart": "Börja om",
       "button_resume": "Fortsätt",
+      "button_select_player": "Välj spelare",
+      "button_set_highscore": "Ställ in röstantal",
       "button_start": "Börja",
+      "choose_defense_attorney": "Välj en försvarare!",
       "countdown_go": "Kör",
       "defense": "Försvar",
+      "defense_attorney": "Försvarare",
       "highscore_placeholder": "högsta antal röster",
       "highscore_text": "Ange ett nytt högsta antal röster för idag\neller lämna tomt för att använda standardvärdet.",
       "highscore_title": "Ändra tröskel",
@@ -873,7 +883,8 @@
       "night_info_received": "Nattinfo mottagen",
       "night_info_sent": "Nattinfo skickad",
       "nominate": "Nominera den här spelaren",
-      "point": "Peka på den här spelaren"
+      "point": "Peka på den här spelaren",
+      "select": "Välj den här spelaren"
     },
     "reminders": {
       "add": "Lägg till påminnelse",
@@ -986,7 +997,7 @@
     "npcs": {
       "remove_fabled": "Ta bort Fabeln",
       "remove_loric": "Ta bort Sägnen",
-      "title": "Berättarroller"
+      "title": "Myter"
     },
     "text": {
       "channels": {
