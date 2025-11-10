@@ -127,6 +127,7 @@
     "night_info_text": "Fortelleren vekket deg i natt!",
     "night_sheet": "Liste over nattrekkefølge",
     "notifications": "Varsler",
+    "npcs": "Legg til ISKer",
     "prompt_clear_player": "Er du sikker på at du vil fjerne alle spilleres roller og påminnelsesbrikker?",
     "prompt_clear_st": "Dette vil tømme Grimoire for alle brikker for deg og alle andre. Er du sikker?",
     "prompt_clear_title": "Tøm Grimoire og påminnelsesbrikker",
@@ -211,6 +212,7 @@
         "missing_roles": "Denne økten inneholder egendefinerte roller som ikke blir funnet. Last dem inn før du blir med! Manglende roller: {0}",
         "missing_roles_title": "Feil ved lasting av egendefinerte roller",
         "move_player": "Kan ikke flytte spiller",
+        "npcs": "Feil under oppdatering av ISKer",
         "offline": "Serveren ser ut til å være nede",
         "remove_player": "Kan ikke fjerne spiller",
         "remove_storyteller": "Feil ved fjerning av forteller",
@@ -308,6 +310,9 @@
       "theme_generic": "Generisk tema:",
       "title": "Velg en utgave:",
       "upload_custom": "Last opp JSON for egendefinert manuskript"
+    },
+    "npc": {
+      "title": "Legg til en Ikke-Spillbar Karakter"
     },
     "reminder": {
       "custom_favorite": "Lagret som favoritt",
@@ -876,6 +881,7 @@
       "language": "Språk",
       "loading": "Laster inn spill…",
       "no_games": "Ingen offentlige spill funnet.",
+      "npcs": "Ikke-Spillbare Karakterer",
       "page": "Side {page} av {total}",
       "phase": "Fase",
       "players": "Spillere",
@@ -1084,7 +1090,8 @@
     },
     "npcs": {
       "remove_fabled": "Fjern fabel",
-      "remove_loric": "Fjern sagn"
+      "remove_loric": "Fjern sagn",
+      "title": "ISKer"
     },
     "text": {
       "channels": {
