@@ -14,7 +14,7 @@
     "button_close": "Закрыть",
     "button_confirm": "Подтвердить",
     "button_continue": "Продолжить",
-    "button_logout": "Выйти из аккаунта",
+    "button_logout": "Выйти",
     "button_search": "Искать",
     "button_send": "Отправить",
     "cookie_policy": "Политика использования Cookie",
@@ -25,7 +25,7 @@
         "title": "Используются ли камеры в этой игровой сессии",
         "value_0": "По желанию",
         "value_1": "Требуются",
-        "value_2": "Не нужны"
+        "value_2": "Нет"
       },
       "difficulty": {
         "label": "Сложность",
@@ -66,7 +66,7 @@
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Распределить роли",
+      "distribute-roles": "Раздать роли",
       "ghost-votes": "Вернуть призрачные голоса",
       "grimoire": "Показать Гримуар",
       "open-eyes": "Открыть/закрыть глаза",
