@@ -7,6 +7,9 @@
       "name": "カスタムスクリプト"
     }
   },
+  "jinxes": {
+    "hatter-summoner": "召喚者がもう一人の生きている悪魔を作った場合、今宵の死が任意となる。"
+  },
   "reminders": {
     "townsfolk": "村人"
   },
