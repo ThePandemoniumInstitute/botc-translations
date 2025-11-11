@@ -7,6 +7,24 @@
       "name": "Саморобний сценарій"
     }
   },
+  "reminders": {
+    "friend": "Друг",
+    "goodplayerexecuted": "Доброго гравця страчено",
+    "grandchild": "Онук",
+    "guessused": "Вже вгадував",
+    "hasability": "Має здібність",
+    "isthealchemist": "Насправді Алхімік",
+    "istheapprentice": "Насправді Підмайстер",
+    "isthedemon": "Демон",
+    "isthedrunk": "Насправді П'янчуга",
+    "isthemarionette": "Насправді Маріонетка",
+    "isthephilosopher": "Насправді Філософ",
+    "know": "Знає",
+    "lunch": "Обід",
+    "mad": "Одержимий",
+    "maynotnominate": "Не може номінувати",
+    "minion": "Міньйон"
+  },
   "roles": {
     "acrobat": {
       "name": "Акробат"
