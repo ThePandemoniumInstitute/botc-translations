@@ -23,7 +23,14 @@
     "lunch": "Обід",
     "mad": "Одержимий",
     "maynotnominate": "Не може номінувати",
-    "minion": "Міньйон"
+    "minion": "Міньйон",
+    "minionnominated": "Міньйон номінував",
+    "minionsnotnominated": "Міньйон не номінував",
+    "negativevote": "Від'ємний голос",
+    "night1": "Ніч 1",
+    "night2": "Ніч 2",
+    "night3": "Ніч 3",
+    "noability": "Без здібності"
   },
   "roles": {
     "acrobat": {
