@@ -15,9 +15,34 @@
     }
   },
   "jinxes": {
-    "hatter-summoner": "召喚者がもう一人の生きている悪魔を作った場合、今宵の死が任意となる。"
+    "hatter-summoner": "召喚者がもう一人の生きている悪魔を作った場合、今宵の死が任意となる。",
+    "kazali-summoner": "召喚者がもう一人の生きている悪魔を作った場合、今宵の死が任意となる。",
+    "pithag-summoner": "召喚者がもう一人の生きている悪魔を作った場合、今宵の死が任意となる。"
   },
   "reminders": {
+    "2nd": "二人目",
+    "3attacks": "三回攻撃",
+    "3votes": "投票三倍",
+    "abnormal": "誤作動",
+    "abouttodie": "処刑候補",
+    "actstwice": "二回行動",
+    "aligned": "同じ陣営",
+    "alive": "生きてる",
+    "amigo": "友達",
+    "cannotdie": "死なない",
+    "chosen": "選ばれた",
+    "correct": "正",
+    "cursed": "呪",
+    "day1": "１日目",
+    "day2": "２日目",
+    "day3": "３日目",
+    "day4": "４日目",
+    "day5": "５日目",
+    "dead": "死",
+    "demonnotvoted": "悪魔が賛成なかった",
+    "demonvoted": "悪魔が賛成した",
+    "diedtoday": "今日死んだ",
+    "doesntkill": "殺さない",
     "townsfolk": "村人"
   },
   "roles": {
