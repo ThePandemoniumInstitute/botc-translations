@@ -716,6 +716,7 @@
     "vote": {
       "accusation": "Обвинувачення",
       "button_chat": "Відкритий чат",
+      "button_clear_selection": "Очистити вибір",
       "button_countdown": "Зворотний відлік",
       "button_defense": "Перейти до захисту",
       "button_hand_down": "ОПУСТИТИ",
@@ -726,6 +727,7 @@
       "button_reset": "Скинути",
       "button_restart": "Перезапустити",
       "button_resume": "Продовжити",
+      "button_select_player": "Обрати гравця",
       "button_start": "Почати",
       "countdown_go": "Старт",
       "defense": "Захист",
@@ -766,6 +768,7 @@
       "title": "Будь ласка, налаштуйте годинник комп'ютера"
     },
     "lobby": {
+      "bootlegger_title": "Увага!",
       "button_create_game": "Створити гру",
       "button_help": "Допомога",
       "button_join_game": "Доєднатись до приватної гри",
