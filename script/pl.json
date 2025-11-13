@@ -4,6 +4,7 @@
   "add-outsider": "Dodaj Outsiderów",
   "add-townsfolk": "Dodaj Mieszczanina",
   "analysis": {
+    "heading": "Analiza Scenariusza",
     "maximum-character-recommendation": "Rekomendowana maksymalna liczba postaci to {number}.",
     "maximum-character-recommendation-teensy": "Rekomendowana maksymalna liczba postaci w Tycigrodzie to {number}.",
     "no-messages": "Nie wykryto wad!",
@@ -111,6 +112,8 @@
     "print-compact-night-sheet": "Kompaktowy Arkusz Nocy",
     "print-options-heading": "Opcje Wydruku",
     "print-player-count-table": "Pokaż Tabelę Liczby Graczy",
+    "script-heading": "Ustawienia Scenariusza",
+    "script-type": "Typ Scenariusza",
     "script-type-explanation": "Tycigród to skrypt stworzony specjalnie dla mniejszej liczby graczy (mniej niż 7). Zazwyczaj zawiera mniej postaci niż standardowy skrypt. To ustawienie wpływa tylko na narzędzie analizy skryptu, generator losowy i niektóre elementy interfejsu.",
     "script-type-standard": "Standardowy",
     "script-type-teensyville": "Tycigród",
