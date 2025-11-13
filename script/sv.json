@@ -76,7 +76,7 @@
   "interactions": {
     "+choirboy-king": {
       "msg": "Manus med Korgossen måste ha Kungen.",
-      "title": "Korgosse men ingen Kung"
+      "title": "Korgosse utan Kung"
     },
     "+huntsman-damsel": {
       "msg": "Manus med Jägaren måste ha Ungmön.",
@@ -122,7 +122,7 @@
   "settings": {
     "allow-external-images": "Tillåt externa bilder",
     "bloodstar-image-correction": "Korrigering av Bloodstar-bilder",
-    "bloodstar-image-correction-explanation": "Ikonerna som bloodstar.xyz genererar har lite utfyllnad i botten, så de inte blir helt centrerade. Aktivera den här inställningen för att återställa utfyllnaden.",
+    "bloodstar-image-correction-explanation": "Ikonerna som bloodstar.xyz genererar har lite utfyllnad i botten, så de blir inte helt centrerade. Aktivera den här inställningen för att ta bort utfyllnaden.",
     "compact-layout": "Kompakt layout",
     "display-and-ui-heading": "Utseende och användargränssnitt",
     "external-images-heading": "Externa bilder",
@@ -154,7 +154,7 @@
   "toggle-autosort": "Automatisk sortering på/av",
   "toggle-quick-input": "Aktivera snabbtillägg",
   "tour": {
-    "add-and-remove-characters-01": "Du kan {bold}lägga till en roll{/bold} från rollflliken. Klicka på den roll du vill lägga till.",
+    "add-and-remove-characters-01": "Du kan {bold}lägga till en roll{/bold} från rollfliken. Klicka på den roll du vill lägga till.",
     "add-and-remove-characters-02": "För att {bold}ta bort en roll{/bold} klickar du på den en gång till, antingen här eller på rollarket.",
     "add-and-remove-characters-03": "Om du är på mobil kan du öppna den här fliken genom att svepa höger eller trycka på knappen {menuIcon} uppe till vänster. Svep vänster för att stänga.",
     "add-and-remove-characters-04": "Du kan också lägga till roller snabbt med rutan ”snabbtillägg”, som du kan ta fram med knappen {plusIcon}.",
