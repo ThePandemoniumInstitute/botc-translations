@@ -1,4 +1,8 @@
 {
+  "add-demon": "Dodaj Demony",
+  "add-minion": "Dodaj Sługusów",
+  "add-outsider": "Dodaj Outsiderów",
+  "add-townsfolk": "Dodaj Mieszczanina",
   "analysis": {
     "maximum-character-recommendation": "Rekomendowana maksymalna liczba postaci to {number}.",
     "no-messages": "Nie wykryto wad!",
@@ -12,6 +16,21 @@
     "too-many-outsider": "Zbyt wielu Outsiderów",
     "too-many-townsfolk": "Zbyt wielu Mieszczan"
   },
+  "author": "Autor",
+  "author-placeholder": "Nieznany",
+  "characters": "Postacie",
+  "clear-script": "Wyczyść scenariusz",
+  "close": "Zamknij",
+  "commit": "Zatwierdź",
+  "ctxmenu": {
+    "copy-text": "Kopiuj tekst",
+    "copy-text-details": "Kopiuj tekst umiejętności postaci",
+    "draft": "Szkic",
+    "pinned": "Przypięta",
+    "pinned-details": "Przypięta postać pozostaje tam, gdzie jest, nawet jeśli automatyczne sortowanie jest włączone."
+  },
+  "delete-script-confirmation": "Czy na pewno chcesz usunąć ten scenariusz? To działanie jest nieodwracalne.",
+  "djinn-rules": "Reguły Dżina",
   "edition": {
     "base-three": "Podstawowe",
     "carousel": "Karuzela",
@@ -28,6 +47,12 @@
       "share": "Podziel się"
     }
   },
+  "export-menu": "Menu eksportu",
+  "external-image-confirm": "Czy jesteś pewien, że chcesz włączyć ładowanie zewnętrznych obrazów? Jeśli twórca pliku scenariusza ma złe intencje, pozwoli mu to śledzić twój adres IP. The Pandemonium Institute nie ma kontroli nad obrazami udostępnianymi przez innych użytkowników aplikacji.",
+  "filters": "Filtry",
+  "help": "Pomoc",
+  "import-script": "Importuj scenariusz",
+  "import-typing-error": "To pole istnieje aby pozwolić na wklejanie JSONów na urządzeniach mobilnych. Ręczne wpisywanie nie jest dozwolone.",
   "interactions": {
     "+choirboy-king": {
       "msg": "Scenariusze z Chórzystą muszą zawierać Króla.",
@@ -50,11 +75,23 @@
     "townsfolk": "Mieszczanin|Mieszczanie",
     "traveller": "Podróżnik|Podróżnicy"
   },
+  "name": "Nazwa",
+  "new-script": "Nowy Scenariusz",
   "print": {
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
     "not-first-night": "* Nie pierwszej nocy",
     "too-many-characters": "Twój scenariusz zawiera zbyt wiele postaci ({nchars}). Maksymalna rekomendowana liczba to 25. To może wyglądać nieprawidłowo w druku. Kontynuować?"
   },
+  "quick-add": "Szukaj postaci …",
+  "randomise": "Wylosuj!",
+  "redo": "Ponów",
+  "sao": "SAO",
+  "script-name": "Tytuł scenariusza",
+  "script-name-placeholder": "Scenariusz Bez Tytułu",
+  "scripts": "Scenariusze",
+  "search-abilities": "Szukaj po umiejętności",
+  "search-character": "Szukaj postaci …",
+  "search-names": "Szukaj po nazwie",
   "settings": {
     "bloodstar-image-correction": "Korekcja Obrazów Bloodstar",
     "bloodstar-image-correction-explanation": "Ikony generowane przez bloodstar.xyz mają większy margines na dole, więc nie są dokładnie wyśrodkowane. Włączenie tego ustawienia wyrównuje ten margines.",
@@ -76,11 +113,32 @@
     "this-language": "Polski",
     "view-tour": "Kliknij {link}tutaj{/link} aby ponownie obejrzeć wprowadzenie."
   },
+  "settings-menu": "Ustawienia",
+  "share-or-copy": "Podziel się scenariuszem, lub skopiuj link do schowka",
+  "show-all": "Wszystkie postacie",
+  "show-script-analytics": "Pokaż analizę scenariusza",
+  "toast": {
+    "copied": "Skopiowane do schowka!"
+  },
+  "toggle-autosort": "Przełącz automatyczne sortowanie",
   "tour": {
+    "add-and-remove-characters-01": "Możesz {bold}dodać postać{/bold} z zakładki postaci. Kliknij na dowolną postać, którą chcesz dodać.",
+    "add-and-remove-characters-04": "Możesz też szybko dodać postaci przy pomocy wyszukiwarki ‘szybkiego dodawania’, którą możesz otworzyć przyciskiem {plusIcon}.",
     "add-and-remove-characters-heading": "Dodawanie i usuwanie postaci",
     "autosort-heading": "Automatyczne sortowanie",
+    "final-01": "Na razie to wszystko! Jeśli chcesz obejrzeć to wprowadzenie jeszcze raz, możesz je włączyć w menu {block}{settingsIcon} ustawienia{/block}.",
+    "final-heading": "Dobrej zabawy!",
+    "import-export-share-02": "Kliknięcie na przycisk {block}{shareIcon} podziel się{/block} da ci specjalny ‘link scenariusza’, który pozwoli każdemu zobaczyć twój scenariusz bezpośrednio w tym narzędziu. Spróbuj!",
+    "import-export-share-03": "Możesz też obejrzeć to wprowadzenie ponownie z menu {block}{settingsIcon} ustawienia{/block}.",
     "import-export-share-heading": "Import, eksport i dzielenie się",
+    "multiple-scripts-01": "Możesz kliknąć tu na zakładkę {heading}scenariusze{/heading} by zobaczyć wszystkie scenariusze, nad którymi pracowałeś.",
+    "script-analytics-01": "Jeśli są jakieś problemy z twoim scenariuszem, zostaną wyświetlone tutaj.",
+    "script-name-and-authors-01": "{bold}Tytuł i autorzy scenariusza{/bold} mogą być zmienione tutaj.",
+    "undo-redo-01": "Jeśli coś zepsujesz, nie martw się! Możesz zawsze {block}{undoIcon} cofnąć{/block} albo {block}{redoIcon} ponowić{/block} krok. Możesz też wyczyścić scenariusz klikając przycisk {binIcon}.",
     "undo-redo-heading": "Cofnij i ponów",
+    "welcome-01": "Oto nowe narzędzie do tworzenia scenariuszy {bold}Blood on the Clocktower{/bold}! To wprowadzenie pokaże ci szybki przegląd podstawowych funkcji by pomóc ci zacząć.",
     "welcome-heading": "Witaj!"
-  }
+  },
+  "undo": "Cofnij",
+  "unpin": "Odepnij"
 }
