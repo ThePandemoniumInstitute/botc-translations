@@ -367,7 +367,8 @@
           "title": "Bäcker"
         },
         "bigwig": {
-          "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben."
+          "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben.",
+          "title": "Big Wig"
         },
         "regular": {
           "text": "Jeder darf jederzeit reden.",
@@ -736,6 +737,7 @@
       "button_restart": "Neustart",
       "button_resume": "Fortsetzen",
       "button_select_player": "Spieler auswählen",
+      "button_set_highscore": "Stimmzahl ändern",
       "button_start": "Start",
       "choose_defense_attorney": "Wähle einen Verteidiger!",
       "countdown_go": "Los",
