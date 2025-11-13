@@ -230,6 +230,7 @@
   "pages": {
     "lobby": {
       "bootlegger_warning": "Tässä pelisessiossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on täydellinen ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?",
+      "npcs": "Ei Pelaaja Hahmot",
       "spectators": "Sivustaseuraajat"
     }
   },
