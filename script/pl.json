@@ -1,4 +1,17 @@
 {
+  "analysis": {
+    "maximum-character-recommendation": "Rekomendowana maksymalna liczba postaci to {number}.",
+    "no-messages": "Nie wykryto wad!",
+    "too-few-demon": "Zbyt mało Demonów",
+    "too-few-minion": "Zbyt mało Sługusów",
+    "too-few-outsider": "Zbyt mało Outsiderów",
+    "too-few-townsfolk": "Zbyt mało Mieszczan",
+    "too-many-characters": "Zbyt wiele postaci",
+    "too-many-demon": "Zbyt wiele Demonów",
+    "too-many-minion": "Zbyt wielu Sługusów",
+    "too-many-outsider": "Zbyt wielu Outsiderów",
+    "too-many-townsfolk": "Zbyt wielu Mieszczan"
+  },
   "edition": {
     "base-three": "Podstawowe",
     "carousel": "Karuzela",
@@ -9,7 +22,21 @@
     "copy-json": "Skopiuj JSON",
     "download-json": "Pobierz JSON",
     "pdf": "Drukuj/Eksportuj PDF",
-    "png": "Wyeksportuj PNG"
+    "png": "Wyeksportuj PNG",
+    "screenshot": {
+      "save": "Zapisz",
+      "share": "Podziel się"
+    }
+  },
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "Scenariusze z Chórzystą muszą zawierać Króla.",
+      "title": "Chórzysta, ale brak Króla"
+    },
+    "no-outsider-mod": {
+      "msg": "Bez modyfikacji liczby Outsiderów, źli gracze nie mogą wiarygodnie udawać, że są Outsiderami.",
+      "title": "Brak modyfikacji liczby Outsiderów"
+    }
   },
   "keyword": {
     "demon": "Demon|Demony",
@@ -27,5 +54,33 @@
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
     "not-first-night": "* Nie pierwszej nocy",
     "too-many-characters": "Twój scenariusz zawiera zbyt wiele postaci ({nchars}). Maksymalna rekomendowana liczba to 25. To może wyglądać nieprawidłowo w druku. Kontynuować?"
+  },
+  "settings": {
+    "bloodstar-image-correction": "Korekcja Obrazów Bloodstar",
+    "bloodstar-image-correction-explanation": "Ikony generowane przez bloodstar.xyz mają większy margines na dole, więc nie są dokładnie wyśrodkowane. Włączenie tego ustawienia wyrównuje ten margines.",
+    "display-and-ui-heading": "Wygląd i Interfejs Urzytkownika",
+    "external-images-heading": "Zewnętrzne Obrazy",
+    "font-size": "Rozmiar Czcionki",
+    "font-size-larger": "Duży",
+    "font-size-normal": "Normalny",
+    "force-one-column": "Wymuś Pojedyńczą Kolumnę",
+    "language": "Język",
+    "language-select-heading": "Wybór Języka",
+    "print-columns": "Kolumny Wydruku",
+    "print-compact-night-sheet": "Kompaktowy Arkusz Nocy",
+    "print-options-heading": "Opcje Wydruku",
+    "print-player-count-table": "Pokaż Tabelę Liczby Graczy",
+    "script-type-standard": "Standardowy",
+    "show-analysis-icons": "Pokaż Ikonę Analizy",
+    "show-night-sheet": "Pokaż Arkusz Nocy",
+    "this-language": "Polski",
+    "view-tour": "Kliknij {link}tutaj{/link} aby ponownie obejrzeć wprowadzenie."
+  },
+  "tour": {
+    "add-and-remove-characters-heading": "Dodawanie i usuwanie postaci",
+    "autosort-heading": "Automatyczne sortowanie",
+    "import-export-share-heading": "Import, eksport i dzielenie się",
+    "undo-redo-heading": "Cofnij i ponów",
+    "welcome-heading": "Witaj!"
   }
 }
