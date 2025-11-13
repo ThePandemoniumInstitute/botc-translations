@@ -1,1 +1,31 @@
-{}
+{
+  "edition": {
+    "base-three": "Podstawowe",
+    "carousel": "Karuzela",
+    "custom": "Niestandardowe",
+    "kickstarter": "Kickstarter"
+  },
+  "export": {
+    "copy-json": "Skopiuj JSON",
+    "download-json": "Pobierz JSON",
+    "pdf": "Drukuj/Eksportuj PDF",
+    "png": "Wyeksportuj PNG"
+  },
+  "keyword": {
+    "demon": "Demon|Demony",
+    "fabled": "Legenda|Legendy",
+    "first-night": "Pierwsza Noc",
+    "loric": "Mityczny|Mityczni",
+    "minion": "Sługus|Sługusi",
+    "other-nights": "Pozostałe Noce",
+    "outsider": "Outsider|Outsiderzy",
+    "player": "Gracz|Gracze",
+    "townsfolk": "Mieszczanin|Mieszczanie",
+    "traveller": "Podróżnik|Podróżnicy"
+  },
+  "print": {
+    "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
+    "not-first-night": "* Nie pierwszej nocy",
+    "too-many-characters": "Twój scenariusz zawiera zbyt wiele postaci ({nchars}). Maksymalna rekomendowana liczba to 25. To może wyglądać nieprawidłowo w druku. Kontynuować?"
+  }
+}
