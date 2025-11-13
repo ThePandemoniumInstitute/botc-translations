@@ -1,4 +1,10 @@
 {
+  "add-bootlegger-rule": "Lägg till Hembrännarregel",
+  "add-bootlegger-rules": "Klicka på plusset för att lägga till en Hembrännarregel.",
+  "add-demon": "Lägg till Demoner",
+  "add-minion": "Lägg till Kumpaner",
+  "add-outsider": "Lägg till Utbölingar",
+  "add-townsfolk": "Lägg till Bybor",
   "analysis": {
     "heading": "Manusanalys",
     "maximum-character-recommendation": "Det rekommenderade maxantalet roller är {number}.",
@@ -21,6 +27,29 @@
     "too-many-outsider": "För många Utbölingar",
     "too-many-townsfolk": "För många Bybor"
   },
+  "author": "Författare",
+  "author-placeholder": "Okänd",
+  "bootlegger-rules": "Hembrännarregler",
+  "by-author": "av {author}",
+  "by-author-isolated": "av",
+  "character-tooltip": "Dra för att flytta, dubbelklicka eller högerklicka för att visa alternativ",
+  "characters": "Roller",
+  "clear-script": "Rensa manus",
+  "click-drag-move": "Klicka för att ta bort, dra för att flytta",
+  "close": "Stäng",
+  "commit": "Godkänn",
+  "commit-all-details": "Godkänn alla förslag.",
+  "commit-details": "Godkänn den här rollen för att spara den om du slumpar nya roller.",
+  "ctxmenu": {
+    "copy-text": "Kopiera text",
+    "copy-text-details": "Kopiera rollens förmågetext",
+    "draft": "Förslag",
+    "draft-details": "En förslagsroll är inte helt inlagd på manuset än. Om du slumpar roller byts dina förslag ut mot roller av samma rolltyp.",
+    "pinned": "Fäst",
+    "pinned-details": "En fäst roll stannar där den är, även om automatisk sortering är på."
+  },
+  "delete-script-confirmation": "Vill du verkligen radera manuset? Det här kan inte ångras.",
+  "djinn-rules": "Djinnregler",
   "edition": {
     "base-three": "Bas",
     "carousel": "Carousel",
@@ -28,6 +57,22 @@
     "homebrew": "Hembryggt",
     "kickstarter": "Kickstarter"
   },
+  "export": {
+    "copy-json": "Kopiera JSON",
+    "download-json": "Ladda ner JSON",
+    "pdf": "Skriv ut/exportera PDF",
+    "png": "Exportera PNG",
+    "screenshot": {
+      "save": "Spara",
+      "share": "Dela"
+    }
+  },
+  "export-menu": "Exportera",
+  "external-image-confirm": "Vill du verkligen tillåta externa bilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
+  "filters": "Filter",
+  "help": "Hjälp",
+  "import-script": "Importera manus",
+  "import-typing-error": "Den här rutan är till för att klistra in JSON-filer på mobil och touch-enheter. Det är inte tillåtet att skriva.",
   "interactions": {
     "+choirboy-king": {
       "msg": "Manus med Korgossen måste ha Kungen.",
@@ -54,33 +99,82 @@
     "townsfolk": "Bybo|Bybor",
     "traveller": "Resenär|Resenärer"
   },
+  "name": "Namn",
+  "new-bootlegger-rule": "Ny Hembrännarregel…",
+  "new-script": "Nytt manus",
   "print": {
-    "not-first-night": "* Inte första natten"
+    "ios": "Utskrift från iOS-enheter stöds inte än. Du kan försöka ändå, men det kanske inte blir snyggt.",
+    "not-first-night": "* Inte första natten",
+    "too-many-characters": "Ditt manus har för många roller ({nchars}); det högsta rekommenderade antalet är 25. Utskriften kanske inte ser korrekt ut. Vill du fortsätta ändå?"
   },
+  "quick-add": "Sök efter roller…",
+  "randomise": "Slumpa!",
+  "randomise-details": "Ditt manus fylls med slumpmässiga rollförslag.",
+  "read-more": "Läs almanackan/wikin",
+  "redo": "Gör om",
+  "sao": "SAO",
+  "script-name": "Manusnamn",
+  "script-name-placeholder": "Namnlöst manus",
+  "scripts": "Manus",
+  "search-abilities": "Sök på förmåga",
+  "search-character": "Sök efter roller…",
+  "search-names": "Sök på namn",
   "settings": {
     "allow-external-images": "Tillåt externa bilder",
     "bloodstar-image-correction": "Korrigering av Bloodstar-bilder",
+    "compact-layout": "Kompakt layout",
+    "display-and-ui-heading": "Utseende och användargränssnitt",
+    "external-images-heading": "Externa bilder",
     "font-size": "Teckenstorlek",
     "font-size-larger": "Större",
     "font-size-normal": "Normal",
     "language": "Språk",
     "print-columns": "Spalter i utskrift",
     "print-compact-night-sheet": "Kompakt nattark",
+    "print-options-heading": "Utskriftsalternativ",
     "print-player-count-table": "Visa tabell med spelarantal",
+    "script-heading": "Manusinställningar",
     "script-type": "Manustyp",
     "script-type-standard": "Standard",
+    "show-analysis-icons": "Visa analysikoner",
     "show-night-sheet": "Visa nattark",
     "this-language": "English",
     "view-tour": "Klicka {link}här{/link} för att visa introduktionen igen."
   },
+  "settings-menu": "Inställningar",
+  "share-or-copy": "Dela manuset eller kopiera manuslänken till urklipp",
+  "show-all": "Alla roller",
+  "show-script-analytics": "Visa manusanalys",
+  "toast": {
+    "cannot-remove-bootlegger": "Det finns hembryggda roller på det här manuset, så du kan inte ta bort Hembrännaren.",
+    "copied": "Kopierat till urklipp!"
+  },
+  "toggle-autosort": "Automatisk sortering på/av",
+  "toggle-quick-input": "Aktivera snabbtillägg",
   "tour": {
+    "add-and-remove-characters-02": "För att {bold}ta bort en roll{/bold} klickar du på den en gång till, antingen här eller på rollarket.",
+    "add-and-remove-characters-03": "Om du är på mobil kan du öppna den här fliken genom att svepa höger eller trycka på knappen {menuIcon} uppe till vänster. Svep vänster för att stänga.",
+    "add-and-remove-characters-04": "Du kan också lägga till roller snabbt med rutan ”snabbtillägg”, som du kan ta fram med knappen {plusIcon}.",
     "add-and-remove-characters-heading": "Lägg till och ta bort roller",
+    "autosort-01": "Som standard blir alla manus automatiskt {link}{sortIcon}{block}SAO-sorterade{/block}{/link}; det fungerar till och med för hembryggda roller! Du kan stänga av automatisk sortering här.",
     "autosort-heading": "Automatisk sortering",
+    "final-01": "Det var allt! Om du vill se den här introduktionen igen kan du göra det från {block}{settingsIcon} inställningsmenyn{/block}.",
     "final-heading": "Ha så kul!",
+    "import-export-share-01": "Du kan {block}{importIcon} importera{/block}, {block}{exportIcon} exportera{/block} eller {block}{shareIcon} dela{/block} manus härifrån. Hembryggda roller och manus stöds också!",
+    "import-export-share-02": "Klicka på {block}{shareIcon} dela{/block} för att få en särskild ”manuslänk” som vem som helst kan använda för att visa ditt manus direkt i verktyget. Prova själv!",
+    "import-export-share-03": "Du kan också visa den här introduktionen igen från {block}{settingsIcon} inställningsmenyn{/block}.",
     "import-export-share-heading": "Importera, exportera och dela",
+    "multiple-scripts-01": "Du kan klicka på fliken {heading}manus{/heading} här för att se alla manus du jobbat på.",
+    "multiple-scripts-02": "Du kan växla mellan upp till {bold}25 manus{/bold} här.",
+    "script-analytics-01": "Om det är några problem med ditt manus så visas de här.",
     "script-analytics-heading": "Manusanalys",
+    "script-name-and-authors-01": "Här kan du ändra {bold}manusnamn och författare{/bold}.",
     "script-name-and-authors-heading": "Manusnamn och författare",
+    "undo-redo-01": "Om du gör något fel kan du alltid {block}{undoIcon} ångra{/block} eller {block}{redoIcon} göra om{/block} det. Du kan också kasta manuset med knappen {binIcon}.",
     "undo-redo-heading": "Ångra och gör om",
+    "welcome-01": "Det här är ett nytt manusverktyg för {bold}Blood on the Clocktower{/bold}! Den här introduktionen ger dig en snabb översikt över verktygets funktioner.",
     "welcome-heading": "Välkommen!"
-  }
+  },
+  "undo": "Ångra",
+  "unpin": "Lossa"
 }
