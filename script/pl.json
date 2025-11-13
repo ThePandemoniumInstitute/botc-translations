@@ -1,4 +1,6 @@
 {
+  "add-bootlegger-rule": "Dodaj regułę przemytnika",
+  "add-bootlegger-rules": "Kliknij ikonę plus, by dodać regułę przemytnika.",
   "add-demon": "Dodaj Demony",
   "add-minion": "Dodaj Sługusów",
   "add-outsider": "Dodaj Outsiderów",
@@ -36,16 +38,22 @@
   },
   "author": "Autor",
   "author-placeholder": "Nieznany",
+  "bootlegger-rules": "Reguły Przemytnika",
+  "by-author": "{author}",
+  "by-author-isolated": "od",
   "character-tooltip": "Przesuń by przemieścić, kliknij podwójnie lub prawym klawiszem by otworzyć menu kontekstowe",
   "characters": "Postacie",
   "clear-script": "Wyczyść skrypt",
   "click-drag-move": "Kliknij by usunąć, przesuń by przemieścić",
   "close": "Zamknij",
   "commit": "Zatwierdź",
+  "commit-all-details": "Zatwierdź wszystkie postacie szkicowe na scenariuszu.",
+  "commit-details": "Zatwierdź postać na scenariuszu, żeby nie została usunięta, gdy wciśnięty zostanie przycisk losowy.",
   "ctxmenu": {
     "copy-text": "Kopiuj tekst",
     "copy-text-details": "Kopiuj tekst umiejętności postaci",
     "draft": "Szkic",
+    "draft-details": "Szkicowa postać nie jest jeszcze w pełni włączona w scenariusz. Jeśli użyjesz przycisku losowego generatora, szkicowe postacie zostaną zastąpione postaciami tego samego typu.",
     "pinned": "Przypięta",
     "pinned-details": "Przypięta postać pozostaje tam, gdzie jest, nawet jeśli automatyczne sortowanie jest włączone."
   },
@@ -55,6 +63,7 @@
     "base-three": "Podstawowe",
     "carousel": "Karuzela",
     "custom": "Niestandardowe",
+    "homebrew": "Chałupnicze",
     "kickstarter": "Kickstarter"
   },
   "export": {
@@ -78,6 +87,10 @@
       "msg": "Scenariusze z Chórzystą muszą zawierać Króla.",
       "title": "Chórzysta, ale brak Króla"
     },
+    "+huntsman-damsel": {
+      "msg": "Scenariusze z Łowczym muszą zawierać Damulkę.",
+      "title": "Łowczy, ale brak Damulki"
+    },
     "no-outsider-mod": {
       "msg": "Bez modyfikacji liczby Outsiderów, źli gracze nie mogą wiarygodnie udawać, że są Outsiderami.",
       "title": "Brak modyfikacji liczby Outsiderów"
@@ -96,6 +109,7 @@
     "traveller": "Podróżnik|Podróżnicy"
   },
   "name": "Nazwa",
+  "new-bootlegger-rule": "Nowa reguła przemytnika …",
   "new-script": "Nowy Skrypt",
   "print": {
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
@@ -104,6 +118,7 @@
   },
   "quick-add": "Szukaj postaci …",
   "randomise": "Wylosuj!",
+  "randomise-details": "Generator losowy wypełni twój scenariusz losowymi postaciami szkicowymi.",
   "read-more": "Przeczytaj almanach/stronę wiki",
   "redo": "Ponów",
   "sao": "SAO",
@@ -144,13 +159,18 @@
   "show-all": "Wszystkie postacie",
   "show-script-analytics": "Pokaż analizę skryptu",
   "toast": {
+    "cannot-remove-bootlegger": "Ten scenariusz zawiera postacie chałupnicze, więc nie możesz usunąć Przemytnika.",
     "copied": "Skopiowane do schowka!"
   },
   "toggle-autosort": "Przełącz automatyczne sortowanie",
+  "toggle-quick-input": "Szybkie szukanie",
   "tour": {
     "add-and-remove-characters-01": "Możesz {bold}dodać postać{/bold} z zakładki postaci. Kliknij na dowolną postać, którą chcesz dodać.",
+    "add-and-remove-characters-02": "Aby {bold}usunąć postać{/bold} kliknij tu ponownie, albo kliknij na jej ikonie na scenariuszu.",
+    "add-and-remove-characters-03": "Jeśli używasz urządzenia mobilnego, możesz otworzyć tę zakładkę poprzez przejechanie w prawo lub dotknięcie przycisku {menuIcon} w lewym górnym rogu. Możesz ją zamknąć poprzez przejechanie w lewo.",
     "add-and-remove-characters-04": "Możesz też szybko dodać postaci przy pomocy wyszukiwarki ‘szybkiego dodawania’, którą możesz otworzyć przyciskiem {plusIcon}.",
     "add-and-remove-characters-heading": "Dodawanie i usuwanie postaci",
+    "autosort-01": "Domyślnie, wszystkie scenariusze są automatycznie {link}{sortIcon}{block} posortowane wg SAO{/block}{/link} - działa to nawet dla postaci chałupniczych! Może zostać włączone i wyłączone tutaj.",
     "autosort-heading": "Automatyczne sortowanie",
     "final-01": "Na razie to wszystko! Jeśli chcesz obejrzeć to wprowadzenie jeszcze raz, możesz je włączyć w menu {block}{settingsIcon} ustawienia{/block}.",
     "final-heading": "Dobrej zabawy!",
