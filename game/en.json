@@ -1180,7 +1180,7 @@
       "other": "The Tinker might die. :reminder:"
     },
     "tor": {
-      "ability": "Players don't know their character or alignment. They learn them after they die.",
+      "ability": "Players don't know their character or alignment. They learn them when they die.",
       "first": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
       "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth.",
       "name": "Tor"
@@ -1290,6 +1290,11 @@
       "ability": "If there are 5 or more players alive, you must vote for every nomination.",
       "flavor": "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane.",
       "name": "Zealot"
+    },
+    "zenomancer": {
+      "ability": "One or more players each have a goal. When achieved, that player learns a piece of true info.",
+      "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down.",
+      "name": "Zenomancer"
     },
     "zombuul": {
       "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
