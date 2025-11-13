@@ -4,6 +4,7 @@
   "add-outsider": "Lisää Hylkiöitä",
   "add-townsfolk": "Lisää Kyläläisiä",
   "analysis": {
+    "heading": "Käsikirjoitus Analyysit",
     "too-few-outsider": "Ei riittävästi Hylkiöitä"
   },
   "author-placeholder": "Tuntematon",
@@ -47,8 +48,13 @@
   "search-names": "Etsi nimiä",
   "settings-menu": "Asetukset",
   "show-all": "Kaikki Hahmot",
+  "show-script-analytics": "Näytä käsikirjoitus analytiikka",
   "toast": {
     "copied": "Kopioitu leikepöydälle!"
+  },
+  "tour": {
+    "script-analytics-01": "Jos käsikirjoituksessasi on ongelmia, ne näkyvät täällä.",
+    "script-analytics-heading": "Käsikirjoitus analyysit"
   },
   "undo": "Kumoa"
 }
