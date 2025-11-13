@@ -38,13 +38,23 @@
   "author-placeholder": "Tuntematon",
   "by-author": "tehnyt {author}",
   "by-author-isolated": "tehnyt",
+  "character-tooltip": "Vedä siirtääksesi, tuplaklikkaa tai oikeaklikkaa näyttääksesi konteksti valikon",
   "characters": "Hahmot",
+  "clear-script": "Puhdista käsikirjoitus",
+  "click-drag-move": "Klikkaa poistaaksesi, vedä siirtääksesi",
   "close": "Sulje",
+  "commit-all-details": "Vahvista kaikki hahmoluonnokset käsikirjoitukseen.",
+  "commit-details": "Vahvista tämä hahmo käsikirjoitukseen, jotta sitä ei poisteta mikäli satunnaistamista käytetään.",
   "ctxmenu": {
+    "copy-text": "Kopioi teksti",
     "copy-text-details": "Kopioi hahmon kykyteksti",
     "draft": "Luonnos",
-    "pinned": "Kiinnitetyt"
+    "draft-details": "Luonnoshahmoa ei olla vielä täysin laitettu käsikirjoitukseen. Jos painat satunnaistamis painiketta, luonnoshahmot korvataan saman luokan hahmolla.",
+    "pinned": "Kiinnitetyt",
+    "pinned-details": "Kiinnitetty hahmo pysyy siellä missä se on, myös silloin kun automaattinen lajittelu on päällä."
   },
+  "delete-script-confirmation": "Oletko varma että haluat poistaa tämän käsikirjoituksen? Tätä toimintoa ei voida perua.",
+  "djinn-rules": "Djinn Säännöt",
   "edition": {
     "base-three": "Perus",
     "carousel": "Karuselli",
@@ -64,12 +74,16 @@
       "share": "Jaa"
     }
   },
+  "export-menu": "Vienti valikko",
+  "external-image-confirm": "Oletko varma että haluat sallia ulkoisia kuvia? Pahaa haluava käsikirjoituksen tekijä saattaa selvittää IP osoitteesi tällä tapaa. Pandemonium Instituutilla ei ole kontrollia muiden käyttäjien välittämistä kuvista sovelluksessa.",
   "fabled-and-loric": "Tarunomaiset & Satuiset",
   "filters": "Suodattimet",
   "help": "Apu",
   "import-description-kb": "tai liitä JSON / URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... tai liitä URL/JSON tänne:",
+  "import-script": "Tuo käsikirjoitus",
   "import-type-error": "Väärä tiedostotyyppi, tiedostoa ei ladattu.",
+  "import-typing-error": "Tähän ruutuun voi liittää JSON:n mobiililla tai kosketusnäyttö laitteilla. Näppäileminen ei ole sallittua.",
   "interactions": {
     "+choirboy-king": {
       "msg": "Kuoropojallisissa käsikirjoituksissa täytyy olla myös Kuningas.",
@@ -97,6 +111,7 @@
     "traveller": "Kiertolainen|Kiertolaiset"
   },
   "name": "Nimi",
+  "new-script": "Uusi Käsikirjoitus",
   "print": {
     "ios": "Tulostamista iOS-laitteilta ei vielä tueta. Voit silti yrittää, mutta se saattaa näyttää huonolta.",
     "not-first-night": "* Ei ensimmäisenä yönä",
@@ -104,9 +119,12 @@
   },
   "quick-add": "Etsi hahmoja …",
   "randomise": "Satunnaista!",
+  "randomise-details": "Satunnaistaminen täyttää käsikirjoituksesi satunnaisilla hahmoluonnoksilla.",
+  "read-more": "Lue almanakka/wiki kirjaus",
   "recommended-travellers": "Suositellut Kulkurit",
   "redo": "Tee uudelleen",
   "sao": "SAO",
+  "script-name": "Käsikirjoituksen nimi",
   "script-name-placeholder": "Nimetön Käsikirjoitus",
   "scripts": "Käsikirjoitukset",
   "search-abilities": "Etsi kykyjä",
@@ -145,23 +163,32 @@
   "toast": {
     "copied": "Kopioitu leikepöydälle!"
   },
+  "toggle-autosort": "Automaattisen lajittelun vaihto",
+  "toggle-quick-input": "Pikalisäys valinta",
   "tour": {
     "add-and-remove-characters-01": "Voit {bold}lisätä hahmon{/bold} hahmot-välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
     "add-and-remove-characters-02": "{bold}Poistaaksesi hahmon{/bold}, klikkaa sitä uudelleen täällä, tai sen kuvaketta käsikirjoituksessa.",
     "add-and-remove-characters-03": "Mikäli olet puhelimellasi, voit avata tämän välilehden pyyhkäisemällä oikealle tai napauttamalla {menuIcon} -painiketta ylävasemalla. Voit sulkea sen pyyhkäisemällä vasemmalle.",
     "add-and-remove-characters-04": "Voit myös nopeasti lisätä hahmoja käyttämällä 'pikalisäys' -syötettä, jonka saat esiin/pois painamalla {plusIcon} -painiketta.",
     "add-and-remove-characters-heading": "Hahmojen lisääminen ja poistaminen",
+    "autosort-01": "Oletusasetuksena kaikki käsikirjoitukset ovat automaattisesti {link}{sortIcon}{block} SAO lajiteltu {/block}{/link} - toimii myös kotipolttoisissa hahmoissa! Tätä voi vaihtaa päälle & pois täältä.",
     "autosort-heading": "Automaattinen lajittelu",
+    "final-01": "Se oli kaikki tältä erää! Jos haluat katsoa esittelyn uudestaan, voit tehdä niin {block}{settingsIcon} asetukset {/block} valikosta.",
     "final-heading": "Pelin iloa!",
+    "import-export-share-03": "Voit myös katsoa tämän esittelyn uudestaan {block}{settingsIcon} asetukset {/block} valikosta.",
     "import-export-share-heading": "Tuo, vie ja jakaminen",
+    "multiple-scripts-01": "Voit klikata {heading} käsikirjoitus{/heading} välilehteä täältä ja nähdä kaikki käsikirjoitukset joita olet työstänyt.",
+    "multiple-scripts-02": "Voit vaihtaa jopa {bold} 25 viimeisimmän käsikirjoituksen välillä {/bold} täältä.",
     "multiple-scripts-heading": "Useiden käsikirjoitusten työstäminen",
     "script-analytics-01": "Jos käsikirjoituksessasi on ongelmia, ne näkyvät täällä.",
     "script-analytics-heading": "Käsikirjoituksen analytiikka",
     "script-name-and-authors-01": "{bold}Käsikirjoituksen nimeä ja tekijöitä{/bold} voi vaihtaa täältä.",
     "script-name-and-authors-heading": "Käsikirjoituksen nimi ja tekijät",
+    "undo-redo-01": "Jos teet virheen se ei haittaa! Voit aina {block}{undoIcon} kumota{/block} tai {block}{redoIcon} uusia {/block}sen. Voit myös tyhjentää käsikirjoituksen klikkaamalla {binIcon} painiketta.",
     "undo-redo-heading": "Kumoa ja uusi",
     "welcome-01": "Tämä on upouusi käsikirjoitustyökalu {bold}Blood on the Clocktower{/bold} -peliin! Tämä esittelykierros antaa sinulle nopean katsastuksen perustoimintoihin, jotta pääset alkuun.",
     "welcome-heading": "Tervetuloa!"
   },
-  "undo": "Kumoa"
+  "undo": "Kumoa",
+  "unpin": "Poista kiinnitys"
 }
