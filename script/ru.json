@@ -4,18 +4,30 @@
   "add-minion": "Добавить Приспешников",
   "add-townsfolk": "Добавить Горожан",
   "analysis": {
+    "heading": "Анализ сценария",
     "maximum-character-recommendation": "Максимальное рекомендованное число ролей — {number}.",
     "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсивилле — {number}.",
     "no-messages": "Все в порядке!",
+    "range-between-recommendation-full-demon": "Рекомендовано от {lower} до {upper} Демонов.",
+    "range-between-recommendation-full-outsider": "Рекомендовано от {lower} до {upper} Изгоев.",
+    "range-between-recommendation-full-townsfolk": "Рекомендовано от {lower} до {upper} Горожан.",
+    "range-between-recommendation-teensy-demon": "Рекомендовано от {lower} до {upper} Демонов в Тинсвилле.",
+    "range-between-recommendation-teensy-outsider": "Рекомендовано от {lower} до {upper} Изгоев в Тинсвилле.",
+    "range-between-recommendation-teensy-townsfolk": "Рекомендовано от {lower} до {upper} Горожан в Тинсвилле.",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
     "range-exact-recommendation-full-outsider": "Рекомендовано ровно {number} Изгоев.",
     "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
+    "range-exact-recommendation-teensy-demon": "Рекомендовано ровно {number} Демонов в Тинсвилле.",
+    "range-exact-recommendation-teensy-outsider": "Рекомендовано ровно {number} Изгоев в Тинсвилле.",
+    "range-exact-recommendation-teensy-townsfolk": "Рекомендовано ровно {number} Горожан в Тинсвилле.",
     "too-few-demon": "Недостаточно Демонов",
     "too-few-minion": "Недостаточно Приспешников",
+    "too-few-outsider": "Недостаточно Изгоев",
     "too-few-townsfolk": "Недостаточно Горожан",
     "too-many-characters": "Слишком много ролей",
     "too-many-demon": "Слишком много Демонов",
     "too-many-minion": "Слишком много Приспешников",
+    "too-many-outsider": "Слишком много Миньонов",
     "too-many-townsfolk": "Слишком много Горожан"
   },
   "author": "Автор",
@@ -59,12 +71,29 @@
   "import-description-nokb": "...или вставьте URL/JSON сюда:",
   "import-script": "Импортировать сценарий",
   "import-type-error": "Неверный тип файла. Файл не загружен.",
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "В сценарии с Хористом должен быть Король.",
+      "title": "Хорист без Короля"
+    },
+    "+huntsman-damsel": {
+      "msg": "В сценарии с Егерем должна быть Дамочка.",
+      "title": "Егерь без Дамочки"
+    },
+    "no-outsider-mod": {
+      "msg": "Без модификатора Изгоев, злые игроки не могут притворяться Изгоями.",
+      "title": "Нет модификатора Изгоев"
+    }
+  },
   "keyword": {
     "demon": "Демон|Демоны",
     "first-night": "Первая ночь",
     "minion": "Приспешник|Приспешники",
     "other-nights": "Последующие ночи",
-    "player": "Игрок|Игроки"
+    "outsider": "Изгой|Изгои",
+    "player": "Игрок|Игроки",
+    "townsfolk": "Горожанин|Горожане",
+    "traveller": "Странник|Странники"
   },
   "name": "Имя",
   "new-bootlegger-rule": "Новое правило Бутлегера…",
@@ -97,12 +126,16 @@
     "force-one-column": "В один столбец",
     "language": "Язык",
     "language-select-heading": "Выбор языка",
+    "print-compact-night-sheet": "Компактный порядок ночи",
     "print-options-heading": "Настройки печати",
+    "print-player-count-table": "Показать таблицу по числу игроков",
     "script-heading": "Настройки сценария",
     "script-type": "Тип сценария",
     "script-type-explanation": "Тинсвилль — это сценарий, предназначенный для небольшой группы игроков (меньше 7). В таких сценариях, как правило, меньше ролей, чем в обычном сценарии. Эта настройка влияет только на анализ сценария, выбор случайных параметров и элементы интерфейса.",
+    "script-type-standard": "Обычный",
     "script-type-teensyville": "Тинсивилль",
     "show-analysis-icons": "Показать иконки анализа",
+    "show-night-sheet": "Показать порядок ночи",
     "this-language": "Русский",
     "view-tour": "Нажмите {link}здесь{/link}, чтобы повторить обучение."
   },
@@ -117,14 +150,18 @@
   "tour": {
     "add-and-remove-characters-01": "Вы можете {bold}добавить роль{/bold} из вкладки ролей. Кликните на роль, которую хотите добавить.",
     "add-and-remove-characters-02": "Для {bold}удаления роли{/bold}, нажмите на неё снова здесь или на её иконке в сценарии.",
+    "add-and-remove-characters-03": "На мобильном устройстве вы можете открыть эту вкладку свайпом вправо или нажатием на иконку {menuIcon} слева вверху. Вы можете её закрыть свайпом влево.",
     "add-and-remove-characters-04": "Вы также можете быстро добавлять персонажей с помощью инструмента \"Быстрое добавление\", который вы можете включать и выключать нажатием кнопки {plusIcon}.",
     "add-and-remove-characters-heading": "Добавление и удаление ролей",
+    "autosort-heading": "Автосортировка",
     "final-01": "Это всё! Если вы хотите просмотреть этот обзор снова, вы можете сделать это в меню {block}{settingsIcon} Настройки{/block}.",
     "final-heading": "Хорошей игры!",
     "import-export-share-heading": "Импортировать, экспортировать, поделиться",
     "multiple-scripts-01": "Вы можете выбрать вкладку {heading}Сценарии{/heading} здесь, чтобы увидеть все сценарии, над которыми вы работали.",
     "multiple-scripts-02": "Здесь вы можете переключаться между {bold}25 последними сценариями{/bold}.",
     "multiple-scripts-heading": "Работа над несколькими сценариями",
+    "script-analytics-heading": "Анализ сценария",
+    "script-name-and-authors-01": "{bold}Название сценария и авторство{/bold} можно указать здесь.",
     "script-name-and-authors-heading": "Название сценария и авторы",
     "undo-redo-heading": "Отменить и повторить",
     "welcome-heading": "Добро пожаловать!"
