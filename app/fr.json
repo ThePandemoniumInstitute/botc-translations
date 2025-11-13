@@ -769,6 +769,7 @@
       "title": "Veuillez ajuster l'horloge de votre ordinateur"
     },
     "lobby": {
+      "bootlegger_warning": "Cette session utilise le Contrebandier, ce qui veut dire qu'elle contiendra des règles ou des rôles non-officiels, et est plus adaptée aux joueurs expérimentés.\nSi vous êtes nouveau à Blood on The Clocktower, nous vous recommandons de d'abord vous habituer avec les règles et les rôles standards, en jouant à l'un des scripts officiels de base. Trouble Brewing est parfait pour avoir la meilleure première expérience !\nQuoi qu'il en soit, bienvenue — nous sommes ravis que vous soyez là !\nÊtes-vous sûr de vouloir rejoindre cette session ?",
       "button_create_game": "Créer une Partie",
       "button_help": "Aide",
       "button_join_game": "Rejoindre une Partie Privée",
