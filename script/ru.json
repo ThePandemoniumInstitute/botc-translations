@@ -8,6 +8,7 @@
     "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсивилле — {number}.",
     "no-messages": "Все в порядке!",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
+    "range-exact-recommendation-full-outsider": "Рекомендовано ровно {number} Изгоев.",
     "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
     "too-few-demon": "Недостаточно Демонов",
     "too-few-minion": "Недостаточно Приспешников",
@@ -37,6 +38,7 @@
   "delete-script-confirmation": "Вы уверены, что хотите удалить этот сценарий? Это действие невозможно отменить.",
   "djinn-rules": "Правила Джинна",
   "edition": {
+    "base-three": "Базовый",
     "carousel": "Карусель",
     "homebrew": "Homebrew",
     "kickstarter": "Kickstarter"
@@ -68,6 +70,7 @@
   "new-bootlegger-rule": "Новое правило Бутлегера…",
   "new-script": "Новый Сценарий",
   "print": {
+    "ios": "Печать на iOS устройствах пока не поддерживается. Вы можете попробовать, но результат может быть хуже.",
     "not-first-night": "* Не в первую ночь",
     "too-many-characters": "Ваш сценарий содержит слишком много ролей ({nchars}). Рекомендованное количество не более 25. Распечатанный сценарий может выглядеть плохо. Продолжить?"
   },
