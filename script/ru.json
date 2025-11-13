@@ -1,18 +1,51 @@
 {
   "add-bootlegger-rule": "Добавить правило Бутлегера",
+  "analysis": {
+    "maximum-character-recommendation": "Максимальное рекомендованное число ролей — {number}.",
+    "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсвилле — {number}.",
+    "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
+    "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
+    "too-few-demon": "Недостаточно Демонов",
+    "too-few-townsfolk": "Недостаточно Горожан",
+    "too-many-characters": "Слишком много ролей",
+    "too-many-demon": "Слишком много Демонов",
+    "too-many-townsfolk": "Слишком много Горожан"
+  },
   "author": "Автор",
   "bootlegger-rules": "Правила Бутлегера",
   "characters": "Персонажи",
   "close": "Закрыть",
   "djinn-rules": "Правила Джинна",
   "edition": {
+    "carousel": "Карусель",
+    "homebrew": "Homebrew",
     "kickstarter": "Kickstarter"
+  },
+  "export": {
+    "copy-json": "Копировать JSON",
+    "download-json": "Скачать JSON",
+    "pdf": "Печать PDF",
+    "png": "Скачать PNG",
+    "screenshot": {
+      "save": "Сохранить",
+      "share": "Поделиться"
+    }
   },
   "filters": "Фильтры",
   "help": "Помощь",
+  "keyword": {
+    "demon": "Демон|Демоны",
+    "first-night": "Первая ночь",
+    "other-nights": "Другие ночи",
+    "player": "Игрок|Игроки"
+  },
   "name": "Имя",
   "new-bootlegger-rule": "Новое правило Бутлегера…",
   "new-script": "Новый Сценарий",
+  "print": {
+    "not-first-night": "* Не в первую ночь",
+    "too-many-characters": "В вашем сценарии слишком много ролей ({nchars}). Рекомендовано до 25 ролей. Сценарий может выглядеть плохо на печати. Продолжить?"
+  },
   "read-more": "Читать запись в альманахе/статью википедии",
   "recommended-travellers": "Рекомендуемые Странники",
   "script-name": "Название сценария",
@@ -20,7 +53,23 @@
   "search-abilities": "Искать способности",
   "search-names": "Искать имена",
   "settings": {
-    "this-language": "Русский"
+    "allow-external-images": "Разрешить внешние изображения",
+    "bloodstar-image-correction-explanation": "Иконки, созданные в bloodstar.xyz, имеют небольшой отступ снизу, они не полностью центрированы. Включение этой настройки компенсирует этот отступ.",
+    "compact-layout": "Компактный макет",
+    "external-images-heading": "Внешние изображения",
+    "font-size": "Размер шрифта",
+    "font-size-larger": "Больше",
+    "font-size-normal": "Обычный",
+    "language": "Язык",
+    "language-select-heading": "Выбор языка",
+    "print-options-heading": "Настройки печати",
+    "script-heading": "Настройки сценария",
+    "script-type": "Тип сценария",
+    "script-type-explanation": "Тинсвилль — это сценарий, предназначенный на небольшую компанию (до 7 игроков). В таких сценариях обычно меньше ролей, чем в обычном. Эта настройка влияет только на анализ сценария, рандом, и элементы интерфейса.",
+    "script-type-teensyville": "Тинсвилль",
+    "show-analysis-icons": "Показать иконки анализа",
+    "this-language": "Русский",
+    "view-tour": "Нажмите {link}здесь{/link}, чтобы повторить обучение."
   },
   "settings-menu": "Настройки",
   "toast": {
