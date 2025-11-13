@@ -1,1 +1,23 @@
-{}
+{
+  "analysis": {
+    "maximum-character-recommendation-teensy": "O máximo recomendado de personagens em Pequena Morte é {number}.",
+    "range-between-recommendation-teensy-demon": "É recomendado ter entre {lower} e {upper} Demônios na Pequena Morte.",
+    "range-between-recommendation-teensy-minion": "É recomendado ter entre {lower} e {upper} Lacaios na Pequena Morte.",
+    "range-between-recommendation-teensy-outsider": "É recomendado ter entre {lower} e {upper} Forasteiros na Pequena Morte.",
+    "range-between-recommendation-teensy-townsfolk": "É recomendado ter entre {lower} e {upper} Aldeões na Pequena Morte.",
+    "range-exact-recommendation-teensy-demon": "É recomendado ter exatamente {number} Demônios na Pequena Morte.",
+    "range-exact-recommendation-teensy-minion": "É recomendado ter exatamente {number} Lacaios na Pequena Morte.",
+    "range-exact-recommendation-teensy-outsider": "É recomendado ter exatamente {number} Forasteiros na Pequena Morte.",
+    "range-exact-recommendation-teensy-townsfolk": "É recomendado ter exatamente {number} Aldeões na Pequena Morte."
+  },
+  "print": {
+    "ios": "Ainda não há suporte para a Impressão em aparelhos iOS. Você pode tentar de qualquer forma, mas pode ficar feio.",
+    "too-many-characters": "Seu cenário tem personagens demais ({nchars}). O máximo recomendado é 25. Isso pode aparecer qunrado na impressão. Deseja Continuar?"
+  },
+  "settings": {
+    "bloodstar-image-correction-explanation": "Os ícones que bloodstar.xyz geram tem um pequeno espaçamento extra em baixo, então eles não são exatamente centralizados. Ao habilitar essa configuração compensa esse espaçamento.",
+    "script-type-explanation": "Um cenário e Pequena Morte é um cenário feito especificamente para uma contagem pequena de jogadores (menos que 7 jogadores). Eles normalmente tem menos personagens que um cenário padrão. Essa configuração afeta apenas a análise de cenário, o embaralhador e alguns elementos da interface.",
+    "script-type-teensyville": "Pequena Morte",
+    "view-tour": "Clique {link}aqui{/link} para ver o tour de novo."
+  }
+}
