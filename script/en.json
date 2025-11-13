@@ -186,7 +186,7 @@
   "toggle-quick-input": "Toggle quick input",
   "import-script": "Import script",
   "export-menu": "Export menu",
-  "share-or-copy": "Share script, or copy script link to clipboard",
+  "copy-script-link": "Copy Script Link",
   "settings-menu": "Settings",
   "toggle-autosort": "Toggle automatic sorting",
   "show-script-analytics": "Show script analytics",
