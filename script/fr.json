@@ -1,1 +1,15 @@
-{}
+{
+  "export": {
+    "copy-json": "Copier le JSON",
+    "download-json": "Télécharger le JSON",
+    "pdf": "Imprimer/Exporter en PDF",
+    "png": "Exporter en PNG",
+    "screenshot": {
+      "save": "Enregistrer",
+      "share": "Partager"
+    }
+  },
+  "print": {
+    "too-many-characters": "Votre script contient trop de personnages ({nchars}). La quantité maximale recommandée est 25. La version imprimée pourrait ne pas s'afficher correctement. Continuer ?"
+  }
+}
