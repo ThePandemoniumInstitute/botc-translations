@@ -35,6 +35,8 @@
     "too-many-townsfolk": "Liian monta Kyläläistä"
   },
   "author-placeholder": "Tuntematon",
+  "by-author": "tehnyt {author}",
+  "by-author-isolated": "tehnyt",
   "characters": "Hahmot",
   "close": "Sulje",
   "ctxmenu": {
@@ -104,6 +106,8 @@
   "recommended-travellers": "Suositellut Kiertolaiset",
   "redo": "Tee uudelleen",
   "sao": "SAO",
+  "script-name-placeholder": "Nimetön Käsikirjoitus",
+  "scripts": "Käsikirjoitukset",
   "search-abilities": "Etsi kykyjä",
   "search-character": "Etsi hahmoja …",
   "search-names": "Etsi nimiä",
@@ -144,6 +148,7 @@
     "add-and-remove-characters-01": "Voit {bold}lisätä hahmon{/bold} hahmot-välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
     "add-and-remove-characters-02": "{bold}Poistaaksesi hahmon{/bold}, klikkaa sitä uudelleen täällä, tai sen kuvaketta käsikirjoituksessa.",
     "add-and-remove-characters-03": "Mikäli olet puhelimellasi, voit avata tämän välilehden pyyhkäisemällä oikealle tai napauttamalla {menuIcon} -painiketta ylävasemalla. Voit sulkea sen pyyhkäisemällä vasemmalle.",
+    "add-and-remove-characters-04": "Voit myös nopeasti lisätä hahmoja käyttämällä 'pikalisäys' syöttöä, jonka saat esille painamalla {plusIcon}painiketta.",
     "add-and-remove-characters-heading": "Hahmojen lisääminen ja poistaminen",
     "autosort-heading": "Automaattinen lajittelu",
     "final-heading": "Pelin iloa!",
@@ -151,6 +156,7 @@
     "multiple-scripts-heading": "Useiden käsikirjoitusten työstäminen",
     "script-analytics-01": "Jos käsikirjoituksessasi on ongelmia, ne näkyvät täällä.",
     "script-analytics-heading": "Käsikirjoituksen analytiikka",
+    "script-name-and-authors-01": "{bold} Käsikirjoituksen nimeä ja tekijöitä{/bold} voi muokata täältä.",
     "script-name-and-authors-heading": "Käsikirjoituksen nimi ja tekijät",
     "undo-redo-heading": "Kumoa ja uusi",
     "welcome-01": "Tämä on upouusi käsikirjoitustyökalu {bold}Blood on the Clocktower{/bold} -peliin! Tämä esittelykierros antaa sinulle nopean katsastuksen perustoimintoihin, jotta pääset alkuun.",
