@@ -1,1 +1,20 @@
-{}
+{
+  "edition": {
+    "homebrew": "स्वनिर्मित"
+  },
+  "export": {
+    "copy-json": "कॉपी JSON",
+    "download-json": "डाउनलोड JSON",
+    "screenshot": {
+      "save": "सुरक्षित करें",
+      "share": "शेयर करें"
+    }
+  },
+  "keyword": {
+    "first-night": "पहली रात"
+  },
+  "settings": {
+    "external-images-heading": "बाहरी छवियाँ",
+    "print-options-heading": "प्रिंट विकल्प"
+  }
+}
