@@ -1004,26 +1004,99 @@
       "chats": "Keskustelut",
       "following": "Seuraat tätä pelaajaa.",
       "incoming": "Saapuvat",
-      "spectator": "Sivustaseuraaja"
+      "leave_private": "Lähde Yksityisestä Chatistä",
+      "leave_room": "Lähde huoneesta",
+      "night": "Yö on laskenut...",
+      "outgoing": "Lähtevä",
+      "request_private": "Pyydä Yksityistä Chattiä",
+      "requests": "Chatti Pyynnöt",
+      "reset_position": "Nollaa sijainti",
+      "spectator": "Sivustaseuraaja",
+      "title": "Ääni"
+    },
+    "npcs": {
+      "remove_fabled": "Poista Tarunomainen",
+      "remove_loric": "Poista Loric",
+      "title": "NPC:t"
     },
     "text": {
       "channels": {
-        "spectator": "Sivustaseuraajat"
+        "private": "Yksityinen",
+        "public": "Julkinen",
+        "spectator": "Sivustaseuraajat",
+        "system": "Sessio"
       },
+      "message_blocked": "ei toimitettu",
+      "message_to": "henkilölle",
+      "prompt_private": "Yksityinen keskustelu",
+      "prompt_public": "Julkinen ilmoitus",
       "prompt_spectator": "Sivustaseuraajien keskustelu",
+      "prompt_system": "Systeemin viestit",
       "system": {
+        "death": "{0} on kuollut.",
+        "end_evil": "Peli on päättynyt ja Paha joukkue on voittanut!",
+        "end_good": "Peli on päättynyt ja Hyvä joukkue on voittanut!",
+        "grim_deny": "{0} on estänyt pääsyt Loitsukirjaan.",
+        "grim_receive": "{0} on saanut pääsyn Loitsukirjaan.",
+        "grim_remove": "{0} ei enää ole pääsyä Loitsukirjaan.",
+        "grim_request": "{0} on pyytänyt pääsyä Loituskirjaan.",
+        "join": "{0} on liittynyt peliin.",
+        "leave": "{0} on lähtenyt pelistä.",
+        "phase": "{0} on alkanut.",
+        "revive": "{0} on herännyt henkiin.",
         "seat_claim": "{0} on ottanut paikan {1}.",
         "seat_empty": "{0} on poistettu paikalta {1}.",
-        "seat_vacate": "{0} on lähtenyt paikalta {1}."
-      }
+        "seat_vacate": "{0} on lähtenyt paikalta {1}.",
+        "signal": "{0} lähetti yö signaalin käyttäjälle {1}.",
+        "start": "Peli on alkanut ja hahmot on lähetetty!",
+        "storyteller_add": "{0} on nyt Tarinankertoja.",
+        "storyteller_remove": "{0}lopetti olla Tarinankertoja.",
+        "vote": "{0} on käyttänyt Haamuäänensä."
+      },
+      "title": "Teksti",
+      "tooltip": "Näytä {0} lukemattomia viestejä vastaaottajalle {1}"
     }
   },
   "user": {
+    "avatar_enabled": "Avatar näkyvissä",
     "blocked": "Estetty",
+    "camera_enabled": "Kamera näkyvissä",
     "error_avatar_text": "Valitsemasi avatarin koko on {0} MB, mutta enimmäiskoko on {1} MB.",
-    "gain": "Vahvistus"
+    "error_avatar_title": "Tiedostokoko liian suuri",
+    "gain": "Vahvistus",
+    "group_subscription": "Ryhmätilaus",
+    "id": "Käyttäjätunnus",
+    "level": "Tili Taso",
+    "mic_volume": "Mikrofoni Äänenvoimakkuus",
+    "new_user": "Uusi Käyttäjä",
+    "pronouns": "pronominit",
+    "registration": "Rekisteröinti",
+    "statistics": "Tilastot",
+    "stats": {
+      "edition": "Eniten Pelatut\nPainokset",
+      "homebrew": "Kotipolttoinen Hahmo",
+      "loading": "Ladataan tilastoja...",
+      "none": "Ei ole",
+      "player": "Pelejä\nPelattu",
+      "player_wins": "{0}% Voittoaste",
+      "role": "Ylä Aloittavat\nHahmot",
+      "st_evil_wins": "{0}% Paha Voittoaste",
+      "storyteller": "Pelejä\nTarinakerrottu",
+      "warning": "Tilastoja luodaan...\nPalaa myöhemmin!"
+    },
+    "stats_hidden": "Piilotettu",
+    "stats_private": "Yksityinen",
+    "stats_public": "Julkinen",
+    "upload_avatar": "Lataa Avatari",
+    "verified": "Vahvistettu Käyttäjä"
   },
   "version": {
+    "character_distribution": "Hahmo jako",
+    "download": "Lataa ja asenna viimeisin {0} versio täältä.",
+    "players_alive": "{0} / {1} pelaajia elossa",
+    "reload": "Lataa uudelleen tai tyhjennä välimuisti saadaksesi uusimman version.",
+    "since": "{0} lähtien",
+    "translation_disclaimer": "Käytät tällä hetkellä paikallista versiota sovelluksesta. Tämän käännöksen ovat laatineet ja tarkistaneet seuraavat vapaaehtoiset, jotka eivät ole yhteydessä The Pandemonium Instituuttiin:",
     "travellers_alive": "{0} / {1} kulkuria elossa"
   }
 }
