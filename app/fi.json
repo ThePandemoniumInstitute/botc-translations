@@ -876,28 +876,124 @@
       "alignment": "Vaihda Puolta",
       "character": "Muuta Hahmoa",
       "chat": "Pyydä Yksityiskeskustelua",
-      "empty_title": "Tyhjää {0} Paikka"
+      "empty": "Tyhjä Istuin",
+      "empty_text": "Haluatko varmasti poistaa tämän pelaajan istuimestaan pelin ollessa vielä käynnissä?",
+      "empty_title": "Tyhjää {0} Paikka",
+      "follow": "Seuraa Pelaajaa",
+      "unfollow": "Lopeta Pelaajan Seuraaminen",
+      "wake": "Herää",
+      "whisper": "Lähetä Viesti"
     },
     "name": {
+      "claim": "Klikkaa lunastaaksesi",
+      "connecting": "Tämä pelaaja yhdistyy äänikeskusteluun.",
+      "follow": "Seuraat tätä pelaajaa.",
+      "listening": "Tämä pelaaja kuuntelee äänikeskustelua.",
+      "move": "Siirrä tätä pelaajaa.",
+      "offline": "Tämä pelaaja on tällä hetkellä offline-tilassa.",
+      "remove": "Poista tämä pelaaja.",
       "remove_text": "Haluatko varmasti poistaa Paikan {0}?\nSiinä istuu nyt {1}.",
       "remove_title": "Poista Paikka",
       "seat_text": "(tämä näkyy vain sinulle)",
       "seat_title": "Vaihda Paikan Nimeä"
     },
     "overlay": {
+      "eyes_open": "On silmät auki",
       "night_info_received": "Yötieto vastaanotettu",
-      "night_info_sent": "Yötieto lähetetty"
+      "night_info_sent": "Yötieto lähetetty",
+      "point": "Osoita tätä pelaajaa",
+      "select": "Valitse tämä pelaaja"
     },
     "reminders": {
+      "add": "Lisää Muistutus",
+      "edit": "Muokkaa Muistutusta {0}",
       "edit_placeholder": "Muistiinpano",
-      "edit_text": "Muokkaa muistiinpanoa {0} kohdalle"
-    }
+      "edit_text": "Muokkaa muistiinpanoa {0} kohdalle",
+      "edit_title": "Muokkaa Muistutusta",
+      "flip": "Käännä Muistutus {0}",
+      "remove": "Poista Muistutus {0}",
+      "saved_favorite": "Tallennettu suosikkeihin"
+    },
+    "shroud_add": "Tämä huntu ei ole nähtävillä muille pelaajille. Klikkaa uudestaan päivän aikana tehdäksesi sen näkyväksi.",
+    "shroud_remove": "Tämä huntu on yhä näkyvissä pelaajille. Klikkaa uudestaan päivän aikana poistaaksesi sen.",
+    "toggle_status": "Vaihda Tila"
   },
   "session": {
-    "locked_text": "Vain jo istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä istuntoon."
+    "access": "Pääsy",
+    "copy": "Klikkaa kopioidaksesi",
+    "created": "Luotu {0} sitten käyttäjän {1} toimesta.",
+    "free": "Kaikille maksuton",
+    "language": "Chatin Kieli",
+    "locked": "TK ja Pelaajat",
+    "locked_text": "Vain jo istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä istuntoon.",
+    "name_placeholder": "Pelisessio nimi",
+    "open_text": "Kaikki voivat liittyä sessioon.",
+    "prompt_public_text": "Oletko varma, että haluat tehdä pelisessiosta julkisen?\nTämä sallii kenen tahansa nähdä ja liittyä peliisi.",
+    "prompt_public_title": "Tee Peli Sessiosta Julkinen",
+    "server_name": "Nimi",
+    "server_stats": "{0} käyttäjää, {1} palvelimen kuormitus",
+    "session_name": "Session Nimi",
+    "subscription_needed": "Tilaus vaaditaan",
+    "tags": "Julkiset Pelimerkit",
+    "title_create": "Luo pelisessio",
+    "title_current": "Nykyinen pelisessio",
+    "visibility": "Näkyvyys",
+    "visibility_private": "Yksityinen",
+    "visibility_public": "Julkinen"
+  },
+  "storyteller": {
+    "connecting": "Tarinankertoja liittyy äänichattiin.",
+    "follow": "Seuraa Tarinankertojaa",
+    "following": "Seuraat tätä tarinankertojaa.",
+    "listening": "Tarinankertoja kuuntelee äänichattiä.",
+    "offline": "Tarinankertoja on tällä hetkellä offline.",
+    "prompt_grim_text": "Uudet käyttäjät eivät voi pyytää pääsyä Loitsukirjaan julkisissa peleissä.\nPelaa lisää pelejä avataksesi tämän ominaisuuden.",
+    "prompt_grim_title": "Virhe Pyytäessä Pääsyä Loitsukirjaan",
+    "remove": "Poista Tarinankertoja",
+    "request_grim": "Pyydä Pääsyä Loistukirjaan",
+    "title": "Tarinankertojat",
+    "unfollow": "Lopeta Tarinankertojan seuraaminen"
   },
   "tabs": {
+    "character": {
+      "download": "Lataa Käsikirjoitus JSON",
+      "error_popout": "Ikkunan luonti epäonnistui",
+      "error_save": "Virhe tiedoston tallentamisessa",
+      "jinxes": "Kiroukset",
+      "other_nights": "Ei\nensimmäisenä yönä"
+    },
+    "characters": {
+      "title": "Hahmot"
+    },
     "chat": {
+      "accept": "Hyväksy Pyyntö",
+      "accept_request": "Hyväksy chattipyyntö {0} kanssa",
+      "cancel": "Peruuta Pyyntö",
+      "cancel_request": "Peruuta chattipyyntö pelaajalle {0}",
+      "channels": {
+        "bmr_0": "Kapakka",
+        "bmr_1": "Vaja",
+        "bmr_2": "Suo",
+        "bmr_3": "Maalaistalo",
+        "bmr_4": "Karavaani",
+        "custom_0": "Rohtokauppa",
+        "custom_1": "Torni",
+        "custom_2": "Katedraali",
+        "custom_3": "Nuotio",
+        "custom_4": "Jokivarsi",
+        "snv_0": "Yrttitarha",
+        "snv_1": "Kasvihuone",
+        "snv_2": "Luolat",
+        "snv_3": "Temppeli",
+        "snv_4": "Sirkusteltta",
+        "tb_0": "Luostari",
+        "tb_1": "Kirkko",
+        "tb_2": "Hautausmaa",
+        "tb_3": "Kirjasto",
+        "tb_4": "Laboratorio"
+      },
+      "chats": "Chatit",
+      "following": "Seuraat tätä pelaajaa.",
       "spectator": "Sivustaseuraaja"
     },
     "text": {
