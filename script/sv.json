@@ -1,1 +1,86 @@
-{}
+{
+  "analysis": {
+    "heading": "Manusanalys",
+    "maximum-character-recommendation": "Det rekommenderade maxantalet roller är {number}.",
+    "no-messages": "Inget att rapportera!",
+    "range-between-recommendation-full-demon": "Det rekommenderade antalet Demoner är {lower} till {upper}.",
+    "range-between-recommendation-full-minion": "Det rekommenderade antalet Kumpaner är {lower} till {upper}.",
+    "range-between-recommendation-full-outsider": "Det rekommenderade antalet Utbölingar är {lower} till {upper}.",
+    "range-between-recommendation-full-townsfolk": "Det rekommenderade antalet Bybor är {lower} till {upper}.",
+    "range-exact-recommendation-full-demon": "Det rekommenderade antalet Demoner är {number}.",
+    "range-exact-recommendation-full-minion": "Det rekommenderade antalet Kumpaner är {number}.",
+    "range-exact-recommendation-full-outsider": "Det rekommenderade antalet Utbölingar är {number}.",
+    "range-exact-recommendation-full-townsfolk": "Det rekommenderade antalet Bybor är {number}.",
+    "too-few-demon": "För få Demoner",
+    "too-few-minion": "För få Kumpaner",
+    "too-few-outsider": "För få Utbölingar",
+    "too-few-townsfolk": "För få Bybor",
+    "too-many-characters": "För många roller",
+    "too-many-demon": "För många Demoner",
+    "too-many-minion": "För många Kumpaner",
+    "too-many-outsider": "För många Utbölingar",
+    "too-many-townsfolk": "För många Bybor"
+  },
+  "edition": {
+    "base-three": "Bas",
+    "carousel": "Carousel",
+    "custom": "Hemgjort",
+    "homebrew": "Hembryggt",
+    "kickstarter": "Kickstarter"
+  },
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "Manus med Korgossen måste ha Kungen.",
+      "title": "Korgosse men ingen Kung"
+    },
+    "+huntsman-damsel": {
+      "msg": "Manus med Jägaren måste ha Ungmön.",
+      "title": "Jägare utan Ungmö"
+    },
+    "no-outsider-mod": {
+      "msg": "Utan Utbölingsmodifiering blir det svårt för onda spelare att låtsas vara Utbölingar.",
+      "title": "Ingen Utbölingsmodifiering"
+    }
+  },
+  "keyword": {
+    "demon": "Demon|Demoner",
+    "fabled": "Fabel|Fabler",
+    "first-night": "Första natten",
+    "loric": "Sägen|Sägner",
+    "minion": "Kumpan|Kumpaner",
+    "other-nights": "Övriga nätter",
+    "outsider": "Utböling|Utbölingar",
+    "player": "Spelare|Spelare",
+    "townsfolk": "Bybo|Bybor",
+    "traveller": "Resenär|Resenärer"
+  },
+  "print": {
+    "not-first-night": "* Inte första natten"
+  },
+  "settings": {
+    "allow-external-images": "Tillåt externa bilder",
+    "bloodstar-image-correction": "Korrigering av Bloodstar-bilder",
+    "font-size": "Teckenstorlek",
+    "font-size-larger": "Större",
+    "font-size-normal": "Normal",
+    "language": "Språk",
+    "print-columns": "Spalter i utskrift",
+    "print-compact-night-sheet": "Kompakt nattark",
+    "print-player-count-table": "Visa tabell med spelarantal",
+    "script-type": "Manustyp",
+    "script-type-standard": "Standard",
+    "show-night-sheet": "Visa nattark",
+    "this-language": "English",
+    "view-tour": "Klicka {link}här{/link} för att visa introduktionen igen."
+  },
+  "tour": {
+    "add-and-remove-characters-heading": "Lägg till och ta bort roller",
+    "autosort-heading": "Automatisk sortering",
+    "final-heading": "Ha så kul!",
+    "import-export-share-heading": "Importera, exportera och dela",
+    "script-analytics-heading": "Manusanalys",
+    "script-name-and-authors-heading": "Manusnamn och författare",
+    "undo-redo-heading": "Ångra och gör om",
+    "welcome-heading": "Välkommen!"
+  }
+}
