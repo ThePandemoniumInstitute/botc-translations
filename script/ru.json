@@ -19,6 +19,9 @@
   "scripts": "Сценарии",
   "search-abilities": "Искать способности",
   "search-names": "Искать имена",
+  "settings": {
+    "this-language": "Английский"
+  },
   "settings-menu": "Настройки",
   "toast": {
     "cannot-remove-bootlegger": "В этом сценарии есть самодельные персонажи, поэтому вы не можете убрать Бутлегера.",
