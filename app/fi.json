@@ -777,24 +777,88 @@
     }
   },
   "pages": {
+    "banned": {
+      "footer3": "Tapa kohteliaasti ja kuole arvokkaasti.",
+      "reason": "Annettu perustelu on seuraavanlainen:"
+    },
     "clock": {
-      "description_mins": "1 minuutti|{n} minuuttia"
+      "description_mins": "1 minuutti|{n} minuuttia",
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Huomio!",
       "bootlegger_warning": "Tässä peli-istunnossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on täydellinen ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?",
       "button_create_game": "Luo Peli",
       "button_help": "Apua",
+      "button_join_game": "Liity Yksityiseen Peliin",
+      "button_local_play": "Paikallinen Peli",
       "button_mod": "Moderoi",
+      "button_quit": "Lopeta",
+      "button_settings": "Asetukset",
+      "button_verify": "Vahvista Tili",
+      "characters": "Hahmot",
+      "create_game": "Luo Uusi Peli",
+      "edition_by": "luonut {author}",
+      "forced_private": "Et voi enää pelata julkisissa peleissä.",
+      "free_tier_free": "Maksuton",
+      "free_tier_patreon": "Patreon",
+      "free_tier_verified": "Sinulla on {0} tili. Tarvitset {1} ennen kuin voit pelata julkisissa peleissä. Mikäli haluat järjestää omia pelejä, hanki tilaus {2}.",
+      "free_tier_verify": "vahvista tilisi",
+      "game": "Peli",
+      "language": "Kieli",
+      "loading": "Ladataan pelejä...",
+      "no_games": "Julkisia pelejä ei löydetty.",
       "npcs": "Ei-Pelaaja-Hahmot",
-      "spectators": "Sivustaseuraajat"
+      "page": "Sivu {page} sivuista {total}",
+      "phase": "Vaihe",
+      "players": "Pelaajat",
+      "script": "Käsikirjoitus",
+      "show_private": "Näytä yksityiset pelit",
+      "spectators": "Sivustaseuraajat",
+      "stats": "{0} käyttäjät ovat {1} {2} peleissä",
+      "stats_public": "julkinen",
+      "storyteller": "Tarinankertoja",
+      "subscription": "Tilaustaso",
+      "updating": "Päivitetään...",
+      "welcome": "Tervetuloa {0}!"
     },
     "login": {
-      "register": "Näyttäytyy"
+      "description": "Kirjaudu sisään tai tuo käyttäjätili jatkaaksesi:",
+      "email": "Sähköpostiosoite",
+      "error_captcha": "Ystävällisesti täytä captcha",
+      "error_password": "Salasanat eivät täsmää",
+      "login": "Kirjaudu",
+      "password": "Salasana",
+      "password_confirm": "Salasanan Vahvistaminen",
+      "password_reset": "Ohjeet salasanan nollaukseen on lähetetty tiliin liitettyyn sähköpostiosoitteeseen.",
+      "recover_password": "Palauta Salasana",
+      "register": "Näyttäytyy",
+      "subscribe": "Tilaa Uutiskirje",
+      "title": "Tervetuloa Verta Kellotornissa Onlineen - Työn alla!",
+      "username": "Käyttäjänimi"
+    },
+    "update": {
+      "description": "Käytät tällä hetkellä versiota {0}, mutta uusin versio on {1}.",
+      "download": "Lataa viimeisin versio {label}täältä.",
+      "reload": "Päivittääksesi sivun, lataa se ystävällisesti uudelleen tai tyhjennä selaimen välimuisti.",
+      "title": "Päivitä ystävällisesti Sovelluksesi"
+    },
+    "verification": {
+      "button_resend": "Lähetä koodi uudestaan",
+      "code": "6 numeroinen koodi",
+      "description": "Vahvista tilisi jatkaaksesi. Lähetimme koodin sähköpostiosoitteeseesi – syötä se jatkaaksesi. Etkö pääse sähköpostiisi?",
+      "email_success": "Sähköposti lähetetty onnistuneesti.",
+      "error_429": "Odota ystävällisesti {0} sekuntia ennen uudestaan yrittämistä.",
+      "error_disposable": "Kertakäyttöisiä sähköpostiosoitteita ei voi käyttää tilin vahvistamiseen.",
+      "error_verified": "Jo vahvisettu",
+      "error_wrong": "Virheellinen koodi, yritä uudestaan.",
+      "link": "Voit muuttaa sen täältä."
     }
   },
   "player": {
     "menu": {
+      "character": "Muuta Hahmoa",
+      "chat": "Pyydä Yksityistä Keskustelua",
       "empty_title": "Tyhjää {0} Paikka"
     },
     "name": {
