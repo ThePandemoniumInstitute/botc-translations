@@ -1,1 +1,67 @@
-{}
+{
+  "analysis": {
+    "maximum-character-recommendation": "Het aanbevolen maximum karakters is {number}.",
+    "no-messages": "Geen opmerkingen!",
+    "range-exact-recommendation-full-townsfolk": "Het is aanbevolen om exact {number} dorpelingen te hebben.",
+    "too-many-characters": "Te veel karakters"
+  },
+  "edition": {
+    "base-three": "Basisspel",
+    "carousel": "Carrousel",
+    "custom": "Aangepast",
+    "kickstarter": "Kickstarter"
+  },
+  "export": {
+    "download-json": "Download JSON",
+    "pdf": "Print/Exporteer PDF",
+    "png": "Exporteer PNG",
+    "screenshot": {
+      "save": "Opslaan",
+      "share": "Delen"
+    }
+  },
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "Scripts met een Koorknaap moeten ook een Koning bevatten."
+    }
+  },
+  "keyword": {
+    "demon": "Demoon|Demonen",
+    "first-night": "Eerste Nacht",
+    "minion": "Volgeling|Volgelingen",
+    "other-nights": "Overige Nachten",
+    "outsider": "Buitenstaander|Buitenstaanders",
+    "player": "Speler|Spelers",
+    "traveller": "Reiziger|Reizigers"
+  },
+  "print": {
+    "not-first-night": "* Niet in de eerste nacht",
+    "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
+  },
+  "settings": {
+    "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
+    "display-and-ui-heading": "Weergave & Gebruikersinterface",
+    "font-size-larger": "Groter",
+    "font-size-normal": "Normaal",
+    "language": "Taal",
+    "script-type-standard": "Standaard",
+    "this-language": "Nederlands",
+    "view-tour": "Klik {link}hier{/link} om de rondleiding nog eens te doen."
+  },
+  "tour": {
+    "add-and-remove-characters-01": "Je kan een {bold}karakter toevoegen{/bold} vanaf het karakter tabblad. Klik op het karakter dat je wilt toevoegen.",
+    "add-and-remove-characters-02": "{bold}Verwijder een karakter{/bold}, door er nogmaals op te klikken, of op het icoon in het script.",
+    "add-and-remove-characters-03": "Op een mobiel apparaat, kun je dit tabblad openen door naar rechts te swipen, of via {menuIcon} knop links boven. Sluit het tabblad door naar links te swipen.",
+    "add-and-remove-characters-04": "Je kunt ook snel karkaters toevoegen via de 'snel invoegen' optie. Deze kun je openen door te drukken op de {plusIcon} knop.",
+    "add-and-remove-characters-heading": "Karakter toevoegen/verwijderen",
+    "autosort-heading": "Automatisch sorteren",
+    "final-heading": "Veel plezier!",
+    "import-export-share-heading": "Importeren, exporteren en delen",
+    "script-analytics-heading": "Script analyse",
+    "script-name-and-authors-heading": "Scriptnaam en auteurs",
+    "undo-redo-01": "Foutje gemaakt, geen probleem! Je kunt iets {block}{undoIcon} terugdraaien{/block} of {block}{redoIcon} herstellen{/block} it. Het script leeggooien kan met de {binIcon} knop.",
+    "undo-redo-heading": "Ongedaan maken/opnieuw uitvoeren",
+    "welcome-01": "Dit is een gloednieuwe scriptmaker voor {bold}Bloed aan de Klokkentoren{/bold}! Deze rondleiding laat je in het kort de basis functies zien, zodat je snel aan de gang kunt.",
+    "welcome-heading": "Welkom!"
+  }
+}
