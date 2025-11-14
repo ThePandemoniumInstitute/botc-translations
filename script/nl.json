@@ -5,6 +5,10 @@
     "range-exact-recommendation-full-townsfolk": "Het is aanbevolen om exact {number} dorpelingen te hebben.",
     "too-many-characters": "Te veel karakters"
   },
+  "author": "Auteur",
+  "author-placeholder": "Onbekend",
+  "by-author": "door {author}",
+  "by-author-isolated": "door",
   "edition": {
     "base-three": "Basisspel",
     "carousel": "Carrousel",
@@ -38,6 +42,8 @@
     "not-first-night": "* Niet in de eerste nacht",
     "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
   },
+  "script-name": "Scriptnaam",
+  "script-name-placeholder": "Naamloos Script",
   "settings": {
     "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
     "display-and-ui-heading": "Weergave & Gebruikersinterface",
@@ -57,6 +63,8 @@
     "autosort-heading": "Automatisch sorteren",
     "final-heading": "Veel plezier!",
     "import-export-share-heading": "Importeren, exporteren en delen",
+    "multiple-scripts-01": "Klik op het {heading}scripts{/heading}tabblad om alle scripts te zien waar je aan gewerkt hebt.",
+    "multiple-scripts-heading": "Aan verschillende scripts werken",
     "script-analytics-heading": "Script analyse",
     "script-name-and-authors-heading": "Scriptnaam en auteurs",
     "undo-redo-01": "Foutje gemaakt, geen probleem! Je kunt iets {block}{undoIcon} terugdraaien{/block} of {block}{redoIcon} herstellen{/block} it. Het script leeggooien kan met de {binIcon} knop.",
