@@ -47,7 +47,7 @@
       },
       "subscription": {
         "label": "サブスクリプションが必要",
-        "title": "このゲームを参加するには購読契約が必要となります"
+        "title": "このゲームを参加するにはサブスクリプションが必要となります"
       },
       "travellers": {
         "label": "旅人",
@@ -74,6 +74,7 @@
     "outsider": "よそ者|よそ者たち",
     "phases": {
       "day": "初日|{n}日目",
+      "end": "準備中",
       "first_night": "初夜",
       "night": "初夜|{n}夜目",
       "other_nights": "他の夜",
@@ -93,6 +94,7 @@
     "clear_grim": "魔導書を削除する",
     "download": "{0}アプリをダウンロードする",
     "edition": "スクリプトを選択する",
+    "error_audio": "ブラウザー設定により、{0}ができませんでした。チャットを開始するためにはここをクリック。",
     "error_audio2": "音声通話の自動再生",
     "error_audio4": "設定を変更する",
     "fullscreen": "フルスクリーン",
@@ -162,24 +164,181 @@
         "chat_title": "チャット接続エラー",
         "connection": "接続エラーが発生",
         "generic": "エラーが発生",
+        "link_title": "パトレオン連携に失敗しました",
+        "loading_text": "アプリデータを読み込み中にエラーが発生しました。リロードします。",
         "loading_title": "読み込みエラー",
+        "missing_edition": "このセッションで使われている版は見つかりませんでした。",
         "missing_edition_title": "エディション情報の読み込み失敗",
+        "missing_roles": "このセッションには、見つからないカスタム役職があります。ジョインする前に読み込んでください！見つからない役職：{0}",
         "missing_roles_title": "カスタム役職の読み込み失敗",
+        "move_player": "プレイヤーの移動に失敗しました",
+        "npcs": "NPC更新に失敗しました",
+        "offline": "サーバーがオフラインのようです",
+        "remove_player": "プレイヤーの削除に失敗しました",
+        "remove_storyteller": "ストーリーテラーの削除に失敗しました",
+        "request_grim": "グリモワール要求に失敗しました",
+        "running": "ゲームの進行状態を変更できませんでした",
+        "sending_roles": "役職配布に失敗しました",
+        "server2_text": "ゲームサーバーから切断されました。再接続中…\nエラー：{0}",
+        "server_change": "チャットサーバーの変更に失敗しました",
+        "server_text": "ゲームサーバーの応答待ちでタイムアウトしました。",
+        "server_title": "ゲームサーバーから切断されました",
+        "session": "ゲームセッション作成に失敗",
+        "session_banned": "あなたはバンされています。",
+        "session_full": "このセッションはすでに２５人のユーザーが参加しています。",
         "session_general": "セッション接続に失敗。",
+        "session_locked": "このゲームセッションがロックされています。\nすでに座っているプレイヤー、およびストーリーテラーしか参加できません。",
+        "session_not_found": "ゲームセッションが見つかりません。",
+        "session_public": "あなたはパブリックゲームセッションに参加できません。",
+        "session_rejoin": "このゲームセッションにはまだリジョンできません。",
+        "session_subscription": "このゲームセッションに参加するには、サブスクリプションが必要です。",
+        "session_unverified": "パブリックゲームに参加する前に、アカウントを認証する必要があります。",
+        "signal": "夜情報を送れませんでした",
+        "start": "ゲームを開始できませんでした",
         "subscription": "サブスクリプションが必要",
+        "subscription_text": "このセッションに参加するためにはサブスクリプションが必要です。",
+        "subscription_title": "パトレオンサブスクリプションが見つかりませんでした",
         "theme_change": "テーマ変更に失敗",
+        "unauthorized": "権限がありません",
         "update": "ゲーム更新に失敗",
         "update_game": "セッション更新に失敗",
         "update_player": "プレイヤー更新に失敗",
         "update_storyteller": "ストーリーテラー更新に失敗",
+        "user_not_found": "ユーザーが見つかりませんでした。",
+        "user_text": "エラーが発生しました： {0}",
         "user_title": "ユーザー更新に失敗",
+        "vacating": "席を空ける際にエラーが発生しました",
+        "video_text": "ブラウザー設定により、自動的にビデオ通話を開始できませんでした。このメッセージを閉じれば開始します。",
         "video_title": "ビデオ通話開始に失敗"
       },
       "prompt": {
+        "chat_text": "チャットサーバー{0}に通信エラーが発生しています。{1}に切り替えますか？",
         "chat_title": "チャットサーバーを変更",
         "join_placeholder": "セッションID",
-        "join_title": "ゲームに参加"
-      }
+        "join_text": "参加したいセッションの番号または名前を入力してください",
+        "join_title": "ゲームに参加",
+        "leave_text": "本当に現在のゲームを抜けてロビーに戻りますか？",
+        "leave_text_player": "本当に席を空けてロビーに戻りますか？",
+        "leave_title": "ロビーに戻る",
+        "pronouns_placeholder": "呼び方",
+        "pronouns_text": "自分の呼び方を入力してください：",
+        "pronouns_title": "呼び方を入力",
+        "storyteller_text": "ストーリーテラーになって、グリモワールに覗き込みますか？",
+        "storyteller_title": "ストーリーテラー昇格リクエスト",
+        "terms": "利用規約が更新されました",
+        "username_placeholder": "ユーザー名",
+        "username_text": "ユーザー名を入力してください：",
+        "username_title": "ユーザー名を入力"
+      },
+      "terms": "Blood on the Clocktower Onlineを利用したことにより、以下の利用機やを読み、同意したものとします：",
+      "terms_confirm": "利用規約を読み、同意します。",
+      "timer_paused": "告発・投票中は一時停止",
+      "timer_start": "開始",
+      "timer_title": "タイマー名（任意）",
+      "unit_minutes": "分",
+      "unit_seconds": "秒"
+    },
+    "edition": {
+      "button_clear": "グリモワールを初期化",
+      "button_paste": "貼り付け",
+      "button_upload": "アップロード",
+      "button_url": "URL",
+      "clear_description": "グリモワール、およびリマインダートークンを自分だけでなく、他のプレイヤーでも初期化します。本当によろしいですか？",
+      "clear_title": "グリモワールやリマインダートークンを初期化",
+      "custom_placeholder": "カスタム台本URL",
+      "custom_text": "custom-script.jsonファイルのURLを入力",
+      "custom_title": "カスタム台本を読み込む",
+      "difficulty": "難易度：",
+      "difficulty_beginner": "初心者向け",
+      "difficulty_intermediate": "中級者向け",
+      "difficulty_various": "まちまち",
+      "error_character": "役職が多すぎます",
+      "error_character_text": "この台本には役職が200件以上登録されています。一部消してください。",
+      "error_custom": "カスタム台本の読み込みに失敗しました",
+      "error_loading": "一部の役職を読み込みできませんでした： {0}",
+      "error_script": "台本が不正です",
+      "error_script_text": "この台本が読み込まれたが、一部エラーが発生しました。カスタム台本のJSONスキーマにそぐわない件が入っている可能性があります。",
+      "error_size": "ファイルサイズが大きすぎます",
+      "error_size_text": "選択した台本のファイルサイズは {0} MBですが、最大は {1}MB以下です。",
+      "homebrew_description": "セキュリティー上、カスタム役職のカスタム画像が汎用のものに置き換えられました。設定メニューから有効にできます。",
+      "homebrew_title": "カスタム画像が無効化",
+      "release_script": "{role}の役職リリース台本：",
+      "theme": "テーマ：",
+      "title": "エディションを選択：",
+      "upload_custom": "カスタム台本のJSONをアップロード"
+    },
+    "help": {
+      "button_send": "セッションデバッグ情報を送信",
+      "button_stop": "デバッグ情報の送信を停止",
+      "link_0": "イッシュートラッカー",
+      "link_1": "メール",
+      "link_2": "ここ",
+      "link_3": "オンラインストア",
+      "session_debug": "エラーが発生していますか？セッション情報やプレイ履歴をバグトラッカーに送信すれば、問題を解決できるかもしれません：",
+      "session_debug2": "あなたのアプリセッションが記録され、自動的に送信されます。止めるには、以下の母田を押すか、リロードしてください。",
+      "text1": "このアプリ（バージョン{version}）が現在更新途中です。",
+      "text2": "フィードバックは{0}または{1}で遅れます。アカウントのメールアドレスやパスワードを{2}で更新できます。物理版が欲しい場合は、{3}を見てみてください。",
+      "welcome": "{0}へようこそ！"
+    },
+    "npc": {
+      "title": "NPCを追加"
+    },
+    "reminder": {
+      "custom_favorite": "お気に入りに登録されました",
+      "custom_note": "カスタムメモ",
+      "custom_text": "{0}に追加するカスタムメモを入力",
+      "custom_title": "カスタムメモを追加",
+      "tab1": "関連するリマインダー",
+      "tab2": "その他のリマインダー",
+      "title": "{0}にリマインダートークンを追加"
+    },
+    "role": {
+      "error_character": "{0}に該当キャラクターが見つかりませんでした。",
+      "error_traveller": "{0}に該当する旅人が見つかりませんでした。",
+      "tab_character": "使用可能のキャラクター",
+      "tab_traveller": "その他の旅人"
+    },
+    "roles": {
+      "clear": "キャラクターの選択を解除",
+      "title": "{0}のキャラクターを選択",
+      "warning": "注意：ゲームセットアップに影響するキャラクターが選択されています！手動で処理する必要があります。"
+    },
+    "settings": {
+      "background_placeholder": "背景画像のURL",
+      "background_text": "カスタム背景URLを入力するか、空白にすることで解除できます。",
+      "background_title": "カスタム背景",
+      "button_edit": "アカウント編集",
+      "button_setup": "ゲームセットアップ",
+      "css_apply": "カスタムCSSルールを適用しますか？",
+      "css_confirm": "わかっているからアプリの見た目を変えさせて",
+      "css_confirm2": "カスタムCSSの変更を適用するか確認してください。しない場合は自動的に無効化されます。",
+      "css_text": "ここでカスタムCSSファイルのURL、またはCSSのコードを入れることでアプリの見た目をカスタマイズできます。他のユーザーが用意したCSSコードについては責任が取れません。悪質なCSSを読み込んだ場合アプリが壊れることがあります！",
+      "css_title": "カスタムCSSを入力",
+      "image_text": "カスタム画像を有効にしますか？悪質な台本の場合、IPアドレスが追跡される可能性があります。The Pandemonium Instituteはほかのユーザーが提供した画像について責任が取れません。",
+      "image_title": "カスタム画像を許可",
+      "nomination": {
+        "baker": {
+          "text": "告発されたプレイヤーが注目される。",
+          "title": "パン屋"
+        },
+        "bigwig": {
+          "text": "告発された者がプレイヤーを選択：投票まで、その人のみが発言でき、告発された者が善であると狂言していなければ死ぬかもしれません。",
+          "title": "ビッグウィッグ"
+        },
+        "regular": {
+          "text": "全員好きにしゃべれる。",
+          "title": "通常"
+        },
+        "zookeeper": {
+          "text": "告発する側とされる側のみが発言できる。",
+          "title": "飼育員"
+        }
+      },
+      "option_disabled": "無効",
+      "patreon_link": "パトレオンを連携",
+      "patreon_perks": "課金{0}でアバターアップロードやネームプレート装飾が利用できます！",
+      "patreon_perks2": "パトレオンサブスクリプション",
+      "patreon_update": "パトレオン状態を更新"
     }
   },
   "pages": {
