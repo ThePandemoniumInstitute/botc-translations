@@ -19,7 +19,7 @@
   "author": "Autor",
   "author-placeholder": "Nieznany",
   "characters": "Postacie",
-  "clear-script": "Wyczyść scenariusz",
+  "clear-script": "Wyczyść skrypt",
   "close": "Zamknij",
   "commit": "Zatwierdź",
   "ctxmenu": {
@@ -29,7 +29,7 @@
     "pinned": "Przypięta",
     "pinned-details": "Przypięta postać pozostaje tam, gdzie jest, nawet jeśli automatyczne sortowanie jest włączone."
   },
-  "delete-script-confirmation": "Czy na pewno chcesz usunąć ten scenariusz? To działanie jest nieodwracalne.",
+  "delete-script-confirmation": "Czy na pewno chcesz usunąć ten skrypt? To działanie jest nieodwracalne.",
   "djinn-rules": "Reguły Dżina",
   "edition": {
     "base-three": "Podstawowe",
@@ -48,10 +48,10 @@
     }
   },
   "export-menu": "Menu eksportu",
-  "external-image-confirm": "Czy jesteś pewien, że chcesz włączyć ładowanie zewnętrznych obrazów? Jeśli twórca pliku scenariusza ma złe intencje, pozwoli mu to śledzić twój adres IP. The Pandemonium Institute nie ma kontroli nad obrazami udostępnianymi przez innych użytkowników aplikacji.",
+  "external-image-confirm": "Czy jesteś pewien, że chcesz włączyć ładowanie zewnętrznych obrazów? Jeśli twórca pliku skryptu ma złe intencje, pozwoli mu to śledzić twój adres IP. The Pandemonium Institute nie ma kontroli nad obrazami udostępnianymi przez innych użytkowników aplikacji.",
   "filters": "Filtry",
   "help": "Pomoc",
-  "import-script": "Importuj scenariusz",
+  "import-script": "Importuj skrypt",
   "import-typing-error": "To pole istnieje aby pozwolić na wklejanie JSONów na urządzeniach mobilnych. Ręczne wpisywanie nie jest dozwolone.",
   "interactions": {
     "+choirboy-king": {
@@ -76,7 +76,7 @@
     "traveller": "Podróżnik|Podróżnicy"
   },
   "name": "Nazwa",
-  "new-script": "Nowy Scenariusz",
+  "new-script": "Nowy Skrypt",
   "print": {
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
     "not-first-night": "* Nie pierwszej nocy",
@@ -86,9 +86,9 @@
   "randomise": "Wylosuj!",
   "redo": "Ponów",
   "sao": "SAO",
-  "script-name": "Tytuł scenariusza",
-  "script-name-placeholder": "Scenariusz Bez Tytułu",
-  "scripts": "Scenariusze",
+  "script-name": "Tytuł skryptu",
+  "script-name-placeholder": "Skrypt Bez Tytułu",
+  "scripts": "Skrypty",
   "search-abilities": "Szukaj po umiejętności",
   "search-character": "Szukaj postaci …",
   "search-names": "Szukaj po nazwie",
@@ -114,9 +114,9 @@
     "view-tour": "Kliknij {link}tutaj{/link} aby ponownie obejrzeć wprowadzenie."
   },
   "settings-menu": "Ustawienia",
-  "share-or-copy": "Podziel się scenariuszem, lub skopiuj link do schowka",
+  "share-or-copy": "Podziel się skryptem lub skopiuj link do schowka",
   "show-all": "Wszystkie postacie",
-  "show-script-analytics": "Pokaż analizę scenariusza",
+  "show-script-analytics": "Pokaż analizę skryptu",
   "toast": {
     "copied": "Skopiowane do schowka!"
   },
@@ -128,13 +128,13 @@
     "autosort-heading": "Automatyczne sortowanie",
     "final-01": "Na razie to wszystko! Jeśli chcesz obejrzeć to wprowadzenie jeszcze raz, możesz je włączyć w menu {block}{settingsIcon} ustawienia{/block}.",
     "final-heading": "Dobrej zabawy!",
-    "import-export-share-02": "Kliknięcie na przycisk {block}{shareIcon} podziel się{/block} da ci specjalny ‘link scenariusza’, który pozwoli każdemu zobaczyć twój scenariusz bezpośrednio w tym narzędziu. Spróbuj!",
+    "import-export-share-02": "Kliknięcie na przycisk {block}{shareIcon} podziel się{/block} da ci specjalny ‘link skryptu’, który pozwoli każdemu zobaczyć twój skrypt bezpośrednio w tym narzędziu. Spróbuj!",
     "import-export-share-03": "Możesz też obejrzeć to wprowadzenie ponownie z menu {block}{settingsIcon} ustawienia{/block}.",
     "import-export-share-heading": "Import, eksport i dzielenie się",
-    "multiple-scripts-01": "Możesz kliknąć tu na zakładkę {heading}scenariusze{/heading} by zobaczyć wszystkie scenariusze, nad którymi pracowałeś.",
-    "script-analytics-01": "Jeśli są jakieś problemy z twoim scenariuszem, zostaną wyświetlone tutaj.",
+    "multiple-scripts-01": "Możesz kliknąć tu na zakładkę {heading}skrypty{/heading} by zobaczyć wszystkie skrypty, nad którymi pracowałeś.",
+    "script-analytics-01": "Jeśli są jakieś problemy z twoim skryptem, zostaną wyświetlone tutaj.",
     "script-name-and-authors-01": "{bold}Tytuł i autorzy scenariusza{/bold} mogą być zmienione tutaj.",
-    "undo-redo-01": "Jeśli coś zepsujesz, nie martw się! Możesz zawsze {block}{undoIcon} cofnąć{/block} albo {block}{redoIcon} ponowić{/block} krok. Możesz też wyczyścić scenariusz klikając przycisk {binIcon}.",
+    "undo-redo-01": "Jeśli coś zepsujesz, nie martw się! Możesz zawsze {block}{undoIcon} cofnąć{/block} albo {block}{redoIcon} ponowić{/block} krok. Możesz też wyczyścić skrypt klikając przycisk {binIcon}.",
     "undo-redo-heading": "Cofnij i ponów",
     "welcome-01": "Oto nowe narzędzie do tworzenia scenariuszy {bold}Blood on the Clocktower{/bold}! To wprowadzenie pokaże ci szybki przegląd podstawowych funkcji by pomóc ci zacząć.",
     "welcome-heading": "Witaj!"
