@@ -42,11 +42,11 @@
       "streaming": {
         "label": "ストリーミングされている",
         "title": "このゲームはライブ配信でストリームされる",
-        "value_0": "されない",
-        "value_1": "される"
+        "value_0": "いいえ",
+        "value_1": "はい"
       },
       "subscription": {
-        "label": "要購読契約"
+        "label": "サブスクリプションが必要"
       },
       "travellers": {
         "label": "旅人",
