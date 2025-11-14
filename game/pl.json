@@ -255,7 +255,7 @@
       "name": "Alchemik"
     },
     "alhadikhia": {
-      "ability": "Każdej nocy* możesz wybrać 3 graczy (wszyscy gracze dowiadują się kogo): każdy w tajemnicy decyduje czy żyje czy umiera, ale gdy wszyscy żyją to wszyscy umierają.",
+      "ability": "Każdej nocy* możesz wybrać 3 graczy (wszyscy gracze dowiadują się kogo): każdy w tajemnicy decyduje czy żyje czy umiera, ale gdy wszyscy żyją, to wszyscy umierają.",
       "flavor": "Alsukut min dhahab.",
       "name": "Al-Hadikhia",
       "other": "Al-Hadikhia wybiera 3 graczy. :reminder: :reminder: :reminder: Obudź gracza oznaczonego *1* i powiedz \"Al-Hadikhia wybrała\", po czym wypowiedz imię tego gracza, następnie zapytaj \"Czy chcesz żyć?\". Gracz potwierdza potaknięciem, lub zaprzecza ruchem głowy. Uśpij tego gracza i dodaj lub usuń całun według decyzji. Powtórz z graczami *2* i *3*. Jeżeli wszyscy troje są teraz żywi, dodaj całun do każdego z nich."
