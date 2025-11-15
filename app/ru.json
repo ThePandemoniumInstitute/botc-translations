@@ -7,7 +7,7 @@
       "patreon-townsfolk": "Уровень Townsfolk",
       "special-free": "Комплиментарный",
       "special-moderator": "Модератор",
-      "special-tpi": "Сотрудники TPI"
+      "special-tpi": "Сотрудник TPI"
     },
     "botc_online": "BOTC Online",
     "button_cancel": "Отмена",
@@ -802,7 +802,7 @@
       "stats": "{0} пользователя(ей) в {1} {2} игре(ах)",
       "stats_public": "публичных",
       "storyteller": "Рассказчик",
-      "subscription": "Уровень подписки",
+      "subscription": "Подписка",
       "updating": "Обновляем...",
       "welcome": "Добро пожаловать в {0}!"
     },
