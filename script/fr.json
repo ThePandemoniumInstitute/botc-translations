@@ -106,7 +106,7 @@
     "outsider": "Étranger|Étrangers",
     "player": "Joueur|Joueurs",
     "townsfolk": "Villageois|Villageois",
-    "traveller": "Voyageur[Voyageurs"
+    "traveller": "Voyageur|Voyageurs"
   },
   "name": "Nom",
   "new-bootlegger-rule": "Nouvelle règle de Contrebandier…",
