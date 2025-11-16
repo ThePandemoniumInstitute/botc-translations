@@ -202,7 +202,7 @@
     "isthedrunk": "Är Fyllot",
     "isthemarionette": "Är Marionetten",
     "isthephilosopher": "Är Filosofen",
-    "know": "Vet",
+    "know": "Visad",
     "lunch": "Middag",
     "mad": "Galen",
     "master": "Husbonde",
@@ -763,7 +763,7 @@
     },
     "knight": {
       "ability": "I början vet du 2 spelare som inte är Demonen.",
-      "first": "Peka på de två spelarna som är markerade med *VET*.",
+      "first": "Peka på de två spelarna som är markerade med *VISAD*.",
       "flavor": "När en man ljuger mördar han ock en del av världen.",
       "name": "Riddaren"
     },
@@ -896,7 +896,7 @@
     },
     "noble": {
       "ability": "I början vet du 3 spelare, varav exakt 1 är ond.",
-      "first": "Peka på alla tre spelare märkta *VET*.",
+      "first": "Peka på alla tre spelare märkta *VISAD*.",
       "flavor": "Sarkasm är förvisso den lägsta formen av humor. Men för att bemöta er kritik, min gode herre, är det alltjämt en form av humor.",
       "name": "Adelsmannen"
     },
@@ -1138,7 +1138,7 @@
     },
     "steward": {
       "ability": "I början vet du 1 god spelare.",
-      "first": "Peka på den goda spelaren märkt *VET*.",
+      "first": "Peka på den goda spelaren märkt *VISAD*.",
       "flavor": "Hur VÅGAR ni anklaga Hennes Nåd för oförrätter? Jag har känt henne i hela mitt liv! Nio år!",
       "name": "Uppassaren"
     },
