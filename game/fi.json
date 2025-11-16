@@ -335,6 +335,7 @@
       "name": "Kerjäläinen"
     },
     "bishop": {
+      "ability": "Vain Tarinankertoja voi nimittää. Ainakin 1 vastapuolen pelaaja täytyy nimittää joka päivä.",
       "name": "Piispa"
     },
     "boffin": {
