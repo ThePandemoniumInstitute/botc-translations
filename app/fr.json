@@ -554,6 +554,7 @@
       "received": "Reçu",
       "response": "Réponse :",
       "saw_this": "Vu par {0}",
+      "selected_players": "Joueurs sélectionnés",
       "sent": "Envoyé",
       "storyteller": "Conteuse|Conteuses",
       "title": "Réveiller {0}",
@@ -581,7 +582,7 @@
       "grimoire_access_revoke": "Révoquer l'Accès au Grimoire",
       "loading": "Chargement de l'utilisateur…",
       "prompt_kick": "Voulez-vous vraiment retirer {0} de la partie ?",
-      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\n Après avoir accepté cette invitation, cette personne aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire.",
+      "prompt_st": "Voulez-vous vraiment faire de {0} une Conteuse ?\nAprès avoir accepté cette invitation, cette personne aura les pleins pouvoirs de Conteuse et un accès complet au Grimoire.",
       "title": "Profil utilisateur"
     },
     "users": {
@@ -705,7 +706,7 @@
     "towninfo": {
       "alive": "En vie",
       "button_gather": "Rassemblez vos Joueurs",
-      "return": "Retour au Grimoire (Raccourci : {0}",
+      "return": "Retour au Grimoire (Raccourci : {0})",
       "script_by": "par {0}",
       "text_player": "La Conteuse doit ajouter plus de joueurs avant que vous puissiez commencer.",
       "text_st": "Pour commencer, vous devez d’abord {0}",
@@ -715,6 +716,7 @@
     "vote": {
       "accusation": "Accusation",
       "button_chat": "Ouvrir un chat",
+      "button_clear_selection": "Réinitialiser la sélection",
       "button_countdown": "Décompte",
       "button_defense": "Passer à la Défense",
       "button_hand_down": "CONTRE",
@@ -725,9 +727,11 @@
       "button_reset": "Réinitialiser",
       "button_restart": "Recommencer",
       "button_resume": "Reprendre",
+      "button_select_player": "Sélectionner un Joueur",
       "button_start": "Démarrer",
-      "countdown_go": "Aller",
+      "countdown_go": "Go",
       "defense": "Défense",
+      "defense_attorney": "Avocat de la défense",
       "highscore_placeholder": "le plus grand nombre de votes",
       "highscore_text": "Entrez un nouveau nombre pour le record de votes d’aujourd’hui\n ou laissez vide pour conserver la majorité habituelle des joueurs en vie.",
       "highscore_title": "Modifier le record de votes",
@@ -866,7 +870,8 @@
       "night_info_received": "Infos de nuit reçues",
       "night_info_sent": "Infos de Nuit envoyées",
       "nominate": "Nommer ce joueur",
-      "point": "Pointez ce joueur"
+      "point": "Pointez ce joueur",
+      "select": "Choisir ce joueur"
     },
     "reminders": {
       "add": "Ajouter Aide-Mémoire",
@@ -912,7 +917,7 @@
     "following": "Vous suivez cette conteuse.",
     "listening": "La Conteuse écoute dans le chat vocal.",
     "offline": "La Conteuse est actuellement hors ligne.",
-    "prompt_grim_text": "Les nouveaux·elles utilisateur·ices ne peuvent pas demander l’accès au Grimoire dans les parties publiques\n Veuillez terminer davantage de parties pour déverrouiller cette fonctionnalité.",
+    "prompt_grim_text": "Les nouveaux utilisateurs ne peuvent pas demander l’accès au Grimoire dans les parties publiques.\nVeuillez terminer davantage de parties pour déverrouiller cette fonctionnalité.",
     "prompt_grim_title": "Erreur lors de la Demande d'Accès au Grimoire",
     "remove": "Retirer la Conteuse",
     "request_grim": "Demander l'Accès au Grimoire",
