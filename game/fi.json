@@ -226,6 +226,7 @@
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
     "redherring": "Harhautus",
+    "registerfalsely": "Rekisteröityy Väärin?",
     "safe": "Turvassa",
     "soberhealthy": "Selvä & terve",
     "somethingbad": "Jotain ikävää",
@@ -491,6 +492,9 @@
       "ability": "Saatat näyttäytyä pahana & Kätyrinä tai Demonina, vaikka olisit kuollut.",
       "flavor": "Gush poesh snk tkouk mtse sulkl mnas näs. Grr. Ilk pklo see etle te menkh ittäelt! Mengk! Mie hrv nä nlev demonk nuol äelk taistlek häddäkns miumla lähl. Hlvh, sitvks!",
       "name": "Rastuli"
+    },
+    "revolutionary": {
+      "ability": "Tiedetään, että 2 naapuria ovat samalla puolella. Kerran pelissä 1 heistä rekisteröityy väärin."
     },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!",
