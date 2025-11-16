@@ -308,6 +308,7 @@
       "other": "Osoita pelaajaa, joka on eri hahmoluokkaa kuin edellinen osoitus. :reminder:"
     },
     "banshee": {
+      "ability": "Jos Demoni tappaa sinut, kaikki pelaajat saavat tietää tämän. Tästä lähtien, voit nimittää kaksi kertaa päivässä ja äänestää kaksi kertaa per nimitys.",
       "other": "Jos Demoni tappoi Bansheen tänä yönä, ilmoita kaikille pelaajille, että Banshee on kuollut. :muistutus:"
     },
     "barber": {
