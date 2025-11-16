@@ -253,7 +253,7 @@
         "storyteller_text": "Czy chcesz zostać Bajarzem i zobaczyć Grymuar?",
         "storyteller_title": "Prośba o zostanie Bajarzem",
         "terms": "Zaktualizowane Warunki Świadczenia Usług",
-        "username_placeholder": "Nazwa Użytkownika",
+        "username_placeholder": "Nazwa użytkownika",
         "username_text": "Wpisz swoją Nazwę Użytkownika:",
         "username_title": "Podaj nazwę użytkownika"
       },
@@ -582,7 +582,7 @@
     "user": {
       "button_add_st": "Dodaj Bajarza",
       "button_cancel_st": "Anuluj żądanie Bajarza",
-      "button_kick_user": "Wykop Użytkownika",
+      "button_kick_user": "Wykop użytkownika",
       "button_mod_user": "Moderuj",
       "button_remove_st": "Usuń Bajarza",
       "error": "Wystąpił błąd podczas ładowania szczegółów o użytkowniku.",
@@ -897,7 +897,7 @@
     "access": "Dostęp",
     "copy": "Kliknij aby skopiować",
     "created": "Stworzone {0} temu przez {1}.",
-    "free": "otwarty",
+    "free": "Otwarty",
     "language": "Język czatu",
     "locked": "Bajarze i Gracze",
     "locked_text": "Tylko siedzący gracze i obecny Bajarz mogą dołączyć.",
