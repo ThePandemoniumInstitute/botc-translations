@@ -537,6 +537,9 @@
     "innkeeper": {
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
     },
+    "judge": {
+      "ability": "Kerran pelissä, jos toinen pelaaja nimitti, voit valita pakottaa nykyisen teloituksen joko läpäisemään tai epäonnistumaan."
+    },
     "kazali": {
       "ability": "Joka yö*, valitse pelaaja: tämä kuolee. [Valitset, mitkä pelaajat ovat mitkäkin kätyrit. -? - +? Hylkiötä]",
       "first": "Ronkeli valitsee keistä tulee Kätyreitä. Herätä kohteet. Näytä *SINÄ OLET* ja Kätyri -merkit & peukku alas.",
