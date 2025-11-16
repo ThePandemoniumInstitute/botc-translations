@@ -373,7 +373,8 @@
       "image_title": "Permitir imágenes personalizadas",
       "nomination": {
         "bigwig": {
-          "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir."
+          "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir.",
+          "title": "Pez Gordo"
         },
         "focus": {
           "text": "El jugador nominado tiene la atención del grupo."
