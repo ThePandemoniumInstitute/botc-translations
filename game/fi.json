@@ -930,7 +930,8 @@
       "name": "Jätti"
     },
     "ojo": {
-      "ability": "Joka yö*, valitse hahmo: tämä kuolee. Jos hahmo ei ole pelissä, Kertoja valitsee, kuka kuolee."
+      "ability": "Joka yö*, valitse hahmo: tämä kuolee. Jos hahmo ei ole pelissä, Kertoja valitsee, kuka kuolee.",
+      "name": "Mulkkio"
     },
     "oracle": {
       "ability": "Joka yö*, saat tietää, kuinka moni paha on kuollut.",
@@ -975,6 +976,7 @@
       "name": "Saarnaaja"
     },
     "princess": {
+      "ability": "Ensimmäisenä päivänäsi, jos nimitit & teloitit pelaajan, Demoni ei tapa tänä yönä.",
       "name": "Prinsessa"
     },
     "professor": {
