@@ -328,7 +328,10 @@
       "title": "Elige un {target} {type} {alignment}",
       "title_alignment_e": "Malvado",
       "title_alignment_g": "Bueno",
-      "title_alignment_r": "normal"
+      "title_alignment_r": "normal",
+      "title_target": "para {0}",
+      "title_type_bluff": "farol",
+      "title_type_character": "personaje"
     },
     "roles": {
       "button_distribute": "Distribuir {0} personajes",
