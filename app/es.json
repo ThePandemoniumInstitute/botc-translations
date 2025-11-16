@@ -197,6 +197,7 @@
         "missing_roles": "Esta sesión contiene personajes personalizados que no se han podido encontrar. Cárgalos antes de unirte. Personajes que faltan: {0}",
         "missing_roles_title": "Error al cargar los personajes personalizados",
         "move_player": "No se puede mover al jugador",
+        "npcs": "Error actualizando PNJs",
         "offline": "Parece que el servidor está desconectado",
         "remove_player": "No se puede eliminar al jugador",
         "remove_storyteller": "Error al eliminar al Narrador",
@@ -305,6 +306,9 @@
       "text2": "Puedes enviar comentarios a través de la página {0} o {1}. Puedes actualizar tu dirección de correo electrónico y contraseña {2}. Si quieres comprar el juego físico, echa un vistazo a {3}.",
       "welcome": "¡Bienvenido a {0}!"
     },
+    "npc": {
+      "title": "Añade un Personaje No Jugador"
+    },
     "reminder": {
       "custom_favorite": "Guardado como favorito",
       "custom_note": "Nota personalizada",
@@ -357,6 +361,9 @@
           "text": "El jugador nominado tiene la atención del grupo.",
           "title": "Panadero"
         },
+        "bigwig": {
+          "text": "Cada nominado elije un jugador: sólo podrán hablar ellos hasta la votación y tienen Mad de que el nominado es bueno o podrían morir."
+        },
         "regular": {
           "text": "Todo el mundo puede hablar como quiera.",
           "title": "Normal"
@@ -406,6 +413,7 @@
       "setting_ptt": "Pulsar para hablar",
       "setting_reminder_zoom": "Tamaño de las fichas de recordatorio",
       "setting_reminders": "Apilar las fichas de recordatorio",
+      "setting_reminders_always": "Siempre",
       "setting_reminders_auto": "Automático",
       "setting_reminders_never": "Nunca",
       "setting_reveal": "Mostrar las cámaras mientras se revela el Grimorio",
@@ -546,6 +554,7 @@
       "received": "Recibido",
       "response": "Respuesta:",
       "saw_this": "{0} ha visto esto",
+      "selected_players": "Jugadores seleccionados",
       "sent": "Enviado",
       "storyteller": "Narrador|Narradores",
       "title": "Despierta a {0}",
@@ -709,6 +718,7 @@
     "vote": {
       "accusation": "Acusa­ción",
       "button_chat": "Chat abierto",
+      "button_clear_selection": "Limpiar Selección",
       "button_countdown": "Cuenta atrás",
       "button_defense": "Empezar Defensa",
       "button_hand_down": "ABAJO",
@@ -719,9 +729,13 @@
       "button_reset": "Reinicio",
       "button_restart": "Reanudar",
       "button_resume": "Seguir",
+      "button_select_player": "Seleccionar Jugador",
+      "button_set_highscore": "Establecer Récord",
       "button_start": "Empezar",
+      "choose_defense_attorney": "¡Elige un abogado defensor!",
       "countdown_go": "Ir",
       "defense": "Defensa",
+      "defense_attorney": "Abogado defensor",
       "highscore_placeholder": "Mayor recuento de votos",
       "highscore_text": "Ingrese un nuevo número para la puntuación más alta de la votación de hoy\no déjelo vacío para la mayoría habitual de votos de jugadores vivos.",
       "highscore_title": "Cambiar la Puntuación más Alta de la Votación",
@@ -759,6 +773,7 @@
       "title": "Por favor, ajusta el reloj de tu ordenador"
     },
     "lobby": {
+      "bootlegger_title": "¡Atención!",
       "button_create_game": "Crear partida",
       "button_help": "Ayuda",
       "button_join_game": "Unirse a partida privada",
