@@ -496,6 +496,7 @@
       "name": "Juoppo"
     },
     "duchess": {
+      "ability": "Joka päivä, 3 pelaajaa voivat valita käydä luonasi. Yöllä*, joka kävijä saa tietää, kuinka monta kävijöistä oli pahoja, mutta 1 saa väärää tietoa.",
       "name": "Herttuatar",
       "other": "Yksi kerrallaan: Herätä pelaajat joilla on *VIERAILIJA* tai *VÄÄRÄ TIETO* -merkki. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Herttuatar -merkit, näytä sitten sormimerkki."
     },
