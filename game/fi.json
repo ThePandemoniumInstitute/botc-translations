@@ -411,6 +411,9 @@
       "flavor": "En tykkää klovneista. Maistuvat hassulta.",
       "name": "Kannibaali"
     },
+    "cerenovus": {
+      "name": "Aivopesijä"
+    },
     "chambermaid": {
       "ability": "Joka yö, valitse kaksi elävää pelaajaa (ei itseäsi): saat tietää, kuinka moni heräsi tänä yönä kykynsä vuoksi.",
       "first": "Sisäkkö valitsee 2 elävää pelaajaa. Anna sormimerkki.",
