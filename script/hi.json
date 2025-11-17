@@ -25,7 +25,14 @@
     }
   },
   "keyword": {
-    "first-night": "पहली रात"
+    "demon": "दानव/दानवों",
+    "first-night": "पहली रात",
+    "loric": "लोरिक।लोरिक",
+    "minion": "अनुचर।अनुचरों",
+    "player": "खिलाड़ी।खिलाड़ियों"
+  },
+  "print": {
+    "not-first-night": "* पहली रात नहीं"
   },
   "settings": {
     "allow-external-images": "बाहरी छवियों की अनुमति दें",
