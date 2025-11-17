@@ -4,9 +4,23 @@
     "button_send": "भेजें"
   },
   "grimoire": {
-    "minion": "मिनियन|मिनियन",
+    "minion": "अनुचर।अनुचरों",
     "phases": {
       "first_night": "पहली रात"
+    }
+  },
+  "modals": {
+    "signal": {
+      "cards": {
+        "evil": "दुष्ट",
+        "five": "पांच",
+        "four": "चार",
+        "good": "अच्छा",
+        "minions": "यह आपके अनुचर हैँ",
+        "neutral": "तटस्थ",
+        "no": "नहीं",
+        "one": "एक"
+      }
     }
   }
 }
