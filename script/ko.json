@@ -81,10 +81,10 @@
   "filters": "필터",
   "help": "도움말",
   "import-script": "스크립트 불러오기",
-  "import-typing-error": "이 칸는 모바일 및 터치용 기기에서 JSON을 붙여넣는 용도입니다. 직접 작성하는 것은 허용되지 않습니다.",
+  "import-typing-error": "이 칸은 모바일 및 터치용 기기에서 JSON을 붙여넣는 용도입니다. 직접 작성하는 것은 허용되지 않습니다.",
   "interactions": {
     "+choirboy-king": {
-      "msg": "합창단 소년이 있는 스크립트는 반드시 왕를 포함해야 합니다.",
+      "msg": "합창단 소년이 있는 스크립트는 반드시 왕을 포함해야 합니다.",
       "title": "왕 없는 합창단 소년"
     },
     "+huntsman-damsel": {
