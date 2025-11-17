@@ -92,8 +92,8 @@
     "storyteller": "語り手{0}",
     "storytellers": "語り手達",
     "token": "コイン",
-    "townsfolk": "市人",
-    "traveller": "旅人"
+    "townsfolk": "村人|村人たち",
+    "traveller": "旅人|旅人たち"
   },
   "main-menu": {
     "cast_vote": "投票する",
@@ -134,7 +134,7 @@
     "request_private": "密談に誘う",
     "reveal_grim": "グリモワールを開示する",
     "rules": "ルールを読む",
-    "session_expires": "「悪魔」ティアユーザーが現在いないため、{0}に終了する可能性があります。",
+    "session_expires": "「手下」ティアユーザーが現在いないため、{0}に終了する可能性があります。",
     "set_timer": "タイマーをセット",
     "settings": "設定",
     "show_grim": "グリモワールを表示する",
@@ -938,7 +938,7 @@
   "tabs": {
     "bluffs": {
       "drag": "このタブを画面上の任意な位置にドラッグして配置できます。",
-      "title": "虚勢"
+      "title": "ブラフ"
     },
     "character": {
       "download": "台本のJSONをダウンロード",
