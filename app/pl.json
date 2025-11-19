@@ -815,7 +815,7 @@
       "accept": "Zaakceptuj nasze {0}, {1} i {2}.",
       "description": "Zaloguj się albo stwórz konto, aby kontynuować:",
       "email": "Adres e-mail",
-      "error_captcha": "Wypełnij CAPTCHA",
+      "error_captcha": "Proszę wypełnij CAPTCHA",
       "error_password": "Hasła się nie zgadzają",
       "login": "Logowanie",
       "password": "Hasło",
