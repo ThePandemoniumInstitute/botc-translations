@@ -817,19 +817,19 @@
       "email": "Adres e-mail",
       "error_captcha": "Proszę wypełnij CAPTCHA",
       "error_password": "Hasła się nie zgadzają",
-      "login": "Logowanie",
+      "login": "Zaloguj się",
       "password": "Hasło",
       "password_confirm": "Potwierdź hasło",
       "password_reset": "Instrukcje, jak zresetować hasło, zostały wysłane na podany adres e-mail.",
-      "recover_password": "Odzyskaj Hasło",
-      "register": "Pokaż się",
+      "recover_password": "Odzyskaj hasło",
+      "register": "Zarejestruj się",
       "subscribe": "Subskrybuj Listę Mailingową",
-      "title": "Witamy w Blood on the Clocktower Online - W Przygotowaniu!",
+      "title": "Witamy w Blood on the Clocktower Online (w przygotowaniu)!",
       "username": "Nazwa użytkownika"
     },
     "update": {
       "description": "Używasz obecnie wersji {0}, ale najnowszą wersją jest {1}.",
-      "download": "Pobierz najnowszą {label} wersję tutaj.",
+      "download": "Pobierz najnowszą wersję tutaj ({label}).",
       "reload": "Proszę przeładuj stronę albo wyczyść cache przeglądarki.",
       "title": "Proszę zaktualizuj swoją aplikację"
     },
@@ -838,7 +838,7 @@
       "code": "6-cyfrowy kod",
       "description": "Zweryfikuj swoje konto, aby kontynuować. Wysłaliśmy kod na Twój adres e-mail — wprowadź go, aby kontynuować. Nie możesz uzyskać dostępu do tego adresu e-mail?",
       "email_success": "E-mail wysłany.",
-      "error_429": "Proszę poczekaj przynajmniej {0} sekund przed ponowną próbą.",
+      "error_429": "Poczekaj {0} sekund przed ponowną próbą.",
       "error_disposable": "Jednorazowych adresów e-mail nie można używać do weryfikacji konta.",
       "error_verified": "Już zweryfikowane",
       "error_wrong": "Nieprawidłowy kod, spróbuj ponownie.",
@@ -851,13 +851,13 @@
       "character": "Zmień Postać",
       "chat": "Poproś o rozmowę prywatną",
       "empty": "Puste krzesło",
-      "empty_text": "Naprawdę chcesz usunąć tego gracza z jego krzesła w trakcie trwającej gry?",
-      "empty_title": "Puste Krzesło {0}",
-      "follow": "Podążaj za Graczem",
-      "nominate": "Nominuj Gracza",
-      "unfollow": "Przestań podążać za Graczem",
-      "wake": "Obudzić",
-      "whisper": "Wyślij Wiadomość Tekstową"
+      "empty_text": "Czy naprawdę usunąć tego gracza z jego krzesła w trakcie gry?",
+      "empty_title": "Puste krzesło {0}",
+      "follow": "Podążaj za graczem",
+      "nominate": "Nominuj",
+      "unfollow": "Przestań podążać",
+      "wake": "Obudź",
+      "whisper": "Wyślij wiadomość tekstową"
     },
     "name": {
       "claim": "Kliknij, aby usiąść",
@@ -867,15 +867,15 @@
       "move": "Przesuń tego gracza.",
       "offline": "Ten gracz jest obecnie offline.",
       "remove": "Usuń tego gracza.",
-      "remove_text": "Naprawdę chcesz usunąć Krzesło? {0}?\n Jest obecnie zajęte przez {1}.",
+      "remove_text": "Naprawdę chcesz usunąć krzesło? {0}?\n Jest obecnie zajęte przez {1}.",
       "remove_title": "Usuń krzesło",
       "seat_text": "(to będzie widoczne tylko dla ciebie)",
-      "seat_title": "Zmień Nazwę Krzesła"
+      "seat_title": "Zmień nazwę krzesła"
     },
     "overlay": {
       "eyes_open": "Ma otwarte oczy",
-      "night_info_received": "Informacje Nocne otrzymane",
-      "night_info_sent": "Informacje Nocne wysłane",
+      "night_info_received": "Informacje nocne otrzymane",
+      "night_info_sent": "Informacje nocne wysłane",
       "nominate": "Nominuj tego gracza",
       "point": "Wskaż tego gracza"
     },
@@ -891,11 +891,11 @@
     },
     "shroud_add": "Ten całun nie jest widoczny dla graczy. Kliknij ponownie w ciągu dnia, aby go zobaczyli.",
     "shroud_remove": "Ten całun jest nadal widoczny dla graczy. Kliknij ponownie w ciągu dnia, aby go usunąć.",
-    "toggle_status": "Zmienić Status"
+    "toggle_status": "Zmień status"
   },
   "session": {
     "access": "Dostęp",
-    "copy": "Kliknij aby skopiować",
+    "copy": "Kliknij, aby skopiować",
     "created": "Stworzone {0} temu przez {1}.",
     "free": "Otwarty",
     "language": "Język czatu",
@@ -903,7 +903,7 @@
     "locked_text": "Tylko siedzący gracze i obecny Bajarz mogą dołączyć.",
     "name_placeholder": "Nazwa gry",
     "open_text": "Każdy może dołączyć do tej gry.",
-    "prompt_public_text": "Jesteś pewien aby udostępnić tą grę publicznie?\n To spowoduje, że każdy będzie mógł zobaczyć i dołączyć do twojej gry.",
+    "prompt_public_text": "Czy na pewno udostępnić tę grę publicznie?\n To spowoduje, że każdy będzie mógł ją zobaczyć i do niej dołączyć.",
     "prompt_public_title": "Ustaw tą grę jako Publiczną",
     "server": "Serwer czatu:",
     "server_name": "Nazwa",
