@@ -1,5 +1,10 @@
 {
+  "edition": {
+    "custom": "カスタム",
+    "homebrew": "カスタム"
+  },
   "keyword": {
+    "other-nights": "他の夜",
     "outsider": "よそ者",
     "player": "プレイヤー"
   }
