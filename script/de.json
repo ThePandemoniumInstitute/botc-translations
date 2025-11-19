@@ -9,7 +9,7 @@
     "heading": "Skript-Analyse",
     "maximum-character-recommendation": "Die empfohlene Höchstzahl an Charakteren ist {number}.",
     "maximum-character-recommendation-teensy": "Die empfohlene Höchstzahl an Charakteren in Krähwinkel-Skripten ist {number}.",
-    "no-messages": "Keine Auffälligkeiten gefunden!",
+    "no-messages": "Sieht gut aus!",
     "range-between-recommendation-full-demon": "Es wird empfohlen, zwischen {lower} und {upper} Dämonen zu haben.",
     "range-between-recommendation-full-minion": "Es wird empfohlen, zwischen {lower} und {upper} Schergen zu haben.",
     "range-between-recommendation-full-outsider": "Es wird empfohlen, zwischen {lower} und {upper} Außenseiter zu haben.",
@@ -92,7 +92,7 @@
       "title": "Huntsman, aber keine Damsel"
     },
     "no-outsider-mod": {
-      "msg": "Ohne Außenseiter-Modifikation können böse Spieler nicht glaubwürdig Außenseiter-Charaktere bluffen.",
+      "msg": "Ohne Charaktere, die die Außenseiter-Anzahl modifizieren, können böse Spieler nicht glaubwürdig Außenseiter-Charaktere bluffen.",
       "title": "Keine Außenseiter-Modifikation"
     }
   },
@@ -108,7 +108,7 @@
     "townsfolk": "Bürger|Bürger",
     "traveller": "Reisender|Reisende"
   },
-  "name": "Name",
+  "name": "Titel",
   "new-bootlegger-rule": "Neue Bootlegger-Regel…",
   "new-script": "Neues Skript",
   "print": {
@@ -122,8 +122,8 @@
   "read-more": "Almanach-/Wiki-Eintrag lesen",
   "redo": "Wiederholen",
   "sao": "SAO",
-  "script-name": "Skriptname",
-  "script-name-placeholder": "Namenloses Skript",
+  "script-name": "Skripttitel",
+  "script-name-placeholder": "Unbenanntes Skript",
   "scripts": "Skripte",
   "search-abilities": "Suche nach Fähigkeit",
   "search-character": "Charakter suchen…",
@@ -144,7 +144,7 @@
     "print-columns": "Gedruckte Spalten",
     "print-compact-night-sheet": "Kompaktes Nachtblatt",
     "print-options-heading": "Druck-Optionen",
-    "print-player-count-table": "Charakter-Verteilungs-Tabelle anzeigen",
+    "print-player-count-table": "Mit Charakter-Verteilungs-Tabelle",
     "script-heading": "Skript-Konfiguration",
     "script-type": "Art des Skripts",
     "script-type-explanation": "Ein Krähwinkel-Skript ist ein Skript, das speziell für niedrigere Spielerzahlen (weniger als 7 Spieler) erstellt wurde. Es hat üblicherweise weniger Charaktere als ein Standard-Skript. Diese Einstellung beeinflusst lediglich die Skript-Analyse, den Zufalls-Generator und einige Elemente der Oberfläche.",
@@ -184,8 +184,8 @@
     "multiple-scripts-heading": "An mehreren Skripten arbeiten",
     "script-analytics-01": "Sollte es Probleme mit deinem Skript geben, dann werden diese hier angezeigt.",
     "script-analytics-heading": "Skript-Analyse",
-    "script-name-and-authors-01": "Der {bold}Name und Autor des Skripts{/bold} kann hier geändert werden.",
-    "script-name-and-authors-heading": "Skript-Name und -Autor",
+    "script-name-and-authors-01": "{bold}Titel und Autor(en) des Skripts{/bold} können hier eingegeben werden.",
+    "script-name-and-authors-heading": "Titel und Autor",
     "undo-redo-01": "Falls dir ein Fehler passiert - kein Problem! Du kannst jederzeit die letzten Aktionen {block}{undoIcon} rückgängig{/block} machen oder {block}{redoIcon} wiederholen{/block}. Du kannst außerdem das Skript mit dem {binIcon} Button leeren.",
     "undo-redo-heading": "Rückgängig und wiederholen",
     "welcome-01": "Du befindest dich auf dem brandneuen Skript-Tool für {bold}Blood on the Clocktower{/bold}! Diese Einführung wird dir einen kurzen Überblick über die Grundfunktionen geben, damit du direkt loslegen kannst.",
