@@ -64,7 +64,7 @@
     "png": "Wyeksportuj PNG",
     "screenshot": {
       "save": "Zapisz",
-      "share": "Podziel się"
+      "share": "Udostępnij"
     }
   },
   "export-menu": "Menu eksportu",
@@ -141,7 +141,7 @@
     "view-tour": "Kliknij {link}tutaj{/link} aby ponownie obejrzeć wprowadzenie."
   },
   "settings-menu": "Ustawienia",
-  "share-or-copy": "Podziel się skryptem lub skopiuj link do schowka",
+  "share-or-copy": "Udostępnij skrypt lub skopiuj link do schowka",
   "show-all": "Wszystkie postacie",
   "show-script-analytics": "Pokaż analizę skryptu",
   "toast": {
@@ -156,9 +156,9 @@
     "final-01": "Na razie to wszystko! Jeśli chcesz obejrzeć to wprowadzenie jeszcze raz, możesz je włączyć w menu {block}{settingsIcon} ustawienia{/block}.",
     "final-heading": "Dobrej zabawy!",
     "import-export-share-01": "Tutaj możesz {block}{importIcon} zaimportować{/block}, {block}{exportIcon} wyeksportować{/block}, albo {block}{shareIcon} podzielić się{/block} skryptami. Chałupnicze postacie i skrypty są wspierane!",
-    "import-export-share-02": "Kliknięcie na przycisk {block}{shareIcon} podziel się{/block} da ci specjalny ‘link skryptu’, który pozwoli każdemu zobaczyć twój skrypt bezpośrednio w tym narzędziu. Spróbuj!",
+    "import-export-share-02": "Kliknięcie na przycisk {block}{shareIcon} udostępnij{/block} da ci specjalny ‘link skryptu’, który pozwoli każdemu zobaczyć twój skrypt bezpośrednio w tym narzędziu. Spróbuj!",
     "import-export-share-03": "Możesz też obejrzeć to wprowadzenie ponownie z menu {block}{settingsIcon} ustawienia{/block}.",
-    "import-export-share-heading": "Import, eksport i dzielenie się",
+    "import-export-share-heading": "Import, eksport i udostępnianie",
     "multiple-scripts-01": "Możesz kliknąć tu na zakładkę {heading}skrypty{/heading} by zobaczyć wszystkie skrypty, nad którymi pracowałeś.",
     "multiple-scripts-02": "Możesz przełączać się tutaj pomiędzy {bold}25 ostatnimi skryptami{/bold}.",
     "multiple-scripts-heading": "Pracowanie nad wieloma skryptami",
