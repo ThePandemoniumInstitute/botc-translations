@@ -206,6 +206,9 @@
 
   "import-typing-error": "This box exists to allow pasting JSONs on mobile and touch devices. Typing and submitting is not allowed.",
 
+  "recommended-travellers": "Recommended Travellers",
+  "fabled-and-loric": "Fabled & Loric",
+
   "djinn-rules": "Djinn Rules",
   "bootlegger-rules": "Bootlegger Rules",
   "add-bootlegger-rules": "Click the plus icon to add a bootlegger rule.",
