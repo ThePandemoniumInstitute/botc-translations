@@ -49,6 +49,7 @@
   "commit": "Godkänn",
   "commit-all-details": "Godkänn alla förslag.",
   "commit-details": "Godkänn den här rollen för att spara den om du slumpar nya roller.",
+  "copy-script-link": "Kopiera manuslänk",
   "ctxmenu": {
     "copy-text": "Kopiera text",
     "copy-text-details": "Kopiera rollens förmågetext",
@@ -78,6 +79,7 @@
   },
   "export-menu": "Exportera",
   "external-image-confirm": "Vill du verkligen tillåta externa bilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
+  "fabled-and-loric": "Fabler & Sägner",
   "filters": "Filter",
   "help": "Hjälp",
   "import-script": "Importera manus",
@@ -120,6 +122,7 @@
   "randomise": "Slumpa!",
   "randomise-details": "Ditt manus fylls med slumpmässiga rollförslag.",
   "read-more": "Läs almanackan/wikin",
+  "recommended-travellers": "Rekommenderade Resenärer",
   "redo": "Gör om",
   "sao": "SAO",
   "script-name": "Manusnamn",
@@ -152,7 +155,7 @@
     "script-type-teensyville": "Mini",
     "show-analysis-icons": "Visa analysikoner",
     "show-night-sheet": "Visa nattark",
-    "this-language": "English",
+    "this-language": "Svenska",
     "view-tour": "Klicka {link}här{/link} för att visa introduktionen igen."
   },
   "settings-menu": "Inställningar",
