@@ -274,7 +274,7 @@
       "other": "Nếu một người chơi được đánh dấu bằng gợi nhớ *THÀNH NGƯỜI XẤU*, đánh thức họ. Cho họ thấy token thông tin *BẠN LÀ* and ngón tay cái hướng xuống. Mezepheles mất đi năng lực. :reminder:"
     },
     "minioninfo": {
-      "first": "Nếu có nhiều hơn 7 người chơi, đánh thức tất cả Tay sai:\n\tCho thấy token *ĐÂY LÀ ÁC QUỶ*. Chỉ tay vào Ác quỷ.\n\tCho thấy token *ĐÂY LÀ TAY SAI CỦA BẠN*. Chỉ tay vào các Tay sai khác.",
+      "first": "Nếu có nhiều hơn 7 người chơi, đánh thức tất cả Tay sai: Cho thấy token *ĐÂY LÀ ÁC QUỶ*. Chỉ vào Ác quỷ. Cho thấy token *ĐÂY LÀ TAY SAI CỦA BẠN*. Chỉ vào các Tay sai khác.",
       "name": "Thông tin Tay sai"
     },
     "minstrel": {
@@ -314,7 +314,7 @@
     "ogre": {
       "ability": "Vào đêm đầu tiên của bạn, chọn một người (trừ bản thân): bạn sẽ theo phe của họ (bạn không biết phe nào) kể cả khi bị say rượu hay trúng độc.",
       "first": "Ogre chỉ tay vào một người. :reminder:",
-      "flavor": "\\<càu nhàu\\>\\<mỉm cười\\>\\</càu nhàu\\>"
+      "flavor": "<càu nhàu><mỉm cười><càu nhàu>"
     },
     "ojo": {
       "ability": "Mỗi đêm*, chọn một nhân vật: họ chết. Nếu họ không có trong ván chơi, Người kể truyện chọn người chết.",
