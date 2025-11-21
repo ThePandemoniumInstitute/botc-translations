@@ -156,7 +156,6 @@
     "view-tour": "{link}이 곳{/link}을 클릭하면 사용법을 볼 수 있습니다."
   },
   "settings-menu": "설정",
-  "share-or-copy": "스크립트 공유 또는 클립보드에 스크립트 링크 복사",
   "show-all": "모든 캐릭터",
   "show-script-analytics": "스크립트 분석 표시",
   "toast": {
