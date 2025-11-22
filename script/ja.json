@@ -1,20 +1,20 @@
 {
   "edition": {
-    "carousel": "カルーセル",
+    "carousel": "回転木馬",
     "custom": "カスタム",
     "homebrew": "カスタム",
-    "kickstarter": "Kickstarter"
+    "kickstarter": "キックスターター版"
   },
   "keyword": {
-    "demon": "悪魔|悪魔たち",
-    "fabled": "伝説人|伝説人たち",
-    "first-night": "初夜",
+    "demon": "悪魔|悪魔",
+    "fabled": "伝説キャラ|伝説キャラ",
+    "first-night": "最初の夜",
     "loric": "ロリク|ロリク",
-    "minion": "手下|手下たち",
+    "minion": "手下|手下",
     "other-nights": "他の夜",
     "outsider": "よそ者",
-    "player": "プレイヤー",
-    "townsfolk": "村人",
-    "traveller": "旅人|旅人たち"
+    "player": "プレイヤー|プレイヤー",
+    "townsfolk": "村人|村人",
+    "traveller": "旅人|旅人"
   }
 }
