@@ -33,6 +33,7 @@
   "delete-script-confirmation": "本当に台本を削除してもよろしいですか？もとに戻せません。",
   "djinn-rules": "ジンルール",
   "edition": {
+    "base-three": "基本ゲーム",
     "carousel": "回転木馬",
     "custom": "カスタム",
     "homebrew": "カスタム",
