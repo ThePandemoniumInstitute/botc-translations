@@ -1,4 +1,8 @@
 {
+  "add-bootlegger-rule": "密売人ルールを追加",
+  "add-demon": "悪魔を追加",
+  "add-minion": "手下を追加",
+  "add-townsfolk": "村人を追加",
   "analysis": {
     "heading": "台本統計",
     "maximum-character-recommendation": "推奨最大キャラクター数が{number}任です。",
@@ -18,6 +22,16 @@
     "too-many-outsider": "よそ者が多すぎです",
     "too-many-townsfolk": "村人が多すぎです"
   },
+  "author": "作者",
+  "author-placeholder": "不明",
+  "bootlegger-rules": "密売人ルール",
+  "by-author": "作：{author}",
+  "by-author-isolated": "作：",
+  "characters": "キャラクター",
+  "clear-script": "台本をクリア",
+  "close": "閉じる",
+  "delete-script-confirmation": "本当に台本を削除してもよろしいですか？もとに戻せません。",
+  "djinn-rules": "ジンルール",
   "edition": {
     "carousel": "回転木馬",
     "custom": "カスタム",
@@ -29,6 +43,9 @@
       "share": "共有"
     }
   },
+  "filters": "フィルター",
+  "help": "ヘルプ",
+  "import-script": "台本を読み取る",
   "interactions": {
     "+choirboy-king": {
       "msg": "聖歌隊員のいる台本には王様も必要です。",
@@ -55,9 +72,20 @@
     "townsfolk": "村人|村人",
     "traveller": "旅人|旅人"
   },
+  "name": "名前",
+  "new-bootlegger-rule": "密売人ルールを新規作成…",
+  "new-script": "台本を新規作成",
   "print": {
     "ios": "iOSデバイスからの印刷は未対応です。やってみてもいいけど、結果は保証できません。"
   },
+  "quick-add": "キャラクター検索…",
+  "read-more": "アルマナック・ウィキページを見る",
+  "recommended-travellers": "推奨旅人",
+  "script-name-placeholder": "無名台本",
+  "scripts": "台本",
+  "search-abilities": "能力検索",
+  "search-character": "キャラクター検索…",
+  "search-names": "名前検索",
   "settings": {
     "allow-external-images": "外部の画像を読み込む",
     "font-size": "フォントサイズ",
@@ -70,9 +98,14 @@
     "this-language": "日本語",
     "view-tour": "{link}ここ{/link}を押せばもう一度初回ツアーを見れます。"
   },
+  "settings-menu": "設定",
+  "show-all": "すべてのキャラクター",
+  "show-script-analytics": "台本統計を表示",
   "toast": {
     "cannot-remove-bootlegger": "この台本にカスタムキャラクターがあるため、密売人を外すことができない。"
   },
+  "toggle-autosort": "自動ソートをトグル",
+  "toggle-quick-input": "クイックインプットをトグル",
   "tour": {
     "script-name-and-authors-heading": "台本の名前と作者",
     "welcome-heading": "ようこそ！"
