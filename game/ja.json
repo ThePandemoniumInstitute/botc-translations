@@ -150,6 +150,9 @@
     "evil": "悪",
     "evilwakes": "悪が起きる",
     "falseinfo": "偽情報",
+    "fauxpaw": "悪をして認識",
+    "fear": "煽り",
+    "finalnightnoattack": "最後の夜：攻撃無し",
     "friend": "友達",
     "good": "善",
     "goodplayerexecuted": "善人が処刑",
@@ -188,6 +191,7 @@
     "safe": "安全",
     "soberhealthy": "健康・素面",
     "somethingbad": "悪いこと",
+    "stormcaught": "ストームキャッチャー",
     "storytellerability": "ストーリーテラー能力",
     "survivesexecution": "処刑しても生き残る",
     "teapartytonight": "今夜はお茶会",
@@ -200,9 +204,12 @@
   },
   "roles": {
     "acrobat": {
+      "flavor": "皆さんようこそ、世界最大のショーへ。",
       "name": "曲芸師"
     },
     "alchemist": {
+      "ability": "あなたには手下の能力がある。使用する場合、ストーリーテラーから選択し直してもらう場合がある。",
+      "flavor": "地球の裏側に到達し、精留を用いて秘められし意志を知るだろう。金の上に、赤ありき。マルクスにケテル。",
       "name": "錬金術師"
     },
     "alsaahir": {
