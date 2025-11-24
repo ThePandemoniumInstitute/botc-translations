@@ -33,7 +33,7 @@
       "difficulty": {
         "label": "Vaikeustaso",
         "title": "Pelaajien odotettu taitotaso tässä pelisessiossa",
-        "value_0": "Tavanomainen",
+        "value_0": "Keskitaso",
         "value_1": "Veteraani",
         "value_2": "Aloittelija"
       },
