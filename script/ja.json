@@ -70,6 +70,9 @@
     "this-language": "日本語",
     "view-tour": "{link}ここ{/link}を押せばもう一度初回ツアーを見れます。"
   },
+  "toast": {
+    "cannot-remove-bootlegger": "この台本にカスタムキャラクターがあるため、密売人を外すことができない。"
+  },
   "tour": {
     "script-name-and-authors-heading": "台本の名前と作者",
     "welcome-heading": "ようこそ！"
