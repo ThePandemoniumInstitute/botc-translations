@@ -33,7 +33,7 @@
   "delete-script-confirmation": "本当に台本を削除してもよろしいですか？もとに戻せません。",
   "djinn-rules": "ジンルール",
   "edition": {
-    "base-three": "基本ゲーム",
+    "base-three": "初版",
     "carousel": "回転木馬",
     "custom": "カスタム",
     "homebrew": "カスタム",
@@ -44,6 +44,7 @@
       "share": "共有"
     }
   },
+  "fabled-and-loric": "伝説・ロリクキャラクター",
   "filters": "フィルター",
   "help": "ヘルプ",
   "import-script": "台本を読み取る",
