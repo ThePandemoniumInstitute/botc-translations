@@ -2,6 +2,7 @@
   "common": {
     "account-levels": {
       "free": "Ilmainen",
+      "patreon-demon": "Demonitaso",
       "patreon-minion": "Kätyritaso",
       "patreon-townsfolk": "Kyläläistaso",
       "special-free": "Maksuton",
