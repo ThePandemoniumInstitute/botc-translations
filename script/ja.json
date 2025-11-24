@@ -29,6 +29,20 @@
       "share": "共有"
     }
   },
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "聖歌隊員のいる台本には王様も必要です。",
+      "title": "聖歌隊員はいるが王様がいない"
+    },
+    "+huntsman-damsel": {
+      "msg": "猟師のいる台本には囚われの姫が必要です。",
+      "title": "猟師はいるが囚われの姫がいない"
+    },
+    "no-outsider-mod": {
+      "msg": "よそ者数の変化がなければ、悪プレイヤーが安定してよそ者を騙れない。",
+      "title": "よそ者数の変化がない"
+    }
+  },
   "keyword": {
     "demon": "悪魔|悪魔",
     "fabled": "伝説キャラ|伝説キャラ",
@@ -55,5 +69,9 @@
     "script-type-teensyville": "小村",
     "this-language": "日本語",
     "view-tour": "{link}ここ{/link}を押せばもう一度初回ツアーを見れます。"
+  },
+  "tour": {
+    "script-name-and-authors-heading": "台本の名前と作者",
+    "welcome-heading": "ようこそ！"
   }
 }
