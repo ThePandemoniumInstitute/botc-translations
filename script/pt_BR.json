@@ -113,9 +113,9 @@
   "new-bootlegger-rule": "Nova regra do Bootlegger…",
   "new-script": "Novo cenário",
   "print": {
-    "ios": "Ainda não há suporte para a Impressão em aparelhos iOS. Você pode tentar de qualquer forma, mas pode ficar feio.",
+    "ios": "Ainda não há suporte para a impressão em aparelhos iOS. Você ainda pode tentar se quiser, mas pode ser que a impressão fique mal diagramada.",
     "not-first-night": "* Exceto a primeira noite",
-    "too-many-characters": "Seu cenário tem personagens demais ({nchars}). O máximo recomendado é 25. Isso pode aparecer qunrado na impressão. Deseja Continuar?"
+    "too-many-characters": "Seu cenário tem personagens demais ({nchars}). O máximo recomendado é 25. Pode ser que a impressão fique mal diagramada. Deseja continuar?"
   },
   "quick-add": "Procurar personagens…",
   "randomise": "Aleatorizar!",
@@ -123,7 +123,7 @@
   "read-more": "Ler a entrada do almanaque ou a página da wiki",
   "recommended-travellers": "Viajantes recomendados",
   "redo": "Refazer",
-  "sao": "OP",
+  "sao": "Padrão",
   "script-name": "Nome do cenário",
   "script-name-placeholder": "Cenário não nomeado",
   "scripts": "Cenários",
@@ -149,7 +149,7 @@
     "print-player-count-table": "Exibir tabela de contagem de jogadores",
     "script-heading": "Configurações do cenário",
     "script-type": "Tipo do cenário",
-    "script-type-explanation": "Um cenário de Pequena Morte é um cenário feito especificamente para uma contagem pequena de jogadores (menos que 7 jogadores). Eles normalmente tem menos personagens que um cenário padrão. Essa configuração afeta apenas a análise de cenário, o embaralhador e alguns elementos da interface.",
+    "script-type-explanation": "Um cenário de Pequena Morte é um cenário feito especificamente para uma contagem pequena de jogadores (menos que 7 jogadores). Eles normalmente tem menos personagens que um cenário padrão. Essa configuração afeta apenas os problemas do cenário, o embaralhador e alguns elementos da interface.",
     "script-type-standard": "Padrão",
     "script-type-teensyville": "Pequena Morte",
     "show-analysis-icons": "Mostrar ícones de problemas",
