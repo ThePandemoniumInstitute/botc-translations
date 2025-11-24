@@ -6,7 +6,7 @@
   "add-outsider": "Adicionar Forasteiros",
   "add-townsfolk": "Adicionar Cidadãos",
   "analysis": {
-    "heading": "Análise do cenário",
+    "heading": "Problemas do cenário",
     "maximum-character-recommendation": "O número máximo recomendado de personagens é {number}.",
     "maximum-character-recommendation-teensy": "O máximo recomendado de personagens em Pequena Morte é {number}.",
     "no-messages": "Nada a relatar!",
@@ -37,7 +37,7 @@
     "too-many-townsfolk": "Muitos Cidadãos"
   },
   "author": "Autor(a)",
-  "author-placeholder": "Desconhecido",
+  "author-placeholder": "Autor desconhecido",
   "bootlegger-rules": "Regras do Bootlegger",
   "by-author": "por {author}",
   "by-author-isolated": "por",
@@ -48,6 +48,7 @@
   "close": "Fechar",
   "commit-all-details": "Confirmar todos os personagens do esboço no cenário.",
   "commit-details": "Confirme este personagem no cenário para que ele não seja removido caso o botão de aleatorizar seja pressionado.",
+  "copy-script-link": "Copiar link do cenário",
   "ctxmenu": {
     "copy-text": "Copiar texto",
     "copy-text-details": "Copiar o texto da habilidade do personagem",
@@ -77,6 +78,7 @@
   },
   "export-menu": "Menu de exportação",
   "external-image-confirm": "Tem certeza de que deseja permitir imagens personalizadas? O autor de um arquivo de cenário malicioso pode rastrear seu endereço IP dessa maneira. O The Pandemonium Institute não tem controle sobre as imagens fornecidas por outros usuários do aplicativo.",
+  "fabled-and-loric": "Lendas & Mitos",
   "filters": "Filtros",
   "help": "Ajuda",
   "import-script": "Importar cenário",
@@ -91,8 +93,8 @@
       "title": "Huntsman sem Damsel"
     },
     "no-outsider-mod": {
-      "msg": "Sem modificação de Forasteiros, os jogadores do mal não podem fingir ser Forasteiros com segurança.",
-      "title": "Nenhuma modificação de Forasteiros"
+      "msg": "Sem modificação de Forasteiros, é mais difícil que os jogadores do mal consigam fingir serem Forasteiros.",
+      "title": "Sem modificação de Forasteiros"
     }
   },
   "keyword": {
@@ -119,6 +121,7 @@
   "randomise": "Aleatorizar!",
   "randomise-details": "O aleatorizador preencherá seu cenário com personagens aleatórios do esboço.",
   "read-more": "Ler a entrada do almanaque ou a página da wiki",
+  "recommended-travellers": "Viajantes recomendados",
   "redo": "Refazer",
   "sao": "OP",
   "script-name": "Nome do cenário",
@@ -140,7 +143,7 @@
     "force-one-column": "Forçar coluna única",
     "language": "Idioma",
     "language-select-heading": "Seleção de idioma",
-    "print-columns": "Imprimir colunas",
+    "print-columns": "Quantidade de colunas na impressão",
     "print-compact-night-sheet": "Ficha da Noite compacta",
     "print-options-heading": "Opções de impressão",
     "print-player-count-table": "Exibir tabela de contagem de jogadores",
@@ -149,20 +152,20 @@
     "script-type-explanation": "Um cenário de Pequena Morte é um cenário feito especificamente para uma contagem pequena de jogadores (menos que 7 jogadores). Eles normalmente tem menos personagens que um cenário padrão. Essa configuração afeta apenas a análise de cenário, o embaralhador e alguns elementos da interface.",
     "script-type-standard": "Padrão",
     "script-type-teensyville": "Pequena Morte",
-    "show-analysis-icons": "Mostrar ícones de análise",
+    "show-analysis-icons": "Mostrar ícones de problemas",
     "show-night-sheet": "Mostrar Ficha da Noite",
-    "this-language": "Inglês",
+    "this-language": "Português (Brasil)",
     "view-tour": "Clique {link}aqui{/link} para ver o tour de novo."
   },
   "settings-menu": "Configurações",
   "show-all": "Todos os personagens",
-  "show-script-analytics": "Mostrar análise do cenário",
+  "show-script-analytics": "Mostrar problemas do cenário",
   "toast": {
     "cannot-remove-bootlegger": "Como existem personagens caseiros neste cenário, você não pode remover o Bootlegger.",
     "copied": "Copiado para a área de transferência!"
   },
-  "toggle-autosort": "Habilitar ordenação automática",
-  "toggle-quick-input": "Alternar entrada rápida",
+  "toggle-autosort": "Habilitar/desabilitar ordenação automática",
+  "toggle-quick-input": "Habilitar/desabilitar entrada rápida",
   "tour": {
     "add-and-remove-characters-01": "Você pode {bold}adicionar um personagem{/bold} na aba de personagens. Clique em qualquer personagem que deseja adicionar.",
     "add-and-remove-characters-02": "Para {bold}remover um personagem{/bold}, clique nele novamente aqui ou clique no ícone dele no cenário.",
@@ -181,7 +184,7 @@
     "multiple-scripts-02": "Você pode alterar entre até {bold}25 cenários recentes{/bold}.",
     "multiple-scripts-heading": "Criar vários cenários",
     "script-analytics-01": "Se houverem quaisquer problemas com seu cenário, eles serão exibidos aqui.",
-    "script-analytics-heading": "Análise do cenário",
+    "script-analytics-heading": "Problemas do cenário",
     "script-name-and-authors-01": "O {bold}nome e autores do cenário{/bold} podem ser alterados aqui.",
     "script-name-and-authors-heading": "Nome e autores do cenário",
     "undo-redo-01": "Se você cometer algum erro, não se preocupe! Você sempre pode {block}{undoIcon}desfazer{/block} ou {block}{redoIcon}refazer{/block} suas ações. Você também pode esvaziar o cenário clicando no botão {binIcon}.",
