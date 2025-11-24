@@ -1,9 +1,33 @@
 {
+  "analysis": {
+    "heading": "台本統計",
+    "maximum-character-recommendation": "推奨最大キャラクター数が{number}任です。",
+    "maximum-character-recommendation-teensy": "小村の推奨最大キャラクター数が{number}任です。",
+    "no-messages": "警告なし！",
+    "range-exact-recommendation-full-demon": "悪魔はちょうど{number}人にすることが推奨されます。",
+    "range-exact-recommendation-full-minion": "手下はちょうど{number}人にすることが推奨されます。",
+    "range-exact-recommendation-full-outsider": "よそ者はちょうど{number}人にすることが推奨されます。",
+    "range-exact-recommendation-full-townsfolk": "村人はちょうど{number}人にすることが推奨されます。",
+    "too-few-demon": "悪魔が足りない",
+    "too-few-minion": "手下が足りない",
+    "too-few-outsider": "よそ者が足りない",
+    "too-few-townsfolk": "村人が足りない",
+    "too-many-characters": "キャラクターが多すぎます",
+    "too-many-demon": "悪魔が多すぎです",
+    "too-many-minion": "手下が多すぎます",
+    "too-many-outsider": "よそ者が多すぎです",
+    "too-many-townsfolk": "村人が多すぎです"
+  },
   "edition": {
     "carousel": "回転木馬",
     "custom": "カスタム",
     "homebrew": "カスタム",
     "kickstarter": "キックスターター版"
+  },
+  "export": {
+    "screenshot": {
+      "share": "共有"
+    }
   },
   "keyword": {
     "demon": "悪魔|悪魔",
@@ -16,5 +40,20 @@
     "player": "プレイヤー|プレイヤー",
     "townsfolk": "村人|村人",
     "traveller": "旅人|旅人"
+  },
+  "print": {
+    "ios": "iOSデバイスからの印刷は未対応です。やってみてもいいけど、結果は保証できません。"
+  },
+  "settings": {
+    "allow-external-images": "外部の画像を読み込む",
+    "font-size": "フォントサイズ",
+    "language": "言語",
+    "script-heading": "台本設定",
+    "script-type": "台本タイプ",
+    "script-type-explanation": "小村台本は７人未満の少人数用の台本です。通常の台本よりキャラクターが少ないことが多い。この設定はあくまでも、台本統計、ランダム化システム、そして一部のＵＩにしか影響がない。",
+    "script-type-standard": "通常",
+    "script-type-teensyville": "小村",
+    "this-language": "日本語",
+    "view-tour": "{link}ここ{/link}を押せばもう一度初回ツアーを見れます。"
   }
 }
