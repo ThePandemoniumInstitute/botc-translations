@@ -205,6 +205,11 @@
   "close": "Close",
 
   "import-typing-error": "This box exists to allow pasting JSONs on mobile and touch devices. Typing and submitting is not allowed.",
+  "import-json-error": "Could not load a valid JSON from",
+  "import-type-error": "Wrong file type, did not load file.",
+  "import-description": "Click or drag & drop to import the script JSON",
+  "import-description-kb": "or paste JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "… or paste URL/JSON here:",
 
   "recommended-travellers": "Recommended Travellers",
   "fabled-and-loric": "Fabled & Loric",
