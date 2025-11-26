@@ -82,7 +82,12 @@
   "fabled-and-loric": "Legenden & Loric",
   "filters": "Filter",
   "help": "Hilfe",
+  "import-description": "Hier klicken oder hierher ziehen um das Skript JSON zu importieren",
+  "import-description-kb": "oder JSON / URL mit STRG+V / ⌘+V einfügen.",
+  "import-description-nokb": "…oder URL / JSON hier einfügen:",
+  "import-json-error": "Konnte kein gültiges JSON laden von",
   "import-script": "Skript importieren",
+  "import-type-error": "Datei nicht geladen, falscher Dateityp.",
   "import-typing-error": "Dieses Fenster wird angezeigt, damit du auf mobilen Geräten oder solchen mit Touch-Interface ein JSON-Skript einfügen kannst. Manuelle Eingaben sind hier nicht möglich.",
   "interactions": {
     "+choirboy-king": {
