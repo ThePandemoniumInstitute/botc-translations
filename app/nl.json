@@ -322,7 +322,8 @@
       "title": "Selecteer een {alignment} {type} {target}",
       "title_alignment_e": "Slecht",
       "title_alignment_g": "Goed",
-      "title_alignment_r": "normaal"
+      "title_alignment_r": "normaal",
+      "title_type_character": "Karakter"
     },
     "roles": {
       "button_distribute": "{0} karakters uitdelen",
