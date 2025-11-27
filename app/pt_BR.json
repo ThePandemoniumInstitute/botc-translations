@@ -805,7 +805,7 @@
       "storyteller": "Narrador",
       "subscription": "Nível de assinatura",
       "updating": "Atualizando...",
-      "welcome": "Bem vindo ao {0}!"
+      "welcome": "Boas-vindas ao {0}!"
     },
     "login": {
       "accept": "Aceite nossos {0}, {1} e {2}.",
@@ -899,7 +899,7 @@
     "locked_text": "Apenas jogadores sentados e Narradores atuais podem entrar na sessão.",
     "name_placeholder": "Nome da partida",
     "open_text": "Qualquer um pode entrar na sessão.",
-    "prompt_public_text": "Tem certeza de que deseja tornar a sessão do jogo visível ao público?\nIsso permitirá que qualquer pessoa veja e participe do seu jogo.",
+    "prompt_public_text": "Tem certeza de que deseja tornar a partida visível ao público?\nIsso permitirá que qualquer pessoa veja e participe do seu jogo.",
     "prompt_public_title": "Tornar a partida pública",
     "server": "Servidor das conversas:",
     "server_name": "Nome",
