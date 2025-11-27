@@ -701,7 +701,7 @@
       "alive": "Levend",
       "button_gather": "Verzamel je spelers",
       "return": "Terug naar het Grimoire (Snelkoppeling: {0})",
-      "script_by": "bij {0}",
+      "script_by": "door {0}",
       "text_player": "De Verteller moet meer spelers toevoegen voor je kunt beginnen.",
       "text_st": "Om te beginnen moet je eerst {0}",
       "timer_ended": "Beëindigd",
