@@ -2,14 +2,17 @@
   "add-bootlegger-rule": "Добавить правило Бутлегера",
   "author": "Автор",
   "bootlegger-rules": "Правила Бутлегера",
+  "characters": "Персонажи",
   "close": "Закрыть",
   "djinn-rules": "Правила Джинна",
   "edition": {
     "kickstarter": "Kickstarter"
   },
+  "filters": "Фильтры",
   "help": "Помощь",
   "name": "Имя",
   "new-bootlegger-rule": "Новое правило Бутлегера…",
+  "new-script": "Новый Сценарий",
   "read-more": "Читать запись в альманахе/статью википедии",
   "recommended-travellers": "Рекомендуемые Странники",
   "script-name": "Название сценария",
