@@ -1,5 +1,18 @@
 {
+  "export": {
+    "copy-json": "Copiar JSON",
+    "download-json": "Descargar JSON",
+    "pdf": "Imprimir/Exportar PDF",
+    "png": "Exportar PNG",
+    "screenshot": {
+      "save": "Guardar",
+      "share": "Compartir"
+    }
+  },
   "print": {
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
+  },
+  "settings": {
+    "display-and-ui-heading": "Pantalla e Interfaz de Usuario"
   }
 }
