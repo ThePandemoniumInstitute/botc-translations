@@ -1,1 +1,5 @@
-{}
+{
+  "print": {
+    "too-many-characters": "Tu guión tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede no quedar bien en la impresión. ¿Quieres continuar?"
+  }
+}
