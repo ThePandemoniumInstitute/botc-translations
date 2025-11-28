@@ -20,6 +20,13 @@
     "too-many-outsider": "Demasiados Forasteros",
     "too-many-townsfolk": "Demasiados Aldeanos"
   },
+  "edition": {
+    "base-three": "Básico",
+    "carousel": "Carrusel",
+    "custom": "Personalizado",
+    "homebrew": "Casero",
+    "kickstarter": "Kickstarter"
+  },
   "export": {
     "copy-json": "Copiar JSON",
     "download-json": "Descargar JSON",
@@ -35,7 +42,20 @@
       "title": "No se pueden modificar los Forasteros."
     }
   },
+  "keyword": {
+    "demon": "Demonio|Demonios",
+    "fabled": "Fábula|Fábulas",
+    "first-night": "Primera noche",
+    "loric": "Lóric|Lóric",
+    "minion": "Esbirro|Esbirros",
+    "other-nights": "Otras noches",
+    "outsider": "Forastero|Forasteros",
+    "player": "Jugador|Jugadores",
+    "townsfolk": "Aldeano|Aldeanos",
+    "traveller": "Viajero|Viajeros"
+  },
   "print": {
+    "not-first-night": "* No la primera noche",
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
   "settings": {
@@ -46,14 +66,18 @@
     "font-size": "Tamaño de letra",
     "font-size-larger": "Grande",
     "font-size-normal": "Normal",
+    "force-one-column": "Forzar una sola columna",
     "language": "Idioma",
     "language-select-heading": "Selección de idioma",
     "print-columns": "Imprimir columnas",
     "print-compact-night-sheet": "Hoja de noche compacta",
     "print-options-heading": "Opciones de impresión",
     "print-player-count-table": "Mostrar la tabla del número de jugadores",
+    "script-heading": "Ajustes de guion",
     "script-type": "Tipo de guion",
     "script-type-standard": "Estándar",
+    "show-analysis-icons": "Mostrar los iconos de análisis",
+    "show-night-sheet": "Mostrar la hoja de noche",
     "this-language": "Español",
     "view-tour": "Haz clic {link}aquí{/link} para ver de nuevo el tutorial."
   },
