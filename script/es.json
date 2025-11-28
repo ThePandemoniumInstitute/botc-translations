@@ -16,6 +16,10 @@
     "compact-layout": "Distribución Compacta",
     "display-and-ui-heading": "Pantalla e Interfaz de Usuario",
     "external-images-heading": "Imágenes Externas",
+    "font-size": "Tamaño de letra",
+    "font-size-larger": "Grande",
+    "font-size-normal": "Normal",
+    "print-columns": "Imprimir Columnas",
     "print-options-heading": "Opciones de Impresión"
   }
 }
