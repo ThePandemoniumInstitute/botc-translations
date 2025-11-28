@@ -9,12 +9,14 @@
     "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсивилле — {number}.",
     "no-messages": "Все в порядке!",
     "range-between-recommendation-full-demon": "Рекомендовано от {lower} до {upper} Демонов.",
+    "range-between-recommendation-full-minion": "Рекомендуется использовать от {lower} до {upper} ролей Приспешников.",
     "range-between-recommendation-full-outsider": "Рекомендовано от {lower} до {upper} Изгоев.",
     "range-between-recommendation-full-townsfolk": "Рекомендовано от {lower} до {upper} Горожан.",
     "range-between-recommendation-teensy-demon": "Рекомендовано от {lower} до {upper} Демонов в Тинсвилле.",
     "range-between-recommendation-teensy-outsider": "Рекомендовано от {lower} до {upper} Изгоев в Тинсвилле.",
     "range-between-recommendation-teensy-townsfolk": "Рекомендовано от {lower} до {upper} Горожан в Тинсвилле.",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
+    "range-exact-recommendation-full-minion": "Рекомендуется включить в набор ролей строго {number} Приспешника|Приспешников.",
     "range-exact-recommendation-full-outsider": "Рекомендовано ровно {number} Изгоев.",
     "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
     "range-exact-recommendation-teensy-demon": "Рекомендовано ровно {number} Демонов в Тинсвилле.",
@@ -27,7 +29,7 @@
     "too-many-characters": "Слишком много ролей",
     "too-many-demon": "Слишком много Демонов",
     "too-many-minion": "Слишком много Приспешников",
-    "too-many-outsider": "Слишком много Миньонов",
+    "too-many-outsider": "Слишком много Чужаков",
     "too-many-townsfolk": "Слишком много Горожан"
   },
   "author": "Автор",
@@ -52,6 +54,7 @@
   "edition": {
     "base-three": "Базовый",
     "carousel": "Карусель",
+    "custom": "Пользовательский",
     "homebrew": "Самодельный",
     "kickstarter": "Kickstarter"
   },
@@ -65,6 +68,7 @@
       "share": "Поделиться"
     }
   },
+  "export-menu": "Меню экспортирования",
   "filters": "Фильтры",
   "help": "Помощь",
   "import-description-kb": "или вставьте JSON/URL (Ctrl+V / ⌘V)",
@@ -88,6 +92,7 @@
   "keyword": {
     "demon": "Демон|Демоны",
     "first-night": "Первая ночь",
+    "loric": "Летописец|Летописцы",
     "minion": "Приспешник|Приспешники",
     "other-nights": "Последующие ночи",
     "outsider": "Изгой|Изгои",
@@ -141,6 +146,7 @@
   },
   "settings-menu": "Настройки",
   "show-all": "Все роли",
+  "show-script-analytics": "Показать анализ сценария",
   "toast": {
     "cannot-remove-bootlegger": "В этом сценарии есть самодельные персонажи, поэтому вы не можете убрать Бутлегера.",
     "copied": "Скопировано в буфер обмена!"
@@ -160,6 +166,7 @@
     "multiple-scripts-01": "Вы можете выбрать вкладку {heading}Сценарии{/heading} здесь, чтобы увидеть все сценарии, над которыми вы работали.",
     "multiple-scripts-02": "Здесь вы можете переключаться между {bold}25 последними сценариями{/bold}.",
     "multiple-scripts-heading": "Работа над несколькими сценариями",
+    "script-analytics-01": "Если в вашем сценарии имеются какие-либо проблемы, они будут показаны здесь.",
     "script-analytics-heading": "Анализ сценария",
     "script-name-and-authors-01": "{bold}Название сценария и авторство{/bold} можно указать здесь.",
     "script-name-and-authors-heading": "Название сценария и авторы",
