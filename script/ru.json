@@ -1,7 +1,9 @@
 {
+  "author": "Автор",
   "edition": {
     "kickstarter": "Kickstarter"
   },
+  "script-name": "Название сценария",
   "toast": {
     "cannot-remove-bootlegger": "В этом сценарии есть самодельные персонажи, поэтому вы не можете убрать Бутлегера.",
     "copied": "Скопировано в буфер обмена!"
