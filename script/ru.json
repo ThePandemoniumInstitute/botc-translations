@@ -2,7 +2,7 @@
   "add-bootlegger-rule": "Добавить правило Бутлегера",
   "analysis": {
     "maximum-character-recommendation": "Максимальное рекомендованное число ролей — {number}.",
-    "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсвилле — {number}.",
+    "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсивилле — {number}.",
     "no-messages": "Все в порядке!",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
     "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
@@ -26,8 +26,8 @@
   "export": {
     "copy-json": "Копировать JSON",
     "download-json": "Скачать JSON",
-    "pdf": "Печать PDF",
-    "png": "Скачать PNG",
+    "pdf": "Печать/экспорт в PDF",
+    "png": "Экспорт в PNG",
     "screenshot": {
       "save": "Сохранить",
       "share": "Поделиться"
@@ -59,17 +59,19 @@
     "allow-external-images": "Разрешить внешние изображения",
     "bloodstar-image-correction-explanation": "Иконки, созданные в bloodstar.xyz, имеют небольшой отступ снизу, они не полностью центрированы. Включение этой настройки компенсирует этот отступ.",
     "compact-layout": "Компактный макет",
+    "display-and-ui-heading": "Отображение и внешний вид",
     "external-images-heading": "Внешние изображения",
     "font-size": "Размер шрифта",
     "font-size-larger": "Больше",
     "font-size-normal": "Обычный",
+    "force-one-column": "В один столбец",
     "language": "Язык",
     "language-select-heading": "Выбор языка",
     "print-options-heading": "Настройки печати",
     "script-heading": "Настройки сценария",
     "script-type": "Тип сценария",
-    "script-type-explanation": "Тинсвилль — это сценарий, предназначенный на небольшую компанию (до 7 игроков). В таких сценариях обычно меньше ролей, чем в обычном. Эта настройка влияет только на анализ сценария, рандом, и элементы интерфейса.",
-    "script-type-teensyville": "Тинсвилль",
+    "script-type-explanation": "Тинсивилль — это сценарий, предназначенный на небольшую компанию (до 7 игроков). В таких сценариях обычно меньше ролей, чем в обычном. Эта настройка влияет только на анализ сценария, рандом, и элементы интерфейса.",
+    "script-type-teensyville": "Тинсивилль",
     "show-analysis-icons": "Показать иконки анализа",
     "this-language": "Русский",
     "view-tour": "Нажмите {link}здесь{/link}, чтобы повторить обучение."
