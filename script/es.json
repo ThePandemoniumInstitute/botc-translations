@@ -13,6 +13,7 @@
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
   "settings": {
+    "compact-layout": "Distribución Compacta",
     "display-and-ui-heading": "Pantalla e Interfaz de Usuario",
     "external-images-heading": "Imágenes Externas",
     "print-options-heading": "Opciones de Impresión"
