@@ -3,9 +3,11 @@
   "analysis": {
     "maximum-character-recommendation": "Максимальное рекомендованное число ролей — {number}.",
     "maximum-character-recommendation-teensy": "Максимальное рекомендованное число ролей в Тинсвилле — {number}.",
+    "no-messages": "Все в порядке!",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
     "range-exact-recommendation-full-townsfolk": "Рекомендовано ровно {number} Горожан.",
     "too-few-demon": "Недостаточно Демонов",
+    "too-few-minion": "Недостаточно Приспешников",
     "too-few-townsfolk": "Недостаточно Горожан",
     "too-many-characters": "Слишком много ролей",
     "too-many-demon": "Слишком много Демонов",
@@ -36,6 +38,7 @@
   "keyword": {
     "demon": "Демон|Демоны",
     "first-night": "Первая ночь",
+    "minion": "Приспешник|Приспешники",
     "other-nights": "Другие ночи",
     "player": "Игрок|Игроки"
   },
