@@ -292,6 +292,7 @@
     "votehistory": {
       "execution": "İdam",
       "exile": "Sürgün",
+      "type": "Tür",
       "votes": "Oylar"
     }
   },
@@ -301,6 +302,8 @@
     },
     "gatherplayers": {
       "shuffle_title": "Sandalyeleri rastgele dağıt",
+      "swap": "Bununla değiştir.\n{0}",
+      "text2": "Herkes için yeterli koltuk olunca, {0}",
       "title": "Oyuncularını Topla",
       "warning": "Ravenswood Bluff'da geçen sıradan bir oyun için en az 7 oyuncuya ihtiyacınız var."
     },
@@ -314,6 +317,51 @@
         "state_peek-eyes": "Gizlice Bakılıyor",
         "text": "Gözlerin {0}"
       }
+    },
+    "pointing": {
+      "countdown_freeze": "Dondur",
+      "nobody": "hiç kimse",
+      "title_locked": "Seçilen oyuncu:|Seçilen oyuncular:"
+    },
+    "reveal": {
+      "button_remaining": "Kalan oyuncular",
+      "button_result": "Oyunun sonucu",
+      "evil": "Kötü",
+      "good": "İyi",
+      "result": "{0} kazandı!",
+      "title": "Grimoire'ı Göster"
+    },
+    "rules": {
+      "button_select": "Karakterleri Seç",
+      "text": "{0}'a hazırsın",
+      "title": "Karakterleri Seç"
+    },
+    "towninfo": {
+      "alive": "Hayatta",
+      "button_gather": "Oyuncularını Topla",
+      "return": "Grimoire'a Dön (Kısayol: {0})",
+      "script_by": "{0} tarafından",
+      "text_st": "Başlamak için, ilk olarak {0} gerekli",
+      "timer_ended": "bitti"
+    },
+    "vote": {
+      "accusation": "Suçlama",
+      "button_chat": "Sohbeti Aç",
+      "button_clear_selection": "Seçimi Temizle",
+      "button_countdown": "Geri Sayım",
+      "button_defense": "Savunmaya Geç",
+      "button_hand_up": "YUKARI",
+      "button_pause": "Durdur",
+      "button_reset": "Yeniden Kur",
+      "button_restart": "Yeniden Başlat",
+      "button_resume": "Devam Ettir",
+      "button_select_player": "Oyuncuyu Seç",
+      "button_start": "Başlat",
+      "choose_defense_attorney": "Bir avukat seç!",
+      "defense": "Savunma",
+      "defense_attorney": "Avukat",
+      "highscore_placeholder": "en yüksek oy sayısı",
+      "no_majority": "Çoğunluk gerekmiyor"
     }
   }
 }
