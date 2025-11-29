@@ -361,7 +361,12 @@
       "defense": "Savunma",
       "defense_attorney": "Avukat",
       "highscore_placeholder": "en yüksek oy sayısı",
-      "no_majority": "Çoğunluk gerekmiyor"
+      "no_majority": "Çoğunluk gerekmiyor",
+      "secret_vote": "Gizli Oy",
+      "warning_shortcuts": "Kısayollar devre dışı!"
+    },
+    "whisper": {
+      "muted": "Bu oyuncu sesli sohbette susturuldu/ sessizleştirildi."
     }
   }
 }
