@@ -85,6 +85,7 @@
   "import-description": "Klicka eller dra och släpp för att importera manus-JSON",
   "import-description-kb": "eller klistra in JSON/URL (Ctrl+V/⌘V)",
   "import-description-nokb": "… eller klistra in URL/JSON här:",
+  "import-json-error": "Det gick inte att ladda en giltig JSON från",
   "import-script": "Importera manus",
   "import-type-error": "Fel filtyp. Filen laddades inte.",
   "import-typing-error": "Den här rutan är till för att klistra in JSON-filer på mobil och touch-enheter. Det är inte tillåtet att skriva.",
