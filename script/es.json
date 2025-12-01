@@ -1,6 +1,15 @@
 {
   "analysis": {
-    "too-few-townsfolk": "Aldeanos Insuficientes"
+    "no-messages": "¡Nada que comentar!",
+    "too-few-demon": "Insuficientes Demonios",
+    "too-few-minion": "Insuficientes Esbirros",
+    "too-few-outsider": "Insuficientes Forasteros",
+    "too-few-townsfolk": "Insuficientes Aldeanos",
+    "too-many-characters": "Demasiados personajes",
+    "too-many-demon": "Demasiados Demonios",
+    "too-many-minion": "Demasiados Esbirros",
+    "too-many-outsider": "Demasiados Forasteros",
+    "too-many-townsfolk": "Demasiados Aldeanos"
   },
   "export": {
     "copy-json": "Copiar JSON",
@@ -16,13 +25,19 @@
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
   "settings": {
+    "allow-external-images": "Permitir Imágenes Externas",
     "compact-layout": "Distribución compacta",
     "display-and-ui-heading": "Pantalla e Interfaz de usuario",
     "external-images-heading": "Imágenes externas",
     "font-size": "Tamaño de letra",
     "font-size-larger": "Grande",
     "font-size-normal": "Normal",
+    "language": "Idioma",
+    "language-select-heading": "Selección de idioma",
     "print-columns": "Imprimir columnas",
-    "print-options-heading": "Opciones de impresión"
+    "print-options-heading": "Opciones de impresión",
+    "script-type": "Tipo de Guión",
+    "script-type-standard": "Estándar",
+    "view-tour": "Haz click {link}aquí{/link} para realizar el tutorial otra vez."
   }
 }
