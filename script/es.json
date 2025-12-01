@@ -1,6 +1,15 @@
 {
   "analysis": {
+    "maximum-character-recommendation": "El número máximo de personajes recomendado es {number}.",
     "no-messages": "¡Nada que comentar!",
+    "range-between-recommendation-full-demon": "Se recomienda tener entre {lower} y {upper} Demonios.",
+    "range-between-recommendation-full-minion": "Se recomienda tener entre {lower} y {upper} Esbirros.",
+    "range-between-recommendation-full-outsider": "Se recomienda tener entre {lower} y {upper} Forasteros.",
+    "range-between-recommendation-full-townsfolk": "Se recomienda tener entre {lower} y {upper} Aldeanos.",
+    "range-exact-recommendation-full-demon": "Se recomienda tener exactamente {number} Demonios.",
+    "range-exact-recommendation-full-minion": "Se recomienda tener exactamente {number} Esbirros.",
+    "range-exact-recommendation-full-outsider": "Se recomienda tener exactamente {number} Forasteros.",
+    "range-exact-recommendation-full-townsfolk": "Se recomienda tener exactamente {number} Aldeanos.",
     "too-few-demon": "Insuficientes Demonios",
     "too-few-minion": "Insuficientes Esbirros",
     "too-few-outsider": "Insuficientes Forasteros",
@@ -21,6 +30,11 @@
       "share": "Compartir"
     }
   },
+  "interactions": {
+    "no-outsider-mod": {
+      "title": "Los Forasteros no pueden ser modificados."
+    }
+  },
   "print": {
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
@@ -35,9 +49,12 @@
     "language": "Idioma",
     "language-select-heading": "Selección de idioma",
     "print-columns": "Imprimir columnas",
+    "print-compact-night-sheet": "Hoja de Noche compacta",
     "print-options-heading": "Opciones de impresión",
+    "print-player-count-table": "Mostrar Tabla de Conteo de Jugadores",
     "script-type": "Tipo de Guión",
     "script-type-standard": "Estándar",
+    "this-language": "Español",
     "view-tour": "Haz click {link}aquí{/link} para realizar el tutorial otra vez."
   },
   "tour": {
