@@ -70,6 +70,7 @@
     "script-analytics-heading": "Análisis de guión",
     "script-name-and-authors-01": "El {bold}nombre del guión y autores{/bold} puede cambiarse aquí.",
     "script-name-and-authors-heading": "Nombre del guión y autores",
+    "undo-redo-01": "Si te equivocas, no te preocupes! Siempre puedes {block}{undoIcon} deshacer{/block} o{block}{redoIcon} rehacer{/block} todo. También puedes vaciar el guión haciendo click en el botón {binIcon}.",
     "undo-redo-heading": "Deshacer y rehacer",
     "welcome-heading": "¡Bienvenido!"
   }
