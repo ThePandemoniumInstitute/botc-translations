@@ -67,6 +67,7 @@
     "import-export-share-01": "Puedes {block}{importIcon}importar{/block}, {block}{exportIcon} exportar{/block}, o {block}{shareIcon} compartir{/block} guiones desde aquí. ¡Compatible con personajes y guiones caseros!",
     "import-export-share-heading": "Importar, exportar, y compartir",
     "multiple-scripts-01": "Puedes hacer click en la pestaña {heading}guiones{/heading} para ver todos los guiones en los que has trabajado.",
+    "multiple-scripts-02": "Puedes cambiar entre hasta {bold}25 guiones recientes{/bold} aquí.",
     "script-analytics-heading": "Análisis de guión",
     "script-name-and-authors-01": "El {bold}nombre del guión y autores{/bold} puede cambiarse aquí.",
     "script-name-and-authors-heading": "Nombre del guión y autores",
