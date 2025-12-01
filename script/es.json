@@ -39,5 +39,19 @@
     "script-type": "Tipo de Guión",
     "script-type-standard": "Estándar",
     "view-tour": "Haz click {link}aquí{/link} para realizar el tutorial otra vez."
+  },
+  "tour": {
+    "add-and-remove-characters-01": "Puedes {bold}añadir un personaje{/bold} desde la pestaña de personajes. Haz click en cualquier personaje que quieras añadir.",
+    "add-and-remove-characters-03": "Si estás en el móvil, puedes abrir esta pestaña deslizando hacia la derecha o tocando el botón {menuIcon} arriba a la izquierda. Puedes cerrarlo deslizando hacia la izquierda.",
+    "autosort-heading": "Ordenar automáticamente",
+    "final-heading": "¡A disfrutar!",
+    "import-export-share-01": "Puedes {block}{importIcon}importar{/block}, {block}{exportIcon} exportar{/block}, o {block}{shareIcon} compartir{/block} guiones desde aquí. ¡Compatible con personajes y guiones caseros!",
+    "import-export-share-heading": "Importar, exportar, y compartir",
+    "multiple-scripts-01": "Puedes hacer click en la pestaña {heading}guiones{/heading} para ver todos los guiones en los que has trabajado.",
+    "script-analytics-heading": "Análisis de guión",
+    "script-name-and-authors-01": "El {bold}nombre del guión y autores{/bold} puede cambiarse aquí.",
+    "script-name-and-authors-heading": "Nombre del guión y autores",
+    "undo-redo-heading": "Deshacer y rehacer",
+    "welcome-heading": "¡Bienvenido!"
   }
 }
