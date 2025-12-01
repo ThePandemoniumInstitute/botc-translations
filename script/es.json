@@ -1,4 +1,7 @@
 {
+  "analysis": {
+    "too-few-townsfolk": "Aldeanos Insuficientes"
+  },
   "export": {
     "copy-json": "Copiar JSON",
     "download-json": "Descargar JSON",
