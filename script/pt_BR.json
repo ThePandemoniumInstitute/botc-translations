@@ -46,7 +46,6 @@
   "clear-script": "Esvaziar cenário",
   "click-drag-move": "Clique para remover, arraste para mover",
   "close": "Fechar",
-  "commit": "Confirmar",
   "commit-all-details": "Confirmar todos os personagens do esboço no cenário.",
   "commit-details": "Confirme este personagem no cenário para que ele não seja removido caso o botão de aleatorizar seja pressionado.",
   "ctxmenu": {

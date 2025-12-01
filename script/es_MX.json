@@ -46,7 +46,6 @@
   "clear-script": "Vaciar guion",
   "click-drag-move": "Da clic para quitar, deslizar para mover",
   "close": "Cerrar",
-  "commit": "Confirmar",
   "commit-all-details": "Confirmar todos los personajes en el guion.",
   "commit-details": "Confirma este personaje en el guion para que no sea eliminado si se presiona el botón de aleatorización.",
   "ctxmenu": {

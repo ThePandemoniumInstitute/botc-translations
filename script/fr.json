@@ -46,7 +46,6 @@
   "clear-script": "Vider le script",
   "click-drag-move": "Cliquer pour retirer, cliquer-déplacer pour déplacer",
   "close": "Fermer",
-  "commit": "Valider",
   "commit-all-details": "Valider tous les personnages brouillon dans le script.",
   "commit-details": "Valider ce personnage dans le script pour qu'il ne soit pas retiré lors d'un tirage aléatoire.",
   "ctxmenu": {

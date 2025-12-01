@@ -46,7 +46,6 @@
   "clear-script": "Limpar guião",
   "click-drag-move": "Carrega para remover, arrasta para mover",
   "close": "Fechar",
-  "commit": "Confirmar",
   "commit-all-details": "Confirmar todos os personagens rascunho ao guião.",
   "commit-details": "Confirma esta personagem no guião para que não seja removida quando carregares no botão de aleatorizar.",
   "ctxmenu": {

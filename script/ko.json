@@ -46,7 +46,6 @@
   "clear-script": "스크립트 초기화",
   "click-drag-move": "클릭하여 제거, 드래그하여 이동",
   "close": "닫기",
-  "commit": "확정",
   "commit-all-details": "모든 임시 캐릭터를 스크립트에 확정합니다.",
   "commit-details": "랜덤 버튼을 눌러도 이 캐릭터가 사라지지 않게 하려면 스크립트에 확정하세요.",
   "copy-script-link": "스크립트 링크 복사",

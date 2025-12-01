@@ -46,7 +46,6 @@
   "clear-script": "Ripulisci scenario",
   "click-drag-move": "Clicca per rimuovere, trascina per muovere",
   "close": "Chiudi",
-  "commit": "Conferma",
   "commit-all-details": "Conferma tutti i personaggi bozza di questo scenario.",
   "commit-details": "Conferma questo personaggio per lo scenario, in modo tale che non possa esere rimosso se viene premuto il pulsante randomizzatore.",
   "ctxmenu": {
