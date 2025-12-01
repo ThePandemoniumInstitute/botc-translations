@@ -82,7 +82,12 @@
   "fabled-and-loric": "전설 & 설화",
   "filters": "필터",
   "help": "도움말",
+  "import-description": "클릭하거나 드래그&드롭하여 스크립트 JSON 불러오기",
+  "import-description-kb": "또는 JSON / URL 붙여넣기 (Ctrl+V / ⌘V)",
+  "import-description-nokb": "… 또는 여기에 URL/JSON 붙여넣기:",
+  "import-json-error": "유효한 JSON 파일을 불러올 수 없음",
   "import-script": "스크립트 불러오기",
+  "import-type-error": "확장자가 다릅니다. 파일을 불러올 수 없습니다.",
   "import-typing-error": "이 칸은 모바일 및 터치용 기기에서 JSON을 붙여넣는 용도입니다. 직접 작성하는 것은 허용되지 않습니다.",
   "interactions": {
     "+choirboy-king": {
