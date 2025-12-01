@@ -14,10 +14,18 @@
     "range-between-recommendation-full-minion": "Se recomienda tener entre {lower} y {upper} Esbirros.",
     "range-between-recommendation-full-outsider": "Se recomienda tener entre {lower} y {upper} Forasteros.",
     "range-between-recommendation-full-townsfolk": "Se recomienda tener entre {lower} y {upper} Aldeanos.",
+    "range-between-recommendation-teensy-demon": "Se recomienda tener entre{lower} y {upper} Demonios en Teensyville.",
+    "range-between-recommendation-teensy-minion": "Se recomienda tener entre{lower} y {upper} Esbirros en Teensyville.",
+    "range-between-recommendation-teensy-outsider": "Se recomienda tener entre{lower} y {upper} Forasteros en Teensyville.",
+    "range-between-recommendation-teensy-townsfolk": "Se recomienda tener entre{lower} y {upper} Aldeanos en Teensyville.",
     "range-exact-recommendation-full-demon": "Se recomienda tener exactamente {number} Demonios.",
     "range-exact-recommendation-full-minion": "Se recomienda tener exactamente {number} Esbirros.",
     "range-exact-recommendation-full-outsider": "Se recomienda tener exactamente {number} Forasteros.",
     "range-exact-recommendation-full-townsfolk": "Se recomienda tener exactamente {number} Aldeanos.",
+    "range-exact-recommendation-teensy-demon": "Se recomienda tener exactamente {number} Demonios en Teensyville.",
+    "range-exact-recommendation-teensy-minion": "Se recomienda tener exactamente {number} Esbirros en Teensyville.",
+    "range-exact-recommendation-teensy-outsider": "Se recomienda tener exactamente {number} Forasteros en Teensyville.",
+    "range-exact-recommendation-teensy-townsfolk": "Se recomienda tener exactamente {number} Aldeanos en Teensyville.",
     "too-few-demon": "Demonios insuficientes",
     "too-few-minion": "Esbirros insuficientes",
     "too-few-outsider": "Forasteros insuficientes",
@@ -81,7 +89,16 @@
   "import-type-error": "Tipo de archivo equivocado, no se pudo cargar el archivo.",
   "import-typing-error": "Esta caja existe para permitir pegar JSONs en dispositivos móviles o táctiles. No está permitido escribir o enviar.",
   "interactions": {
+    "+choirboy-king": {
+      "msg": "Los guiones con Niño del Coro tienen que tener un Rey.",
+      "title": "Niño del Coro sin Rey"
+    },
+    "+huntsman-damsel": {
+      "msg": "Los guiones con Cazador tienen que tener una Damisela.",
+      "title": "Cazador sin Damisela"
+    },
     "no-outsider-mod": {
+      "msg": "Si los Forasteros no se pueden modificar, los jugadores del bando malo no pueden hacerse p asar por Forasteros de manera segura.",
       "title": "No se pueden modificar los Forasteros."
     }
   },
@@ -101,6 +118,7 @@
   "new-bootlegger-rule": "Nueva regla del contrabandista …",
   "new-script": "Guion Nuevo",
   "print": {
+    "ios": "La impresión desde dispositivos iOS no es compatible aún. Puedes intentarlo, pero puede que no se vea bien.",
     "not-first-night": "* No la primera noche",
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
@@ -154,23 +172,27 @@
   "toggle-quick-input": "Activar o desactivar entrada rápida",
   "tour": {
     "add-and-remove-characters-01": "Puedes {bold}añadir un personaje{/bold} desde la pestaña de personajes. Haz click en cualquier personaje que quieras añadir.",
-    "add-and-remove-characters-02": "Para {bold}eliminar un personaje{/bold}, hazle click otra vez, o haz click en su icono en el guión.",
+    "add-and-remove-characters-02": "Para {bold}eliminar un personaje{/bold}, clícalo otra vez, o haz clic en su icono en el guion.",
     "add-and-remove-characters-03": "Si estás en el móvil, puedes abrir esta pestaña deslizando hacia la derecha o tocando el botón {menuIcon} arriba a la izquierda. Puedes cerrarlo deslizando hacia la izquierda.",
-    "add-and-remove-characters-04": "Puedes añadir personajes fácilmente usando la opción ‘Añadir rápido’, que puedes activar haciendo click en el botón {plusIcon}.",
+    "add-and-remove-characters-04": "Puedes añadir personajes rápidamente usando la opción ‘Añadir rápido’, que puedes activar pulsando el botón {plusIcon}.",
+    "add-and-remove-characters-heading": "Añadir y eliminar personajes",
     "autosort-01": "Normalmente, todos los guiones están acomodados automáticamente por {link}{sortIcon}{block}acomodo de SAO{/block}{/link} - ¡incluso funciona para personajes caseros! Esto puede ser habilidado o deshabilidado aquí.",
     "autosort-heading": "Ordenar automáticamente",
     "final-01": "¡Eso es todo para ahora! Si desea ver el recorrido nuevamente, puede hacerlo desde el menú de {block}{settingsIcon} configuraciones{/block}.",
     "final-heading": "¡A disfrutar!",
     "import-export-share-01": "Puedes {block}{importIcon}importar{/block}, {block}{exportIcon} exportar{/block}, o {block}{shareIcon} compartir{/block} guiones desde aquí. ¡Compatible con personajes y guiones caseros!",
+    "import-export-share-03": "Puedes ver el tutorial de nuevo desde el menú de {block}{settingsIcon}configuración{/block}.",
     "import-export-share-heading": "Importar, exportar, y compartir",
     "multiple-scripts-01": "Puedes hacer click en la pestaña {heading}guiones{/heading} para ver todos los guiones en los que has trabajado.",
-    "multiple-scripts-02": "Puedes cambiar entre hasta {bold}25 guiones recientes{/bold} aquí.",
+    "multiple-scripts-02": "Puedes cambiar entre un máximo de {bold}25 guiones recientes{/bold}.",
+    "multiple-scripts-heading": "Trabajando con varios guiones",
     "script-analytics-01": "Si hay algún problemas con su guion, se mostrará aquí.",
     "script-analytics-heading": "Análisis de guión",
     "script-name-and-authors-01": "El {bold}nombre del guión y autores{/bold} puede cambiarse aquí.",
     "script-name-and-authors-heading": "Nombre del guión y autores",
-    "undo-redo-01": "Si te equivocas, no te preocupes! Siempre puedes {block}{undoIcon} deshacer{/block} o{block}{redoIcon} rehacer{/block} todo. También puedes vaciar el guión haciendo click en el botón {binIcon}.",
+    "undo-redo-01": "Si te equivocas, no te preocupes! Siempre puedes {block}{undoIcon} deshacer{/block} o{block}{redoIcon} rehacer{/block}. También puedes vaciar el guion haciendo clic en el botón {binIcon}.",
     "undo-redo-heading": "Deshacer y rehacer",
+    "welcome-01": "Esta es una nueva herramienta para guiones de {bold}Blood on the Clocktower{/bold}! Este tutorial te dará una vista rápida de las características básicas para empezar.",
     "welcome-heading": "¡Bienvenido!"
   },
   "undo": "Deshacer",
