@@ -59,6 +59,7 @@
   },
   "tour": {
     "add-and-remove-characters-01": "Puedes {bold}añadir un personaje{/bold} desde la pestaña de personajes. Haz click en cualquier personaje que quieras añadir.",
+    "add-and-remove-characters-02": "Para {bold}eliminar un personaje{/bold}, hazle click otra vez, o haz click en su icono en el guión.",
     "add-and-remove-characters-03": "Si estás en el móvil, puedes abrir esta pestaña deslizando hacia la derecha o tocando el botón {menuIcon} arriba a la izquierda. Puedes cerrarlo deslizando hacia la izquierda.",
     "autosort-heading": "Ordenar automáticamente",
     "final-heading": "¡A disfrutar!",
