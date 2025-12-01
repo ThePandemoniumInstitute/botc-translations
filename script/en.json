@@ -198,7 +198,6 @@
   "add-bootlegger-rule": "Add bootlegger rule",
   "randomise": "Randomise!",
   "randomise-details": "The randomiser will fill out your script with random draft characters.",
-  "commit": "Commit",
   "commit-details": "Commit this character to the script so that it will not be removed if the randomise button is pressed.",
   "commit-all-details": "Commit all draft characters to the script.",
   "unpin": "Unpin",
