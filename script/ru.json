@@ -12,11 +12,11 @@
     "no-messages": "Все в порядке!",
     "range-between-recommendation-full-demon": "Рекомендуется использовать от {lower} до {upper} Демонов.",
     "range-between-recommendation-full-minion": "Рекомендуется использовать от {lower} до {upper} ролей Приспешников.",
-    "range-between-recommendation-full-outsider": "Рекомендовано от {lower} до {upper} Изгоев.",
+    "range-between-recommendation-full-outsider": "Рекомендовано использовать от {lower} до {upper} Изгоев.",
     "range-between-recommendation-full-townsfolk": "Рекомендуется использовать от {lower} до {upper} Горожан.",
-    "range-between-recommendation-teensy-demon": "Рекомендуется использовать от {lower} до {upper} Демонов в Тинсвилле.",
+    "range-between-recommendation-teensy-demon": "Рекомендуется использовать от {lower} до {upper} Демонов в Тинсивилле.",
     "range-between-recommendation-teensy-minion": "Рекомендуется использовать от {lower} до {upper} Приспешников в Тинсивилле.",
-    "range-between-recommendation-teensy-outsider": "Рекомендуется использовать от {lower} до {upper} Чужаков в Тинсвилле.",
+    "range-between-recommendation-teensy-outsider": "Рекомендуется использовать от {lower} до {upper} Изгоев в Тинсвилле.",
     "range-between-recommendation-teensy-townsfolk": "Рекомендуется использовать от {lower} до {upper} Горожан в Тинсвилле.",
     "range-exact-recommendation-full-demon": "Рекомендовано ровно {number} Демонов.",
     "range-exact-recommendation-full-minion": "Рекомендуется включить в набор ролей строго {number} Приспешника|Приспешников.",
@@ -98,7 +98,7 @@
       "title": "Егерь без Дамочки"
     },
     "no-outsider-mod": {
-      "msg": "Без модификаторов количества Чужаков, Злые игроки не смогут блефовать за роль Чужака.",
+      "msg": "Без модификаторов количества Изгоев, Злые игроки не смогут блефовать за роль Изгоев.",
       "title": "Нет модификатора количества Изгоев"
     }
   },
@@ -177,7 +177,7 @@
     "add-and-remove-characters-03": "На мобильном устройстве вы можете открыть эту вкладку, смахнув ее вправо или нажав на иконку {menuIcon} слева вверху. Вы можете её закрыть, смахнув влево.",
     "add-and-remove-characters-04": "Вы также можете быстро добавлять роли с помощью инструмента \"Быстрое добавление\", который вы можете включать и выключать нажатием кнопки {plusIcon}.",
     "add-and-remove-characters-heading": "Добавление и удаление ролей",
-    "autosort-01": "По умолчанию все персонажи в сценариях автоматически {link}{sortIcon} {block}отсортированы по принципу ПОС{/block}{/link} - это работает даже для самодельных персонажей! Сортировку можно включить/выключить здесь.",
+    "autosort-01": "По умолчанию все персонажи в сценариях автоматически {link}{sortIcon} {block}отсортированы по принципу SAO{/block}{/link} - это работает даже для самодельных персонажей! Сортировку можно включить/выключить здесь.",
     "autosort-heading": "Автосортировка",
     "final-01": "Это всё! Если вы хотите просмотреть этот обзор снова, вы можете сделать это в меню {block}{settingsIcon} Настройки{/block}.",
     "final-heading": "Хорошей игры!",
