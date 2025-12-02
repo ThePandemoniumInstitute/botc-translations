@@ -468,6 +468,7 @@
         "toggleAudioMuted": "Выключить микрофон / Push-to-Talk",
         "toggleEdition": "Выбрать набор",
         "toggleFullscreen": "Полноэкранный режим",
+        "toggleNPCs": "Добавить неигрового персонажа",
         "toggleNight": "Переключить ночную фазу",
         "toggleNightOrder": "Лист ночи",
         "toggleNightSignal": "Показать Ночную Информацию",
@@ -567,6 +568,7 @@
       "response": "Ответ:",
       "saw_this": "{0} увидел(а) это",
       "select_everyone": "Выбрать всех",
+      "selected_players": "Выбранные игроки",
       "sent": "Отправлено",
       "storyteller": "Рассказчик|Рассказчики",
       "title": "Разбудить {0}",
@@ -996,6 +998,10 @@
       "reset_position": "Сбросить позицию",
       "spectator": "Зритель",
       "title": "Голос"
+    },
+    "npcs": {
+      "remove_fabled": "Убрать Сказочника",
+      "remove_loric": "Убрать Летописца"
     },
     "text": {
       "channels": {
