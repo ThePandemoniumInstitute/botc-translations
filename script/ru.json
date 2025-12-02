@@ -14,7 +14,7 @@
     "range-between-recommendation-full-minion": "Рекомендуется использовать от {lower} до {upper} ролей Приспешников.",
     "range-between-recommendation-full-outsider": "Рекомендовано от {lower} до {upper} Изгоев.",
     "range-between-recommendation-full-townsfolk": "Рекомендуется использовать от {lower} до {upper} Горожан.",
-    "range-between-recommendation-teensy-demon": "Рекомендовано от {lower} до {upper} Демонов в Тинсивилле.",
+    "range-between-recommendation-teensy-demon": "Рекомендуется использовать от {lower} до {upper} Демонов в Тинсвилле.",
     "range-between-recommendation-teensy-minion": "Рекомендуется использовать от {lower} до {upper} Приспешников в Тинсивилле.",
     "range-between-recommendation-teensy-outsider": "Рекомендуется использовать от {lower} до {upper} Чужаков в Тинсвилле.",
     "range-between-recommendation-teensy-townsfolk": "Рекомендуется использовать от {lower} до {upper} Горожан в Тинсвилле.",
