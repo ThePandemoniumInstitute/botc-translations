@@ -81,7 +81,7 @@
   "fabled-and-loric": "Lendas & Mitos",
   "filters": "Filtros",
   "help": "Ajuda",
-  "import-description": "Clique ou arreste e solte para importar o JSON do cenário",
+  "import-description": "Clique ou arraste e solte para importar o JSON do cenário",
   "import-description-kb": "ou cole o JSON/URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... ou cole URL/JSON aqui:",
   "import-json-error": "Não foi possível carregar um JSON válido",
