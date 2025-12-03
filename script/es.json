@@ -10,10 +10,10 @@
     "range-exact-recommendation-full-minion": "Se recomienda tener exactamente {number} Esbirros.",
     "range-exact-recommendation-full-outsider": "Se recomienda tener exactamente {number} Forasteros.",
     "range-exact-recommendation-full-townsfolk": "Se recomienda tener exactamente {number} Aldeanos.",
-    "too-few-demon": "Insuficientes Demonios",
-    "too-few-minion": "Insuficientes Esbirros",
-    "too-few-outsider": "Insuficientes Forasteros",
-    "too-few-townsfolk": "Insuficientes Aldeanos",
+    "too-few-demon": "Demonios insuficientes",
+    "too-few-minion": "Esbirros insuficientes",
+    "too-few-outsider": "Forasteros insuficientes",
+    "too-few-townsfolk": "Aldeanos insuficientes",
     "too-many-characters": "Demasiados personajes",
     "too-many-demon": "Demasiados Demonios",
     "too-many-minion": "Demasiados Esbirros",
@@ -32,14 +32,14 @@
   },
   "interactions": {
     "no-outsider-mod": {
-      "title": "Los Forasteros no pueden ser modificados."
+      "title": "No se pueden modificar los Forasteros."
     }
   },
   "print": {
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
   "settings": {
-    "allow-external-images": "Permitir Imágenes Externas",
+    "allow-external-images": "Permitir imágenes externas",
     "compact-layout": "Distribución compacta",
     "display-and-ui-heading": "Pantalla e Interfaz de usuario",
     "external-images-heading": "Imágenes externas",
@@ -49,13 +49,13 @@
     "language": "Idioma",
     "language-select-heading": "Selección de idioma",
     "print-columns": "Imprimir columnas",
-    "print-compact-night-sheet": "Hoja de Noche compacta",
+    "print-compact-night-sheet": "Hoja de noche compacta",
     "print-options-heading": "Opciones de impresión",
-    "print-player-count-table": "Mostrar Tabla de Conteo de Jugadores",
-    "script-type": "Tipo de Guión",
+    "print-player-count-table": "Mostrar la tabla del número de jugadores",
+    "script-type": "Tipo de guion",
     "script-type-standard": "Estándar",
     "this-language": "Español",
-    "view-tour": "Haz click {link}aquí{/link} para realizar el tutorial otra vez."
+    "view-tour": "Haz clic {link}aquí{/link} para ver de nuevo el tutorial."
   },
   "tour": {
     "add-and-remove-characters-01": "Puedes {bold}añadir un personaje{/bold} desde la pestaña de personajes. Haz click en cualquier personaje que quieras añadir.",
