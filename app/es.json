@@ -197,7 +197,7 @@
         "missing_roles": "Esta sesión contiene personajes personalizados que no se han podido encontrar. Cárgalos antes de unirte. Personajes que faltan: {0}",
         "missing_roles_title": "Error al cargar los personajes personalizados",
         "move_player": "No se puede mover al jugador",
-        "npcs": "Error actualizando PNJs",
+        "npcs": "Error al actualizar los PNJs",
         "offline": "Parece que el servidor está desconectado",
         "remove_player": "No se puede eliminar al jugador",
         "remove_storyteller": "Error al eliminar al Narrador",
@@ -307,7 +307,7 @@
       "welcome": "¡Bienvenido a {0}!"
     },
     "npc": {
-      "title": "Añade un Personaje No Jugador"
+      "title": "Añadir un personaje no jugable"
     },
     "reminder": {
       "custom_favorite": "Guardado como favorito",
@@ -362,7 +362,7 @@
           "title": "Panadero"
         },
         "bigwig": {
-          "text": "Cada nominado elije un jugador: sólo podrán hablar ellos hasta la votación y tienen Mad de que el nominado es bueno o podrían morir."
+          "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir."
         },
         "regular": {
           "text": "Todo el mundo puede hablar como quiera.",
@@ -684,7 +684,7 @@
       "button_countdown": "Cuenta atrás",
       "countdown_freeze": "Congelado",
       "nobody": "Nadie",
-      "prompt": "¡Haz click en un jugador para señalarle!",
+      "prompt": "¡Haz clic en un jugador para señalarle!",
       "title_locked": "Jugador elegido:|Jugadores elegidos:",
       "title_open": "Selección actual:|Selecciones actuales:",
       "you_pointed": "Has señalado a:"
@@ -718,7 +718,7 @@
     "vote": {
       "accusation": "Acusa­ción",
       "button_chat": "Chat abierto",
-      "button_clear_selection": "Limpiar Selección",
+      "button_clear_selection": "Limpiar selección",
       "button_countdown": "Cuenta atrás",
       "button_defense": "Empezar Defensa",
       "button_hand_down": "ABAJO",
@@ -729,8 +729,8 @@
       "button_reset": "Reinicio",
       "button_restart": "Reanudar",
       "button_resume": "Seguir",
-      "button_select_player": "Seleccionar Jugador",
-      "button_set_highscore": "Establecer Récord",
+      "button_select_player": "Seleccionar jugador",
+      "button_set_highscore": "Definir número de votos",
       "button_start": "Empezar",
       "choose_defense_attorney": "¡Elige un abogado defensor!",
       "countdown_go": "Ir",
