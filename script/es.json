@@ -1,6 +1,14 @@
 {
+  "add-bootlegger-rule": "Agregar una regla del contrabandista",
+  "add-bootlegger-rules": "Da clic en el ícono del plus para aggregar una regla del contrabandista.",
+  "add-demon": "Agregar Demonies",
+  "add-minion": "Agregar Secuaces",
+  "add-outsider": "Agregar Foránexs",
+  "add-townsfolk": "Agregar Aldeanes",
   "analysis": {
+    "heading": "Analíticas del Guion",
     "maximum-character-recommendation": "El número máximo de personajes recomendado es {number}.",
+    "maximum-character-recommendation-teensy": "El número recomendado máximo de personajes en una Aldea es {number}.",
     "no-messages": "¡Nada que comentar!",
     "range-between-recommendation-full-demon": "Se recomienda tener entre {lower} y {upper} Demonios.",
     "range-between-recommendation-full-minion": "Se recomienda tener entre {lower} y {upper} Esbirros.",
@@ -20,6 +28,29 @@
     "too-many-outsider": "Demasiados Forasteros",
     "too-many-townsfolk": "Demasiados Aldeanos"
   },
+  "author": "Autor",
+  "author-placeholder": "Desconocide",
+  "bootlegger-rules": "Reglas del Contrabandista",
+  "by-author": "por {author}",
+  "by-author-isolated": "por",
+  "character-tooltip": "Deslizar para mover, doble clic o click derecho para mostrar el menú de contexto",
+  "characters": "Personajes",
+  "clear-script": "Vaciar guion",
+  "click-drag-move": "Da clic para quitar, deslizar para mover",
+  "close": "Cerrar",
+  "commit-all-details": "Confirmar todos los personajes preliminares en el guion.",
+  "commit-details": "Confirma esta personaje en el guion para que no sea eliminado si se presiona el botón de aleatorización.",
+  "copy-script-link": "Copiar Vínculo del Guion",
+  "ctxmenu": {
+    "copy-text": "Copiar texto",
+    "copy-text-details": "Copiar texto de la habilidad del personaje",
+    "draft": "Borrador",
+    "draft-details": "Un personaje borrador no está cometido fijamente al guion. Si le da clic al botón de aleatorizar, los personajes borrador serán reemplazados por un personaje del mismo tipo.",
+    "pinned": "Fijado",
+    "pinned-details": "Una personaje fijado se queda donde esta, incluso si el acomodo automático está activado."
+  },
+  "delete-script-confirmation": "¿Estás segure que desea borrar este guion? Esta acción es irreversible.",
+  "djinn-rules": "Reglas del Genie",
   "edition": {
     "base-three": "Básico",
     "carousel": "Carrusel",
@@ -37,6 +68,18 @@
       "share": "Compartir"
     }
   },
+  "export-menu": "Exportar menú",
+  "external-image-confirm": "¿Estás segure que desea permitir imágenes personalizadas? Un archivo de guion malicioso podría rastrear su dirección IP de esta manera. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otres usuaries de la aplicación.",
+  "fabled-and-loric": "Fábulas y Lóricos",
+  "filters": "Filtros",
+  "help": "Ayuda",
+  "import-description": "Da clic or arrastra y suelte para importar el guion JSON",
+  "import-description-kb": "o pegue el JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "… o pegue el URL/JSON aquí:",
+  "import-json-error": "No se pudo cargar el JSON valido desde",
+  "import-script": "Importar guion",
+  "import-type-error": "Tipo de archivo equivocado, no se pudo cargar el archivo.",
+  "import-typing-error": "Esta caja existe para permitir pegar JSONs en dispositivos móviles o táctiles. No está permitido escribir o enviar.",
   "interactions": {
     "no-outsider-mod": {
       "title": "No se pueden modificar los Forasteros."
@@ -54,12 +97,30 @@
     "townsfolk": "Aldeano|Aldeanos",
     "traveller": "Viajero|Viajeros"
   },
+  "name": "Nombre",
+  "new-bootlegger-rule": "Nueva regla del contrabandista …",
+  "new-script": "Guion Nuevo",
   "print": {
     "not-first-night": "* No la primera noche",
     "too-many-characters": "Tu guion tiene demasiados personajes ({nchars}). El máximo recomendado es 25. Puede que no quede bien al imprimir, ¿quieres continuar?"
   },
+  "quick-add": "Buscar personajes…",
+  "randomise": "¡Aleatorizar!",
+  "randomise-details": "El aleatorizador completará tu guion con personajes preliminares aleatorios.",
+  "read-more": "Leer la entrada del almanaque/wiki",
+  "recommended-travellers": "Viajeros Recomendados",
+  "redo": "Rehacer",
+  "sao": "SAO",
+  "script-name": "Nombre del guion",
+  "script-name-placeholder": "Guion Sin Título",
+  "scripts": "Guiones",
+  "search-abilities": "Buscar habilidades",
+  "search-character": "Buscar personajes…",
+  "search-names": "Buscar nombres",
   "settings": {
     "allow-external-images": "Permitir imágenes externas",
+    "bloodstar-image-correction": "Corrección de Imagen de Bloodstar",
+    "bloodstar-image-correction-explanation": "Los iconos que genera bloodstar.xyz tienen un pequeño margen en la parte inferior, por lo cual no están centrados. Habilitando esta configuración corrige dicho margen.",
     "compact-layout": "Distribución compacta",
     "display-and-ui-heading": "Pantalla e Interfaz de usuario",
     "external-images-heading": "Imágenes externas",
@@ -75,28 +136,43 @@
     "print-player-count-table": "Mostrar la tabla del número de jugadores",
     "script-heading": "Ajustes de guion",
     "script-type": "Tipo de guion",
+    "script-type-explanation": "Un guion de Aldea es un guion diseñado especificamente para grupos reducidos de jugadores (menos de 7 jugadores). Normalmente, tiene menos personajes que un guion estándar. Esta configuración solo afecta a las analíticas del guion, al generador aleatorio, y algunos elementos de la IU.",
     "script-type-standard": "Estándar",
     "show-analysis-icons": "Mostrar los iconos de análisis",
     "show-night-sheet": "Mostrar la hoja de noche",
     "this-language": "Español",
     "view-tour": "Haz clic {link}aquí{/link} para ver de nuevo el tutorial."
   },
+  "settings-menu": "Configuraciones",
+  "show-all": "Todos los Personajes",
+  "show-script-analytics": "Mostrat analíticas del guion",
+  "toast": {
+    "cannot-remove-bootlegger": "Hay personajes caseros en este guion, así que no puede quitar al Contrabandista.",
+    "copied": "¡Copiado al portapapeles!"
+  },
+  "toggle-autosort": "Activar o desactivar acomodo automático",
+  "toggle-quick-input": "Activar o desactivar entrada rápida",
   "tour": {
     "add-and-remove-characters-01": "Puedes {bold}añadir un personaje{/bold} desde la pestaña de personajes. Haz click en cualquier personaje que quieras añadir.",
     "add-and-remove-characters-02": "Para {bold}eliminar un personaje{/bold}, hazle click otra vez, o haz click en su icono en el guión.",
     "add-and-remove-characters-03": "Si estás en el móvil, puedes abrir esta pestaña deslizando hacia la derecha o tocando el botón {menuIcon} arriba a la izquierda. Puedes cerrarlo deslizando hacia la izquierda.",
     "add-and-remove-characters-04": "Puedes añadir personajes fácilmente usando la opción ‘Añadir rápido’, que puedes activar haciendo click en el botón {plusIcon}.",
+    "autosort-01": "Normalmente, todos los guiones están acomodados automáticamente por {link}{sortIcon}{block}acomodo de SAO{/block}{/link} - ¡incluso funciona para personajes caseros! Esto puede ser habilidado o deshabilidado aquí.",
     "autosort-heading": "Ordenar automáticamente",
+    "final-01": "¡Eso es todo para ahora! Si desea ver el recorrido nuevamente, puede hacerlo desde el menú de {block}{settingsIcon} configuraciones{/block}.",
     "final-heading": "¡A disfrutar!",
     "import-export-share-01": "Puedes {block}{importIcon}importar{/block}, {block}{exportIcon} exportar{/block}, o {block}{shareIcon} compartir{/block} guiones desde aquí. ¡Compatible con personajes y guiones caseros!",
     "import-export-share-heading": "Importar, exportar, y compartir",
     "multiple-scripts-01": "Puedes hacer click en la pestaña {heading}guiones{/heading} para ver todos los guiones en los que has trabajado.",
     "multiple-scripts-02": "Puedes cambiar entre hasta {bold}25 guiones recientes{/bold} aquí.",
+    "script-analytics-01": "Si hay algún problemas con su guion, se mostrará aquí.",
     "script-analytics-heading": "Análisis de guión",
     "script-name-and-authors-01": "El {bold}nombre del guión y autores{/bold} puede cambiarse aquí.",
     "script-name-and-authors-heading": "Nombre del guión y autores",
     "undo-redo-01": "Si te equivocas, no te preocupes! Siempre puedes {block}{undoIcon} deshacer{/block} o{block}{redoIcon} rehacer{/block} todo. También puedes vaciar el guión haciendo click en el botón {binIcon}.",
     "undo-redo-heading": "Deshacer y rehacer",
     "welcome-heading": "¡Bienvenido!"
-  }
+  },
+  "undo": "Deshacer",
+  "unpin": "Desfijar"
 }
