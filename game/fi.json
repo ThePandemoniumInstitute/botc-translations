@@ -25,6 +25,8 @@
     "alchemist-marionette": "Alkemisti-Sätkynukella ei ole Sätkynuken kykyä & Sätkynukke on pelissä.",
     "alchemist-spy": "Alkemisti-Vakoojalla ei ole Vakoojan kykyä & Vakooja on pelissä. Elävä Alkemisti-Vakooja voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Vakooja. Mikäli arvaus on oikein, Demonin täytyy valita Vakooja seuraavana yönä.",
     "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee haluamansa Demonin - mutta ei pelaajaa. Jos Alkemisti kuolee ennen kuin herätys tapahtuu, paha voittaa. [Ei Demonia]",
+    "alchemist-widow": "Alkemisti-Leskellä ei ole Lesken kykyä & Leski on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Leski saattaa julkisesti arvata elävän pelaajan olevan Leski. Jos oikeassa, Demonin täytyy valita Leski tänä yönä.",
+    "alchemist-wraith": "Alkemisti-Haamulla ei ole Haamun kykyä & Haamu on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Haamu saattaa julkisesti arvata elävän pelaajan olevan Haamu. Jos oikeassa, Demonin täytyy valita Haamu tänä yönä.",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
@@ -297,6 +299,9 @@
     },
     "farmer": {
       "name": "Maajussi"
+    },
+    "goblin": {
+      "ability": "Jos julkisesti väität olevasi Peikko kun sinut nimitetään & sinut teloitetaataan sinä päivänä, joukkueesi voittaa."
     },
     "gossip": {
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
