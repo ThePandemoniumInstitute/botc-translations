@@ -12,6 +12,7 @@
   },
   "jinxes": {
     "alchemist-marionette": "Alkemisti-marionetilla ei ole marionetin kykyä & marionetti on pelissä.",
+    "alchemist-summoner": "Alkemisti-Herättäjä ei saa bluffeja, ja valitsee mikä Demoni mutta ei mikä pelaaja. Jos he kuolevat ennen kuin tämä tapahtuu, paha voittaa. [Ei Demonia]",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
@@ -316,6 +317,9 @@
     },
     "slayer": {
       "name": "Lahtari"
+    },
+    "summoner": {
+      "name": "Herättäjä"
     },
     "towncrier": {
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!"
