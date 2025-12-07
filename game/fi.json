@@ -179,8 +179,8 @@
     "lunch": "Lounas",
     "master": "Isäntä",
     "minion": "Kätyri",
-    "minionnominated": "Kätyri teki esityksen",
-    "minionsnotnominated": "Kätyreiltä ei esityksiä",
+    "minionnominated": "Kätyri Nimitti",
+    "minionsnotnominated": "Kätyrit eivät nimittäneet",
     "negativevote": "Negatiivinen ääni",
     "night1": "Yö 1",
     "night2": "Yö 2",
@@ -188,7 +188,7 @@
     "noability": "Ei kykyä",
     "nomoreevil": "Ei enää paha",
     "once": "Ennen",
-    "outsider": "Muukalainen",
+    "outsider": "Ulkopuolinen",
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
     "redherring": "Harhautus",
@@ -256,7 +256,7 @@
       "name": "Barista"
     },
     "baron": {
-      "ability": "Pelissä on ylimääräisiä Muukalaisia. [+2 Muukalaista]",
+      "ability": "Pelissä on ylimääräisiä Ulkopuolisia. [+2 Ulkopuolista]",
       "name": "Paroni"
     },
     "beggar": {
@@ -398,7 +398,7 @@
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
     },
     "hermit": {
-      "ability": "Sinulla on kaikkien Muukalaisten kyvyt. [-0 tai -1 Muukalainen]"
+      "ability": "Sinulla on kaikkien Ulkopuolisten kyvyt. [-0 tai -1 Ulkopuolinen]"
     },
     "hindu": {
       "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
@@ -469,7 +469,7 @@
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)"
     },
     "sentinel": {
-      "ability": "Pelissä saattaa olla 1 Muukalainen enemmän tai vähemmän."
+      "ability": "Pelissä saattaa olla 1 Ulkopuolinen enemmän tai vähemmän."
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
@@ -481,7 +481,7 @@
       "name": "Lahtari"
     },
     "spy": {
-      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Muukalaisena, vaikka olisit kuollut."
+      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Ulkopuolisena, vaikka olisit kuollut."
     },
     "summoner": {
       "name": "Rienaaja"
@@ -493,7 +493,7 @@
       "name": "Käsinukke"
     },
     "vigormortis": {
-      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 kyläläisnaapurinsa. [-1 Muukalainen]"
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 kyläläisnaapurinsa. [-1 Ulkopuolinen]"
     },
     "voudon": {
       "name": "Voudon"
@@ -502,7 +502,7 @@
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
     },
     "xaan": {
-      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Muukalaista]",
+      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Ulkopuolisia]",
       "name": "Xaan"
     },
     "zombuul": {
