@@ -778,6 +778,7 @@
     },
     "lobby": {
       "bootlegger_title": "¡Atención!",
+      "bootlegger_warning": "Esta sesión esta usando el Lórico del Contrabandista, lo cual significa que tiene reglas o personajes personalizados que no se encuentran en la versión oficial, y es mas adecuado para jugadores con esperiencia.\nSi es nueve a Blood on the Clocktower, le recomendamos familiarizarse primero con las reglas estándar y los personajes, usando uno de los guiones base oficiales. ¡Se Prepara Problemas es perfecto para un primer juego inolvidable.\nEn cualquier caso, bienvenide — ¡nos alegra tenerle aquí!\n¿Está segure que desea unir a esta sesión?",
       "button_create_game": "Crear partida",
       "button_help": "Ayuda",
       "button_join_game": "Unirse a partida privada",
@@ -799,6 +800,7 @@
       "language": "Idioma",
       "loading": "Cargando partidas...",
       "no_games": "No se han encontrado partidas públicas.",
+      "npcs": "Personajes No Jugables",
       "page": "Página {page} de {total}",
       "phase": "Fase",
       "players": "Jugadores",
@@ -868,7 +870,7 @@
       "move": "Mover jugador.",
       "offline": "El jugador está desconectado.",
       "remove": "Eliminar jugador.",
-      "remove_text": "¿Quieres eliminar el Asiento {0}?\n Está ocupado por {1}.",
+      "remove_text": "¿Quieres eliminar el Asiento {0}?\nEstá ocupado por {1}.",
       "remove_title": "Eliminar Asiento",
       "seat_text": "(esto estará visible sólo para ti)",
       "seat_title": "Cambiar el Nombre del Asiento"
@@ -878,7 +880,8 @@
       "night_info_received": "Información de Noche recibida",
       "night_info_sent": "Información de noche enviada",
       "nominate": "Nominar jugador",
-      "point": "Apuntar al jugador"
+      "point": "Apuntar al jugador",
+      "select": "Seleccionar jugador"
     },
     "reminders": {
       "add": "Añadir recordatorio",
@@ -924,7 +927,7 @@
     "following": "Estás siguiendo al narrador.",
     "listening": "El narrador está escuchando el chat de voz.",
     "offline": "El narrador está desconectado.",
-    "prompt_grim_text": "Los usuarios nuevos no pueden solicitar acceso al Grimorio en partidas públicas. \nCompleta más partidas para desbloquear esta opción.",
+    "prompt_grim_text": "Los usuarios nuevos no pueden solicitar acceso al Grimorio en partidas públicas.\nCompleta más partidas para desbloquear esta opción.",
     "prompt_grim_title": "Error Solicitando Acceso al Grimorio",
     "remove": "Eliminar Narrador",
     "request_grim": "Solicitar acceso al Grimorio",
@@ -940,7 +943,7 @@
       "error_popout": "Error al crear una ventana",
       "error_save": "Error guardando fichero",
       "jinxes": "Djinns",
-      "other_nights": "No la\n primera noche",
+      "other_nights": "No la\nprimera noche",
       "popout": "Desplegar pestaña de personajes"
     },
     "characters": {
@@ -989,6 +992,11 @@
     },
     "night": {
       "popout": "Desplegar hoja de fase de noche"
+    },
+    "npcs": {
+      "remove_fabled": "Quitar Fábula",
+      "remove_loric": "Quitar Lóric",
+      "title": "PNJs"
     },
     "text": {
       "channels": {
@@ -1052,8 +1060,8 @@
       "player_wins": "{0}% Victoria",
       "role": "Personajes iniciales\ndestacados",
       "st_evil_wins": "{0}% Victoria del Mal",
-      "storyteller": "Partidas\nnarradas",
-      "warning": "Las estadísticas se están generado...\n ¡Compruébalo más tarde!"
+      "storyteller": "Partidas\nNarradas",
+      "warning": "Las estadísticas se están generado...\n¡Compruébalo más tarde!"
     },
     "stats_hidden": "Oculto",
     "stats_private": "Privado",
