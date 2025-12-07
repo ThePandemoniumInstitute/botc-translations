@@ -23,10 +23,12 @@
   "jinxes": {
     "alchemist-boffin": "Jos Alkemistilla on Koekaniinin kyky, ei Alkemisti saa tietää, mikä kyky Demonilla on.",
     "alchemist-marionette": "Alkemisti-Sätkynukella ei ole Sätkynuken kykyä & Sätkynukke on pelissä.",
+    "alchemist-spy": "Alkemisti-Vakoojalla ei ole Vakoojan kykyä & Vakooja on pelissä. Elävä Alkemisti-Vakooja voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Vakooja. Mikäli arvaus on oikein, Demonin täytyy valita Vakooja seuraavana yönä.",
     "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee haluamansa Demonin - mutta ei pelaajaa. Jos Alkemisti kuolee ennen kuin herätys tapahtuu, paha voittaa. [Ei Demonia]",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
     "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
+    "baron-plaguedoctor": "Jos tarinankertoja saisi Paronin kyvyn, enintään kaksi pelaajaa muuttuu ulkopuolisiksi.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
     "boffin-ogre": "Demonilla ei voi olla Jätin kykyä.",
     "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
