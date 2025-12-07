@@ -1,8 +1,47 @@
 {
+  "add-demon": "Lisää Demoneja",
+  "add-minion": "Lisää Kätyrejä",
+  "add-townsfolk": "Lisää Kyläläisiä",
   "analysis": {
     "too-few-outsider": "Ei riittävästi Hylkiöitä"
   },
+  "author-placeholder": "Tuntematon",
+  "characters": "Hahmot",
+  "close": "Sulje",
+  "ctxmenu": {
+    "copy-text-details": "Kopioi hahmon kykyteskti",
+    "draft": "Luonnos",
+    "pinned": "Kiinnitetyt"
+  },
   "edition": {
+    "base-three": "Perus",
     "kickstarter": "Kickstarter"
-  }
+  },
+  "filters": "Suodattimet",
+  "help": "Apu",
+  "keyword": {
+    "demon": "Demoni Demonit",
+    "fabled": "Tarunomainen Tarunomaiset",
+    "first-night": "Ensimmäinen Yö",
+    "loric": "Loric Loric",
+    "minion": "Kätyri Kätyrit",
+    "other-nights": "Muut Yöt",
+    "player": "Pelaaja Pelaajat",
+    "townsfolk": "Kyläläinen Kyläläiset",
+    "traveller": "Matkalainen Matkalaiset"
+  },
+  "name": "Nimi",
+  "quick-add": "Etsi hahmoja …",
+  "randomise": "Satunnaista!",
+  "redo": "Tee uudestaan",
+  "sao": "SAO",
+  "search-abilities": "Etsi kykyjä",
+  "search-character": "Etsi hahmoja …",
+  "search-names": "Etsi nimiä",
+  "settings-menu": "Asetukset",
+  "show-all": "Kaikki Hahmot",
+  "toast": {
+    "copied": "Kopioitu leikepöydälle!"
+  },
+  "undo": "Kumoa"
 }
