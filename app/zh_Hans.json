@@ -355,17 +355,9 @@
       "image_text": "您确定要允许显示自定义图片吗？恶意脚本文件作者可能通过此方式追踪您的IP地址。The Pandemonium Institute 无法在 App 中控制其他用户提供的图片内容。",
       "image_title": "允许使用自定义图片",
       "nomination": {
-        "baker": {
-          "text": "被提名的玩家会受到大家的更多的关注(音量更大)。",
-          "title": "面包师"
-        },
         "regular": {
           "text": "每个玩家都可以随时聊天。",
           "title": "常规"
-        },
-        "zookeeper": {
-          "text": "只有提名者和被提名者可以聊天。",
-          "title": "动物园管理员"
         }
       },
       "option_disabled": "禁用",
@@ -917,7 +909,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "你可以将该标签页拖拽至屏幕上的任意位置。",
       "title": "伪装"
     },
     "character": {

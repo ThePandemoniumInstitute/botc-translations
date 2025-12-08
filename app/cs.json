@@ -353,17 +353,9 @@
       "image_text": "Opravdu chcete povolit vlastní obrázky? Autor škodlivého obsahu by tímto způsobem mohl sledovat vaši IP adresu. Pandemonium Institute nemá žádnou kontrolu nad obrázky poskytovanými ostatními uživateli aplikace.",
       "image_title": "Povolit vlastní obrázky",
       "nomination": {
-        "baker": {
-          "text": "Nominovaný hráč má pozornost skupiny.",
-          "title": "Pekař"
-        },
         "regular": {
           "text": "Každý může mluvit kdykoliv chce.",
           "title": "Standartní"
-        },
-        "zookeeper": {
-          "text": "Pouze nominovaný a ten kdo ho nominoval může mluvit.",
-          "title": "Strážce zvířat"
         }
       },
       "option_disabled": "Zakázáno",
@@ -913,7 +905,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Tuto kartu můžete přetáhnout na libovolné místo na obrazovce.",
       "title": "Blafy"
     },
     "character": {

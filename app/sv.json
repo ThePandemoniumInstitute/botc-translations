@@ -362,10 +362,6 @@
       "image_text": "Vill du verkligen tillåta externa bilder? En illvillig manusförfattare kan spåra din IP-adress på det sättet. The Pandemonium Institute har ingen kontroll över bilder som tillhandahålls av andra appanvändare.",
       "image_title": "Tillåt externa bilder",
       "nomination": {
-        "baker": {
-          "text": "Den nominerade spelaren har gruppens uppmärksamhet.",
-          "title": "Bagaren"
-        },
         "bigwig": {
           "text": "Nominerade väljer en spelare: fram till röstning får bara hen prata och hen är galen att den nominerade är god, eller kanske dör.",
           "title": "Talmannen"
@@ -373,10 +369,6 @@
         "regular": {
           "text": "Alla får prata fritt.",
           "title": "Vanlig"
-        },
-        "zookeeper": {
-          "text": "Endast nomineraren och den nominerade får prata.",
-          "title": "Djurskötaren"
         }
       },
       "option_disabled": "Avstängd",
@@ -939,7 +931,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Du kan dra den här fliken vart du vill på skärmen.",
       "title": "Bluffar"
     },
     "character": {

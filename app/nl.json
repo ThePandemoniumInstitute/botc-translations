@@ -358,17 +358,9 @@
       "image_text": "Weet je zeker dat je aangepaste afbeeldingen wilt toestaan? Een kwaadaardige script maker kan op deze manier je IP-adres traceren. The Pandemonium Institute heeft geen controle over de afbeeldingen die door andere gebruikers van de app worden toegevoegd.",
       "image_title": "Aangepaste afbeeldingen toestaan",
       "nomination": {
-        "baker": {
-          "text": "De genomineerde speler heeft de aandacht van de groep.",
-          "title": "Bakker"
-        },
         "regular": {
           "text": "Iedereen mag praten.",
           "title": "Normaal"
-        },
-        "zookeeper": {
-          "text": "Alleen de nominerende en de genomineerde mogen praten.",
-          "title": "Dierenverzorger"
         }
       },
       "option_disabled": "Uitgeschakeld",
@@ -924,7 +916,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Je kunt dit tabblad naar elke gewenste positie in het spel slepen.",
       "title": "Bluffen"
     },
     "character": {

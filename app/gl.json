@@ -362,10 +362,6 @@
       "image_text": "Estás seguro de que queres permitir imaxes personalizadas? Un autor de arquivos malicioso podería rastrexar a túa dirección desta forma. The Pandemonium Institute non term control sobre as imaxes sendo proporcionadas por outros usuarios da aplicación.",
       "image_title": "Permitir imaxes personalizadas",
       "nomination": {
-        "baker": {
-          "text": "O xogador nomeado ten a atención do grupo.",
-          "title": "Panadeiro"
-        },
         "bigwig": {
           "text": "Cada nomeado escolle u xogador: ata votar, só él pode falar e está empeñado en que o nomeado é bo ou podería morrer.",
           "title": "Peixe Gordo"
@@ -373,10 +369,6 @@
         "regular": {
           "text": "Todos poden falar como queiran.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Só o nomeador e nomeado poden falar.",
-          "title": "Zoólogo"
         }
       },
       "option_disabled": "Desactivado",
@@ -939,7 +931,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Podes arrastrar esta xanela a calqueira posición na pantalla.",
       "title": "Farois"
     },
     "character": {

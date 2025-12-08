@@ -362,10 +362,6 @@
       "image_text": "Bist du sicher, dass du inoffizielle Bilder laden möchtest? Ein böswilliger Skript-Autor könnte auf diesem Weg deine IP-Adresse erfahren. The Pandemonium Institute hat keine Kontrolle über Bilder, die von anderen Nutzern bereitgestellt werden.",
       "image_title": "Eigene Bilder erlauben",
       "nomination": {
-        "baker": {
-          "text": "Der nominierte Spieler steht im Vordergrund.",
-          "title": "Bäcker"
-        },
         "bigwig": {
           "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben.",
           "title": "Big Wig"
@@ -373,10 +369,6 @@
         "regular": {
           "text": "Jeder darf jederzeit reden.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Nur Kläger und Angeklagte dürfen reden.",
-          "title": "Zoowärter"
         }
       },
       "option_disabled": "Deaktiviert",
@@ -939,7 +931,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Du kannst dieses Fenster beliebig verschieben.",
       "title": "Bluffs"
     },
     "character": {

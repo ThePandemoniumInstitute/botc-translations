@@ -357,20 +357,12 @@
       "image_text": "¿Está seguro de que quieres permitir imágenes personalizadas? Un autor de archivos maliciosos podría rastrear tu dirección IP de esta forma. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otros usuarios de la aplicación.",
       "image_title": "Permitir imágenes personalizadas",
       "nomination": {
-        "baker": {
-          "text": "El jugador nominado tiene la atención del grupo.",
-          "title": "Panadero"
-        },
         "bigwig": {
           "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir."
         },
         "regular": {
           "text": "Todo el mundo puede hablar como quiera.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Solo el nominador y el nominado pueden hablar.",
-          "title": "Cuidador"
         }
       },
       "option_disabled": "Desactivado",
@@ -928,7 +920,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Puedes arrastrar esta pestaña a cualquier lugar de la pantalla.",
       "title": "Faroles"
     },
     "character": {

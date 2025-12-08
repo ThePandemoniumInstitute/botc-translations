@@ -362,17 +362,9 @@
       "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP dessa maneira. The Pandemonium Institute não tem controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
       "nomination": {
-        "baker": {
-          "text": "O jogador nomeado tem a atenção do grupo.",
-          "title": "Padeiro"
-        },
         "regular": {
           "text": "Todos podem falar como quiserem.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Apenas o nomeador e o nomeado podem falar.",
-          "title": "Tratador de Animais"
         }
       },
       "option_disabled": "Desabilitado",
@@ -928,7 +920,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Você pode arrastar esta aba para qualquer lugar da tela.",
       "title": "Blefes"
     },
     "character": {

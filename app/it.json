@@ -353,17 +353,9 @@
       "image_text": "Sei sicuro di voler abilitare immagini personalizzate? L'autore di un codice file dannoso potrebbe tracciare il tuo indirizzo IP in questo modo. The Pandemonium Institute non ha nessun controllo sulle immagini fornite da altri utenti di questa app.",
       "image_title": "Abilita immagini personalizzate",
       "nomination": {
-        "baker": {
-          "text": "Il giocatore accusato ha l'attenzione del gruppo.",
-          "title": "Panettiere"
-        },
         "regular": {
           "text": "Tutti possono parlare come desiderano.",
           "title": "Normale"
-        },
-        "zookeeper": {
-          "text": "Solo l'accusato e l'accusatore possono parlare.",
-          "title": "Guardiano dello Zoo"
         }
       },
       "option_disabled": "Disattivato",
@@ -913,7 +905,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Puoi trascinare questa scheda in qualsiasi posizione sullo schermo.",
       "title": "Bluff"
     },
     "character": {

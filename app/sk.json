@@ -353,17 +353,9 @@
       "image_text": "Ste si istý, že chcete povoliť vlastné obrázky? Zlomyseľný autor súboru scenáru by mohol sledovať vašu IP adresu týmto spôsobom. Inštitút Pandemónia nemá žiadnu kontrolu nad obrázkami poskytnutými ostatnými užívateľmi aplikácie.",
       "image_title": "Povoliť vlastné obrázky",
       "nomination": {
-        "baker": {
-          "text": "Nominovaný hráč má pozornosť skupiny.",
-          "title": "Pekár"
-        },
         "regular": {
           "text": "Všetci môžu rozprávať ako si len prajú.",
           "title": "Štandardné"
-        },
-        "zookeeper": {
-          "text": "Iba nominujúci a nominovaný smú rozprávať.",
-          "title": "Strážca Zvierat"
         }
       },
       "option_disabled": "Deaktivované",
@@ -913,7 +905,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Môžete potiahnuť toto okno na ľubovoľné miesto na obrazovke.",
       "title": "Blufy"
     },
     "character": {

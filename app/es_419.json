@@ -354,17 +354,9 @@
       "image_text": "¿Estás seguro de que deseas permitir imágenes personalizadas? Autores maliciosos de estos archivos podrían rastrear tu dirección IP de esta manera. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otros usuarios de la app.",
       "image_title": "Permitir imágenes personalizadas",
       "nomination": {
-        "baker": {
-          "text": "El jugador nominado tiene la atención del grupo.",
-          "title": "Panadero"
-        },
         "regular": {
           "text": "Todos pueden hablar libremente.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Solo el jugador que nominó y el jugador nominado pueden hablar.",
-          "title": "Guardián del Zoológico"
         }
       },
       "option_disabled": "Desactivado",
@@ -914,7 +906,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Puedes arrastrar esta pestaña a cualquier lugar de la pantalla.",
       "title": "Coartadas"
     },
     "character": {

@@ -353,17 +353,9 @@
       "image_text": "Er du sikker på at du vil tillade tilpassede billeder? En ondsindet manuskriptfils forfatter kan spore din IP-adresse på denne måde. The Pandemonium Institute har ingen kontrol over billeder leveret af appens andre brugere.",
       "image_title": "Tillad tilpassede billeder",
       "nomination": {
-        "baker": {
-          "text": "Den nominerede spiller har gruppens opmærksomhed.",
-          "title": "Bager"
-        },
         "regular": {
           "text": "Alle må tale som de vil.",
           "title": "Standard"
-        },
-        "zookeeper": {
-          "text": "Kun den der nominerer og den nominerede må tale.",
-          "title": "Dyrepasser"
         }
       },
       "option_disabled": "Deaktiveret",
@@ -914,7 +906,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Du kan trække denne fane til en hvilken som helst position på skærmen.",
       "title": "Bluffs"
     },
     "character": {

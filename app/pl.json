@@ -362,10 +362,6 @@
       "image_text": "Czy jesteś pewny, że chcesz pozwolić na ładowanie niestandardowych obrazów? Autor złośliwych skryptów może w ten sposób śledzić twój adres IP. The Pandemonium Institute nie ma żadnej kontroli nad obrazami dostarczanymi przez innych użytkowników aplikacji.",
       "image_title": "Pozwól na niestandardowe obrazy",
       "nomination": {
-        "baker": {
-          "text": "Tylko nominowany gracz może mówić.",
-          "title": "Piekarz"
-        },
         "bigwig": {
           "text": "Każdy nominowany wybiera gracza: do momentu głosowania tylko on może mówić i ma obsesję, że nominowany jest dobry, inaczej może umrzeć.",
           "title": "Mecenas"
@@ -373,10 +369,6 @@
         "regular": {
           "text": "Wszyscy mogą mówić, gdy tylko chcą.",
           "title": "Zwykły"
-        },
-        "zookeeper": {
-          "text": "Tylko nomninujący i nominowany mogą mówić.",
-          "title": "Opiekun Zoo"
         }
       },
       "option_disabled": "Wyłączony",
@@ -932,7 +924,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Możesz przeciągnąć tę zakładkę w dowolne miejsce na ekranie.",
       "title": "Blefy"
     },
     "character": {

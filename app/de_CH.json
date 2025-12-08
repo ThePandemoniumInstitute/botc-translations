@@ -353,17 +353,9 @@
       "image_text": "Bist du sicher, dass du inoffizielle Bilder laden möchtest? Ein böswilliger Skript-Autor könnte auf diesem Weg deine IP-Adresse erhalten. The Pandemonium Institute hat keine Kontrolle über die Bilder, die von anderen Nutzern bereitgestellt werden.",
       "image_title": "Eigene Bilder erlauben",
       "nomination": {
-        "baker": {
-          "text": "Nominierte Spieler stehen im Vordergrund.",
-          "title": "Bäcker"
-        },
         "regular": {
           "text": "Jeder darf jederzeit reden.",
           "title": "Normal"
-        },
-        "zookeeper": {
-          "text": "Nur Kläger und Angeklagte dürfen reden.",
-          "title": "Zoowärter"
         }
       },
       "option_disabled": "Deaktiviert",
@@ -913,7 +905,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Du kannst dieses Fenster beliebig verschieben.",
       "title": "Bluffs"
     },
     "character": {

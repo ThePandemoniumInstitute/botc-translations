@@ -362,17 +362,9 @@
       "image_text": "Bạn có chắc bạn muốn chấp nhận ảnh tủy chỉnh không? Tác giả của tệp kịch bản độc hại có thể theo dõi địa chỉ IP bằng cách này. The Pandemonium Institute không thể kiểm soát ảnh được cung cấp bởi người dùng khác trên phần mềm.",
       "image_title": "Cho phép ảnh tùy chỉnh",
       "nomination": {
-        "baker": {
-          "text": "Người bị biểu quyết có sự chú ý của cả nhóm.",
-          "title": "Baker"
-        },
         "regular": {
           "text": "Mọi người có thể nói tùy thích.",
           "title": "Bình thường"
-        },
-        "zookeeper": {
-          "text": "Chỉ có người biểu quyết và bị biểu quyết được nói.",
-          "title": "Zookeeper"
         }
       },
       "option_disabled": "Vô hiệu hóa",
@@ -928,7 +920,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "Bạn có thể kéo tab này tới vị trí bất kỳ trên màn hình.",
       "title": "Nhân vật ngoài ván chơi"
     },
     "character": {
