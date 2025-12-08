@@ -184,6 +184,9 @@
         "claiming": "자리 선택 오류",
         "clear_grim": "마도서를 초기화할 수 없습니다",
         "connection": "연결 오류가 발생했습니다",
+        "create_generic": "이 서버에서 방을 생성할 수 없습니다.",
+        "create_rate_limit": "다른 방을 생성하려면 잠시 후에 다시 시도하시길 바랍니다.",
+        "create_session_exists": "해당 이름을 가진 방이 이미 존재합니다.",
         "edition_change": "에디션 변경 오류",
         "end": "게임 종료 오류",
         "eyes_close": "눈을 감을 수 없습니다",
@@ -366,6 +369,14 @@
           "text": "각 피지명자는 플레이어를 1명 선택합니다. 투표가 끝나기 전까지 해당 플레이어만 말할 수 있으며, 피지명자가 선하다고 \"광기\"하지 않으면 죽을 수도 있습니다.",
           "title": "큰 가발"
         },
+        "focus": {
+          "text": "지명당한 플레이어는 모두의 주목을 받습니다.",
+          "title": "피지명자 주목"
+        },
+        "phases": {
+          "text": "지명자와 피지명자만 말할 수 있습니다.",
+          "title": "고발 & 변론"
+        },
         "regular": {
           "text": "모든 플레이어는 원한다면 말할 수 있습니다.",
           "title": "일반"
@@ -397,6 +408,7 @@
       "setting_english": "캐릭터 영어 이름 표시",
       "setting_gain": "오디오 입력",
       "setting_general_volume": "전체 음량",
+      "setting_grimoire_offset": "마도서 조정",
       "setting_homebrew": "커스텀 이미지 / 홈브루 아이콘 표시",
       "setting_microphone": "마이크",
       "setting_mute_audio": "음소거",
@@ -455,13 +467,13 @@
         "toggleEdition": "에디션 선택",
         "toggleFullscreen": "전체 화면",
         "toggleNPCs": "NPC 캐릭터 추가",
-        "toggleNight": "밤 단계 토글",
+        "toggleNight": "밤 단계 전환",
         "toggleNightOrder": "밤 순서",
         "toggleNightSignal": "밤 정보 표시",
         "toggleReference": "캐릭터 참조표",
         "toggleRoles": "캐릭터 선택",
         "toggleTownSquare": "마을 광장 표시",
-        "toggleVideoMuted": "카메라 토글",
+        "toggleVideoMuted": "카메라 전환",
         "toggleVoteHistory": "투표 내역",
         "toggleWhisper": "대화 / 채팅 하기"
       },
@@ -553,6 +565,7 @@
       "received": "수신",
       "response": "답변:",
       "saw_this": "{0}이(가) 들켰습니다",
+      "select_everyone": "모두 선택",
       "selected_players": "선택된 플레이어",
       "sent": "보냄",
       "storyteller": "이야기꾼|이야기꾼",
@@ -984,6 +997,10 @@
       "reset_position": "위치 초기화",
       "spectator": "관전자",
       "title": "보이스"
+    },
+    "night": {
+      "popout": "밤 단계 시트 팝업",
+      "toggle": "밤 단계 시트"
     },
     "npcs": {
       "remove_fabled": "전설적인 캐릭터 제거",
