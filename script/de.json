@@ -46,7 +46,6 @@
   "clear-script": "Skript leeren",
   "click-drag-move": "Klicken zum Löschen, Ziehen zum Verschieben",
   "close": "Schließen",
-  "commit": "Übernehmen",
   "commit-all-details": "Übernimm alle Charakter-Vorschläge in dein Skript.",
   "commit-details": "Übernimm diesen Charakter auf dein Skript, sodass der Zufallsgenerator ihn nicht wieder überschreiben wird.",
   "copy-script-link": "Skript Link kopieren",
