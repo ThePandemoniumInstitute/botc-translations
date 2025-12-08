@@ -183,6 +183,9 @@
         "chat_title": "A chat connection error happened",
         "claiming": "Error claiming seat",
         "clear_grim": "Can't clear grimoire",
+        "create_generic": "The server was unable to create your session.",
+        "create_rate_limit": "You have to wait a few minutes before you can create another session.",
+        "create_session_exists": "A session with this name already exists.",
         "connection": "A connection error happened",
         "edition_change": "Error changing edition",
         "end": "Error ending game",
@@ -362,17 +365,17 @@
       "image_text": "Are you sure you want to allow custom images? A malicious script file author might track your IP address this way. The Pandemonium Institute has no control over the images being provided by other users of the app.",
       "image_title": "Allow custom images",
       "nomination": {
-        "baker": {
+        "focus": {
           "text": "The nominated player has the group's attention.",
-          "title": "Baker"
+          "title": "Nominee focus"
         },
         "regular": {
           "text": "Everyone may talk as they wish.",
           "title": "Regular"
         },
-        "zookeeper": {
+        "phases": {
           "text": "Only the nominator and nominee may talk.",
-          "title": "Zookeeper"
+          "title": "Accusation & defense"
         },
         "bigwig": {
           "text": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
@@ -405,6 +408,7 @@
       "setting_english": "Show Additional English Character Names",
       "setting_gain": "Audio Gain",
       "setting_general_volume": "General volume",
+      "setting_grimoire_offset": "Grimoire Offset",
       "setting_homebrew": "Show Custom Images / Homebrew Icons",
       "setting_microphone": "Microphone",
       "setting_mute_audio": "Mute Audio",
@@ -561,6 +565,7 @@
       "received": "Received",
       "response": "Response:",
       "saw_this": "{0} saw this",
+      "select_everyone": "Select everyone",
       "selected_players": "Selected players",
       "sent": "Sent",
       "storyteller": "Storyteller|Storytellers",
@@ -939,7 +944,6 @@
   },
   "tabs": {
     "bluffs": {
-      "drag": "You can drag this tab to any position on the screen.",
       "title": "Bluffs"
     },
     "character": {
@@ -993,6 +997,10 @@
       "reset_position": "Reset position",
       "spectator": "Spectator",
       "title": "Voice"
+    },
+    "night": {
+      "toggle": "Toggle night phase sheet",
+      "popout": "Pop out night phase sheet"
     },
     "npcs": {
       "remove_fabled": "Remove Fabled",
