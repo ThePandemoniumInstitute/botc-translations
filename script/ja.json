@@ -40,7 +40,12 @@
     "kickstarter": "キックスターター版"
   },
   "export": {
+    "copy-json": "JSONをコピー",
+    "download-json": "JSONをダウンロードする",
+    "pdf": "PDFを印刷またはエクスポートする",
+    "png": "PNGをエクスポートする",
     "screenshot": {
+      "save": "保存する",
       "share": "共有"
     }
   },
@@ -91,13 +96,21 @@
   "search-names": "名前検索",
   "settings": {
     "allow-external-images": "外部の画像を読み込む",
+    "compact-layout": "簡潔レイアウト",
+    "external-images-heading": "外部画像",
     "font-size": "フォントサイズ",
+    "font-size-larger": "大きい",
+    "font-size-normal": "通常",
     "language": "言語",
+    "print-columns": "出力される列",
+    "print-options-heading": "印刷オプション",
+    "print-player-count-table": "プレイヤー数表を見せる",
     "script-heading": "台本設定",
     "script-type": "台本タイプ",
     "script-type-explanation": "小村台本は７人未満の少人数用の台本です。通常の台本よりキャラクターが少ないことが多い。この設定はあくまでも、台本統計、ランダム化システム、そして一部のＵＩにしか影響がない。",
     "script-type-standard": "通常",
     "script-type-teensyville": "小村",
+    "show-night-sheet": "夜間行動表を見せる",
     "this-language": "日本語",
     "view-tour": "{link}ここ{/link}を押せばもう一度初回ツアーを見れます。"
   },
