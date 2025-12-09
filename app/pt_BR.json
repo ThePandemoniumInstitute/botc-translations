@@ -184,6 +184,7 @@
         "claiming": "Erro ao escolher assento",
         "clear_grim": "Não foi possível apagar o Grimório",
         "connection": "Ocorreu um erro de conexão",
+        "create_session_exists": "Uma partida com esse nome já existe.",
         "edition_change": "Erro ao mudar de edição",
         "end": "Erro ao encerrar partida",
         "eyes_close": "Não foi possível fechar os olhos",
@@ -362,6 +363,13 @@
       "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP dessa maneira. The Pandemonium Institute não tem controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
       "nomination": {
+        "focus": {
+          "text": "O jogador nomeado tem a atenção do grupo."
+        },
+        "phases": {
+          "text": "Apenas o nomeador e o nomeado podem falar.",
+          "title": "Acusação e defesa"
+        },
         "regular": {
           "text": "Todos podem falar como quiserem.",
           "title": "Normal"
@@ -393,6 +401,7 @@
       "setting_english": "Mostrar os nomes dos personagens em inglês também",
       "setting_gain": "Ganho de áudio",
       "setting_general_volume": "Volume geral",
+      "setting_grimoire_offset": "Deslocamento do Grimório",
       "setting_homebrew": "Mostrar imagens personalizadas / Ícones caseiros",
       "setting_microphone": "Microfone",
       "setting_mute_audio": "Silenciar áudio",
@@ -549,6 +558,8 @@
       "received": "Recebido",
       "response": "Resposta:",
       "saw_this": "{0} viu isto",
+      "select_everyone": "Selecionar todos",
+      "selected_players": "Jogadores selecionados",
       "sent": "Enviado",
       "storyteller": "Narrador|Narradores",
       "title": "Acordar {0}",
@@ -722,6 +733,7 @@
       "button_reset": "Redefinir",
       "button_restart": "Reiniciar",
       "button_resume": "Retomar",
+      "button_select_player": "Selecionar jogador",
       "button_start": "Iniciar",
       "countdown_go": "Já",
       "defense": "Defesa",
