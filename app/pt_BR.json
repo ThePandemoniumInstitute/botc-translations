@@ -735,8 +735,10 @@
       "button_resume": "Retomar",
       "button_select_player": "Selecionar jogador",
       "button_start": "Iniciar",
+      "choose_defense_attorney": "Escolha um advogado de defesa!",
       "countdown_go": "Já",
       "defense": "Defesa",
+      "defense_attorney": "Advogado de defesa",
       "highscore_placeholder": "maior número de votos",
       "highscore_text": "Digite um novo número para o voto máximo de hoje\nou deixe em branco para deixar como a maioria dos jogadores vivos.",
       "highscore_title": "Mudar o número máximo da votação",
@@ -877,7 +879,8 @@
       "night_info_received": "Informação noturna recebida",
       "night_info_sent": "Informação noturna enviada",
       "nominate": "Nomear este jogador",
-      "point": "Apontar para este jogador"
+      "point": "Apontar para este jogador",
+      "select": "Selecionar este jogador"
     },
     "reminders": {
       "add": "Adicionar Marcador",
@@ -985,6 +988,9 @@
       "reset_position": "Redefinir posição",
       "spectator": "Espectador",
       "title": "Voz"
+    },
+    "night": {
+      "toggle": "Habilitar a ficha de fase da noite"
     },
     "npcs": {
       "remove_fabled": "Remover Lenda",
