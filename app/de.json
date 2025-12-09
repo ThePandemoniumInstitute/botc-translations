@@ -184,6 +184,9 @@
         "claiming": "Fehler bei der Sitz-Auswahl",
         "clear_grim": "Grimoire konnte nicht geleert werden",
         "connection": "Ein Verbindungsfehler ist aufgetreten",
+        "create_generic": "Der Server konnte die Runde nicht erstellen.",
+        "create_rate_limit": "Du musst ein paar Minuten warten, bevor du eine neue Runde erstellen kannst.",
+        "create_session_exists": "Es existiert bereits eine Runde mit diesem Namen.",
         "edition_change": "Fehler beim Wechseln des Szenarios",
         "end": "Fehler beim Beenden des Spiels",
         "eyes_close": "Augen konnten nicht geschlossen werden",
@@ -366,6 +369,14 @@
           "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben.",
           "title": "Big Wig"
         },
+        "focus": {
+          "text": "Der nominierte Spieler hat die Aufmerksamkeit der Runde.",
+          "title": "Fokus auf Nominierten"
+        },
+        "phases": {
+          "text": "Nur der Kläger und der Angeklagte dürfen reden.",
+          "title": "Anklage & Verteidigung"
+        },
         "regular": {
           "text": "Jeder darf jederzeit reden.",
           "title": "Normal"
@@ -397,6 +408,7 @@
       "setting_english": "Zeige zusätzlich englische Charakternamen",
       "setting_gain": "Audio-Verstärkung",
       "setting_general_volume": "Allgemeine Lautstärke",
+      "setting_grimoire_offset": "Grimoire Verschiebung",
       "setting_homebrew": "Zeige inoffizielle / Eigenkreation-Bilder",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Audio stumm",
@@ -553,6 +565,7 @@
       "received": "Empfangen",
       "response": "Antwort:",
       "saw_this": "{0} hat dies gesehen",
+      "select_everyone": "Alle auswählen",
       "selected_players": "Ausgewählte Spieler",
       "sent": "Gesendet",
       "storyteller": "Erzähler",
@@ -984,6 +997,10 @@
       "reset_position": "Position zurücksetzen",
       "spectator": "Zuschauer",
       "title": "Sprache"
+    },
+    "night": {
+      "popout": "Nachtblatt frei bewegen",
+      "toggle": "Nachtblatt ein-/ausblenden"
     },
     "npcs": {
       "remove_fabled": "Legende entfernen",
