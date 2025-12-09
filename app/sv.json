@@ -184,6 +184,9 @@
         "claiming": "Det gick inte att sätta sig",
         "clear_grim": "Det gick inte att rensa grimoaren",
         "connection": "Ett anslutningsfel inträffade",
+        "create_generic": "Servern kunde inte skapa din session.",
+        "create_rate_limit": "Du måste vänta några minuter innan du kan skapa en ny session.",
+        "create_session_exists": "Det finns redan en session med det här namnet.",
         "edition_change": "Det gick inte att byta utgåva",
         "end": "Det gick inte att avsluta spelet",
         "eyes_close": "Det gick inte att blunda",
@@ -366,6 +369,14 @@
           "text": "Nominerade väljer en spelare: fram till röstning får bara hen prata och hen är galen att den nominerade är god, eller kanske dör.",
           "title": "Talmannen"
         },
+        "focus": {
+          "text": "Den nominerade spelaren har gruppens uppmärksamhet.",
+          "title": "Fokus på nominerad"
+        },
+        "phases": {
+          "text": "Endast nomineraren och den nominerade får prata.",
+          "title": "Åtal och försvar"
+        },
         "regular": {
           "text": "Alla får prata fritt.",
           "title": "Vanlig"
@@ -397,6 +408,7 @@
       "setting_english": "Visa även engelska rollnamn",
       "setting_gain": "Ljudförstärkning",
       "setting_general_volume": "Allmän volym",
+      "setting_grimoire_offset": "Grimoarförskjutning",
       "setting_homebrew": "Visa externa bilder",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Stäng av ljud",
@@ -553,6 +565,7 @@
       "received": "Mottaget",
       "response": "Svar:",
       "saw_this": "{0} såg det här",
+      "select_everyone": "Välj alla",
       "selected_players": "Valda spelare",
       "sent": "Skickat",
       "storyteller": "Berättare|Berättare",
@@ -984,6 +997,10 @@
       "reset_position": "Återställ läge",
       "spectator": "Åskådare",
       "title": "Röst"
+    },
+    "night": {
+      "popout": "Öppna nattark i nytt fönster",
+      "toggle": "Byt nattark"
     },
     "npcs": {
       "remove_fabled": "Ta bort Fabeln",
