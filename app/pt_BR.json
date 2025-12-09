@@ -184,6 +184,8 @@
         "claiming": "Erro ao escolher assento",
         "clear_grim": "Não foi possível apagar o Grimório",
         "connection": "Ocorreu um erro de conexão",
+        "create_generic": "O servidor não foi capaz de criar sua partida.",
+        "create_rate_limit": "Você tem que esperar alguns minutos antes de poder criar outra partida.",
         "create_session_exists": "Uma partida com esse nome já existe.",
         "edition_change": "Erro ao mudar de edição",
         "end": "Erro ao encerrar partida",
@@ -368,7 +370,8 @@
           "title": "Perucão"
         },
         "focus": {
-          "text": "O jogador nomeado tem a atenção do grupo."
+          "text": "O jogador nomeado tem a atenção do grupo.",
+          "title": "Foco no nomeado"
         },
         "phases": {
           "text": "Apenas o nomeador e o nomeado podem falar.",
