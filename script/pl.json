@@ -48,6 +48,7 @@
   "close": "Zamknij",
   "commit-all-details": "Zatwierdź wszystkie postacie szkicowe na skrypcie.",
   "commit-details": "Zatwierdź postać na skrypt, żeby nie została usunięta, gdy wciśnięty zostanie przycisk losowy.",
+  "copy-script-link": "Skopiuj link do Skryptu",
   "ctxmenu": {
     "copy-text": "Kopiuj tekst",
     "copy-text-details": "Kopiuj tekst umiejętności postaci",
@@ -79,7 +80,10 @@
   "external-image-confirm": "Czy jesteś pewien, że chcesz włączyć ładowanie zewnętrznych obrazów? Jeśli twórca pliku skryptu ma złe intencje, pozwoli mu to śledzić twój adres IP. The Pandemonium Institute nie ma kontroli nad obrazami udostępnianymi przez innych użytkowników aplikacji.",
   "filters": "Filtry",
   "help": "Pomoc",
+  "import-description-kb": "albo wklej JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... albo wklej URL/JSON tu:",
   "import-script": "Importuj skrypt",
+  "import-type-error": "Zły typ pliku, nie załadowano pliku.",
   "import-typing-error": "To pole istnieje aby pozwolić na wklejanie JSONów na urządzeniach mobilnych. Ręczne wpisywanie nie jest dozwolone.",
   "interactions": {
     "+choirboy-king": {
@@ -119,6 +123,7 @@
   "randomise": "Wylosuj!",
   "randomise-details": "Generator losowy wypełni twój skrypt losowymi postaciami szkicowymi.",
   "read-more": "Przeczytaj almanach/stronę wiki",
+  "recommended-travellers": "Zalecani Wędrowcy",
   "redo": "Ponów",
   "sao": "SAO",
   "script-name": "Tytuł skryptu",
