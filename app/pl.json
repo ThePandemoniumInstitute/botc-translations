@@ -366,6 +366,9 @@
           "text": "Każdy nominowany wybiera gracza: do momentu głosowania tylko on może mówić i ma obsesję, że nominowany jest dobry, inaczej może umrzeć.",
           "title": "Mecenas"
         },
+        "focus": {
+          "text": "Głos ma gracz Nominowany."
+        },
         "regular": {
           "text": "Wszyscy mogą mówić, gdy tylko chcą.",
           "title": "Zwykły"
@@ -397,6 +400,7 @@
       "setting_english": "Pokaż dodatkowe angielskie nazwy postaci",
       "setting_gain": "Wzmocnienie dźwięku",
       "setting_general_volume": "Głośność - ogólnie",
+      "setting_grimoire_offset": "Przesunięcie Grymuaru",
       "setting_homebrew": "Pokaż niestandardowe / przemycone Ikony",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Wycisz audio",
@@ -553,6 +557,7 @@
       "received": "Otrzymano",
       "response": "Odpowiedź:",
       "saw_this": "{0} to widzi",
+      "select_everyone": "Wybierz wszystkich",
       "sent": "Wysłane",
       "storyteller": "Bajarz|Bajarze",
       "title": "Obudź {0}",
