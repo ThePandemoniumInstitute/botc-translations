@@ -164,7 +164,8 @@
   "show-all": "すべてのキャラクター",
   "show-script-analytics": "台本統計を表示",
   "toast": {
-    "cannot-remove-bootlegger": "この台本にカスタムキャラクターがあるため、密売人を外すことができない。"
+    "cannot-remove-bootlegger": "この台本にカスタムキャラクターがあるため、密売人を外すことができない。",
+    "copied": "クリップボードにコピーされます！"
   },
   "toggle-autosort": "自動ソートをトグル",
   "toggle-quick-input": "クイックインプットをトグル",
@@ -193,5 +194,7 @@
     "undo-redo-heading": "戻る・やり直す",
     "welcome-01": "{bold}ブラッド・オン・ザ・クロックタワー{/bold}のための新しい台本作成ツールです！初めに、このツアーで基本的な機能を紹介します。",
     "welcome-heading": "ようこそ！"
-  }
+  },
+  "undo": "元に戻す",
+  "unpin": "外す"
 }
