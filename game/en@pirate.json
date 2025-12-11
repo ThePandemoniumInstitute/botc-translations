@@ -1,7 +1,7 @@
 {
   "editions": {
     "bmr": {
-      "description": "...be a feast o' the damned. Beasts o' the Sea send scores to the locker, and Scallywags can do it too. Good'uns can dance with the storm for trusty knowin', but can send their hearties to the locker at the same time. There be many paths to keep'n mateys livin' well into the journey. But if the good'uns can't reckon Scallywags and Beasts o' the Sea be aboard, their doom be nigh on certain."
+      "description": "...be a feast o' the damned. Beasts o' the Sea send scores to the locker, and Scallywags can do it too. Good'uns can dance with the storm for trusty knowin', but can send their hearties to the locker at the same time. There be many paths to keep'n mateys livin' well into the journey. But if'n the good'uns can't reckon Scallywags and Beasts o' the Sea be aboard, their doom be nigh on certain."
     },
     "custom": {
       "description": "If'n ye wish to set sail wi' a ledger o' yer own makin', ye must pick the stations ye wish to hire with the crown's Ledger Quill and then drop the writ o' the sea here or give us the bearings of yer writ. Ye can also drop the writ wi' yer ledger onto yer display or share a mark from Cap'n Jason that ye received.",
@@ -11,7 +11,7 @@
       "name": "Counterfeit"
     },
     "tb": {
-      "description": "...is good fer yer whole crew. Some stations have knowin's without tryin', some must hunt out their knowin's, and some want to be bait for the Beast o' the Sea. Both crews can make an offering to the ocean to gain the upper hand.\nStorm's Comin' be a simple hunt for the Beast o' the Sea on the face of it, but the bad'uns can foul the bilge with their mighty and fearsome trades, so the good'uns can ne'er be sure of what they think they know if they want to make it through the journy alive.",
+      "description": "...be good fer yer whole crew. Some stations have knowin's without tryin', some must hunt out their knowin's, and some want to be bait for the Beast o' the Sea. Both crews can make an offering to the ocean to gain the upper hand.\nStorm's Comin' be a simple hunt for the Beast o' the Sea on the face of it, but the bad'uns can foul the bilge with their mighty and fearsome trades, so the good'uns can ne'er be sure of what they think they know if'n they want to make it through the journy alive.",
       "name": "Storm’s Comin’"
     }
   },
@@ -19,33 +19,33 @@
     "alchemist-marionette": "An Alchemist-Puppet works not the Puppet's trade & the Puppet be aboard.",
     "alchemist-mastermind": "An Alchemist-Plotter works not the Plotter's trade & the Plotter is not-in-play.",
     "alchemist-organgrinder": "If'n the Alchemist works the Organ Grinder's trade, the Organ Grinder be aboard. If both be decent, both be tipsy.",
-    "alchemist-spy": "An Alchemist-Spy works not the Spy trade & a Spy be aboard. When a player walks the plank, a livin' Alchemist-Spy may call a livin' matey the Spy. If they be right, the Beast o' the Sea must pick the Spy this moon.",
-    "alchemist-summoner": "The Alchemist-summoner knows not what be ashore, and picks a Beast o' the Sea, but not a matey. If they enter the locker afore they do, the bad'uns prevail. [No Beast o' the Sea]",
-    "alchemist-wraith": "An Alchemist-Wraith works not the Wraith trade & a Wraith be aboard. When a player walks the plank, a livin' Alchemist-Wraith may call a livin' matey the Wraith. If they be right, the Beast o' the Sea must pick the Wraith this moon.",
-    "alhadikhia-mastermind": "If the Al-Hadikhia enters the locker by walkin' the plank and the Plotter be livin', the Al-Hadikhia picks 3 good'uns this moon: if all three pick to live, the bad'uns prevail. Else, the good'uns prevail.",
-    "alhadikhia-princess": "If the Princess accused a matey and sent them to walk the plank on their first daylight, Al-Hadikhia sends none to the locker this moon.",
-    "alhadikhia-scarletwoman": "If there would be two Beasts o' the Sea, and one had been the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again.",
+    "alchemist-spy": "An Alchemist-Spy works not the Spy trade & a Spy be aboard. When a player walks the plank, a livin' Alchemist-Spy may call a livin' matey the Spy. If'n they be right, the Beast o' the Sea must pick the Spy this moon.",
+    "alchemist-summoner": "The Alchemist-summoner knows not what be ashore, and picks a Beast o' the Sea, but not a matey. If'n they enter the locker afore they do, the bad'uns prevail. [No Beast o' the Sea]",
+    "alchemist-wraith": "An Alchemist-Wraith works not the Wraith trade & a Wraith be aboard. When a player walks the plank, a livin' Alchemist-Wraith may call a livin' matey the Wraith. If'n they be right, the Beast o' the Sea must pick the Wraith this moon.",
+    "alhadikhia-mastermind": "If the Al-Hadikhia enters the locker by walkin' the plank and the Plotter be livin', the Al-Hadikhia picks 3 good'uns this moon: if'n all three pick to live, the bad'uns prevail. Else, the good'uns prevail.",
+    "alhadikhia-princess": "If'n the Princess accused a matey and sent them to walk the plank on their first daylight, Al-Hadikhia sends none to the locker this moon.",
+    "alhadikhia-scarletwoman": "If'n there would be two Beasts o' the Sea, and one had been the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again.",
     "alsaahir-vizier": "The Captain tells not that the Vizier be aboard.",
-    "atheist-riot": "During a riot, if the Captain be accused, mateys take a vote. If they be on the plank, the journey ends. If not, they accuse again.",
+    "atheist-riot": "During a riot, if'n the Captain be accused, mateys take a vote. If'n they be on the plank, the journey ends. If not, they accuse again.",
     "baron-heretic": "Only one jinxed station can be aboard.",
-    "baron-plaguedoctor": "If the Captain would work the Baron's trade, up to two mateys become Stowaways.",
-    "boffin-cultleader": "If the Beast o' the Sea works the Cult Leader's trade, they can't become a good'un because of it.",
-    "boffin-goon": "If the Demon works the Ruffian's trade, they can't become a good'un because of it.",
+    "baron-plaguedoctor": "If'n the Captain would work the Baron's trade, up to two mateys become Stowaways.",
+    "boffin-cultleader": "If'n the Beast o' the Sea works the Cult Leader's trade, they can't become a good'un because of it.",
+    "boffin-goon": "If'n the Demon works the Ruffian's trade, they can't become a good'un because of it.",
     "boffin-heretic": "The Beast o' the Sea can't work the Heretic's trade.",
     "boffin-ogre": "The Beast o' the Sea can't work the Ogre's trade.",
     "boffin-politician": "The Beast o' the Sea can't work the Politician's trade.",
     "boomdandy-plaguedoctor": "If the Captain would work the Boomdandy's trade, a matey becomes the Boomdandy.",
     "bountyhunter-kazali": "If the Kazali turns the Bounty Hunter into a Scallywag, it makes no crewmates bad'uns.",
     "bountyhunter-philosopher": "If the Philosopher works the Bounty Hunter's trade, a Crewmate will mayhap become a bad'un.",
-    "butler-cannibal": "If the Cannibal works the Butler's trade, they be told it.",
+    "butler-cannibal": "If'n the Cannibal works the Butler's trade, they be told it.",
     "cannibal-juggler": "If the Juggler guesses on the first daylight and walks the plank into the locker, the livin' Cannibal learns how many guesses were right this moon.",
-    "cannibal-princess": "If the Cannibal accused the Princess and made them walk the plank into the locker, the Beast o' the Sea doesn't send anyone to the locker tonight.",
-    "cannibal-zealot": "If the Cannibal works the Zealot's trade, they be told it.",
-    "chambermaid-mathematician": "The Maid can see if the Bean Counter will rouse this moon.",
-    "courtier-summoner": "If the livin' Summoner works no trade, the Captain works the Summoner's trade.",
-    "courtier-vizier": "If the Vizier gives up their trade, they be told it, and can't be sent to the locker under daylight.",
-    "cultleader-pithag": "If the Pit-Hag makes a bad'un into the Cult Leader, they can't become a good'un thanks to their own trade.",
-    "damsel-pithag": "If a Pit-Hag makes a Damsel, the Captain picks which matey it be."
+    "cannibal-princess": "If'n the Cannibal accused the Princess and made them walk the plank into the locker, the Beast o' the Sea doesn't send anyone to the locker tonight.",
+    "cannibal-zealot": "If'n the Cannibal works the Zealot's trade, they be told it.",
+    "chambermaid-mathematician": "The Maid can see if'n the Bean Counter will rouse this moon.",
+    "courtier-summoner": "If'n the livin' Summoner works no trade, the Captain works the Summoner's trade.",
+    "courtier-vizier": "If'n the Vizier gives up their trade, they be told it, and can't be sent to the locker under daylight.",
+    "cultleader-pithag": "If'n the Pit-Hag makes a bad'un into the Cult Leader, they can't become a good'un thanks to their own trade.",
+    "damsel-pithag": "If'n a Pit-Hag makes a Damsel, the Captain picks which matey it be."
   },
   "reminders": {
     "redherring": "Bloody Herring"
