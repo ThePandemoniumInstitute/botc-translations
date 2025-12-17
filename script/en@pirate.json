@@ -1,1 +1,15 @@
-{}
+{
+  "edition": {
+    "base-three": "Well-Mapped"
+  },
+  "keyword": {
+    "demon": "Beast o' the Sea|Beasts o' the Sea",
+    "fabled": "Captain o' Legend|Captains o' Legend",
+    "loric": "Great Tale o' the Sea|Great Tales o' the Sea",
+    "minion": "Scallywag|Scallywags",
+    "outsider": "Stowaway|Stowaways",
+    "player": "Matey|Mateys",
+    "townsfolk": "Crewmate|Crewmates",
+    "traveller": "Landlubber|Landlubbers"
+  }
+}
