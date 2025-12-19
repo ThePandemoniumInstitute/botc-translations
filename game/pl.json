@@ -516,6 +516,9 @@
       "name": "Arcykapłanka",
       "other": "Wskaż gracza."
     },
+    "hindu": {
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+    },
     "huntsman": {
       "ability": "Raz na grę, w nocy, wybierz żywego gracza: jeśli wybrałeś Damulkę, staje się Mieszczaninem, którego nie ma w grze. [+Damulka]",
       "first": "Łowczy może wybrać gracza. :reminder: Jeżeli wybrany gracz jest Damulką: Uśpij Łowczego. Obudź Damulkę, pokaż kartę *JESTEŚ* i żeton nowej postaci.",
