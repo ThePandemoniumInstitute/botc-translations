@@ -291,6 +291,7 @@
       "homebrew_title": "カスタム画像が無効化",
       "release_script": "{role}の役職リリース台本：",
       "theme": "テーマ：",
+      "theme_generic": "一般的なテーマ:",
       "title": "エディションを選択：",
       "upload_custom": "カスタム台本のJSONをアップロード"
     },
@@ -395,6 +396,7 @@
       "setting_english": "追加でキャラクター名を英語で表示",
       "setting_gain": "音声ゲイン",
       "setting_general_volume": "総合音量",
+      "setting_grimoire_offset": "グリモワールのオフセット",
       "setting_homebrew": "カスタム画像・カスタム役職アイコンを表示",
       "setting_microphone": "マイク",
       "setting_mute_audio": "音声ミュート",
