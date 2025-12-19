@@ -72,6 +72,7 @@
     "pdf": "Skriv ut/exportera PDF",
     "png": "Exportera PNG",
     "screenshot": {
+      "failed-embed": "Vissa ikoner kunde inte bäddas in i den exporterade bilden",
       "save": "Spara",
       "share": "Dela"
     }
