@@ -952,7 +952,8 @@
       "error_save": "Error saving file",
       "jinxes": "Jinxes",
       "other_nights": "Not the\nfirst night",
-      "popout": "Pop-out Character Tab"
+      "popout": "Pop-out Character tab",
+      "popout_window": "Open Character tab in new window"
     },
     "characters": {
       "title": "Characters"
@@ -1086,6 +1087,7 @@
     "since": "since {0}",
     "translation_disclaimer": "You're currently using a localized version of the app. This translation has been created and reviewed by the following volunteers, who are not affiliated with The Pandemonium Institute:",
     "translation_game": "This game content translation might not accurately reflect the official English game rules as written by The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} travellers alive",
     "update": "Please Update!",
     "updating": "Updating app to version {0}...",
     "warning_browser": "You are using an old or unsupported browser",
