@@ -72,6 +72,7 @@
     "pdf": "Drukuj/Eksportuj PDF",
     "png": "Wyeksportuj PNG",
     "screenshot": {
+      "failed-embed": "Niektóre ikony nie mogły być zagnieżdżone w wyeksportowanym obrazie",
       "save": "Zapisz",
       "share": "Udostępnij"
     }
