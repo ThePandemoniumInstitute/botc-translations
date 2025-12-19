@@ -48,6 +48,7 @@
   "close": "Chiudi",
   "commit-all-details": "Conferma tutti i personaggi bozza di questo scenario.",
   "commit-details": "Conferma questo personaggio per lo scenario, in modo tale che non possa esere rimosso se viene premuto il pulsante randomizzatore.",
+  "copy-script-link": "Copia Link Scenario",
   "ctxmenu": {
     "copy-text": "Copia testo",
     "copy-text-details": "Copia il testo abilità del personaggio",
@@ -71,15 +72,22 @@
     "pdf": "Stampa/Esporta PDF",
     "png": "Esporta PNG",
     "screenshot": {
+      "failed-embed": "Non è stato possibile includere alcune icone nell'immagine esportata",
       "save": "Salva",
       "share": "Condividi"
     }
   },
   "export-menu": "Esporta menu",
   "external-image-confirm": "Sei sicuro/a di voler permettere immagini personalizzate? Un autore malintenzionato di un file scenario potrebbe tracciare il tuo IP in questo modo. The Pandemonium Institute non ha controllo delle immagini provvedute da altri utenti dell'applicazione.",
+  "fabled-and-loric": "Leggendari & Folklorici",
   "filters": "Filtri",
   "help": "Aiuto",
+  "import-description": "Clicca o usa drag & drop per importare il JSON dello scenario",
+  "import-description-kb": "o incolla JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "… o incolla l'URL/JSON qui:",
+  "import-json-error": "Non è possibile caricare un JSON valido da",
   "import-script": "Importa scenario",
+  "import-type-error": "Il tipo di file è sbagliato, non è stato possibile caricarlo.",
   "import-typing-error": "Questo spazio esiste per permettere di incollare JSON su dispositivi mobili e touch. Non è permesso digitare e inviare.",
   "interactions": {
     "+choirboy-king": {
@@ -119,6 +127,7 @@
   "randomise": "Randomizza!",
   "randomise-details": "Il randomizzatore riempirà il tuo scenario con personaggi bozza selezionati in maniera casuale.",
   "read-more": "Leggi l'almanacco/voce nella wiki",
+  "recommended-travellers": "Viaggiatori Suggeriti",
   "redo": "Ripeti",
   "sao": "SAO",
   "script-name": "Nome scenario",
@@ -151,7 +160,7 @@
     "script-type-teensyville": "Teensyville",
     "show-analysis-icons": "Mostra Icone Analisi",
     "show-night-sheet": "Mostra Lista Notte",
-    "this-language": "Inglese",
+    "this-language": "Italiano",
     "view-tour": "Clicca {link}qui{/link} per vedere nuovamente il tour."
   },
   "settings-menu": "Impostazioni",
