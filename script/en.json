@@ -30,7 +30,8 @@
     "pdf": "Print/Export PDF",
     "screenshot": {
       "save": "Save",
-      "share": "Share"
+      "share": "Share",
+      "failed-embed": "Some icons could not be embedded in the exported image"
     }
   },
   "settings": {
