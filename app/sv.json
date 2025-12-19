@@ -951,8 +951,9 @@
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
       "jinxes": "Krockar",
-      "other_nights": "Inte den\nförsta natten",
-      "popout": "Öppna rollark i nytt fönster"
+      "other_nights": "Inte första\nnatten",
+      "popout": "Lossa rollarket",
+      "popout_window": "Öppna rollarket i ett nytt fönster"
     },
     "characters": {
       "title": "Roller"
@@ -999,7 +1000,7 @@
       "title": "Röst"
     },
     "night": {
-      "popout": "Öppna nattark i nytt fönster",
+      "popout": "Lossa nattarket",
       "toggle": "Byt nattark"
     },
     "npcs": {
@@ -1086,6 +1087,7 @@
     "since": "sedan {0}",
     "translation_disclaimer": "Du använder en lokaliserad version av appen. Översättningen har skapats och granskats av följande volontärer, som inte är anslutna till The Pandemonium Institute:",
     "translation_game": "Den här översättningen av spelets innehåll kanske inte exakt återger de officiella engelska spelreglerna av The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} Resenärer lever",
     "update": "Du måste uppdatera!",
     "updating": "Uppdaterar appen till version {0}...",
     "warning_browser": "Du använder en webbläsare som inte stöds",
