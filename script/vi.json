@@ -48,6 +48,7 @@
   "close": "Đóng",
   "commit-all-details": "Chốt tất cả nhân vật nháp vào kịch bản.",
   "commit-details": "Chốt nhân vật này vào kịch bản để nó không bị loại bỏ khi nhấn nút ngẫu nhiên.",
+  "copy-script-link": "Sao Chép Liên Kết Kịch Bản",
   "ctxmenu": {
     "copy-text": "Sao chép văn bản",
     "copy-text-details": "Sao chép văn bản chức năng nhân vật",
@@ -71,15 +72,22 @@
     "pdf": "In/Xuất ra PDF",
     "png": "Xuất ra PNG",
     "screenshot": {
+      "failed-embed": "Một số biểu tượng không thể dán được vào ảnh được xuất ra",
       "save": "Lưu",
       "share": "Chia sẻ"
     }
   },
   "export-menu": "Menu xuất kịch bản",
   "external-image-confirm": "Bạn có chắc bạn muốn cho phép ảnh tự chọn? Tác giả của tệp kịch bản độc hại có thể theo dõi địa chỉ IP của bạn theo cách này. The Pandemonium Institute không thể kiểm soát ảnh được gửi bời các người dùng khác của phần mềm.",
+  "fabled-and-loric": "Thần Thoại & Truyền Thuyết",
   "filters": "Bộ Lọc",
   "help": "Trợ giúp",
+  "import-description": "Nhấn hoặc kéo thả thể nhập JSON của kịch bản",
+  "import-description-kb": "hoặc dán JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... hoặc dán URL/JSON ở đây:",
+  "import-json-error": "Không thể tải JSON hợp lệ từ",
   "import-script": "Nhập kịch bản",
+  "import-type-error": "Sai loại tệp, chưa thể tải tệp.",
   "import-typing-error": "Hộp thoại nàu cho phép dán JSON trên điện thoại và thiết bị chạm. Không được nhập và gửi ở đây.",
   "interactions": {
     "+choirboy-king": {
@@ -119,6 +127,7 @@
   "randomise": "Ngẫu nhiên!",
   "randomise-details": "Máy ngẫu nhiên sẽ lắp đầy kịch bản của bạn bằng nhân vật nháp ngẫu nhiên.",
   "read-more": "Đọc mục wiki/luật",
+  "recommended-travellers": "Du Khách Được Gợi Ý",
   "redo": "Làm lại",
   "sao": "SAO",
   "script-name": "Tên kịch bản",
@@ -151,7 +160,7 @@
     "script-type-teensyville": "Teensyville",
     "show-analysis-icons": "Hiện Biểu Tượng Phân Tích",
     "show-night-sheet": "Hiện Tờ Ban Đên",
-    "this-language": "Tiếng Anh",
+    "this-language": "Tiếng Việt",
     "view-tour": "Nhấn vào {link}đây{/link} để xem lại hướng dẫn."
   },
   "settings-menu": "Cài đặt",
@@ -173,8 +182,8 @@
     "autosort-heading": "Tự động sắp xếp",
     "final-01": "Đến đây là tất cả những gì cần nói rồi! Nếu bạn muốn xem lại hướng dẫn này, bạn có thể làm điều này ở menu{block}{settingsIcon} cài đặt{/block}.",
     "final-heading": "Hãy thưởng thức!",
-    "import-export-share-01": "Bạn có thể {block}{importIcon} nhập{/block},{block}{exportIcon} xuất{/block}, hoặc {block}{shareIcon} chia sẻ{/block} kịch bản tại đây. Kịch bản và nhân vật tự chế được hỗ trợ!",
-    "import-export-share-02": "Nhấn vào nút {block}{shareIcon} chia sẻ{/block} sẽ cho bạn một 'liên kết kịch bản' đặc biệt, mà cho phép bất kỳ ai có thể thấy kịch bản trực tiếp từ công cụ này. Hãy thử ngay!",
+    "import-export-share-01": "Bạn có thể {block}{importIcon} nhập{/block},{block}{exportIcon} xuất{/block}, hoặc {block} chia sẻ{/block} kịch bản tại đây. Kịch bản và nhân vật tự chế được hỗ trợ!",
+    "import-export-share-02": "Nhấn vào nút {block} Sao Chép Liên Kết Kịch Bản{/block} ở menu {block}xuất{/block} sẽ cho bạn 'liên kết kịch bản' đặc biệt, và sẽ cho phép bất kỳ ai có thể thấy kịch bản của bạn trên chính công cụ này.",
     "import-export-share-03": "Bạn cũng có thể xem lại hướng dẫn này tại menu {block}{settingsIcon} cài đặt{/block}.",
     "import-export-share-heading": "Nhập, xuất, và chia sẻ",
     "multiple-scripts-01": "Bạn có thể nhắn vào tab {heading}kịch bản{/heading} ở đây để thấy hết tất cả kịch bản bạn đã làm.",
