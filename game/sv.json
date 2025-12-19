@@ -707,6 +707,11 @@
       "name": "Prästinnan",
       "other": "Peka på en spelare."
     },
+    "hindu": {
+      "ability": "De första 4 spelarna som dör återupplivas omedelbart som Resenärer på samma lag.",
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
+      "name": "Hindun"
+    },
     "huntsman": {
       "ability": "En gång per spel, på natten, kan du välja en levande spelare; om du väljer Ungmön blir hen en Bybo som inte är i spel. [+Ungmön]",
       "first": "Jägaren kanske väljer en spelare. :reminder: Söv Jägaren. Om Jägaren pekade på Ungmön så väck Ungmön, visa kortet *DU ÄR* och hens nya rollbricka.",
