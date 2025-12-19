@@ -952,7 +952,8 @@
       "error_save": "Fehler beim Speichern der Datei",
       "jinxes": "Jinxes",
       "other_nights": "Nicht in der\nersten Nacht",
-      "popout": "Charakterbogen öffnen"
+      "popout": "Charakterbogen öffnen",
+      "popout_window": "Charakter-Bogen in einem neuen Fenster öffnen"
     },
     "characters": {
       "title": "Charaktere"
@@ -1086,6 +1087,7 @@
     "since": "seit {0}",
     "translation_disclaimer": "Du siehst hier eine übersetzte Version der App. Diese Übersetzung wurde von den folgenden Freiwilligen verfasst, die nicht mit The Pandemonium Institute assoziiert sind:",
     "translation_game": "Diese inoffizielle Übersetzung der Spiel-Inhalte ist möglicherweise nicht akkurat den Spielregeln entsprechend, wie sie von TPI geschrieben wurden.",
+    "travellers_alive": "{0} / {1} lebende Reisende",
     "update": "Bitte updaten!",
     "updating": "Aktualisiere die App auf Version {0}...",
     "warning_browser": "Du nutzt einen alten oder nicht mehr unterstützten Browser",
