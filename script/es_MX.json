@@ -48,6 +48,7 @@
   "close": "Cerrar",
   "commit-all-details": "Confirmar todos los personajes en el guion.",
   "commit-details": "Confirma este personaje en el guion para que no sea eliminado si se presiona el botón de aleatorización.",
+  "copy-script-link": "Copiar Vínculo del Guión",
   "ctxmenu": {
     "copy-text": "Copiar texto",
     "copy-text-details": "Copiar texto de la habilidad del personaje",
@@ -71,15 +72,22 @@
     "pdf": "Imprimir/Exportar PDF",
     "png": "Exportar PNG",
     "screenshot": {
+      "failed-embed": "Algunos iconos no se pudieron incrustar en la imagen exportada",
       "save": "Guardar",
       "share": "Compartir"
     }
   },
   "export-menu": "Exportar menú",
   "external-image-confirm": "¿Está segure que desea permitir imágenes personalizadas? Un archivo de guion malicioso podría rastrear su dirección IP de esta manera. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otres usuaries de la aplicación.",
+  "fabled-and-loric": "Fábulas y Lóricos",
   "filters": "Filtros",
   "help": "Ayuda",
+  "import-description": "Da clic o arrastra y suelte para importar el guion JSON",
+  "import-description-kb": "o pegue el JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... o pegue el URL/JSON aquí:",
+  "import-json-error": "No se pudo cargar el JSON valido desde",
   "import-script": "Importar guion",
+  "import-type-error": "Tipo de archivo equivocado, no se pudo cargar el archivo.",
   "import-typing-error": "Esta caja existe para permitir pegar JSONs en dispositivos móviles o táctiles. No está permitido escribir o enviar.",
   "interactions": {
     "+choirboy-king": {
@@ -99,7 +107,7 @@
     "demon": "Demonie|Demonies",
     "fabled": "Fábula|Fábulas",
     "first-night": "Primera Noche",
-    "loric": "Lóric|Lóric",
+    "loric": "Lórico|Lóricos",
     "minion": "Secuaz|Secuaces",
     "other-nights": "Otras Noches",
     "outsider": "Foránex|Foránexs",
@@ -119,6 +127,7 @@
   "randomise": "¡Aleatorizar!",
   "randomise-details": "El aleatorizador completará tu guion con personajes aleatorios.",
   "read-more": "Leer la entrada del almanaque/wiki",
+  "recommended-travellers": "Viajeres Recomendades",
   "redo": "Rehacer",
   "sao": "SAO",
   "script-name": "Nombre del guion",
@@ -143,7 +152,7 @@
     "print-columns": "Imprimir Columnas",
     "print-compact-night-sheet": "Hoja de Noche Compacta",
     "print-options-heading": "Opciones de Impresión",
-    "print-player-count-table": "Mostrar Table de Conteo de Jugadores",
+    "print-player-count-table": "Mostrar Tabla de Conteo de Jugadores",
     "script-heading": "Configuraciones del Guion",
     "script-type": "Tipo de Guion",
     "script-type-explanation": "Un guion de Villa Pequeña es un guion diseñado específicamente para grupos reducidos de jugadores (menos de 7 jugadores). Normalmente, tiene menos personajes que un guion estándar. Esta configuración solo afecta a las analíticas del guion, al generador aleatorio y algunos elementos de la IU.",
@@ -151,7 +160,7 @@
     "script-type-teensyville": "Villa Pequeña",
     "show-analysis-icons": "Mostrar Iconos de Análisis",
     "show-night-sheet": "Mostrar Hoja de Noche",
-    "this-language": "Inglés",
+    "this-language": "Español (México)",
     "view-tour": "Da clic {link}aquí{/link} para tomar nuevamente el recorrido."
   },
   "settings-menu": "Configuraciones",
