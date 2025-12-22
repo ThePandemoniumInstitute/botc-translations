@@ -993,6 +993,9 @@
       "spectator": "Spectateur",
       "title": "Voix"
     },
+    "night": {
+      "popout": "Sortir la feuille de phase de nuit"
+    },
     "npcs": {
       "title": "PNJs"
     },
@@ -1078,6 +1081,7 @@
     "translation_content": "Utiliser les traductions du contenu du jeu",
     "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
     "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} voyageurs en vie",
     "update": "Veuillez Mettre À Jour !",
     "updating": "Mise à jour de l'app à la version {0}...",
     "warning_browser": "Vous utilisez un navigateur ancien ou non pris en charge",
