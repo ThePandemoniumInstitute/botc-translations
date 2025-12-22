@@ -188,6 +188,8 @@
         "claiming": "Erreur lors de la revendication du siège",
         "clear_grim": "Impossible de vider le Grimoire",
         "connection": "Une erreur de connexion s'est produite",
+        "create_generic": "Le serveur n'a pas pu créer votre session.",
+        "create_rate_limit": "Vous devez attendre quelques minutes avant de pouvoir créer une autre session.",
         "edition_change": "Erreur lors du changement d'édition",
         "end": "Erreur lors de la fin de la partie",
         "eyes_close": "Impossible de fermer les yeux",
@@ -366,6 +368,12 @@
       "image_text": "Êtes-vous sûr·e de vouloir autoriser les images personnalisées ? Un auteur de script malveillant pourrait ainsi suivre votre adresse IP. The Pandemonium Institute n’a aucun contrôle sur les images fournies par d’autres utilisateurs de l’application.",
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
+        "focus": {
+          "text": "Le joueur nommé a l'attention du groupe."
+        },
+        "phases": {
+          "title": "Accusation & défense"
+        },
         "regular": {
           "text": "Tout le monde peut parler librement.",
           "title": "Normal"
@@ -555,6 +563,7 @@
       "received": "Reçu",
       "response": "Réponse :",
       "saw_this": "Vu par {0}",
+      "select_everyone": "Sélectionner tout le monde",
       "selected_players": "Joueurs sélectionnés",
       "sent": "Envoyé",
       "storyteller": "Conteuse|Conteuses",
