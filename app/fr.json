@@ -195,6 +195,7 @@
         "connection": "Une erreur de connexion s'est produite",
         "create_generic": "Le serveur n'a pas pu créer votre session.",
         "create_rate_limit": "Vous devez attendre quelques minutes avant de pouvoir créer une autre session.",
+        "create_session_exists": "Une session à ce nom existe déjà.",
         "edition_change": "Erreur lors du changement d'édition",
         "end": "Erreur lors de la fin de la partie",
         "eyes_close": "Impossible de fermer les yeux",
@@ -408,10 +409,14 @@
       "image_text": "Êtes-vous sûr·e de vouloir autoriser les images personnalisées ? Un auteur de script malveillant pourrait ainsi suivre votre adresse IP. The Pandemonium Institute n’a aucun contrôle sur les images fournies par d’autres utilisateurs de l’application.",
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
+        "bigwig": {
+          "text": "Chaque nommé choisit un joueur : jusqu'au vote, lui seul peut parler & est convaincu que le nommé est bon, sinon il risque de mourir."
+        },
         "focus": {
           "text": "Le joueur nommé a l'attention du groupe."
         },
         "phases": {
+          "text": "Seuls le nommant et nommé peuvent parler.",
           "title": "Accusation & défense"
         },
         "regular": {
@@ -987,7 +992,8 @@
       "error_save": "Erreur lors de l’enregistrement du fichier",
       "jinxes": "Jinxes",
       "other_nights": "Pas la\n première nuit",
-      "popout": "Détacher l'Onglet Rôle"
+      "popout": "Détacher l'Onglet Rôle",
+      "popout_window": "Ouvrir l'onglet Personnage dans une nouvelle fenêtre"
     },
     "characters": {
       "title": "Rôles"
