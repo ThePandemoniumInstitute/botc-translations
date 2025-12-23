@@ -1,1 +1,73 @@
-{}
+{
+  "analysis": {
+    "heading": "Skriptanalyse",
+    "no-messages": "Sieht gut aus!",
+    "too-few-outsider": "Nicht genug Aussenseiter",
+    "too-few-townsfolk": "Nicht genug Dorfbewohner",
+    "too-many-characters": "Zu viele Charaktere",
+    "too-many-demon": "Zu viele Dämonen",
+    "too-many-minion": "Zu viele Handlanger",
+    "too-many-outsider": "Zu viele Aussenseiter",
+    "too-many-townsfolk": "Zu viele Dorfbewohner"
+  },
+  "edition": {
+    "base-three": "Hauptspiel",
+    "custom": "Eigenes Skript",
+    "homebrew": "Eigenkreation",
+    "kickstarter": "Kickstarter"
+  },
+  "export": {
+    "copy-json": "JSON kopieren",
+    "download-json": "JSON herunterladen",
+    "pdf": "PDF drucken/exportieren",
+    "png": "PNG exportieren",
+    "screenshot": {
+      "failed-embed": "Einige Bilder konnten nicht im exportierten Bild eingebettet werden",
+      "save": "Speichern",
+      "share": "Teilen"
+    }
+  },
+  "keyword": {
+    "demon": "Dämon|Dämonen",
+    "fabled": "Fabelwesen|Fabelwesen",
+    "first-night": "Erste Nacht",
+    "loric": "Überlieferter|Überlieferte",
+    "minion": "Handlanger|Handlanger",
+    "other-nights": "Weitere Nächte",
+    "outsider": "Aussenseiter|Aussenseiter",
+    "townsfolk": "Dorfbewohner|Dorfbewohner",
+    "traveller": "Reisender|Reisende"
+  },
+  "print": {
+    "ios": "Das Drucken von mobilen iOS-Geräten wird noch nicht unterstützt. Du kannst es trotzdem versuchen, aber das Ergebnis sieht nicht immer gut aus.",
+    "not-first-night": "* Nicht in der ersten Nacht",
+    "too-many-characters": "Dein Skript enthält zu viele Charaktere ({nchars}). Empfohlen sind nicht mehr als 25. Dadurch könnte es Fehler in der Druckversion geben. Trotzdem fortfahren?"
+  },
+  "settings": {
+    "allow-external-images": "Externe Bilder zulassen",
+    "bloodstar-image-correction": "Bloodstar-Bilder korrigieren",
+    "bloodstar-image-correction-explanation": "Von bloodstar.xyz generierte Bilder sind leicht nach oben verschoben, wodurch sie nicht genau zentriert erscheinen. Diese Option korrigiert dieses Anzeigeproblem.",
+    "compact-layout": "Kompaktes Layout",
+    "display-and-ui-heading": "Darstellung und Benutzeroberfläche",
+    "external-images-heading": "Externe Bilder",
+    "font-size": "Schriftgrösse",
+    "font-size-larger": "Grösser",
+    "font-size-normal": "Normal",
+    "force-one-column": "Eine Spalte forcieren",
+    "language": "Sprache",
+    "language-select-heading": "Sprachauswahl",
+    "print-columns": "Gedruckte Spalten",
+    "print-compact-night-sheet": "Kompakter Nachtbogen",
+    "print-options-heading": "Druckeinstellungen",
+    "print-player-count-table": "Spielerzahltabelle anzeigen",
+    "script-heading": "Skriptkonfiguration",
+    "script-type": "Art des Skripts",
+    "script-type-explanation": "Ein Krähwinkel-Skript ist ein Skript, das speziell für weniger als 7 Spieler erstellt wurde. Es hat typischerweise weniger Charaktere als ein Standard-Skript. Diese Einstellung beeinflusst lediglich die Skript-Analyse, den Zufallsgenerator und einige Elemente der Oberfläche.",
+    "script-type-standard": "Standard",
+    "script-type-teensyville": "Krähwinkel",
+    "show-analysis-icons": "Analysesymbole anzeigen",
+    "show-night-sheet": "Nachtbogen anzeigen",
+    "this-language": "Deutsch (Schweiz)",
+    "view-tour": "{link}Hier{/link} klicken, um die Einführung zu wiederholen."
+  }
+}
