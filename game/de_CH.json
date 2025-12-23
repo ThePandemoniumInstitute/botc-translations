@@ -1,1 +1,26 @@
-{}
+{
+  "reminders": {
+    "goal": "Ziel",
+    "know": "Weiss",
+    "night3": "Nacht 3",
+    "noability": "Keine Fähigkeit",
+    "nominateevil": "Nominiere Böse",
+    "nominategood": "Nominiere Gut",
+    "nomoreevil": "Keine weitere Bösen",
+    "once": "Einmal",
+    "outsider": "Aussenseiter",
+    "poisoned": "Vergiftet",
+    "protected": "Beschützt",
+    "registerfalsely": "Erscheint falsch?",
+    "safe": "Sicher",
+    "soberhealthy": "Nüchtern & gesund",
+    "somethingbad": "Etwas Schlimmes",
+    "storytellerability": "Erzählerfähigkeit",
+    "survivesexecution": "Überlebt Hinrichtung"
+  },
+  "roles": {
+    "washerwoman": {
+      "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
+    }
+  }
+}
