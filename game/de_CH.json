@@ -16,9 +16,21 @@
     "soberhealthy": "Nüchtern & gesund",
     "somethingbad": "Etwas Schlimmes",
     "storytellerability": "Erzählerfähigkeit",
-    "survivesexecution": "Überlebt Hinrichtung"
+    "survivesexecution": "Überlebt Hinrichtung",
+    "teapartytonight": "Heute Nacht Teeparty",
+    "townsfolk": "Dorfbewohner",
+    "turnsevil": "Wird Böse",
+    "twin": "Zwilling",
+    "visitor": "Besucher",
+    "whoopsie": "Upsi",
+    "wrong": "Falsch"
   },
   "roles": {
+    "acrobat": {
+      "flavor": "Willkommen, alle zusammen, zur grössten Show der Welt.",
+      "name": "Akrobat",
+      "other": "Der Akrobat wählt einen Spieler. :reminder:"
+    },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
     }
