@@ -14,12 +14,19 @@
     "too-many-townsfolk": "बहुत सारे नगरवासी"
   },
   "edition": {
-    "homebrew": "स्वनिर्मित"
+    "base-three": "मूल",
+    "carousel": "कैरोसेल",
+    "custom": "कस्टम",
+    "homebrew": "स्वनिर्मित",
+    "kickstarter": "किकस्टार्टर"
   },
   "export": {
     "copy-json": "कॉपी JSON",
     "download-json": "डाउनलोड JSON",
+    "pdf": "PDF प्रिंट / निर्यात करें",
+    "png": "PNG निर्यात करें",
     "screenshot": {
+      "failed-embed": "निर्यात की गई छवि में कुछ आइकन सम्मिलित नहीं हो सके",
       "save": "सुरक्षित करें",
       "share": "शेयर करें"
     }
@@ -32,24 +39,27 @@
     "player": "खिलाड़ी।खिलाड़ियों"
   },
   "print": {
-    "not-first-night": "* पहली रात नहीं"
+    "ios": "iOS डिवाइस पर प्रिंटिंग अभी उपलब्ध नहीं है। फिर भी कोशिश कर सकते हैं—हो सकता है यह सही न दिखे।",
+    "not-first-night": "* पहली रात नहीं",
+    "too-many-characters": "इस स्क्रिप्ट में पात्रों की संख्या ({nchars}) काफ़ी ज़्यादा है। अनुशंसित सीमा 25 है। प्रिंट करते समय लेआउट बिगड़ सकता है। फिर भी आगे बढ़ें?"
   },
   "settings": {
     "allow-external-images": "बाहरी छवियों की अनुमति दें",
     "bloodstar-image-correction-explanation": "bloodstar.xyz द्वारा बनाए गए आइकन में नीचे की ओर थोड़ी सी पैडिंग होती है, इसलिए वे पूरी तरह से केंद्र में नहीं होते। इस सेटिंग को सक्षम करने से वह पैडिंग ऑफ़सेट हो जाती है।",
-    "compact-layout": "कॉम्पैक्ट लेआउट",
+    "compact-layout": "संकुचित लेआउट",
+    "display-and-ui-heading": "डिस्प्ले और उपयोगकर्ता इंटरफ़ेस",
     "external-images-heading": "बाहरी छवियाँ",
     "font-size": "फ़ॉन्ट आकार",
     "font-size-larger": "बड़ा",
     "font-size-normal": "सामान्य",
-    "force-one-column": "फोर्स वन कॉलम",
+    "force-one-column": "केवल एक कॉलम उपयोग करें",
     "language": "भाषा",
     "language-select-heading": "भाषा चयन",
     "print-columns": "कॉलम प्रिंट करें",
     "print-compact-night-sheet": "कॉम्पैक्ट रात्रि पत्रक",
     "print-options-heading": "प्रिंट विकल्प",
     "print-player-count-table": "खिलाड़ी संख्या तालिका प्रदर्शित करें",
-    "script-heading": "स्क्रिप्ट सेटिंग्स",
+    "script-heading": "स्क्रिप्ट की सेटिंग्स",
     "show-analysis-icons": "विश्लेषण चिह्न दिखाएँ",
     "show-night-sheet": "रात्रि पत्रक दिखाएँ",
     "this-language": "हिंदी",
