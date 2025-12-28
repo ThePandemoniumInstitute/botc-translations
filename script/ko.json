@@ -72,6 +72,7 @@
     "pdf": "인쇄 / PDF로 내보내기",
     "png": "PNG로 내보내기",
     "screenshot": {
+      "failed-embed": "내보낸 이미지에 일부 아이콘을 포함할 수 없습니다",
       "save": "저장",
       "share": "공유"
     }
