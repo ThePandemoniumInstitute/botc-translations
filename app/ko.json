@@ -952,7 +952,8 @@
       "error_save": "파일 저장 오류",
       "jinxes": "징크스",
       "other_nights": "첫날\n제외",
-      "popout": "캐릭터 탭 팝업창으로 열기"
+      "popout": "캐릭터 탭 팝업창으로 열기",
+      "popout_window": "새 창에서 캐릭터 탭 열기"
     },
     "characters": {
       "title": "캐릭터"
@@ -1081,11 +1082,12 @@
   "version": {
     "character_distribution": "캐릭터 분포",
     "download": "최신 {0}용 버전을 여기에서 다운로드하여 설치하세요.",
-    "players_alive": "{0}/{1} 플레이어 생존",
+    "players_alive": "플레이어 {1} 중 {0}명 생존",
     "reload": "최신 버전을 받으려면 페이지를 새로고침하거나 브라우저 캐시를 지워 주세요.",
     "since": "{0}에 업데이트",
     "translation_disclaimer": "현재 현지화된 앱 버전을 사용 중입니다. 이 번역은 TPI와 무관한 다음 자원봉사자들이 제작하고 검수했습니다:",
     "translation_game": "이 게임 콘텐츠 번역은 TPI가 작성한 공식 영문 규칙을 정확히 반영하지 않을 수 있습니다.",
+    "travellers_alive": "여행자 {1} 중 {0}명 생존",
     "update": "업데이트 해주세요!",
     "updating": "{0} 버전으로 업데이트 중...",
     "warning_browser": "오래되었거나 지원하지 않는 브라우저를 사용 중입니다",
