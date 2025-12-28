@@ -366,7 +366,7 @@
           "title": "ビッグウィッグ"
         },
         "focus": {
-          "title": "被告人集中"
+          "title": "被告人に集中"
         },
         "regular": {
           "text": "全員好きにしゃべれる。",
@@ -523,7 +523,7 @@
         "ability": "能力を使いますか？",
         "acknowledge": "了解",
         "anticlockwise": "反時計回り",
-        "bluffs": "このキャラクターが現在登場していない",
+        "bluffs": "このキャラクターが現在、場に出ていない",
         "choice": "選択してください",
         "claim": "このプレイヤーは",
         "clockwise": "時計回り",
@@ -556,7 +556,7 @@
       "received": "受信済み",
       "response": "返事：",
       "saw_this": "{0} がこれを見ました",
-      "select_everyone": "全員を選択して",
+      "select_everyone": "全員を選択",
       "selected_players": "選択されたプレイヤー",
       "sent": "送信済み",
       "storyteller": "ストーリーテラー|ストーリーテラー",
