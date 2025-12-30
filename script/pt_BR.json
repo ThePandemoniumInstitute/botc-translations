@@ -181,7 +181,7 @@
     "autosort-heading": "Ordenação automática",
     "final-01": "Por enquanto é tudo! Se quiser ver este guia novamente, você pode fazer acessá-lo pelo menu de {block}{settingsIcon}configurações{/block}.",
     "final-heading": "Divirta-se!",
-    "import-export-share-01": "Você pode {block}{importIcon} importar{/block}, {block}{exportIcon}exportar{/block} ou {block}compartilhar{/block} cenários aqui. Cenários e personagens caseiros são suportados!",
+    "import-export-share-01": "Você pode {block}{importIcon} importar{/block}, {block}{exportIcon} exportar{/block} ou {block}compartilhar{/block} cenários aqui. Cenários e personagens caseiros são suportados!",
     "import-export-share-02": "Clicar no botão {block}Copiar link do cenário{/block} no {block}menu{/block} de exportação fornecerá um \"link do cenário\" especial, que permite que qualquer pessoa visualize seu cenário diretamente na ferramenta. Experimente!",
     "import-export-share-03": "Você também pode ver este guia de novo no menu de {block}{settingsIcon}configurações{/block}.",
     "import-export-share-heading": "Importar, exportar e compartilhar",
