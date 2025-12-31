@@ -1,4 +1,9 @@
 {
+  "editions": {
+    "custom": {
+      "name": "Skrip Khusus"
+    }
+  },
   "reminders": {
     "drunk": "Mabuk",
     "poisoned": "Diracun",
@@ -27,7 +32,8 @@
       "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat."
     },
     "butler": {
-      "flavor": "Ya, Tuan... Tidak, Tuan... Tentu, Tuan."
+      "flavor": "Ya, Tuan... Tidak, Tuan... Tentu, Tuan.",
+      "name": "Kepala Pelayan"
     },
     "cannibal": {
       "flavor": "Aku tidak suka badut. Mereka rasanya aneh."
