@@ -48,6 +48,7 @@
   "close": "Fechar",
   "commit-all-details": "Confirmar todos os personagens rascunho ao guião.",
   "commit-details": "Confirma esta personagem no guião para que não seja removida quando carregares no botão de aleatorizar.",
+  "copy-script-link": "Copiar Link do Guião",
   "ctxmenu": {
     "copy-text": "Copiar texto",
     "copy-text-details": "Copiar o texto de habilidade do personagem",
@@ -71,15 +72,22 @@
     "pdf": "Imprimir/Exportar PDF",
     "png": "Exportar PNG",
     "screenshot": {
+      "failed-embed": "Alguns ícones não puderam ser estampados na imagem exportada",
       "save": "Guardar",
       "share": "Partilhar"
     }
   },
   "export-menu": "Exportar menu",
   "external-image-confirm": "Tens a certeza que queres permitir imagens personalizadas? Um autor de guião malicioso pode identificar o teu endereço de IP deste modo. O Pandemonium Institute não tem controlo sobre as imagens que são fornecidas por outros utilizadores da app.",
+  "fabled-and-loric": "Míticos & Lóricos",
   "filters": "Filtros",
   "help": "Ajuda",
+  "import-description": "Clica ou arrasta para importar o guião JSON",
+  "import-description-kb": "ou cola o JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... ou cola o URL/JSON aqui:",
+  "import-json-error": "Não foi possível carregar um JSON válido",
   "import-script": "Importar guião",
+  "import-type-error": "Tipo de ficheiro errado, não foi possível carregar.",
   "import-typing-error": "Esta caixa existe para permitir colar JSONs em dispositivos móveis e de toque. Não é permitido escrever ou submeter texto aqui.",
   "interactions": {
     "+choirboy-king": {
@@ -119,6 +127,7 @@
   "randomise": "Baralhar!",
   "randomise-details": "O gerador aleatório vai preencher o teu guião com personagens rascunho aleatórias.",
   "read-more": "Lê a entrada do almanaque/wiki",
+  "recommended-travellers": "Viajantes Recomendados",
   "redo": "Refazer",
   "sao": "SAO",
   "script-name": "Nome do Guião",
@@ -151,7 +160,7 @@
     "script-type-teensyville": "Teensyville",
     "show-analysis-icons": "Mostrar Ícones de Análise",
     "show-night-sheet": "Mostrar Lista Nocturna",
-    "this-language": "Inglês",
+    "this-language": "Português (Portugal)",
     "view-tour": "Clica {link}este{/link} para ter a visita guiada novamente."
   },
   "settings-menu": "Definições",
