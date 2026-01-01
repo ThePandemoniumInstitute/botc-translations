@@ -15,8 +15,35 @@
       "flavor": "...",
       "name": "Assassin"
     },
+    "banshee": {
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+    },
+    "bootlegger": {
+      "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat"
+    },
+    "butler": {
+      "flavor": "Ya, Tuan... Tidak, Tuan... Tentu, Tuan."
+    },
+    "cannibal": {
+      "flavor": "Aku tidak suka badut. Mereka rasanya aneh."
+    },
+    "clockmaker": {
+      "flavor": "Jangan ganggu saya. Detakan harus berlanjut, karena lingkaran adalah simbol kehidupan dan mengandung segala sesuatu - semua jawaban - dalam mesin ilahinya. Saya harus bekerja."
+    },
     "drunk": {
       "name": "Pemabuk"
+    },
+    "fibbin": {
+      "flavor": "Wkwkwk. Wk. Wk. Wk."
+    },
+    "gambler": {
+      "flavor": "Kepala, aku menang. Ekor, kamu kalah."
+    },
+    "gardener": {
+      "flavor": "Ketika sofisme berubah menjadi kebodohan dan kemunafikan menjadi kekejaman, mengungsi ke taman. Cinta terakhir kakek-kakek adalah bunga dan batu."
+    },
+    "hindu": {
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
     }
   }
 }
