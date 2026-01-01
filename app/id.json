@@ -53,5 +53,12 @@
     },
     "terms_of_use": "Syarat Penggunaan",
     "trademark": "\"Blood on the Clocktower\" adalah merek dagang milik Steven Medway dan The Pandemonium Institute."
+  },
+  "grimoire": {
+    "fabled": "Fabel|Fabel",
+    "minion": "Antek|Antek-Antek",
+    "shroud": "Rahap",
+    "token": "Token",
+    "traveller": "Pengunjung|Pengunjung-pengunjung"
   }
 }
