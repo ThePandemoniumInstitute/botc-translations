@@ -11,6 +11,10 @@
     "alhadikhia": {
       "other": "Al-Hadikhia memilih 3 pemain. :reminder: :reminder: :reminder: Bangunkan pemain pertama dan umumkan \"Al-Hadhikia memilih\" beserta nama pemain, berlanjut dengan \"Apakah kamu memilih untuk hidup?\" Pemain mengangguk atau menggelengkan kepala. Bunuh atau bangkitkan sesuai dengan itu, lalu tidurkan dan umumkan pemain berikutnya. Jika ketiga-tiganya masih hidup setelah ini, ketiga-tiganya mati."
     },
+    "assassin": {
+      "flavor": "...",
+      "name": "Assassin"
+    },
     "drunk": {
       "name": "Pemabuk"
     }
