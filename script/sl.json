@@ -1,1 +1,17 @@
-{}
+{
+  "edition": {
+    "base-three": "Osnova",
+    "kickstarter": "Kickstarter"
+  },
+  "keyword": {
+    "demon": "Demon|Demoni",
+    "fabled": "Pravljični|Pravljični",
+    "loric": "Loric|Loric",
+    "minion": "Podložnik|Podložniki",
+    "other-nights": "Ostale noči",
+    "outsider": "Tujec|Tujci",
+    "player": "Igralec|Igralci",
+    "townsfolk": "Meščan|Meščani",
+    "traveller": "Popotnik|Popotniki"
+  }
+}
