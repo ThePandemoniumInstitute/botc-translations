@@ -13,13 +13,16 @@
     "base-three": "Basisspel",
     "carousel": "Carrousel",
     "custom": "Aangepast",
+    "homebrew": "Zelf gemaakt",
     "kickstarter": "Kickstarter"
   },
   "export": {
+    "copy-json": "Kopieer JSON",
     "download-json": "Download JSON",
     "pdf": "Print/Exporteer PDF",
     "png": "Exporteer PNG",
     "screenshot": {
+      "failed-embed": "Sommige iconen konden niet worden toegevoegd aan de afbeelding",
       "save": "Opslaan",
       "share": "Delen"
     }
@@ -31,14 +34,18 @@
   },
   "keyword": {
     "demon": "Demoon|Demonen",
+    "fabled": "Legendarisch|Legendarisch",
     "first-night": "Eerste Nacht",
+    "loric": "Folklore|Folklore",
     "minion": "Volgeling|Volgelingen",
     "other-nights": "Overige Nachten",
     "outsider": "Buitenstaander|Buitenstaanders",
     "player": "Speler|Spelers",
+    "townsfolk": "Dorpeling|Dorpeling",
     "traveller": "Reiziger|Reizigers"
   },
   "print": {
+    "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, geen garantie over de kwaliteit.",
     "not-first-night": "* Niet in de eerste nacht",
     "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
   },
@@ -46,10 +53,15 @@
   "script-name-placeholder": "Naamloos Script",
   "settings": {
     "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
+    "compact-layout": "Compacte opmaak",
     "display-and-ui-heading": "Weergave & Gebruikersinterface",
+    "external-images-heading": "Externe afbeeldingen",
     "font-size-larger": "Groter",
     "font-size-normal": "Normaal",
+    "force-one-column": "Alles in 1 kolom zetten",
     "language": "Taal",
+    "print-options-heading": "Afdruk opties",
+    "script-heading": "Script instellingen",
     "script-type-standard": "Standaard",
     "this-language": "Nederlands",
     "view-tour": "Klik {link}hier{/link} om de rondleiding nog eens te doen."
