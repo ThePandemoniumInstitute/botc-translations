@@ -847,11 +847,11 @@
       "alignment": "Zmień drużynę (dobry/zły)",
       "character": "Zmień Postać",
       "chat": "Poproś o rozmowę prywatną",
-      "empty": "Puste krzesło",
+      "empty": "Opróżnij krzesło",
       "empty_text": "Czy naprawdę usunąć tego gracza z jego krzesła w trakcie gry?",
       "empty_title": "Puste krzesło {0}",
       "follow": "Podążaj za graczem",
-      "nominate": "Nominuj",
+      "nominate": "Nominuje siebie",
       "unfollow": "Przestań podążać",
       "wake": "Obudź",
       "whisper": "Wyślij wiadomość tekstową"
