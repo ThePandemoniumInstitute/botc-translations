@@ -74,6 +74,7 @@
     },
     "demon": "Demon|Demoni",
     "fabled": "Pravljičen|Pravljični",
+    "loric": "Loric|Loric",
     "minion": "Podložnik|Podložniki",
     "outsider": "Tujec|Tujci",
     "phases": {
@@ -120,6 +121,7 @@
     "night_info": "Nočne informacije",
     "night_info_text": "Pripovedovalec te je zbudil!",
     "night_sheet": "Seznam za nočni red",
+    "npcs": "Dodaj NPC-je",
     "prompt_clear_player": "Ste prepričani, da želite odstraniti vse like igralcev in opomnike?",
     "prompt_clear_st": "To bo počistilo celo Čarovniško Knjigo in vse opomnike za vas in vse ostale. Ste prepričani?",
     "prompt_clear_title": "Počisti Čarovniško Knjigo in opomnike",
@@ -182,6 +184,9 @@
         "claiming": "Napaka pri zasedanju sedeža",
         "clear_grim": "Ne moremo počistiti Čarovniške Knjige",
         "connection": "Zgodila se je napaka pri povezavi",
+        "create_generic": "Strežnik ni mogel ustvariti vaše seje.",
+        "create_rate_limit": "Preden lahko ustvarite novo sejo, morate počakati nekaj minut.",
+        "create_session_exists": "Seja s tem imenom že obstaja.",
         "edition_change": "Napaka pri menjavi izdaje",
         "end": "Napaka pri končanju igre",
         "eyes_close": "Ne moremo zapreti oči",
@@ -197,6 +202,7 @@
         "missing_roles": "Ta seja vključuje izvenserijske like, ki jih ne moremo najti. Prosim naložite jih, preden se pridtužite! Manjkajoče vloge: {0}",
         "missing_roles_title": "Napaka pri nalaganju izvenserijskih vlog",
         "move_player": "Ne moremo premakniti igralca",
+        "npcs": "Napaka pri posodabljanju NPC-jev",
         "offline": "Izgleda, da strežnik ni povezan",
         "remove_player": "Ne moremo odstraniti igralca",
         "remove_storyteller": "Napaka pri odstranjanju Pripovedovalca",
@@ -305,6 +311,9 @@
       "text2": "Povratne informacije lahko pošlješ preko {0} strani ali {1}. Lahko posodobiš svoj e-poštni naslov in geslo svojega uporabniškega računa {2}. Če želiš kupiti igro v fizični obliki, poglej {3}.",
       "welcome": "Dobrodošli na {0}!"
     },
+    "npc": {
+      "title": "Dodaj neigralski lik"
+    },
     "reminder": {
       "custom_favorite": "Shrani kot priljubljeno",
       "custom_note": "Beležka po meri",
@@ -322,7 +331,10 @@
       "title": "Izberi {alignment} {type} {target}",
       "title_alignment_e": "Zlo",
       "title_alignment_g": "Dober",
-      "title_alignment_r": "Navaden"
+      "title_alignment_r": "Navaden",
+      "title_target": "za {0}",
+      "title_type_bluff": "blef",
+      "title_type_character": "lik"
     },
     "roles": {
       "button_distribute": "Razdeli {0} likov",
@@ -353,6 +365,18 @@
       "image_text": "Ste prepričani, da želite dovoliti slike po meri? Avtor zlonamerne datoteke lahko tako sledi tvojemu IP naslovu. Pandemonium Institute nima nadzora nad slikami, ki jih nalagajo drugi uporabniki aplikacije.",
       "image_title": "Dovoli slike po meri",
       "nomination": {
+        "bigwig": {
+          "text": "Vsak nominiranec izbere igralca: do glasovanja lahko govori samo on in je nor, da je nominiranec dober, drugače lahko umre.",
+          "title": "Pomembnež"
+        },
+        "focus": {
+          "text": "Nominirani igralec ima pozornost skupine.",
+          "title": "Fokus na nominiranem"
+        },
+        "phases": {
+          "text": "Govorita lahko samo nominiranec in nominajoči.",
+          "title": "Obtožba in zagovor"
+        },
         "regular": {
           "text": "Kdorkoli lahko govori, kakor želi.",
           "title": "Normalno"
@@ -384,6 +408,7 @@
       "setting_english": "Pokaži dodatna imena likov v angleščini",
       "setting_gain": "Avdio glasnost",
       "setting_general_volume": "Splošna glasnost",
+      "setting_grimoire_offset": "Odmik Čarovniške Knjige",
       "setting_homebrew": "Pokaži Slike po meri / Doma zvarjene ikone",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Izklop zvoka",
@@ -398,6 +423,7 @@
       "setting_ptt": "Pritisni za govor",
       "setting_reminder_zoom": "Velikost Žetona za opomnik",
       "setting_reminders": "Zloži Žetone za opomnik",
+      "setting_reminders_always": "Vedno",
       "setting_reminders_auto": "Samodejno",
       "setting_reminders_never": "Nikoli",
       "setting_reveal": "Pokaži kamere med prikazovanjem Čarovniške Knjige",
@@ -440,6 +466,7 @@
         "toggleAudioMuted": "Ugasni mikrofon / Pritisni za govor",
         "toggleEdition": "Izberi izdajo",
         "toggleFullscreen": "Cel zaslon",
+        "toggleNPCs": "Dodaj neigralski lik",
         "toggleNight": "Preklopi Nočno fazo",
         "toggleNightOrder": "Nočni red",
         "toggleNightSignal": "Pokaži Nočne Informacije",
@@ -538,6 +565,8 @@
       "received": "Prejeto",
       "response": "Odgovor:",
       "saw_this": "{0} je videl to",
+      "select_everyone": "Izberi vse",
+      "selected_players": "Izberi igralce",
       "sent": "Poslano",
       "storyteller": "Pripovedovalec|Pripovedovalci",
       "title": "Zbudi {0}",
@@ -586,7 +615,7 @@
     "verification": {
       "button_reset": "Ponastavi",
       "code": "Koda",
-      "code_sent": "Kodo smo poslali na tvojo telefonsko številko, prosim vpiši jo da potrdiš svoj račun.",
+      "code_sent": "Kodo smo poslali na tvojo telefonsko številko, prosim vpiši jo da potrdiš svoj račun!",
       "country_code": "Klicna koda države",
       "error_402": "Začasne telefonske številke ne smejo biti uporabljene za preverjanje uporabniškega računa.",
       "error_403": "Ta telefonska številka je že v uporabi. Če mislite, da je prišlo do napake, nas kontaktirajte na {0}.",
@@ -701,6 +730,7 @@
     "vote": {
       "accusation": "Obtožba",
       "button_chat": "Odprti klepet",
+      "button_clear_selection": "Počisti izbiro",
       "button_countdown": "Odštevanje",
       "button_defense": "Začni z Zagovorom",
       "button_hand_down": "DOL",
@@ -711,13 +741,357 @@
       "button_reset": "Ponastavi",
       "button_restart": "Ponovno začni",
       "button_resume": "Nadaljuj",
+      "button_select_player": "Izberi igralca",
+      "button_set_highscore": "Nastavi število glasov",
       "button_start": "Začni",
+      "choose_defense_attorney": "Izberi zagovornika!",
       "countdown_go": "Pojdi",
       "defense": "Zagovor",
+      "defense_attorney": "Zagovornik",
       "highscore_placeholder": "Največ preštetih glasov",
       "highscore_text": "Vstavi novo številko za današnjo večino pri glasovanju\n ali pusti prazno, da je večina enaka normalni večini živih igralcev.",
       "highscore_title": "Spremeni večino za glasovanje",
-      "majority": "Večina je {0} glas|Večina je {0} glasov"
+      "majority": "Večina je {0} glas|Večina je {0} glasov",
+      "no_majority": "Večina ni potrebna",
+      "pointing": "Kaže na {0}",
+      "secret": "Glasovanje bo skrito.",
+      "secret_vote": "Skrito glasovanje",
+      "votes": "{0}glas za izenačitev, {1} za usmrtitev|{0} glasov za izenačitev, {1} za usmrtitev",
+      "warning_shortcuts": "Bližnjice so izklopljene!"
+    },
+    "whisper": {
+      "muted": "Ta igralec je utišan v glasovnem klepetu.",
+      "video_muted": "Ta igralec ima ugasnjeno kamero."
     }
+  },
+  "pages": {
+    "banned": {
+      "description": "Vaš uporabniški račun je bil {0} zaradi vaših nedavnih dejanj in ga ni več mogoče uporabljati za igranje na aplikaciji.",
+      "description_banned": "zaklenjen",
+      "expires": "Vaš uporabniški račun je zaklenjen do:",
+      "expires2": "Prosim ne ponavljajte svojih kršitev, drugače je lahko vaš uporabniški račun dokončno zakljenjen.",
+      "footer1": "Če potrebujete pomoč, nas kontaktirajte na {0}.",
+      "footer2": "Zapomni si:",
+      "footer3": "Ubij elegantno in umri z dostojanstvom.",
+      "permanent": "Vaš uporabniški račun je bil dokončno zaklenjen.",
+      "reason": "Zaradi naslednjih razlogov:",
+      "title": "Zaklenjen uporavniki račun"
+    },
+    "clock": {
+      "description": "Ura na vašem računalniku je trenutno narobe za {0}. To lahko povzroči težave med spletno igro. Lahko sinhronizirate uro na vašem računalniku {1}. Ko se sinhronizira, ponovno osvežite aplikacijo.",
+      "description_mins": "1 minuta|{n} minut",
+      "description_online": "na spletu",
+      "return": "Vrni se na Aplikacijo",
+      "title": "Prosim sinhronizirajte uro na vašem računalniku"
+    },
+    "lobby": {
+      "bootlegger_title": "Pozor!",
+      "bootlegger_warning": "Ta seja ima Lorica Švercerja, kar pomeni, da ima pravila in like, ki niso uradno izdani, in je zato primera za bolj izkušene igralce.\nČe ste začetniki pri igri Kri na Zvoniku, vam priporočamo, da najprej osvojite standardna pravila in like z eno od uradnih osnovnih skript. Kuhajo se težave je najbolj primerna za prve igre!\nVsekakor dobrodošli - veseli smo da ste se nam pridružili!\nSte prepričani, da se želite pridružiti tej seji?",
+      "button_create_game": "Ustvari igro",
+      "button_help": "Pomoč",
+      "button_join_game": "Pridruži se zasebni igri",
+      "button_local_play": "Lokalna igra",
+      "button_mod": "Skrbnik",
+      "button_quit": "Izhod",
+      "button_settings": "Nastavitve",
+      "button_verify": "Potrdi uporabniški račun",
+      "characters": "Liki",
+      "create_game": "Ustvari novo igro",
+      "edition_by": "od {author}",
+      "forced_private": "Ne morete več igrati v javnih igrah.",
+      "free_tier_free": "Zastonj",
+      "free_tier_patreon": "Patreon",
+      "free_tier_unverified": "Imate {0} uporabniški račun. Lahko igrate v katerikoli igri zgoraj s klikom na gumb na levi, razen če zanjo potrebujete naročnino. Če želite voditi svoje igre, se lahko naročite na {1}.",
+      "free_tier_verified": "Imate {0} uporabniški račun. Potrebujete {1} preden lahko igrate v javnih igrah. Če želite voditi svoje igre, se lahko naročite na {2}.",
+      "free_tier_verify": "potrdi svoj uporabniški račun",
+      "game": "Igra",
+      "language": "Jezik",
+      "loading": "Nalagam igre...",
+      "no_games": "Javnih iger ni bilo mogoče najti.",
+      "npcs": "Neigralski Liki",
+      "page": "Stran {page} od {total}",
+      "phase": "Faza",
+      "players": "Igralci",
+      "script": "Skripta",
+      "show_private": "Prikaži zasebne igre",
+      "spectators": "Gledalci",
+      "stats": "{0} uporabnikov je v {1}{2} igrah",
+      "stats_public": "javno",
+      "storyteller": "Pripovedovalec",
+      "subscription": "Nivo naročnine",
+      "updating": "Posodablam...",
+      "welcome": "Dobrodošli v {0}!"
+    },
+    "login": {
+      "description": "Prosim vpišite se ali ustvarite uporabniški račun za nadaljevanje:",
+      "email": "Elektronski naslov",
+      "error_captcha": "Prosim naredite captcho",
+      "error_password": "Gesli se ne ujemata",
+      "login": "Vpis",
+      "password": "Geslo",
+      "password_confirm": "Potrditev gesla",
+      "password_reset": "Navodila za ponastavitev gesla so bila poslana na vaš elektronski naslov.",
+      "recover_password": "Obnovi Geslo",
+      "register": "Registriraj se",
+      "subscribe": "Naroči se na e-poštni seznam",
+      "title": "Dobrodošli na Kri na Zvoniku Online - V delu!",
+      "username": "Uporabniško ime"
+    },
+    "update": {
+      "description": "Trenutno uporabljate verzijo {0}, najnovejša verzija je {1}.",
+      "download": "Prenesi najnovejšo {label} verzijo tukaj.",
+      "reload": "Prosim osvežite stran ali počistite predpomnilnik brskalnika za posodobitev.",
+      "title": "Prosim posodobite vašo aplikacijo"
+    },
+    "verification": {
+      "button_resend": "Ponovno pošlji kodo",
+      "code": "6-mestna koda",
+      "description": "Prosim potrdite vaš uporabniški račun za nadaljevanje. Poslali smo kodo na vaš elektronski naslov - vnesite jo za nadaljevanje. Ne morate dostopati do elektronskega naslova?",
+      "email_success": "E-pošta uspešno poslana.",
+      "error_429": "Prosim počakajte vsaj {0} sekund preden poskusite še enkrat.",
+      "error_disposable": "Enkratnega elektronskega naslova ne morete uporabiti za potrditev uporabniškega računa.",
+      "error_verified": "Že potrjeno",
+      "error_wrong": "Napačna koda, prosim poskusite še enkrat.",
+      "link": "Lahko spremenite tukaj."
+    }
+  },
+  "player": {
+    "menu": {
+      "alignment": "Spremeni Razvrstitev",
+      "character": "Spremeni Lik",
+      "chat": "Prosi za Zasebni Klepet",
+      "empty": "Prazen Stol",
+      "empty_text": "Res želite odstraniti igralca z njegovega stola med igro?",
+      "empty_title": "Prazen stol od {0}",
+      "follow": "Sledi Igralcu",
+      "nominate": "Nominiraj sebe",
+      "unfollow": "Prenehaj slediti Igralcu",
+      "wake": "Zbudi",
+      "whisper": "Pošlji Besedno Sporočilo"
+    },
+    "name": {
+      "claim": "Klikni za sedenje",
+      "connecting": "Ta igralec se povezuje v glasovni klepet.",
+      "follow": "Slediš temu igralcu.",
+      "listening": "Ta igralec posluša glasovni klepet.",
+      "move": "Premakni tega igralca.",
+      "offline": "Ta igralec trenutno ni na voljo.",
+      "remove": "Odstrani tega igralca.",
+      "remove_text": "Res želite odstraniti Stol {0}?\nTrenutno na njem sedi {1}.",
+      "remove_title": "Odstrani Stol",
+      "seat_text": "(to bo vidno samo tebi)",
+      "seat_title": "Spremeni ime Stola"
+    },
+    "overlay": {
+      "eyes_open": "Ima odprte oči",
+      "night_info_received": "Nočne informacije prejete",
+      "night_info_sent": "Nočne informacije poslane",
+      "nominate": "Nominiraj tega igralca",
+      "point": "Pokaži na tega igralca",
+      "select": "Izberi tega igralca"
+    },
+    "reminders": {
+      "add": "Dodaj Opomnik",
+      "edit": "Uredi Opomnik {0}",
+      "edit_placeholder": "Beležka po meri",
+      "edit_text": "Uredi beležko po meri za {0}",
+      "edit_title": "Uredi Opomnik",
+      "flip": "Obrni Opomnik {0}",
+      "remove": "Odstrani Opomnik {0}",
+      "saved_favorite": "Shranjeno med priljubljene"
+    },
+    "shroud_add": "Igralci ne vidijo tega mrtvaškega prta. Podnevi klikni še enkrat, da postane viden.",
+    "shroud_remove": "Igralci vidijo ta mrtvaški prt. Podnevi klikni še enkrat, da postane neviden.",
+    "toggle_status": "Spremeni stanje"
+  },
+  "session": {
+    "access": "Dostop",
+    "copy": "Klikni za kopiranje",
+    "created": "Ustvaril {1} pred {0}.",
+    "free": "Zastonj za vse",
+    "language": "Jezik klepeta",
+    "locked": "Pripovedovalci in Igralci",
+    "locked_text": "Samo igralci, ki sedijo, in trenutni Pripovedovalci se lahko pridružijo tej seji.",
+    "name_placeholder": "Ime seje",
+    "open_text": "Vsi se lahko pridružijo tej seji.",
+    "prompt_public_text": "Ste prepričani, da želite narediti to sejo vidno javnosti?\nTo bo dovolilo vsem, da gledajo igro in se ji pridružijo.",
+    "prompt_public_title": "Naredi sejo javno",
+    "server": "Strežnik za Klepet:",
+    "server_name": "Ime",
+    "server_stats": "{0} uporabnikov, {1} obremenitev strežnika",
+    "session_name": "Ime seje",
+    "subscription_needed": "Potrebna je naročnina",
+    "tags": "Oznake za Javno Igro",
+    "title_create": "Ustvari sejo igre",
+    "title_current": "Trenutna seja igre",
+    "visibility": "Vidnost",
+    "visibility_private": "Zasebno",
+    "visibility_public": "Javno"
+  },
+  "storyteller": {
+    "connecting": "Pripovedovalec se povezuje v glasovni klepet.",
+    "follow": "Sledi Pripovedovalcu",
+    "following": "Slediš temu Pripovedovalcu.",
+    "listening": "Pripovedovalec posluša glasovni klepet.",
+    "offline": "Pripovedovalec trenutno ni na voljo.",
+    "prompt_grim_text": "Novi uporabniki ne morejo prositi za dostop do Čarovniške Knjige v javnih igrah.\nProsim odigrajte več igre za odklep te funkcije.",
+    "prompt_grim_title": "Napaka pri prošnji za dostop do Čarovniške Knjige",
+    "remove": "Odstrani Pripovedovalca",
+    "request_grim": "Prosi za dostop do Čarovniške Knjige",
+    "title": "Pripovedovalci",
+    "unfollow": "Prenehaj slediti Pripovedovalcu"
+  },
+  "tabs": {
+    "bluffs": {
+      "title": "Blefi"
+    },
+    "character": {
+      "download": "Prenesi JSON skripte",
+      "error_popout": "Napaka pri ustvarjanju okna",
+      "error_save": "Napaka pri shranjevanju datoteke",
+      "jinxes": "Posebni učinki",
+      "other_nights": "Ne\nprvo noč",
+      "popout": "Izvrzi zavihek z liki",
+      "popout_window": "Odpri zavihek z liki v novem oknu"
+    },
+    "characters": {
+      "title": "Liki"
+    },
+    "chat": {
+      "accept": "Sprejmi prošnjo",
+      "accept_request": "Sprejmi prošnjo za klepet z {0}",
+      "cancel": "Zavrni prošnjo",
+      "cancel_request": "Zavrni prošnjo za klepet z {0}",
+      "channels": {
+        "bmr_0": "Krčma",
+        "bmr_1": "Koča",
+        "bmr_2": "Močvirje",
+        "bmr_3": "Kmetija",
+        "bmr_4": "Prikolica",
+        "custom_0": "Trgovina z napoji",
+        "custom_1": "Stolp",
+        "custom_2": "Katedrala",
+        "custom_3": "Taborni ogenj",
+        "custom_4": "Pobrežje",
+        "snv_0": "Zeliščni vrt",
+        "snv_1": "Rastlinjak",
+        "snv_2": "Jame",
+        "snv_3": "Tempelj",
+        "snv_4": "Cirkuški šotor",
+        "tb_0": "Samostan",
+        "tb_1": "Cerkev",
+        "tb_2": "Pokopališče",
+        "tb_3": "Knjižnica",
+        "tb_4": "Laboratorij"
+      },
+      "chats": "Klepeti",
+      "following": "Slediš temu igralcu.",
+      "incoming": "Prihajajoč",
+      "leave_private": "Zapusti zasebni klepet",
+      "leave_room": "Zapusti sobo",
+      "night": "Padla je noč...",
+      "nomination": "Igralec je bil nominiran!",
+      "outgoing": "Odhajajoč",
+      "request_private": "Zaprosi za zasebni klepet",
+      "requests": "Prošnje za klepet",
+      "reset_position": "Ponastavi položaj",
+      "spectator": "Gledalec",
+      "title": "Glas"
+    },
+    "night": {
+      "popout": "Izvrzi nočni red",
+      "toggle": "Vklopi/izklopi nočni red"
+    },
+    "npcs": {
+      "remove_fabled": "Odstrani Pravljične",
+      "remove_loric": "Odstrani Loric",
+      "title": "NPC-ji"
+    },
+    "text": {
+      "channels": {
+        "private": "Zasebno",
+        "public": "Javno",
+        "spectator": "Gledalci",
+        "system": "Seja"
+      },
+      "message_blocked": "ni dostavljeno",
+      "message_to": "na",
+      "prompt_private": "Zasebni klepet",
+      "prompt_public": "Javno obvestilo",
+      "prompt_spectator": "Klepet za gledalce",
+      "prompt_system": "Sistemsko sporočilo",
+      "prompt_user": "Za {0}",
+      "system": {
+        "death": "{0} je umrl.",
+        "end_evil": "Igre je konec in Zlobna ekipa je zmagala!",
+        "end_good": "Igre je konec in Dobra ekipa je zmagala!",
+        "grim_deny": "{0} je dobil zavrnjen dostop do Čarovniške Knjige.",
+        "grim_receive": "{0} je dobil dostop do Čarovniške Knjige.",
+        "grim_remove": "{0} nima več dostopa do Čarovniške Knjige.",
+        "grim_request": "{0} je prosil za dostop do Čarovniške Knjige.",
+        "join": "{0} se je pridružil igri.",
+        "leave": "{0} je zapustil igro.",
+        "phase": "{0} se je začel.",
+        "revive": "{0} je bil oživljen.",
+        "seat_claim": "{0} se je vsedel na stol {1}.",
+        "seat_empty": "{0} je bil odstranjen s stola {1}.",
+        "seat_vacate": "{0} je odšel s stola {1}.",
+        "signal": "{0} je poslal nočni signal {1}.",
+        "start": "Igra se je začela in liki so razdeljeni!",
+        "storyteller_add": "{0} je postal Pripovedovalec.",
+        "storyteller_remove": "{0} je prenehal biti Pripovedovalec.",
+        "vote": "{0} je uporabil svoj Duhovni Glas."
+      },
+      "title": "Besedilo",
+      "tooltip": "Prikaži {0} neprebranih sporočil z {1}"
+    }
+  },
+  "user": {
+    "avatar_enabled": "Avatar viden",
+    "camera_enabled": "Kamera vidna",
+    "error_avatar_text": "Izbrani avatar je velikosti {0}MB, največja dovoljena velikost je {1}MB.",
+    "error_avatar_title": "Prevelika datoteka",
+    "gain": "Pridobitev",
+    "group_subscription": "Skupinska naročnina",
+    "id": "ID uporabnika",
+    "level": "Nivo uporabniškega računa",
+    "mic_volume": "Glasnost Mikrofona",
+    "new_user": "Nov Uporabnik",
+    "pronouns": "zaimki",
+    "registration": "Registracija",
+    "statistics": "Statistika",
+    "stats": {
+      "edition": "Najbolj igrane\nIzdaje",
+      "homebrew": "Doma zvarjen Lik",
+      "loading": "Nalagam statistiko...",
+      "none": "Nihče",
+      "player": "Igre\nOdigrane",
+      "player_wins": "{0}% Možnost zmage",
+      "role": "Najboljši Začetni\nLiki",
+      "st_evil_wins": "{0}% Možnost zmage Zla",
+      "storyteller": "Igre\nPripovedovane",
+      "warning": "Statistika se nalaga...\nPonovno preveri kasneje!"
+    },
+    "stats_hidden": "Skrit",
+    "stats_private": "Zasebno",
+    "stats_public": "Javno",
+    "upload_avatar": "Naloži Avatarja",
+    "verified": "Preverjen Uporabnik"
+  },
+  "version": {
+    "character_distribution": "Porazdelitev likov",
+    "download": "Prosim prenesite in naložite najnovejšo {0} verzijo tukaj.",
+    "players_alive": "{0}/{1} igralcev je živih",
+    "reload": "Prosim ponovno naložite ali počistite predpomnilnik brskalnika za pridobitev najnovejše verzije.",
+    "since": "od {0}",
+    "translation_disclaimer": "Trenutno uporabljate lokalno verzijo aplikacije. Ta prevod so ustvarili in pregledali naslednji prostovoljci, ki niso del organizacije The Pandemonium Institute:",
+    "translation_game": "Ta prevod morda ni točno skladen z uradnimi angleškimi pravili igre, ki jih je napisal The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} Popotnikov je živih",
+    "update": "Prosim posodobi!",
+    "updating": "Posodabljam aplikacijo na verzijo {0}...",
+    "warning_browser": "Uporabljaš star ali nepodprt brskalnik",
+    "warning_browser2": "{0} lahko povzroči težave z aplikacijo. Prosim prenesite najnovejše posodobitve brskalnika ali zamenjajte brskalnik. Ta aplikacija najbolje deluje na brskalnikih Firefox in Chrome.",
+    "warning_update": "Tvoja verzija aplikacije je zastarela",
+    "warning_update2": "{0} najnovejša verzija je {1}!"
   }
 }
