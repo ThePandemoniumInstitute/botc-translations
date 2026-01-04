@@ -1,16 +1,55 @@
 {
   "add-bootlegger-rule": "Voeg nieuwe bootlegger (systeemrol) regel toe",
+  "add-demon": "Demoon toevoegen",
+  "add-minion": "Volgeling toevoegen",
+  "add-outsider": "Buitenstaander toevoegen",
+  "add-townsfolk": "Dorpeling toevoegen",
   "analysis": {
     "maximum-character-recommendation": "Het aanbevolen maximum karakters is {number}.",
+    "maximum-character-recommendation-teensy": "Het aangeraden maximum aantal karakters in een Teensyville is {number}.",
     "no-messages": "Geen opmerkingen!",
-    "range-exact-recommendation-full-townsfolk": "Het is aanbevolen om exact {number} dorpelingen te hebben.",
-    "too-many-characters": "Te veel karakters"
+    "range-between-recommendation-full-demon": "Het is aanbevolen om {lower} tot {upper} Demonen te hebben.",
+    "range-between-recommendation-full-minion": "Het is aanbevolen om {lower} tot {upper} Volgelingen te hebben.",
+    "range-between-recommendation-full-outsider": "Het is aanbevolen om {lower} tot {upper} Buitenstaanders te hebben.",
+    "range-between-recommendation-full-townsfolk": "Het is aanbevolen om {lower} tot {upper} Dorpelingen te hebben.",
+    "range-between-recommendation-teensy-demon": "Het is aanbevolen om {lower} tot {upper} Demonen te hebben in Teensyville.",
+    "range-between-recommendation-teensy-minion": "Het is aanbevolen om {lower} tot {upper} Volgelingen te hebben in Teensyville.",
+    "range-between-recommendation-teensy-outsider": "Het is aanbevolen om {lower} tot {upper} Buitenstaanders te hebben in Teensyville.",
+    "range-between-recommendation-teensy-townsfolk": "Het is aanbevolen om {lower} tot {upper} Dorpelingen te hebben in Teensyville.",
+    "range-exact-recommendation-full-demon": "Het is aanbevolen om exact {number} Demonen te hebben.",
+    "range-exact-recommendation-full-minion": "Het is aanbevolen om exact {number} Volgelingen te hebben.",
+    "range-exact-recommendation-full-outsider": "Het is aanbevolen om exact {number} Buitenstaanders te hebben.",
+    "range-exact-recommendation-full-townsfolk": "Het is aanbevolen om exact {number} Dorpelingen te hebben.",
+    "range-exact-recommendation-teensy-demon": "Het is aanbevolen om exact {number} Demonen te hebben in Teensyville.",
+    "range-exact-recommendation-teensy-minion": "Het is aanbevolen om exact {number} Volgelingen te hebben in Teensyville.",
+    "range-exact-recommendation-teensy-outsider": "Het is aanbevolen om exact {number} Buitenstaanders te hebben in Teensyville.",
+    "range-exact-recommendation-teensy-townsfolk": "Het is aanbevolen om exact {number} Dorpelingen te hebben in Teensyville.",
+    "too-few-demon": "Onvoldoende Demonen",
+    "too-few-minion": "Onvoldoende Volgelingen",
+    "too-few-outsider": "Onvoldoende Buitenstaanders",
+    "too-few-townsfolk": "Te weinig Dorpelingen",
+    "too-many-characters": "Te veel karakters",
+    "too-many-demon": "Teveel Demonen",
+    "too-many-minion": "Teveel Volgelingen",
+    "too-many-outsider": "Teveel buitenstaanders"
   },
   "author": "Auteur",
   "author-placeholder": "Onbekend",
   "by-author": "door {author}",
   "by-author-isolated": "door",
+  "character-tooltip": "Slepen om te verplaatsen, dubbelklikken of rechtermuisknop om het context menu te openen",
+  "characters": "Karakters",
+  "clear-script": "Script wissen",
+  "click-drag-move": "Klik om te verwijderen, slepen om te verplaatsen",
+  "close": "Sluiten",
+  "commit-all-details": "Zet alle karakters op het script vast.",
+  "commit-details": "Door dit karakter vast te zetten wordt het niet verwijderd als er op de willekeurig wordt gedrukt.",
   "copy-script-link": "Kopieer Script Link",
+  "ctxmenu": {
+    "draft": "Voorlopig",
+    "draft-details": "Een voorlopig karakter is nog niet definitief voor dit script. Als er op de willekeurig knop wordt gedrukt, worden voorlopige karakters vervangen door karakters van hetzelfde type."
+  },
+  "delete-script-confirmation": "Weet je zeker dat je dit script wilt verwijderen? Dit kan niet ongedaan gemaakt worden.",
   "edition": {
     "base-three": "Basisspel",
     "carousel": "Carrousel",
@@ -30,10 +69,25 @@
       "share": "Delen"
     }
   },
+  "export-menu": "exporteer menu",
+  "external-image-confirm": "Onofficiële afbeeldingen toestaan? Een kwaadwillende script auteur zou je IP-adres zo kunnen volgen. The Pandemonium Institute heeft geen controle over afbeeldingen van derden.",
   "fabled-and-loric": "Fabled & Loric (legendarische & hoeders)",
+  "filters": "Filteren",
+  "help": "Hulp",
+  "import-script": "Importeer script",
+  "import-typing-error": "Dit veld is er om JSON te plakken op mobiele en touch-apparaten. Handmatig typen/toevoegen is hier niet mogelijk.",
   "interactions": {
     "+choirboy-king": {
-      "msg": "Scripts met een Koorknaap moeten ook een Koning bevatten."
+      "msg": "Scripts met een Koorknaap moeten ook een Koning bevatten.",
+      "title": "Koorknaap, maar geen Koning"
+    },
+    "+huntsman-damsel": {
+      "msg": "Een Script met een Jager moet ook een Jonkvrouw hebben.",
+      "title": "Jager, maar geen Jonkvrouw"
+    },
+    "no-outsider-mod": {
+      "msg": "Zonder Buitenstaander aanpassingen, is het voor Slechte spelers niet veilig om Buitstanders te bluffen.",
+      "title": "Geen Buitenstaander aanpassingen"
     }
   },
   "keyword": {
@@ -48,15 +102,27 @@
     "townsfolk": "Dorpeling|Dorpeling",
     "traveller": "Reiziger|Reizigers"
   },
+  "name": "Naam",
   "new-bootlegger-rule": "Nieuwe bootlegger (systeemrol) regel…",
+  "new-script": "Nieuw Script",
   "print": {
     "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, maar het kan er slecht uit komen.",
     "not-first-night": "* Niet in de eerste nacht",
     "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
   },
+  "quick-add": "Zoek karakters …",
+  "randomise": "Willekeurig!",
+  "randomise-details": "Willekeurig vult het script aan met willekeurig gekozen karakters.",
+  "read-more": "Lees de almanak/Wiki-lemma",
   "recommended-travellers": "Aangeraden Travellers (reizigers)",
+  "redo": "Opnieuw uitvoeren",
+  "sao": "SAO",
   "script-name": "Scriptnaam",
   "script-name-placeholder": "Naamloos Script",
+  "scripts": "Scripts",
+  "search-abilities": "Zoek Vaardighehden",
+  "search-character": "Zoek karakters …",
+  "search-names": "Zoek Namen",
   "settings": {
     "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
     "compact-layout": "Compacte Opmaak",
@@ -70,9 +136,16 @@
     "script-heading": "Script instellingen",
     "script-type-standard": "Standaard",
     "script-type-teensyville": "Teensyville (Minidorp)",
+    "show-analysis-icons": "Toon Analyse Iconen",
+    "show-night-sheet": "Toon Nachtblad",
     "this-language": "Nederlands",
     "view-tour": "Klik {link}hier{/link} om de rondleiding nog eens te doen."
   },
+  "settings-menu": "Instellingen",
+  "show-all": "Alle Karakters",
+  "show-script-analytics": "Toon script analyse",
+  "toggle-autosort": "aan/uit automatisch sorteren",
+  "toggle-quick-input": "aan/uit snelle invoer",
   "tour": {
     "add-and-remove-characters-01": "Je kan een {bold}karakter toevoegen{/bold} vanaf het karakter tabblad. Klik op het karakter dat je wilt toevoegen.",
     "add-and-remove-characters-02": "{bold}Verwijder een karakter{/bold}, door er nogmaals op te klikken, of op het icoon in het script.",
@@ -81,15 +154,20 @@
     "add-and-remove-characters-heading": "Karakter toevoegen/verwijderen",
     "autosort-heading": "Automatisch sorteren",
     "final-heading": "Veel plezier!",
+    "import-export-share-01": "je kan hier Scripts {block}{importIcon} importeren{/block}, {block}{exportIcon} exporteren{/block} of {block} delen{/block}. Zelfgemaakte karakters en scripts worden ondersteund!",
     "import-export-share-02": "Klikken op de {block}Kopieer Script Link{/block} knop in het {block}export{/block} menu geeft je een speciale ‘script link’, dat ervoor zorgt dat iedereen je script in de editor kan bekijken.",
     "import-export-share-heading": "Importeren, exporteren en delen",
     "multiple-scripts-01": "Klik op het {heading}scripts{/heading}tabblad om alle scripts te zien waar je aan gewerkt hebt.",
+    "multiple-scripts-02": "Je kan hier wisselen tussen de {bold}25 laatste scripts{/bold}.",
     "multiple-scripts-heading": "Aan verschillende scripts werken",
     "script-analytics-heading": "Script analyse",
+    "script-name-and-authors-01": "De {bold}naam van het Script en de auteurs{/bold} kan hier aangepast worden.",
     "script-name-and-authors-heading": "Scriptnaam en auteurs",
     "undo-redo-01": "Foutje gemaakt, geen probleem! Je kunt iets {block}{undoIcon} terugdraaien{/block} of {block}{redoIcon} herstellen{/block} it. Het script leeggooien kan met de {binIcon} knop.",
     "undo-redo-heading": "Ongedaan maken/opnieuw uitvoeren",
     "welcome-01": "Dit is een gloednieuwe scriptmaker voor {bold}Bloed aan de Klokkentoren{/bold}! Deze rondleiding laat je in het kort de basis functies zien, zodat je snel aan de gang kunt.",
     "welcome-heading": "Welkom!"
-  }
+  },
+  "undo": "Ongedaan maken",
+  "unpin": "los maken"
 }
