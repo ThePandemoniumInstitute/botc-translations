@@ -1,5 +1,6 @@
 {
   "analysis": {
+    "heading": "स्क्रिप्ट विश्लेषण",
     "maximum-character-recommendation": "अनुशंसित अधिकतम पत्रों की संख्या {number} है ।",
     "maximum-character-recommendation-teensy": "टीन्सविले में पत्रों की अनुशंसित अधिकतम संख्या {number} है ।",
     "no-messages": "रिपोर्ट करने के लिए कुछ भी नहीं!",
@@ -7,10 +8,17 @@
     "range-between-recommendation-full-minion": "आदर्श रूप से अनुचरों की संख्या {lower} और {upper} के बीच होनी चाहिए।",
     "range-between-recommendation-full-outsider": "आदर्श रूप से बाहरी लोगों की संख्या {lower} और {upper} के बीच होनी चाहिए।",
     "range-between-recommendation-full-townsfolk": "आदर्श रूप से नगरवासियों की संख्या {lower} और {upper} के बीच होनी चाहिए।",
+    "range-between-recommendation-teensy-demon": "टीन्सीविल में {lower} से {upper} दानव रखना अनुशंसित है।",
+    "range-between-recommendation-teensy-minion": "टीन्सीविल में {lower} से {upper} अनुचर रखना अनुशंसित है।",
+    "range-between-recommendation-teensy-outsider": "टीन्सीविल में {lower} से {upper} बाहरी रखना अनुशंसित है।",
+    "range-between-recommendation-teensy-townsfolk": "टीन्सीविल में {lower} से {upper} नगरवासी रखना अनुशंसित है।",
     "range-exact-recommendation-full-demon": "इस खेल में आदर्श रूप से दानवों की संख्या {number} होनी चाहिए।",
     "range-exact-recommendation-full-minion": "इस खेल में आदर्श रूप से अनुचरो की संख्या {number} होनी चाहिए।",
-    "range-exact-recommendation-full-outsider": "इस खेल में आदर्श रूप से बाहरी लोगों की संख्या {number} होनी चाहिए।",
+    "range-exact-recommendation-full-outsider": "इस खेल में आदर्श रूप से बाहरी लोगों की संख्या {number} होनी चाहिए ।",
     "range-exact-recommendation-full-townsfolk": "यह अनुशंसा की जाती है कि ठीक {number} नगरवासी हो ।",
+    "range-exact-recommendation-teensy-demon": "टीन्सीविल में ठीक {number} दानव रखना अनुशंसित है।",
+    "range-exact-recommendation-teensy-minion": "टीन्सीविल में ठीक {number} अनुचर रखना अनुशंसित है।",
+    "range-exact-recommendation-teensy-outsider": "टीन्सीविल में ठीक {number} बाहरी रखना अनुशंसित है।",
     "range-exact-recommendation-teensy-townsfolk": "टीन्सीविल में ठीक {number} नगरवासी रखना अनुशंसित है।",
     "too-few-demon": "अपर्याप्त दानव",
     "too-few-minion": "अपर्याप्त अनुचर",
@@ -37,6 +45,12 @@
       "failed-embed": "निर्यात की गई छवि में कुछ आइकन सम्मिलित नहीं हो सके",
       "save": "सुरक्षित करें",
       "share": "शेयर करें"
+    }
+  },
+  "interactions": {
+    "no-outsider-mod": {
+      "msg": "बाहरी में संशोधन न होने पर, दुष्ट खिलाड़ी भरोसेमंद रूप से बाहरी होने का नाटक नहीं कर सकते।",
+      "title": "बाहरी में कोई संशोधन नहीं"
     }
   },
   "keyword": {
@@ -68,6 +82,9 @@
     "print-options-heading": "प्रिंट विकल्प",
     "print-player-count-table": "खिलाड़ी संख्या तालिका प्रदर्शित करें",
     "script-heading": "स्क्रिप्ट की सेटिंग्स",
+    "script-type": "स्क्रिप्ट प्रकार",
+    "script-type-explanation": "टीन्सीविल स्क्रिप्ट वह स्क्रिप्ट होती है जो विशेष रूप से कम खिलाड़ियों की संख्या (7 से कम खिलाड़ी) के लिए बनाई जाती है। इसमें सामान्य स्क्रिप्ट की तुलना में आमतौर पर कम पात्र होते हैं। यह सेटिंग केवल स्क्रिप्ट विश्लेषण, रैंडमाइज़र और कुछ UI तत्वों को ही प्रभावित करती है ।",
+    "script-type-teensyville": "टीन्सीविल",
     "show-analysis-icons": "विश्लेषण चिह्न दिखाएँ",
     "show-night-sheet": "रात्रि पत्रक दिखाएँ",
     "this-language": "हिंदी",
