@@ -119,7 +119,7 @@
     "mute_cam": "Wyłącz kamerę [{0}]",
     "mute_mic": "Wycisz mikrofon [{0}]",
     "night_info": "Informacje nocne",
-    "night_info_text": "Bajarz obudził cię tej nocy!",
+    "night_info_text": "Bajarz obudził Cię tej nocy!",
     "night_sheet": "Kolejność nocna",
     "npcs": "Dodaj NPC",
     "prompt_clear_player": "Czy na pewno chcesz usunąć wszystkie postacie graczy i żetony przypominające?",
@@ -419,9 +419,9 @@
       "setting_reminders_auto": "Automatycznie",
       "setting_reminders_never": "Nigdy",
       "setting_reveal": "Pokazuj kamery podczas ujawniania Grymuaru",
-      "setting_st_night": "Bajarz: Pokazuj kolejność wybudzania",
+      "setting_st_night": "Bajarz: Pokazuj kolejność budzenia",
       "setting_st_nomination": "Bajarz: Typ Nominacji",
-      "setting_st_vote": "Bajarz: Czas pomiędzy głosami",
+      "setting_st_vote": "Bajarz: Tempo głosowania",
       "setting_st_whisper": "Bajarz: Zezwól na szepty (tekstowe)",
       "setting_tutorial": "Pokazuj kroki samouczka aplikacji",
       "setting_video_deafen": "Pokazuj obrazy z kamer",
@@ -522,7 +522,7 @@
       "bluffs": "Blefy:",
       "cards": {
         "ability": "Chcesz użyć swojej umiejętności?",
-        "acknowledge": "Odebrałem",
+        "acknowledge": "Rozumiem",
         "anticlockwise": "Przeciwne do ruchu wskazówek zegara",
         "bluffs": "Tych postaci nie ma w grze",
         "choice": "Wybierz",
@@ -564,7 +564,7 @@
       "title_character": "Wybierz postać",
       "title_player": "Wybierz gracza",
       "title_spec": "Bajarz obudził {0}:",
-      "title_st": "Bajarz obudził ciebie:",
+      "title_st": "Bajarz Cię obudził:",
       "warning_dead": "Ten gracz nie żyje.",
       "warning_droison": "Ten gracz jest pijany / zatruty.",
       "warning_vortox": "Umiejętności Mieszczan generują fałszywe informacje."
@@ -578,7 +578,7 @@
     },
     "user": {
       "button_add_st": "Dodaj Bajarza",
-      "button_cancel_st": "Anuluj żądanie Bajarza",
+      "button_cancel_st": "Anuluj zaproszenie dla nowego Bajarza",
       "button_kick_user": "Wykop użytkownika",
       "button_mod_user": "Moderuj",
       "button_remove_st": "Usuń Bajarza",
@@ -587,7 +587,7 @@
       "grimoire_access_revoke": "Odbierz dostęp do Grymuaru",
       "loading": "Ładowanie użytkowników...",
       "prompt_kick": "Czy naprawdę chcesz usunąć {0} z tej gry?",
-      "prompt_st": "Czy naprawdę chcesz ustanowić {0} Bajarzem?\n Po tym gdy potwierdzą żądanie, będą mieli pełne moce Bajarza i dostęp do Grymuaru.",
+      "prompt_st": "Czy naprawdę chcesz ustanowić {0} Bajarzem?\n Gdy zaakceptuje zaproszenie, otrzyma pełne moce Bajarza i dostęp do Grymuaru.",
       "title": "Profil użytkownika"
     },
     "users": {
@@ -598,10 +598,10 @@
       "official_mod": "Oficjalny Moderator",
       "official_tpi": "Przedstawiciel TPI",
       "offline": "Offline",
-      "st_requested": "Żądanie Bajarza",
+      "st_requested": "Wysłano zaproszenie do Bajarza",
       "type_player": "Gracz|{n} Graczy",
       "type_spectator": "Widz|{n} Widzów",
-      "type_storyteller": "Bajarz|{n} Bajarzy"
+      "type_storyteller": "Bajarz|{n} Bajarze"
     },
     "verification": {
       "button_reset": "Zresetuj",
@@ -678,7 +678,7 @@
         "state_open-eyes": "Otwarte",
         "state_peek-eyes": "Zmrużone",
         "text": "Twoje oczy są {0}",
-        "tooltip_false": "Nie zobaczysz sygnałów ani nie podglądniesz prywatnych wiadomości tekstowych innych graczy chyba, że swoich sąsiadów lub Bajarza.",
+        "tooltip_false": "Nie zobaczysz nocnych sygnałów innych graczy, będziesz mieć możliwość wysyłać prywatne wiadomości tylko do swoich sąsiadów i Bajarza.",
         "tooltip_open-eyes": "Jesteś w stanie wysyłać i odbierać prywatne wiadomości tekstowe od innych graczy, nie ważne gdzie siedzą. Zobaczysz zawartość każdej wiadomości wysyłanej i odbieranej, jednakże jest szansa że ktoś inny cię na tym przyłapie.",
         "tooltip_peek-eyes": "Jesteś w stanie wysyłać i odbierać prywatne wiadomości tekstowe od innych graczy, nie ważne gdzie siedzą. Zobaczysz kto wysyła i odbiera wiadomości, ale nie ich zawartość. Nie ma ryzyka, że ktoś inny cię na tym przyłapie."
       }
@@ -918,9 +918,9 @@
     "connecting": "Bajarz łączy się z czatem głosowym.",
     "follow": "Podążaj za Bajarzem",
     "following": "Podążasz za tym Bajarzem.",
-    "listening": "Bajarz przysłuchuje się temu czatowi.",
+    "listening": "Bajarz przysłuchuje się tej rozmowie.",
     "offline": "Bajarz jest w tej chwili offline.",
-    "prompt_grim_text": "Nowi użytkownicy nie mogą prosić o dostęp do Grymuaru w grach publicznych.\n Ukończ więcej gier aby odblokować tą funkcję.",
+    "prompt_grim_text": "Nowi użytkownicy nie mogą prosić o dostęp do Grymuaru w grach publicznych.\nUkończ więcej gier, aby odblokować tę funkcję.",
     "prompt_grim_title": "Błąd podczas prośby o dostęp do Grymuaru",
     "remove": "Usuń Bajarza",
     "request_grim": "Poproś o dostęp do Grymuaru",
@@ -1050,7 +1050,7 @@
       "player_wins": "{0}% Zwycięstw",
       "role": "Najczęściej grane\n Postacie",
       "st_evil_wins": "{0}% Zwycięstw Zła",
-      "storyteller": "Gry które\n prowadziłeś/aś",
+      "storyteller": "Poprowadzone\n gry",
       "warning": "Generuję statystyki...\n Wróć do nas później!"
     },
     "stats_hidden": "Ukryte",
