@@ -120,7 +120,7 @@
   "new-script": "Nytt manus",
   "print": {
     "ios": "Utskrift från iOS-enheter stöds inte än. Du kan försöka ändå, men det kanske inte blir snyggt.",
-    "not-first-night": "* Inte första natten",
+    "not-first-night": "* Inte den första natten",
     "too-many-characters": "Ditt manus har för många roller ({nchars}); det högsta rekommenderade antalet är 25. Utskriften kanske inte ser korrekt ut. Vill du fortsätta ändå?"
   },
   "quick-add": "Sök efter roller…",
