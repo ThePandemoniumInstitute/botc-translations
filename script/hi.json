@@ -89,5 +89,8 @@
     "show-night-sheet": "रात्रि पत्रक दिखाएँ",
     "this-language": "हिंदी",
     "view-tour": "दौरे को दोबारा देखने के लिए {link} यहां {/link} पर क्लिक करें ।"
+  },
+  "tour": {
+    "welcome-heading": "स्वागत !"
   }
 }
