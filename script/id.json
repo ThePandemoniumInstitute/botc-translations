@@ -1,4 +1,8 @@
 {
+  "edition": {
+    "carousel": "Korsel",
+    "custom": "Kustom"
+  },
   "keyword": {
     "fabled": "Fabel|Fabel",
     "minion": "Antek|Antek-Antek",
