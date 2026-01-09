@@ -72,7 +72,7 @@
     "pdf": "PDF drucken/exportieren",
     "png": "PNG exportieren",
     "screenshot": {
-      "failed-embed": "Einige Grafiken konnten nicht in das exportierte Bild eingebettet werden.",
+      "failed-embed": "Einige Grafiken konnten nicht in das exportierte Bild eingebettet werden",
       "save": "Speichern",
       "share": "Teilen"
     }
