@@ -985,6 +985,11 @@
       "flavor": "I'm glad you asked that question. Truly, I am. But I think the REAL question here is...",
       "name": "Politician"
     },
+    "pope": {
+      "ability": "There are duplicate good characters in play. They might also be bluffs.",
+      "flavor": "...Pulcherrimae.",
+      "name": "Pope"
+    },
     "poppygrower": {
       "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
       "first": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
