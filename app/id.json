@@ -63,7 +63,11 @@
     "traveller": "Pengunjung|Pengunjung-pengunjung"
   },
   "overlays": {
+    "towninfo": {
+      "alive": "Hidup"
+    },
     "vote": {
+      "accusation": "Tuduhan",
       "button_countdown": "Hitung mundur"
     }
   },
