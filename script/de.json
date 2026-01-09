@@ -72,6 +72,7 @@
     "pdf": "PDF drucken/exportieren",
     "png": "PNG exportieren",
     "screenshot": {
+      "failed-embed": "Einige Charakter-Bilder konnten nicht in das Export-Bild geladen werden",
       "save": "Speichern",
       "share": "Teilen"
     }
