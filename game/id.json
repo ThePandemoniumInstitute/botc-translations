@@ -106,6 +106,10 @@
     "drunk": {
       "name": "Pemabuk"
     },
+    "empath": {
+      "first": "Berikan isyarat jari.",
+      "other": "Berikan isyarat jari."
+    },
     "fibbin": {
       "flavor": "Wkwkwk. Wk. Wk. Wk."
     },
@@ -120,6 +124,13 @@
     },
     "hindu": {
       "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+    },
+    "juggler": {
+      "other": "Berikan isyarat jari."
+    },
+    "mathematician": {
+      "first": "Berikan isyarat jari.",
+      "other": "Berikan isyarat jari."
     },
     "oracle": {
       "other": "Berikan isyarat jari."
