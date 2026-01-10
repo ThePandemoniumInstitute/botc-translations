@@ -730,7 +730,7 @@
     "vote": {
       "accusation": "Acusação",
       "button_chat": "Abrir para conversas",
-      "button_clear_selection": "Apagar seleção",
+      "button_clear_selection": "Excluir seleção",
       "button_countdown": "Contagem regressiva",
       "button_defense": "Ir para defesa",
       "button_hand_down": "ABAIXAR",
@@ -951,7 +951,7 @@
       "error_save": "Erro ao salvar o arquivo",
       "jinxes": "Zicas",
       "other_nights": "Exceto a\nprimeira noite",
-      "popout": "Aba de personagem em Pop-out"
+      "popout": "Aba de personagem em janela"
     },
     "characters": {
       "title": "Personagens"
