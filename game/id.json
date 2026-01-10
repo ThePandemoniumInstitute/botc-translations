@@ -6,9 +6,11 @@
   },
   "roles": {
     "acrobat": {
-      "ability": "Setiap malam*, pilih seorang pemain: jika mereka mabuk atau diracuni malam ini, kamu akan mati."
+      "ability": "Setiap malam*, pilih seorang pemain: jika mereka mabuk atau diracuni malam ini, kamu akan mati.",
+      "flavor": "Selamat datang, semua, di pertunjukan terbesar di dunia."
     },
     "alhadikhia": {
+      "flavor": "Alsukut min dhahab.",
       "other": "Al-Hadikhia memilih 3 pemain. :reminder: :reminder: :reminder: Bangunkan pemain pertama dan umumkan \"Al-Hadhikia memilih\" beserta nama pemain, berlanjut dengan \"Apakah kamu memilih untuk hidup?\" Pemain mengangguk atau menggelengkan kepala. Bunuh atau bangkitkan sesuai dengan itu, lalu tidurkan dan umumkan pemain berikutnya. Jika ketiga-tiganya masih hidup setelah ini, ketiga-tiganya mati."
     },
     "assassin": {
@@ -18,8 +20,11 @@
     "banshee": {
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
     },
+    "bishop": {
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+    },
     "bootlegger": {
-      "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat"
+      "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat."
     },
     "butler": {
       "flavor": "Ya, Tuan... Tidak, Tuan... Tentu, Tuan."
@@ -29,6 +34,9 @@
     },
     "clockmaker": {
       "flavor": "Jangan ganggu saya. Detakan harus berlanjut, karena lingkaran adalah simbol kehidupan dan mengandung segala sesuatu - semua jawaban - dalam mesin ilahinya. Saya harus bekerja."
+    },
+    "djinn": {
+      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
     },
     "drunk": {
       "name": "Pemabuk"
@@ -41,6 +49,9 @@
     },
     "gardener": {
       "flavor": "Ketika sofisme berubah menjadi kebodohan dan kemunafikan menjadi kekejaman, mengungsi ke taman. Cinta terakhir kakek-kakek adalah bunga dan batu."
+    },
+    "gossip": {
+      "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
     },
     "hindu": {
       "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
