@@ -100,7 +100,14 @@
       "name": "Pencuri",
       "other": "Pencuri memilih seorang pemain. :reminder:"
     },
+    "tor": {
+      "name": "Tor"
+    },
+    "vigormortis": {
+      "name": "Vigormortis"
+    },
     "vortox": {
+      "name": "Vortox",
       "other": "Vortox memilih seorang pemain. :reminder:"
     },
     "voudon": {
