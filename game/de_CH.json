@@ -83,7 +83,22 @@
     },
     "balloonist": {
       "ability": "Jede Nacht, lerne einen Spieler eines anderen Charaktertyps als letzte Nacht. [+0 oder +1 Aussenseiter]",
-      "first": "Zeige einen Spieler. :reminder:"
+      "first": "Zeige einen Spieler. :reminder:",
+      "flavor": "Mehr heisse Luft! Höher! Höher! Pìu alto! Ahhh... es ist wunderschön hier oben, nicht wahr? Könnt Ihr die Kinder sehen, die im Fluss fischen, nahe der Weide? Könnt Ihr die Sonne an den Zeltstangen des Zirkus aufblitzen sehen? Was ist das? Ein alter Mann, alleine, ohnmächtig im Weingut? Weniger Hitze! Tiefer! Tiefer! Vai pìu in basso!",
+      "name": "Ballonfahrer",
+      "other": "Zeig einen Spieler mit einem anderen Charaktertyp als zuvor. :reminder:"
+    },
+    "banshee": {
+      "ability": "Falls der Dämon dich tötet, erfahren dies alle Spieler. Von nun an kannst du zweimal täglich nominieren und zweimal pro Nomination abstimmen.",
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+      "name": "Todesfee",
+      "other": "Falls die Todesfee diese Nacht vom Dämon getötet wurde, verkünde dies allen Spielern. :reminder:"
+    },
+    "barber": {
+      "ability": "Wenn du stirbst, darf der Dämon in dieser Nacht 2 Spieler (keinen anderen Dämon) auswählen, die ihre Charaktere tauschen.",
+      "flavor": "Wusstest du, dass Barbier und Chirurg früher derselbe Beruf waren? Nein? Nun, jetzt weisst du es.",
+      "name": "Barbier",
+      "other": "Falls der Barbier heute am Tag oder nachts gestorben ist, zeige dem Dämon *DIESER CHARAKTER HAT DICH GEWÄHLT* & das Barbierplättchen. Falls der Dämon 2 Spieler gewählt hat, wecke sie einzeln. Zeige ihnen die *DU BIST* Karte & ihr neues Charakterplättchen."
     },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
