@@ -2,6 +2,9 @@
   "editions": {
     "custom": {
       "name": "Skrip Khusus"
+    },
+    "homebrew": {
+      "name": "Homebrew"
     }
   },
   "reminders": {
