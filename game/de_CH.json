@@ -36,6 +36,55 @@
       "first": "Zeige die \"DU BIST\" Karte und das Charakterplättchen eines Handlangers.",
       "name": "Alchemistin"
     },
+    "alhadikhia": {
+      "ability": "Jede Nacht* darfst du drei Spieler auswählen (alle Spieler erfahren die Auswahl): jeder wählt still Leben oder Tod, aber falls alle überleben, sterben alle.",
+      "flavor": "Alsukut min dhahab.",
+      "name": "Al-Hadikhia",
+      "other": "Der Al-Hadikhia wählt drei Spieler. :reminder: :reminder: :reminder: Wecke den Spieler der mit *1* markiert ist und verkünde \"der Al-Hadikhia hat\", den Namen des Spielers, \"gewählt\", dann \"Möchtest du leben?\" Der Spieler nickt entweder oder schüttelt den Kopf. Schick den Spieler wieder schlafen und platziere oder entferne entsprechend ein Leichentuch. Wiederhole dies für Spieler *2* und *3*. Wenn nun alle drei Spieler leben, platziere ein Leichentuch bei allen."
+    },
+    "alsaahir": {
+      "ability": "Jeden Tag, falls du öffentlich errätst, welche Spieler Handlanger und welche Dämonen sind, gewinnt Gut.",
+      "name": "Alsaahir"
+    },
+    "amnesiac": {
+      "ability": "Du weisst nicht, was deine Fähigkeit ist. Jeden Tag, rate privat, was sie ist: du lernst, wie nah dran du bist.",
+      "first": "Führe die Fähigkeit der Vergesslichen aus, falls anwendbar.",
+      "flavor": "Warte. Was. Wer? Oh, okay. Warte. Was?",
+      "name": "Vergessliche",
+      "other": "Führe die Fähigkeit der Vergesslichen aus, falls anwendbar."
+    },
+    "angel": {
+      "ability": "Etwas Schlimmes könnte demjenigen passieren, der am meisten für den Tod eines neuen Spielers verantwortlich ist.",
+      "first": "Kündige an, welcher Spieler durch den Engel beschützt ist. Füge das *BESCHÜTZT* Plättchen dem Spieler hinzu.",
+      "flavor": "Wenn diejenigen, die ohne Sünde sind, es wagen, ihre Hand gegen meine Auserwählten zu erheben, werde ich solch einen Narren mit der Wut und Rechtschaffenheit von tausend Stürmen niederschlagen.",
+      "name": "Engel"
+    },
+    "apprentice": {
+      "ability": "In deiner 1. Nacht erhältst du die Fähigkeit eines Dorfbewohners (falls du gut bist), oder die Fähigkeit eines Handlangers (falls du böse bist).",
+      "first": "Zeige dem Lernenden die *DU BIST* Karte, dann ein Bürger- oder Handlanger-Plättchen. Ersetze das Lernenden-Plättchen im Grimoire mit dem gezeigten Plättchen und platziere das *IST DER LERNENDE* Errinnerungsplättchen neben dem Charakterplättchen.",
+      "flavor": "Jahrelang bin ich gereist und habe die Kunst des Handwerks studiert. Welches Handwerk, fragen Sie? Das des einfachen Volkes. Nichts, worüber man sich Sorgen machen müsste. Noch nicht.",
+      "name": "Lernender"
+    },
+    "artist": {
+      "ability": "Einmal im Spiel, während des Tages, stelle dem Erzähler privat 1 beliebige Ja/Nein-Frage.",
+      "flavor": "Mon Dieu! C’est lumineux! Meine Arbeit, sie ist... wie sagt man... magnifique! Dieu est révélé! Oui.",
+      "name": "Künstler"
+    },
+    "assassin": {
+      "ability": "Einmal im Spiel, in der Nacht*, wähle 1 Spieler: Er stirbt, selbst wenn er es aus irgendeinem Grund nicht könnte.",
+      "flavor": "...",
+      "name": "Assassine",
+      "other": "Der Assassine wählt möglicherweise einen Spieler. :reminder: :reminder:"
+    },
+    "atheist": {
+      "ability": "Der Erzähler kann die Regeln brechen und Gut gewinnt falls er exekutiert wird, auch wenn du tot bist. [Keine bösen Charaktere]",
+      "flavor": "Lassen wir diese unnützen Spekulationen und lächerliche Paranoia hinter uns. Es gibt für alles eine völlig rationale Erklärung. Ja, eine Teetasse, welche zu klein ist um sichtbar zu sein, könnte tatsächlich den Planeten umkreisen, aber ich werde meinen Tee aus dieser sehr echten Keramik in meinen sehr echten Händen trinken.",
+      "name": "Atheist"
+    },
+    "balloonist": {
+      "ability": "Jede Nacht, lerne einen Spieler eines anderen Charaktertyps als letzte Nacht. [+0 oder +1 Aussenseiter]",
+      "first": "Zeige einen Spieler. :reminder:"
+    },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
     }
