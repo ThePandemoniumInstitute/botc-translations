@@ -128,6 +128,22 @@
     "juggler": {
       "other": "Berikan isyarat jari."
     },
+    "legion": {
+      "name": "Legion"
+    },
+    "leviathan": {
+      "name": "Leviathan"
+    },
+    "lunatic": {
+      "name": "Orang Gila"
+    },
+    "lycanthrope": {
+      "name": "Likantrof",
+      "other": "Likantrof memilih seorang pemain. :reminder:"
+    },
+    "mastermind": {
+      "name": "Dalang"
+    },
     "mathematician": {
       "first": "Berikan isyarat jari.",
       "other": "Berikan isyarat jari."
