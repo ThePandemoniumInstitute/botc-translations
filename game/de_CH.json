@@ -31,6 +31,11 @@
       "name": "Akrobat",
       "other": "Der Akrobat wählt einen Spieler. :reminder:"
     },
+    "alchemist": {
+      "ability": "Du hast eine Handlanger-Fähigkeit. Wenn du sie einsetzt, kann dich die Erzählerin aufforden, anders zu wählen.",
+      "first": "Zeige die \"DU BIST\" Karte und das Charakterplättchen eines Handlangers.",
+      "name": "Alchemistin"
+    },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
     }
