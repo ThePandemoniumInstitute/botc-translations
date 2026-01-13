@@ -100,6 +100,27 @@
       "name": "Barbier",
       "other": "Falls der Barbier heute am Tag oder nachts gestorben ist, zeige dem Dämon *DIESER CHARAKTER HAT DICH GEWÄHLT* & das Barbierplättchen. Falls der Dämon 2 Spieler gewählt hat, wecke sie einzeln. Zeige ihnen die *DU BIST* Karte & ihr neues Charakterplättchen."
     },
+    "barista": {
+      "ability": "Jede Nacht, bis zur Abenddämmerung: 1) Ein Spieler wird nüchtern, gesund & erhält wahre Informationen, oder 2) Seine Fähigkeit findet zweimal statt. Er erfährt, welches davon passiert.",
+      "first": "Wähle einen Spieler, wecke ihn und informiere ihn, welche Barista-Fähigkeit ihn betrifft. Behandle ihn dementsprechend (nüchtern/gesund/wahre Info oder aktiviere die Fähigkeit zweimal).",
+      "flavor": "Eine Tasse Kaffee ohne Rahm, Monsieur? Es tut mir furchtbar leid, aber wir haben gerade keinen Rahm mehr – wie wäre es ohne Milch?",
+      "name": "Barista",
+      "other": "Wähle einen Spieler, wecke ihn und informiere ihn, welche Barista-Fähigkeit ihn betrifft. Behandle ihn dementsprechend (nüchtern/gesund/wahre Info oder aktiviere die Fähigkeit zweimal)."
+    },
+    "baron": {
+      "ability": "Es sind zusätzliche Aussenseiter im Spiel. [+2 Aussenseiter]",
+      "flavor": "Diese Stadt ist vor die Hunde gegangen, nicht wahr? Billige Arbeitskräfte... das ist die Lösung. Ab in die Mine mit ihnen, sage ich. Ein bisschen harte Arbeit hat noch niemandem geschadet. Es geht ja schliesslich nur um den Profit, nicht wahr?",
+      "name": "Baron"
+    },
+    "beggar": {
+      "ability": "Du musst zum Abstimmen ein Abstimmungsplättchen verwenden. Wenn dir ein toter Spieler seins gibt, erfährst du sein Team. Du bist nüchtern & gesund.",
+      "flavor": "Almosen für die Armen, guter Herr? Haben Sie eine Münze übrig, meine Dame? Dankeschön. Gott segne Sie! Sie sind wirklich eine freundliche Seele. Ich werde heute Abend einen leckeren Happen essen. Oh ja, das werde ich!",
+      "name": "Bettler"
+    },
+    "bigwig": {
+      "ability": "Jede Nominierte wählt einen Spieler: bis zur Abstimmung darf nur dieser Spieler sprechen, und muss bessessen sein dass die Nominierte gut ist oder er könnte sterben.",
+      "flavor": "Die Eitelkeit fragt \"ist es beliebt?\" Die Feigheit fragt \"ist es sicher?\" Das Gewissen fragt \"ist es richtig?\" Aber wer unter uns wird fragen: \"Ist es wahr?\""
+    },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
     }
