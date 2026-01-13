@@ -996,6 +996,7 @@
       "title": "Voz"
     },
     "night": {
+      "popout": "Abrir ficha de fase da noite em uma nova janela",
       "toggle": "Habilitar a ficha de fase da noite"
     },
     "npcs": {
@@ -1082,6 +1083,7 @@
     "since": "desde {0}",
     "translation_disclaimer": "Você está usando uma versão localizada do aplicativo. Esta tradução foi criada e revisada pelos seguintes voluntários, que não são afiliados ao The Pandemonium Institute:",
     "translation_game": "O conteúdo traduzido deste jogo pode não representar corretamente as regras oficiais do jogo em inglês escritas pelo The Pandemonium Institute.",
+    "travellers_alive": "{0} de {1} viajantes vivos",
     "update": "Atualize o jogo!",
     "updating": "Atualizando o aplicativo para a versão {0}...",
     "warning_browser": "Você está utilizando um navegador antigo ou não suportado",
