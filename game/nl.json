@@ -5,6 +5,7 @@
       "name": "Nacht van de Vervloekte Maan"
     },
     "custom": {
+      "description": "Om een zelfgemaakt script te spelen, selecteer je de karakters waarmee je wilt spelen in de officeële scriptmaker. Daarna kun je de gegenereerde \"custom-list.json\" uploaden, of een URL die naar de JSON verwijst gebruiken. Om het in te laden kun je het bestand hierheen slepen of via knippen en plakken toevoegen.",
       "name": "Zelfgemaakt Script"
     },
     "homebrew": {
