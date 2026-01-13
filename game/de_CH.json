@@ -121,6 +121,16 @@
       "ability": "Jede Nominierte wählt einen Spieler: bis zur Abstimmung darf nur dieser Spieler sprechen, und muss bessessen sein dass die Nominierte gut ist oder er könnte sterben.",
       "flavor": "Die Eitelkeit fragt \"ist es beliebt?\" Die Feigheit fragt \"ist es sicher?\" Das Gewissen fragt \"ist es richtig?\" Aber wer unter uns wird fragen: \"Ist es wahr?\""
     },
+    "bishop": {
+      "ability": "Nur der Erzähler kann nominieren. Unter den Nominierten muss jeden Tag mindestens 1 Spieler aus der gegnerischen Fraktion sein.",
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
+      "name": "Bischof"
+    },
+    "boffin": {
+      "ability": "Der Dämon hat eine Fähigkeit eines guten Charakters der nicht im Spiel ist (auch wenn er betrunken oder vergiftet ist). Ihr wisst beide, welche.",
+      "first": "Weck den Eierkopf und den Dämon. Zeige das nicht im Spiel befindliche gute Charakterplättchen. Schicke den Eierkopf und den Dämon schlafen.",
+      "name": "Eierkopf"
+    },
     "washerwoman": {
       "ability": "Du weisst zu Beginn, dass 1 von 2 Spielern ein bestimmter Dorfbewohner ist."
     }
