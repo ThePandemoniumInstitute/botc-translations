@@ -1248,14 +1248,14 @@
     },
     "xaan": {
       "ability": "Nocy X wszyscy Mieszczanie są zatruci do zmierzchu. [X Outsiderów]",
-      "first": "Oznacz Xaana przypominajką *NOC 1*. Jeżeli X to 1, oznacz Xaana przypominajką *X*. :reminder: :reminder:",
+      "first": "Jeżeli X to 1, oznacz Xaana przypominajką *X*. :reminder: :reminder:",
       "flavor": "I tak oto upadają. Jeden po drugim. Dwójkami, trójkami, pięciorgiem.",
       "name": "Xaan",
       "other": "Zmień przypominajkę Xaana na odpowiednią noc. Jeżeli jest to noc X, oznacz Xaana przypominajką *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Na początku gry poznajesz tajną frazę. Za każdym razem, gdy wypowiesz ją publicznie, któryś z graczy może umrzeć.",
-      "first": "Wybierz tajemną frazę. Obudź Yaggababble i przekaż frazę.",
+      "first": "Pokaż Yaggababble jej sekretną frazę.",
       "flavor": "Zabójstwo przy Rue Morgue? Фальшивые новости! Psy na wrzosowisku Baskerville? Фальшивые новости! Śmierć podczas rejsu na Nilu? Фальшивые новости!",
       "name": "Yaggababble",
       "other": "Za każde wypowiedzenie przez Yaggababble jej frazy, gracz może umrzeć. :reminder:"
