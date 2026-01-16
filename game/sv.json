@@ -509,7 +509,7 @@
       "ability": "Varje dag får 3 spelare besöka dig. Inatt* får besökarna veta hur många besökare som var onda, men 1 får falsk info.",
       "flavor": "Bjudning mellan klockan sex och sju, på pricken. Te serveras 6.15. Scones 6.45. Kom inte sent. Aftonklädsel gäller, som alltid.",
       "name": "Hertiginnan",
-      "other": "Väck varje spelare märkt *BESÖKARE* eller *FALSK INFO* en i taget. Visa Hertiginnans rollbricka och en fingersignal."
+      "other": "Väck varje spelare märkt *BESÖKARE* eller *FALSK INFO* en i taget. Ge en fingersignal."
     },
     "dusk": {
       "first": "Inled nattfasen.",
@@ -525,10 +525,10 @@
     },
     "engineer": {
       "ability": "En gång per spel, på natten, kan du välja vilka Kumpaner eller vilken Demon som är i spel.",
-      "first": "Ingenjören kanske väljer Kumpaner eller en Demon. :reminder: I så fall: Söv ingenjören. Väck en berörd spelare, visa kortet *DU ÄR* och den nya rollen, och söv spelaren. Upprepa för alla berörda spelare.",
+      "first": "Ingenjören kanske väljer Kumpaner eller en Demon. Söv ingenjören. Väck berörda spelare en i taget, visa kortet *DU ÄR* och den nya rollen. :reminder:",
       "flavor": "Det ska böjas i tid, det som krokigt ska bli. Och om det går av, ja, då behövde det väl ändå lagas.",
       "name": "Ingenjören",
-      "other": "Ingenjören kanske väljer Kumpaner eller en Demon. :reminder: I så fall: Söv ingenjören. Väck en berörd spelare, visa kortet *DU ÄR* och den nya rollen, och söv spelaren. Upprepa för alla berörda spelare."
+      "other": "Ingenjören kanske väljer Kumpaner eller en Demon. Söv ingenjören. Väck berörda spelare en i taget, visa kortet *DU ÄR* och den nya rollen. :reminder:"
     },
     "eviltwin": {
       "ability": "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om ni båda lever.",
@@ -552,14 +552,14 @@
       "ability": "När du dör på natten blir en levande god spelare en Bonde.",
       "flavor": "Även maktens folk måste ha mat på bordet. Utan oss svälter staden.",
       "name": "Bonden",
-      "other": "Om Bonden dog inatt, väck en god spelare. Visa kortet *DU ÄR* och en Bonde-bricka. Ersätt spelarens förra bricka med Bondens bricka."
+      "other": "Om Bonden dog inatt, väck en levande god spelare. Visa kortet *DU ÄR* och en Bonde-bricka."
     },
     "fearmonger": {
       "ability": "Varje natt väljer du en spelare; om du nominerar och avrättar hen så förlorar hens lag. Alla vet om du väljer en ny spelare.",
-      "first": "Skräckspridaren väljer en spelare. :reminder: Meddela öppet att ”Skräckspridaren har valt en spelare”.",
+      "first": "Skräckspridaren väljer en spelare. :reminder: Meddela att Skräckspridaren har valt en spelare.",
       "flavor": "Om du stirrar för länge in i avgrunden, kommer avgrunden också att stirra in i dig.",
       "name": "Skräckspridaren",
-      "other": "Skräckspridaren väljer en spelare. :reminder: Om spelaren inte redan var märkt *SKRÄCK* så meddela öppet att ”Skräckspridaren har valt en spelare”."
+      "other": "Skräckspridaren väljer en spelare. :reminder: Om den valda spelaren är en annan än igår så meddela att Skräckspridaren har valt en spelare."
     },
     "ferryman": {
       "ability": "Den sista dagen får alla döda spelare tillbaka sin röstbricka.",
@@ -671,7 +671,7 @@
       "ability": "Varje natt* väljer du en levande spelare; om hen går med på det får du veta hens roll, men ni båda kanske dör.",
       "flavor": "Enchanté, matros. Du ser ut som att du behöver lätta på hjärtat. Jag är bra på att lyssna. Mycket, mycket bra.",
       "name": "Skökan",
-      "other": "Skökan pekar på en levande. Söv Skökan. Väck den valda spelaren, visa kortet *DU PÅVERKAS AV* och Skökans rollbricka. Den valda spelaren nickar eller skakar på huvudet. Om hen nickar så väck Skökan igen och visa den valda spelarens rollbricka. Bestäm sedan om båda ska dö eller inte."
+      "other": "Skökan pekar på en levande. Söv Skökan. Väck den valda spelaren, visa kortet *DU PÅVERKAS AV* och Skökans rollbricka. Om den valda spelaren nickar så väck Skökan igen och visa den valda spelarens rollbricka. Båda spelare kanske dör. :reminder: :reminder:"
     },
     "harpy": {
       "ability": "Varje natt väljer du 2 spelare; imorgon är den första galen om att den andra är ond, annars kanske en eller båda dör.",
@@ -684,7 +684,7 @@
       "ability": "Om du dör får Kumpanerna och Demonen välja nya Kumpan- och Demonroller att vara.",
       "flavor": "En hatt, två hatt, tre hatt, te hatt, fyr hatt, dyr hatt, fem hatt, kläm hatt, sex hatt, spex hatt.",
       "name": "Hattmakaren",
-      "other": "Om Hattmakaren dog idag eller inatt, väck Kumpanerna och Demonerna och låt dem välja nya roller."
+      "other": "Om Hattmakaren dog, väck Kumpanerna och Demonerna. De får välja nya roller. Om de gör det, visa kortet *DU ÄR* och den nya rollen."
     },
     "hellslibrarian": {
       "ability": "Något dåligt kanske händer den som pratar när berättaren har bett om tystnad.",
@@ -751,7 +751,7 @@
     },
     "kazali": {
       "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är vilka Kumpaner. ±? Utbölingar]",
-      "first": "Kazali väljer sina Kumpaner.",
+      "first": "Kazali väljer vilka spelare som är vilka Kumpaner. Väck varje Kumpan. Visa kortet *DU ÄR* och Kumpanbrickan och ge tummen ner.",
       "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig.",
       "name": "Kazali",
       "other": "Kazali väljer en spelare. :reminder: "
