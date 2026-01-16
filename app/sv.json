@@ -824,6 +824,7 @@
       "welcome": "Välkommen till {0}!"
     },
     "login": {
+      "accept_policies": "Godkänn våra {0}, {1}, {2} och {3}.",
       "description": "Logga in eller skapa ett konto för att fortsätta:",
       "email": "E-postadress",
       "error_captcha": "Genomför captchan",
@@ -951,7 +952,7 @@
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
       "jinxes": "Krockar",
-      "other_nights": "Inte första\nnatten",
+      "other_nights": "Inte den\nförsta natten",
       "popout": "Lossa rollarket",
       "popout_window": "Öppna rollarket i ett nytt fönster"
     },
