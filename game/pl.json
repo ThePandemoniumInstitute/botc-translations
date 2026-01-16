@@ -1156,6 +1156,10 @@
       "ability": "Każdej nocy wybierz gracza (nie siebie): jutro jego głos jest ujemny.",
       "name": "Złodziej"
     },
+    "tinker": {
+      "ability": "Możesz umrzeć w każdej chwili.",
+      "flavor": "Chyba wiem gdzie leży problem. Na szczęście, mam pomysł! Ta katapulta będzie strzelała dwa razy dalej tylko po drobniutkiej poprawce..."
+    },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
       "name": "Tor"
@@ -1167,9 +1171,11 @@
       "other": "Potaknij albo zaprzecz głową."
     },
     "toymaker": {
-      "ability": "Demon może wybrać aby nie zaatakować i musi zrobić to przynajmniej raz na grę. Zli gracze otrzymują poprawne startowe informacje.",
+      "ability": "Demon może wybrać aby nie zaatakować i musi zrobić to przynajmniej raz na grę. Źli gracze otrzymują poprawne startowe informacje.",
+      "first": "Wykonaj krok Informacje dla Sługusów i Informacje dla Demona nawet gdy jest mniej niż 7 graczy.",
       "flavor": "Bzyczy! Schodzi po schodach! Zapewnia ciepło w nocy! Smakuje jak cukier! Dzieciaki je kochają! Przedstawiam... całkiem nowe... Bzycząco-schodzące-ciepło-słodkie-ustrojstwo! Zabawa dla całej rodziny!",
-      "name": "Lalkarz"
+      "name": "Lalkarz",
+      "other": "Jeżeli jest to noc gdy atak Demona zakończył by grę, a Demon jest oznaczony *OSTATNIA NOC: BRAK ATAKU*, to Demon nie wykonuje swojej akcji. (Nie budzić go.)"
     },
     "undertaker": {
       "ability": "Każdej nocy* dowiadujesz się, jaka postać zmarła dziś w wyniku egzekucji.",
