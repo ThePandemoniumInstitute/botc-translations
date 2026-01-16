@@ -785,7 +785,7 @@
       "first": "Meddela att ”Leviatan är i spel”. :reminder:",
       "flavor": "Till det sista kämpar jag mot dig. Från dödsrikets hjärta riktar jag mitt järn mot dig. Med mitt sista andetag slungar jag emot dig mitt utmanande hat.",
       "name": "Leviatan",
-      "other": "Meddela öppet att ”Leviatan är i spel” om du vill. Byt ut påminnelsen. :reminder:"
+      "other": "Ändra Leviatans påminnelse till rätt dag. :reminder: Du kan meddela att Leviatan är i spel."
     },
     "librarian": {
       "ability": "I början vet du att 1 av 2 spelare är en viss Utböling (eller att 0 är i spel).",
@@ -795,7 +795,7 @@
     },
     "lilmonsta": {
       "ability": "Varje natt väljer Kumpanerna vem som vaktar Lillmonstret och räknas som Demon. Varje natt* kanske en spelare dör. [+1 Kumpan]",
-      "first": "Väck alla Kumpaner och låt dem välja en barnvakt. :reminder:",
+      "first": "Väck Kumpanerna. De väljer en spelare. :reminder: Söv Kumpanerna. Väck den valda spelaren. Visa kortet *DU ÄR* och Lillmonstrets rollbricka.",
       "flavor": "Steg 1: Va söt. Steg 2: Ta övej väden. Steg 3: Äta fjukost.",
       "name": "Lillmonstret",
       "other": "Väck alla Kumpaner och låt dem välja en barnvakt. :reminder: En spelare kanske dör. :reminder:"
