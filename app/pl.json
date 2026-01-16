@@ -18,6 +18,7 @@
     "button_search": "Szukaj",
     "button_send": "Wyślij",
     "cookie_policy": "Polityka plików cookie",
+    "moderation_policy": "Polityka moderacji",
     "privacy_policy": "Polityka prywatności",
     "session-tags": {
       "cameras": {
@@ -289,6 +290,7 @@
       "error_size_text": "Skrypt, który wybrałeś ma wielkość {0}MB, ale dopuszczalna wielkość wynosi {1}MB.",
       "homebrew_description": "Niestandardowe obrazy z Przemyconego skryptu zostały zastąpione generycznymi ikonami z powodów bezpieczeństwa. Można je włączyć w Ustawieniach.",
       "homebrew_title": "Niestandardowe obrazy wyłączone",
+      "monthly_script": "Skrypt miesiąca:",
       "theme": "Motyw:",
       "theme_generic": "Motyw standardowy:",
       "title": "Wybierz skrypt:",
@@ -808,6 +810,7 @@
       "welcome": "Witaj w {0}!"
     },
     "login": {
+      "accept_policies": "Zaakceptuj nasze {0}, {1}, {2} i {3}.",
       "description": "Zaloguj się albo stwórz konto, aby kontynuować:",
       "email": "Adres e-mail",
       "error_captcha": "Proszę wypełnij CAPTCHA",
