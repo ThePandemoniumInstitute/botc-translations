@@ -293,6 +293,7 @@
       "error_size_text": "Manuset du har valt har en storlek på {0} MB, men högsta tillåtna storlek är {1} MB.",
       "homebrew_description": "Av säkerhetsskäl har bilder från hembryggda manus ersatts av generiska ikoner. Du kan aktivera externa bilder i inställningarna.",
       "homebrew_title": "Externa bilder avaktiverade",
+      "monthly_script": "Månadens manus:",
       "theme": "Tema:",
       "theme_generic": "Generiskt tema:",
       "title": "Välj en utgåva:",
