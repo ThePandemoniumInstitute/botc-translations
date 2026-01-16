@@ -452,7 +452,7 @@
     },
     "damsel": {
       "ability": "Alla Kumpaner vet att Ungmön är i spel. Om en Kumpan öppet gissar dig (en chans) förlorar ditt lag.",
-      "first": "Om Jägaren valde Ungmön, visa Ungmön kortet *DU ÄR* och den nya rollbrickan.",
+      "first": "Visa Kumpanerna Ungmöns bricka under Kumpan-info. Om du inte redan gjort det, gör det nu. Om Jägaren valde Ungmön, visa Ungmön kortet *DU ÄR* och den nya rollbrickan.",
       "flavor": "Rör inte håret, raring.",
       "name": "Ungmön",
       "other": "Om Jägaren valde Ungmön, visa Ungmön kortet *DU ÄR* och den nya rollbrickan."
