@@ -823,7 +823,6 @@
       "welcome": "¡Bienvenides a {0}!"
     },
     "login": {
-      "accept": "Acepte nuestro {0}, {1} y {2}.",
       "description": "Favor de iniciar sesión o crea una cuenta para continuar:",
       "email": "Correo Electrónico",
       "error_captcha": "Favor de completar el captcha",

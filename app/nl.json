@@ -797,7 +797,6 @@
       "welcome": "Welkom bij {0}!"
     },
     "login": {
-      "accept": "Accepteer onze {0}, {1} & {2}.",
       "description": "Log in of maak een account om door te gaan:",
       "email": "E-mailadres",
       "error_captcha": "Vul de captcha in",

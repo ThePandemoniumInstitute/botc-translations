@@ -798,7 +798,6 @@
       "welcome": "Bienvenue sur {0} !"
     },
     "login": {
-      "accept": "Acceptez nos {0}, {1} & {2}.",
       "description": "Veuillez vous connecter ou créer un compte pour continuer :",
       "email": "Adresse E-Mail",
       "error_captcha": "Veuillez compléter le captcha",

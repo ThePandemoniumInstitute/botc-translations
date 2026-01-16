@@ -786,7 +786,6 @@
       "welcome": "Velkommen til {0}!"
     },
     "login": {
-      "accept": "Accepter vores {0}, {1} & {2}.",
       "description": "Log in eller opret en konto for at fortsætte:",
       "email": "E-Mail Adresse",
       "error_captcha": "Udfyld captcha",

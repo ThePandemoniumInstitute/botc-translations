@@ -810,7 +810,6 @@
       "welcome": "Benvido a {0}!"
     },
     "login": {
-      "accept": "Acepta nosos {0}, {1} e {2}.",
       "description": "Por favor inicia sesión ou crea unha conta para continuar:",
       "email": "Dirección de Correo Electrónico",
       "error_captcha": "Por favor completa o captcha",

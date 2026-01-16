@@ -809,7 +809,6 @@
       "welcome": "Witaj w {0}!"
     },
     "login": {
-      "accept": "Zaakceptuj nasze {0}, {1} i {2}.",
       "description": "Zaloguj się albo stwórz konto, aby kontynuować:",
       "email": "Adres e-mail",
       "error_captcha": "Proszę wypełnij CAPTCHA",

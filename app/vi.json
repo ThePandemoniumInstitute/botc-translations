@@ -800,7 +800,6 @@
       "welcome": "Chào mừng tới {0}!"
     },
     "login": {
-      "accept": "Đồng ý {0}, {1} & {2} của chúng tôi.",
       "description": "Hãy đăng nhập hoặc tạo tài khoản để tiếp tục:",
       "email": "Tài khoản E-Mail",
       "error_captcha": "Hãy hoàn thành captcha",

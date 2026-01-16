@@ -789,7 +789,6 @@
       "welcome": "欢迎来到 {0}！"
     },
     "login": {
-      "accept": "接受我们的 {0}、{1}和{2}。",
       "description": "请登录或注册以继续：",
       "email": "电子邮箱",
       "error_captcha": "请完成验证码",

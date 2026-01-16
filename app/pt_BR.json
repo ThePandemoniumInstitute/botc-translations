@@ -822,7 +822,6 @@
       "welcome": "Boas-vindas ao {0}!"
     },
     "login": {
-      "accept": "Aceite nossos {0}, {1} e {2}.",
       "description": "Faça login ou crie uma conta para continuar:",
       "email": "Endereço de e-mail",
       "error_captcha": "Complete o captcha",

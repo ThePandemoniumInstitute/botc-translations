@@ -823,7 +823,6 @@
       "welcome": "Välkommen till {0}!"
     },
     "login": {
-      "accept": "Godkänn appens {0}, {1} och {2}.",
       "description": "Logga in eller skapa ett konto för att fortsätta:",
       "email": "E-postadress",
       "error_captcha": "Genomför captchan",

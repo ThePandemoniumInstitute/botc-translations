@@ -788,7 +788,6 @@
       "welcome": "Velkommen til {0}!"
     },
     "login": {
-      "accept": "Godta vår {0}, {1} & {2}.",
       "description": "Vennligst logg inn eller lag en bruker for å fortsette:",
       "email": "E-postadresse",
       "error_captcha": "Vennligst fyll ut captchaen",

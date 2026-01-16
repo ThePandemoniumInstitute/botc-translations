@@ -786,7 +786,6 @@
       "welcome": "Vítejte v {0}!"
     },
     "login": {
-      "accept": "Přijměte naše {0}, {1} a {2}.",
       "description": "Přihlaste se nebo si vytvořte účet, abyste mohli pokračovat:",
       "email": "E-mailová adresa",
       "error_captcha": "Vyplňte prosím captcha",

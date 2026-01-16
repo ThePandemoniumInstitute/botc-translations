@@ -800,7 +800,6 @@
       "welcome": "Bem-vindo a {0}!"
     },
     "login": {
-      "accept": "Aceita o nosso {0}, {1} & {2}.",
       "description": "Por favor faz log in ou cria uma conta para continuar:",
       "email": "Endereço de E-mail",
       "error_captcha": "Por favor completa o captcha",

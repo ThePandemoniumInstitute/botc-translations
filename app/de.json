@@ -823,7 +823,6 @@
       "welcome": "Willkommen bei {0}!"
     },
     "login": {
-      "accept": "Ich akzeptiere die {0}, {1} & {2}.",
       "description": "Bitte melde dich an oder erstelle einen Account:",
       "email": "E-Mail Adresse",
       "error_captcha": "Bitte absolviere das Captcha",
