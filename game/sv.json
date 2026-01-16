@@ -256,7 +256,7 @@
       "ability": "Varje natt* får du välja 3 spelare (alla spelare vet vilka); de väljer tyst att leva eller dö, men om alla lever dör alla tre.",
       "flavor": "Alsukut min dhahab.",
       "name": "al Hadikhia",
-      "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck spelaren märkt *1* och säg ”al Hadikhia har valt” följt av spelarens namn, sedan ”Väljer du att leva?” Spelaren nickar eller skakar på huvudet. Söv spelaren och lägg till eller ta bort svepningen enligt hens val. Upprepa för spelarna märka *2* och *3*. Om alla tre lever efter detta, placera en svepning på alla tre."
+      "other": "al Hadikhia kan välja 3 spelare. :reminder: :reminder: :reminder: Väck de valda spelarna i ordning. De nickar eller skakar på huvudet. Söv spelaren innan du väcker nästa."
     },
     "alsaahir": {
       "ability": "Varje dag kan du öppet gissa vilka spelare som är Kumpan(er) och Demon(er). Om du har rätt vinner de goda.",
@@ -265,20 +265,20 @@
     },
     "amnesiac": {
       "ability": "Du vet inte vad din förmåga är. Varje dag kan du privat gissa den; du får veta hur nära du är.",
-      "first": "Utför eventuellt Virrpannans förmåga.",
+      "first": "Gör det som behövs för Virrpannans förmåga.",
       "flavor": "Vänta. Va. Vem? Jaha. Vänta, va?",
       "name": "Virrpannan",
-      "other": "Utför eventuellt Virrpannans förmåga."
+      "other": "Gör det som behövs för Virrpannans förmåga."
     },
     "angel": {
       "ability": "Något dåligt kanske händer den som är mest ansvarig för att en ny spelare dör.",
-      "first": "Meddela vilka spelare som är skyddade av Ängeln. Lägg till påminnelsen *SKYDDAD* vid de spelarna.",
+      "first": "Meddela vilka spelare som är skyddade av Ängeln. :reminder:",
       "flavor": "Låt den som är utan synd våga kröka ett hår på min utvalda, ty den dåren skall jag hugga ned med tusen stormars vrede.",
       "name": "Ängeln"
     },
     "apprentice": {
       "ability": "Din första natt får du en Bybos förmåga (om du är god) eller en Kumpans (om du är ond).",
-      "first": "Visa Lärlingen kortet *DU ÄR* och en Bybos eller Kumpans rollbricka. Byt ut Lärlingsbrickan mot den nya rollbrickan i grimoaren och sätt påminnelsen *ÄR LÄRLINGEN* bredvid.",
+      "first": "Visa Lärlingen kortet *DU ÄR* och en Bybos eller Kumpans rollbricka. Byt ut Lärlingsbrickan mot den nya rollbrickan. :reminder:",
       "flavor": "Många år har jag vandrat och studerat hantverket. Vilket hantverk? Bara det enkla folkets. Inget att oroa sig för. Inte än.",
       "name": "Lärlingen"
     },
@@ -300,16 +300,16 @@
     },
     "balloonist": {
       "ability": "Varje natt får du veta en spelare med en annan rolltyp än igår. [+0 eller +1 Utböling]",
-      "first": "Visa en spelare. :reminder:",
+      "first": "Peka på en spelare. :reminder:",
       "flavor": "Mer värme! Högre! Högre! Più alto! Ahhh… Det är så vackert från ovan, eller vad säger du? Ser du barnen som fiskar vid älven, under pilen? Ser du solens glans i cirkusens tältstänger? Vad nu? En gammal man som har svimmat i vingården? Mindre värme! Lägre! Lägre! Vai più in basso!",
       "name": "Ballongfararen",
-      "other": "Visa en spelare med en annan rolltyp än den senaste. :reminder:"
+      "other": "Peka på en spelare med en annan rolltyp än den senast utpekade. :reminder:"
     },
     "banshee": {
       "ability": "Om Demonen dödar dig får alla veta det. Därefter får du nominera 2 gånger per dag och rösta 2 gånger per nominering.",
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
       "name": "Bansheen",
-      "other": "Om Bansheen dödades av Demonen inatt, meddela öppet att Bansheen har dött. :reminder:"
+      "other": "Om Bansheen dödades av Demonen inatt, meddela att Bansheen har dött. :reminder:"
     },
     "barber": {
       "ability": "Om du dog idag eller inatt får Demonen välja 2 spelare (inte en annan Demon) som byter roll med varandra.",
@@ -319,10 +319,10 @@
     },
     "barista": {
       "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter & får sann info, eller 2) dubblerar sin förmåga. Hen får veta vilket.",
-      "first": "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk/nykter/sann info eller aktivera förmågan två gånger).",
+      "first": "Välj en spelare, väck hen och ge en fingersignal. :reminder:",
       "flavor": "Kaffe utan grädde? Jag är hemskt ledsen, men grädden är slut – går det bra utan mjölk istället?",
       "name": "Baristan",
-      "other": "Välj en spelare, väck hen och ange vilken Baristakraft hen fått. Agera därefter (frisk/nykter/sann info eller aktivera förmågan två gånger)."
+      "other": "Välj en spelare, väck hen och ge en fingersignal. :reminder:"
     },
     "baron": {
       "ability": "Det är extra Utbölingar i spel. [+2 Utbölingar]",
