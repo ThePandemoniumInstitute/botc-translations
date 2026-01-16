@@ -798,7 +798,7 @@
       "first": "Väck Kumpanerna. De väljer en spelare. :reminder: Söv Kumpanerna. Väck den valda spelaren. Visa kortet *DU ÄR* och Lillmonstrets rollbricka.",
       "flavor": "Steg 1: Va söt. Steg 2: Ta övej väden. Steg 3: Äta fjukost.",
       "name": "Lillmonstret",
-      "other": "Väck alla Kumpaner och låt dem välja en barnvakt. :reminder: En spelare kanske dör. :reminder:"
+      "other": "Väck Kumpanerna. De väljer en spelare. :reminder: Söv Kumpanerna. Väck den valda spelaren. Visa kortet *DU ÄR* och Lillmonstrets rollbricka. En spelare kanske dör. :reminder:"
     },
     "lleech": {
       "ability": "Varje natt* väljer du en spelare; hen dör. I början väljer du en spelare; hen förgiftas. Du dör om och endast om hen är död.",
@@ -809,7 +809,7 @@
     },
     "lordoftyphon": {
       "ability": "Varje natt* väljer du en spelare; hen dör. [Onda sitter på rad; du är inte ytterst. +1 Kumpan. ±? Utbölingar]",
-      "first": "Byt ut Demonens grannar mot Kumpaner, väck dem, visa deras nya lag och roll, och ge Kumpan-info.",
+      "first": "Väck Tyfons Herres grannar. Visa kortet *DU ÄR* och Kumpanbrickor och ge tummen ner.",
       "flavor": "I kosmos förgätna avkrokar, där stjärnorna viskar hemligheter till intet, vilar en sanning så djup att minsta skymt av den kan driva dödliga till vansinne.",
       "name": "Tyfons Herre",
       "other": "Tyfons Herre väljer en spelare. :reminder:"
@@ -829,13 +829,13 @@
     },
     "magician": {
       "ability": "Demonen tror att du är en Kumpan. Kumpanerna tror att du är en Demon.",
-      "first": "Inkludera Magikern i Kumpan- och Demon-infon.",
+      "first": "Under Kumpan-info, peka på Magikern och Demonen. Under Demon-info, peka på Magikern och Kumpanerna.",
       "flavor": "Ett… två… abra… tre… fyra… kadabra… *poff!* Och som ni ser, mina damer och herrar, har kapten Farncreutz guldbörs försvunnit! Spårlöst borta! Tack så mycket, och god natt!",
       "name": "Magikern"
     },
     "marionette": {
       "ability": "Du tror att du är en god roll, men det är du inte. Demonen vet vem du är. [Granne med Demonen]",
-      "first": "Väck Demonen. Peka på Marionetten, visa kortet *DEN HÄR SPELAREN ÄR* och Marionettens rollbricka.",
+      "first": "Väck Demonen. Visa kortet *DEN HÄR SPELAREN ÄR* och Marionettens rollbricka. Peka på Marionetten.",
       "flavor": "Ord, ord. Det är allt vi har att gå på.",
       "name": "Marionetten"
     },
@@ -863,10 +863,10 @@
     },
     "mezepheles": {
       "ability": "I början vet du ett hemligt ord. Den första goda spelaren som säger ordet blir ond den natten.",
-      "first": "Visa ordet.",
+      "first": "Visa det hemliga ordet.",
       "flavor": "Pass på, min vän! Du skall förnimma mer sinnesfröjd i denna timma än på ett år av vanligt tråkigt slag.",
       "name": "Mezefeles",
-      "other": "Om en spelare är märkt *BLIR OND*, väck den spelaren, visa kortet *DU ÄR* och tummen ner. Mezefeles förlorar sin förmåga. :reminder:"
+      "other": "Om en god spelare sa det hemliga ordet, väck den spelaren. Visa kortet *DU ÄR* och ge tummen ner. :reminder: :reminder:"
     },
     "minioninfo": {
       "first": "Om det finns 7 eller fler spelare, väck alla Kumpaner: Visa kortet *DET HÄR ÄR DEMONEN*. Peka på Demonen. Visa kortet *DET HÄR ÄR DINA KUMPANER*. Peka på de andra Kumpanerna.",
@@ -896,14 +896,14 @@
     },
     "nightwatchman": {
       "ability": "En gång per spel, på natten, kan du välja en spelare; hen får veta att du är Nattvakten.",
-      "first": "Nattvakten kanske väljer en spelare. :reminder: Söv nattvakten. Väck den utpekade, visa kortet *DEN HÄR SPELAREN ÄR* och Nattvaktens rollbricka, och peka sedan på Nattvakten.",
+      "first": "Nattvakten kanske väljer en spelare. Söv nattvakten. Väck den utpekade. Visa kortet *DEN HÄR SPELAREN ÄR* och Nattvaktens rollbricka, och peka sedan på Nattvakten. :reminder:",
       "flavor": "Natten är kall och ensam, men jag har månen, stjärnorna, den kalla vinden och ljudet av läderkängor mot kullersten till sällskap. Där borta flimrar ett ljus i ett dunkelt fönster…",
       "name": "Nattvakten",
-      "other": "Nattvakten kanske väljer en spelare. :reminder: Söv nattvakten. Väck den utpekade, visa kortet *DEN HÄR SPELAREN ÄR* och Nattvaktens rollbricka, och peka sedan på Nattvakten."
+      "other": "Nattvakten kanske väljer en spelare. Söv nattvakten. Väck den utpekade, visa kortet *DEN HÄR SPELAREN ÄR* och Nattvaktens rollbricka, och peka sedan på Nattvakten. :reminder:"
     },
     "noble": {
       "ability": "I början vet du 3 spelare, varav exakt 1 är ond.",
-      "first": "Peka på alla tre spelare märkta *VISAD*.",
+      "first": "Peka på de tre spelarna märkta *VISAD*.",
       "flavor": "Sarkasm är förvisso den lägsta formen av humor. Men för att bemöta er kritik, min gode herre, är det alltjämt en form av humor.",
       "name": "Adelsmannen"
     },
@@ -915,7 +915,7 @@
     },
     "ogre": {
       "ability": "Din första natt väljer du en spelare (inte dig själv); du är på hens lag (du vet inte vilket), även om du är full eller förgiftad.",
-      "first": "Resen pekar på en spelare. :reminder:",
+      "first": "Resen väljer en spelare. :reminder:",
       "flavor": "<grymt><flin></grymt>",
       "name": "Resen"
     },
@@ -923,7 +923,7 @@
       "ability": "Varje natt* väljer du en roll; hen dör. Om rollen inte är i spel väljer berättaren vem som dör.",
       "flavor": "Jag ser dig, klart som ett bål på en månfri natt.",
       "name": "Ojo",
-      "other": "Ojo väljer en spelare. :reminder: "
+      "other": "Ojo väljer en roll. :reminder:"
     },
     "oracle": {
       "ability": "Varje natt* får du veta hur många döda spelare som är onda.",
@@ -966,7 +966,7 @@
       "ability": "När du dör får berättaren en Kumpanförmåga.",
       "flavor": "Stå stilla. Det tar tid för kroppen att läka. Mer myrra.",
       "name": "Pestläkaren",
-      "other": "Om Pestläkaren dött har berättaren fått en Kumpanförmåga. Om du inte redan gjort det så gör det nu."
+      "other": "Om Pestläkaren dött har berättaren fått en Kumpanförmåga. Om du inte redan gjort det så gör det nu. :reminder:"
     },
     "po": {
       "ability": "Varje natt* får du välja en spelare; hen dör. Om du valde att inte döda senast väljer du 3 spelare inatt.",
@@ -986,12 +986,17 @@
       "flavor": "Jag tror inte att det är den viktigaste frågan. Jag förstår att det är intressant, men nu pratar vi konstitutionella frågor.",
       "name": "Politikern"
     },
+    "pope": {
+      "ability": "Dubbletter av goda roller är i spel. De kan också vara bluffar.",
+      "flavor": "… Pulcherrimae.",
+      "name": "Påven"
+    },
     "poppygrower": {
       "ability": "Kumpanerna och Demonen känner inte till varandra. Om du dör får de veta om varandra inatt.",
-      "first": "Gör inte Kumpan- och Demon-infon. Väck Demonen, visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda rollbrickor som inte är i spel.",
+      "first": "Hoppa över Kumpan- och Demon-infon. Väck Demonen. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och brickor för tre goda roller som inte är i spel.",
       "flavor": "I den djupa skogens dolda lundar växer fjädervallmon. Att se dess frejdighet är att förtrollas. Att dofta dess fylliga arom är att förloras, slav under ljusets och mörkrets gudar.",
       "name": "Vallmoodlaren",
-      "other": "Om Vallmoodlaren dog idag eller inatt: Väck Kumpanerna, visa kortet *DET HÄR ÄR DEMONEN* och peka på Demonen. Söv Kumpanerna. Väck Demonen, visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på Kumpanerna. Söv Demonen."
+      "other": "Om Vallmoodlaren dog idag eller inatt: Väck Kumpanerna, visa kortet *DET HÄR ÄR DEMONEN* och peka på Demonen. Väck Demonen, visa kortet *DET HÄR ÄR DINA KUMPANER* och peka på Kumpanerna."
     },
     "preacher": {
       "ability": "Varje natt väljer du en spelare; om du väljer en Kumpan får hen veta det. Valda Kumpaner har ingen förmåga.",
@@ -1004,7 +1009,7 @@
       "ability": "Om du nominerade och avrättade en spelare din första dag kan Demonen inte döda den natten.",
       "flavor": "Våra ord är blodhundar bundna med silkestrådar, mitt herrskap. Väv dem med vänlighet, så inte tyglarna tvinnas upp och hovet slits i stycken.",
       "name": "Prinsessan",
-      "other": "Om det var Prinsessans första dag och hen nominerade den spelare som avrättades idag så vaknar Demonen som vanligt, men ingen dör av Demonens förmåga."
+      "other": "Om det var Prinsessans första dag och hen nominerade den spelare som avrättades idag så vaknar Demonen som vanligt, men ingen dör av Demonens förmåga. :reminder:"
     },
     "professor": {
       "ability": "En gång per spel, på natten*, kan du välja en död spelare; om du väljer en Bybo återupplivas hen.",
@@ -1104,7 +1109,7 @@
     },
     "shugenja": {
       "ability": "I början vet du om närmsta onda spelare är medurs eller moturs från dig. Om det är lika blir svaret godtyckligt.",
-      "first": "Peka medurs eller moturs runt ringen.",
+      "first": "Peka medurs eller moturs.",
       "flavor": "これは夢。それも夢。すべて夢です。",
       "name": "Shugenjan"
     },
@@ -1122,7 +1127,7 @@
     },
     "snitch": {
       "ability": "Varje Kumpan får 3 bluffar.",
-      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* och tre goda roller som inte är i spel. Söv varje Kumpan.",
+      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa tre goda rollbrickor som inte är i spel.",
       "flavor": "Det var Johan.",
       "name": "Golaren"
     },
@@ -1145,13 +1150,13 @@
     },
     "steward": {
       "ability": "I början vet du 1 god spelare.",
-      "first": "Peka på den goda spelaren märkt *VISAD*.",
+      "first": "Peka på spelaren märkt *VISAD*.",
       "flavor": "Hur VÅGAR ni anklaga Hennes Nåd för oförrätter? Jag har känt henne i hela mitt liv! Nio år!",
       "name": "Uppassaren"
     },
     "stormcatcher": {
       "ability": "Säg en god roll. Om den är i spel kan den spelaren bara dö av avrättning, men alla onda får veta vem spelaren är.",
-      "first": "Meddela i början av natten vilken roll som är stormfångad. Markera den spelaren som *STORMFÅNGAD*. Väck de onda spelarna, visa rollbrickan och peka på den markerade spelaren. Om rollen inte är i spel, väck de onda spelarna och visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* samt rollbrickan.",
+      "first": "Meddela vilken roll som är stormfångad. Om rollen är i spel, markera den spelaren som *STORMFÅNGAD*. Väck varje ond spelarna, visa rollbrickan och peka på den markerade spelaren. Om rollen inte är i spel, väck de onda spelarna och visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL* samt rollbrickan.",
       "flavor": "I gryningen sträcker sig templets skugga fram till fontänen. I skymningen blockerar obelisken det röda skenet och kyler vattnet under valvporten. Alla linjer möts här. Stormen nalkas, och detta, denna steniga och frodiga och heliga plats mellan äppelträden, är ögat.",
       "name": "Stormfångaren"
     },
@@ -1160,7 +1165,7 @@
       "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbrickor som inte är i spel.",
       "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
       "name": "Åkallaren",
-      "other": "Byt ut Åkallarens påminnelse till den aktuella natten. Om det är natt 3 så väljer Åkallaren en spelare och en Demon. Söv Åkallaren. Väck den valda spelaren. Visa kortet *DU ÄR*, tummen ner och den valda Demonens rollbricka."
+      "other": "Byt ut Åkallarens påminnelse till den aktuella natten. :reminder: Om det är natt 3 så väljer Åkallaren en spelare och en Demon. Söv Åkallaren. Väck den valda spelaren. Visa kortet *DU ÄR*, tummen ner och den valda Demonens rollbricka."
     },
     "sweetheart": {
       "ability": "När du dör blir 1 spelare full för resten av spelet.",
@@ -1203,7 +1208,7 @@
       "first": "Ge Kumpan- och Demon-info trots att det är färre än 7 spelare.",
       "flavor": "Den surrar! Den går i trappor! Den värmer om natten! Den smakar socker! Ungarna älskar den! Får jag presentera, den splitter nya… Värme-vandrar-surrar-automat-mojängen! Rolig för liten som stor!",
       "name": "Leksaksmakaren",
-      "other": "Om Demonens attack kan avsluta spelet och Demonen är märkt *EN LUGN NATT* så vaknar Demonen inte inatt."
+      "other": "Om Demonens attack kan avsluta spelet och Demonen är märkt *EN LUGN NATT*, väck inte Demonen."
     },
     "undertaker": {
       "ability": "Varje natt* får du veta vilken roll som dog av avrättning idag.",
@@ -1219,10 +1224,10 @@
     },
     "villageidiot": {
       "ability": "Varje natt väljer du en spelare; du får veta hens lag. [+0 till +2 extra Byfånar. 1 av de extra är full.]",
-      "first": "Välj en Byfåne som är full. :reminder: Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag.",
+      "first": "Om det finns flera Byfånar, markera en som *FULL*. :reminder: Väck Byfånarna en i taget för att välja en spelare. Ge en tumsignal.",
       "flavor": "Violer är röda, rosor är blå. Vänd det jag sa, och låt vara så.",
       "name": "Byfånen",
-      "other": "Väck varje Byfåne en i taget. Hen väljer en spelare. Visa tummen upp eller ner beroende på den valda spelarens lag."
+      "other": "Väck Byfånarna en i taget för att välja en spelare. Ge en tumsignal."
     },
     "virgin": {
       "ability": "Om den första som nominerar dig är Bybo avrättas hen omedelbart.",
@@ -1231,7 +1236,7 @@
     },
     "vizier": {
       "ability": "Alla vet att du är Vesiren. Du kan inte dö på dagen. Om någon god röstade får du välja att avrätta direkt.",
-      "first": "Meddela öppet vem som är Vesiren.",
+      "first": "Meddela vilken spelare som är Vesiren.",
       "flavor": "Ett utmärkt beslut som alltid, ers nåd. Ett så småsint brott som att stöta till biskopen förtjänar verkligen er ’rättvisa’ och ’nåd’. Ta ni en promenad i trädgården. Besök galleriet och betrakta von Straufs skulpturer. Slappna bara av, ers nåd, och lämna allt åt mig.",
       "name": "Vesiren"
     },
@@ -1254,7 +1259,7 @@
     },
     "widow": {
       "ability": "Din första natt ser du grimoaren och väljer en spelare; hen är förgiftad. 1 god spelare vet att Änkan är i spel.",
-      "first": "Visa grimoaren så länge Änkan behöver. Änkan väljer en spelare. :reminder:",
+      "first": "Visa grimoaren så länge Änkan behöver. Änkan väljer en spelare. :reminder: Söv Änkan. Väck spelaren märkt *VISAD* och visa Änkans rollbricka. :reminder:",
       "flavor": "Mer vin? Château d’Ergot ’07 är en mycket speciell årgång. Ja, sannerligen speciell.",
       "name": "Änkan"
     },
@@ -1267,10 +1272,10 @@
     },
     "wizard": {
       "ability": "En gång per spel får du önska dig något. Om önskan uppfylls kanske den får en kostnad och ger en ledtråd om sin natur.",
-      "first": "Utför eventuellt Trollkarlens förmåga.",
+      "first": "Gör det som krävs för Trollkarlens förmåga.",
       "flavor": "Varje man och varje kvinna är en stjärna. Kärlek är lagen, kärlek under vilja.",
       "name": "Trollkarlen",
-      "other": "Utför eventuellt Trollkarlens förmåga."
+      "other": "Gör det som krävs för Trollkarlens förmåga."
     },
     "wraith": {
       "ability": "Du får öppna ögonen på natten. Du vaknar med andra onda spelare.",
@@ -1281,17 +1286,17 @@
     },
     "xaan": {
       "ability": "På natt X är alla Bybor förgiftade till skymningen. [X Utbölingar]",
-      "first": "Märk Xaan med påminnelsen *NATT 1*. Om X är 1, märk istället Xaan med påminnelsen *X*. :reminder: :reminder:",
+      "first": "Om X är 1, märk Xaan med påminnelsen *X*. :reminder: :reminder:",
       "flavor": "Se dem falla. En efter en. Efter två, efter tre, efter fem.",
       "name": "Xaan",
       "other": "Byt ut Xaans påminnelse till den aktuella natten. Om det är natt X, märk istället Xaan med påminnelsen *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "I början vet du en hemlig fras. För varje gång du sa den öppet idag kanske en spelare dör.",
-      "first": "Välj en hemlig fras. Väck Yaggababbel och visa den hemliga frasen.",
+      "first": "Visa Yaggababbel den hemliga frasen.",
       "flavor": "Mord på Rue Morgue? Фальшивые новости! Hundar på Baskervillemyren? Фальшивые новости! Död på Nilen? Фальшивые новости!",
       "name": "Yaggababbel",
-      "other": "För varje gång Yaggababbel sa sin fras idag får du välja en spelare som dör. :reminder:"
+      "other": "För varje gång Yaggababbel sa sin fras idag kanske en spelare dör. :reminder:"
     },
     "zealot": {
       "ability": "Om minst 5 spelare lever måste du alltid rösta för avrättning.",
