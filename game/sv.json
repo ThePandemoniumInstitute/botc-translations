@@ -782,7 +782,7 @@
     },
     "leviathan": {
       "ability": "Om mer än 1 god spelare avrättas vinner de onda. Alla vet att du är i spel. Efter dag 5 vinner de onda.",
-      "first": "Meddela öppet att ”Leviatan är i spel”. Markera Leviatan med påminnelsen *DAG 1*. :reminder:",
+      "first": "Meddela att ”Leviatan är i spel”. :reminder:",
       "flavor": "Till det sista kämpar jag mot dig. Från dödsrikets hjärta riktar jag mitt järn mot dig. Med mitt sista andetag slungar jag emot dig mitt utmanande hat.",
       "name": "Leviatan",
       "other": "Meddela öppet att ”Leviatan är i spel” om du vill. Byt ut påminnelsen. :reminder:"
