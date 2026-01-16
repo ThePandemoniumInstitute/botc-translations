@@ -834,10 +834,20 @@
       "other": "Pokaż na palcach."
     },
     "matron": {
+      "flavor": "Panno Featherbottom, proszę o ciszę. Paniczu Rutherford, filiżankę trzyma się czterema palcami, o tak. Wiem, że jest pan ojcem dziewięciorga dzieci, lecz wiek — ani jego brak, jak w tym wypadku — nigdy nie usprawiedliwia złych manier.",
       "name": "Matrona"
     },
     "mayor": {
+      "ability": "Jeżeli żyje tylko 3 graczy i nie dojdzie do egzekucji, twoja drużyna wygrywa. Jeżeli miałbyś umrzeć w nocy, inny gracz może umrzeć w zamiast.",
+      "flavor": "Musimy odłożyć nasze różnice na bok i przerwać to bezsensowne zabijanie. W końcu wszyscy płacimy podatki. No, prawie wszyscy.",
       "name": "Burmistrz"
+    },
+    "mezepheles": {
+      "ability": "Zaczynasz grę znając tajemne słowo. Pierwszy dobry gracz, który je wypowie staje się zły tej nocy.",
+      "first": "Pokaż sekretne słowo.",
+      "flavor": "To, co z serca płynie, ku sercom innych się skłoni.",
+      "name": "Mefistofeles",
+      "other": "Jeżeli dobry gracz wypowiedział sekretne słowo obudź go. Pokaż mu kartę *JESTEŚ* i kciuk w dół (zły). :reminder: :reminder:"
     },
     "minioninfo": {
       "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Sługusów: Pokaż kartę *TO JEST DEMON*. Wskaż Demona. Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż innych Sługusów.",
@@ -854,11 +864,18 @@
       "name": "Mnich",
       "other": "Mnich wybiera gracza. :reminder:"
     },
+    "moonchild": {
+      "ability": "Gdy dowiesz się, że umarłeś, publicznie wskaż żywego gracza. Dzisiejszej nocy, jeżeli był dobry to umiera.",
+      "flavor": "Skorpion patrzy w poprzek na kochanków, a ty masz wybór. Ze srebrnym krzyżem na mej dłoni twój los się odsłoni. Ze stalowym krzyżem na mym gardle, gwiazdy świadkiem, pożałujesz tego nagle."
+    },
     "mutant": {
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony.",
+      "flavor": "Nie jestem dziwactwem! Jestem człowiekiem! Litości!",
       "name": "Mutant"
     },
     "nightwatchman": {
+      "ability": "Raz na grę, w nocy, wybierz gracza: dowiaduje się, że jesteś Nocnym Strażnikiem .",
+      "first": "Nocny Strażnik może wybrać gracza. Uśpij Nocnego Strażnika. Obudź cel i pokaż kartę *TEN GRACZ JEST*, żeton Nocnego Strażnika i samego Nocnego Strażnika. :reminder:",
       "name": "Nocny Strażnik"
     },
     "noble": {
@@ -905,8 +922,19 @@
       "name": "Jędza",
       "other": "Jędza wybiera gracza i postać. Jeżeli wybranej postaci nie ma w grze: Uśpij Jędzę. Obudź cel. Pokaż kastę *JESTEŚ* i jego nowy żeton postaci."
     },
+    "pixie": {
+      "ability": "Zaczynasz grę wiedząc o Mieszczaninie będącym w grze. Jeżeli masz obsesję, że jesteś tą postacią, otrzymujesz jej umiejętność gdy ona umiera.",
+      "first": "Pokaż żeton postaci Mieszczanina oznaczonego *OBSESJA*."
+    },
+    "plaguedoctor": {
+      "ability": "Gdy umierasz, Bajarz dostaje umiejętność Sługusa.",
+      "flavor": "Prose nie rusaj sie. Czeba czasu by sie zleczylo. Myrhh-myrhh."
+    },
     "po": {
-      "name": "Po"
+      "ability": "Każdej nocy* możesz wybrać gracza: umiera. Jeżeli twój ostatni wybór to nikt, zamiast tego wybierz 3 graczy.",
+      "flavor": "Chciałbyś kwiatuszka? Jestem taka samotna.",
+      "name": "Po",
+      "other": "Po może wybrać gracza albo 3 jeżeli nikt nie został wybrany poprzedniej nocy. :reminder: albo :reminder: :reminder: :reminder:"
     },
     "poisoner": {
       "ability": "Każdej nocy wybierz gracza: jest zatruty tej nocy i następnego dnia.",
@@ -916,12 +944,18 @@
       "other": "Truciciel wybiera gracza. :reminder:"
     },
     "politician": {
+      "ability": "Jeżeli byłeś najbardziej odpowiedzialny za przegraną swojej drużyny, możesz zmienić drużynę i wygrać, nawet jak jesteś martwy.",
+      "flavor": "Cieszę się, że zadałeś to pytanie. Naprawdę. Jednak myślę, że PRAWDZIWE pytanie brzmi...",
       "name": "Polityk"
     },
     "pope": {
-      "flavor": "...Pulcherrimae."
+      "flavor": "...Pulcherrimae.",
+      "name": "Papież"
     },
     "poppygrower": {
+      "ability": "Sługusi i Demony nie znają się nawzajem. Jeżeli umrzesz, dowiadują się o sobie tej nocy.",
+      "first": "Nie wykonuj kroku przekazywania informacji o Sługusach i Demonie. Obudź Demona, pokaż mu kartę *TYCH POSTACI NIE MA W GRZE* i żetony 3 dobrych postaci, których nie ma w grze.",
+      "flavor": "W tajemnych ostępach puszczy skrywa się czarny mak. Kto ujrzy jego pląsy, temu serce spowije czar. Kto wciągnie jego ciężki zapach, zatraci się bez powrotu, oddany w niewolę bogom światła i ciemności.",
       "name": "Siewca Maku"
     },
     "preacher": {
@@ -958,6 +992,7 @@
       "name": "Odludek"
     },
     "revolutionary": {
+      "ability": "Wiadomo, że 2 sąsiadujących graczy jest w tej samej drużynie. Raz na grę, jeden z nich, może się pokazać niepoprawnie.",
       "name": "Rewolucjonista"
     },
     "riot": {
@@ -966,6 +1001,7 @@
       "name": "Zadyma"
     },
     "sage": {
+      "ability": "Jeżeli zabije cię Demon, dowiadujesz się, że jest nim 1 z 2 graczy.",
       "name": "Mędrzec"
     },
     "sailor": {
