@@ -5,7 +5,7 @@
     "alchemist-mastermind": "Alchemist-Mastermind không có năng lực của Mastermind, và biết tay sai đó không có tham gia ván chơi.",
     "alchemist-organgrinder": "Nếu Alchemist có năng lực của Organ Grinder, tay sai đó đang có tham gia ván chơi. Nếu cả hai chọn Tỉnh táo, cả hai sẽ bị say.",
     "alchemist-spy": "Alchemist-Spy không có năng lực của Spy, nhưng biết tay sai đó đang có tham gia ván chơi. Sau mỗi hành quyết, nếu Alchemist-Spy còn sống, họ có thể đoán công khai một người chơi còn sống là Spy. Nếu đoán đúng, Ác quỷ phải chọn Spy vào đêm nay.",
-    "alchemist-summoner": "Alchemist-Summoner không biết được 3 nhận vật không có tham gia ván chơi, được chọn vai Ác quỷ nhưng không được chọn người chơi trở thành Ác quỷ. Nếu chết trước khi chức năng kích hoạt, phe xấu thắng. [Không có Ác Quỷ]",
+    "alchemist-summoner": "Alchemist-Summoner không biết được 3 nhận vật không có tham gia ván chơi, được chọn vai Ác quỷ nhưng không được chọn người chơi trở thành Ác quỷ. Nếu chết trước khi năng lực kích hoạt, phe xấu thắng. [Không có Ác Quỷ]",
     "alchemist-widow": "Alchemist-Widow không có năng lực của Widow, nhưng biết tay sai đó đang có tham gia ván chơi. Sau mỗi hành quyết, nếu Alchemist-Widow còn sống, có thể đoán công khai một người chơi còn sống khác là Widow. Nếu đoán đúng, Ác quỷ phải chọn Widow vào đêm nay.",
     "alchemist-wraith": "Alchemist-Wraith không có năng lực của Wraith, nhưng biết tay sai đó có tham gia ván chơi. Sau hành quyết, nếu Alchemist-Wraith còn sống, có thể đoán công khai một người chơi còn sống khác là Wraith. Nếu đoán đúng, Ác quỷ phải chọn Wraith vào đêm nay.",
     "alhadikhia-mastermind": "Nếu Al-Hadikhia chết bởi hành quyết, và Mastermind còn sống, Al-Hadikhia chọn 3 người chơi phe tốt đêm nay: nếu cả 3 chọn sống, phe xấu thắng. Nếu không, phe tốt thắng.",
@@ -18,8 +18,8 @@
     "banshee-riot": "Mỗi đêm*, Riot sẽ chọn một người chơi phe tốt còn sống (khác với những đêm trước): Banshee được chọn sẽ chết và kích hoạt năng lực của họ.",
     "banshee-vortox": "Nếu Vortox giết Banshee, tất cả người chơi sẽ biết được Banshee đã chết.",
     "baron-heretic": "Chỉ có một nhân vật với năng lực ngoại lệ có thể tham gia ván chơi.",
-    "baron-plaguedoctor": "Nếu Người kể truyện nhận được chức năng của Baron, tối đa hai người chơi bất kì sẽ trở thành Ngoại lai.",
-    "boffin-cultleader": "Nếu Ác quỷ nhận được chức năng của Cult Leader, họ không chuyển qua phe tốt bởi năng lực này.",
+    "baron-plaguedoctor": "Nếu Người kể truyện nhận được năng lực của Baron, tối đa hai người chơi bất kì sẽ trở thành Ngoại lai.",
+    "boffin-cultleader": "Nếu Ác quỷ nhận được năng lực của Cult Leader, họ không chuyển qua phe tốt bởi năng lực này.",
     "boffin-drunk": "Nếu Ác quỷ nhận được năng lực của Drunk, Boffin chọn một Dân làng phe tốt để nhận được năng lực này.",
     "boffin-goon": "Nếu Ác quỷ nhận được năng lực của Goon, họ không thể chuyển qua phe tốt bởi năng lực này.",
     "boffin-heretic": "Ác quỷ không thể nhận được năng lực của Heretic.",
@@ -631,7 +631,7 @@
       "first": "Đánh dấu người chơi tay sai Xaan với ghi chú *ĐÊM 1*. Nếu X là 1, đánh dấu với token ghi chú *X*. :reminder: :reminder:",
       "flavor": "Ngã xuống. Từng người một. Tiếp đến hai người, ba người, năm người.",
       "name": "Xaan",
-      "other": "Thay thế token ghi nhớ của Xaan tương ứng với đêm hiện tại. Nếu đến đêm thứ X, đánh dấu Xaan bằng token ghi chú *X*. :reminder: :reminder:"
+      "other": "Thay thế token ghi chú của Xaan tương ứng với đêm hiện tại. Nếu đến đêm thứ X, đánh dấu Xaan bằng token ghi chú *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Bạn bắt đầu biết một câu nói bí mật. Với mỗi lần bạn nói công khai câu đó ngày hôm nay, một người chơi có thể chết.",
