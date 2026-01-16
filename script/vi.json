@@ -51,7 +51,7 @@
   "copy-script-link": "Sao Chép Liên Kết Kịch Bản",
   "ctxmenu": {
     "copy-text": "Sao chép văn bản",
-    "copy-text-details": "Sao chép văn bản chức năng nhân vật",
+    "copy-text-details": "Sao chép văn bản năng lực nhân vật",
     "draft": "Nháp",
     "draft-details": "Nhân vật nháp chưa được hoàn toàn cho vào kịch bản. Nếu bạn nhấn vào nút ngẫu nhiên, nhân vật nháp sẽ được thay thế bằng một nhân vật cùng loại.",
     "pinned": "Ghim",
@@ -133,7 +133,7 @@
   "script-name": "Tên kịch bản",
   "script-name-placeholder": "Kịch Bản Không Tên",
   "scripts": "Kịch Bản",
-  "search-abilities": "Tìm chức năng",
+  "search-abilities": "Tìm năng lực",
   "search-character": "Tìm nhân vật …",
   "search-names": "Tìm tên",
   "settings": {
