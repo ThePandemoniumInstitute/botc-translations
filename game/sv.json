@@ -346,7 +346,7 @@
     },
     "boffin": {
       "ability": "Demonen (även om hen är full/förgiftad) har en god rolls förmåga (inte en som är i spel). Ni vet båda vilken.",
-      "first": "Väck Labbråttan och Demonen. Visa dem den goda rollens bricka. Söv Labbråttan och Demonen.",
+      "first": "Väck Labbråttan och Demonen. Visa dem *DU PÅVERKAS AV* och Labbråttas bricka, sedan den goda rollens bricka.",
       "flavor": "Stjärnväte, massivt, inert; kol, syre, neon, allt är förstört. Molekylärt kaos, entropi, skapar nya kosmiska fenomen, återfödsel ur atomiskt kaos, tät, kollapsande materia. Allt i en liten, liten flaska.",
       "name": "Labbråttan"
     },
@@ -354,7 +354,7 @@
       "ability": "En gång per spel, på natten*, kan du välja en död spelare; hen återfår sin förmåga fram till skymningen.",
       "flavor": "Jag samlar många saker. Hår. Tänder. Kläder. Brottstycken av dikter. Gamla älskares drömmar. Mina metoder är min hemlighet, men min avgift är en spottstyver. Ge mig blod från en adelskvinna som dött av brustet hjärta under fullmånen, så ska du få dina svar.",
       "name": "Bensamlaren",
-      "other": "Bensamlaren får välja en död spelare. Markera den valda spelaren med *HAR FÖRMÅGA*. Väck eventuellt den markerade spelaren för att utföra förmågan."
+      "other": "Bensamlaren kanske väljer en död spelare. :reminder: Väck eventuellt den markerade spelaren för att utföra förmågan."
     },
     "boomdandy": {
       "ability": "Om du avrättas dör alla utom 3 spelare. Efter en nedräkning från 10 till 1 dör den spelare som flest pekar på.",
@@ -368,10 +368,10 @@
     },
     "bountyhunter": {
       "ability": "I början vet du 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]",
-      "first": "Peka på spelaren markerad *VISAD*.",
+      "first": "Peka på spelaren markerad *VISAD*. ",
       "flavor": "Ensam strövar jag på dessa gator, belagda med korruption. Dess stank nästlar sig in i näsan, som bränner av avsmak. Och förväntan. Denna erbarmliga plats blir sjukare för var natt som går. Och jag… jag är boten.",
       "name": "Prisjägaren",
-      "other": "Om spelaren märkt *VISAD* dog idag eller inatt, peka på en ny *VISAD* spelare."
+      "other": "Om spelaren märkt *VISAD* dog idag eller inatt, peka på en ny spelare markerad *VISAD*."
     },
     "buddhist": {
       "ability": "De 2 första minuterna varje dag får veteranspelare inte prata.",
@@ -401,7 +401,8 @@
     "cannibal": {
       "ability": "Du har samma förmåga som den som sist dog av avrättning. Om hen är ond är du förgiftad tills en god spelare dör av avrättning.",
       "flavor": "Jag tyckte mycket om din make. Han var en god man.",
-      "name": "Kannibalen"
+      "name": "Kannibalen",
+      "other": "INGET BLAD = INGEN TEXT"
     },
     "cerenovus": {
       "ability": "Varje natt väljer du en spelare och en god roll; hen är ”galen” om att hen är den rollen imorgon, annars kanske hen avrättas.",
@@ -444,10 +445,10 @@
     },
     "cultleader": {
       "ability": "Varje natt hamnar du på en levande grannes lag. Om alla goda spelare går med i din kult vinner ditt lag.",
-      "first": "Kultledaren kanske byter lag. Visa hen i så fall kortet *DU ÄR* och tummen upp eller ner för det nya laget.",
+      "first": "Kultledaren kanske byter lag. Visa hen i så fall kortet *DU ÄR* och en tumsignal.",
       "flavor": "De ville gälla för visa, men blev till dårar.",
       "name": "Kultledaren",
-      "other": "Kultledaren kanske byter lag. Visa hen i så fall kortet *DU ÄR* och tummen upp eller ner för det nya laget."
+      "other": "Kultledaren kanske byter lag. Visa hen i så fall kortet *DU ÄR* och en tumsignal."
     },
     "damsel": {
       "ability": "Alla Kumpaner vet att Ungmön är i spel. Om en Kumpan öppet gissar dig (en chans) förlorar ditt lag.",
