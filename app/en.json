@@ -293,7 +293,7 @@
       "error_size_text": "The script you selected has a size of {0}MB, but the maximum size is {1}MB.",
       "homebrew_description": "Custom images from Homebrew scripts have been replaced with generic icons for security reasons. You can enable them through the Settings menu.",
       "homebrew_title": "Custom Images Disabled",
-      "release_script": "{role} Character Release Script:",
+      "monthly_script": "Script of the Month:",
       "theme": "Theme:",
       "theme_generic": "Generic theme:",
       "title": "Select an edition:",
