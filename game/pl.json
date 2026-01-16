@@ -901,7 +901,9 @@
     },
     "moonchild": {
       "ability": "Gdy dowiesz się, że nie żyjesz, publicznie wskaż 1 żywego gracza. Jeśli był to dobry gracz, umrze on tej nocy.",
-      "flavor": "Skorpion patrzy krzywo na kochanków, a ty musisz dokonać wyboru. Połóż srebro na mej dłoni, a twój los się odsłoni. Połóż stal na mym gardle, gwiazdy świadkiem, pożałujesz tego nagle."
+      "flavor": "Skorpion patrzy krzywo na kochanków, a ty musisz dokonać wyboru. Połóż srebro na mej dłoni, a twój los się odsłoni. Połóż stal na mym gardle, gwiazdy świadkiem, pożałujesz tego nagle.",
+      "name": "Księżycowe Dziecię",
+      "other": "Jeżeli Księżycowe Dziecię miało zabić dobrego gracza, dzieje się to teraz. :reminder:"
     },
     "mutant": {
       "ability": "Jeżeli masz \"obsesję\", że jesteś Outsiderem, możesz zostać stracony.",
@@ -912,7 +914,8 @@
       "ability": "Raz na grę, w nocy, wybierz gracza: dowiaduje się, że jesteś Nocnym strażnikiem .",
       "first": "Nocny strażnik może wybrać gracza. Uśpij Nocnego strażnika. Obudź wybranego przez niego gracza i pokaż kartę *TEN GRACZ JEST*, żeton Nocnego strażnika i samego Nocnego strażnika. :reminder:",
       "flavor": "Zimna i samotna ta noc, lecz towarzyszą mi księżyc i gwiazdy, chłodny powiew wiatru i cichy odgłos skórzanych butów na kamiennym bruku. A tam, w oddali, za zmętniałą szybą, drży blask świecy...",
-      "name": "Nocny Strażnik"
+      "name": "Nocny Strażnik",
+      "other": "Nocny Strażnik może wybrać gracza. Uśpij Nocnego Strażnika. Obudź cel i pokaż kartę *TEN GRACZ JEST*, żeton Nocnego Strażnika i samego Nocnego Strażnika. :reminder:"
     },
     "noble": {
       "ability": "Na początku gry poznajesz 3 graczy, z których 1 i tylko 1 jest zły.",
@@ -1007,7 +1010,8 @@
       "ability": "Sługusi i Demony nie znają się nawzajem. Jeżeli umrzesz, dowiadują się o sobie tej nocy.",
       "first": "Nie wykonuj kroku przekazywania informacji o Sługusach i Demonie. Obudź Demona, pokaż mu kartę *TYCH POSTACI NIE MA W GRZE* i żetony 3 dobrych postaci, których nie ma w grze.",
       "flavor": "W tajemnych ostępach puszczy skrywa się czarny mak. Kto ujrzy jego pląsy, temu serce spowije czar. Kto wciągnie jego ciężki zapach, zatraci się bez powrotu, oddany w niewolę bogom światła i ciemności.",
-      "name": "Siewca Maku"
+      "name": "Siewca Maku",
+      "other": "Jeżeli Siewca Maku umarł tego dnia lub nocy, obudź Sługusów, pokaż kartę *TO JEST DEMON* i wskaż Demona. Uśpij ich. Obudź Demona, pokaż kartę *TO SĄ TWOI SŁUGUSI* i wskaż Sługusów. Uśpij Demona."
     },
     "preacher": {
       "ability": "Każdej nocy wybierz gracza: jeśli wybierzesz Sługusa, dowiaduje się o tym. Wszyscy wybrani Sługusi tracą swoje umiejętności.",
@@ -1113,6 +1117,7 @@
       "name": "Shugenja"
     },
     "slayer": {
+      "ability": "Raz na grę, podczas dnia, wybierz publicznie gracza: jeżeli jest Demonem, umiera.",
       "flavor": "Umieraj!",
       "name": "Pogromca"
     },
@@ -1152,9 +1157,11 @@
       "name": "Łowca Burz"
     },
     "summoner": {
+      "ability": "Dostajesz 3 blefy. 3-ciej nocy wybierz gracza: staje się złym Demonem twojego wyboru. [brak Demona]",
+      "first": "Pokaż kartę *TYCH POSTACI NIE MA W GRZE*. Pokaż 3 żetony postaci nie będących w grze.",
       "flavor": "Bądźcie pozdrowieni, strażnicy północy, przez rozum mój rozcięci zostajecie. Bądźcie pozdrowieni, strażnicy wschodu, przez wolę moją ujarzmieni. Bądźcie pozdrowieni, strażnicy południa, przez to, co poza światem leży, objawia się tajemnica. Bądźcie pozdrowieni, strażnicy zachodu, wy, co w ciemności tarczą stoicie.",
       "name": "Przyzywacz",
-      "other": "Zamień przypominajkę Przyzywacza na odpowiedni numer nocy. Jeżeli to noc 3-cia, Przyzywacz wybiera gracza i Demona. Uśpij Przyzywacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
+      "other": "Zamień przypominajkę Przyzywacza na odpowiedni numer nocy. :reminder: Jeżeli to noc 3-cia, Przyzywacz wybiera gracza i postać Demona. Uśpij Przyzywacza. Obudź wybranego gracza. Pokaż mu kartę *JESTEŚ*, kciuk w dół (zły) i wybrany żeton Demona."
     },
     "sweetheart": {
       "ability": "Gdy umrzesz, od tego momentu 1 gracz staje się pijany .",
