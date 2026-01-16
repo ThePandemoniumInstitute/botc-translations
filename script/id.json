@@ -1,4 +1,11 @@
 {
+  "author": "Penulis",
+  "by-author-isolated": "oleh",
+  "characters": "Karakter-karakter",
+  "close": "Tutup",
+  "ctxmenu": {
+    "draft": "Draf"
+  },
   "edition": {
     "carousel": "Korsel",
     "custom": "Kustom"
@@ -9,11 +16,14 @@
       "share": "Bagikan"
     }
   },
+  "help": "Bantuan",
+  "import-description-kb": "atau tempel JSON / URL (Ctrl+V / ⌘V)",
   "keyword": {
     "fabled": "Fabel|Fabel",
     "minion": "Antek|Antek-Antek",
     "traveller": "Pengunjung|Pengunjung-pengunjung"
   },
+  "name": "Nama",
   "settings": {
     "display-and-ui-heading": "Tampilan dan Antarmuka Pengguna",
     "font-size-larger": "Besar",
@@ -21,7 +31,9 @@
     "language": "Bahasa",
     "script-type-standard": "Standar"
   },
+  "settings-menu": "Pengaturan",
   "tour": {
+    "final-heading": "Nikmati!",
     "welcome-heading": "Selamat datang!"
   }
 }
