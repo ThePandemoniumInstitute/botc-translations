@@ -289,7 +289,6 @@
       "error_size_text": "Skrypt, który wybrałeś ma wielkość {0}MB, ale dopuszczalna wielkość wynosi {1}MB.",
       "homebrew_description": "Niestandardowe obrazy z Przemyconego skryptu zostały zastąpione generycznymi ikonami z powodów bezpieczeństwa. Można je włączyć w Ustawieniach.",
       "homebrew_title": "Niestandardowe obrazy wyłączone",
-      "release_script": "Skrypt publikacji postaci {role}:",
       "theme": "Motyw:",
       "theme_generic": "Motyw standardowy:",
       "title": "Wybierz skrypt:",

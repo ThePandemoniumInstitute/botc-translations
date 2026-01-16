@@ -286,7 +286,6 @@
       "error_size_text": "Das von dir ausgewählte Skript ist {0}MB gross, aber die maximal zulässige Dateigrösse ist {1}MB.",
       "homebrew_description": "Inoffizielle Bilder von Eigenbauskripten wurden aus Sicherheitsgründen durch Standard-Grafiken ersetzt. Du kannst die Anzeige dieser Eigenbaubilder in den Einstellungen aktivieren.",
       "homebrew_title": "Eigenbaubilder Deaktiviert",
-      "release_script": "{role} Debütskript:",
       "theme": "Theme:",
       "theme_generic": "Generisches Theme:",
       "title": "Wähle ein Skript:",

@@ -289,7 +289,6 @@
       "error_size_text": "選択した台本のファイルサイズは {0} MBですが、最大は {1}MB以下です。",
       "homebrew_description": "セキュリティー上、カスタム役職のカスタム画像が汎用のものに置き換えられました。設定メニューから有効にできます。",
       "homebrew_title": "カスタム画像が無効化",
-      "release_script": "{role}の役職リリース台本：",
       "theme": "テーマ：",
       "theme_generic": "一般的なテーマ:",
       "title": "エディションを選択：",

@@ -292,7 +292,6 @@
       "error_size_text": "Yer ledger be too big! It be {0}MB, we can only carry {1}MB.",
       "homebrew_description": "These counterfeit stations have portraits which mayhap be dangerous. Ye can choose to see them if ye adjust the rigging.",
       "homebrew_title": "No Counterfeit Portraits",
-      "release_script": "Invite the {role} to yer ship:",
       "theme": "Trimmings:",
       "theme_generic": "Normal trimmings:",
       "title": "Pick yer sea:",

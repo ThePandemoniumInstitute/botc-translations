@@ -292,7 +292,6 @@
       "error_size_text": "Este guion que eligió tiene el tamaño de {0}MB, pero el tamaño máximo es de {1}MB.",
       "homebrew_description": "Por razones de seguridad, las imágenes personalizadas para guiones Caseras han sido reemplazadas por iconos genéricos. Puede habilitarlas a través del menú de Configuraciones.",
       "homebrew_title": "Imágenes Personalizadas Desactivadas",
-      "release_script": "Guion de Lanzamiento del Personaje {role}:",
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Elija una edición:",

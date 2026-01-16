@@ -286,7 +286,6 @@
       "error_size_text": "您上传的文件({0}MB)已经超过了允许的文件大小上限({1}MB)。",
       "homebrew_description": "为了运行安全，剧本中的自定义图标已经被替换成通用图标。您能够通过设置菜单重新显示他们。",
       "homebrew_title": "已禁用自定义图片",
-      "release_script": "{role} 角色首发剧本：",
       "theme": "主题：",
       "theme_generic": "通用主题：",
       "title": "选择一个剧本：",

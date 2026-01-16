@@ -292,7 +292,6 @@
       "error_size_text": "O Cenário que você selecionou tem um tamanho de {0}MB, mas o tamanho máximo é de {1}MB.",
       "homebrew_description": "Imagens personalizadas de Cenários Caseiros foram substituídas por ícones genéricos por motivos de segurança. Você pode ativá-las no menu Configurações.",
       "homebrew_title": "Imagens personalizadas desabilitadas",
-      "release_script": "Cenário de lançamento do personagem {role}:",
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Selecione uma edição:",

@@ -287,7 +287,6 @@
       "error_size_text": "Le script que vous avez choisi a une taille de {0} Mo, mais la taille maximale est de {1} Mo.",
       "homebrew_description": "Les images personnalisées des scripts Maison ont été remplacées par des icônes génériques pour des raisons de sécurité. Vous pouvez les autoriser dans les Paramètres.",
       "homebrew_title": "Images Personnalisées Désactivées",
-      "release_script": "Script de Publication du Rôle {role} :",
       "theme": "Thème :",
       "theme_generic": "Thème générique :",
       "title": "Choisir une édition :",

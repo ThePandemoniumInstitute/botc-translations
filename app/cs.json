@@ -286,7 +286,6 @@
       "error_size_text": "Vybraný scénář má velikost {0} MB, ale maximální velikost je {1} MB.",
       "homebrew_description": "Vlastní obrázky z vlastních scénářů byly z bezpečnostních důvodů nahrazeny obecnými ikonami. Můžete je povolit v nabídce Nastavení.",
       "homebrew_title": "Vlastní obrázky jsou zakázány",
-      "release_script": "Skript pro uvolnění postavy {role}:",
       "theme": "Téma:",
       "theme_generic": "Obecné téma:",
       "title": "Vybrat edici:",

@@ -289,7 +289,6 @@
       "error_size_text": "Het script dat je hebt geselecteerd heeft een grootte van {0}MB, maar de maximale grootte is {1}MB.",
       "homebrew_description": "Aangepaste afbeeldingen van Homebrew scripts zijn vervangen door generieke iconen vanwege veiligheidsredenen. Je kunt deze inschakelen in het Instellingen menu.",
       "homebrew_title": "Aangepaste afbeeldingen uitgeschakeld",
-      "release_script": "{role} karakteronthullingsscript:",
       "theme": "Thema:",
       "theme_generic": "Algemeen thema:",
       "title": "Selecteer een editie:",

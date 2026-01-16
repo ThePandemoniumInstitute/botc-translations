@@ -286,7 +286,6 @@
       "error_size_text": "Manuskriptet du valgte har en størrelse på {0}MG, men den maksimale størrelse er {1}MB.",
       "homebrew_description": "Tilpassede billeder fra Hjemmelavede manuskripter er blevet erstattet med generiske billeder, af sikkerhedsmæssige årsager. Du kan aktivere dem i Indstillinger.",
       "homebrew_title": "Tilpassede Billeder Deaktiveret",
-      "release_script": "{role} Manuskript til Karakterudgivelse:",
       "theme": "Tema:",
       "theme_generic": "Generisk tema:",
       "title": "Vælg en udgave:",

@@ -286,7 +286,6 @@
       "error_size_text": "Manuset du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
       "homebrew_description": "Egendefinerte bilder fra Homebrew-manus er erstattet med generiske ikoner av sikkerhetshensyn. Du kan aktivere dem via Innstillinger.",
       "homebrew_title": "Egendefinerte bilder skrudd av",
-      "release_script": "{role} Karakterutgivelsesmanus:",
       "theme": "Tema:",
       "theme_generic": "Generisk tema:",
       "title": "Velg en utgave:",

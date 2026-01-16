@@ -286,7 +286,6 @@
       "error_size_text": "Lo scenario selezionato ha una dimensione di {0}MB, ma la dimensione massima è {1}MB.",
       "homebrew_description": "Immagini personalizzate da scenari speciali sono state sostituite con icone generiche per ragioni di sicurezza. Puoi attivarle tramite il menù Opzioni.",
       "homebrew_title": "Immagini Personalizzate Disattivate",
-      "release_script": "{role}Scenario di Pubblicazione del Personaggio:",
       "theme": "Tema:",
       "theme_generic": "Tema generico:",
       "title": "Seleziona un'edizione:",

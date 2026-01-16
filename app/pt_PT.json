@@ -289,7 +289,6 @@
       "error_size_text": "O guião que escolheste tem um tamanho de {0}MB, mas o tamanho máximo são {1}MB.",
       "homebrew_description": "Imagens personalizades de guiões Homebrew foram substituídas com ícones genéricos por razões de segurança. Podes permiti-lo através to menu de Definições.",
       "homebrew_title": "Imagens Personalizadas Desactivadas",
-      "release_script": "Guião de Revelação do Personagem {role}:",
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Escolhe uma colecção:",

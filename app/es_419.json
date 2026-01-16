@@ -287,7 +287,6 @@
       "error_size_text": "El escenario que has seleccionado tiene un tamaño de {0}MB, pero el tamaño máximo es de {1}MB.",
       "homebrew_description": "Las imágenes personalizadas de los escenarios Homebrew han sido reemplazadas con íconos genéricos por razones de seguridad. Puedes habilitarlas en el menú de Configuración.",
       "homebrew_title": "Imágenes Personalizadas Desactivadas",
-      "release_script": "Escenario de Lanzamiento del Rol {role}:",
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Escoge una edición:",

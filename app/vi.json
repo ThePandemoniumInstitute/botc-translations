@@ -289,7 +289,6 @@
       "error_size_text": "Kịch bản bạn chọn có kích cỡ {0}MB, nhưng kích cỡ tối đa là {1}MB.",
       "homebrew_description": "Ảnh tùy chọn từ kich bản Tự Chế đã được thay thế bằng biểu tượng chung vì các lý do an toàn. Bạn có thể cho phép nó bằng menu Cài đặt.",
       "homebrew_title": "Vô Hiệu Hóa Hình Ảnh Tùy Chọn",
-      "release_script": "Kịch Bản Ra Mắt Nhân Vật {role}:",
       "theme": "Chủ đề:",
       "theme_generic": "Chủ đề chung:",
       "title": "Chọn thể loại:",

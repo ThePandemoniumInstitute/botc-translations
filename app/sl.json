@@ -292,7 +292,6 @@
       "error_size_text": "Skripta, ki je izbrana, je velika {0}MB, največja velikost pa je {1}MB.",
       "homebrew_description": "Lastne slike za skripte z doma narejenimi liki, smo iz varnostnih razlogov zamenjali z generičnimi slikami. Svoje slike lahko potrdite v meniju z nastavitvami.",
       "homebrew_title": "Slike po meri niso na voljo",
-      "release_script": "Skripta za izdajo novega lika, {role} :",
       "theme": "Tema:",
       "theme_generic": "Splošna tema:",
       "title": "Izberi izdajo:",

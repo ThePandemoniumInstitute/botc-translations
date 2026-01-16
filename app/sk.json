@@ -286,7 +286,6 @@
       "error_size_text": "Scenár, ktorý ste vybrali má veľkosť {0}MB, ale maximálna veľkosť je {1}MB.",
       "homebrew_description": "Vlastné obrázky zo scenárov Domáceho Varu boli vymenené za všeobecné ikony pre bezpečnostné dôvody. Môžete ich povoliť v Nastaveniach.",
       "homebrew_title": "Vlastné Obrázky sú Vypnuté",
-      "release_script": "Scenár Novo Vydanej Postavy {role} :",
       "theme": "Téma:",
       "theme_generic": "Obecná téma:",
       "title": "Vybrať edíciu:",
