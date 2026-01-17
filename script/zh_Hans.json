@@ -1,1 +1,3 @@
-{}
+{
+  "external-image-confirm": "您确定要允许显示自定义图片吗？恶意脚本文件作者可能通过此方式追踪您的IP地址。The Pandemonium Institute 无法在 App 中控制其他用户提供的图片内容。"
+}
