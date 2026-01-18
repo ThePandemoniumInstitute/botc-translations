@@ -18,6 +18,7 @@
     "button_search": "搜索",
     "button_send": "发送",
     "cookie_policy": "Cookie 政策",
+    "moderation_policy": "游戏管理政策",
     "privacy_policy": "隐私政策",
     "session-tags": {
       "cameras": {
@@ -74,6 +75,7 @@
     },
     "demon": "恶魔",
     "fabled": "传奇角色",
+    "loric": "奇遇角色|奇遇角色",
     "minion": "爪牙",
     "outsider": "外来者",
     "phases": {
@@ -107,7 +109,7 @@
     "error_audio3": "您可能需要在火狐浏览器开启“{0}”以接收音频。",
     "error_audio4": "改变设置",
     "fullscreen": "全屏模式",
-    "gather": "集合玩家",
+    "gather": "添加玩家",
     "gong_attention": "锣声通知",
     "gong_recall": "让大家回到城镇广场",
     "grim_access": "您已获得查看魔典的权限",
@@ -120,6 +122,7 @@
     "night_info": "夜晚信息",
     "night_info_text": "说书人今晚唤醒过了你！",
     "night_sheet": "夜晚顺序表",
+    "npcs": "添加 NPC",
     "prompt_clear_player": "您确定要移除所有的玩家角色和提示标记吗？",
     "prompt_clear_st": "本操作将清空本场游戏中您与其他玩家所使用的魔典以及所有的提示标记，您确定要清空吗？",
     "prompt_clear_title": "清空魔典和提示标记",
@@ -182,6 +185,9 @@
         "claiming": "请求坐席发生错误",
         "clear_grim": "无法清空魔典",
         "connection": "网络连接错误",
+        "create_generic": "服务器无法为您创建会话。",
+        "create_rate_limit": "您需要等待一段时间才能再次创建游戏房间。",
+        "create_session_exists": "已经存在与此同名的游戏会话。",
         "edition_change": "切换剧本时发生了错误",
         "end": "结束游戏的操作发生了错误",
         "eyes_close": "无法闭眼",
@@ -197,6 +203,7 @@
         "missing_roles": "当前游戏会话包含了一些无法被加载的自定义角色。请在使用之前载入这些丢失的角色：{0}",
         "missing_roles_title": "加载自定义角色时发生了错误",
         "move_player": "无法移动玩家",
+        "npcs": "更新 NPC 时出现了问题",
         "offline": "服务器似乎已离线",
         "remove_player": "无法移除玩家",
         "remove_storyteller": "无法移除说书人",
@@ -286,6 +293,7 @@
       "error_size_text": "您上传的文件({0}MB)已经超过了允许的文件大小上限({1}MB)。",
       "homebrew_description": "为了运行安全，剧本中的自定义图标已经被替换成通用图标。您能够通过设置菜单重新显示他们。",
       "homebrew_title": "已禁用自定义图片",
+      "monthly_script": "本月推荐剧本：",
       "theme": "主题：",
       "theme_generic": "通用主题：",
       "title": "选择一个剧本：",
@@ -304,6 +312,9 @@
       "text2": "您可以通过 {0}页面或 {1} 提交反馈。您可以更新您帐户的电子邮箱地址和密码 {2}。如果您想购买实体游戏，请查看 {3}。",
       "welcome": "欢迎来到 {0}！"
     },
+    "npc": {
+      "title": "添加一个 非玩家角色"
+    },
     "reminder": {
       "custom_favorite": "已保存为 我的最爱",
       "custom_note": "自定义笔记",
@@ -318,10 +329,11 @@
       "error_traveller": "没有找到符合 {0} 的旅行者。",
       "tab_character": "可用角色",
       "tab_traveller": "其他旅行者",
-      "title": "选择一个 {alignment} {target}",
+      "title": "选择一个 {alignment} {type}{target}",
       "title_alignment_e": "邪恶阵营",
       "title_alignment_g": "善良阵营",
       "title_alignment_r": "常规阵营",
+      "title_target": "给 {0}",
       "title_type_bluff": "伪装",
       "title_type_character": "角色"
     },
@@ -354,6 +366,18 @@
       "image_text": "您确定要允许显示自定义图片吗？恶意脚本文件作者可能通过此方式追踪您的IP地址。The Pandemonium Institute 无法在 App 中控制其他用户提供的图片内容。",
       "image_title": "允许使用自定义图片",
       "nomination": {
+        "bigwig": {
+          "text": "每个被提名者要选择一名玩家：在投票前，只有他可以发言，并且他要“疯狂”地证明被提名者是善良的，否则他可能死亡。",
+          "title": "首席律师"
+        },
+        "focus": {
+          "text": "被提名者的发言将更容易受到大家的关注。",
+          "title": "聚焦于被提名者"
+        },
+        "phases": {
+          "text": "只有提名者和被提名者可以说话。",
+          "title": "指控 & 辩护"
+        },
         "regular": {
           "text": "每个玩家都可以随时聊天。",
           "title": "常规"
@@ -385,6 +409,7 @@
       "setting_english": "额外显示角色英文名",
       "setting_gain": "音频增益",
       "setting_general_volume": "整体音量",
+      "setting_grimoire_offset": "魔典偏移距离",
       "setting_homebrew": "显示自定义图片/自制图标",
       "setting_microphone": "麦克风",
       "setting_mute_audio": "静音",
@@ -434,7 +459,7 @@
         "modalSettings": "设置",
         "modalShortcuts": "快捷键",
         "modalUsers": "用户",
-        "modeGather": "集合玩家",
+        "modeGather": "添加玩家",
         "raiseHand": "举手",
         "revealGrimoire": "揭晓魔典",
         "setTimer": "设定计时器",
@@ -442,6 +467,7 @@
         "toggleAudioMuted": "静音麦克风/按住说话",
         "toggleEdition": "选择剧本",
         "toggleFullscreen": "全屏模式",
+        "toggleNPCs": "添加 非玩家角色",
         "toggleNight": "切换夜晚阶段",
         "toggleNightOrder": "夜晚顺序",
         "toggleNightSignal": "显示夜晚信息",
@@ -540,6 +566,8 @@
       "received": "已接收",
       "response": "回复：",
       "saw_this": "{0} 看到了",
+      "select_everyone": "选择所有人",
+      "selected_players": "被选中的玩家",
       "sent": "已发送",
       "storyteller": "说书人|说书人",
       "title": "唤醒 {0}",
@@ -701,10 +729,11 @@
       "title": "欢迎来到{0}。"
     },
     "vote": {
-      "accusation": "指控",
-      "button_chat": "打开聊天",
+      "accusation": "提名者",
+      "button_chat": "恢复聊天",
+      "button_clear_selection": "清空选择",
       "button_countdown": "倒计时",
-      "button_defense": "转为反对",
+      "button_defense": "被提名者发言",
       "button_hand_down": "放下",
       "button_hand_up": "举手",
       "button_mark": "标记",
@@ -713,9 +742,13 @@
       "button_reset": "重置",
       "button_restart": "重新开始",
       "button_resume": "恢复",
+      "button_select_player": "选择玩家",
+      "button_set_highscore": "手动设置最高得票",
       "button_start": "开始",
+      "choose_defense_attorney": "选择一名玩家为你辩护！",
       "countdown_go": "开始",
-      "defense": "反对",
+      "defense": "被提名者",
+      "defense_attorney": "辩护律师",
       "highscore_placeholder": "最高票数",
       "highscore_text": "输入一个数字以代表今天的最高票数\n或者留空以采用常规结算。",
       "highscore_title": "修改最高票数",
@@ -753,6 +786,8 @@
       "title": "请校准您的设备时钟"
     },
     "lobby": {
+      "bootlegger_title": "注意！",
+      "bootlegger_warning": "本局游戏加入了奇遇角色 - 私货商人，意味着它包含了非官方的自定义规则或角色，更适合有经验的玩家。\n如果你是《染·钟楼谜团》的新手，我们建议你先熟悉标准规则和角色，可以从官方基础剧本开始。《暗流涌动》非常适合你作为新手的游戏体验！\n不过，无论如何我们欢迎你的到来！\n你确定要加入本局游戏吗？",
       "button_create_game": "创建游戏房间",
       "button_help": "帮助",
       "button_join_game": "加入私人游戏",
@@ -774,6 +809,7 @@
       "language": "语言",
       "loading": "游戏加载中...",
       "no_games": "当前没有公开游戏。",
+      "npcs": "非玩家角色",
       "page": "第 {page} / {total} 页",
       "phase": "游戏进度",
       "players": "玩家",
@@ -788,6 +824,7 @@
       "welcome": "欢迎来到 {0}！"
     },
     "login": {
+      "accept_policies": "接受我们的 {0}、{1}、{2}&{3}。",
       "description": "请登录或注册以继续：",
       "email": "电子邮箱",
       "error_captcha": "请完成验证码",
@@ -835,7 +872,7 @@
       "whisper": "发送文本信息"
     },
     "name": {
-      "claim": "点此坐下",
+      "claim": "坐在这里",
       "connecting": "该玩家正在连接至语音聊天。",
       "follow": "您正在跟随这名玩家。",
       "listening": "该玩家正在收听语音聊天。",
@@ -852,7 +889,8 @@
       "night_info_received": "已接收的夜晚信息",
       "night_info_sent": "已发送的夜晚信息",
       "nominate": "提名该玩家",
-      "point": "指向该玩家"
+      "point": "指向该玩家",
+      "select": "选择这名玩家"
     },
     "reminders": {
       "add": "添加提示标记",
@@ -915,7 +953,8 @@
       "error_save": "保存文件时发生了错误",
       "jinxes": "相克规则",
       "other_nights": "非首夜",
-      "popout": "弹出 角色 标签页"
+      "popout": "弹出 角色 标签页",
+      "popout_window": "在新窗口打开角色标签页"
     },
     "characters": {
       "title": "角色"
@@ -961,8 +1000,14 @@
       "spectator": "旁观者",
       "title": "语音"
     },
+    "night": {
+      "popout": "弹出夜晚顺序表",
+      "toggle": "切换夜晚顺序表"
+    },
     "npcs": {
-      "remove_fabled": "移除传奇角色"
+      "remove_fabled": "移除传奇角色",
+      "remove_loric": "移除奇遇角色",
+      "title": "NPC"
     },
     "text": {
       "channels": {
@@ -1043,6 +1088,7 @@
     "since": "自 {0} 起",
     "translation_disclaimer": "您目前正在使用App的本地化版本。此版本的翻译由以下志愿者创建和审核，他们与 The Pandemonium Institute 无关：",
     "translation_game": "The Pandemonium Institute 无法保证此版本的游戏翻译内容与官方英文游戏规则完全一致。",
+    "travellers_alive": "{0} / {1} 名旅行者存活",
     "update": "请更新版本！",
     "updating": "正在更新 App 到 {0} 版本...",
     "warning_browser": "您当前正在使用的浏览器版本过于老旧/不受到支持",
