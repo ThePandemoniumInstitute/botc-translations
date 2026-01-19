@@ -889,7 +889,7 @@
     "locked": "Narradores y Jugadores",
     "locked_text": "Solo jugadores sentados y los Narradores actuales pueden unirse a la sesión.",
     "name_placeholder": "Nombre de la sesión",
-    "open_text": "Todos se pueden unirse a la sesión.",
+    "open_text": "Cualquiera puede unirse a la sesión.",
     "prompt_public_text": "¿Estás seguro de que quieres hacer la sesión de juego visible al público?\nEsto permitirá que cualquiera se pueda unir a la partida.",
     "prompt_public_title": "Hacer pública la sesión",
     "server": "Servidor del chat:",
