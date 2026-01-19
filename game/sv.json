@@ -368,7 +368,7 @@
     },
     "bountyhunter": {
       "ability": "I början vet du 1 ond spelare. Om hen dör får du veta en annan ond spelare inatt. [1 Bybo är ond]",
-      "first": "Peka på spelaren markerad *VISAD*. ",
+      "first": "Peka på spelaren markerad *VISAD*.",
       "flavor": "Ensam strövar jag på dessa gator, belagda med korruption. Dess stank nästlar sig in i näsan, som bränner av avsmak. Och förväntan. Denna erbarmliga plats blir sjukare för var natt som går. Och jag… jag är boten.",
       "name": "Prisjägaren",
       "other": "Om spelaren märkt *VISAD* dog idag eller inatt, peka på en ny spelare markerad *VISAD*."
@@ -753,7 +753,7 @@
       "first": "Kazali väljer vilka spelare som är vilka Kumpaner. Väck varje Kumpan. Visa kortet *DU ÄR* och Kumpanbrickan och ge tummen ner.",
       "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig.",
       "name": "Kazali",
-      "other": "Kazali väljer en spelare. :reminder: "
+      "other": "Kazali väljer en spelare. :reminder:"
     },
     "king": {
       "ability": "Varje natt med minst lika många döda som levande spelare får du veta 1 levande roll. Demonen vet att du är Kungen.",
