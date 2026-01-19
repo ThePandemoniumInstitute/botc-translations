@@ -401,8 +401,7 @@
     "cannibal": {
       "ability": "Du har samma förmåga som den som sist dog av avrättning. Om hen är ond är du förgiftad tills en god spelare dör av avrättning.",
       "flavor": "Jag tyckte mycket om din make. Han var en god man.",
-      "name": "Kannibalen",
-      "other": "INGET BLAD = INGEN TEXT"
+      "name": "Kannibalen"
     },
     "cerenovus": {
       "ability": "Varje natt väljer du en spelare och en god roll; hen är ”galen” om att hen är den rollen imorgon, annars kanske hen avrättas.",
