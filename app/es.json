@@ -18,6 +18,7 @@
     "button_search": "Buscar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
+    "moderation_policy": "Política de Moderación",
     "privacy_policy": "Política de Privacidad",
     "session-tags": {
       "cameras": {
@@ -800,6 +801,7 @@
       "welcome": "¡Bienvenido a {0}!"
     },
     "login": {
+      "accept_policies": "Aceptar nuestras {0}, {1}, {2} y {3}.",
       "description": "Por favor, inicia sesión o regístrate para continuar:",
       "email": "Cuenta de correo electrónico",
       "error_captcha": "Por favor completa el captcha",
