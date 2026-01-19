@@ -60,5 +60,48 @@
     "shroud": "Rahap",
     "token": "Token",
     "traveller": "Pengunjung|Pengunjung-pengunjung"
+  },
+  "pages": {
+    "banned": {
+      "footer2": "Ingat:"
+    },
+    "clock": {
+      "description_online": "online"
+    },
+    "lobby": {
+      "button_help": "Bantuan",
+      "button_mod": "Mod",
+      "button_quit": "Keluar",
+      "free_tier_free": "Gratis",
+      "free_tier_patreon": "Patreon",
+      "game": "Permainan",
+      "language": "Bahasa",
+      "phase": "Tahap",
+      "script": "Skrip",
+      "stats_public": "umum",
+      "storyteller": "Pendongeng"
+    },
+    "login": {
+      "password": "Kata sandi"
+    }
+  },
+  "player": {
+    "menu": {
+      "wake": "Bangun"
+    }
+  },
+  "tabs": {
+    "text": {
+      "channels": {
+        "private": "Pribadi",
+        "public": "Umum"
+      }
+    }
+  },
+  "user": {
+    "statistics": "Statistika",
+    "stats_hidden": "Tersembunyi",
+    "stats_private": "Pribadi",
+    "stats_public": "Umum"
   }
 }
