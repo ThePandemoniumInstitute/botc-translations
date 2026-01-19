@@ -368,7 +368,7 @@
     },
     "bountyhunter": {
       "ability": "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]",
-      "first": "Point to the player marked *KNOW*. ",
+      "first": "Point to the player marked *KNOW*.",
       "flavor": "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure.",
       "name": "Bounty Hunter",
       "other": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*."
