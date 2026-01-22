@@ -57,7 +57,7 @@
     "pinned": "Fijado",
     "pinned-details": "Una personaje fijado se queda donde esta, incluso si el acomodo automático está activado."
   },
-  "delete-script-confirmation": "¿Estás segure que desea borrar este guion? Esta acción es irreversible.",
+  "delete-script-confirmation": "¿Estás seguro de querer eliminar este guion? Esta acción es irreversible.",
   "djinn-rules": "Reglas del Genie",
   "edition": {
     "base-three": "Básico",
@@ -77,7 +77,7 @@
     }
   },
   "export-menu": "Exportar menú",
-  "external-image-confirm": "¿Estás segure que desea permitir imágenes personalizadas? Un archivo de guion malicioso podría rastrear su dirección IP de esta manera. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otres usuaries de la aplicación.",
+  "external-image-confirm": "¿Estás seguro de que quieres permitir imágenes personalizadas? Un autor de archivos maliciosos podría rastrear tu dirección IP de esta forma. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otros usuarios de la aplicación.",
   "fabled-and-loric": "Fábulas y Lóricos",
   "filters": "Filtros",
   "help": "Ayuda",
