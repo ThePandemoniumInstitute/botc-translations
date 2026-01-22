@@ -360,7 +360,7 @@
       "css_confirm2": "Confirma que quieres conservar los cambios de CSS personalizados o se desactivarán automáticamente.",
       "css_text": "Puedes modificar la apariencia de la aplicación introduciendo una URL de un archivo CSS personalizado o el propio código CSS aquí. The Pandemonium Institute no se hace responsable del código CSS proporcionado por otros usuarios. ¡Cargar código CSS malicioso podría dañar tu aplicación!",
       "css_title": "Introduce CSS personalizado",
-      "image_text": "¿Está seguro de que quieres permitir imágenes personalizadas? Un autor de archivos maliciosos podría rastrear tu dirección IP de esta forma. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otros usuarios de la aplicación.",
+      "image_text": "¿Estás seguro de que quieres permitir imágenes personalizadas? Un autor de archivos maliciosos podría rastrear tu dirección IP de esta forma. The Pandemonium Institute no tiene control sobre las imágenes proporcionadas por otros usuarios de la aplicación.",
       "image_title": "Permitir imágenes personalizadas",
       "nomination": {
         "bigwig": {
@@ -778,7 +778,7 @@
     },
     "lobby": {
       "bootlegger_title": "¡Atención!",
-      "bootlegger_warning": "Esta sesión esta usando el Lórico del Contrabandista, lo cual significa que tiene reglas o personajes personalizados que no se encuentran en la versión oficial, y es mas adecuado para jugadores con esperiencia.\nSi es nueve a Blood on the Clocktower, le recomendamos familiarizarse primero con las reglas estándar y los personajes, usando uno de los guiones base oficiales. ¡Se Prepara Problemas es perfecto para un primer juego inolvidable.\nEn cualquier caso, bienvenide — ¡nos alegra tenerle aquí!\n¿Está segure que desea unir a esta sesión?",
+      "bootlegger_warning": "Esta sesión utiliza el Lóric del Contrabandista, que incluye personajes o reglas personalizadas que no son de la versión oficial y es más apropiado para jugadores expertos.\nSi eres nuevo jugando, te recomendamos familiarizarte primero con las reglas y personajes estándar usando uno de los guiones básicos oficiales. ¡Trouble Brewing es perfecto para la primera toma de contacto!\nEn cualquier caso, te damos la bienvenida — ¡nos alegra tenerte por aquí!\n¿Estás seguro de que quieres unirte a esta sesión?",
       "button_create_game": "Crear partida",
       "button_help": "Ayuda",
       "button_join_game": "Unirse a partida privada",
@@ -800,7 +800,7 @@
       "language": "Idioma",
       "loading": "Cargando partidas...",
       "no_games": "No se han encontrado partidas públicas.",
-      "npcs": "Personajes No Jugables",
+      "npcs": "Personajes no jugables",
       "page": "Página {page} de {total}",
       "phase": "Fase",
       "players": "Jugadores",
@@ -881,7 +881,7 @@
       "night_info_sent": "Información de noche enviada",
       "nominate": "Nominar jugador",
       "point": "Apuntar al jugador",
-      "select": "Seleccionar jugador"
+      "select": "Selecciona a este jugador"
     },
     "reminders": {
       "add": "Añadir recordatorio",
@@ -1060,8 +1060,8 @@
       "player_wins": "{0}% Victoria",
       "role": "Personajes iniciales\ndestacados",
       "st_evil_wins": "{0}% Victoria del Mal",
-      "storyteller": "Partidas\nNarradas",
-      "warning": "Las estadísticas se están generado...\n¡Compruébalo más tarde!"
+      "storyteller": "Partidas\nnarradas",
+      "warning": "Se están generando las estadísticas...\n¡Compruébalo más tarde!"
     },
     "stats_hidden": "Oculto",
     "stats_private": "Privado",
