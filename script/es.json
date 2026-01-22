@@ -99,7 +99,7 @@
     },
     "no-outsider-mod": {
       "msg": "Si los Forasteros no se pueden modificar, los jugadores del bando malo no pueden hacerse p asar por Forasteros de manera segura.",
-      "title": "No se pueden modificar los Forasteros."
+      "title": "No se pueden modificar los Forasteros"
     }
   },
   "keyword": {
@@ -165,7 +165,7 @@
   "show-all": "Todos los personajes",
   "show-script-analytics": "Mostrar analíticas del guion",
   "toast": {
-    "cannot-remove-bootlegger": "Hay personajes caseros en este guion, así que no puedes eliminar al Contrabandista (Bootlegger).",
+    "cannot-remove-bootlegger": "Hay personajes caseros en este guion, así que no puedes eliminar al Contrabandista.",
     "copied": "¡Copiado al portapapeles!"
   },
   "toggle-autosort": "Activar o desactivar orden automático",
