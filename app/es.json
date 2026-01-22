@@ -361,6 +361,12 @@
         "bigwig": {
           "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir."
         },
+        "focus": {
+          "text": "El jugador nominado tiene la atención del grupo."
+        },
+        "phases": {
+          "title": "Acusación y defensa"
+        },
         "regular": {
           "text": "Todo el mundo puede hablar como quiera.",
           "title": "Normal"
@@ -975,6 +981,9 @@
       "reset_position": "Reiniciar posición",
       "spectator": "Espectador",
       "title": "Voz"
+    },
+    "night": {
+      "popout": "Desplegar hoja de fase de noche"
     },
     "text": {
       "channels": {
