@@ -72,6 +72,7 @@
     "pdf": "Imprimir/Exportar PDF",
     "png": "Exportar PNG",
     "screenshot": {
+      "failed-embed": "No se han podido incorporar ciertos iconos en la imagen exportada",
       "save": "Guardar",
       "share": "Compartir"
     }
