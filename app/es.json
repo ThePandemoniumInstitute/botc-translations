@@ -184,7 +184,7 @@
         "claiming": "Error al reclamar el asiento",
         "clear_grim": "No se puede limpiar el Grimorio",
         "connection": "Se ha producido un error de conexión",
-        "create_rate_limit": "Debes esperar unos minutos antes de poder crear otra sesión.",
+        "create_rate_limit": "Debes esperar unos minutos antes de crear otra sesión.",
         "edition_change": "Error al cambiar de edición",
         "end": "Error al finalizar la partida",
         "eyes_close": "No puedes cerrar los ojos",
@@ -290,6 +290,7 @@
       "error_size_text": "El guion que has elegido es de {0}MB, pero el tamaño máximo es {1}MB.",
       "homebrew_description": "Las imágenes personalizadas de los guiones caseros han sido reemplazadas por iconos genéricos por razones de seguridad. Puedes habilitarlos en el menú de ajustes.",
       "homebrew_title": "Imágenes personalizadas deshabilitadas",
+      "monthly_script": "Guion del mes:",
       "theme": "Tema:",
       "theme_generic": "Tema genérico:",
       "title": "Elige una edición:",
@@ -740,7 +741,7 @@
       "defense": "Defensa",
       "defense_attorney": "Abogado defensor",
       "highscore_placeholder": "Mayor recuento de votos",
-      "highscore_text": "Ingrese un nuevo número para la puntuación más alta de la votación de hoy\no déjelo vacío para la mayoría habitual de votos de jugadores vivos.",
+      "highscore_text": "Introduce un nuevo número para la mayoría de la votación de hoy\no déjalo vacío para el cálculo habitual según los jugadores vivos.",
       "highscore_title": "Cambiar la Puntuación más Alta de la Votación",
       "majority": "La mayoría es {0} voto|La mayoría es {0} votos",
       "no_majority": "No se necesita la mayoría",
@@ -936,11 +937,11 @@
     },
     "character": {
       "download": "Descargar Guión JSON",
-      "error_popout": "Error creando una ventana",
+      "error_popout": "Error al crear una ventana",
       "error_save": "Error guardando fichero",
       "jinxes": "Djinns",
       "other_nights": "No la\n primera noche",
-      "popout": "Sacar pestaña de personajes"
+      "popout": "Desplegar pestaña de personajes"
     },
     "characters": {
       "title": "Personajes"
