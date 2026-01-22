@@ -183,6 +183,7 @@
         "claiming": "Error al reclamar el asiento",
         "clear_grim": "No se puede limpiar el Grimorio",
         "connection": "Se ha producido un error de conexión",
+        "create_rate_limit": "Debes esperar unos minutos antes de poder crear otra sesión.",
         "edition_change": "Error al cambiar de edición",
         "end": "Error al finalizar la partida",
         "eyes_close": "No puedes cerrar los ojos",
