@@ -92,6 +92,23 @@
     }
   },
   "tabs": {
+    "chat": {
+      "channels": {
+        "bmr_0": "Kedai",
+        "bmr_1": "Gubuk",
+        "bmr_2": "Rawa",
+        "bmr_3": "Rumah Pertanian",
+        "bmr_4": "Karavan",
+        "custom_1": "Menara",
+        "custom_2": "Katedral",
+        "snv_1": "Rumah Kaca",
+        "snv_3": "Kuil",
+        "tb_0": "Biara"
+      }
+    },
+    "npcs": {
+      "title": "NPC"
+    },
     "text": {
       "channels": {
         "private": "Pribadi",
