@@ -326,10 +326,10 @@
       "error_traveller": "No se ha encontrado ningún Viajero que coincida con {0}.",
       "tab_character": "Personajes disponibles",
       "tab_traveller": "Otros Viajeros",
-      "title": "Elige un {target} {type} {alignment}",
+      "title": "Elige un {type}{target} {alignment}",
       "title_alignment_e": "Malvado",
       "title_alignment_g": "Bueno",
-      "title_alignment_r": "normal",
+      "title_alignment_r": "Normal",
       "title_target": "para {0}",
       "title_type_bluff": "farol",
       "title_type_character": "personaje"
@@ -855,7 +855,7 @@
       "chat": "Solicitar chat privado",
       "empty": "Asiento vacío",
       "empty_text": "¿Estás seguro de que quieres eliminar a este jugador de su asiento mientras la partida está en curso?",
-      "empty_title": "Asiento Vacío de {0}",
+      "empty_title": "Asiento vacío de {0}",
       "follow": "Seguir Jugador",
       "nominate": "Nominarse a sí mismo",
       "unfollow": "Dejar de Seguir al Jugador",
@@ -887,7 +887,7 @@
       "add": "Añadir recordatorio",
       "edit": "Editar Recordatorio {0}",
       "edit_placeholder": "Nota personalizada",
-      "edit_text": "Editar la nota del recordatorio personalizado por {0}",
+      "edit_text": "Editar la nota del recordatorio personalizado para {0}",
       "edit_title": "Editar Recordatorio",
       "flip": "Voltear Recordatorio {0}",
       "remove": "Quitar Recordatorio {0}",
@@ -944,7 +944,7 @@
       "error_save": "Error guardando fichero",
       "jinxes": "Djinns",
       "other_nights": "No la\nprimera noche",
-      "popout": "Desplegar pestaña de personajes"
+      "popout": "Separar pestaña de personajes"
     },
     "characters": {
       "title": "Personajes"
@@ -991,7 +991,7 @@
       "title": "Voz"
     },
     "night": {
-      "popout": "Desplegar hoja de fase de noche"
+      "popout": "Separar hoja de fase de noche"
     },
     "npcs": {
       "remove_fabled": "Quitar Fábula",
