@@ -319,10 +319,10 @@
     },
     "barista": {
       "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter & får sann info, eller 2) dubblerar sin förmåga. Hen får veta vilket.",
-      "first": "Välj en spelare, väck hen och ge en fingersignal. :reminder:",
+      "first": "Välj en spelare. Väck hen, visa kortet *DU PÅVERKAS AV* och Baristans rollbricka, och ge en fingersignal. :reminder:",
       "flavor": "Kaffe utan grädde? Jag är hemskt ledsen, men grädden är slut – går det bra utan mjölk istället?",
       "name": "Baristan",
-      "other": "Välj en spelare, väck hen och ge en fingersignal. :reminder:"
+      "other": "Välj en spelare. Väck hen, visa kortet *DU PÅVERKAS AV* och Baristans rollbricka, och ge en fingersignal. :reminder:"
     },
     "baron": {
       "ability": "Det är extra Utbölingar i spel. [+2 Utbölingar]",
@@ -397,6 +397,12 @@
       "flavor": "Ja, herrn. Nej, herrn. Naturligtvis, herrn.",
       "name": "Butlern",
       "other": "Butlern väljer en spelare. :reminder:"
+    },
+    "cacklejack": {
+      "ability": "Varje dag väljer du en spelare: en annan spelare byter roll inatt.",
+      "flavor": "Sladd α Till sladd β. LjUs pÅ. LaRM av. TJohOpp! Armar UTåt. FingER mot näsan. håÅåålL st1LLa. BoiNgo-banGo! Ha ha ha!",
+      "name": "Kackeljack",
+      "other": "Välj en spelare utan påminnelsen *INTE JAG* innan gryningen. Väck spelaren. Visa infokortet *DU ÄR* och hens nya rollbricka."
     },
     "cannibal": {
       "ability": "Du har samma förmåga som den som sist dog av avrättning. Om hen är ond är du förgiftad tills en god spelare dör av avrättning.",
@@ -508,7 +514,7 @@
       "ability": "Varje dag får 3 spelare besöka dig. Inatt* får besökarna veta hur många besökare som var onda, men 1 får falsk info.",
       "flavor": "Bjudning mellan klockan sex och sju, på pricken. Te serveras 6.15. Scones 6.45. Kom inte sent. Aftonklädsel gäller, som alltid.",
       "name": "Hertiginnan",
-      "other": "Väck varje spelare märkt *BESÖKARE* eller *FALSK INFO* en i taget. Ge en fingersignal."
+      "other": "Väck varje spelare märkt *BESÖKARE* eller *FALSK INFO* en i taget. Visa kortet *DU PÅVERKAS AV* och Hertiginnans rollbricka, och ge en fingersignal."
     },
     "dusk": {
       "first": "Inled nattfasen.",
@@ -524,7 +530,7 @@
     },
     "engineer": {
       "ability": "En gång per spel, på natten, kan du välja vilka Kumpaner eller vilken Demon som är i spel.",
-      "first": "Ingenjören kanske väljer Kumpaner eller en Demon. Söv ingenjören. Väck berörda spelare en i taget, visa kortet *DU ÄR* och den nya rollen. :reminder:",
+      "first": "Ingenjören kanske väljer Kumpaner eller en Demon. Söv Ingenjören. Väck berörda spelare en i taget, visa kortet *DU ÄR* och den nya rollen. :reminder:",
       "flavor": "Det ska böjas i tid, det som krokigt ska bli. Och om det går av, ja, då behövde det väl ändå lagas.",
       "name": "Ingenjören",
       "other": "Ingenjören kanske väljer Kumpaner eller en Demon. Söv ingenjören. Väck berörda spelare en i taget, visa kortet *DU ÄR* och den nya rollen. :reminder:"
@@ -1052,7 +1058,8 @@
     "riot": {
       "ability": "Dag 3 blir Kumpaner till Kravallen och nominerade dör men nominerar en levande spelare direkt. Detta måste hända.",
       "flavor": "¡Larga vida a la revolución! ¡Mi revolución!",
-      "name": "Kravallen"
+      "name": "Kravallen",
+      "other": "Ändra Kravallens påminnelse till den aktuella dagen. :reminder: Om det är natt 3 får du väcka Kumpanerna. Visa kortet *DU ÄR* och Kravallbrickorna."
     },
     "sage": {
       "ability": "Om Demonen dödar dig får du veta att hen är 1 av 2 spelare.",
@@ -1126,7 +1133,7 @@
     },
     "snitch": {
       "ability": "Varje Kumpan får 3 bluffar.",
-      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa tre goda rollbrickor som inte är i spel.",
+      "first": "Väck varje Kumpan. Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa tre rollbrickor som inte är i spel.",
       "flavor": "Det var Johan.",
       "name": "Golaren"
     },
