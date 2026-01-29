@@ -682,6 +682,7 @@
     "harpy": {
       "ability": "Każdej nocy wybierz 2 graczy: jutro, pierwszy gracz ma obsesję, że drugi jest zły, inaczej jeden z nich lub oboje mogą umrzeć.",
       "first": "Harpia wybiera dwóch graczy. :reminder: :reminder: Uśpij Harpię. Obudź pierwszego gracza, pokaż mu kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Harpii, a następnie wskaż na drugiego gracza.",
+      "flavor": "Tak piękny dzień nie zdarzył się przede mną, lecz cień plugawy wisi dziś nade mną.",
       "name": "Harpia",
       "other": "Harpia wybiera dwóch graczy. :reminder: :reminder: Uśpij Harpię. Obudź pierwszego gracza, pokaż mu kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Harpii, a następnie wskaż na drugiego gracza."
     },
@@ -1000,6 +1001,7 @@
       "name": "Siewca Maku"
     },
     "preacher": {
+      "ability": "Każdej nocy wybierz gracza: Sługus, jeżeli wybrany, dowiaduje się o tym. Wszystkie wybrane w ten sposób Sługusy nie mają umiejętności.",
       "first": "Kaznodzieja wybiera gracza. :reminder: Jeżeli wybrał Sługusa: uśpij Kaznodzieję. Obudź wybranego gracza. Pokaż kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Kaznodziei.",
       "flavor": "Lepiej jest być bogatym i zdrowym, niż biednym i chorym.",
       "name": "Kaznodzieja",
@@ -1007,6 +1009,7 @@
     },
     "princess": {
       "ability": "Jeżeli pierwszego dnia w grze nominowałaś gracza i doszło do jego egzekucji, Demon nie zabije tej nocy.",
+      "flavor": "Nasze słowa są jak ogary, spętane jedwabnymi nićmi, drodzy Państwo. Niech życzliwość tka prawdę, aby nasze władanie się nie rozpruło rozdarłszy nasz dwór.",
       "name": "Księżniczka",
       "other": "Jeżeli Księżniczka nominowała gracza, który został stracony tego dnia, Demon budzi się normalnie, ale nikt nie umiera w wyniku umiejętności Demona. :reminder:"
     },
@@ -1044,6 +1047,7 @@
     },
     "revolutionary": {
       "ability": "Wiadomo, że 2 sąsiadujących graczy jest w tej samej drużynie. Raz na grę, jeden z nich może się pokazać niepoprawnie.",
+      "flavor": "Zjednoczeni, kłamaliśmy w zgodzie. Podzieleni, nie ruszyliśmy dalej.",
       "name": "Rewolucjonista"
     },
     "riot": {
@@ -1103,13 +1107,21 @@
       "name": "Pogromca"
     },
     "snakecharmer": {
-      "name": "Zaklinacz Węży"
+      "name": "Zaklinacz Węży",
+      "other": "Zaklinacz Węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół (zły). Zamień żeton Zaklinacza Wężów i Demona. Uśpij starego Zaklinacza Wężów. Obudź starego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza Węży oraz kciuk w górę (dobry). :reminder:"
     },
     "snitch": {
+      "ability": "Każdy ze Sługusów dostaje 3 blefy.",
+      "first": "Obudź każdego Sługusa. Pokaż kartę *TYCH POSTACI NIE MA W GRZE* i 3 żetony dobrych postaci, których nie ma w grze.",
+      "flavor": "To był John.",
       "name": "Kapuś"
     },
     "soldier": {
+      "flavor": "Jak Dawid rzekł do Goliata, jak Tezeusz rzekł do Minotaura, jak Arjuna rzekł do Bhagadatta... Nie.",
       "name": "Żołnierz"
+    },
+    "spiritofivory": {
+      "flavor": "Pustkowia wzywają. Kości obrastają mięsem, wtem rozpadają się w pył. Wielki duch rośnie. Wielki duch patrzy. Wielki duch prowadzi. Człowiek słucha, albo człowieka nie ma."
     },
     "spy": {
       "ability": "Każdej nocy zaglądasz do Grymuaru. Możesz pokazać się jako dobry i jako Mieszczanin lub Outsider, nawet po śmierci.",
@@ -1124,6 +1136,8 @@
       "flavor": "Jak ŚMIESZ oskarżać Jej Dostojność o takie występki? Znam ją moje całe życie! Wszystkie dziewięć lat!"
     },
     "stormcatcher": {
+      "ability": "Wymień dobrą postać. Jeżeli w grze, może umrzeć jedynie w skutek egzekucji, ale źli gracze dowiadują się który to gracz.",
+      "first": "Ogłoś, która postać jest pod ochroną Łapacza Burzy. Jeżeli ta postać jest w grze, oznacz ją przypominajką *BEZPIECZNY*. Obudź każdego złego gracza i pokaż żeton postaci, następnie wskaż gracza. Jeżeli nie ma jej w grze, obudź każdego złego gracza, pokaż kartę *TYCH POSTACI NIE MA W GRZE* i żeton odpowiedniej postaci.",
       "name": "Łowca Burz"
     },
     "summoner": {
