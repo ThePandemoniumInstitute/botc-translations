@@ -239,6 +239,7 @@
   "roles": {
     "acrobat": {
       "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz.",
+      "flavor": "Witajcie, ty i wy wszyscy, na największym przedstawieniu na ziemi.",
       "name": "Akrobata",
       "other": "Akrobata wybiera gracza. :reminder:"
     },
@@ -252,6 +253,7 @@
       "name": "Al-Hadikhia"
     },
     "alsaahir": {
+      "flavor": "Jestem tutaj dzięki tobie i ty jesteś tu dzięki mnie.",
       "name": "Alsaahir"
     },
     "amnesiac": {
@@ -262,6 +264,7 @@
       "other": "Jeżeli trzeba, odpal umiejętność Sklerotyka."
     },
     "angel": {
+      "flavor": "Niech ci, którzy są bez grzechu, odważą się podnieść rękę na moich wybrańców, albowiem powalę takich głupców z furią i sprawiedliwością tysiąca burz.",
       "name": "Anioł"
     },
     "apprentice": {
@@ -270,6 +273,7 @@
     },
     "artist": {
       "ability": "Raz na grę, podczas dnia, prywatnie zapytaj Bajarza dowolne tak/nie pytanie.",
+      "flavor": "Mon Dieu! C'est lumineux! Moje dzieło, ono jest... jak to powiedzieć... Magnifique! Dieu est révélé! Oui.",
       "name": "Artysta"
     },
     "assassin": {
@@ -277,6 +281,7 @@
       "name": "Skrytobójca"
     },
     "atheist": {
+      "flavor": "Odrzućmy zbędne domysły i niedorzeczną paranoję. Dla wszystkiego istnieje całkowicie racjonalne wyjaśnienie. Tak, być może gdzieś wokół planety krąży filiżanka, zbyt mała, by ją dostrzec — ale ja napiję się herbaty z tej prawdziwej, porcelanowej, którą trzymam w dłoniach.",
       "name": "Ateista"
     },
     "balloonist": {
@@ -292,9 +297,11 @@
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
     "barber": {
+      "flavor": "Czy wiesz, że fryzjerstwo i chirurgia były kiedyś częścią tej samej profesji? Nie? No to teraz już wiesz.",
       "name": "Balwierz"
     },
     "barista": {
+      "flavor": "Kawa bez śmietanki, Monsieur? Najserdeczniej przepraszam, ale właśnie skończyła nam się śmietanka - może bez mleka?",
       "name": "Barista"
     },
     "baron": {
@@ -303,6 +310,7 @@
       "name": "Baron"
     },
     "beggar": {
+      "flavor": "Jałmużna dla biednych, dobry panie? Grosik, pani dobrodziejko? Dziękuję, niech Bóg błogosławi! Serce macie dobre, co się zowie! Dziś to sobie królewsko podjem, oj tak!",
       "name": "Żebrak"
     },
     "bigwig": {
@@ -316,36 +324,53 @@
     },
     "boffin": {
       "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
+      "flavor": "Wodór gwiazd, bezkresny i bezwładny; węgiel, tlen, neon — wszystko obrócone w niwecz. Z molekularnego chaosu i entropii rodzą się nowe cuda kosmosu — odrodzenie z atomowego bezładu, materia gęstnieje, zapada się w sobie. A wszystko to — w maleńkiej buteleczce.",
       "name": "Laborant"
     },
     "bonecollector": {
+      "flavor": "Kolekcjonuje wiele rzeczy. Włosy. Zęby. Ubrania. Fragmenty wierszy. Sny zaginionych kochanków. Tajemnice mojej sztuki nie są dla ciebie, ale zapłata to tylko drobnostka. Przynieś mi krwi szlachcianki, która umarła z powodu pękniętego serca pod pełnym księżycem, a otrzymasz swoje odpowiedzi.",
       "name": "Kolekcjoner Kości"
     },
+    "boomdandy": {
+      "flavor": "Tik... Tik... Tik... TAK."
+    },
+    "bootlegger": {
+      "flavor": "Mam właśnie najnowszą dostawę z domu, coś co nazywają \"Księżycówką\". Chcesz spróbować?"
+    },
     "bountyhunter": {
+      "flavor": "Samotnie, przemierzam te ulice, wybrukowane chorobliwym smrodem zepsucia. Ten odór wpełza w moje nozdrza, pali obrzydzeniem... i żarem oczekiwania. Choroba jątrząca te plugawe miejsce rozrasta się co noc. Lecz ja... ja jestem lekarstwem.",
       "name": "Łowca Nagród"
     },
     "buddhist": {
+      "flavor": "Rzucasz cierniami. Opadając w mojej ciszy, stają się kwiatami.",
       "name": "Buddysta"
     },
     "bureaucrat": {
+      "flavor": "Podpisać tutaj. I tutaj. I tutaj. I tuuu. Ta, wszystko powinno być policzone i rozpatrzone do końca dnia, zakładając oczywiście że wszystkie podpisy są czytelne. Nie mieliśmy żadnej pomyłki w papierach od wieków. Wczorajszego popołudnia, jeśli mnie pamięć nie myli...",
       "name": "Biurokrata"
     },
     "butcher": {
+      "flavor": "Smakuje jak kurczak. Więcej proszę.",
       "name": "Rzeźnik"
     },
     "butler": {
+      "flavor": "Tak, proszę Pana... Nie, proszę Pana... Oczywiście, proszę Pana.",
       "name": "Lokaj"
     },
     "cacklejack": {
+      "flavor": "Przewód α Do przewodu β. WłĄczyć. BrzĘczyK wyłĄczony. GAzOinks! Ramiona proSt0. Palęc do n0$a. tEraaaZz nie ru$ZaĆ siĘ. BoiNgo-banGo! Ha-ha-ha!",
       "name": "Cacklejack"
     },
     "cannibal": {
+      "flavor": "Nie lubię klaunów. Dziwnie smakują.",
       "name": "Kanibal"
     },
     "cerenovus": {
+      "flavor": "Rzeczywistość to kwestia opinii. Konkretnie, mojej opinii.",
       "name": "Cerenovus"
     },
     "chambermaid": {
+      "flavor": "Nie widziałam niczego osobliwego, Milady. Najmocniej przepraszam, ale gdybym coś widziała, to z całą pewnością nie był to pan domu zakradający się do laboratorium profesora około jedenastej i przyrządzający jakąś fikuśną miksturę, tak jak pani wspominała, Panienko.",
       "name": "Pokojówka"
     },
     "chef": {
@@ -355,13 +380,16 @@
       "name": "Kucharz"
     },
     "choirboy": {
+      "flavor": "Widziałem to, naprawdę. Byłem za ławkami, układałem śpiewniki, gdy okropny dźwięk wydobył się z organ. Organista miał długą pelerynę, i długie palce spoczywające na klawiszach. I kapelusz który wyglądał... wyglądał zupełnie... jak twój.",
       "name": "Chórzysta"
     },
     "clockmaker": {
+      "flavor": "Nie przeszkadzać. Tykanie musi trwać, bo okrąg jest symbolem życia i zawiera wszystko - każde odpowiedzi - w swej świętej machinacji. Musi działać.",
       "name": "Zegarmistrz"
     },
     "courtier": {
       "ability": "Raz na grę, w nocy, wybierz postać: jest ona pijana przez 3 dni i 3 noce.",
+      "flavor": "Bardziej się boję armii stu owiec przewodzonej przez jednego lwa, niż armii stu lwów przewodzonej przez jedną owcę.",
       "name": "Dworzanin"
     },
     "cultleader": {
@@ -385,7 +413,11 @@
       "first": "Jeżeli w grze jest 7 lub więcej graczy, obudź Demona: Pokaż kartę *TO SĄ TWOI SŁUGUSI*. Wskaż każdego Sługusa. Pokaż kartę *POSTACIE, KTÓRYCH NIE MA W GRZE*. Pokaż 3 żetony dobrych postaci, których nie ma w grze.",
       "name": "Informacje dla Demona"
     },
+    "deusexfiasco": {
+      "flavor": "To nie błąd, to funkcja. To nie usterka, tylko poprawka. To nie jest zepsute, to po prostu tak ma."
+    },
     "deviant": {
+      "flavor": "Toż to był żart tej damy, zaprawdę.",
       "name": "Dewiant"
     },
     "devilsadvocate": {
@@ -397,7 +429,11 @@
       "name": "Dżinn"
     },
     "doomsayer": {
+      "flavor": "I Siódmego Dnia, nadejdzie wielka powódź i zaraza spadnie na ludzi miasteczka Kruków! Martwi powstaną, a żywi będą pokutować! O trwogo! O Przeklęty dniu! Tylko dzięki wielkiej ofierze przetrwają! Tako rzecze Mędrzec Nostrosa i tako rzecze Ja.",
       "name": "Wieszcz Zagłady"
+    },
+    "dreamer": {
+      "flavor": "Pamiętam zegarmistrza. Niebo było czerwone i padało fraktalnymi trójkątami. Czułem zapach fiołków i słyszałem, że coś bulgocze. Kobieta o świecących oczach i postrzępionej brodzie syczała na niebo. Wtedy się obudziłem."
     },
     "drunk": {
       "ability": "Nie wiesz, że jesteś Pijakiem. Myślisz, że jesteś Mieszczaninem, ale nim nie jesteś.",
@@ -405,6 +441,7 @@
       "name": "Pijak"
     },
     "duchess": {
+      "flavor": "Będziemy przyjmować gości między godziną 6 a 7 dokładnie i bez zwłoki. Herbata zostanie podana o 6:15, a ciasteczka o 6:45. Spóźnienia nie będą tolerowane. Strój uroczysty, jak zawsze, bezwzględnie.",
       "other": "Obudź pojedynczo każdego gracza oznaczonego *ODWIEDZAJĄCY* albo *FAŁSZYWE INFORMACJE*. Pokaż im żeton Księżnej i ilość palców (1,2,3) równą liczbie złych graczy oznaczonych \"ODWIEDZAJĄCY\" albo, gdy budzisz gracza oznaczonego \"FAŁSZYWE INFORMACJE\", pokaż mu dowolną liczbę inną niż liczba graczy oznaczonych jako \"ODWIEDZAJĄCY\"."
     },
     "dusk": {
@@ -418,9 +455,11 @@
       "other": "Pokaż palcem."
     },
     "engineer": {
+      "flavor": "Jeśli się zgina, świetnie. Jeśli pęknie, cóż, prawdopodobnie i tak potrzebowało naprawy.",
       "name": "Inżynier"
     },
     "eviltwin": {
+      "flavor": "Ja nie jestem Sara! Ja jestem Klara! ONA jest Sara! Sara jest tą złą! Nie ja!",
       "name": "Zły Bliźniak"
     },
     "exorcist": {
@@ -429,25 +468,35 @@
     },
     "fanggu": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Pierwszy Outsider, którego tak zabijesz, staje się złym Fang Gu, a ty umierasz zamiast niego. [+1 Outsider]",
+      "flavor": "Wasze ściany i wasza broń są jako dym we snach.",
       "name": "Fang Gu",
       "other": "Fang Gu wybiera gracza. :reminder: Jeżeli wybrał Outsidera (tylko raz): Zamień żeton Outsidera na dodatkowy żeton Fang Gu. Uśpij Fang Gu i obudź cel. Pokaż kartę *JESTEŚ* i żeton Fang Gu i kciuk w dół. :reminder:"
     },
     "farmer": {
+      "flavor": "Nawet wysoko urodzeni i potężni potrzebują jedzenia na swoich stołach. Bez nas, miasto umrze z głodu.",
       "name": "Rolnik"
     },
     "fearmonger": {
+      "flavor": "Strzeż się patrzeć zbyt długo w Otchłań, aby Otchłań nie spojrzała w głąb ciebie.",
       "name": "Siewca Strachu"
     },
+    "fibbin": {
+      "flavor": "Ha-ha-ha. Ha-ha. Ha."
+    },
     "fiddler": {
+      "flavor": "Zakładam się o własne życie, że nie dasz mi rady w konkursie na skrzypce, ty zezowaty pawianie! Pójdziemy na całość, zbierzemy knajpianych grajków i zrobimy tłum. Rano skopię ci tyłek, ty hałaśliwy gamoniu.",
       "name": "Skrzypek"
     },
     "fisherman": {
+      "flavor": "To był mój ulubiony odcinek rzeki...widzisz jak słońce tworzy tęczę od klasztoru aż po rynek? To było najlepsze miejsce na grubą rybę. I im starszy się staję, tym i one były grubsze.",
       "name": "Rybak"
     },
     "flowergirl": {
+      "flavor": "Wczorajsze fiołki uwiędły i umarły, jednak dzisiaj moje maki kwitną.",
       "name": "Kwiaciarka"
     },
     "fool": {
+      "flavor": "...i Król powiedział: \"Co?! Nigdy nie posiadałem nawet gumowych pantalonów, a co dopiero armatę na budyń!\" Hej-ho! O wspaniały dniu!",
       "name": "Błazen"
     },
     "fortuneteller": {
@@ -459,19 +508,23 @@
     },
     "gambler": {
       "ability": "Każdej nocy*, wybierz gracza i odgadnij jego postać: jeżeli źle odgadniesz, umierasz.",
+      "flavor": "Orzeł, ja wygrywam. Reszka, ty przegrywasz.",
       "name": "Hazardzista"
     },
     "gangster": {
       "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi.",
+      "flavor": "Podobają mi się twoje buty. Cóż za niepohamowana strata gdyby przydarzył ci się jakiś wypadek i miały by się uszkodzić. Jak już o tym mowa, to twoje spinki do mankietów też mi się podobają.",
       "name": "Gangster"
     },
     "gardener": {
       "name": "Ogrodnik"
     },
     "general": {
+      "flavor": "Nie mam czasu na cytaty.",
       "name": "Generał"
     },
     "goblin": {
+      "flavor": "Nie chcesz obrazić goblinów. Naprawdę, naprawdę nie chcesz. A tak z innej beczki... czy mogę dostać jeszcze jeden kawałek ciasta?",
       "name": "Goblin"
     },
     "godfather": {
