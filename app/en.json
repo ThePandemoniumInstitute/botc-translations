@@ -10,10 +10,12 @@
       "special-tpi": "TPI Staff"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Allow",
     "button_cancel": "Cancel",
     "button_close": "Close",
     "button_confirm": "Confirm",
     "button_continue": "Continue",
+    "button_deny": "Deny",
     "button_logout": "Logout",
     "button_search": "Search",
     "button_send": "Send",
@@ -97,6 +99,7 @@
     "traveller": "Traveller|Travellers"
   },
   "main-menu": {
+    "block_join": "A user you have blocked has joined this session: {0}",
     "cast_vote": "Cast Vote",
     "change_icon": "Click to change icon",
     "char_sheet": "Character Sheet",
@@ -113,7 +116,7 @@
     "gong_attention": "Attention Gong",
     "gong_recall": "Recall to Town Square",
     "grim_access": "You have been given access to the Grimoire",
-    "grim_request": "A spectator has requested Grimoire access",
+    "grim_request_user": "Spectator {0} has requested Grimoire access:",
     "help": "Help",
     "json_schema": "Script JSON Schema",
     "leave": "Leave Game",
@@ -177,6 +180,8 @@
         "avatar_pixel": "Your image was too big. Please scale it down to less than 4000x4000 before uploading it again.",
         "avatar_size": "Your file was too large. Please try again with an image of less than 5 MB file size.",
         "avatar_type": "Your file was not recognized as an image.",
+        "block_text": "There was an error updating your block list.",
+        "block_title": "Error updating block list",
         "bluffs": "Error updating bluffs",
         "chat2_text": "The chat server seems to be offline",
         "chat2_title": "Chat Server Disconnected",
@@ -218,6 +223,7 @@
         "session_banned": "You are banned.",
         "session_full": "This session already has 25 users.",
         "session_general": "Error when connecting to session.",
+        "session_join": "Unable to join session",
         "session_locked": "The game session has been locked.\nOnly seated Players and Storytellers may join.",
         "session_not_found": "Game session not found.",
         "session_public": "You cannot join public game sessions.",
@@ -243,6 +249,8 @@
         "video_title": "Error initiating video chat"
       },
       "prompt": {
+        "join_block_text": "There is at least one user from your block list in this session:\n {0}\n Are you sure you want to join it?",
+        "join_block_title": "Blocked users found",
         "chat_text": "The app has problems reaching the chat server {0}, would you like to switch to {1}?",
         "chat_title": "Switch Chat Server",
         "join_placeholder": "Session ID",
@@ -588,10 +596,12 @@
     },
     "user": {
       "button_add_st": "Add Storyteller",
+      "button_block_user": "Block User",
       "button_cancel_st": "Cancel Storyteller Request",
       "button_kick_user": "Kick User",
       "button_mod_user": "Mod User",
       "button_remove_st": "Remove Storyteller",
+      "button_unblock_user": "Unblock User",
       "error": "There was an error loading the user details.",
       "grimoire_access_grant": "Grant Grimoire Access",
       "grimoire_access_revoke": "Revoke Grimoire Access",
@@ -872,6 +882,7 @@
       "whisper": "Send Text Message"
     },
     "name": {
+      "blocked": "You have blocked this user.",
       "claim": "Click to claim",
       "connecting": "This player is connecting to the voice chat.",
       "follow": "You're following this player.",
@@ -1017,6 +1028,7 @@
         "system": "Session"
       },
       "message_blocked": "not delivered",
+      "sender_blocked": "sender blocked",
       "message_to": "to",
       "prompt_private": "Private chat",
       "prompt_public": "Public announcement",
@@ -1050,6 +1062,8 @@
   },
   "user": {
     "avatar_enabled": "Avatar visible",
+    "blocked": "Blocked",
+    "blocked_on_date_as_name": "on {0} as {1}",
     "camera_enabled": "Camera visible",
     "error_avatar_text": "The avatar you selected has a size of {0}MB, but the maximum size is {1}MB.",
     "error_avatar_title": "File size too big",
@@ -1088,6 +1102,7 @@
     "since": "since {0}",
     "translation_disclaimer": "You're currently using a localized version of the app. This translation has been created and reviewed by the following volunteers, who are not affiliated with The Pandemonium Institute:",
     "translation_game": "This game content translation might not accurately reflect the official English game rules as written by The Pandemonium Institute.",
+    "translation_content": "Use Game Content Translations",
     "travellers_alive": "{0} / {1} travellers alive",
     "update": "Please Update!",
     "updating": "Updating app to version {0}...",
