@@ -10,10 +10,12 @@
       "special-tpi": "TPI-Team"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Erlauben",
     "button_cancel": "Abbrechen",
     "button_close": "Schließen",
     "button_confirm": "Bestätigen",
     "button_continue": "Weiter",
+    "button_deny": "Ablehnen",
     "button_logout": "Ausloggen",
     "button_search": "Suchen",
     "button_send": "Absenden",
@@ -97,6 +99,7 @@
     "traveller": "Reisender|Reisende"
   },
   "main-menu": {
+    "block_join": "Ein von dir blockierter Benutzer hat gerade die Runde betreten: {0}",
     "cast_vote": "Abstimmen",
     "change_icon": "Klicken, um Symbol zu ändern",
     "char_sheet": "Charakterbogen",
@@ -113,6 +116,7 @@
     "gong_attention": "Zur Achtung rufen",
     "gong_recall": "Zum Stadtplatz rufen",
     "grim_access": "Du hast Einblick ins Grimoire erhalten",
+    "grim_request_user": "Zuschauer {0} hat um Einblick in das Grimoire gebeten:",
     "help": "Hilfe",
     "json_schema": "JSON-Skript-Schema",
     "leave": "Runde verlassen",
@@ -176,6 +180,8 @@
         "avatar_pixel": "Dein Bild ist zu groß. Bitte skaliere es auf maximal 4000x4000 Pixel herunter und versuche es noch einmal.",
         "avatar_size": "Die Datei ist zu groß. Bitte versuche es noch einmal mit einer Datei, die maximal 5 MB groß ist.",
         "avatar_type": "Die hochgeladene Datei scheint kein Bild zu sein.",
+        "block_text": "Beim Aktualisieren deiner Blockliste ist ein Fehler aufgetreten.",
+        "block_title": "Blocklisten-Fehler",
         "bluffs": "Fehler beim Anpassen der Bluffs",
         "chat2_text": "Der Chat-Server scheint offline zu sein",
         "chat2_title": "Chat-Verbindung getrennt",
@@ -217,6 +223,7 @@
         "session_banned": "Dein Account ist gesperrt.",
         "session_full": "Diese Runde hat bereits 25 Teilnehmer.",
         "session_general": "Fehler beim Verbinden zur Runde.",
+        "session_join": "Runde konnte nicht betreten werden",
         "session_locked": "Der Zugang zu dieser Runde wurde beschränkt.\nNur teilnehmende Spieler und Erzähler können ihr beitreten.",
         "session_not_found": "Runde wurde nicht gefunden.",
         "session_public": "Du kannst keiner öffentlichen Runde beitreten.",
@@ -244,6 +251,8 @@
       "prompt": {
         "chat_text": "Die App kann sich leider nicht mit dem Chat-Server {0} verbinden, möchtest du stattdessen zu {1} wechseln?",
         "chat_title": "Chat-Server wechseln",
+        "join_block_text": "Mindestens ein Benutzer von deiner Blockliste befindet sich in dieser Runde:\n{0}\nMöchtest du trotzdem fortfahren?",
+        "join_block_title": "Geblockte Benutzer gefunden",
         "join_placeholder": "Name der Runde",
         "join_text": "Bitte gib den Namen oder die Nummer der Runde ein, der du beitreten möchtest",
         "join_title": "Runde beitreten",
@@ -587,10 +596,12 @@
     },
     "user": {
       "button_add_st": "Erzähler hinzufügen",
+      "button_block_user": "Benutzer blockieren",
       "button_cancel_st": "Erzähler-Anfrage abbrechen",
       "button_kick_user": "Rauswerfen",
       "button_mod_user": "Moderieren",
       "button_remove_st": "Erzähler entfernen",
+      "button_unblock_user": "Blockierung aufheben",
       "error": "Fehler beim Laden der Benutzer-Details.",
       "grimoire_access_grant": "Einblick ins Grimoire gewähren",
       "grimoire_access_revoke": "Einblick ins Grimoire entziehen",
@@ -871,6 +882,7 @@
       "whisper": "Text-Nachricht senden"
     },
     "name": {
+      "blocked": "Du hast diesen Benutzer blockiert.",
       "claim": "Klick zum Sitzen",
       "connecting": "Dieser Spieler verbindet sich gerade zum Sprach-Chat.",
       "follow": "Du folgst diesem Spieler.",
@@ -1022,6 +1034,7 @@
       "prompt_spectator": "Zuschauer",
       "prompt_system": "Rundenmeldungen",
       "prompt_user": "An {0}",
+      "sender_blocked": "Nutzer blockiert",
       "system": {
         "death": "{0} ist gestorben.",
         "end_evil": "Das Spiel ist zu Ende und das böse Team hat gewonnen!",
@@ -1049,6 +1062,8 @@
   },
   "user": {
     "avatar_enabled": "Avatar sichtbar",
+    "blocked": "Geblockt",
+    "blocked_on_date_as_name": "am {0} als {1}",
     "camera_enabled": "Kamera sichtbar",
     "error_avatar_text": "Der hochgeladene Avatar hat eine Dateigröße von {0} MB, aber die Obergrenze liegt bei {1} MB.",
     "error_avatar_title": "Datei zu groß",
@@ -1085,6 +1100,7 @@
     "players_alive": "{0} / {1} lebende Spieler",
     "reload": "Bitte lade die Seite neu oder leere deinen Browser-Cache, um die aktuelle Version zu erhalten.",
     "since": "seit {0}",
+    "translation_content": "Zeige übersetzte Spielinhalte an",
     "translation_disclaimer": "Du siehst hier eine übersetzte Version der App. Diese Übersetzung wurde von den folgenden Freiwilligen verfasst, die nicht mit The Pandemonium Institute assoziiert sind:",
     "translation_game": "Diese inoffizielle Übersetzung der Spiel-Inhalte ist möglicherweise nicht akkurat den Spielregeln entsprechend, wie sie von TPI geschrieben wurden.",
     "travellers_alive": "{0} / {1} lebende Reisende",
