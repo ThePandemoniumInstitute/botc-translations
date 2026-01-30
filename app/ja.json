@@ -112,7 +112,6 @@
     "gong_attention": "呼び出し鐘",
     "gong_recall": "村の広場に呼び戻す",
     "grim_access": "グリモワール閲覧権限を付与されました",
-    "grim_request": "観戦者がグリモワール閲覧権限を要求しています",
     "help": "ヘルプ",
     "json_schema": "台本のJSONスキーマ",
     "leave": "ゲームを退出",
