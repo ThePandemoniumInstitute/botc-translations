@@ -10,10 +10,12 @@
       "special-tpi": "TPI-anställd"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Tillåt",
     "button_cancel": "Avbryt",
     "button_close": "Stäng",
     "button_confirm": "Bekräfta",
     "button_continue": "Fortsätt",
+    "button_deny": "Neka",
     "button_logout": "Logga ut",
     "button_search": "Sök",
     "button_send": "Skicka",
