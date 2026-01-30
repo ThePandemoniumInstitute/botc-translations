@@ -96,6 +96,7 @@
     "traveller": "Du Khách|Các Du Khách"
   },
   "main-menu": {
+    "block_join": "Một người bạn chặn đang tham gia phiên này: {0}",
     "cast_vote": "Bỏ Phiếu",
     "change_icon": "Bấm để đổi biểu tượng",
     "char_sheet": "Bảng Nhân Vật",
