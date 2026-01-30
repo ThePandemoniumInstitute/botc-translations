@@ -293,6 +293,7 @@
       "error_size_text": "Das ausgewählte Skript ist {0} MB groß, aber die maximal zulässige Dateigröße ist {1} MB.",
       "homebrew_description": "Inoffizielle Bilder von Eigenkreation-Skripten wurden aus Sicherheitsgründen durch Standard-Grafiken ersetzt. Du kannst die Anzeige dieser Eigenkreation-Bilder in den Einstellungen aktivieren.",
       "homebrew_title": "Eigenkreation-Bilder deaktiviert",
+      "monthly_script": "Skript des Monats:",
       "theme": "Aussehen:",
       "theme_generic": "Standard-Aussehen:",
       "title": "Wähle ein Szenario:",
