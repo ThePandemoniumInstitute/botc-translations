@@ -99,6 +99,7 @@
     "traveller": "Resenär|Resenärer"
   },
   "main-menu": {
+    "block_join": "En användare du har blockerat gick med i sessionen: {0}",
     "cast_vote": "Rösta",
     "change_icon": "Ändra ikon",
     "char_sheet": "Rollark",
@@ -115,6 +116,7 @@
     "gong_attention": "Gonggong",
     "gong_recall": "Kalla tillbaka till torget",
     "grim_access": "Du har fått grimoarvy",
+    "grim_request_user": "Åskådaren {0} har begärt griomarvy.",
     "help": "Hjälp",
     "json_schema": "Schema för JSON-manus",
     "leave": "Lämna sessionen",
@@ -178,6 +180,8 @@
         "avatar_pixel": "Din bild är för stor. Skala ner den till mindre än 4000x4000 pixlar och försök igen.",
         "avatar_size": "Din fil är för stor. Försök igen med en bild som är mindre än 5 MB.",
         "avatar_type": "Din fil verkar inte vara en bild.",
+        "block_text": "Ett fel inträffade när din blocklista skulle uppdateras.",
+        "block_title": "Uppdateringsfel",
         "bluffs": "Det gick inte att uppdatera bluffarna",
         "chat2_text": "Chattservern verkar vara nere",
         "chat2_title": "Chattserver frånkopplad",
@@ -219,6 +223,7 @@
         "session_banned": "Du är bannad.",
         "session_full": "Den här sessionen har redan 25 användare.",
         "session_general": "Det gick inte att ansluta till sessionen.",
+        "session_join": "Du kan inte gå med i den här sessionen",
         "session_locked": "Den här sessionen är låst.\nEndast sittande spelare och berättare får gå med.",
         "session_not_found": "Sessionen hittades inte.",
         "session_public": "Du kan inte gå med i öppna sessioner.",
@@ -246,6 +251,8 @@
       "prompt": {
         "chat_text": "Appen har problem att ansluta till chattservers {0}; vill du byta till {1}?",
         "chat_title": "Byt chattserver",
+        "join_block_text": "Minst en användare som du blockerat är med i den här sessionen:\n {0}\n Vill du gå med ändå?",
+        "join_block_title": "Blockerade användare hittade",
         "join_placeholder": "Sessions-ID",
         "join_text": "Ange numret eller namnet på den session du vill ansluta till",
         "join_title": "Gå med i en session",
@@ -589,10 +596,12 @@
     },
     "user": {
       "button_add_st": "Lägg till berättare",
+      "button_block_user": "Blockera användare",
       "button_cancel_st": "Avbryt berättarinbjudan",
       "button_kick_user": "Sparka användare",
       "button_mod_user": "Moderera användare",
       "button_remove_st": "Ta bort berättare",
+      "button_unblock_user": "Avblockera användare",
       "error": "Det gick inte att ladda användarinformationen.",
       "grimoire_access_grant": "Ge grimoarvy",
       "grimoire_access_revoke": "Ta bort grimoarvy",
@@ -873,6 +882,7 @@
       "whisper": "Skicka textmeddelande"
     },
     "name": {
+      "blocked": "Du har blockerat den här användaren.",
       "claim": "Klicka för att sätta dig",
       "connecting": "Den här spelaren ansluter till röstchatten.",
       "follow": "Du följer den här spelaren.",
@@ -1024,6 +1034,7 @@
       "prompt_spectator": "Åskådarchatt",
       "prompt_system": "Systemmeddelanden",
       "prompt_user": "Till {0}",
+      "sender_blocked": "avsändare blockerad",
       "system": {
         "death": "{0} har dött.",
         "end_evil": "Spelet är slut och det onda laget har vunnit!",
@@ -1051,6 +1062,8 @@
   },
   "user": {
     "avatar_enabled": "Avatar synlig",
+    "blocked": "Blockerad",
+    "blocked_on_date_as_name": "den {0} som {1}",
     "camera_enabled": "Kamera synlig",
     "error_avatar_text": "Avataren du har valt är {0} MB stor, men högsta tillåtna filstorlek är {1} MB.",
     "error_avatar_title": "För stor fil",
@@ -1087,6 +1100,7 @@
     "players_alive": "{0}/{1} spelare lever",
     "reload": "Ladda om sidan eller rensa browserns cache för att hämta den senaste versionen.",
     "since": "sedan {0}",
+    "translation_content": "Använd översättningar av spelinnehåll",
     "translation_disclaimer": "Du använder en lokaliserad version av appen. Översättningen har skapats och granskats av följande volontärer, som inte är anslutna till The Pandemonium Institute:",
     "translation_game": "Den här översättningen av spelets innehåll kanske inte exakt återger de officiella engelska spelreglerna av The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} Resenärer lever",
