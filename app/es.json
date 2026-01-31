@@ -14,6 +14,7 @@
     "button_close": "Cerrar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
+    "button_deny": "Denegar",
     "button_logout": "Cerrar sesión",
     "button_search": "Buscar",
     "button_send": "Enviar",
@@ -97,6 +98,7 @@
     "traveller": "Viajero|Viajeros"
   },
   "main-menu": {
+    "block_join": "Un usuario al que has bloqueado se ha unido a esta sesión: {0}",
     "cast_vote": "Emitir voto",
     "change_icon": "Haz clic para cambiar el icono",
     "char_sheet": "Hoja de personajes",
@@ -113,6 +115,7 @@
     "gong_attention": "Tocar el gong",
     "gong_recall": "Llamar a la plaza",
     "grim_access": "Tienes acceso al Grimorio",
+    "grim_request_user": "El espectador {0} ha pedido acceso al Grimorio:",
     "help": "Ayuda",
     "json_schema": "Esquema JSON del guion",
     "leave": "Abandonar la partida",
