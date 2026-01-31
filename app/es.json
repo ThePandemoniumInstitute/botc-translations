@@ -176,6 +176,8 @@
         "avatar_pixel": "La imagen es demasiado grande. Redúcela a menos de 4000x4000 antes de volver a subirla.",
         "avatar_size": "El archivo es demasiado grande. Inténtalo de nuevo con una imagen de menos de 5 MB.",
         "avatar_type": "No se reconoce el archivo como una imagen.",
+        "block_text": "Ha habido un error actualizando tu lista de bloqueados.",
+        "block_title": "Error actualizando lista de bloqueados",
         "bluffs": "Error al actualizar los engaños",
         "chat2_text": "Parece que el chat del servidor está desconectado",
         "chat2_title": "Servidor de chat desconectado",
@@ -215,6 +217,7 @@
         "session_banned": "Has sido bloqueado.",
         "session_full": "Esta sesión ya tiene 25 usuarios.",
         "session_general": "Error al conectarse a la sesión.",
+        "session_join": "Incapaz de unirse a la sesión",
         "session_locked": "La sesión de juego ha sido bloqueada.\nSolo pueden unirse los Jugadores y Narradores que estén sentados.",
         "session_not_found": "Sesión de juego no encontrada.",
         "session_public": "No puedes unirte a sesiones de juego públicas.",
@@ -242,6 +245,8 @@
       "prompt": {
         "chat_text": "La aplicación ha tenido problemas para acceder al servidor de chat {0}, ¿quieres cambiar a {1}?",
         "chat_title": "Cambiar Servidor de Chat",
+        "join_block_text": "Hay al menos un usuario de tu lista de bloqueados en esta sesión:\n {0}\n ¿Estás seguro de querer unirte?",
+        "join_block_title": "Usuarios bloqueados encontrados",
         "join_placeholder": "ID de Sesión",
         "join_text": "Introduce el número o nombre de la sesión de juego a la que quieres unirte",
         "join_title": "Unirse a una partida",
@@ -579,6 +584,7 @@
     },
     "user": {
       "button_add_st": "Añadir Narrador",
+      "button_block_user": "Bloquear Usuario",
       "button_cancel_st": "Cancelar solicitud de Narrador",
       "button_kick_user": "Expulsar usuario",
       "button_mod_user": "Usuario moderador",
@@ -864,6 +870,7 @@
       "whisper": "Enviar Mensaje de Texto"
     },
     "name": {
+      "blocked": "Has bloqueado a este usuario.",
       "claim": "Haz clic para reclamar",
       "connecting": "El jugador está conectando con el chat de voz.",
       "follow": "Estás siguiendo a este jugador.",
@@ -1013,6 +1020,7 @@
       "prompt_spectator": "Chat espectador",
       "prompt_system": "Mensajes de Sistema",
       "prompt_user": "A {0}",
+      "sender_blocked": "remitente bloqueado",
       "system": {
         "death": "{0} ha muerto.",
         "end_evil": "¡La partida ha finalizado y ha ganado el equipo del Mal!",
@@ -1041,6 +1049,7 @@
   "user": {
     "avatar_enabled": "Avatar visible",
     "blocked": "Bloqueado",
+    "blocked_on_date_as_name": "en {0} como {1}",
     "camera_enabled": "Cámara visible",
     "error_avatar_text": "El avatar que has elegido es de {0}MB, pero el tamaño máximo es {1}MB.",
     "error_avatar_title": "Fichero demasiado pesado",
