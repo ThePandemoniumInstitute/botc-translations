@@ -582,6 +582,7 @@
       "button_kick_user": "Expulsar usuario",
       "button_mod_user": "Usuario moderador",
       "button_remove_st": "Eliminar Narrador",
+      "button_unblock_user": "Desbloquear Usuario",
       "error": "Ha habido un error al cargar los detalles del usuario.",
       "grimoire_access_grant": "Otorgar acceso al Grimorio",
       "grimoire_access_revoke": "Revocar acceso al Grimorio",
@@ -1038,6 +1039,7 @@
   },
   "user": {
     "avatar_enabled": "Avatar visible",
+    "blocked": "Bloqueado",
     "camera_enabled": "Cámara visible",
     "error_avatar_text": "El avatar que has elegido es de {0}MB, pero el tamaño máximo es {1}MB.",
     "error_avatar_title": "Fichero demasiado pesado",
