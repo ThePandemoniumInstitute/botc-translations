@@ -1031,6 +1031,7 @@
       "prompt_spectator": "観客者チャット",
       "prompt_system": "システムメッセージ",
       "prompt_user": "{0}へ",
+      "sender_blocked": "送信者をブロック",
       "system": {
         "death": "{0}が死亡しました。",
         "end_evil": "ゲームが終了し、悪チームの勝利です！",
@@ -1098,6 +1099,7 @@
     "translation_content": "ゲームコンテンツの翻訳を使用",
     "translation_disclaimer": "あなたは現在、翻訳されたバージョンを使用しています。この翻訳は、The Pandemonium Institute とは無関係な、以下のボランティアが制作・確認しています：",
     "translation_game": "ゲームコンテンツの翻訳は、The Pandemonium Instituteが作成した公式英語ゲームルールと異なる場合があります。",
+    "travellers_alive": "{0} / {1}旅人を生きてる",
     "update": "更新してください！",
     "updating": "バージョン{0}に更新中…",
     "warning_browser": "古い、または非対応ブラウザー",
