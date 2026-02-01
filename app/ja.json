@@ -10,10 +10,12 @@
       "special-tpi": "TPIのスタッフ"
     },
     "botc_online": "BOTCオンライン",
+    "button_allow": "許す",
     "button_cancel": "キャンセル",
     "button_close": "閉じる",
     "button_confirm": "確かめる",
     "button_continue": "続ける",
+    "button_deny": "拒否する",
     "button_logout": "ログアウト",
     "button_search": "検索",
     "button_send": "送信",
