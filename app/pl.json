@@ -10,10 +10,12 @@
       "special-tpi": "Pracownicy TPI"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Pozwól",
     "button_cancel": "Anuluj",
     "button_close": "Zamknij",
     "button_confirm": "Potwierdź",
     "button_continue": "Kontynuuj",
+    "button_deny": "Zabroń",
     "button_logout": "Wyloguj",
     "button_search": "Szukaj",
     "button_send": "Wyślij",
