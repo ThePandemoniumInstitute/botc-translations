@@ -182,7 +182,7 @@
     "final-01": "¡Eso es todo para ahora! Si quieres ver el tutorial de nuevo, puedes hacerlo desde el menú de {block}{settingsIcon}ajustes{/block}.",
     "final-heading": "¡A disfrutar!",
     "import-export-share-01": "Puedes {block}{importIcon}importar{/block}, {block}{exportIcon}exportar{/block} o {block}compartir{/block} guiones desde aquí. ¡Compatible con personajes y guiones caseros!",
-    "import-export-share-02": "Hacer clic en el botón {block} Copiar Guión {/block} en el menú {block} exportar{/block} crea un ‘link de guión’ especial, que permite a cualquiera ver tu guión directamente en la herramienta.",
+    "import-export-share-02": "Hacer clic en el botón {block} Copiar guion {/block} del menú {block} exportar{/block} crea un «enlace de guion» especial que permite a cualquiera ver tu guion directamente en la herramienta.",
     "import-export-share-03": "Puedes ver el tutorial de nuevo desde el menú de {block}{settingsIcon}ajustes{/block}.",
     "import-export-share-heading": "Importar, exportar y compartir",
     "multiple-scripts-01": "Puedes hacer clic en la pestaña {heading}guiones{/heading} para ver todos los guiones en los que has trabajado.",
