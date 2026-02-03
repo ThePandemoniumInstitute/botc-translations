@@ -29,6 +29,10 @@
     "noability": "Tidak Ada Kemampuan",
     "poisoned": "Diracun",
     "protected": "Dilindungi",
+    "redherring": "Ikan Haring Merah",
+    "soberhealthy": "Sadar & Sehat",
+    "stormcaught": "Terjebak Badai",
+    "townsfolk": "Townsfolk",
     "whoopsie": "Whoopsie"
   },
   "roles": {
@@ -40,12 +44,21 @@
       "flavor": "Alsukut min dhahab.",
       "other": "Al-Hadikhia memilih 3 pemain. :reminder: :reminder: :reminder: Bangunkan pemain pertama dan umumkan \"Al-Hadhikia memilih\" beserta nama pemain, berlanjut dengan \"Apakah kamu memilih untuk hidup?\" Pemain mengangguk atau menggelengkan kepala. Bunuh atau bangkitkan sesuai dengan itu, lalu tidurkan dan umumkan pemain berikutnya. Jika ketiga-tiganya masih hidup setelah ini, ketiga-tiganya mati."
     },
+    "angel": {
+      "name": "Bidadari"
+    },
     "assassin": {
       "flavor": "...",
       "name": "Assassin"
     },
     "banshee": {
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+    },
+    "barista": {
+      "name": "Barista"
+    },
+    "baron": {
+      "name": "Baron"
     },
     "bishop": {
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
@@ -58,6 +71,9 @@
     },
     "bootlegger": {
       "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat."
+    },
+    "bountyhunter": {
+      "name": "Bounty Hunter"
     },
     "bureaucrat": {
       "first": "Birokrat memilih seorang pemain. :reminder:",
