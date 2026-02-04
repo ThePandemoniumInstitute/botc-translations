@@ -132,8 +132,46 @@
       "first": "Berikan isyarat jari.",
       "other": "Berikan isyarat jari."
     },
+    "mezepheles": {
+      "name": "Mezefeles"
+    },
+    "minioninfo": {
+      "name": "Info Antek"
+    },
+    "monk": {
+      "name": "Rahib",
+      "other": "Rahib memilih seorang pemain. :reminder:"
+    },
+    "moonchild": {
+      "name": "Anak Bulan"
+    },
+    "mutant": {
+      "name": "Mutan"
+    },
+    "nodashii": {
+      "name": "No Dashii",
+      "other": "No Dashii memilih seorang pemain. :reminder:"
+    },
+    "ojo": {
+      "name": "Ojo"
+    },
     "oracle": {
       "other": "Berikan isyarat jari."
+    },
+    "organgrinder": {
+      "name": "Pemain Organ"
+    },
+    "pacifist": {
+      "name": "Pasifis"
+    },
+    "pithag": {
+      "name": "Pit-Hag"
+    },
+    "plaguedoctor": {
+      "name": "Dokter Wabah"
+    },
+    "po": {
+      "name": "Po"
     },
     "poisoner": {
       "first": "Peracun memilih seorang pemain. :reminder:",
@@ -143,6 +181,16 @@
     "politician": {
       "name": "Politikus"
     },
+    "pope": {
+      "flavor": "...Pulcherrimae.",
+      "name": "Paus"
+    },
+    "poppygrower": {
+      "name": "Petani Popi"
+    },
+    "preacher": {
+      "name": "Pengkhotbah"
+    },
     "professor": {
       "name": "Profesor"
     },
@@ -150,8 +198,34 @@
       "first": "Pukka memilih seorang pemain. :reminder:",
       "name": "Pukka"
     },
+    "puzzlemaster": {
+      "name": "Ahli Teka-teki"
+    },
+    "ravenkeeper": {
+      "name": "Pemelihara Gagak"
+    },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!"
+    },
+    "sailor": {
+      "first": "Pelaut memilih seorang pemain. :reminder:",
+      "name": "Pelaut",
+      "other": "Pelaut memilih seorang pemain. :reminder:"
+    },
+    "saint": {
+      "name": "Santo"
+    },
+    "savant": {
+      "name": "Cendekiawan"
+    },
+    "scapegoat": {
+      "name": "Kambing Hitam"
+    },
+    "scarletwoman": {
+      "name": "Wanita Merah"
+    },
+    "sentinel": {
+      "name": "Penjaga"
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
@@ -164,6 +238,12 @@
     "slayer": {
       "flavor": "Mati.",
       "name": "Slayer"
+    },
+    "snakecharmer": {
+      "name": "Penjinak Ular"
+    },
+    "snitch": {
+      "name": "Pengadu"
     },
     "soldier": {
       "ability": "Anda aman dari Iblis."
