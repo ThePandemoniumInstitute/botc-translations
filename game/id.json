@@ -8,8 +8,20 @@
     }
   },
   "reminders": {
+    "3attacks": "3 Serangan",
+    "3votes": "3 Suara",
+    "alive": "Hidup",
+    "cursed": "Terkutuk",
+    "dead": "Mati",
     "drunk": "Mabuk",
+    "fauxpaw": "Faux Paw",
+    "goal": "Tujuan",
+    "guessused": "Tebakan Digunakan",
+    "hasability": "Punya Kemampuan",
+    "negativevote": "Suara Negatif",
+    "noability": "Tidak Ada Kemampuan",
     "poisoned": "Diracun",
+    "protected": "Dilindungi",
     "whoopsie": "Whoopsie"
   },
   "roles": {
