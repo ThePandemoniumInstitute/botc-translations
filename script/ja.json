@@ -2,6 +2,7 @@
   "add-bootlegger-rule": "密売人ルールを追加",
   "add-demon": "悪魔を追加",
   "add-minion": "手下を追加",
+  "add-outsider": "よそ者を追加",
   "add-townsfolk": "村人を追加",
   "analysis": {
     "heading": "台本統計",
@@ -30,6 +31,13 @@
   "characters": "キャラクター",
   "clear-script": "台本をクリア",
   "close": "閉じる",
+  "copy-script-link": "台本リンクをコピー",
+  "ctxmenu": {
+    "copy-text": "本文をコピー",
+    "copy-text-details": "キャラクターの能力本文をコピー",
+    "draft": "原稿",
+    "pinned": "固定"
+  },
   "delete-script-confirmation": "本当に台本を削除してもよろしいですか？もとに戻せません。",
   "djinn-rules": "ジンルール",
   "edition": {
@@ -49,9 +57,11 @@
       "share": "共有"
     }
   },
+  "export-menu": "エクスポートメニュー",
   "fabled-and-loric": "伝説・奇譚キャラクター",
   "filters": "フィルター",
   "help": "ヘルプ",
+  "import-description-nokb": "…またはここにURL/JSONを貼り付けてください：",
   "import-script": "台本を読み取る",
   "interactions": {
     "+choirboy-king": {
@@ -86,8 +96,11 @@
     "ios": "iOSデバイスからの印刷は未対応です。やってみてもいいけど、結果は保証できません。"
   },
   "quick-add": "キャラクター検索…",
+  "randomise": "ランダム化！",
   "read-more": "アルマナック・ウィキページを見る",
   "recommended-travellers": "推奨旅人",
+  "redo": "やり直す",
+  "sao": "SAO",
   "script-name": "台本名",
   "script-name-placeholder": "無名台本",
   "scripts": "台本",
@@ -96,6 +109,7 @@
   "search-names": "名前検索",
   "settings": {
     "allow-external-images": "外部の画像を読み込む",
+    "bloodstar-image-correction": "Bloodstar画像修正",
     "compact-layout": "簡潔レイアウト",
     "external-images-heading": "外部画像",
     "font-size": "フォントサイズ",
@@ -123,6 +137,9 @@
   "toggle-autosort": "自動ソートをトグル",
   "toggle-quick-input": "クイックインプットをトグル",
   "tour": {
+    "final-heading": "お楽しみください！",
+    "import-export-share-heading": "インポートエクスポートと共有",
+    "script-analytics-heading": "台本統計",
     "script-name-and-authors-heading": "台本の名前と作者",
     "welcome-heading": "ようこそ！"
   }
