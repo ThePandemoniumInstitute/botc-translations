@@ -52,12 +52,24 @@
     "bootlegger": {
       "flavor": "Saat aku lahir, aku bernama 'Homebrewy McHomebrewface', seperti ayahku dahulu. Nama yang terhormat, bagi usia yang martabat."
     },
+    "bureaucrat": {
+      "first": "Birokrat memilih seorang pemain. :reminder:",
+      "other": "Birokrat memilih seorang pemain. :reminder:"
+    },
     "butler": {
+      "first": "Kepala Pelayan memilih seorang pemain. :reminder:",
       "flavor": "Ya, Tuan... Tidak, Tuan... Tentu, Tuan.",
-      "name": "Kepala Pelayan"
+      "name": "Kepala Pelayan",
+      "other": "Kepala Pelayan memilih seorang pemain. :reminder:"
+    },
+    "cacklejack": {
+      "name": "Cacklejack"
     },
     "cannibal": {
       "flavor": "Aku tidak suka badut. Mereka rasanya aneh."
+    },
+    "cerenovus": {
+      "name": "Serenovus"
     },
     "clockmaker": {
       "flavor": "Jangan ganggu saya. Detakan harus berlanjut, karena lingkaran adalah simbol kehidupan dan mengandung segala sesuatu - semua jawaban - dalam mesin ilahinya. Saya harus bekerja."
