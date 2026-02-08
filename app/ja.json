@@ -81,7 +81,7 @@
     "phases": {
       "day": "初日|{n}日目",
       "end": "準備中",
-      "first_night": "初夜",
+      "first_night": "最初の夜",
       "night": "初夜|{n}夜目",
       "other_nights": "他の夜",
       "start": "初夜の準備中"
@@ -184,6 +184,7 @@
         "claiming": "席の確保に失敗しました",
         "clear_grim": "グリモワールを初期化できませんでした",
         "connection": "接続エラーが発生",
+        "create_generic": "サーバーがセッション作成に失敗しました。",
         "edition_change": "版を変更できませんでした",
         "end": "ゲームを終了できませんでした",
         "eyes_close": "目を閉じれませんでした",
