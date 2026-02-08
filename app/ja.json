@@ -1031,7 +1031,7 @@
       "prompt_spectator": "観客者チャット",
       "prompt_system": "システムメッセージ",
       "prompt_user": "{0}へ",
-      "sender_blocked": "送信者をブロック",
+      "sender_blocked": "ブロックされた送信者",
       "system": {
         "death": "{0}が死亡しました。",
         "end_evil": "ゲームが終了し、悪チームの勝利です！",
@@ -1060,6 +1060,7 @@
   "user": {
     "avatar_enabled": "アバター表示中",
     "blocked": "ブロックされた",
+    "blocked_on_date_as_name": "{0}にて{1}として",
     "camera_enabled": "カメラ表示中",
     "error_avatar_text": "あなたが選択したアバターが{0}MBですが、最大サイズが{1}MBです。",
     "error_avatar_title": "ファイルサイズが大きすぎます",
@@ -1099,7 +1100,7 @@
     "translation_content": "ゲームコンテンツの翻訳を使用",
     "translation_disclaimer": "あなたは現在、翻訳されたバージョンを使用しています。この翻訳は、The Pandemonium Institute とは無関係な、以下のボランティアが制作・確認しています：",
     "translation_game": "ゲームコンテンツの翻訳は、The Pandemonium Instituteが作成した公式英語ゲームルールと異なる場合があります。",
-    "travellers_alive": "{0} / {1}旅人を生きてる",
+    "travellers_alive": "{0}人中 {1}人の旅人が生きています",
     "update": "更新してください！",
     "updating": "バージョン{0}に更新中…",
     "warning_browser": "古い、または非対応ブラウザー",
