@@ -53,6 +53,7 @@
     "pdf": "PDFを印刷またはエクスポートする",
     "png": "PNGをエクスポートする",
     "screenshot": {
+      "failed-embed": "出力された画像に一部のアイコンの埋め込みに失敗しました",
       "save": "保存する",
       "share": "共有"
     }
@@ -93,7 +94,9 @@
   "new-bootlegger-rule": "密売人ルールを新規作成…",
   "new-script": "台本を新規作成",
   "print": {
-    "ios": "iOSデバイスからの印刷は未対応です。やってみてもいいけど、結果は保証できません。"
+    "ios": "iOSデバイスからの印刷は未対応です。やってみてもいいけど、結果は保証できません。",
+    "not-first-night": " ",
+    "too-many-characters": "この台本にはキャラクターの数が多すぎます。（{nchars}）推奨される最大数は２５件です。印刷するとおかしくなる可能性があります。それでも続行しますか？"
   },
   "quick-add": "キャラクター検索…",
   "randomise": "ランダム化！",
@@ -110,6 +113,7 @@
   "settings": {
     "allow-external-images": "外部の画像を読み込む",
     "bloodstar-image-correction": "Bloodstar画像修正",
+    "bloodstar-image-correction-explanation": "bloodstar.xyzが生成するアイコンに下辺に少し空白があるため、中央からずれます。この設定を入れるとこのオフセットに対応できます。",
     "compact-layout": "簡潔レイアウト",
     "external-images-heading": "外部画像",
     "font-size": "フォントサイズ",
@@ -139,6 +143,7 @@
   "tour": {
     "final-heading": "お楽しみください！",
     "import-export-share-heading": "インポートエクスポートと共有",
+    "multiple-scripts-heading": "複数の台本で作業",
     "script-analytics-heading": "台本統計",
     "script-name-and-authors-heading": "台本の名前と作者",
     "welcome-heading": "ようこそ！"
