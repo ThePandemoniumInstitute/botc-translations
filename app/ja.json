@@ -10,7 +10,7 @@
       "special-tpi": "TPIのスタッフ"
     },
     "botc_online": "BOTCオンライン",
-    "button_cancel": "止める",
+    "button_cancel": "キャンセル",
     "button_close": "閉じる",
     "button_confirm": "確かめる",
     "button_continue": "続ける",
@@ -30,7 +30,7 @@
       },
       "difficulty": {
         "label": "難易度",
-        "title": "このゲームの参加者はどのぐらいの経験があるか",
+        "title": "このセッションのプレイヤーはどのぐらいの経験があるか",
         "value_0": "中級者",
         "value_1": "上級者",
         "value_2": "初心者"
@@ -38,7 +38,7 @@
       "grimoire": {
         "label": "グリモワールのアクセス",
         "title": "観戦者がグリモワールの中を覗けるか",
-        "value_0": "依頼",
+        "value_0": "毎回確認する",
         "value_1": "はい",
         "value_2": "いいえ"
       },
