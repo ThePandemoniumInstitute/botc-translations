@@ -1,5 +1,6 @@
 {
   "add-bootlegger-rule": "密売人ルールを追加",
+  "add-bootlegger-rules": "プラスアイコンをクリックして密売人ルールを追加してください。",
   "add-demon": "悪魔を追加",
   "add-minion": "手下を追加",
   "add-outsider": "よそ者を追加",
@@ -43,6 +44,7 @@
   "character-tooltip": "ドラッグで移動・ダブルクリック、右クリックでコンテキストメニューが見れます",
   "characters": "キャラクター",
   "clear-script": "台本をクリア",
+  "click-drag-move": "クリックして削除、ドラッグして移動",
   "close": "閉じる",
   "commit-all-details": "すべての仮置きキャラクターを確定する。",
   "commit-details": "ランダム化しても上書きされない、キャラクターを確定します。",
@@ -85,6 +87,7 @@
   "import-description-nokb": "…またはここにURL/JSONを貼り付けてください：",
   "import-json-error": "以下から正常なJSONを読み込めませんでした：",
   "import-script": "台本を読み取る",
+  "import-type-error": "ファイルタイプが間違っており、ファイルがロードされませんでした。",
   "import-typing-error": "この欄は、モバイル・タッチ入力デバイスでもJSONをコピペするためにあります。手動入力はできません。",
   "interactions": {
     "+choirboy-king": {
