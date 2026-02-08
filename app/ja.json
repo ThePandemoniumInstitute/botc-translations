@@ -99,6 +99,7 @@
     "traveller": "旅人|旅人たち"
   },
   "main-menu": {
+    "block_join": "ブロックしたユーザーがこのセッションに参加しました:{0}",
     "cast_vote": "投票する",
     "change_icon": "プロフィール写真を変更する",
     "char_sheet": "キャラクターシート",
