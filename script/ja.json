@@ -28,15 +28,20 @@
   "bootlegger-rules": "密売人ルール",
   "by-author": "作：{author}",
   "by-author-isolated": "作：",
+  "character-tooltip": "ドラッグで移動・ダブルクリック、右クリックでコンテキストメニューが見れます",
   "characters": "キャラクター",
   "clear-script": "台本をクリア",
   "close": "閉じる",
+  "commit-all-details": "すべての仮置きキャラクターを確定する。",
+  "commit-details": "ランダム化しても上書きされない、キャラクターを確定します。",
   "copy-script-link": "台本リンクをコピー",
   "ctxmenu": {
     "copy-text": "本文をコピー",
     "copy-text-details": "キャラクターの能力本文をコピー",
     "draft": "原稿",
-    "pinned": "固定"
+    "draft-details": "仮置きキャラクターがまだ台本に完全に追加されたわけではない。ランダム化ボタンを押せば、仮置きキャラクターが同じタイプのキャラクターに変わります。",
+    "pinned": "固定",
+    "pinned-details": "固定されたキャラクターは自動ソートが入っても動かなくなります。"
   },
   "delete-script-confirmation": "本当に台本を削除してもよろしいですか？もとに戻せません。",
   "djinn-rules": "ジンルール",
@@ -59,11 +64,14 @@
     }
   },
   "export-menu": "エクスポートメニュー",
+  "external-image-confirm": "外部画像を許可しますか？悪質な台本作成者がこれでIPアドレスを割り出すことができます。他のユーザーが設定した外部画像The Pandemonium Institute の監修が入っていません。",
   "fabled-and-loric": "伝説・奇譚キャラクター",
   "filters": "フィルター",
   "help": "ヘルプ",
   "import-description-nokb": "…またはここにURL/JSONを貼り付けてください：",
+  "import-json-error": "以下から正常なJSONを読み込めませんでした：",
   "import-script": "台本を読み取る",
+  "import-typing-error": "この欄は、モバイル・タッチ入力デバイスでもJSONをコピペするためにあります。手動入力はできません。",
   "interactions": {
     "+choirboy-king": {
       "msg": "聖歌隊員のいる台本には王様も必要です。",
@@ -100,6 +108,7 @@
   },
   "quick-add": "キャラクター検索…",
   "randomise": "ランダム化！",
+  "randomise-details": "ランダム化すると、台本にランダムな仮置きキャラクターが設定されます。",
   "read-more": "アルマナック・ウィキページを見る",
   "recommended-travellers": "推奨旅人",
   "redo": "やり直す",
@@ -141,11 +150,24 @@
   "toggle-autosort": "自動ソートをトグル",
   "toggle-quick-input": "クイックインプットをトグル",
   "tour": {
+    "add-and-remove-characters-01": "キャラクタータブから{bold}キャラクターを追加{/bold}できます。追加したいキャラクターをクリックしてください。",
+    "add-and-remove-characters-02": "{bold}キャラクターを削除{/bold}する場合、もう一度ここでクリックするか、台本の方のアイコンをクリックしてください。",
+    "add-and-remove-characters-03": "モバイルの場合、右スワイプか左上の{menuIcon}ボタンで開けます。左スワイプで閉じることができます。",
+    "add-and-remove-characters-04": "{plusIcon}でトグルできる、「クリック追加」入力で素早く追加できます。",
+    "autosort-01": "デフォルトでは、すべての台本が{link}{sortIcon} {block}SAO順{/block}{/link}で並び替えられます。カスタムキャラクターにも対応しています！ここでこの機能をトグルできます。",
+    "final-01": "とりあえずここまでです！もう一度見たい場合は、{block}{settingsIcon} 設定{/block} メニューで見れます。",
     "final-heading": "お楽しみください！",
+    "import-export-share-02": "{block}エキスポート{/block}メニューの{block}台本リンクをコピー{/block}ボタンを押せば、特別な「台本リンク」を手に入れます。このリンクがあれば、だれでもツールで台本を見ることができます。",
+    "import-export-share-03": "このツアーをもう一度見たい場合は、{block}{settingsIcon} 設定{/block}メニューで見れます。",
     "import-export-share-heading": "インポートエクスポートと共有",
+    "multiple-scripts-01": "{heading}台本{/heading}タブで作業中の台本を表示できます。",
+    "multiple-scripts-02": "{bold}直近２５件の台本{/bold}までここで切り替えることができます。",
     "multiple-scripts-heading": "複数の台本で作業",
+    "script-analytics-01": "台本に問題が検出された場合、ここで表示されます。",
     "script-analytics-heading": "台本統計",
     "script-name-and-authors-heading": "台本の名前と作者",
+    "undo-redo-01": "間違えたら大丈夫！いつでも{block}{undoIcon} 戻したり{/block}または{block}{redoIcon} やり直したり{/block}できます。また、{binIcon}ボタンを押せばすべてを消すことができます。",
+    "welcome-01": "{bold}ブラッド・オン・ザ・クロックタワー{/bold}のための新しい台本作成ツールです！初めに、このツアーで基本的な機能を紹介します。",
     "welcome-heading": "ようこそ！"
   }
 }
