@@ -538,7 +538,7 @@
         "ability": "能力を使いますか？",
         "acknowledge": "了解",
         "anticlockwise": "反時計回り",
-        "bluffs": "このキャラクターが現在、場に出ていない",
+        "bluffs": "このキャラクターが存在しない",
         "choice": "選択してください",
         "claim": "このプレイヤーは",
         "clockwise": "時計回り",
