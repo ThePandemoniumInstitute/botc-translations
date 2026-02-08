@@ -187,6 +187,8 @@
         "clear_grim": "グリモワールを初期化できませんでした",
         "connection": "接続エラーが発生",
         "create_generic": "サーバーがセッション作成に失敗しました。",
+        "create_rate_limit": "新しいセッションを立てるには数分間お待ちください。",
+        "create_session_exists": "同じ名前のセッションがすでにあります。",
         "edition_change": "版を変更できませんでした",
         "end": "ゲームを終了できませんでした",
         "eyes_close": "目を閉じれませんでした",
@@ -244,6 +246,7 @@
       "prompt": {
         "chat_text": "チャットサーバー{0}に通信エラーが発生しています。{1}に切り替えますか？",
         "chat_title": "チャットサーバーを変更",
+        "join_block_text": "このセッションには、あなたのブロックリストに載っている人が一人以上います。\n・{0}\n・本当に参加してよろしいですか？",
         "join_placeholder": "セッションID",
         "join_text": "参加したいセッションの番号または名前を入力してください",
         "join_title": "ゲームに参加",
@@ -332,6 +335,7 @@
       "title_alignment_e": "悪",
       "title_alignment_g": "善",
       "title_alignment_r": "普通",
+      "title_target": "{0}",
       "title_type_bluff": "擬勢",
       "title_type_character": "キャラ"
     },
@@ -369,9 +373,11 @@
           "title": "ビッグウィッグ"
         },
         "focus": {
+          "text": "告発されたプレイヤーが注目される。",
           "title": "被告人に集中"
         },
         "phases": {
+          "text": "告発者・被告人のみが喋れる。",
           "title": "告発と弁論"
         },
         "regular": {
@@ -822,6 +828,7 @@
       "welcome": "{0}へようこそ！"
     },
     "login": {
+      "accept_policies": "{0}、{1}、{2}と{3}に合意。",
       "description": "ログイン、またはアカウント作成をしてください：",
       "email": "メールアドレス",
       "error_captcha": "キャプチャーを解いてください",
@@ -951,7 +958,8 @@
       "error_save": "ファイルの保存に失敗",
       "jinxes": "ジンクス",
       "other_nights": "最初の夜\nではない",
-      "popout": "キャラクタータブをポップアウト"
+      "popout": "キャラクタータブをポップアウト",
+      "popout_window": "キャラクタータブを新規ウィンドウで開く"
     },
     "characters": {
       "title": "キャラクター"
@@ -996,6 +1004,10 @@
       "reset_position": "位置をリセット",
       "spectator": "観客者",
       "title": "通話"
+    },
+    "night": {
+      "popout": "夜間行動表をポップアウト",
+      "toggle": "夜間行動表を表示"
     },
     "npcs": {
       "remove_fabled": "伝説キャラクターを外す",
@@ -1080,6 +1092,7 @@
     "players_alive": "{1}人中 {0}人が生きています",
     "reload": "最新版を読み込むには、リロードするかキャッシュ消去を行ってください。",
     "since": "{0}から",
+    "translation_content": "ゲームコンテンツの翻訳を使用",
     "translation_disclaimer": "あなたは現在、翻訳されたバージョンを使用しています。この翻訳は、The Pandemonium Institute とは無関係な、以下のボランティアが制作・確認しています：",
     "translation_game": "ゲームコンテンツの翻訳は、The Pandemonium Instituteが作成した公式英語ゲームルールと異なる場合があります。",
     "update": "更新してください！",
