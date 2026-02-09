@@ -62,9 +62,24 @@
     "token": "Token",
     "traveller": "Pengunjung|Pengunjung-pengunjung"
   },
+  "main-menu": {
+    "fullscreen": "Layar Penuh",
+    "push_to_talk": "Tekan [{0}] untuk berbicara",
+    "set_timer": "Atur Timer",
+    "settings": "Pengaturan",
+    "tab_app": "Aplikasi",
+    "tab_playing": "Bermain"
+  },
   "modals": {
     "dialogue": {
       "button_yes": "Iya"
+    },
+    "signal": {
+      "cards": {
+        "yes": "Iya",
+        "zero": "Nol"
+      },
+      "character": "Karakter"
     }
   },
   "overlays": {
