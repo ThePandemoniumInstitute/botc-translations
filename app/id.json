@@ -64,6 +64,7 @@
   },
   "pages": {
     "banned": {
+      "description_banned": "dilarang",
       "footer2": "Ingat:"
     },
     "clock": {
@@ -73,6 +74,7 @@
       "button_help": "Bantuan",
       "button_mod": "Mod",
       "button_quit": "Keluar",
+      "button_settings": "Pengaturan",
       "free_tier_free": "Gratis",
       "free_tier_patreon": "Patreon",
       "game": "Permainan",
@@ -83,7 +85,8 @@
       "storyteller": "Pendongeng"
     },
     "login": {
-      "password": "Kata sandi"
+      "password": "Kata sandi",
+      "username": "Nama Pengguna"
     }
   },
   "player": {
@@ -91,7 +94,17 @@
       "wake": "Bangun"
     }
   },
+  "session": {
+    "access": "Akses",
+    "server_name": "Nama",
+    "visibility": "Visibilitas",
+    "visibility_private": "Pribadi",
+    "visibility_public": "Umum"
+  },
   "tabs": {
+    "character": {
+      "jinxes": "Jinx"
+    },
     "chat": {
       "channels": {
         "bmr_0": "Kedai alkohol",
