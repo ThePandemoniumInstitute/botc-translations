@@ -3,9 +3,25 @@
     "carousel": "Korsel",
     "custom": "Kustom"
   },
+  "export": {
+    "screenshot": {
+      "save": "Simpan",
+      "share": "Bagikan"
+    }
+  },
   "keyword": {
     "fabled": "Fabel|Fabel",
     "minion": "Antek|Antek-Antek",
     "traveller": "Pengunjung|Pengunjung-pengunjung"
+  },
+  "settings": {
+    "display-and-ui-heading": "Tampilan dan Antarmuka Pengguna",
+    "font-size-larger": "Besar",
+    "font-size-normal": "Normal",
+    "language": "Bahasa",
+    "script-type-standard": "Standar"
+  },
+  "tour": {
+    "welcome-heading": "Selamat datang!"
   }
 }
