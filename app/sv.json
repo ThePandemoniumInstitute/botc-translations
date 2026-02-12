@@ -1100,7 +1100,7 @@
     "players_alive": "{0}/{1} spelare lever",
     "reload": "Ladda om sidan eller rensa browserns cache för att hämta den senaste versionen.",
     "since": "sedan {0}",
-    "translation_content": "Använd översättningar av spelinnehåll",
+    "translation_content": "Använd översättning av spelinnehåll",
     "translation_disclaimer": "Du använder en lokaliserad version av appen. Översättningen har skapats och granskats av följande volontärer, som inte är anslutna till The Pandemonium Institute:",
     "translation_game": "Den här översättningen av spelets innehåll kanske inte exakt återger de officiella engelska spelreglerna av The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} Resenärer lever",
