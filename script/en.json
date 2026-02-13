@@ -14,6 +14,7 @@
   "edition": {
     "base-three": "Base",
     "kickstarter": "Kickstarter",
+    "experimental": "Experimental",
     "carousel": "Carousel",
     "homebrew": "Homebrew",
     "custom": "Custom"
