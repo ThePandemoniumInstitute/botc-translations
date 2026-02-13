@@ -63,6 +63,7 @@
     "base-three": "Основні",
     "carousel": "Карусель",
     "custom": "Власні",
+    "experimental": "Експериментальні",
     "homebrew": "Саморобні",
     "kickstarter": "Kickstarter"
   },
@@ -72,6 +73,7 @@
     "pdf": "Друк/Експорт в PDF",
     "png": "Експортувати як PNG",
     "screenshot": {
+      "failed-embed": "Не вдалося вбудувати деякі іконки в експортоване зображення",
       "save": "Зберегти",
       "share": "Поділитись"
     }
