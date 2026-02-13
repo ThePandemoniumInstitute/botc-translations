@@ -318,6 +318,7 @@
       "session_debug2": "Your app session is being tracked now and will be automatically sent to us. You can always stop this tracking manually by clicking the button below or reloading the app.",
       "text1": "This app (version {version}) is currently Under Construction.",
       "text2": "You can submit feedback through the {0} page or {1}. You can update your account email address and password {2}. If you want to buy the physical game, take a look at {3}.",
+      "text3": "If you would like to get in touch with a moderator, please send an email to {0}.",
       "welcome": "Welcome to {0}!"
     },
     "npc": {
@@ -396,6 +397,8 @@
       "patreon_perks": "Avatar upload and special nameplates are available with a paid {0}!",
       "patreon_perks2": "Patreon subscription",
       "patreon_update": "Update Patreon Status",
+      "patreon_link_title": "Patreon account linked",
+      "patreon_link_text": "You can close this window now.",
       "setting_alignment": "Show Alignment on Town Square",
       "setting_animations": "Show Animations",
       "setting_audio_deafen": "Listen To Voice Chat",
