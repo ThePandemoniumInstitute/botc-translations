@@ -318,6 +318,7 @@
       "session_debug2": "Deine App-Sitzung wird nun protokolliert und automatisch an uns gesendet. Du kannst die Übertragung jederzeit beenden, indem du den folgenden Button anklickst oder die Seite neu lädst.",
       "text1": "Diese App (Version {version}) befindet sich noch in Entwicklung.",
       "text2": "Du kannst uns jederzeit Feedback zukommen lassen, entweder über unseren {0} oder {1}. Deine Account-E-Mail-Adresse und dein Passwort kannst du {2} ändern. Wenn du das zugehörige Brettspiel kaufen möchtest, besuche {3}.",
+      "text3": "Wenn du einen Moderator kontaktieren möchtest, sende bitte eine Email an {0}.",
       "welcome": "Willkommen bei {0}!"
     },
     "npc": {
@@ -393,6 +394,8 @@
       },
       "option_disabled": "Deaktiviert",
       "patreon_link": "Patreon-Account verknüpfen",
+      "patreon_link_text": "Du kannst dieses Fenster nun schließen.",
+      "patreon_link_title": "Patreon-Account verbunden",
       "patreon_perks": "Eigene Avatare und besondere Namensschilder können mit einem kostenpflichtigen {0} freigeschaltet werden!",
       "patreon_perks2": "Patreon-Abonnement",
       "patreon_update": "Abo-Status aktualisieren",
