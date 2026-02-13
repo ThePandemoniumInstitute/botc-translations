@@ -1223,6 +1223,11 @@
       "name": "Dödgrävaren",
       "other": "Om en spelare avrättades idag så visa den spelarens rollbricka."
     },
+    "ventriloquist": {
+      "ability": "Om en spelare är galen som en ny roll under sin nominering kanske hen inte dör om hen avrättas idag.",
+      "flavor": "Samla er, gott folk! Det här är min kompis Charlie, och han är så ful i munnen att han kan få en mula att rodna. Men oroa er inte; jag sköter snacket… Eller gör jag?",
+      "name": "Buktalaren"
+    },
     "vigormortis": {
       "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]",
       "flavor": "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av vattnet jag ger kommer aldrig gå törstig, för vattnet ska i honom vara en källa som ger evigt liv.",
