@@ -318,6 +318,7 @@
       "session_debug2": "Din appsession spåras nu och kommer automatiskt att skickas till oss. Klicka på knappen nedan eller ladda om appen för att avbryta spårningen.",
       "text1": "Den här appen (version {version}) är under utveckling.",
       "text2": "Du kan skicka feedback på sidan {0} eller {1}. Du kan uppdatera ditt kontos e-postadress och lösenord {2}. Om du vill köpa det fysiska spelet kan du gå till {3}.",
+      "text3": "Skicka ett mejl till {0} för att kontakta en moderator.",
       "welcome": "Välkommen till {0}!"
     },
     "npc": {
@@ -393,6 +394,8 @@
       },
       "option_disabled": "Avstängd",
       "patreon_link": "Koppla Patreon-konto",
+      "patreon_link_text": "Nu kan du stänga det här fönstret.",
+      "patreon_link_title": "Patreon-konto kopplat",
       "patreon_perks": "Med en betald {0} kan du använda särskilda namnskyltar och ladda upp egna avatarer!",
       "patreon_perks2": "Patreon-prenumeration",
       "patreon_update": "Uppdatera Patreon-status",
