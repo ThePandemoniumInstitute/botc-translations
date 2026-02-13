@@ -5,7 +5,7 @@
       "name": "Bad Moon Rising"
     },
     "custom": {
-      "description": "Um ein eigenes Skript zu spielen, musst du zunächst im offiziellen Skriptwerkzeug die gewünschten Rollen auswählen und danach die daraus generierte JSON-Datein hochladen. Du kannst die Datei direkt in der App hochladen oder eine URL angeben, auf der sich eine JSON-Datei befindet. Du kannst auch die entsprechende JSON-Datei auf diesen Bildschirm ziehen oder sie hier einfügen.",
+      "description": "Um ein eigenes Skript zu spielen, musst du zunächst im offiziellen Skriptwerkzeug die gewünschten Rollen auswählen und danach die daraus generierte JSON-Datei hochladen. Du kannst die Datei direkt in der App hochladen oder eine URL angeben, auf der sich eine JSON-Datei befindet. Du kannst auch die entsprechende JSON-Datei auf diesen Bildschirm ziehen oder sie hier einfügen.",
       "name": "Eigenes Skript"
     },
     "homebrew": {
