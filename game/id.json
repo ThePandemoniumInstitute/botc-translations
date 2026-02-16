@@ -165,13 +165,22 @@
       "flavor": "Mati.",
       "name": "Slayer"
     },
+    "steward": {
+      "ability": "Anda mulai dengan mengetahui 1 pemain baik."
+    },
     "thief": {
       "first": "Pencuri memilih seorang pemain. :reminder:",
       "name": "Pencuri",
       "other": "Pencuri memilih seorang pemain. :reminder:"
     },
+    "tinker": {
+      "name": "Mekanik"
+    },
     "tor": {
       "name": "Tor"
+    },
+    "toymaker": {
+      "name": "Pembuat Mainan"
     },
     "vigormortis": {
       "name": "Vigormortis"
