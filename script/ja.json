@@ -1,6 +1,6 @@
 {
   "add-bootlegger-rule": "密売人ルールを追加",
-  "add-bootlegger-rules": "プラスアイコンをクリックして密売人ルールを追加してください。",
+  "add-bootlegger-rules": "プラスアイコンをクリックすれば密売人ルールを追加できます。",
   "add-demon": "悪魔を追加",
   "add-minion": "手下を追加",
   "add-outsider": "よそ者を追加",
@@ -44,7 +44,7 @@
   "character-tooltip": "ドラッグで移動・ダブルクリック、右クリックでコンテキストメニューが見れます",
   "characters": "キャラクター",
   "clear-script": "台本をクリア",
-  "click-drag-move": "クリックして削除、ドラッグして移動",
+  "click-drag-move": "クリックで削除、ドラッグで移動",
   "close": "閉じる",
   "commit-all-details": "すべての仮置きキャラクターを確定する。",
   "commit-details": "ランダム化しても上書きされない、キャラクターを確定します。",
@@ -52,7 +52,7 @@
   "ctxmenu": {
     "copy-text": "本文をコピー",
     "copy-text-details": "キャラクターの能力本文をコピー",
-    "draft": "原稿",
+    "draft": "仮置き",
     "draft-details": "仮置きキャラクターがまだ台本に完全に追加されたわけではない。ランダム化ボタンを押せば、仮置きキャラクターが同じタイプのキャラクターに変わります。",
     "pinned": "固定",
     "pinned-details": "固定されたキャラクターは自動ソートが入っても動かなくなります。"
@@ -63,6 +63,7 @@
     "base-three": "初版",
     "carousel": "回転木馬",
     "custom": "カスタム",
+    "experimental": "実験的",
     "homebrew": "カスタム",
     "kickstarter": "キックスターター版"
   },
@@ -87,7 +88,7 @@
   "import-description-nokb": "…またはここにURL/JSONを貼り付けてください：",
   "import-json-error": "以下から正常なJSONを読み込めませんでした：",
   "import-script": "台本を読み取る",
-  "import-type-error": "ファイルタイプが間違っており、ファイルがロードされませんでした。",
+  "import-type-error": "ファイルタイプが間違っていたため、ファイルがロードされませんでした。",
   "import-typing-error": "この欄は、モバイル・タッチ入力デバイスでもJSONをコピペするためにあります。手動入力はできません。",
   "interactions": {
     "+choirboy-king": {
@@ -168,7 +169,7 @@
   "show-script-analytics": "台本統計を表示",
   "toast": {
     "cannot-remove-bootlegger": "この台本にカスタムキャラクターがあるため、密売人を外すことができない。",
-    "copied": "クリップボードにコピーされます！"
+    "copied": "クリップボードにコピーされました！"
   },
   "toggle-autosort": "自動ソートをトグル",
   "toggle-quick-input": "クイックインプットをトグル",
@@ -198,6 +199,6 @@
     "welcome-01": "{bold}ブラッド・オン・ザ・クロックタワー{/bold}のための新しい台本作成ツールです！初めに、このツアーで基本的な機能を紹介します。",
     "welcome-heading": "ようこそ！"
   },
-  "undo": "元に戻す",
-  "unpin": "外す"
+  "undo": "戻る",
+  "unpin": "固定を外す"
 }
