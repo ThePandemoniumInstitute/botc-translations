@@ -612,7 +612,7 @@
       "official_tpi": "Сотрудник TPI",
       "offline": "Офлайн",
       "st_requested": "Рассказчик запрошен",
-      "type_player": "Игрок|{n} игроков",
+      "type_player": "Игрок|{n} игрока|{n} игроков",
       "type_spectator": "Зритель|{n} зрителей",
       "type_storyteller": "Рассказчик|{n} Рассказчиков"
     },
