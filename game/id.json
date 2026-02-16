@@ -5,6 +5,12 @@
     },
     "homebrew": {
       "name": "Homebrew"
+    },
+    "snv": {
+      "name": "Sekte & Violet"
+    },
+    "tb": {
+      "name": "Trouble Brewing"
     }
   },
   "reminders": {
