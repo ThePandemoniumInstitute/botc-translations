@@ -211,7 +211,7 @@
         "session_banned": "Vous êtes banni·e.",
         "session_full": "Cette partie compte déjà 25 utilisateurs.",
         "session_general": "Erreur lors de la connexion à la session.",
-        "session_locked": "La partie a été verrouillée.\n Seuls les Joueurs assis et les Conteuses peuvent la rejoindre.",
+        "session_locked": "La partie a été verrouillée.\nSeuls les Joueurs assis et les Conteuses peuvent la rejoindre.",
         "session_not_found": "Partie Introuvable.",
         "session_public": "Vous ne pouvez pas rejoindre les parties publiques.",
         "session_rejoin": "Vous ne pouvez pas encore retourner dans cette partie.",
