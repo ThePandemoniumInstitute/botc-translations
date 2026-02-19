@@ -980,7 +980,7 @@
         "tb_3": "Bibliothèque",
         "tb_4": "Laboratoire"
       },
-      "chats": "Chats",
+      "chats": "Discussions",
       "following": "Vous suivez ce joueur.",
       "incoming": "Entrant",
       "leave_private": "Quitter le Chat Privé",
@@ -995,7 +995,8 @@
       "title": "Voix"
     },
     "night": {
-      "popout": "Sortir la feuille de phase de nuit"
+      "popout": "Sortir la feuille de phase de nuit",
+      "toggle": "Basculer sur la fiche de nuit"
     },
     "npcs": {
       "title": "PNJs"
