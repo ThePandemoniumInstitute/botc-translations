@@ -410,10 +410,11 @@
       "image_title": "Autoriser les images personnalisées",
       "nomination": {
         "bigwig": {
-          "text": "Chaque nommé choisit un joueur : jusqu'au vote, lui seul peut parler & est convaincu que le nommé est bon, sinon il risque de mourir."
+          "text": "Chaque nommé choisit un joueur : jusqu'au vote, lui seul peut parler & est convaincu que le nommé est bon, sinon il pourrait mourir."
         },
         "focus": {
-          "text": "Le joueur nommé a l'attention du groupe."
+          "text": "Le joueur nommé a l'attention du groupe.",
+          "title": "Focus sur le nominé"
         },
         "phases": {
           "text": "Seuls le nommant et nommé peuvent parler.",
@@ -862,6 +863,7 @@
       "welcome": "Bienvenue sur {0} !"
     },
     "login": {
+      "accept_policies": "Accepter nos {0}, {1}, {2} & {3}.",
       "description": "Veuillez vous connecter ou créer un compte pour continuer :",
       "email": "Adresse E-Mail",
       "error_captcha": "Veuillez compléter le captcha",
