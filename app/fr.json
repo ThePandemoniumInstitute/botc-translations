@@ -865,6 +865,7 @@
       "whisper": "Envoyer Message Privé"
     },
     "name": {
+      "blocked": "Vous avez bloqué cet utilisateur.",
       "claim": "Cliquer pour prendre place",
       "connecting": "Ce joueur se connecte au chat vocal.",
       "follow": "Vous suivez ce joueur.",
@@ -1009,6 +1010,7 @@
       "prompt_spectator": "Chat Spectateur",
       "prompt_system": "Messages système",
       "prompt_user": "À {0}",
+      "sender_blocked": "expéditeur bloqué",
       "system": {
         "death": "{0} est mort·e.",
         "end_evil": "La partie est terminée et l’Equipe du Mal a gagné !",
@@ -1036,6 +1038,8 @@
   },
   "user": {
     "avatar_enabled": "Avatar visible",
+    "blocked": "Bloqué",
+    "blocked_on_date_as_name": "le {0} en tant que {1}",
     "camera_enabled": "Caméra visible",
     "error_avatar_text": "L'avatar que vous avez choisi fait {0}Mo, mais la taille maximal est {1}Mo.",
     "error_avatar_title": "Le fichier est trop gros",
@@ -1071,6 +1075,7 @@
     "players_alive": "{0} / {1} joueurs en vie",
     "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour obtenir la dernière version.",
     "since": "depuis {0}",
+    "translation_content": "Utiliser les traductions du contenu du jeu",
     "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
     "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
     "update": "Veuillez Mettre À Jour !",
