@@ -73,13 +73,13 @@
       "ghost-votes": "幽霊票を戻す",
       "grimoire": "グリモワールを見せる",
       "open-eyes": "目を開く・閉じる",
-      "pointing": "選手を選択する"
+      "pointing": "プレイヤーを選択する"
     },
-    "demon": "悪魔|悪魔たち",
-    "fabled": "伝説人|伝説人たち",
+    "demon": "悪魔|悪魔",
+    "fabled": "伝説|伝説",
     "loric": "ロリク|ロリク",
-    "minion": "手下|手下たち",
-    "outsider": "よそ者|よそ者たち",
+    "minion": "手下|手下",
+    "outsider": "よそ者|よそ者",
     "phases": {
       "day": "初日|{n}日目",
       "end": "準備中",
@@ -95,8 +95,8 @@
     "storyteller": "語り手{0}",
     "storytellers": "語り手達",
     "token": "コイン",
-    "townsfolk": "村人|村人たち",
-    "traveller": "旅人|旅人たち"
+    "townsfolk": "村人|村人",
+    "traveller": "旅人|旅人"
   },
   "main-menu": {
     "block_join": "あなたがブロックしたユーザーがこのセッションに参加しました:{0}",
@@ -104,9 +104,9 @@
     "change_icon": "プロフィール写真を変更する",
     "char_sheet": "キャラクターシート",
     "characters": "キャラクターを選択する",
-    "clear_grim": "魔導書を削除する",
+    "clear_grim": "グリモワールをリセットする",
     "download": "{0}アプリをダウンロードする",
-    "edition": "スクリプトを選択する",
+    "edition": "エディションを選択する",
     "error_audio": "ブラウザー設定により、{0}ができませんでした。チャットを開始するためにはここをクリック。",
     "error_audio2": "音声通話の自動再生",
     "error_audio3": "Firefoxの場合、音声を再生するためには{0}をする必要がある場合があります。",
@@ -347,7 +347,7 @@
       "title_type_character": "キャラ"
     },
     "roles": {
-      "button_distribute": "{0}のキャラを配布",
+      "button_distribute": "{0}件の役職を配布",
       "button_gardener": "{0}のキャラを設定",
       "button_shuffle": "シャッフル",
       "button_sort": "ソート",
@@ -548,7 +548,7 @@
         "choice": "選択してください",
         "claim": "このプレイヤーは",
         "clockwise": "時計回り",
-        "demon": "ここが悪魔です",
+        "demon": "この人が悪魔です",
         "evil": "悪",
         "five": "５",
         "four": "４",
