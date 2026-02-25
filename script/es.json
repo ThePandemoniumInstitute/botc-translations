@@ -6,7 +6,7 @@
   "add-outsider": "Añadir Forasteros",
   "add-townsfolk": "Añadir Aldeanos",
   "analysis": {
-    "heading": "Analíticas del Guion",
+    "heading": "Análisis del guion",
     "maximum-character-recommendation": "El número máximo de personajes recomendado es {number}.",
     "maximum-character-recommendation-teensy": "El número recomendado máximo de personajes en una Aldea es {number}.",
     "no-messages": "¡Nada que comentar!",
@@ -156,7 +156,7 @@
     "print-player-count-table": "Mostrar la tabla del número de jugadores",
     "script-heading": "Ajustes de guion",
     "script-type": "Tipo de guion",
-    "script-type-explanation": "Un guion de «Teensyville» está especialmente diseñado para grupos reducidos de jugadores (menos de 7). Normalmente, tiene menos personajes que un guion estándar. Este ajuste solo afecta a las analíticas del guion, al generador aleatorio y a algunos elementos de la IU.",
+    "script-type-explanation": "Un guion de «Teensyville» está especialmente diseñado para grupos reducidos de jugadores (menos de 7). Normalmente, tiene menos personajes que un guion estándar. Este ajuste solo afecta al análisis del guion, al generador aleatorio y a algunos elementos de la IU.",
     "script-type-standard": "Estándar",
     "show-analysis-icons": "Mostrar los iconos de análisis",
     "show-night-sheet": "Mostrar la hoja de noche",
@@ -165,7 +165,7 @@
   },
   "settings-menu": "Ajustes",
   "show-all": "Todos los personajes",
-  "show-script-analytics": "Mostrar analíticas del guion",
+  "show-script-analytics": "Mostrar análisis del guion",
   "toast": {
     "cannot-remove-bootlegger": "Hay personajes caseros en este guion, así que no puedes eliminar al Contrabandista.",
     "copied": "¡Copiado al portapapeles!"
@@ -190,7 +190,7 @@
     "multiple-scripts-02": "Puedes cambiar entre un máximo de {bold}25 guiones recientes{/bold}.",
     "multiple-scripts-heading": "Trabajando con varios guiones",
     "script-analytics-01": "Si hay algún problema con el guion, se mostrará aquí.",
-    "script-analytics-heading": "Análisis de guion",
+    "script-analytics-heading": "Análisis del guion",
     "script-name-and-authors-01": "Aquí puedes cambiar el {bold}nombre del guion y los autores{/bold}.",
     "script-name-and-authors-heading": "Nombre del guion y autores",
     "undo-redo-01": "Si te equivocas, ¡no te preocupes! Siempre puedes {block}{undoIcon} deshacer{/block} o {block}{redoIcon}rehacer{/block}. También puedes vaciar el guion haciendo clic en el botón {binIcon}.",
