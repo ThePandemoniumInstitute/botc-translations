@@ -1230,7 +1230,7 @@
     },
     "vigormortis": {
       "ability": "Varje natt* väljer du en spelare; hen dör. Kumpaner du dödar behåller sin förmåga och förgiftar 1 Bybogranne. [−1 Utböling]",
-      "flavor": "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av vattnet jag ger kommer aldrig gå törstig, för vattnet ska i honom vara en källa som ger evigt liv.",
+      "flavor": "Alla dörrar är en dörr. Alla nycklar är en nyckel. Alla bägare är en bägare, men den som dricker av det vatten jag ger honom blir aldrig mer törstig. Det vatten jag ger blir en källa i honom, med ett flöde som ger evigt liv.",
       "name": "Vigormortis",
       "other": "Vigormortis väljer en spelare. :reminder: Om den spelaren är en Kumpan, förgifta en Bybogranne. :reminder: :reminder:"
     },
