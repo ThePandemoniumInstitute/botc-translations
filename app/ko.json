@@ -251,6 +251,8 @@
       "prompt": {
         "chat_text": "앱이 채팅 서버 {0}에 접속하는 데 문제가 있습니다. {1}로 전환하시겠습니까?",
         "chat_title": "채팅 서버 변경",
+        "join_block_text": "차단 리스트에 있는 유저가 적어도 1명 이상 이 방에 존재합니다:\n {0}\n 참여하시겠습니까?",
+        "join_block_title": "차단한 유저 알림",
         "join_placeholder": "방 ID",
         "join_text": "참가하려는 방의 번호나 이름을 입력하세요",
         "join_title": "게임 참가하기",
@@ -316,6 +318,7 @@
       "session_debug2": "현재 앱 세션이 추적 중이며, 수집된 정보는 자동으로 전송됩니다. 아래 버튼을 클릭하거나 앱을 다시 로드하면 언제든지 이 추적을 중지할 수 있습니다.",
       "text1": "이 앱(버전 {version})은 현재 개발 중입니다.",
       "text2": "{0} 페이지 또는 {1}를 통해 피드백을 제출할 수 있습니다. 계정 이메일 주소와 비밀번호는 {2}에서 변경할 수 있습니다. 실물 게임을 구매하려면 {3}에서 확인해 보세요.",
+      "text3": "운영자와 연락하고 싶으시다면, {0}로 메일 보내주세요.",
       "welcome": "{0}에 오신 것을 환영합니다!"
     },
     "npc": {
@@ -391,6 +394,8 @@
       },
       "option_disabled": "불가능",
       "patreon_link": "Patreon 계정 연결",
+      "patreon_link_text": "이 창을 닫을 수 있습니다.",
+      "patreon_link_title": "Patreon 계정 연결됨",
       "patreon_perks": "유료 {0} 라면 아바타 업로드와 특별 이름표를 사용할 수 있어요!",
       "patreon_perks2": "Patreon 구독",
       "patreon_update": "Patreon 상태 업데이트",
@@ -594,10 +599,12 @@
     },
     "user": {
       "button_add_st": "이야기꾼 추가",
+      "button_block_user": "유저 차단",
       "button_cancel_st": "이야기꾼 요청 취소",
       "button_kick_user": "유저 추방",
       "button_mod_user": "유저 관리",
       "button_remove_st": "이야기꾼 제거",
+      "button_unblock_user": "차단 해제",
       "error": "유저 세부 사항을 불러오는 데 오류가 발생했습니다.",
       "grimoire_access_grant": "마도서 열람 승인",
       "grimoire_access_revoke": "마도서 열람 중지",
@@ -878,6 +885,7 @@
       "whisper": "귓속말 보내기"
     },
     "name": {
+      "blocked": "해당 유저를 차단했습니다.",
       "claim": "클릭하여 앉기",
       "connecting": "이 플레이어는 음성 채팅에 연결 중입니다.",
       "follow": "당신은 해당 플레이어를 따라가고 있습니다.",
@@ -1029,6 +1037,7 @@
       "prompt_spectator": "관전자 채팅",
       "prompt_system": "시스템 메세지",
       "prompt_user": "{0} 에게",
+      "sender_blocked": "발신자 차단됨",
       "system": {
         "death": "{0}이(가) 죽었습니다.",
         "end_evil": "악의 승리로 게임이 종료되었습니다!",
@@ -1056,6 +1065,8 @@
   },
   "user": {
     "avatar_enabled": "아바타 사용",
+    "blocked": "차단됨",
+    "blocked_on_date_as_name": "{0}에 {1}",
     "camera_enabled": "카메라 사용",
     "error_avatar_text": "선택한 아바타의 크기는 {0} MB이지만, 최대 허용 크기는 {1} MB입니다.",
     "error_avatar_title": "파일 용량이 너무 큽니다",
@@ -1092,6 +1103,7 @@
     "players_alive": "플레이어 {1} 중 {0}명 생존",
     "reload": "최신 버전을 받으려면 페이지를 새로고침하거나 브라우저 캐시를 지워 주세요.",
     "since": "{0}에 업데이트",
+    "translation_content": "게임 콘텐츠 번역 사용",
     "translation_disclaimer": "현재 현지화된 앱 버전을 사용 중입니다. 이 번역은 TPI와 무관한 다음 자원봉사자들이 제작하고 검수했습니다:",
     "translation_game": "이 게임 콘텐츠 번역은 TPI가 작성한 공식 영문 규칙을 정확히 반영하지 않을 수 있습니다.",
     "travellers_alive": "여행자 {1} 중 {0}명 생존",
