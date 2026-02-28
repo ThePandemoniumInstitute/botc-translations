@@ -616,7 +616,7 @@
       "st_requested": "Рассказчик запрошен",
       "type_player": "Игрок|{n} игрока|{n} игроков",
       "type_spectator": "Зритель|{n} зрителей",
-      "type_storyteller": "Рассказчик|{n} Рассказчиков"
+      "type_storyteller": "Рассказчик|{n} Рассказчика|{n} Рассказчиков"
     },
     "verification": {
       "button_reset": "Сбросить",
