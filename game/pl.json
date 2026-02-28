@@ -186,6 +186,7 @@
     "fear": "Zastraszony",
     "finalnightnoattack": "Ostatnia noc: brak ataku",
     "friend": "Przyjaciel",
+    "goal": "Misja",
     "good": "Dobry",
     "goodplayerexecuted": "Dobry gracz został stracony",
     "grandchild": "Wnuczek",
@@ -257,17 +258,19 @@
     },
     "amnesiac": {
       "ability": "Nie znasz swojej umiejętności. Każdego dnia, prywatnie zgadnij ją: dowiadujesz się, jak blisko jesteś.",
-      "first": "Jeżeli trzeba, odpal umiejętność Sklerotyka.",
+      "first": "Zrób wszystko, co trzeba aby zaspokoić umiejętność Sklerotyka.",
       "flavor": "Czekaj. Co. Kto? Ach, dobrze. Czekaj. Co?",
       "name": "Sklerotyk",
-      "other": "Jeżeli trzeba, odpal umiejętność Sklerotyka."
+      "other": "Zrób wszystko, co trzeba aby zaspokoić umiejętność Sklerotyka."
     },
     "angel": {
       "ability": "Coś złego może się stać osobie, która jest najbardziej odpowiedzialna za śmierć nowego gracza.",
+      "first": "Ogłoś, którzy gracze są chronieni przez Anioła. :reminder:",
       "flavor": "Niech ci, którzy są bez grzechu, odważą się podnieść rękę na moich wybrańców, albowiem powalę takich głupców furią i sprawiedliwością tysiąca burz.",
       "name": "Anioł"
     },
     "apprentice": {
+      "first": "Pokaż Czeladnikowi kartę *JESTEŚ*, a następnie żeton Mieszczanina lub Sługusa, zamień żeton Czeladnika z żetonem postaci. :reminder:",
       "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze.",
       "name": "Czeladnik"
     },
@@ -298,7 +301,7 @@
       "ability": "Jeżeli zabije cię Demon to wszyscy gracze się o tym dowiadują. Od tej chwili możesz nominować dwa razy dziennie i głosować dwa razy podczas każdej nominacji.",
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
       "name": "Banshee",
-      "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
+      "other": "Jeżeli Banshee została zabita tej nocy przez Demona, ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
     "barber": {
       "ability": "Jeżeli zginąłeś tego dnia lub nocy, Demon może wybrać dwóch graczy (ale nie innego Demona) aby zamienili się postaciami.",
@@ -307,8 +310,10 @@
       "other": "Jeżeli Balwierz umarł tego dnia lub nocy, pokaż Demonowi *TA POSTAĆ WYBRAŁA CIEBIE* i żeton Balwierza. Jeżeli Demon wybierze 2 graczy, obudź ich pojedynczo. Pokaż kartę *JESTEŚ* i ich nowy żeton postaci."
     },
     "barista": {
+      "first": "Wybierz gracza. Obudź go, pokaż kartę *TA POSTAĆ WYBRAŁA CIEBIE* i żeton Baristy, następnie pokaż znak palcem. :reminder:",
       "flavor": "Kawa bez śmietanki, Monsieur? Najserdeczniej przepraszam, ale właśnie skończyła nam się śmietanka - może być bez mleka?",
-      "name": "Barista"
+      "name": "Barista",
+      "other": "Wybierz gracza. Obudź go, pokaż kartę *TA POSTAĆ WYBRAŁA CIEBIE* i żeton Baristy, następnie pokaż znak palcem. :reminder:"
     },
     "baron": {
       "ability": "W grze są dodatkowi Outsiderzy. [+2 Outsiderów]",
@@ -331,13 +336,15 @@
     },
     "boffin": {
       "ability": "Demon (nawet jeśli jest pijany lub zatruty) posiada umiejętność dobrej, nie będącej w grze postaci. Oboje wiecie jaką.",
+      "first": "Obudź Szalonego Naukowca i Demona. Pokaż kartę *TA POSTAĆ WYBRAŁA CIEBIE*, żeton Szalonego Naukowca i postaci, której nie ma w grze. Uśpij obu.",
       "flavor": "Wodór gwiazd, bezkresny i bezwładny; węgiel, tlen, neon — wszystko obrócone w niwecz. Z molekularnego chaosu i entropii rodzą się nowe cuda kosmosu — odrodzenie z atomowego bezładu, materia gęstnieje, zapada się w sobie. A wszystko to — w maleńkiej buteleczce.",
       "name": "Laborant"
     },
     "bonecollector": {
       "ability": "Raz na grę w nocy*, wybierz gracza: ponownie otrzymują swoją umiejętność do zmroku.",
       "flavor": "Kolekcjonuję wiele rzeczy. Włosy. Zęby. Ubrania. Fragmenty wierszy. Sny utraconych kochanków. Tajemnice mojej sztuki nie są dla ciebie, ale zapłata to tylko drobnostka. Przynieś mi krew szlachcianki, która umarła na złamane serce podczas pełni księżyca, a znajdziesz odpowiedzi na swoje pytania.",
-      "name": "Kolekcjoner Kości"
+      "name": "Kolekcjoner Kości",
+      "other": "Kolekcjoner Kości może wybrać martwego gracza. :reminder: Jeśli trzeba, obudź wybranego gracza aby użył swojej umiejętności."
     },
     "boomdandy": {
       "ability": "Jeżeli zostaniesz stracony, wszyscy oprócz 3 graczy umierają. Po odliczaniu od 10 do 1, gracz na którego wskazuje największa liczba graczy umiera.",
@@ -350,8 +357,10 @@
     },
     "bountyhunter": {
       "ability": "Zaczynasz grę wiedząc o 1 złym graczu. Gdy gracz o którym wiesz umrze, poznajesz następnego złego gracza. [1 Mieszczanin jest zły]",
+      "first": "Wskaż na gracza oznaczonego *ZNASZ*.",
       "flavor": "Samotnie przemierzam ulice wybrukowane chorobliwym smrodem zepsucia. Ten odór siłą wpełza w moje nozdrza, pali obrzydzeniem... i żarem oczekiwania. Choroba jątrząca to plugawe miejsce rozrasta się co noc. A ja... ja jestem lekarstwem.",
-      "name": "Łowca Nagród"
+      "name": "Łowca Nagród",
+      "other": "Jeżeli gracz oznaczony *ZNAM* umarł tego dnia lub nocy, wskaż nowego *ZNAM* gracza."
     },
     "buddhist": {
       "flavor": "Rzucasz cierniami. Opadając w mojej ciszy, stają się kwiatami.",
@@ -376,11 +385,13 @@
       "other": "Lokaj wybiera gracza. :reminder:"
     },
     "cacklejack": {
+      "ability": "Każdego dnia wybierz gracza: inny gracz zmienia postać tej nocy.",
       "flavor": "Przewód α Do przewodu β. WłĄczyć. BrzĘczyK wyłĄczony. ŻEżkUrczę! Ramiona proSt0. Palęc do n0$a. tEraaaZz nie ru$ZaĆ siĘ. BoiNgo-banGo! Ha-ha-ha!",
-      "name": "Cacklejack"
+      "name": "Cacklejack",
+      "other": "Przed świtem, wybierz gracza nie oznaczonego *NIE JA*. Obudź go, pokaż kartę *JESTEŚ* i jego nowy żeton postaci."
     },
     "cannibal": {
-      "ability": "Masz umiejętność ostatnio straconej osoby. Jeżeli był to zły, jesteś pijany do czasu aż nie zostanie wykonana pomyślna egzekucja na graczu dobrym.",
+      "ability": "Masz umiejętność ostatnio straconej osoby. Jeżeli był to zły, jesteś zatruty do czasu aż nie zostanie wykonana pomyślna egzekucja na graczu dobrym.",
       "flavor": "Nie lubię klaunów. Dziwnie smakują.",
       "name": "Kanibal"
     },
@@ -430,7 +441,7 @@
     },
     "damsel": {
       "ability": "Wszyscy Sługusi wiedzą, że Damulka jest w grze. Jeżeli Sługus publicznie zgadnie, kim jesteś (raz), twoja drużyna przegrywa.",
-      "first": "Jeżeli Damulka została wybrana przez Łowczego, pokaż jej kartę *JESTEŚ* i jej nowy żeton postaci.",
+      "first": "Podczas przekazywania Informacji dla Sługusów pokaż żeton Damulki. Jeżeli do tej pory tego nie zrobiłeś, zrób to teraz. Jeżeli Damulka została wybrana przez Łowczego, pokaż jej kartę *JESTEŚ* i jej nowy żeton postaci.",
       "flavor": "Tylko nie dotykaj włosów, skarbie.",
       "name": "Damulka",
       "other": "Jeżeli Damulka została wybrana przez Łowczego, pokaż jej kartę *JESTEŚ* i jej nowy żeton postaci."
@@ -471,7 +482,7 @@
       "name": "Wieszcz Zagłady"
     },
     "dreamer": {
-      "ability": "Każdej nocy wybierz gracza (nie siebie ani Wędrowca): dowiadujesz się 1 dobrą i 1 złą postać, 1 z nich jest prawdą.",
+      "ability": "Każdej nocy wybierz gracza (nie siebie ani Podróżnika): dowiadujesz się 1 dobrą i 1 złą postać, 1 z nich jest prawdą.",
       "flavor": "Pamiętam zegarmistrza. Niebo było czerwone i padało fraktalnymi trójkątami. Czuć było zapach fiołków i coś bulgotało. Kobieta o świecących oczach i postrzępionej brodzie syczała na niebo. Wtedy się obudziłam."
     },
     "drunk": {
@@ -499,8 +510,10 @@
     },
     "engineer": {
       "ability": "Raz na grę, w nocy, wybierz którzy Sługusi albo który Demon jest w grze.",
+      "first": "Inżynier może wybrać Sługusów albo Demona. Uśpij Inżyniera. Obudź cel(e) pojedynczo. Pokaż kartę *JESTEŚ* i jego nowy żeton postaci. :reminder:",
       "flavor": "Jeśli się zgina, świetnie. Jeśli pęknie, cóż, prawdopodobnie i tak potrzebowało naprawy.",
-      "name": "Inżynier"
+      "name": "Inżynier",
+      "other": "Inżynier może wybrać Sługusów albo Demona. Uśpij Inżyniera. Obudź kolejno cel(e). Pokaż kartę *JESTEŚ* i jego nowy żeton postaci. :reminder:"
     },
     "eviltwin": {
       "first": "Obudź obu bliźniaków. Pozwól na kontakt wzrokowy. Pokaż żeton dobrego bliźniaka Złemu Bliźniakowi i vice versa.",
