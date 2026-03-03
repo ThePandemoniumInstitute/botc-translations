@@ -53,7 +53,7 @@
     "copy-text": "Kopieer tekst",
     "copy-text-details": "Kopieer de karaktereigenschappen tekst",
     "draft": "Concept",
-    "draft-details": "Een concept karakter is nog niet definitief voor het script. Als er op de \"schudden\" knop wordt gedrukt, worden concept karakters vervangen door karakters van hetzelfde type.",
+    "draft-details": "Een concept karakter is nog niet definitief voor het script. Als er op de hussel knop wordt gedrukt, worden concept karakters vervangen door karakters van hetzelfde type.",
     "pinned": "Vastgezet",
     "pinned-details": "Een vastgezet karakter blijft altijd waar het is. zelfs als automatisch sorteren aan staat."
   },
@@ -92,7 +92,7 @@
   "import-typing-error": "Dit veld is er om JSON te plakken op mobiele en touch-apparaten. Typen en toevoegen is niet toegestaan.",
   "interactions": {
     "+choirboy-king": {
-      "msg": "Scripts met een Koorknaap moeten ook een Koning bevatten.",
+      "msg": "Scripts met een Choirboy (koorknaap) moeten ook een King (koning) bevatten.",
       "title": "Choirboy (koorknaap), maar geen King (koning)"
     },
     "+huntsman-damsel": {
@@ -140,7 +140,7 @@
   "settings": {
     "allow-external-images": "Sta externe afbeeldingen toe",
     "bloodstar-image-correction": "Bloodstar (scripttool) Afbeelding Correctie",
-    "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
+    "bloodstar-image-correction-explanation": "De pictogrammen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
     "compact-layout": "Compacte Weergave",
     "display-and-ui-heading": "Weergave & Gebruikersinterface",
     "external-images-heading": "Externe afbeeldingen",
@@ -151,7 +151,7 @@
     "language": "Taal",
     "language-select-heading": "Selecteer Taal",
     "print-columns": "Kolommen Printen",
-    "print-compact-night-sheet": "Compact Nachtblad",
+    "print-compact-night-sheet": "Compact Nachtoverzicht",
     "print-options-heading": "Afdruk opties",
     "print-player-count-table": "Tabel met spelersaantallen weergeven",
     "script-heading": "Script instellingen",
@@ -160,7 +160,7 @@
     "script-type-standard": "Standaard",
     "script-type-teensyville": "Teensyville (Minidorp)",
     "show-analysis-icons": "Toon Analyse Pictogrammen",
-    "show-night-sheet": "Toon Nachtblad",
+    "show-night-sheet": "Toon Nachtoverzicht",
     "this-language": "Nederlands",
     "view-tour": "Klik {link}hier{/link} om de rondleiding te herstarten."
   },
@@ -175,10 +175,10 @@
   "toggle-quick-input": "aan/uit snelle invoer",
   "tour": {
     "add-and-remove-characters-01": "Je kan een {bold}karakter toevoegen{/bold} vanaf het karakter tabblad. Klik op het karakter dat je wilt toevoegen.",
-    "add-and-remove-characters-02": "{bold}Verwijder een karakter{/bold}, door er nogmaals op te klikken, of op het icoon in het script.",
+    "add-and-remove-characters-02": "{bold}Verwijder een karakter{/bold}, door er nogmaals op te klikken, of op het pictogram in het script.",
     "add-and-remove-characters-03": "Op een mobiel apparaat, kun je dit tabblad openen door naar rechts te swipen, of via {menuIcon} knop links boven. Sluit het tabblad door naar links te swipen.",
     "add-and-remove-characters-04": "Je kunt ook snel karkaters toevoegen via de 'snel invoegen' optie. Deze kun je openen door te drukken op de {plusIcon} knop.",
-    "add-and-remove-characters-heading": "Karakter toevoegen/verwijderen",
+    "add-and-remove-characters-heading": "Karakters toevoegen/verwijderen",
     "autosort-01": "Standaard, alle scripts zijn automatisch {link}{sortIcon} {block}SAO gesorteerd{/block}{/link} – het werkt zelfs voor homebrew (eigen gemaakte) karakters! Je kunt dit hier aan & uit zetten.",
     "autosort-heading": "Automatisch sorteren",
     "final-01": "Dit is het voor nu! Als je deze rondleiding nog een keer wil bekijken kun je dat doen vanaf de {block}{settingsIcon} settings{/block} menu.",
@@ -194,9 +194,9 @@
     "script-analytics-heading": "Script analyse",
     "script-name-and-authors-01": "De {bold}naam van het Script en de auteurs{/bold} kunnen hier aangepast worden.",
     "script-name-and-authors-heading": "Scriptnaam en auteurs",
-    "undo-redo-01": "Foutje gemaakt, geen probleem! Je kunt iets {block}{undoIcon} terugdraaien{/block} of {block}{redoIcon} herstellen{/block} it. Het script leeggooien kan met de {binIcon} knop.",
+    "undo-redo-01": "Foutje gemaakt, geen probleem! Je kunt iets {block}{undoIcon} terugdraaien{/block} of {block}{redoIcon} herstellen{/block}. Het script wissen kan met de {binIcon} knop.",
     "undo-redo-heading": "Ongedaan maken en opnieuw uitvoeren",
-    "welcome-01": "Dit is een gloednieuwe scriptmaker voor {bold}Bloed aan de Klokkentoren{/bold}! Deze rondleiding laat je in het kort de basis functies zien, zodat je snel aan de gang kunt.",
+    "welcome-01": "Dit is een gloednieuwe scriptmaker voor {bold}Blood on the Clocktower{/bold}! Deze rondleiding laat je in het kort de basis functies zien, zodat je snel aan de gang kunt.",
     "welcome-heading": "Welkom!"
   },
   "undo": "Ongedaan maken",
