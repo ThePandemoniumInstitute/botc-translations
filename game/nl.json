@@ -5,7 +5,7 @@
       "name": "Nacht van de Vervloekte Maan"
     },
     "custom": {
-      "description": "Om een zelfgemaakt script te spelen, selecteer je de karakters waarmee je wilt spelen in de officeële scriptmaker. Daarna kun je de gegenereerde \"custom-list.json\" uploaden, of een URL die naar de JSON verwijst gebruiken. Om het in te laden kun je het bestand hierheen slepen of via knippen en plakken toevoegen.",
+      "description": "Om een zelfgemaakt script te spelen, selecteer je de karakters waarmee je wilt spelen in de officeële scriptmaker. Daarna kun je de gegenereerde \"custom-list.json\" uploaden, of een URL die naar de JSON verwijst gebruiken. Om het in te laden kun je het bestand hierheen slepen of via plakken toevoegen.",
       "name": "Zelfgemaakt Script"
     },
     "homebrew": {
@@ -16,8 +16,8 @@
       "name": "Dood of de Gladiolen"
     },
     "tb": {
-      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommigen moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demoon willen verleiden hen aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\n\"Problemen Brouwen\" is een relatief eenvoudige demonenjacht, maar het slechte team heeft een aantal gemene trucs achter de hand om misinformatie te verspreiden, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
-      "name": "Problemen Brouwen"
+      "description": "...heeft een beetje van alles. Sommige karakters krijgen passief informatie, sommigen moeten actie ondernemen om te leren wie wie is, terwijl weer anderen de Demon willen verleiden hem aan te vallen. Zowel goed als slecht kan de bovenhand krijgen bij goed getimede offers.\nTrouble Brewing (problemen brouwen) is een relatief eenvoudige demonjacht, maar het slechte team heeft een aantal gemene trucs achter de hand om misinformatie te verspreiden, dus de goede spelers moeten zich afvragen wat ze denken te weten als ze willen overleven.",
+      "name": "Trouble Brewing (problemen brouwen)"
     }
   },
   "jinxes": {
@@ -34,17 +34,17 @@
     "alhadikhia-scarletwoman": "Als er twee Demonen zijn en 1 hiervan was de Rode Vrouw, dan verandert de Rode Vrouw terug in de Rode Vrouw.",
     "alsaahir-vizier": "De verteller verklaart niet dat de Vizier in het spel zit.",
     "atheist-riot": "Tijdens de rellen, als de verteller is genomineerd, moeten de spelers stemmen. Als de verteller op het punt staat te sterven, eindigt het spel. Zo niet, dan nomineren ze opnieuw.",
-    "balloonist-marionette": "Als de Marionet denkt dat ze de Ballonvaarder zijn, kan er een buitenstaander zijn toegevoegd tijdens het opzetten van het spel",
+    "balloonist-marionette": "Als de Marionette denkt dat ze de Balloonist (ballonvaarder) is, kan er een buitenstaander zijn toegevoegd aan het spel.",
     "banshee-vortox": "Als de Vortox de Banshee vermoordt, leren alle spelers dat de Banshee is gestorven.",
     "baron-plaguedoctor": "Als de Verteller de vaardigheid van de Baron krijgt, komen er maximaal 2 Buitenstaanders bij in het spel.",
     "boffin-cultleader": "Als de Demoon de vaardigheid van de Cultleider krijgt, kunnen ze niet veranderen naar het Goede Team door deze vaardigheid.",
-    "boffin-drunk": "De Demoon kan niet de vaardigheid \"Dronken\" krijgen",
+    "boffin-drunk": "De Demon kan niet de vaardigheid Drunk (dronken) krijgen.",
     "boffin-goon": "Als de Demoon de vaardigheid van de Schurk rijgt, kunnen ze niet veranderen naar het GoedeTeam door deze vaardigheid.",
     "boffin-heretic": "De Demoon kan niet de vaardigheid van de Ketter hebben.",
     "boffin-ogre": "De Demoon kan niet de vaardigheid van de Oger hebben.",
     "boffin-politician": "De Demoon kan niet de vaardigheid van de Politicus hebben.",
     "boffin-villageidiot": "Als er een vrije token is, mag de Bolleboos aan de Demoon, de Dorpsgek vaardigheid geven.",
-    "boomdandy-plaguedoctor": "Als de Verteller de Boemdandy vaardigheid krijgt, wordt een speler de Boemdandy",
+    "boomdandy-plaguedoctor": "Als de Storyteller (spelleider) de Boemdandy vaardigheid krijgt, wordt een speler de Boemdandy.",
     "bountyhunter-kazali": "Als de Kazali een Premiejager in een Minion verandert, wordt er geen Slechte Dorpeling gemaakt.",
     "bountyhunter-philosopher": "Als de Filosoof de vaardigheid van Premiejager krijgt, kan er een Slechte Dorpeling worden gemaakt.",
     "butler-cannibal": "Als de Kannibaal de vaardigheid van Butler krijgt, komt de Kannibaal dit te weten.",
@@ -203,11 +203,11 @@
     },
     "amnesiac": {
       "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
-      "flavor": "Ik heb hier geen actieve herinnering aan.",
+      "flavor": "Wacht. Wat. Wie? O, ok. Wacht. Wat?",
       "name": "Vergeetachtige"
     },
     "angel": {
-      "flavor": "Ik weet nu dat er een engelbеwaarder bestaat",
+      "flavor": "Laat wie zonder zonde is het wagen zijn hand op te heffen tegen mijn uitverkorene, want ik zal zulke dwazen neerhalen met de woede en rechtvaardigheid van duizend stormen.",
       "name": "Engel"
     },
     "apprentice": {
@@ -247,11 +247,11 @@
     },
     "baron": {
       "ability": "Er zijn extra Buitenstaanders in het spel. [+2 Buitenstaanders]",
-      "flavor": "Wat is dan het probleem?\nWij dragen alles en u draagt niets!\nIk draag niets? Ik draag... de verantwoording! En die is al zwaar genoeg.",
+      "flavor": "Dit stadje is naar de knoppen, wat? Goedkope buitenlandse arbeidskrachten… dát is het antwoord. Stop ze maar in de mijn, zeg ik. Een beetje hard werken heeft nog nooit iemand kwaad gedaan, en een draai om de oren voor elke schurk die het tegenspreekt. Uiteindelijk draait het om de winst, wat?",
       "name": "Baron"
     },
     "beggar": {
-      "flavor": "Een aalmoes voor de armen, meneer? Ik vraag slecht een muntje, mevrouw? Dank u, Gods zegen! U bent een goede ziel, geen twijfel mogelijk! Ik heb het chique eten vanavond.",
+      "flavor": "Een aalmoes voor de armen, meneer? Ik vraag slecht een muntje, mevrouw? Dank u, Gods zegen! U bent een goede ziel, geen twijfel mogelijk! Ik heb het chique eten vanavond!",
       "name": "Bedelaar"
     },
     "bishop": {
@@ -282,7 +282,7 @@
       "other": "De Ambtenaar kiest een speler. :reminder:"
     },
     "butcher": {
-      "flavor": "Kip, het meest veelzijdige stukje vlees. Kip!",
+      "flavor": "Het smaakt naar kip. Meer graag.",
       "name": "Slager"
     },
     "butler": {
@@ -306,7 +306,7 @@
       "name": "Kok"
     },
     "choirboy": {
-      "flavor": "Ik zag het, echt waar! Ik was in de kerkbanken de liederboeken aan het opruimen toen er een vreselijke melodie uit de pijporgel kwam. De organist had een lange mantel en lange vingers aan de toetsen. En ook een hoed... die precies... op jouwe lijkt!",
+      "flavor": "Ik zag het, echt waar! Ik was in de kerkbanken de liederboeken aan het opruimen toen er een vreselijke melodie uit de pijporgel kwam. De organist had een lange mantel en lange vingers aan de toetsen. En ook een hoed... die precies... op jouwe lijkt.",
       "name": "Koorknaap"
     },
     "clockmaker": {
@@ -413,7 +413,7 @@
       "name": "Tuinman"
     },
     "general": {
-      "flavor": "\"Ik kwam, ik zag en ik overwon.\"",
+      "flavor": "Ik heb geen tijd voor citaten.",
       "name": "Generaal"
     },
     "gnome": {
@@ -430,14 +430,14 @@
       "name": "Golem"
     },
     "goon": {
-      "flavor": "Ja, baas. Ik heb het zeker goed uitgelegd. Hij wil het niet nog eens horen.\nNee, baas. Ik heb geen dokter nodig - het is maar een messteek. Ik voel me morgen weer oké.",
+      "flavor": "Ja baas. Ik heb de tingen uitgelegd heel goed aan dat kereltje. Hij niet wil dat ik het opnieuw uitleg. Neh baas, Ik heb niet nodig dokter - het is maar een steekwond. Ik morgen kom'",
       "name": "Zot"
     },
     "gossip": {
       "name": "Roddelaar"
     },
     "grandmother": {
-      "flavor": "Trek een jas aan als je naar buiten gaat, lieverd. En je drinken. En je sjaal. Ik heb een slecht hart. Wat moet ik doen als je ziek wordt... of erger.",
+      "flavor": "Trek een jas aan als je naar buiten gaat, schatje. En je drinken. En je sjaal. Ik heb een slecht hart, weet je. Wat moet ik doen als je verkouden wordt... of erger?",
       "name": "Oma"
     },
     "harlot": {
@@ -448,7 +448,7 @@
       "name": "Harpij"
     },
     "hatter": {
-      "flavor": "1...2...3...4... hoedje van, hoedje van, 1...2...3...4... hoedje van papier!",
+      "flavor": "Eén hoed. Twee hoed. Drie hoed. Thee hoed. Voor hoed. Vijf hoed. Zes hoed. Stok hoed.",
       "name": "Hoedenmaker"
     },
     "hellslibrarian": {
@@ -466,7 +466,7 @@
       "name": "Hoge Priester"
     },
     "huntsman": {
-      "flavor": "Mijn hut staat warm, stevig en stil, bij de deur mijn bijl, bij het vuur mijn wil. Laarzen drogen, stoofpot pruttelt zacht, maar hoor daar! Een gil door de vallei die lacht.\nRegen en modder, de koude wind waait, het spoor van de wolven door de duisternis gaat. Ik ken het pad, mijn pas is vast, ik nader nu, ik sta paraat.",
+      "flavor": "Mijn hut is warm en stevig. Mijn bijl staat bij de deur, mijn laarzen drogen bij het vuur, en er pruttelt elandstoof op het fornuis… Hoor! Een kreet weergalmt door de vallei! De regen, de modder en de ijskoude wind verbergen de geur van de wolven, maar ik ken het pad en mijn tred is vast. Ik kom eraan.",
       "name": "Jager"
     },
     "imp": {
@@ -488,7 +488,7 @@
     },
     "kazali": {
       "name": "Kazali",
-      "other": "De Kazali kiest een speler. :reminder: "
+      "other": "De Kazali kiest een speler. :reminder:"
     },
     "king": {
       "name": "Koning"
@@ -540,7 +540,7 @@
       "flavor": "De tentakels van dat monster zijn aan de deuren van de kerk genageld. Moeders en kinderen zwieren dansend door de straat. Perfect. Alles gaat precies zoals ik dat bedacht heb."
     },
     "mayor": {
-      "flavor": "Aan allen die gekomen zijn: proficiat! Aan allen die niet gekomen zijn: ook proficiat!"
+      "flavor": "We moeten onze meningsverschillen opzijzetten en stoppen met dit zinloze geweld. Uiteindelijk zijn we allemaal belastingbetalers. Nou ja… de meesten van ons."
     },
     "mezepheles": {
       "first": "Laat het geschreven woord zien.",
@@ -567,7 +567,7 @@
     },
     "ojo": {
       "name": "Ojo",
-      "other": "De Ojo kiest een karakter. :reminder: "
+      "other": "De Ojo kiest een karakter. :reminder:"
     },
     "organgrinder": {
       "flavor": "Rond en rond, het orgelpracht. Hoe meer je danst, hoe minder je lacht."
@@ -579,7 +579,7 @@
       "flavor": "Rond de ketel ik ga, en de vergiftigde ingewanden sta; een pad die onder koude steen, eenendertig dag en nacht te leen; Gezweet gif in slaap verkregen, in de betoverde pot gelegen."
     },
     "pixie": {
-      "first": "Laat het token van de Dorpeling zien dat gemarkeerd staat als *WAANZIN*"
+      "first": "Laat het Townsfolk (dorpeling) token zien dat gemarkeerd staat als *MAD* (gek)."
     },
     "po": {
       "flavor": "Wil je ook een bloem? Ik ben zo eenzaam.",
@@ -617,7 +617,7 @@
     },
     "sailor": {
       "first": "De Matroos kiest een levende speler. :reminder:",
-      "flavor": "Ik drink jullie allemaal onder de tafel, schavuiten. Jij! Kletskous! Denk jij dat je mij aankunt? Nee?\nEn jij, omaatje? Ooit Old McKillys Extra Rum geprobeerd? Het geeft je haren op je tanden, oké. Stap aan boord, aye!",
+      "flavor": "Ik drink jullie stuk voor stuk onder de tafel! Jij daar! Kwebbelkont! Denk jij dat je me aankunt? Nee? En jij dan, oma? Ooit Old McKilly’s Extra Rum geprobeerd? Gegarandeerd haar op je borst! Kom aan boord, aye!",
       "name": "Matroos",
       "other": "De Matroos kiest een levende speler. :reminder:"
     },
