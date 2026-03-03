@@ -1,4 +1,5 @@
 {
+  "add-bootlegger-rule": "Voeg nieuwe bootlegger (systeemrol) regel toe",
   "analysis": {
     "maximum-character-recommendation": "Het aanbevolen maximum karakters is {number}.",
     "no-messages": "Geen opmerkingen!",
@@ -9,10 +10,12 @@
   "author-placeholder": "Onbekend",
   "by-author": "door {author}",
   "by-author-isolated": "door",
+  "copy-script-link": "Kopieer Script Link",
   "edition": {
     "base-three": "Basisspel",
     "carousel": "Carrousel",
     "custom": "Aangepast",
+    "experimental": "Experimenteel",
     "homebrew": "Zelf gemaakt",
     "kickstarter": "Kickstarter"
   },
@@ -27,6 +30,7 @@
       "share": "Delen"
     }
   },
+  "fabled-and-loric": "Fabled & Loric (legendarische & hoeders)",
   "interactions": {
     "+choirboy-king": {
       "msg": "Scripts met een Koorknaap moeten ook een Koning bevatten."
@@ -44,11 +48,13 @@
     "townsfolk": "Dorpeling|Dorpeling",
     "traveller": "Reiziger|Reizigers"
   },
+  "new-bootlegger-rule": "Nieuwe bootlegger (systeemrol) regel…",
   "print": {
     "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, maar het kan er slecht uit komen.",
     "not-first-night": "* Niet in de eerste nacht",
     "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
   },
+  "recommended-travellers": "Aangeraden Travellers (reizigers)",
   "script-name": "Scriptnaam",
   "script-name-placeholder": "Naamloos Script",
   "settings": {
@@ -63,6 +69,7 @@
     "print-options-heading": "Afdruk opties",
     "script-heading": "Script instellingen",
     "script-type-standard": "Standaard",
+    "script-type-teensyville": "Teensyville (Minidorp)",
     "this-language": "Nederlands",
     "view-tour": "Klik {link}hier{/link} om de rondleiding nog eens te doen."
   },
@@ -74,6 +81,7 @@
     "add-and-remove-characters-heading": "Karakter toevoegen/verwijderen",
     "autosort-heading": "Automatisch sorteren",
     "final-heading": "Veel plezier!",
+    "import-export-share-02": "Klikken op de {block}Kopieer Script Link{/block} knop in het {block}export{/block} menu geeft je een speciale ‘script link’, dat ervoor zorgt dat iedereen je script in de editor kan bekijken.",
     "import-export-share-heading": "Importeren, exporteren en delen",
     "multiple-scripts-01": "Klik op het {heading}scripts{/heading}tabblad om alle scripts te zien waar je aan gewerkt hebt.",
     "multiple-scripts-heading": "Aan verschillende scripts werken",
