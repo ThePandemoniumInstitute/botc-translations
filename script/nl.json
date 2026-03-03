@@ -22,7 +22,7 @@
     "pdf": "Print/Exporteer PDF",
     "png": "Exporteer PNG",
     "screenshot": {
-      "failed-embed": "Sommige iconen konden niet worden toegevoegd aan de afbeelding",
+      "failed-embed": "Sommige pictogrammen konden niet worden toegevoegd aan de afbeelding",
       "save": "Opslaan",
       "share": "Delen"
     }
@@ -34,9 +34,9 @@
   },
   "keyword": {
     "demon": "Demoon|Demonen",
-    "fabled": "Legendarisch|Legendarisch",
+    "fabled": "Fabled (Legendarische)|Fabled (Legendarischen)",
     "first-night": "Eerste Nacht",
-    "loric": "Folklore|Folklore",
+    "loric": "Loric (hoeder)|Loric (hoeders)",
     "minion": "Volgeling|Volgelingen",
     "other-nights": "Overige Nachten",
     "outsider": "Buitenstaander|Buitenstaanders",
@@ -45,7 +45,7 @@
     "traveller": "Reiziger|Reizigers"
   },
   "print": {
-    "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, geen garantie over de kwaliteit.",
+    "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, maar het kan er slecht uit komen.",
     "not-first-night": "* Niet in de eerste nacht",
     "too-many-characters": "Je script heeft te veel karakters ({nchars}). Maximaal aanbevolen is 25 karakters. Dit kan verkeerd weergegeven worden bij printen. Doorgaan?"
   },
@@ -53,12 +53,12 @@
   "script-name-placeholder": "Naamloos Script",
   "settings": {
     "bloodstar-image-correction-explanation": "De iconen die door bloodstar.xyz gegenereerd worden, zijn niet exact gecentreerd. Als deze setting geactiveerd is wordt dat verholpen.",
-    "compact-layout": "Compacte opmaak",
+    "compact-layout": "Compacte Opmaak",
     "display-and-ui-heading": "Weergave & Gebruikersinterface",
     "external-images-heading": "Externe afbeeldingen",
     "font-size-larger": "Groter",
     "font-size-normal": "Normaal",
-    "force-one-column": "Alles in 1 kolom zetten",
+    "force-one-column": "Naar 1 Kolom",
     "language": "Taal",
     "print-options-heading": "Afdruk opties",
     "script-heading": "Script instellingen",
