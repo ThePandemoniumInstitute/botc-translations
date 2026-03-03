@@ -15,10 +15,12 @@
     "button_close": "Sluiten",
     "button_confirm": "Bevestigen",
     "button_continue": "Doorgaan",
+    "button_deny": "Weiger",
     "button_logout": "Uitloggen",
     "button_search": "Zoeken",
     "button_send": "Verzenden",
     "cookie_policy": "Cookiebeleid",
+    "moderation_policy": "Moderatie Beleid",
     "privacy_policy": "Privacybeleid",
     "session-tags": {
       "cameras": {
@@ -73,11 +75,11 @@
       "open-eyes": "Open/sluit ogen",
       "pointing": "Kies een speler"
     },
-    "demon": "Demoon|Demonen",
-    "fabled": "Legendarisch|Legendarisch",
-    "loric": "Folklore|Folklore",
-    "minion": "Volgeling|Volgelingen",
-    "outsider": "Buitenstaander|Buitenstaanders",
+    "demon": "Demon|Demons",
+    "fabled": "Fabled (Legendarische)|Fabled (Legendarischen)",
+    "loric": "Loric (Hoeder)|Loric (Hoeders)",
+    "minion": "Mionion (ondergeschikte)|Minions (ondergeschikten)",
+    "outsider": "Outsider (buitenstaander)|Outsiders (buitenstaanders)",
     "phases": {
       "day": "Eerste dag|Dag {n}",
       "end": "Tussen spelsessies",
@@ -94,7 +96,7 @@
     "storytellers": "de Storytellers (spelleiders)",
     "token": "Fiche",
     "townsfolk": "Dorpeling|Dorpelingen",
-    "traveller": "Reiziger|Reizigers"
+    "traveller": "Traveller (reiziger)|Travellers (reizigers)"
   },
   "main-menu": {
     "cast_vote": "Breng stem uit",
