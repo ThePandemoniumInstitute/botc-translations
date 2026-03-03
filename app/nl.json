@@ -5,7 +5,7 @@
       "patreon-demon": "Demon (demoon) categorie",
       "patreon-minion": "Minion (ondergeschikte) categorie",
       "patreon-townsfolk": "Townsfolk (dorpeling) categorie",
-      "special-free": "gratis",
+      "special-free": "Gratis",
       "special-moderator": "Moderator",
       "special-tpi": "TPI Personeel"
     },
@@ -13,7 +13,7 @@
     "button_allow": "Toestaan",
     "button_cancel": "Annuleren",
     "button_close": "Sluiten",
-    "button_confirm": "Bevestigen",
+    "button_confirm": "Bevestig",
     "button_continue": "Doorgaan",
     "button_deny": "Weiger",
     "button_logout": "Uitloggen",
@@ -81,10 +81,10 @@
     "minion": "Mionion (ondergeschikte)|Minions (ondergeschikten)",
     "outsider": "Outsider (buitenstaander)|Outsiders (buitenstaanders)",
     "phases": {
-      "day": "Eerste dag|Dag {n}",
+      "day": "Eerste Dag|Dag {n}",
       "end": "Tussen spelsessies",
       "first_night": "Eerste nacht",
-      "night": "Eerste nacht|Nacht {n}",
+      "night": "Eerste Nacht|Nacht {n}",
       "other_nights": "Overige nachten",
       "start": "Voorbereiden nacht 1"
     },
@@ -95,10 +95,11 @@
     "storyteller": "Storyteller (Spelleider) {0}",
     "storytellers": "de Storytellers (spelleiders)",
     "token": "Fiche",
-    "townsfolk": "Dorpeling|Dorpelingen",
+    "townsfolk": "Townsfolk (dorpeling)|Townsfolk (dorpelingen)",
     "traveller": "Traveller (reiziger)|Travellers (reizigers)"
   },
   "main-menu": {
+    "block_join": "Een door jou geblokkeerde gebruiker is binnen gekomen: {0}",
     "cast_vote": "Breng stem uit",
     "change_icon": "Klik om pictogram te wijzigen",
     "char_sheet": "Karakter Overzicht",
@@ -115,6 +116,7 @@
     "gong_attention": "Alarm gong",
     "gong_recall": "Terugroepen naar Town Square (dorpsplein)",
     "grim_access": "Je hebt toegang gekregen tot de Grimoire",
+    "grim_request_user": "Kijker {0} heeft gevraagd om toegang tot de Grimoire:",
     "help": "Help",
     "json_schema": "Script JSON Schema",
     "leave": "Verlaat spel",
@@ -123,7 +125,7 @@
     "night_info": "Nachtinfo",
     "night_info_text": "De Storyteller (spelleider) heeft je vannacht wakker gemaakt!",
     "night_sheet": "Overzicht volgorde in de Nacht",
-    "npcs": "Voeg NPCs toe",
+    "npcs": "Voeg NPC's toe",
     "prompt_clear_player": "Weet je zeker dat je alle spelers' karakters en herinneringsfiches wilt verwijderen?",
     "prompt_clear_st": "Dit wist de Grimoire en herinneringsfiches voor jezelf en alle anderen. Weet je het zeker?",
     "prompt_clear_title": "Wis Grimoire en herinneringsfiches",
@@ -136,7 +138,7 @@
     "request_private": "Privéchat aanvragen",
     "reveal_grim": "Onthul Grimoire",
     "rules": "Lees de regels",
-    "session_expires": "Er zijn op dit moment geen Volgeling-gebruikers in deze sessie. De sessie zou kunnen verlopen om {0}.",
+    "session_expires": "Er zijn op dit moment geen Minion (ondergeschikte) categorie gebruikers in deze sessie. De sessie zou kunnen verlopen om {0}.",
     "set_timer": "Timer Instellen",
     "settings": "Instellingen",
     "show_grim": "Toon Grimoire",
@@ -178,14 +180,19 @@
         "avatar_pixel": "Jouw afbeelding is te groot. Verklein het naar minder dan 4000x4000 voordat je het opnieuw upload.",
         "avatar_size": "Je bestand is te groot. Probeer het opnieuw met een afbeelding die minder dan 5 MB is.",
         "avatar_type": "Je bestand is niet herkend als een afbeelding.",
+        "block_text": "Er was een fout tijdens het updaten van je blokkeerlijst.",
+        "block_title": "Fout bij updaten blokkeerlijst",
         "bluffs": "Fout bij het bijwerken van de bluffen",
         "chat2_text": "De chatserver lijkt offline te zijn",
         "chat2_title": "Verbinding met chatserver verbroken",
-        "chat_text": "Verbinding met chatserver verbroken, proberen opnieuw verbinding te maken...\nFoutmelding: {0}",
+        "chat_text": "Verbinding met chatserver verbroken, aan het proberen om opnieuw verbinding te maken...\nFoutmelding: {0}",
         "chat_title": "Er is een chatverbindingsfout opgetreden",
         "claiming": "Fout bij het claimen van een stoel",
         "clear_grim": "Kan de grimoire niet wissen",
         "connection": "Er is een verbindingsfout opgetreden",
+        "create_generic": "De server was niet in staat deze sessie aan te maken.",
+        "create_rate_limit": "Je moet een paar minuten wachten voordat je een nieuwe sessie kan maken.",
+        "create_session_exists": "Er bestaat al een sessie met deze naam.",
         "edition_change": "Fout bij het wijzigen van editie",
         "end": "Fout bij het beëindigen van het spel",
         "eyes_close": "Kan de ogen niet sluiten",
@@ -216,6 +223,7 @@
         "session_banned": "Jij bent verbannen.",
         "session_full": "Deze sessie heeft al 25 gebruikers.",
         "session_general": "Fout bij het verbinden met sessie.",
+        "session_join": "Je kan niet deelnemen aan de sessie",
         "session_locked": "De spel sessie is vergrendeld.\nAlleen zittende Spelers en Vertellers mogen meedoen.",
         "session_not_found": "Spelsessie niet gevonden.",
         "session_public": "Jij kunt niet meedoen aan openbare spelsessies.",
@@ -243,11 +251,13 @@
       "prompt": {
         "chat_text": "De app heeft problemen met het bereiken van de chatserver {0}, wil je overstappen naar {1}?",
         "chat_title": "Wisselen van Chatserver",
+        "join_block_text": "Er is minstens 1 speler van je blokkadelijst in deze sessie:\n {0}\n.Weet je zeker dat je aan deze wil deelnemen?",
+        "join_block_title": "Geblokkeerde gebruikers gevonden",
         "join_placeholder": "Sessie-ID",
         "join_text": "Voer het nummer of de naam in van de spelsessie waaraan je wilt meedoen",
         "join_title": "Meedoen aan een spel",
         "leave_text": "Weet je zeker dat je dit spel wilt verlaten en terug wilt naar de Lobby?",
-        "leave_text_player": "Weet je zeker dat je je stoel wilt vrijmaken en terug wilt keren naar de Lobby?",
+        "leave_text_player": "Weet je zeker dat je je stoel wilt verlaten en terugkeren naar de Lobby?",
         "leave_title": "Terug naar de Lobby",
         "pronouns_placeholder": "Voornaamwoorden",
         "pronouns_text": "Voer je voornaamwoorden in:",
@@ -291,6 +301,7 @@
       "error_size_text": "Het script dat je hebt geselecteerd heeft een grootte van {0}MB, maar de maximale grootte is {1}MB.",
       "homebrew_description": "Aangepaste afbeeldingen van Homebrew scripts zijn vervangen door generieke iconen vanwege veiligheidsredenen. Je kunt deze inschakelen in het Instellingen menu.",
       "homebrew_title": "Aangepaste afbeeldingen uitgeschakeld",
+      "monthly_script": "Script van de maand:",
       "theme": "Thema:",
       "theme_generic": "Algemeen thema:",
       "title": "Selecteer een editie:",
@@ -307,7 +318,11 @@
       "session_debug2": "Je app sessie wordt nu bijgehouden en automatisch naar ons verstuurd. Je kunt dit altijd handmatig stoppen door op de onderstaande knop te klikken of de app opnieuw te laden.",
       "text1": "Deze app (versie {version}) is momenteel in Ontwikkeling.",
       "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}. Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}.",
+      "text3": "Als je in contact wilt komen met een moderator, stuur een mail naar {0}.",
       "welcome": "Welkom bij {0}!"
+    },
+    "npc": {
+      "title": "Voeg een Non-Player Character (niet-spelende gebruiker) toe"
     },
     "reminder": {
       "custom_favorite": "Opgeslagen als favoriet",
@@ -328,6 +343,7 @@
       "title_alignment_g": "Goed",
       "title_alignment_r": "normaal",
       "title_target": "voor {0}",
+      "title_type_bluff": "bluf",
       "title_type_character": "Karakter"
     },
     "roles": {
@@ -349,7 +365,7 @@
       "background_title": "Aangepaste Achtergrond",
       "button_always": "Altijd",
       "button_edit": "Account Bewerken",
-      "button_setup": "Voer de installatie uit",
+      "button_setup": "Start installatie",
       "button_verify": "Account Verifiëren",
       "css_apply": "Aangepaste CSS Regels toevoegen?",
       "css_confirm": "Ik weet wat ik doe, laat mij het uiterlijk van de app veranderen",
@@ -359,6 +375,18 @@
       "image_text": "Weet je zeker dat je aangepaste afbeeldingen wilt toestaan? Een kwaadaardige script maker kan op deze manier je IP-adres traceren. The Pandemonium Institute heeft geen controle over de afbeeldingen die door andere gebruikers van de app worden toegevoegd.",
       "image_title": "Aangepaste afbeeldingen toestaan",
       "nomination": {
+        "bigwig": {
+          "text": "Elke genomineerde kiest een speler: tot het stemmen, mogen alleen zij praten & ze zijn \"mad\" (gek) dat de genomineerde goed is, anders kan die dood gaan.",
+          "title": "Big Wig (Hoge Pief)"
+        },
+        "focus": {
+          "text": "De genomineerde speler heeft de aandacht van de groep.",
+          "title": "Aandacht genomineerde"
+        },
+        "phases": {
+          "text": "Alleen de nominerende en de genomineerde mogen praten.",
+          "title": "Aanval & verdediging"
+        },
         "regular": {
           "text": "Iedereen mag praten.",
           "title": "Normaal"
@@ -366,6 +394,8 @@
       },
       "option_disabled": "Uitgeschakeld",
       "patreon_link": "Link naar Patreon Account",
+      "patreon_link_text": "Je kunt dit scherm nu sluiten.",
+      "patreon_link_title": "Patreon account gekoppeld",
       "patreon_perks": "Avatars en speciale naamplaten zijn beschikbaar met een betaald {0}!",
       "patreon_perks2": "Patreon abonnement",
       "patreon_update": "Update je Patreon status",
@@ -375,10 +405,10 @@
       "setting_audio_unnamed": "Naamloze Audio input",
       "setting_auto_gain": "Automatische Versterking",
       "setting_avatar_size": "Speler Avatarformaat",
-      "setting_avatars": "Laat Avatars/webcam's zien op het Dorpsplein",
+      "setting_avatars": "Laat Avatars/webcam's zien op Town Square (dorpsplein)",
       "setting_background": "Achtergrond afbeelding",
       "setting_camera": "Camera",
-      "setting_chroma": "Chroma Key",
+      "setting_chroma": "Chroma Sleutel",
       "setting_chroma_label": "Selecteer Chroma kleur",
       "setting_clouds": "Laat wolken tijdens nacht fase zien",
       "setting_colorblind": "Kleurenblinde modus: {0}",
@@ -390,6 +420,7 @@
       "setting_english": "Karakter",
       "setting_gain": "Audioversterking",
       "setting_general_volume": "Algemeen volume",
+      "setting_grimoire_offset": "Grimoire Positie",
       "setting_homebrew": "Laat aangepaste afbeeldingen / tokens zien",
       "setting_microphone": "Microfoon",
       "setting_mute_audio": "Audio dempen",
@@ -447,6 +478,7 @@
         "toggleAudioMuted": "Demp microfoon / push-to-talk",
         "toggleEdition": "Selecteer editie",
         "toggleFullscreen": "Volledig Scherm",
+        "toggleNPCs": "Voeg Non-Playing Character (niet spelende karakter) toe",
         "toggleNight": "Nachtfase in-/uitschakelen",
         "toggleNightOrder": "Nacht volgorde",
         "toggleNightSignal": "Laat Nacht volgorde zien",
@@ -545,6 +577,7 @@
       "received": "Ontvangen",
       "response": "Antwoord:",
       "saw_this": "{0} zag dit",
+      "select_everyone": "Iedereen selecteren",
       "selected_players": "Geselecteerde Spelers",
       "sent": "Verstuurd",
       "storyteller": "Verteller|Vertellers",
@@ -566,10 +599,12 @@
     },
     "user": {
       "button_add_st": "Voeg Verteller toe",
+      "button_block_user": "Blokkeer Gebruiker",
       "button_cancel_st": "Annuleer Verteller aanvraag",
       "button_kick_user": "Gebruiker verwijderen",
       "button_mod_user": "Mod gebruiker",
       "button_remove_st": "Verwijder Verteller",
+      "button_unblock_user": "Deblokkeer Gebruiker",
       "error": "Er was een fout in het laden van de gebruikersinformatie.",
       "grimoire_access_grant": "Geef toegang tot Grimoire",
       "grimoire_access_revoke": "Trek toegang Grimoire in",
@@ -638,7 +673,7 @@
       "gardener_button": "Stuur de Karakters",
       "gardener_text": "Als je blij bent met de karakter opzet, {0} naar de Spelers. Zodra je deze hebt uitgedeeld, kun je doorgaan met de opzet tijdens de eerste nacht.",
       "reminders": "Voeg alle nodige herinneringstokens {0} toe.",
-      "title": "Bereid de eerste nacht voor."
+      "title": "Bereid de eerste nacht voor"
     },
     "gatherplayers": {
       "button_add": "Voeg stoel toe",
@@ -648,7 +683,7 @@
       "button_shuffle": "Stoelen husselen",
       "clear_text": "Weet je zeker dat je alle spelers wil verwijderen?",
       "clear_title": "Verwijder alle spelers",
-      "move": "Plaats achter \n{0}",
+      "move": "Verplaats achter \n{0}",
       "shuffle_text": "Weet je zeker dat je de stoelen willekeurig wil toewijzen?",
       "shuffle_title": "Stoelen willekeurig toewijzen",
       "swap": "Verwissel met\n{0}",
@@ -661,7 +696,7 @@
       "open-eyes": {
         "button_close": "Sluiten",
         "button_open": "Open",
-        "button_peek": "Spieken",
+        "button_peek": "Gluren",
         "state_false": "Gesloten",
         "state_open-eyes": "Open",
         "state_peek-eyes": "Gluren",
@@ -704,11 +739,12 @@
       "text_player": "De Verteller moet meer spelers toevoegen voor je kunt beginnen.",
       "text_st": "Om te beginnen moet je eerst {0}",
       "timer_ended": "Beëindigd",
-      "title": "Welkom bij {0}"
+      "title": "Welkom bij {0}."
     },
     "vote": {
       "accusation": "Beschuldiging",
       "button_chat": "Open Chat",
+      "button_clear_selection": "Wis Selectie",
       "button_countdown": "Aftellen",
       "button_defense": "Ga naar Verdediging",
       "button_hand_down": "OMLAAG",
@@ -720,6 +756,7 @@
       "button_restart": "Opnieuw",
       "button_resume": "Doorgaan",
       "button_select_player": "Kies Speler",
+      "button_set_highscore": "Stel hoogste telling in",
       "button_start": "Start",
       "choose_defense_attorney": "Kies een advocaat!",
       "countdown_go": "Gaan",
@@ -763,6 +800,7 @@
     },
     "lobby": {
       "bootlegger_title": "Let Op!",
+      "bootlegger_warning": "Deze sessie gebruikt de Loric (hoeder), wat betekent dat het aangepaste regels of karakters heeft, buiten de officiële uitgave en is beter geschikt voor ervaren spelers.\nAls je nieuw bent met Blood on the clocktower, adviseren wij om eerst gewend te raken aan de standaard regels en karakters door middel van de officieel uitgegeven scripts. Trouble Brewing (Problemen Maken) is perfect voor je eerste spel ervaring\nIn elk geval, welcome — we zijn blij dat je hier bent!\nWeet je zeker dat je toegang wil tot deze sessie?",
       "button_create_game": "Maak spel",
       "button_help": "Help",
       "button_join_game": "Doe mee aan Privé Spel",
@@ -784,6 +822,7 @@
       "language": "Taal",
       "loading": "Spellen laden...",
       "no_games": "Geen publieke spellen gevonden.",
+      "npcs": "Non-Player Characters (niet spelende karakters)",
       "page": "Pagina {page} van {total}",
       "phase": "Fase",
       "players": "Spelers",
@@ -798,6 +837,7 @@
       "welcome": "Welkom bij {0}!"
     },
     "login": {
+      "accept_policies": "Accepteer onze {0}, {1}, {2} & {3}.",
       "description": "Log in of maak een account om door te gaan:",
       "email": "E-mailadres",
       "error_captcha": "Vul de captcha in",
@@ -839,12 +879,13 @@
       "empty_text": "Wil je deze speler echt van zijn stoel verwijderen terwijl het spel bezig is?",
       "empty_title": "Lege stoel {0}",
       "follow": "Volg Speler",
-      "nominate": "Nomineer Speler",
+      "nominate": "Zelfnominatie",
       "unfollow": "Ontvolg Speler",
       "wake": "Wekken",
       "whisper": "Stuur Tekstbericht"
     },
     "name": {
+      "blocked": "Je hebt deze gebruiker geblokkeerd.",
       "claim": "Klik om te Claimen",
       "connecting": "Deze speler maakt verbinding met de audiochat.",
       "follow": "Jij volgt deze speler.",
@@ -852,7 +893,7 @@
       "move": "Verplaats deze speler.",
       "offline": "Deze speler is nu offline.",
       "remove": "Verwijder deze speler.",
-      "remove_text": "Wil je deze stoel {0} echt verwijderen?\nDeze speler zit er op: {1}.",
+      "remove_text": "Wil je deze stoel {0} echt verwijderen?\nHet is bezet door deze speler: {1}.",
       "remove_title": "Verwijder Stoel",
       "seat_text": "(dit is alleen zichtbaar voor jou)",
       "seat_title": "Verander Stoelnaam"
@@ -862,13 +903,14 @@
       "night_info_received": "Nachtinformatie ontvangen",
       "night_info_sent": "Nachtinformatie verstuurd",
       "nominate": "Nomineer deze speler",
-      "point": "Wijs naar deze speler"
+      "point": "Wijs naar deze speler",
+      "select": "Selecteer deze speler"
     },
     "reminders": {
       "add": "Herinnering toevoegen",
       "edit": "Pas Herinnering aan: {0}",
       "edit_placeholder": "Eigen notitie",
-      "edit_text": "Bewerk de aangepaste herinneringsnotitie voor {0}.",
+      "edit_text": "Bewerk de aangepaste herinneringsnotitie voor {0}",
       "edit_title": "Bewerkt de herinneringstoken",
       "flip": "Draai de Herinneringstoken om {0}",
       "remove": "Verwijder de Herinneringsnotitie {0}",
@@ -887,7 +929,8 @@
     "locked": "Vertellers en Spelers",
     "locked_text": "Enkel spelers op de stoelen en Vertellers kunnen deelnemen.",
     "name_placeholder": "Naam van Spelsessie",
-    "prompt_public_text": "Ben je zeker dat je de spelsessie publiekelijk zichtbaar wil maken?\nDit geeft iedereen toegang om het spel te zien en mee te spelen.",
+    "open_text": "Iedereen heeft toegang tot deze sessie.",
+    "prompt_public_text": "Ben je zeker dat je deze spelsessie openbaar wil maken?\nDit geeft iedereen toegang om het spel te zien en mee te spelen.",
     "prompt_public_title": "Maak Spelsessie publiekelijk",
     "server": "Chat Server:",
     "server_name": "Naam",
@@ -907,7 +950,7 @@
     "following": "Je volgt deze Verteller.",
     "listening": "De Verteller luister mee in deze audio chat.",
     "offline": "De verteller is momenteel offline.",
-    "prompt_grim_text": "Nieuwe spelers kunnen geen toegang vragen voor het Grimoire in publieke spellen.\nVoltooi meer spellen om deze functie te ontgrendelen.",
+    "prompt_grim_text": "Nieuwe spelers kunnen geen toegang vragen tot de Grimoire in publieke spellen.\nVoltooi meer spellen om deze functie te ontgrendelen.",
     "prompt_grim_title": "Fout bij aanvragen toegang Grimoire",
     "remove": "Verwijder Verteller",
     "request_grim": "Vraag toegang tot Grimoire",
@@ -923,8 +966,9 @@
       "error_popout": "Fout bij maken scherm",
       "error_save": "Fout bij opslaan",
       "jinxes": "Vloeken",
-      "other_nights": "Niet de\n eerste nacht",
-      "popout": "Tevoorschijn halen Karakter Tab"
+      "other_nights": "Niet de\neerste nacht",
+      "popout": "Open Karakter Tab",
+      "popout_window": "Open Karakter tab in nieuw venster"
     },
     "characters": {
       "title": "Karakters"
@@ -933,7 +977,7 @@
       "accept": "Accepteer aanvraag",
       "accept_request": "Accepteer chat aanvraag met {0}",
       "cancel": "Annuleer aanvraag",
-      "cancel_request": "Annuleer chataanvraag met {0}",
+      "cancel_request": "Annuleer chatverzoek van {0}",
       "channels": {
         "bmr_0": "Taverne",
         "bmr_1": "Hut",
@@ -970,6 +1014,15 @@
       "spectator": "Toeschouwer",
       "title": "Spraak"
     },
+    "night": {
+      "popout": "Open nachtfase overzicht",
+      "toggle": "Verwissel nachtfase overzicht"
+    },
+    "npcs": {
+      "remove_fabled": "Verwijder Fabled (Legendarische)",
+      "remove_loric": "Verwijder Loric (hoeder)",
+      "title": "NPC's"
+    },
     "text": {
       "channels": {
         "private": "Privé",
@@ -981,11 +1034,12 @@
       "message_to": "aan",
       "prompt_private": "Privéchat",
       "prompt_public": "Publiekelijke aankondiging",
-      "prompt_spectator": "Toeschouwers chat",
+      "prompt_spectator": "Toeschouwerschat",
       "prompt_system": "Systeemberichten",
       "prompt_user": "Aan {0}",
+      "sender_blocked": "verzender geblokkeerd",
       "system": {
-        "death": "{0} is gestorven",
+        "death": "{0} is gestorven.",
         "end_evil": "Het spel is geëindigd en het Slechte Team heeft gewonnen!",
         "end_good": "Het spel is geëindigd en het Goede Team heeft gewonnen!",
         "grim_deny": "{0} heeft geen toegang tot het Grimoire gekregen.",
@@ -1006,14 +1060,16 @@
         "vote": "{0} heeft zijn Doden-stem gebruikt."
       },
       "title": "Tekst",
-      "tooltip": "Laat {0} ongelezen bericht zien aan ontvanger {1}."
+      "tooltip": "Toon {0} ongelezen berichten met ontvanger {1}"
     }
   },
   "user": {
     "avatar_enabled": "Avatar zichtbaar",
+    "blocked": "Geblokkeerd",
+    "blocked_on_date_as_name": "op {0} als {1}",
     "camera_enabled": "Camera zichtbaar",
     "error_avatar_text": "De Avatar die je geselecteerd hebt is {0}MB, maar het maximum formaat is {1}MB.",
-    "error_avatar_title": "Bestand te groot.",
+    "error_avatar_title": "Bestand te groot",
     "gain": "Verdienen",
     "group_subscription": "Groepsabonnement",
     "id": "Gebruikers ID",
@@ -1024,16 +1080,16 @@
     "registration": "Registratie",
     "statistics": "Statistieken",
     "stats": {
-      "edition": "Meest gespeelde\n edities",
+      "edition": "Meest gespeelde\nEdities",
       "homebrew": "Een Zelfgemaakt Karakter",
       "loading": "Statistieken laden...",
       "none": "Geen",
-      "player": "Spellen\n Gespeeld",
+      "player": "Spellen\nGespeeld",
       "player_wins": "Winpercentage {0}%",
-      "role": "Top\n Start percentage",
+      "role": "Meest gestarte\nKarakters",
       "st_evil_wins": "{0}% Slechte Winpercentage",
-      "storyteller": "Spellen\n Verteld",
-      "warning": "Statistieken worden gegenereerd...\n Kom later terug!"
+      "storyteller": "Spellen\nals Storyteller (spelleider)",
+      "warning": "Statistieken worden gegenereerd...\nKom later terug!"
     },
     "stats_hidden": "Verborgen",
     "stats_private": "Privé",
@@ -1047,8 +1103,10 @@
     "players_alive": "{0} / {1} spelers levend",
     "reload": "Herlaad of wis je browsercache om de nieuwe versie te krijgen.",
     "since": "sinds {0}",
+    "translation_content": "Spelvertalingen gebruiken",
     "translation_disclaimer": "Je gebruikt nu een gelokaliseerde versie van de app. Deze vertaling is gemaakt en beoordeeld door de volgende vrijwilligers, die niet verbonden zijn aan The Pandemonium Institute:",
     "translation_game": "Deze vertaling van de spel inhoud geeft mogelijk niet de officiële Engelse spelregels weer zoals geschreven door The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} travellers (reizigers) nog levend",
     "update": "Updaten alsjeblieft!",
     "updating": "App updaten naar versie {0}...",
     "warning_browser": "Je gebruikt een oud of niet ondersteund browser",
