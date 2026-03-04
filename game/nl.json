@@ -27,7 +27,7 @@
     "alchemist-organgrinder": "Als de Alchemist de vaardigheid van de Orgelman heeft, is de Orgelman in het spel. Als ze beiden nuchter zijn, zijn ze beiden dronken.",
     "alchemist-spy": "Een Alchemist-Spion heeft geen vaardigheid & de Spion zit in het spel. Na elke executie mag de Alchemist-Spion publiekelijk een levende speler als Spion raden. Als dit klopt moet de Demoon de Spion vannacht kiezen.",
     "alchemist-summoner": "De Alchemist-Bezweerder krijgt geen bluffs en kiest een Demoon, maar geen speler. Als hij sterft voor dit gebeurt, wint het slechte team. [Geen Demoon]",
-    "alchemist-widow": "Een Alchemist-Weduwe heeft geen Weduwe-vaardigheid en de Weduwe zit in het spel. Na elke executie raadt de Alchemist-Weduwe publiekelijk een levende speler als de Weduwe. Indien correct moet de Demoon de Weduwe vannacht kiezen.",
+    "alchemist-widow": "Een Alchemist-Widow (weduwe) heeft geen Widow-eigenschap en de Widow zit in het spel. Na elke executie raadt de Alchemist-Widow publiekelijk een levende speler als de WWidow. Indien correct moet de Demon de Widow vannacht kiezen.",
     "alchemist-wraith": "Een Alchemist-Schim heeft niet de vaardigheid van de Schim & de Schim zit in het spel. Na elke executie mag de Alchemist-Schim publiekelijk een levende speler raden als de Schim. Als dit goed is, moet de Demoon de Schim vannacht kiezen.",
     "alhadikhia-mastermind": "Als de Al-Hadikhia sterft door executie en er is een Meesterbrein in leven, dan kiest de Al-Hadikhia 3 goede spelers vannacht: als ze alle drie kiezen om te leven, wint slecht. Anders wint goed.",
     "alhadikhia-princess": "Als de Prinses een speler nomineert & executeert op hun eerste dag, sterft er niemand door de Al-Hadikhia vannacht.",
