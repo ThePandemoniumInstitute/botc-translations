@@ -962,7 +962,8 @@
       "error_save": "Feil ved lagring av fil",
       "jinxes": "Jinxer",
       "other_nights": "Ikke\n.første natt",
-      "popout": "Popp ut karakter fane"
+      "popout": "Popp ut karakter fane",
+      "popout_window": "Åpne karakter fanen i ett nytt vindu"
     },
     "characters": {
       "title": "Karakterer"
@@ -1009,7 +1010,12 @@
       "title": "Stemme"
     },
     "night": {
+      "popout": "Popp ut nattfaseark",
       "toggle": "Veksle nattfaseark"
+    },
+    "npcs": {
+      "remove_fabled": "Fjern sagnomsust",
+      "remove_loric": "Fjern Loric"
     },
     "text": {
       "channels": {
