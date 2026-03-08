@@ -1,20 +1,119 @@
 {
+  "add-demon": "Legg til Demoner",
+  "add-townsfolk": "Legg til Innbygger",
+  "analysis": {
+    "heading": "Manus Analyse",
+    "maximum-character-recommendation": "Annbefalt maksimalt nummer av karakterer er{number}.",
+    "no-messages": "Ingenting å raportere!",
+    "range-between-recommendation-full-demon": "Det er annbefalt å ha mellom {lower} og {upper} Demoner.",
+    "range-between-recommendation-full-townsfolk": "Det er annbefalt å ha mellom {lower} og {upper} Innbyggere.",
+    "range-exact-recommendation-full-demon": "Det er annbefalt å ha akkurat {number} Demoner.",
+    "range-exact-recommendation-full-townsfolk": "Det er annbefalt å ha akkurat {number} Innbyggere.",
+    "too-few-demon": "Ikke nok demoner",
+    "too-few-townsfolk": "Ikke nok innbyggere",
+    "too-many-characters": "For mange karakterer",
+    "too-many-demon": "For mange demoner",
+    "too-many-townsfolk": "For mange innbyggere"
+  },
+  "author": "Forfatter",
+  "author-placeholder": "Ukjent",
+  "by-author": "av{author}",
+  "by-author-isolated": "av",
+  "characters": "Karakterer",
+  "clear-script": "Tøm manus",
+  "close": "Lukk",
+  "ctxmenu": {
+    "copy-text": "Kopier tekst",
+    "copy-text-details": "Kopier karakterens evne tekst",
+    "draft": "Utkast",
+    "pinned": "Festet"
+  },
+  "delete-script-confirmation": "Er du sikker på at du vil slette dette manuset? Denne handlingen er irreversibel.",
   "edition": {
     "base-three": "Basis",
-    "experimental": "Eksperimentell"
+    "carousel": "Karusell",
+    "custom": "Tilpasset",
+    "experimental": "Eksperimentell",
+    "homebrew": "Hjemmebrygg"
   },
+  "export": {
+    "copy-json": "Kopier JSON",
+    "download-json": "Last ned JSON",
+    "pdf": "Skriv ut|Eksporter PDF",
+    "png": "Eksporter PNG",
+    "screenshot": {
+      "failed-embed": "Noen ikoner kunne ikke legges inn i det eksporterte bildet",
+      "save": "Lagre",
+      "share": "Del"
+    }
+  },
+  "filters": "Filtere",
+  "help": "Hjelp",
+  "import-script": "Importer manus",
   "keyword": {
     "demon": "Demon|Demoner",
     "first-night": "Første natt",
+    "minion": "Håndlager|Håndlagere",
     "other-nights": "Andre netter",
     "player": "Spiller|Spillere",
     "townsfolk": "Innbygger|Innbyggere",
     "traveller": "Reisende|Reisende"
   },
+  "name": "Navn",
+  "new-script": "Nytt manus",
   "print": {
-    "not-first-night": "* Ikke første natten"
+    "ios": "Utskrift fra iOS enheter er ikke støttet enda. Du kan prøve uansett, men det kan se feil ut.",
+    "not-first-night": "* Ikke første natten",
+    "too-many-characters": "Manuset ditt har for mange karakterer ({nchars}). Annbefalt mengde er maks 25. Dette kan se ødelagt ut på utskriften. Fortsett?"
   },
+  "quick-add": "Søk i karakterer …",
+  "randomise": "Tilfeldig!",
+  "redo": "Gjør om",
+  "sao": "SAO",
+  "script-name": "Manus navn",
+  "scripts": "Manus",
+  "search-character": "Søk i karakterer …",
+  "search-names": "Søk navn",
   "settings": {
-    "this-language": "Norsk"
-  }
+    "allow-external-images": "Tillat eksterne bilder",
+    "bloodstar-image-correction": "Korrigering av Bloodstar-bilde",
+    "compact-layout": "Kompakt oppsett",
+    "display-and-ui-heading": "Skjerm og brukergrensesnitt",
+    "external-images-heading": "Eksterne bilder",
+    "font-size": "Skriftstørrelse",
+    "font-size-larger": "Større",
+    "font-size-normal": "Normal",
+    "force-one-column": "Tving en kolonne",
+    "language": "Språk",
+    "language-select-heading": "Språk valg",
+    "print-columns": "Skriv ut kolonner",
+    "print-compact-night-sheet": "Kompakt nattoversikt",
+    "print-options-heading": "Utskriftsalternativer",
+    "print-player-count-table": "Vis tabell for antall spillere",
+    "script-heading": "Manus innstillinger",
+    "script-type": "Manus type",
+    "script-type-standard": "Standard",
+    "show-analysis-icons": "Vis analyseikoner",
+    "show-night-sheet": "Vis nattoversikt",
+    "this-language": "Norsk",
+    "view-tour": "Klikk {link} her{/link} for opplæring igjen."
+  },
+  "settings-menu": "Innstillinger",
+  "show-all": "Alle karakterer",
+  "toast": {
+    "copied": "Kopiert til utklippstavlen!"
+  },
+  "tour": {
+    "add-and-remove-characters-heading": "Legger til og fjerner karakterer",
+    "autosort-heading": "Automatisk sortering",
+    "final-heading": "Nyt!",
+    "import-export-share-heading": "Importer, eksporter og deling",
+    "multiple-scripts-heading": "Jobber på flere manus",
+    "script-analytics-heading": "Manus analyse",
+    "script-name-and-authors-heading": "Manus navn og forfattere",
+    "undo-redo-heading": "Angre og gjør på nytt",
+    "welcome-01": "Dette er ett helt nytt manus verktøy for {bold}Blood on the Clocktower{/bold}! Denne omvisningen vil gi deg en rask oversikt over basiske funksjoner for å få deg startet.",
+    "welcome-heading": "Velkommen!"
+  },
+  "undo": "Angre"
 }
