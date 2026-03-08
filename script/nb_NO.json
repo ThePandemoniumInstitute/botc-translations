@@ -221,6 +221,7 @@
     "script-type": "Manuskripttype",
     "script-type-explanation": "Et Teensyville-manuskript er et manuskript laget spesielt for et mindre antall spillere (færre enn 7 spillere). De har vanligvis færre roller enn et standardmanuskript. Denne innstillingen påvirker bare manuskriptanalysen, tilfeldighetsfunksjonen og noen elementer i brukergrensesnittet.",
     "script-type-standard": "Standard",
+    "script-type-teensyville": "Småby",
     "show-analysis-icons": "Vis analyseikoner",
     "show-night-sheet": "Vis nattoversikt",
     "this-language": "Norsk",
