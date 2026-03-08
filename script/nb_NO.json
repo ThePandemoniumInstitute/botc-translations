@@ -1,1 +1,17 @@
-{}
+{
+  "edition": {
+    "base-three": "Basis",
+    "experimental": "Eksperimentell"
+  },
+  "keyword": {
+    "demon": "Demon|Demoner",
+    "first-night": "Første Natt",
+    "other-nights": "Andre Netter",
+    "player": "Spiller|Spillere",
+    "townsfolk": "Innbygger|Innbyggere",
+    "traveller": "Reiser|Reisende"
+  },
+  "print": {
+    "not-first-night": "* Ikke første natten"
+  }
+}
