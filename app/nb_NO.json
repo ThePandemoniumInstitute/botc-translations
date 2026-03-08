@@ -77,6 +77,7 @@
     },
     "demon": "Demon|Demoner",
     "fabled": "Fabel|Fabel",
+    "loric": "Loric|Loric",
     "minion": "Håndlager|Håndlagere",
     "outsider": "Outsider|Outsiders",
     "phases": {
@@ -115,6 +116,7 @@
     "gong_attention": "Oppmerksomhetsgong",
     "gong_recall": "Kall tilbake til Torget",
     "grim_access": "Du har blitt gitt tilgang til Grimoire",
+    "grim_request_user": "Tilskuer {0} har forespurt Grimoire tilgang:",
     "help": "Hjelp",
     "json_schema": "Manus JSON Skjema",
     "leave": "Forlat spill",
@@ -177,6 +179,8 @@
         "avatar_pixel": "Bildet ditt var for stort. Vennligst skaler det ned til 4000x4000 før du laster opp igjen.",
         "avatar_size": "Filen din var for stor. Vennligst prøv igjen med et bilde med en filstørrelse mindre enn 5 MB.",
         "avatar_type": "Filen din var ikke gjenkjent som et bilde.",
+        "block_text": "Det var en feil i å oppdatere blokkerings listen din.",
+        "block_title": "Feil i å oppdatere blokkerings listen",
         "bluffs": "Feil under oppdatering av bløffer",
         "chat2_text": "Chat-serveren ser ut til å være nede",
         "chat2_title": "Chat-server koblet fra",
@@ -295,6 +299,7 @@
       "error_size_text": "Manuset du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
       "homebrew_description": "Egendefinerte bilder fra Homebrew-manus er erstattet med generiske ikoner av sikkerhetshensyn. Du kan aktivere dem via Innstillinger.",
       "homebrew_title": "Egendefinerte bilder skrudd av",
+      "monthly_script": "Månedens manus:",
       "theme": "Tema:",
       "theme_generic": "Generisk tema:",
       "title": "Velg en utgave:",
@@ -369,7 +374,8 @@
           "title": "Talerstol"
         },
         "focus": {
-          "text": "Den nominerte spilleren har gruppens oppmerksomhet."
+          "text": "Den nominerte spilleren har gruppens oppmerksomhet.",
+          "title": "Nominert fokus"
         },
         "phases": {
           "text": "Bare nominator og nominert person kan snakke.",
@@ -586,6 +592,7 @@
     },
     "user": {
       "button_add_st": "Legg til Forteller",
+      "button_block_user": "Blokker Bruker",
       "button_cancel_st": "Avbryt Forteller Forespørsel",
       "button_kick_user": "Kast ut Bruker",
       "button_mod_user": "Mod-bruker",
