@@ -201,7 +201,7 @@
       "name": "Al-Hadikhia"
     },
     "alsaahir": {
-      "name": "Alsaahir"
+      "name": "Alsaahir (waarzegger)"
     },
     "amnesiac": {
       "ability": "Jij weet niet wat je vaardigheid is. Elke dag maak je privé een keuze: je leert hoe accuraat je bent.",
@@ -612,7 +612,7 @@
       "name": "Revolutionair"
     },
     "riot": {
-      "flavor": "Larga vida a la revolución! Mi revolucion!",
+      "flavor": "Larga vida a la revolución! Mi revolucion! (Lang leve de revolutie! Mijn revolutie!)",
       "name": "Rellen"
     },
     "sage": {
@@ -652,7 +652,7 @@
       "name": "Shabaloth"
     },
     "shugenja": {
-      "flavor": "これは夢。それも夢。すべて夢です。",
+      "flavor": "これは夢。それも夢。すべて夢です。(Dit is een droom. Dat is ook een droom. Alles is een droom.)",
       "name": "Shugenja"
     },
     "slayer": {
