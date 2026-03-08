@@ -98,6 +98,7 @@
     "traveller": "Reisende|Reisere"
   },
   "main-menu": {
+    "block_join": "En bruker du har blokkert has blitt med i denne økten{0}",
     "cast_vote": "Avgi stemme",
     "change_icon": "Klikk for å bytte ikon",
     "char_sheet": "Karakteroversikt",
