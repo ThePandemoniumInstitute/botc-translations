@@ -10,14 +10,17 @@
       "special-tpi": "TPIs personale"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Tillat",
     "button_cancel": "Avbryt",
     "button_close": "Lukk",
     "button_confirm": "Bekreft",
     "button_continue": "Fortsett",
+    "button_deny": "Avslå",
     "button_logout": "Logg ut",
     "button_search": "Søk",
     "button_send": "Send",
     "cookie_policy": "Retningslinjer for Informasjonskapsler",
+    "moderation_policy": "Modereringsregler",
     "privacy_policy": "Personvernserklæring",
     "session-tags": {
       "cameras": {
@@ -181,6 +184,9 @@
         "claiming": "Feil ved valg av sete",
         "clear_grim": "Kan ikke tømme grimoire",
         "connection": "En tilkoblingsfeil skjedde",
+        "create_generic": "Serveren kunne ikke opprette økten din.",
+        "create_rate_limit": "Du må vente noen minutter før du kan opprette en ny økt.",
+        "create_session_exists": "En økt med dette navnet finnes allerede.",
         "edition_change": "Feil i å bytte utgave",
         "end": "Feil under avslutting av spill",
         "eyes_close": "Kan ikke lukke øynene",
@@ -210,6 +216,7 @@
         "session_banned": "Du er utestengt.",
         "session_full": "Denne økten har allerede 25 brukere.",
         "session_general": "Feil ved tilkobling til økten.",
+        "session_join": "Kan ikke bli med i økten",
         "session_locked": "Spilløkten er låst.\nBare sittende spillere og fortellere kan delta.",
         "session_not_found": "Spilløkten ble ikke funnet.",
         "session_public": "Du kan ikke bli med i offentlige økter.",
@@ -237,6 +244,8 @@
       "prompt": {
         "chat_text": "Appen har problemer med å nå chat-serveren {0}, vil du bytte til {1}?",
         "chat_title": "Bytt chat server",
+        "join_block_text": "Det er minst én bruker fra blokkeringslisten din i denne økten:\n{0}\n Er du sikker på at du vil bli med?",
+        "join_block_title": "Blokkerte brukere funnet",
         "join_placeholder": "Økt-ID",
         "join_text": "Vennligst skriv inn nummeret eller navnet på spilløkten du vil bli med i",
         "join_title": "Bli med i et spill",
@@ -301,6 +310,7 @@
       "session_debug2": "Appøkten din spores nå og sendes automatisk til oss. Du kan når som helst stoppe denne sporingen manuelt ved å klikke på knappen nedenfor eller laste inn appen på nytt.",
       "text1": "Denne appen (versjon {version}) er for tiden under konstruksjon.",
       "text2": "Du kan sende inn tilbakemelding via {0} siden eller {1}. Du kan oppdatere e-postadressen og passordet til kontoen din {2}. Hvis du vil kjøpe det fysiske spillet, kan du ta en titt på {3}.",
+      "text3": "Hvis du ønsker å komme i kontakt med en moderator, kan du sende en e-post til {0}.",
       "welcome": "Velkommen til {0}!"
     },
     "reminder": {
@@ -354,6 +364,13 @@
       "image_text": "Er du sikker på at du vil tillate tilpassede bilder? En ondsinnet manusforfatter kan spore IP-adressen din på denne måten. Pandemonium Institute har ingen kontroll over bildene som leveres av andre brukere av appen.",
       "image_title": "Tillat tilpassede bilder",
       "nomination": {
+        "focus": {
+          "text": "Den nominerte spilleren har gruppens oppmerksomhet."
+        },
+        "phases": {
+          "text": "Bare nominator og nominert person kan snakke.",
+          "title": "Anklage og forsvar"
+        },
         "regular": {
           "text": "Alle kan prate som de vil.",
           "title": "Vanlig"
@@ -361,6 +378,8 @@
       },
       "option_disabled": "Skrudd av",
       "patreon_link": "Link Patreon Bruker",
+      "patreon_link_text": "Du kan lukke vinduet nå.",
+      "patreon_link_title": "Patreon-kontoen er koblet til",
       "patreon_perks": "Avatar opplasting og spesielle navneskilt er tilgjengelig med en betalt{0}!",
       "patreon_perks2": "Patreon abonnement",
       "patreon_update": "Oppdater Patreon Status",
@@ -385,6 +404,7 @@
       "setting_english": "Vis flere engelske karakternavn",
       "setting_gain": "Lydforsterkning",
       "setting_general_volume": "Generelt volum",
+      "setting_grimoire_offset": "Grimoire-forskyvning",
       "setting_homebrew": "Vis egendefinerte bilder / Hjemmebryggingsikoner",
       "setting_microphone": "Mikrofon",
       "setting_mute_audio": "Demp lyden",
@@ -539,6 +559,7 @@
       "received": "Motatt",
       "response": "Svar:",
       "saw_this": "{0} så dette",
+      "select_everyone": "Velg alle",
       "sent": "Sendt",
       "storyteller": "Forteller|Fortellere",
       "title": "Vekk{0}",
@@ -563,6 +584,7 @@
       "button_kick_user": "Kast ut Bruker",
       "button_mod_user": "Mod-bruker",
       "button_remove_st": "Fjern Forteller",
+      "button_unblock_user": "Opphev blokkering av bruker",
       "error": "Det var en feil med å laste bruker detaljer.",
       "grimoire_access_grant": "Gi Grimoire tilgang",
       "grimoire_access_revoke": "Fjern Grimoire Tilgang",
@@ -786,6 +808,7 @@
       "welcome": "Velkommen til {0}!"
     },
     "login": {
+      "accept_policies": "Godta vår {0}, {1}, {2} og {3}.",
       "description": "Vennligst logg inn eller lag en bruker for å fortsette:",
       "email": "E-postadresse",
       "error_captcha": "Vennligst fyll ut captchaen",
@@ -833,6 +856,7 @@
       "whisper": "Send Tekst Melding"
     },
     "name": {
+      "blocked": "Du har blokkert denne brukeren.",
       "claim": "Klikk for å kreve",
       "connecting": "Denne spilleren kobler seg til stemmechatten.",
       "follow": "Du følger denne spilleren.",
@@ -959,6 +983,9 @@
       "spectator": "Tillskuer",
       "title": "Stemme"
     },
+    "night": {
+      "toggle": "Veksle nattfaseark"
+    },
     "text": {
       "channels": {
         "private": "Privat",
@@ -973,6 +1000,7 @@
       "prompt_spectator": "Tilskuer chat",
       "prompt_system": "System meldinger",
       "prompt_user": "Til{0}",
+      "sender_blocked": "Sender blokkert",
       "system": {
         "death": "{0}Har dødd.",
         "end_evil": "Dette spillet er ferdig og det onde laget har vunnet!",
@@ -1000,6 +1028,8 @@
   },
   "user": {
     "avatar_enabled": "Avatar synlig",
+    "blocked": "Blokkert",
+    "blocked_on_date_as_name": "den {0} som {1}",
     "camera_enabled": "Kamera synlig",
     "error_avatar_text": "Avataren du valgte har en størrelse på {0} MB, men den maksimale størrelsen er {1} MB.",
     "error_avatar_title": "Filstørrelsen er for stor",
@@ -1035,8 +1065,10 @@
     "players_alive": "{0}/{1} spillere i live",
     "reload": "Vennligst last inn på nytt eller tøm nettleserens hurtigbuffer for å få den nyeste versjonen.",
     "since": "siden{0}",
+    "translation_content": "Bruk oversettelser av spillinnhold",
     "translation_disclaimer": "Du bruker for øyeblikket en lokalisert versjon av appen. Denne oversettelsen er laget og gjennomgått av følgende frivillige, som ikke er tilknyttet The Pandemonium Institute:",
     "translation_game": "Denne oversettelsen av spillinnholdet gjenspeiler kanskje ikke de offisielle engelske spillereglene slik de er skrevet av The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} reisende i live",
     "update": "Venligst oppdater!",
     "updating": "Oppdaterer appen til versjon {0}...",
     "warning_browser": "Du bruker en gammel eller ustøttet nettleser",
