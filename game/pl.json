@@ -391,7 +391,7 @@
       "other": "Przed świtem, wybierz gracza nie oznaczonego *NIE JA*. Obudź go, pokaż kartę *JESTEŚ* i jego nowy żeton postaci."
     },
     "cannibal": {
-      "ability": "Masz umiejętność ostatnio straconej osoby. Jeżeli był to zły, jesteś zatruty do czasu aż nie zostanie wykonana pomyślna egzekucja na graczu dobrym.",
+      "ability": "Masz umiejętność ostatnio zabitej przez egzekucję osoby. Jeżeli był to zły, jesteś otruty aż dobry gracz nie zostanie zabity przez egzekucję.",
       "flavor": "Nie lubię klaunów. Dziwnie smakują.",
       "name": "Kanibal"
     },
