@@ -646,7 +646,7 @@
       "other": "If an Outsider died today, the Godfather chooses a player. :reminder:"
     },
     "godofug": {
-      "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but can vote twice. If fail, pass Ug hat.",
+      "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
       "flavor": "Blessed are my children, for they see the beauty in simple things.",
       "name": "God of Ug"
     },
