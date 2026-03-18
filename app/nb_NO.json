@@ -300,7 +300,7 @@
       "error_script_text": "Dette manuset ble lastet inn, men inneholder noen problemer. Dette betyr vanligvis at det er noen linjer som ikke skal være der, i henhold til det offisielle JSON-skjemaet for egendefinerte manus.",
       "error_size": "Filstørrelse for stor",
       "error_size_text": "Manuskriptet du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
-      "homebrew_description": "Egendefinerte bilder fra Homebrew-manus er erstattet med generiske ikoner av sikkerhetshensyn. Du kan aktivere dem via Innstillinger.",
+      "homebrew_description": "Egendefinerte bilder fra Homebrew-manuskript er erstattet med generiske ikoner av sikkerhetshensyn. Du kan aktivere dem via Innstillinger.",
       "homebrew_title": "Egendefinerte bilder skrudd av",
       "monthly_script": "Månedens manuskript:",
       "theme": "Tema:",
@@ -309,7 +309,7 @@
       "upload_custom": "Last opp JSON for egendefinert manuskript"
     },
     "help": {
-      "button_send": "Send øktens øktfeilsøkingsdata",
+      "button_send": "Send øktens feilsøkingsdata",
       "button_stop": "Slutt å sende feilsøkingsdata",
       "link_0": "Problemfølger",
       "link_1": "via epost",
