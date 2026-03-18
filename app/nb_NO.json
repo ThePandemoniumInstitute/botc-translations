@@ -2,8 +2,8 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
-      "patreon-demon": "Demon nivå",
-      "patreon-minion": "Undersått nivå",
+      "patreon-demon": "Demonnivå",
+      "patreon-minion": "Undersåttnivå",
       "patreon-townsfolk": "Byfolk",
       "special-free": "Gratis",
       "special-moderator": "Moderator",
@@ -385,7 +385,7 @@
       "patreon_link_title": "Patreon-kontoen er koblet til",
       "patreon_perks": "Avatar opplasting og spesielle navneskilt er tilgjengelig med en betalt{0}!",
       "patreon_perks2": "Patreon abonnement",
-      "patreon_update": "Oppdater Patreon Status",
+      "patreon_update": "Oppdater Patreon-status",
       "setting_alignment": "Vis Tilhørighet på torget",
       "setting_animations": "Vis Animasjoner",
       "setting_audio_deafen": "Lytt til stemmechat",
