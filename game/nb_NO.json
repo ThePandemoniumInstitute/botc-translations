@@ -1,10 +1,10 @@
 {
   "editions": {
     "custom": {
-      "name": "Egendefinert manus"
+      "name": "Egendefinert manuskript"
     },
     "homebrew": {
-      "name": "Hjemmebrygg"
+      "name": "Hjemmebrygget manuskript"
     },
     "tb": {
       "name": "Bryggende trøbbel"
@@ -21,7 +21,7 @@
     "2nd": "2.",
     "3attacks": "Tre angrep",
     "3votes": "3 stemmer",
-    "abnormal": "Abnormal",
+    "abnormal": "Unormal",
     "abouttodie": "Kommer til å dø",
     "alive": "Levende",
     "amigo": "Kompis",
