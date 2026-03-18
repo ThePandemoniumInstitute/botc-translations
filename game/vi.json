@@ -571,7 +571,7 @@
     "villageidiot": {
       "ability": "Mỗi đêm, chọn một người: bạn biết phe của họ. [+0 đến +2 Village Idiot. 1 trong số được thêm sẽ bị say rượu]",
       "first": "Chọn một Village Idiot để làm say rượu. Đánh thức lần lượt để họ chọn một người chơi, cho thấy phe tốt hay xấu dựa vào ngón cái hướng lên hay xuống.",
-      "name": "Vigormortis",
+      "name": "Village Idiot",
       "other": "Đánh thức từng Village Idiot, họ chọn một người chơi, cho thấy phe tốt hay phe xấu dựa vào ngón cái hướng lên hay hướng xuống."
     },
     "virgin": {
