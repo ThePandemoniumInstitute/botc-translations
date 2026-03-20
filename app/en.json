@@ -84,6 +84,7 @@
       "day": "First Day|Day {n}",
       "end": "In between games",
       "first_night": "First Night",
+      "grim_reveal": "Grimoire reveal",
       "night": "First Night|Night {n}",
       "other_nights": "Other Nights",
       "start": "Preparing Night 1"
@@ -189,6 +190,7 @@
         "chat_title": "A chat connection error happened",
         "claiming": "Error claiming seat",
         "clear_grim": "Can't clear grimoire",
+        "clear_history": "Can't clear game history",
         "create_generic": "The server was unable to create your session.",
         "create_rate_limit": "You have to wait a few minutes before you can create another session.",
         "create_session_exists": "A session with this name already exists.",
