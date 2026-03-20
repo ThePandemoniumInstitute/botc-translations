@@ -84,6 +84,7 @@
       "day": "Erster Tag|Tag {n}",
       "end": "Zwischen den Runden",
       "first_night": "Erste Nacht",
+      "grim_reveal": "Grimoire-Aufdeckung",
       "night": "Erste Nacht|Nacht {n}",
       "other_nights": "Weitere Nächte",
       "start": "Vorbereiten der 1. Nacht"
@@ -189,6 +190,7 @@
         "chat_title": "Chat-Verbindungsfehler",
         "claiming": "Fehler bei der Sitz-Auswahl",
         "clear_grim": "Grimoire konnte nicht geleert werden",
+        "clear_history": "Spielverlauf konnte nicht gelöscht werden",
         "connection": "Ein Verbindungsfehler ist aufgetreten",
         "create_generic": "Der Server konnte die Runde nicht erstellen.",
         "create_rate_limit": "Du musst ein paar Minuten warten, bevor du eine neue Runde erstellen kannst.",
