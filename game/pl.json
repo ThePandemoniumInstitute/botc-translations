@@ -547,15 +547,19 @@
       "name": "Zbir"
     },
     "gossip": {
+      "flavor": "Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla.",
       "name": "Plotkara"
     },
     "grandmother": {
+      "flavor": "Ubierz kurteczkę jak idziesz na dwór, skarbie. I jeszcze termos. I szaliczek. Mam słabe serce, jak wiesz. Co bym zrobiła gdybyś dostał kataru...albo gorzej?",
       "name": "Babcia"
     },
     "gunslinger": {
+      "flavor": "Najwyższy czas aby ktoś wziął sprawy w swoje ręce. Tym kimś...jestem ja.",
       "name": "Rewolwerowiec"
     },
     "harlot": {
+      "flavor": "Enchanté, marynarzu. Wyglądasz na kogoś kto potrzebuje wysłuchania swoich trosk. Jestem dobrym słuchaczem. Bardzo, bardzo dobrym.",
       "name": "Nierządnica"
     },
     "harpy": {
@@ -577,6 +581,7 @@
     },
     "hermit": {
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]",
+      "flavor": "W zaginionych i zapomnianych miejscach ziemi, duszy światło bije.",
       "name": "Pustelnik"
     },
     "highpriestess": {
@@ -605,6 +610,7 @@
     },
     "innkeeper": {
       "ability": "Każdej nocy* wybierz 2 graczy: nie mogą umrzeć tej nocy, ale jeden z nich jest pijany do zmierzchu.",
+      "flavor": "Wejdź do środka, strudzony wędrowcze i pozwól odpocząć swoim zmęczonym kością. Pij i raduj się, bo legiony Czarnego Pana nie będą cię niepokoić tej nocy.",
       "name": "Karczmarz"
     },
     "investigator": {
@@ -618,6 +624,7 @@
       "name": "Sędzia"
     },
     "juggler": {
+      "flavor": "Na potrzeby mojej następnej sztuczki, wedle zamówienia, będę potrzebował kwiatka, woreczka fasoli, węża zabawki, pędzel i zmotoryzowany napędzany paliwem przyrząd do skracania żywopłotów. Ostrzegam, ta sztuczka może być moją ostatnią. O rany.",
       "name": "Żongler"
     },
     "kazali": {
@@ -626,13 +633,18 @@
       "name": "Kazali"
     },
     "king": {
+      "flavor": "Między znojem śmiertelnych, nieznanych dróg / A nocą chorą, słodką w tajemnicy swej / Spoczywa losu barwny, nieskrępowany próg / Gdzie każda twarz — to kwiat w ogrodzie jej.",
       "name": "Król"
     },
     "klutz": {
       "flavor": "Ups.",
       "name": "Fajtłapa"
     },
+    "knaves": {
+      "flavor": "Każda ściana to drzwi. Każdy posiłek to uczta."
+    },
     "knight": {
+      "flavor": "Jeśli człowiek skłamie, zabija małą część świata.",
       "name": "Rycerz"
     },
     "legion": {
