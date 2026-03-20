@@ -189,6 +189,7 @@
         "chat_title": "Ett anslutningsfel inträffade",
         "claiming": "Det gick inte att sätta sig",
         "clear_grim": "Det gick inte att rensa grimoaren",
+        "clear_history": "Det går inte att ta bort spelhistoriken",
         "connection": "Ett anslutningsfel inträffade",
         "create_generic": "Servern kunde inte skapa din session.",
         "create_rate_limit": "Du måste vänta några minuter innan du kan skapa en ny session.",
