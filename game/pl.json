@@ -193,6 +193,7 @@
     "guessused": "Odgadnięcie Zużyte",
     "haircutstonight": "Strzyżenie tej nocy",
     "hasability": "Ma umiejętność",
+    "hat": "Kapelusz",
     "isthealchemist": "Jest Alchemikiem",
     "istheapprentice": "Jest Czeladnikiem",
     "isthedemon": "Jest Demonem",
@@ -214,6 +215,7 @@
     "noability": "Brak umiejętności",
     "nominateevil": "Nominuj złego",
     "nominategood": "Nominuj dobrego",
+    "notme": "Nie ja",
     "once": "Zmieniony",
     "outsider": "Outsider",
     "poisoned": "Zatruty",
@@ -391,7 +393,7 @@
       "other": "Przed świtem, wybierz gracza nie oznaczonego *NIE JA*. Obudź go, pokaż kartę *JESTEŚ* i jego nowy żeton postaci."
     },
     "cannibal": {
-      "ability": "Masz umiejętność ostatnio zabitej przez egzekucję osoby. Jeżeli był to zły, jesteś otruty aż dobry gracz nie zostanie zabity przez egzekucję.",
+      "ability": "Masz umiejętność ostatnio zabitej w wyniku egzekucji osoby. Jeżeli był zły, jesteś otruty aż dobry gracz nie zostanie zabity w wyniku egzekucji.",
       "flavor": "Nie lubię klaunów. Dziwnie smakują.",
       "name": "Kanibal"
     },
