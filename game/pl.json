@@ -418,6 +418,7 @@
       "name": "Zły Bliźniak"
     },
     "exorcist": {
+      "flavor": "Wypędzamy was, wszelkiego ducha nieczystego, wszelką moc szatańską, każdy napór piekielnego przeciwnika, każdy legion, każdą diabelską sektę i zgromadzenie, w imię i mocą Pana naszego, Jezusa Chrystusa. Rozkazujemy wam, odejdźcie i uchodźcie daleko od Kościoła Bożego, od dusz stworzonych przez Boga na Jego obraz i odkupionych drogocenną krwią Boskiego Baranka.",
       "name": "Egzorcysta"
     },
     "fanggu": {
@@ -472,6 +473,10 @@
       "first": "Pokaż żetony postaci wszystkich Outsiderów, którzy są w grze.",
       "name": "Ojciec Chrzestny",
       "other": "Jeżeli za dnia umarł Outsider, Ojciec chrzestny wybiera gracza. :reminder:"
+    },
+    "godofug": {
+      "flavor": "Błogosławione są moje dzieci, albowiem widzą piękno w prostych rzeczach.",
+      "name": "Bóg Ug"
     },
     "golem": {
       "name": "Golem"
@@ -656,6 +661,7 @@
       "name": "Szlachcic"
     },
     "nodashii": {
+      "flavor": "Na grzechy Arnocha, czuję twój obciążający smród. Na przeklęte słońce i jej plugawy legion małych, szyderczych bogów, deprawuję cię. Na błogą noc i ukryte głębiny straszliwego i nieświętego morza, kończę twoje nędzne życie na tym łez padole.",
       "name": "No Dashii"
     },
     "ogre": {
