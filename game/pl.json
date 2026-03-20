@@ -1114,7 +1114,7 @@
     "sentinel": {
       "ability": "W grze może być 1 więcej lub 1 mniej Outsiderów.",
       "flavor": "Poproszę o imię. Poproszę o dokumenty. Poproszę o Broń.",
-      "name": "Strażnik"
+      "name": "Odźwierny"
     },
     "shabaloth": {
       "ability": "Każdej nocy* wybierz 2 graczy: umierają. Martwy gracz wybrany poprzedniej nocy może zostać zwrócony.",
@@ -1124,6 +1124,7 @@
     },
     "shugenja": {
       "ability": "Na początku gry dowiadujesz się, czy najbliższy zły gracz siedzi od ciebie w stronę ruchu wskazówek zegara, czy w przeciwną. Jeżeli odległość jest identyczna, Bajarz wybiera, co pokazać.",
+      "first": "Wskaż kierunek zgodny ze wskazówkami zegara lub na odwrót.",
       "flavor": "これは夢。それも夢。すべて夢です。",
       "name": "Shugenja"
     },
@@ -1229,7 +1230,8 @@
       "other": "Jeżeli jakiś gracz został dziś stracony, pokaż jego żeton postaci."
     },
     "ventriloquist": {
-      "ability": "Jeśli gracz ma obsesję na temat bycia nową postacią, gdy jest nominowany, może dziś nie zginąć od egzekucji."
+      "ability": "Jeśli gracz ma obsesję na temat bycia nową postacią, gdy jest nominowany, może dziś nie zginąć od egzekucji.",
+      "name": "Brzuchomówca"
     },
     "vigormortis": {
       "ability": "Każdej nocy* wybierz gracza: umiera. Sługusi zabici w ten sposób zachowują swoją umiejętność i zatruwają 1 sąsiadującego Mieszczanina. [-1 Outsider]",
@@ -1239,10 +1241,10 @@
     },
     "villageidiot": {
       "ability": "Każdej nocy wybierz gracza: poznajesz jego przynależność. [+0 do +2 Wioskowych głupków, 1 z dodatkowych jest pijany]",
-      "first": "Wybierz pijanego Wioskowego głupka. Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza.",
+      "first": "Jeżeli jest kilku Wioskowych Głupków, oznacz jednego jako *PIJANY*. :reminder: Obudź pojedynczo każdego Wioskowego Głupka, aby wybrał gracza. Pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza.",
       "flavor": "Róże są niebieskie, a fiołki czerwone. Ma to sens, jeśli jest odwrócone.",
       "name": "Wioskowy Głupek",
-      "other": "Obudź pojedynczo każdego Wioskowego głupka, żeby wybrał gracza, pokaż kciukiem dobry albo zły zgodnie z przynależnością tego gracza."
+      "other": "Obudź pojedynczo każdego Wioskowego Głupka, aby wybrał gracza. Przekaż informację kciukiem (dobry/zły)."
     },
     "virgin": {
       "ability": "Gdy zostaniesz nominowany po raz pierwszy, jeżeli nominował cię Mieszczanin, zostaje on natychmiast stracony.",
@@ -1251,7 +1253,7 @@
     },
     "vizier": {
       "ability": "Wszyscy gracze wiedzą, że jesteś Wezyrem. Nie możesz umrzeć za dnia. Jeżeli zagłosował dobry gracz, możesz natychmiast wymusić egzekucję.",
-      "flavor": "Doskonała decyzja, jak zawsze, ekscelencjo. Tak małe wykroczenia jak potrącenie Biskupa rzeczywiście zasługuje na \"sprawiedliwość\" i \"łaskę\". Idź na spacer do ogrodu. Odwiedź galerię i podziwiaj rzeźby Von Straufa. Odpręż się, panie. Ja wszystkim się... zajmę.",
+      "flavor": "Doskonała decyzja, jak zawsze, ekscelencjo. Tak małe wykroczenia jak potrącenie Biskupa rzeczywiście zasługują na twą \"sprawiedliwość\" i \"łaskę\". Idź na spacer do ogrodu. Odwiedź galerię i podziwiaj rzeźby Von Straufa. Odpręż się, panie. Ja wszystkim się... zajmę.",
       "name": "Wezyr"
     },
     "vortox": {
