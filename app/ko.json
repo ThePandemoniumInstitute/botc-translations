@@ -84,6 +84,7 @@
       "day": "첫번째 낮|{n}번째 낮",
       "end": "쉬는 시간",
       "first_night": "첫날 밤",
+      "grim_reveal": "마도서 공개",
       "night": "첫번째 밤|{n}번째 밤",
       "other_nights": "다른 밤",
       "start": "게임 세팅 중"
@@ -95,7 +96,7 @@
     "storyteller": "이야기꾼 {0}",
     "storytellers": "이야기꾼",
     "token": "토큰",
-    "townsfolk": "마을 주민|마을 주민",
+    "townsfolk": "주민|주민",
     "traveller": "여행자|여행자"
   },
   "main-menu": {
@@ -126,9 +127,9 @@
     "night_info_text": "이야기꾼이 당신을 깨웠습니다!",
     "night_sheet": "밤 순서 시트",
     "npcs": "NPC 캐릭터 추가",
-    "prompt_clear_player": "모든 플레이어의 캐릭터 및 알림 토큰을 제거하시겠습니까?",
+    "prompt_clear_player": "모든 플레이어의 캐릭터 및 기록 토큰을 제거하시겠습니까?",
     "prompt_clear_st": "마도서를 초기화하면 당신을 포함한 모두에게서 토큰이 제거됩니다. 정말 초기화 하시겠습니까?",
-    "prompt_clear_title": "마도서 및 알림 토큰 초기화",
+    "prompt_clear_title": "마도서 및 기록 토큰 초기화",
     "prompt_timer_text": "타이머의 이름(선택)과 시간을 설정하세요:",
     "prompt_timer_title": "타이머 설정",
     "prompt_vacate_text": "지금 진행 중인 게임에 참가하고 있습니다. 정말 자리를 비우시겠습니까?",
@@ -182,13 +183,14 @@
         "avatar_type": "파일이 이미지로 인식되지 않습니다.",
         "block_text": "차단 리스트 업데이트에 오류가 발생했습니다.",
         "block_title": "차단 리스트 업데이트 오류",
-        "bluffs": "속임수 업데이트 오류",
+        "bluffs": "블러핑 업데이트 오류",
         "chat2_text": "채팅 서버가 오프라인입니다",
         "chat2_title": "채팅 서버 연결 끊김",
         "chat_text": "채팅 서버와의 연결이 끊겼습니다. 다시 연결 중...\n에러 메세지: {0}",
         "chat_title": "채팅 연결 오류가 발생하였습니다",
         "claiming": "자리 선택 오류",
         "clear_grim": "마도서를 초기화할 수 없습니다",
+        "clear_history": "게임 내역을 삭제할 수 없습니다",
         "connection": "연결 오류가 발생했습니다",
         "create_generic": "이 서버에서 방을 생성할 수 없습니다.",
         "create_rate_limit": "다른 방을 생성하려면 잠시 후에 다시 시도하시길 바랍니다.",
@@ -283,7 +285,7 @@
       "button_upload": "업로드",
       "button_url": "URL",
       "clear_description": "마도서를 초기화하면 당신을 포함한 모두에게서 토큰이 제거됩니다. 정말 초기화 하시겠습니까?",
-      "clear_title": "마도서 및 알림 토큰 초기화",
+      "clear_title": "마도서 및 기록 토큰 초기화",
       "custom_placeholder": "커스텀 스크립트 URL",
       "custom_text": "커스텀 스크립트의 json 파일 URL을 입력하세요",
       "custom_title": "커스텀 스크립트 불러오기",
@@ -328,10 +330,10 @@
       "custom_favorite": "즐겨찾기에 저장",
       "custom_note": "커스텀 메모",
       "custom_text": "{0}에 추가할 커스텀 메모를 입력하세요",
-      "custom_title": "커스텀 알림 토큰 추가",
-      "tab1": "관련 알림 토큰",
-      "tab2": "기타 알림 토큰",
-      "title": "{0}에 알림 토큰 추가"
+      "custom_title": "커스텀 기록 토큰 추가",
+      "tab1": "관련 기록 토큰",
+      "tab2": "기타 기록 토큰",
+      "title": "{0}에 기록 토큰 추가"
     },
     "role": {
       "error_character": "{0}와(과) 일치하는 캐릭터를 찾을 수 없습니다.",
@@ -343,7 +345,7 @@
       "title_alignment_g": "선한",
       "title_alignment_r": "일반",
       "title_target": "{0}의",
-      "title_type_bluff": "속임수 캐릭터",
+      "title_type_bluff": "블러핑용 캐릭터",
       "title_type_character": "캐릭터"
     },
     "roles": {
@@ -426,15 +428,15 @@
       "setting_mute_audio": "음소거",
       "setting_mute_video": "비디오 숨기기",
       "setting_noise_suppression": "소음 제거",
-      "setting_player_bluffs": "플레이어: 속임수 탭 표시",
+      "setting_player_bluffs": "플레이어: 블러핑 탭 표시",
       "setting_player_night": "플레이어: 밤 순서 시트 표시",
-      "setting_player_reminders": "플레이어: 중복 알림 토큰 허용",
+      "setting_player_reminders": "플레이어: 중복 기록 토큰 허용",
       "setting_player_sound": "플레이어: 밤 채팅에 효과음 재생",
       "setting_positioning": "사이드 탭 이동 허용",
       "setting_private_cams": "밀담 중인 플레이어의 캠 표시",
       "setting_ptt": "눌러서 말하기",
-      "setting_reminder_zoom": "알림 토큰 크기",
-      "setting_reminders": "알림 토큰 쌓기",
+      "setting_reminder_zoom": "기록 토큰 크기",
+      "setting_reminders": "기록 토큰 쌓기",
       "setting_reminders_always": "항상",
       "setting_reminders_auto": "자동",
       "setting_reminders_never": "불가",
@@ -539,7 +541,7 @@
       "video_unnamed": "알 수 없는 비디오 장치"
     },
     "signal": {
-      "bluffs": "속임수:",
+      "bluffs": "블러핑:",
       "cards": {
         "ability": "능력을 사용합니까?",
         "acknowledge": "확인했습니다",
@@ -588,7 +590,7 @@
       "title_st": "이야기꾼이 당신을 깨웠습니다:",
       "warning_dead": "해당 플레이어는 죽었습니다.",
       "warning_droison": "해당 플레이어는 만취/중독 상태입니다.",
-      "warning_vortox": "마을 주민의 능력은 거짓 정보를 받습니다."
+      "warning_vortox": "주민의 능력은 거짓 정보를 받습니다."
     },
     "update": {
       "bugfix": "버그 수정 내역",
@@ -668,11 +670,11 @@
       "return": "마을 광장으로 즉시 복귀해주세요!"
     },
     "firstnight": {
-      "bluffs": "악마에게 보여줄 비어있는 \"속임수 캐릭터\" 토큰을 선택해주세요.",
+      "bluffs": "악마에게 보여줄 비어있는 \"블러핑용 캐릭터\" 토큰을 선택해주세요.",
       "button_begin": "첫날 밤 시작",
       "gardener_button": "보내주세요",
       "gardener_text": "캐릭터 구성이 만족스럽다면, 플레이어들에게 {0}. 배정을 마치면 첫날 밤을 세팅할 수 있습니다.",
-      "reminders": "필요한 {0} 알림 토큰을 추가하세요.",
+      "reminders": "필요한 {0} 기록 토큰을 추가하세요.",
       "title": "첫날 밤 세팅"
     },
     "gatherplayers": {
@@ -907,13 +909,13 @@
       "select": "이 플레이어를 선택합니다"
     },
     "reminders": {
-      "add": "알림 토큰 추가",
-      "edit": "{0} 알림 토큰 편집",
+      "add": "기록 토큰 추가",
+      "edit": "{0} 기록 토큰 편집",
       "edit_placeholder": "커스텀 메모",
       "edit_text": "{0}의 커스텀 알림 메모 편집하기",
-      "edit_title": "알림 토큰 편집",
-      "flip": "{0} 알림 토큰 뒤집기",
-      "remove": "{0} 알림 토큰 제거하기",
+      "edit_title": "기록 토큰 편집",
+      "flip": "{0} 기록 토큰 뒤집기",
+      "remove": "{0} 기록 토큰 제거하기",
       "saved_favorite": "즐겨찾기에 저장됨"
     },
     "shroud_add": "수의 토큰은 플레이어에게 보이지 않습니다. 낮 동안 다시 클릭하면 표시됩니다.",
@@ -959,7 +961,7 @@
   },
   "tabs": {
     "bluffs": {
-      "title": "속임수"
+      "title": "블러핑"
     },
     "character": {
       "download": "스크립트 JSON 다운로드",
