@@ -197,6 +197,7 @@
     "guessused": "Har gissat",
     "haircutstonight": "Frisering inatt",
     "hasability": "Har förmåga",
+    "hat": "Hatt",
     "isthealchemist": "Är Alkemisten",
     "istheapprentice": "Är Lärlingen",
     "isthedemon": "Är Demonen",
@@ -645,6 +646,11 @@
       "name": "Gudfadern",
       "other": "Om en Utböling dog idag så väljer Gudfadern en spelare. :reminder:"
     },
+    "godofug": {
+      "ability": "Ugs hatt finns. Den med Ugs hatt: säg blott ord med ett ljud, men din röst blir två. Om gör fel, ge bort Ugs hatt.",
+      "flavor": "Välsignade äro mina barn, ty de se skönheten i enkla ting.",
+      "name": "Gud av Ug"
+    },
     "golem": {
       "ability": "Du får bara nominera en gång per spel. Den du nominerar dör om hen inte är Demonen.",
       "flavor": "Golem hjälpa? Golem krossa! Golem hjälpa.",
@@ -773,6 +779,11 @@
       "ability": "När du får veta att du dött väljer du öppet 1 levande spelare; om hen är ond förlorar ditt lag.",
       "flavor": "Oj då.",
       "name": "Klanten"
+    },
+    "knaves": {
+      "ability": "Det finns 2 berättare: en ljuger och en talar sanning. En gång per spel, vid skymningen, kanske de växlar.",
+      "flavor": "Varje mur är en dörr. Varje måltid är en fest.",
+      "name": "Knektarna"
     },
     "knight": {
       "ability": "I början vet du 2 spelare som inte är Demonen.",
