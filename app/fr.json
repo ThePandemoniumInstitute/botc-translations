@@ -10,6 +10,7 @@
       "special-tpi": "Personnel de TPI"
     },
     "botc_online": "BOTC en ligne",
+    "button_allow": "Autoriser",
     "button_cancel": "Annuler",
     "button_close": "Fermer",
     "button_confirm": "Confirmer",
@@ -82,6 +83,7 @@
       "day": "Premier Jour|Jour {n}",
       "end": "Entre deux parties",
       "first_night": "Première Nuit",
+      "grim_reveal": "Révélation du Grimoire",
       "night": "Première Nuit|Nuit {n}",
       "other_nights": "Autres Nuits",
       "start": "Préparation de la Nuit 1"
