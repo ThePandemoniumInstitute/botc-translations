@@ -192,6 +192,7 @@
         "chat_title": "Une erreur de connexion au chat s'est produite",
         "claiming": "Erreur lors de la revendication du siège",
         "clear_grim": "Impossible de vider le Grimoire",
+        "clear_history": "Impossible de vider l'historique de la partie",
         "connection": "Une erreur de connexion s'est produite",
         "create_generic": "Le serveur n'a pas pu créer votre session.",
         "create_rate_limit": "Vous devez attendre quelques minutes avant de pouvoir créer une autre session.",
