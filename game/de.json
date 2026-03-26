@@ -20,6 +20,15 @@
       "name": "Trouble Brewing"
     }
   },
+  "jinxes": {
+    "alchemist-boffin": "Falls der Alchemist die Fähigkeit der Laborratte hat, erfährt der Alchemist nicht, welche Fähigkeit der Dämon dadurch erhält.",
+    "alchemist-marionette": "Eine Alchemisten-Marionette hat keine Marionetten-Fähigkeit & es ist eine Marionette im Spiel.",
+    "alchemist-mastermind": "Ein Alchemisten-Strippenzieher hat nicht die Strippenzieher-Fähigkeit & es ist kein Strippenzieher im Spiel.",
+    "alchemist-organgrinder": "Falls der Alchimist die Fähigkeit des Drehorgelspielers hat, ist der Drehorgelspieler im Spiel. Falls beide nüchtern sind, sind beide betrunken.",
+    "alchemist-spy": "Ein Alchemisten-Spion hat keine Spion-Fähigkeit & ein Spion ist im Spiel. Nach jeder Hinrichtung darf ein lebendiger Alchemisten-Spion öffentlich einen lebendigen Spieler als den Spion raten. Falls er richtig rät, muss der Dämon heute Nacht den Spion wählen.",
+    "alchemist-summoner": "Der Alchemisten-Beschwörer erhält keine Bluffs und wählt, welcher Dämon erschaffen wird, aber er wählt nicht, welcher Spieler zum Dämon wird. Falls er stirbt, bevor dies passiert, gewinnt Böse. [Kein Dämon]",
+    "alchemist-widow": "Eine Alchemisten-Witwe hat keine Witwen-Fähigkeit & eine Witwe ist im Spiel. Nach jeder Hinrichtung darf eine lebendige Alchemisten-Witwe öffentlich einen lebendigen Spieler als die Witwe raten. Falls er richtig rät, muss der Dämon heute Nacht die Witwe wählen."
+  },
   "reminders": {
     "3attacks": "3 Angriffe",
     "3votes": "3 Stimmen",
