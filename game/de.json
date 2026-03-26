@@ -48,7 +48,19 @@
     "bountyhunter-kazali": "Falls die Kazali den Kopfgeldjäger in einen Schergen verwandelt, wird kein Bürger durch den Kopfgeldjäger böse gemacht.",
     "bountyhunter-philosopher": "Falls der Philosoph die Fähigkeit des Kopfgeldjägers erhält, könnte ein Bürger böse werden.",
     "butler-cannibal": "Falls der Kannibale die Fähigkeit des Butlers erhält, erfährt der Kannibale dies.",
-    "butler-organgrinder": "Falls der Drehorgelspieler dafür sorgt, dass blind abgestimmt wird, darf der Butler seine Hand zur Abstimmung heben, aber seine Hand wird nur gezählt, falls sein Meister auch abstimmt."
+    "butler-organgrinder": "Falls der Drehorgelspieler dafür sorgt, dass blind abgestimmt wird, darf der Butler seine Hand zur Abstimmung heben, aber seine Hand wird nur gezählt, falls sein Meister auch abstimmt.",
+    "cannibal-juggler": "Falls der Jongleur an seinem ersten Tag rät und durch Hinrichtung stirbt, erfährt der Kannibale heute Nacht, wie viele Charaktere der Jongleur richtig geraten hatte.",
+    "cannibal-princess": "Falls der Kannibale heute die Prinzessin nominiert & hingerichtet hat, und sie gestorben ist, tötet der Dämon heute Nacht nicht.",
+    "cannibal-zealot": "Falls der Kannibale die Fähigkeit des Eiferers erhält, erfährt der Kannibale dies.",
+    "cerenovus-goblin": "Der Cerenovus darf wählen, dass ein Spieler \"besessen\" davon ist, der Goblin zu sein.",
+    "chambermaid-mathematician": "Die Kammerzofe kann erkennen, ob der Mathematiker heute Nacht aufwachen wird.",
+    "clockmaker-summoner": "Der Beschwörer erscheint dem Uhrmacher als Dämon.",
+    "courtier-summoner": "Falls der lebendige Beschwörer keine Fähigkeit hat, hat er Erzähler die Fähigkeit des Beschwörers.",
+    "courtier-vizier": "Falls der Wesir seine Fähigkeit verliert, erfährt er dies und kann tagsüber nicht sterben.",
+    "cultleader-pithag": "Falls das Grubenweib einen bösen Spieler in den Kultführer verwandelt, kann er durch seine eigene Fähigkeit nicht gut werden.",
+    "damsel-pithag": "Falls das Grubenweib eine Unschuld erzeugt, wählt der Erzähler, welcher Spieler zur Unschuld wird.",
+    "damsel-spy": "Falls der Spion im Spiel ist (oder war), ist die Unschuld vergiftet.",
+    "damsel-widow": "Falls die Witwe im Spiel ist (oder war), ist die Unschuld vergiftet."
   },
   "reminders": {
     "3attacks": "3 Angriffe",
