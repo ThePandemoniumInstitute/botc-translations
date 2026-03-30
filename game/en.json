@@ -618,7 +618,7 @@
       "name": "Gangster"
     },
     "gardener": {
-      "ability": "The Storyteller assigns 1 or more players' characters.",
+      "ability": "The Storyteller assigns all players' characters.",
       "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones.",
       "name": "Gardener"
     },
@@ -1211,7 +1211,7 @@
     },
     "tor": {
       "ability": "Players don't know their character or alignment. They learn them when they die.",
-      "first": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+      "other": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
       "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth.",
       "name": "Tor"
     },
