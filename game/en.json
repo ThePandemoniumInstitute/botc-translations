@@ -764,7 +764,7 @@
     "kazali": {
       "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
       "first": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
-      "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+      "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco\\{7\\}fig.",
       "name": "Kazali",
       "other": "The Kazali chooses a player. :reminder:"
     },
