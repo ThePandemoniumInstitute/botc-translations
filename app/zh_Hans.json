@@ -780,9 +780,7 @@
     "clock": {
       "description": "您的设备时钟与服务器存在{0}的误差。这可能导致您的在线游玩出现问题。您可以尝试同步您的设备时钟{1}并且重新启动 app。",
       "description_mins": "1分钟 | {n} 分钟",
-      "description_online": "在线",
-      "return": "返回 App",
-      "title": "请校准您的设备时钟"
+      "description_online": "在线"
     },
     "lobby": {
       "bootlegger_title": "注意！",

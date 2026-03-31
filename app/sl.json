@@ -778,9 +778,7 @@
     "clock": {
       "description": "Ura na vašem računalniku je trenutno narobe za {0}. To lahko povzroči težave med spletno igro. Lahko sinhronizirate uro na vašem računalniku {1}. Ko se sinhronizira, ponovno osvežite aplikacijo.",
       "description_mins": "1 minuta|{n} minut",
-      "description_online": "na spletu",
-      "return": "Vrni se na Aplikacijo",
-      "title": "Prosim sinhronizirajte uro na vašem računalniku"
+      "description_online": "na spletu"
     },
     "lobby": {
       "bootlegger_title": "Pozor!",

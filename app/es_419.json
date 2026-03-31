@@ -745,9 +745,7 @@
     "clock": {
       "description": "El reloj de tu computadora actualmente está desfasado {0}. Esto puede provocar que la app funcione mal durante el juego en línea. Puedes sincronizar el reloj de tu computadora {1}. Cuando esté sincronizado, recarga la app.",
       "description_mins": "1 minuto|{n} minutos",
-      "description_online": "en línea",
-      "return": "Volver a la App",
-      "title": "Por favor, ajusta el reloj de tu computadora"
+      "description_online": "en línea"
     },
     "lobby": {
       "button_create_game": "Crear Juego",

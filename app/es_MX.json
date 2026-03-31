@@ -778,9 +778,7 @@
     "clock": {
       "description": "El reloj de tu computadora está desfasado por {0}. Esto puede provocar un mal funcionamiento de la aplicación durante el juego en línea. Puede sincronizar el reloj de tu computadora {1}. Una vez sincronizado, vuelve a cargar la aplicación.",
       "description_mins": "1 minuto|{n} minutos",
-      "description_online": "en línea",
-      "return": "Regrese a la Aplicación",
-      "title": "Favor de ajustar el reloj de su computadora"
+      "description_online": "en línea"
     },
     "lobby": {
       "bootlegger_title": "¡Aviso!",

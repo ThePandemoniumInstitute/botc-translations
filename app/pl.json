@@ -769,9 +769,7 @@
     "clock": {
       "description": "Zegar twojego komputera różni się w tej chwili o {0}. To może spowodować błędne działanie aplikacji podczas gier online. Możesz zsynchronizować zegar swojego komputera {1}. Po zsynchronizowaniu odśwież aplikację.",
       "description_mins": "1 minuta|{n} min",
-      "description_online": "online",
-      "return": "Powrót do aplikacji",
-      "title": "Proszę dostosować zegar komputera"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Orientuj się!",

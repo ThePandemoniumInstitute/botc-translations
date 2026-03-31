@@ -794,9 +794,7 @@
     "clock": {
       "description": "あなたのパソコンの時計が{0}でずれています。オンラインプレイ中に誤作動が起きる恐れがあります。{1}で時計の同期を行ってください。行ったあとにアプリをリロードしてください。",
       "description_mins": "1分|{n}分",
-      "description_online": "オンライン",
-      "return": "アプリに戻る",
-      "title": "パソコンの時計を調整してください"
+      "description_online": "オンライン"
     },
     "lobby": {
       "bootlegger_title": "注意！",

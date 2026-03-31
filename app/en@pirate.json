@@ -778,9 +778,7 @@
     "clock": {
       "description": "Yer own timepiece be wrong by {0}. This will mayhap lead to problems. Ye can change yer timepiece {1} then come back.",
       "description_mins": "1 moment|{n} moments",
-      "description_online": "on the seas",
-      "return": "Go back to the Seas",
-      "title": "Change yer timepiece"
+      "description_online": "on the seas"
     },
     "lobby": {
       "bootlegger_title": "Brace!",

@@ -765,9 +765,7 @@
     "clock": {
       "description": "O reloxo do teu ordenador está actualmente desfasado por {0}. Isto pode causar que a aplicación funcione mal durante partidas en liña. Podes sincronizar o reloxo do ordenador {1}. Unha vez sincronizado, recarga a aplicación.",
       "description_mins": "1 minuto|{n} minutos",
-      "description_online": "En liña",
-      "return": "Retornar á Aplicación",
-      "title": "Por favor axusta o reloxo do teu ordenador"
+      "description_online": "En liña"
     },
     "lobby": {
       "bootlegger_title": "Atención!",

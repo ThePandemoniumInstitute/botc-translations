@@ -780,9 +780,7 @@
     "clock": {
       "description": "Datamaskinklokken din er for øyeblikket stilt av med {0}. Dette kan føre til at appen ikke fungerer som den skal under online spilling. Du kan synkronisere datamaskinklokken din {1}. Når den er synkronisert, laster du inn appen på nytt.",
       "description_mins": "1 minutt|{n} minutter",
-      "description_online": "pålogget",
-      "return": "Gå tilbake til appen",
-      "title": "Vennligst juster klokken på datamaskinen din"
+      "description_online": "pålogget"
     },
     "lobby": {
       "button_create_game": "Opprett Spill",

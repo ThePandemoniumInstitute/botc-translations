@@ -744,9 +744,7 @@
     "clock": {
       "description": "Die Uhr deines Computers weicht aktuell von der tatsächlichen Uhrzeit um {0} ab. Dies kann dazu führen, dass während einer Online-Partie in der App Fehler auftreten. Du kannst deine Computer-Uhr {1} synchronisieren. Bitte lade die App neu, sobald du deine Uhr synchronisiert hast.",
       "description_mins": "1 Minute|{n} Minuten",
-      "description_online": "online",
-      "return": "Zurück zur App",
-      "title": "Synchronisiere deine Uhr"
+      "description_online": "online"
     },
     "lobby": {
       "button_create_game": "Partie erstellen",

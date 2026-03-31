@@ -755,9 +755,7 @@
     "clock": {
       "description": "Đồng hồ máy tính của bạn bị lệch khoảng {0}. Điều này khiến cho phần mềm gặp trục trặc khi đang chơi trực tuyến. Bạn có thể đồng bộ hóa đồng hồ máy tính {1} của bạn. Một khi đã đồng bộ hóa, hãy tải lại phần mềm.",
       "description_mins": "1 phút|{n} phút",
-      "description_online": "trực tuyến",
-      "return": "Quay về Phần mềm",
-      "title": "Hãy chỉnh lại đồng hồ máy tính của bạn"
+      "description_online": "trực tuyến"
     },
     "lobby": {
       "bootlegger_title": "Chú ý!",

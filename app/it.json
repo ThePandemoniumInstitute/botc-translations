@@ -744,9 +744,7 @@
     "clock": {
       "description": "L'orologio del tuo computer è attualmente desincronizzato di {0}. Questo può causare malfunzionamenti nell'applicazione durante il gioco online. Puoi sincronizzare l'orologio del tuo computer {1}. Quando è sincronizzato, ricarica l'applicazione.",
       "description_mins": "1 minuto|{n} minuti",
-      "description_online": "online",
-      "return": "Ritorna all'Applicazione",
-      "title": "Per favore sistema l'orologio del tuo computer"
+      "description_online": "online"
     },
     "lobby": {
       "button_create_game": "Crea Partita",

@@ -744,9 +744,7 @@
     "clock": {
       "description": "Hodiny vašeho počítače se momentálně liší o {0}. To může způsobit nesprávnou funkci aplikace během online hraní. Hodiny počítače můžete synchronizovat {1}. Po synchronizaci aplikaci znovu načtěte.",
       "description_mins": "1 minuta|{n} minut",
-      "description_online": "online",
-      "return": "Návrat do aplikace",
-      "title": "Nastavte prosím hodiny svého počítače"
+      "description_online": "online"
     },
     "lobby": {
       "button_create_game": "Vytvořit hru",

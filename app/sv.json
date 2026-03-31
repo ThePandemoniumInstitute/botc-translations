@@ -796,9 +796,7 @@
     "clock": {
       "description": "Din dators klocka går {0} fel. Detta kan göra så att appen inte fungerar som den ska när du spelar online. Du kan synkronisera din dators klocka {1}. När den är synkroniserad kan du ladda om appen.",
       "description_mins": "1 minut|{n} minuter",
-      "description_online": "online",
-      "return": "Tillbaka till appen",
-      "title": "Ställ om din dators klocka"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Observera!",

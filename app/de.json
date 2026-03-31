@@ -796,9 +796,7 @@
     "clock": {
       "description": "Deine Computer-Uhr weicht um {0} von der tatsächlichen Uhrzeit ab. Dies kann dazu führen, dass beim Spielen in der App Fehler auftreten. Du kannst deine Computer-Uhr {1} synchronisieren. Bitte lade die App neu, sobald du deine Uhr synchronisiert hast.",
       "description_mins": "1 Minute|{n} Minuten",
-      "description_online": "online",
-      "return": "Zurück zur App",
-      "title": "Synchronisiere deine Uhr"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Aufgepasst!",

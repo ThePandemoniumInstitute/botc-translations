@@ -744,9 +744,7 @@
     "clock": {
       "description": "Dit computerur er i øjeblikket ved siden af med {0}. Det kan få appen til at virke forkert under online spil. Du kan synkronisere dit computerur {1}. Når det er synkroniseret, genindlæs appen.",
       "description_mins": "1 minute|{n} minutter",
-      "description_online": "online",
-      "return": "Vend tilbage til Appen",
-      "title": "Juster dit computerur"
+      "description_online": "online"
     },
     "lobby": {
       "button_create_game": "Opret Spil",

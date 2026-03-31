@@ -744,9 +744,7 @@
     "clock": {
       "description": "Hodiny vášho počítača sú práve posunuté o {0}. Toto môže spôsobiť poruchu aplikácie počas online hry. Môžete zosynchronizovať hodiny vášho počítača {1}. Keď budú zosynchronizované znovu načítajte aplikáciu.",
       "description_mins": "1 minúta|{n} minúty",
-      "description_online": "online",
-      "return": "Vrátiť sa do Aplikácie",
-      "title": "Prosím upravte hodiny svojho počítača"
+      "description_online": "online"
     },
     "lobby": {
       "button_create_game": "Vytvoriť Hru",

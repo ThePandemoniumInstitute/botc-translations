@@ -780,9 +780,7 @@
     "clock": {
       "description": "O relógio do seu computador está atualmente atrasado em {0}. Isso pode causar mau funcionamento do aplicativo durante o jogo online. Você pode sincronizar o relógio do seu computador {1}. Uma vez sincronizado, recarregue o aplicativo.",
       "description_mins": "1 minuto|{n} minutos",
-      "description_online": "online",
-      "return": "Retornar ao aplicativo",
-      "title": "Ajuste o relógio do seu computador"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Atenção!",

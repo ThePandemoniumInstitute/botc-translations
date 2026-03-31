@@ -794,9 +794,7 @@
     "clock": {
       "description": "Je computerklok loopt momenteel achter met {0}. Dit kan ervoor zorgen dat de app niet goed werkt tijdens online spelen. Je kunt je computerklok synchroniseren {1}. Zodra deze gesynchroniseerd is, laad je de app opnieuw.",
       "description_mins": "1 minuut|{n} minuten",
-      "description_online": "online",
-      "return": "Terug naar de App",
-      "title": "Pas alsjeblieft je computerklok aan"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Let Op!",
