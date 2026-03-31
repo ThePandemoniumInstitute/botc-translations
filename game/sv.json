@@ -618,7 +618,7 @@
       "name": "Gangstern"
     },
     "gardener": {
-      "ability": "Berättaren bestämmer en eller flera spelares roller.",
+      "ability": "Berättaren bestämmer alla spelares roller.",
       "flavor": "När ord blir tomma och den skenheliga blir grym, ta tillflykt i trädgården. De gamlas sista kärlek är blommor och stenar.",
       "name": "Trädgårdsmästaren"
     },
@@ -764,7 +764,7 @@
     "kazali": {
       "ability": "Varje natt* väljer du en spelare; hen dör. [Du väljer vilka spelare som är vilka Kumpaner. ±? Utbölingar]",
       "first": "Kazali väljer vilka spelare som är vilka Kumpaner. Väck varje Kumpan. Visa kortet *DU ÄR* och Kumpanbrickan och ge tummen ner.",
-      "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko{7}fig.",
+      "flavor": "Gon(z)a7les6. Var for60g. Hela mek4an4sm1n = iNvert10ad. F3l isy6tem. Omko\\{7\\}fig.",
       "name": "Kazali",
       "other": "Kazali väljer en spelare. :reminder:"
     },
@@ -1212,7 +1212,8 @@
     "tor": {
       "ability": "Spelare vet inte sin roll eller sitt lag. De får veta det när de har dött.",
       "flavor": "Med åskan som min röst och blixten som mitt svärd ska jag, den eviga väktaren, frossa på de dårar som vågar närma sig den förbjudna porten. Skåda mitt heliga mål! Att utrota skalbaggen från den steniga jordens buk, att snärja den i ett nät av stjärnor, på kullen där himmel möter jord.",
-      "name": "Väktaren"
+      "name": "Väktaren",
+      "other": "Om en spelare dog inatt, visa infokortet *DU ÄR*, spelarens rollbricka och tummen upp eller ner."
     },
     "towncrier": {
       "ability": "Varje natt* får du veta om en Kumpan nominerade idag.",
