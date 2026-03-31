@@ -45,8 +45,8 @@
         "value_2": "불가"
       },
       "streaming": {
-        "label": "게임 스트리밍",
-        "title": "게임의 라이브 스트리밍 여부",
+        "label": "게임 스트리밍 / 녹화",
+        "title": "게임의 라이브 스트리밍 / 녹화 여부",
         "value_0": "안 함",
         "value_1": "함"
       },
@@ -126,6 +126,7 @@
     "night_info": "밤 정보",
     "night_info_text": "이야기꾼이 당신을 깨웠습니다!",
     "night_sheet": "밤 순서 시트",
+    "notifications": "안내",
     "npcs": "NPC 캐릭터 추가",
     "prompt_clear_player": "모든 플레이어의 캐릭터 및 기록 토큰을 제거하시겠습니까?",
     "prompt_clear_st": "마도서를 초기화하면 당신을 포함한 모두에게서 토큰이 제거됩니다. 정말 초기화 하시겠습니까?",
