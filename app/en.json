@@ -45,8 +45,8 @@
         "value_2": "No"
       },
       "streaming": {
-        "label": "Game Is Streamed",
-        "title": "The game session will be streamed live",
+        "label": "Game Is Streamed / Recorded",
+        "title": "The game session will be streamed / recorded",
         "value_0": "No",
         "value_1": "Yes"
       },
@@ -126,6 +126,7 @@
     "night_info": "Night info",
     "night_info_text": "The Storyteller woke you this night!",
     "night_sheet": "Night Order Sheet",
+    "notifications": "Notifications",
     "npcs": "Add NPCs",
     "prompt_clear_player": "Are you sure you want to remove all player characters and reminder tokens?",
     "prompt_clear_st": "This will clear the Grimoire and Reminder tokens for you and everyone else. Are you sure?",
@@ -796,9 +797,7 @@
     "clock": {
       "description": "Your computer clock is currently off by {0}. This can cause the app to malfunction during online play. You can synchronize your computer clock {1}. Once it is synchronized, reload the app.",
       "description_mins": "1 minute|{n} minutes",
-      "description_online": "online",
-      "return": "Return to the App",
-      "title": "Please adjust your computer clock"
+      "description_online": "online"
     },
     "lobby": {
       "bootlegger_title": "Heads up!",
