@@ -45,8 +45,8 @@
         "value_2": "Ja"
       },
       "streaming": {
-        "label": "Spelet streamas",
-        "title": "Huruvida partiet livestreamas",
+        "label": "Spelet streamas/spelas in",
+        "title": "Spelsessionen streamas eller spelas in",
         "value_0": "Nej",
         "value_1": "Ja"
       },
@@ -126,6 +126,7 @@
     "night_info": "Nattinfo",
     "night_info_text": "Berättaren väckte dig inatt!",
     "night_sheet": "Nattordningsark",
+    "notifications": "Notifikationer",
     "npcs": "Lägg till myter",
     "prompt_clear_player": "Vill du verkligen ta bort alla spelares roller och påminnelsebrickor?",
     "prompt_clear_st": "Detta rensar grimoaren och tar bort påminnelsebrickor för dig och alla andra. Är du säker?",
