@@ -96,7 +96,7 @@
     "traveller": "Du Khách|Các Du Khách"
   },
   "main-menu": {
-    "block_join": "Một người bạn chặn đang tham gia phiên này: {0}",
+    "block_join": "Một người dùng mà bạn đã chặn vừa tham gia phiên chơi này: {0}",
     "cast_vote": "Bỏ Phiếu",
     "change_icon": "Bấm để đổi biểu tượng",
     "char_sheet": "Bảng Nhân Vật",
@@ -121,6 +121,7 @@
     "night_info": "Thông tin Đêm",
     "night_info_text": "Người kể chuyện gọi bạn dậy đêm nay!",
     "night_sheet": "Tờ Thứ Tự Ban Đêm",
+    "notifications": "Thông báo",
     "npcs": "Thêm NPC",
     "prompt_clear_player": "Bạn có chắc chắn muốn xóa tất cả nhân vật người chơi và các thẻ ghi nhớ không?",
     "prompt_clear_st": "Thao tác này sẽ dọn sạch Cấm Thư và các Dấu ấn ghi nhớ của bạn cũng như của tất cả mọi người. Bạn có chắc chắn không?",
