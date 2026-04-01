@@ -287,6 +287,7 @@
       "other": "Pokaż gracza o innym typie postaci niż poprzednio. :reminder:"
     },
     "banshee": {
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
       "name": "Banshee",
       "other": "Jeżeli Banshee została zabita tej nocy przez Demona to ogłoś wszystkim graczom, że Banshee zginęła. :reminder:"
     },
@@ -310,6 +311,7 @@
       "name": "Mecenas"
     },
     "bishop": {
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Biskup"
     },
     "boffin": {
@@ -333,6 +335,9 @@
     },
     "butler": {
       "name": "Lokaj"
+    },
+    "cacklejack": {
+      "name": "Cacklejack"
     },
     "cannibal": {
       "name": "Kanibal"
@@ -388,6 +393,7 @@
       "name": "Adwokat Diabła"
     },
     "djinn": {
+      "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
       "name": "Dżinn"
     },
     "doomsayer": {
@@ -483,6 +489,7 @@
     },
     "goon": {
       "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
+      "flavor": "Ta szefie. Pogadałem z tym typem jak należy. Drugi raz nie będzie trzeba, gwarantuję. Nie szefie, nie trza doktora - to tylko mała rana od noża. Do rana się zagoi.",
       "name": "Zbir"
     },
     "gossip": {
@@ -526,7 +533,8 @@
       "other": "Wskaż gracza."
     },
     "hindu": {
-      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
+      "name": "Hindu"
     },
     "huntsman": {
       "ability": "Raz na grę, w nocy, wybierz żywego gracza: jeśli wybrałeś Damulkę, staje się Mieszczaninem, którego nie ma w grze. [+Damulka]",
@@ -560,7 +568,7 @@
     },
     "kazali": {
       "ability": "Każdej nocy* wybierz gracza: umiera. [Wybierasz, którzy gracze zostają jakimi Sługusami. -? do +? Outsiderów]",
-      "flavor": "Gon(z)a7les6. Uwa$aj. Mech4niz4cj4 odwr0cona. B7Edy w 5y5tem1e. Reko{7}figur4cja.",
+      "flavor": "Gon(z)a7les6. Uwa$aj. Mech4niz4cj4 odwr0cona. B7Edy w 5y5tem1e. Reko|\\|figur4cja.",
       "name": "Kazali"
     },
     "king": {
@@ -709,6 +717,9 @@
     },
     "politician": {
       "name": "Polityk"
+    },
+    "pope": {
+      "flavor": "...Pulcherrimae."
     },
     "poppygrower": {
       "name": "Siewca Maku"
