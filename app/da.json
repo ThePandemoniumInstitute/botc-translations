@@ -38,8 +38,8 @@
         "value_2": "Begynder"
       },
       "grimoire": {
-        "label": "Grimoire-adgang",
-        "title": "Om tilskuere får adgang til Grimoiren",
+        "label": "Trolddomsbog-adgang",
+        "title": "Om tilskuere får adgang til Trolddomsbogen",
         "value_0": "Spørg",
         "value_1": "Ja",
         "value_2": "Nej"
@@ -71,7 +71,7 @@
     "abilities": {
       "distribute-roles": "Uddel Roller",
       "ghost-votes": "Returner spøgelsesstemmer",
-      "grimoire": "Vis Grimoire",
+      "grimoire": "Vis Trolddomsbog",
       "open-eyes": "Åben/Luk Øjnene",
       "pointing": "Vælg Spiller"
     },
@@ -105,10 +105,10 @@
     "change_icon": "Klik for at ændre ikon",
     "char_sheet": "Karakterark",
     "characters": "Vælg Karakterer",
-    "clear_grim": "Tøm Grimoire",
+    "clear_grim": "Ryd Trolddomsbog",
     "download": "Download {0} App",
     "edition": "Vælg Udgave",
-    "error_audio": "Din browser forhindrede appen i at {0}. Klik her for at starte chatten.",
+    "error_audio": "Din browser forhindrede appen i at {0}. Klik her for at starte samtalen.",
     "error_audio2": "afspiller automatisk stemmechat",
     "error_audio3": "Du behøver måske også at {0} i Firefox for at høre lyd fra appen.",
     "error_audio4": "skift en indstilling",
@@ -116,7 +116,7 @@
     "gather": "Saml Dine Spillere",
     "gong_attention": "Opmærksomhedsgong",
     "gong_recall": "Kald tilbage til Bytorvet",
-    "grim_access": "Du har fået adgang til Grimoiren",
+    "grim_access": "Du har fået adgang til Trolddomsbogen",
     "grim_request_user": "Tilskuer {0} har anmodet om protokol adgang:",
     "help": "Hjælp",
     "json_schema": "Manuskript JSON Skema",
@@ -125,10 +125,11 @@
     "mute_mic": "Sluk din mikrofon [{0}]",
     "night_info": "Nat-info",
     "night_info_text": "Fortælleren vækkede dig i nat!",
-    "night_sheet": "Natteodreark",
+    "night_sheet": "Nat-rækkefølge ark",
+    "notifications": "Notifikationer",
     "npcs": "Tilføj NPC'ere",
     "prompt_clear_player": "Er sikker på at du vil fjerne alle spillerkarakterer og huskebrikker?",
-    "prompt_clear_st": "Dette vil rydde Grimoiren og Huskebrikker for dig og alle andre. Er du sikker?",
+    "prompt_clear_st": "Dette vil rydde Trolddomsbogen og Huskebrikker for dig og alle andre. Er du sikker?",
     "prompt_clear_title": "Ryd Sortebogen og Huskebrikker",
     "prompt_timer_text": "Vælg en varighed og (valgfri) titel for timeren:",
     "prompt_timer_title": "Sæt en timer",
@@ -514,9 +515,9 @@
       "shortcut_touch": "Touch-support (Swipe, osv.)",
       "shortcut_touch_text": "Support for touch-styring som at swipe op / ned",
       "shortcuts": {
-        "acceptChat1": "Accepter Chat-anmodning 1",
-        "acceptChat2": "Accepter Chat-anmodning 2",
-        "acceptChat3": "Accepter Chat-anmodning 3",
+        "acceptChat1": "Acceptér Chat-anmodning 1",
+        "acceptChat2": "Acceptér Chat-anmodning 2",
+        "acceptChat3": "Acceptér Chat-anmodning 3",
         "attentionGong": "Tilbagekald / Opmærksomheds-gong",
         "castVote": "Afgiv Stemme / Markér Spiller",
         "leaveChat": "Forlad en Chat",
@@ -547,8 +548,8 @@
       },
       "sounds": {
         "attentionGong": "Opmærksomheds-gong",
-        "chatJoin": "Start offentlig chat",
-        "chatLeave": "Afslut offentlig chat",
+        "chatJoin": "Deltag i offentlig chat",
+        "chatLeave": "Forlad offentlig chat",
         "countdown": "Nedtælling",
         "privateJoin": "Start privat chat",
         "privateLeave": "Forlad privat chat",
@@ -675,7 +676,7 @@
     },
     "users": {
       "chat_connection": "Chatforbindelsestype",
-      "grim_access": "Grimoire-adgang",
+      "grim_access": "Trolddomsbog-adgang",
       "group_sub": "Gruppeabonnement",
       "new_user": "Ny Bruger",
       "official_mod": "Officiel Moderator",
@@ -925,7 +926,7 @@
       "error_429": "Vent mindst {0} sekunder før du prøver igen.",
       "error_disposable": "Engangs-e-mailadresser kan ikke bruges til kontobekræftelse.",
       "error_verified": "Allerede bekræftet",
-      "error_wrong": "Forkert kode, prøv igen.",
+      "error_wrong": "Forkert kode, prøv venligst igen.",
       "link": "Du kan ændre den her."
     }
   },
