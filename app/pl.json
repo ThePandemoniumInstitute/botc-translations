@@ -45,8 +45,8 @@
         "value_2": "Nie"
       },
       "streaming": {
-        "label": "Gra jest streamowana",
-        "title": "Gra będzie streamowana na żywo",
+        "label": "Gra jest Streamowana / Nagrywana",
+        "title": "Gra będzie streamowana / nagrywana",
         "value_0": "Nie",
         "value_1": "Tak"
       },
@@ -100,6 +100,7 @@
     "traveller": "Podróżnik|Podróżnicy"
   },
   "main-menu": {
+    "block_join": "Użytkownik, którego zablokowano, dołączył do tej gry: {0}",
     "cast_vote": "Oddaj głos",
     "change_icon": "Kliknij, by zmienić ikonę",
     "char_sheet": "Arkusz postaci",
@@ -116,6 +117,7 @@
     "gong_attention": "Gong",
     "gong_recall": "Zwołaj graczy na rynek",
     "grim_access": "Został Ci przyznany dostęp do Grymuaru",
+    "grim_request_user": "Widz {0} poprosił o dostęp do Grymuaru:",
     "help": "Pomoc",
     "json_schema": "Plik JSON skryptu",
     "leave": "Opuść grę",
@@ -124,6 +126,7 @@
     "night_info": "Informacje nocne",
     "night_info_text": "Bajarz obudził Cię tej nocy!",
     "night_sheet": "Kolejność nocna",
+    "notifications": "Powiadomienia",
     "npcs": "Dodaj NPC",
     "prompt_clear_player": "Czy na pewno chcesz usunąć wszystkie postacie graczy i żetony przypominające?",
     "prompt_clear_st": "Grymuar i żetony przypominające zostaną wyczyszczone dla ciebie i pozostałych graczy. Jesteś pewien?",
@@ -179,6 +182,8 @@
         "avatar_pixel": "Twój obraz jest za duży. Przeskaluj go do maksymalnie 4000x4000 pikseli i spróbuj ponownie.",
         "avatar_size": "Twój plik jest za duży. Wybierz obraz o maksymalnym rozmiarze 5 MB i spróbuj ponownie.",
         "avatar_type": "Twój plik nie jest rozpoznawalny jako obraz.",
+        "block_text": "Wykryto błąd podczas aktualizacji twojej listy zablokowanych.",
+        "block_title": "Błąd podczas aktualizacji listy zablokowanych",
         "bluffs": "Błąd przy zmianie blefów",
         "chat2_text": "Serwer czatu wydaje się być offline",
         "chat2_title": "Rozłączono z serwerem czatu",
@@ -186,7 +191,10 @@
         "chat_title": "Wystąpił błąd połączenia z serwerem czatu",
         "claiming": "Błąd podczas zajmowania krzesła",
         "clear_grim": "Nie udało się wyczyścić Grymuaru",
+        "clear_history": "Nie można wyczyścić historii gry",
         "connection": "Wystąpił błąd połączenia",
+        "create_generic": "Serwerowi nie udało się stworzyć twojej sesji.",
+        "create_session_exists": "Sesja o takiej nazwie już istnieje.",
         "edition_change": "Błąd przy zmianie skryptu",
         "end": "Błąd przy zakończeniu gry",
         "eyes_close": "Nie udało się zamknąć oczu",
@@ -217,6 +225,7 @@
         "session_banned": "Twoje konto zostało zablokowane.",
         "session_full": "Ta sesja ma już 25 użytkowników.",
         "session_general": "Błąd przy połączeniu z sesją.",
+        "session_join": "Nie można dołaczyć do gry",
         "session_locked": "Ta sesja została zablokowana.\nTylko siedzący gracze i Bajarze mogą dołączyć.",
         "session_not_found": "Nie znaleziono sesji gry.",
         "session_public": "Nie możesz dołączać do publicznych sesji gier.",
@@ -370,7 +379,12 @@
           "title": "Mecenas"
         },
         "focus": {
-          "text": "Głos ma gracz Nominowany."
+          "text": "Głos ma gracz Nominowany.",
+          "title": "Uwaga dla Nominowanego"
+        },
+        "phases": {
+          "text": "Tylko Nominujący i Nominowany mogą mówić.",
+          "title": "Oskarżenie i obrona"
         },
         "regular": {
           "text": "Wszyscy mogą mówić, gdy tylko chcą.",
@@ -581,10 +595,12 @@
     },
     "user": {
       "button_add_st": "Dodaj Bajarza",
+      "button_block_user": "Zablokuj Użytkownika",
       "button_cancel_st": "Anuluj zaproszenie dla nowego Bajarza",
       "button_kick_user": "Wykop użytkownika",
       "button_mod_user": "Moderuj",
       "button_remove_st": "Usuń Bajarza",
+      "button_unblock_user": "Odblokuj Użytkownika",
       "error": "Wystąpił błąd podczas ładowania szczegółów o użytkowniku.",
       "grimoire_access_grant": "Przyznaj dostęp do Grymuaru",
       "grimoire_access_revoke": "Odbierz dostęp do Grymuaru",
@@ -724,6 +740,7 @@
     "vote": {
       "accusation": "Oskarżenie",
       "button_chat": "Otwórz czat",
+      "button_clear_selection": "Wyczyść wybór",
       "button_countdown": "Odliczanie",
       "button_defense": "Przejdź do Obrony",
       "button_hand_down": "OPUŚĆ",
@@ -734,9 +751,11 @@
       "button_reset": "Zresetuj",
       "button_restart": "Zacznij od nowa",
       "button_resume": "Wznów",
+      "button_select_player": "Wybierz gracza",
       "button_start": "Start",
-      "countdown_go": "Rozpocznij",
+      "countdown_go": "Start",
       "defense": "Obrona",
+      "defense_attorney": "Adwokat",
       "highscore_placeholder": "najwyższy wynik głosowania",
       "highscore_text": "Podaj nowe minimum głosów dla tego głosowania,\n albo zostaw puste pole, aby ustawić je na zwyczajną większość żywych graczy.",
       "highscore_title": "Zmień liczbę głosów",
@@ -803,7 +822,7 @@
       "show_private": "Pokaż gry prywatne",
       "spectators": "Widzowie",
       "stats": "{0} użytkowników w {1} {2} grach",
-      "stats_public": "publiczne",
+      "stats_public": "publicznych",
       "storyteller": "Bajarz",
       "subscription": "Poziom subskrypcji",
       "updating": "Aktualizacja...",
@@ -858,6 +877,7 @@
       "whisper": "Wyślij wiadomość tekstową"
     },
     "name": {
+      "blocked": "Zablokowałeś/aś tego użytkownika.",
       "claim": "Kliknij, aby usiąść",
       "connecting": "Ten gracz łączy się z czatem głosowym.",
       "follow": "Podążasz za tym graczem.",
@@ -875,7 +895,8 @@
       "night_info_received": "Informacje nocne otrzymane",
       "night_info_sent": "Informacje nocne wysłane",
       "nominate": "Nominuj tego gracza",
-      "point": "Wskaż tego gracza"
+      "point": "Wskaż tego gracza",
+      "select": "Wybierz tego gracza"
     },
     "reminders": {
       "add": "Dodaj Przypominajkę",
@@ -937,8 +958,9 @@
       "error_popout": "Błąd podczas tworzenia okna",
       "error_save": "Błąd podczas zapisywania pliku",
       "jinxes": "Wyjątki",
-      "other_nights": "Nie\n pierwszej nocy",
-      "popout": "Wysuń Arkusz Postaci"
+      "other_nights": "Nie pierwszej\n\t nocy",
+      "popout": "Wysuń Arkusz Postaci",
+      "popout_window": "Otwórz arkusz postaci w osobnym oknie"
     },
     "characters": {
       "title": "Postacie"
@@ -984,6 +1006,10 @@
       "spectator": "Widz",
       "title": "Głos"
     },
+    "night": {
+      "popout": "Otwórz arkusz fazy nocnej jako osobne okno",
+      "toggle": "Przełącz arkusz fazy nocnej"
+    },
     "npcs": {
       "remove_fabled": "Usuń NPC",
       "remove_loric": "Usuń Mit",
@@ -1003,6 +1029,7 @@
       "prompt_spectator": "Czat widzów",
       "prompt_system": "Wiadomości systemowe",
       "prompt_user": "Do {0}",
+      "sender_blocked": "zablokowany",
       "system": {
         "death": "{0} umiera.",
         "end_evil": "Gra się kończyła i wygrała drużyna Zła!",
@@ -1030,6 +1057,7 @@
   },
   "user": {
     "avatar_enabled": "Awatar widoczny",
+    "blocked": "Zablokowany",
     "camera_enabled": "Kamery widoczne",
     "error_avatar_text": "Wybrany awatar ma rozmiar {0} MB, ale maksymalny rozmiar to {1} MB.",
     "error_avatar_title": "Za duży plik",
@@ -1048,7 +1076,7 @@
       "loading": "Ładuję statystyki...",
       "none": "Brak",
       "player": "Zagrane\n Gry",
-      "player_wins": "{0}% Zwycięstw",
+      "player_wins": "{0}% zwycięstw",
       "role": "Najczęściej grane\n Postacie",
       "st_evil_wins": "{0}% Zwycięstw Zła",
       "storyteller": "Poprowadzone\n gry",
@@ -1066,8 +1094,10 @@
     "players_alive": "{0} / {1} graczy żywych",
     "reload": "Proszę odświeżyć kartę lub wyczyścić pamięć podręczną przeglądarki, aby uzyskać najnowszą wersję.",
     "since": "od {0}",
+    "translation_content": "Użyj tłumaczeń",
     "translation_disclaimer": "Aktualnie korzystasz ze zlokalizowanej wersji aplikacji. To tłumaczenie zostało stworzone i sprawdzone przez następujących wolontariuszy, którzy nie są związani z The Pandemonium Institute:",
     "translation_game": "Tłumaczenie treści gry może nie odzwierciedlać oficjalnych angielskich zasad gry opracowanych przez The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} żywych wędrowców",
     "update": "Proszę Zaktualizować!",
     "updating": "Aktualizuję aplikację do wersji {0}...",
     "warning_browser": "Używasz starej lub nie wspieranej przeglądarki",
