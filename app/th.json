@@ -10,14 +10,17 @@
       "special-tpi": "พนักงาน TPI"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "อนุญาต",
     "button_cancel": "ยกเลิก",
     "button_close": "ปิด",
     "button_confirm": "ยืนยัน",
     "button_continue": "ดำเนินการต่อ",
+    "button_deny": "ปฏิเสธ",
     "button_logout": "ออกจากระบบ",
     "button_search": "ค้นหา",
     "button_send": "ส่ง",
-    "cookie_policy": "นโยบายคุกกี้",
+    "cookie_policy": "นโยบายการใช้คุกกี้",
+    "moderation_policy": "นโยบายการควบคุม",
     "privacy_policy": "นโยบายความเป็นส่วนตัว",
     "session-tags": {
       "cameras": {
