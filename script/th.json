@@ -1,1 +1,25 @@
-{}
+{
+  "edition": {
+    "base-three": "เบส",
+    "carousel": "หรรษาม้าหมุน",
+    "custom": "กำหนดเอง",
+    "experimental": "ตัวละครทดลอง",
+    "homebrew": "กฎประจำบ้าน",
+    "kickstarter": "Kickstarter"
+  },
+  "keyword": {
+    "demon": "ปีศาจ|ปีศาจ",
+    "fabled": "ตัวละครนิทาน|ตัวละครนิทาน",
+    "first-night": "คืนแรก",
+    "loric": "ลอริก|ลอริก",
+    "minion": "ลูกสมุน|ลูกสมุน",
+    "other-nights": "คืนอื่นๆ",
+    "outsider": "คนนอก|คนนอก",
+    "player": "ผู้เล่น|ผูเล่น",
+    "townsfolk": "ชาวเมือง|ชาวเมือง",
+    "traveller": "นักพเนจร|นักพเนจร"
+  },
+  "print": {
+    "not-first-night": "* ไม่ใช่คืนแรก"
+  }
+}
