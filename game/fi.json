@@ -118,7 +118,8 @@
       "name": "Enkeli"
     },
     "apprentice": {
-      "ability": "1. yönäsi saat jonkin Kyläläisen kyvyn (jos olet hyvä) tai jonkin Kätyrin kyvyn (jos olet paha)."
+      "ability": "1. yönäsi saat jonkin Kyläläisen kyvyn (jos olet hyvä) tai jonkin Kätyrin kyvyn (jos olet paha).",
+      "name": "Oppipoika"
     },
     "artist": {
       "flavor": "Mon Dieu! C'est lumineux! Luomukseni, hän on... kuinka se sanotaan... Magnifique! Dieu est révélé! Oui.",
@@ -155,6 +156,9 @@
     },
     "bishop": {
       "name": "Piispa"
+    },
+    "boffin": {
+      "name": "Koekaniini"
     },
     "bonecollector": {
       "name": "Luunkerääjä"
@@ -297,6 +301,10 @@
     "poppygrower": {
       "name": "Unikkotarhuri"
     },
+    "riot": {
+      "flavor": "Larga vida a la revolución! Mi revolucion!",
+      "name": "Mellakka"
+    },
     "sailor": {
       "name": "Merimies"
     },
@@ -304,7 +312,7 @@
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
     "slayer": {
-      "name": "Surmaaja"
+      "name": "Lahtari"
     },
     "towncrier": {
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!"
