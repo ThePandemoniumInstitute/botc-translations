@@ -7,15 +7,18 @@
       "special-moderator": "Moderaattori",
       "special-tpi": "TPI henkilöstö"
     },
+    "button_allow": "Salli",
     "button_cancel": "Peru",
     "button_close": "Sulje",
     "button_confirm": "Vahvista",
     "button_continue": "Jatka",
+    "button_deny": "Kiellä",
     "button_logout": "Kirjaudu ulos",
     "button_search": "Hae",
     "button_send": "Lähetä",
     "cookie_policy": "Evästekäytännöt",
-    "privacy_policy": "Yksityisyyskäytännöt",
+    "moderation_policy": "Moderointikäytäntö",
+    "privacy_policy": "Tietosuojaseloste",
     "session-tags": {
       "cameras": {
         "label": "Kamerat",
@@ -54,7 +57,7 @@
       }
     },
     "terms_of_use": "Käyttöehdot",
-    "title": "Verta Kellotornissa Online",
+    "title": "Blood on the Clocktower Online",
     "unnamed_user": "Nimetön käyttäjä"
   },
   "grimoire": {
@@ -117,6 +120,7 @@
     }
   },
   "user": {
+    "blocked": "Estetty",
     "gain": "Vahvistus"
   }
 }
