@@ -1,4 +1,7 @@
 {
+  "analysis": {
+    "too-few-outsider": "Ei riittävästi Hylkiöitä"
+  },
   "edition": {
     "kickstarter": "Kickstarter"
   }
