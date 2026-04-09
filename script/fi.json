@@ -1,6 +1,7 @@
 {
   "add-demon": "Lisää Demoneja",
-  "add-minion": "Lisää Kätyrejä",
+  "add-minion": "Lisää Kätyreitä",
+  "add-outsider": "Lisää Hylkiöitä",
   "add-townsfolk": "Lisää Kyläläisiä",
   "analysis": {
     "too-few-outsider": "Ei riittävästi Hylkiöitä"
@@ -9,7 +10,7 @@
   "characters": "Hahmot",
   "close": "Sulje",
   "ctxmenu": {
-    "copy-text-details": "Kopioi hahmon kykyteskti",
+    "copy-text-details": "Kopioi hahmon kykyteksti",
     "draft": "Luonnos",
     "pinned": "Kiinnitetyt"
   },
@@ -17,24 +18,29 @@
     "base-three": "Perus",
     "kickstarter": "Kickstarter"
   },
+  "fabled-and-loric": "Tarunomaiset & Satuiset",
   "filters": "Suodattimet",
   "help": "Apu",
+  "import-description-kb": "tai liitä JSON / URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... tai liitä URL/JSON tänne:",
+  "import-type-error": "Väärä tiedostotyyppi, tiedostoa ei ladattu.",
   "keyword": {
-    "demon": "Demoni Demonit",
-    "fabled": "Tarunomainen Tarunomaiset",
+    "demon": "Demoni|Demonit",
+    "fabled": "Tarunomainen|Tarunomaiset",
     "first-night": "Ensimmäinen Yö",
-    "loric": "Loric Loric",
-    "minion": "Kätyri Kätyrit",
+    "loric": "Satuinen|Satuiset",
+    "minion": "Kätyri|Kätyrit",
     "other-nights": "Muut Yöt",
-    "outsider": "Ulkopuolinen Ulkopuoliset",
-    "player": "Pelaaja Pelaajat",
-    "townsfolk": "Kyläläinen Kyläläiset",
-    "traveller": "Matkalainen Matkalaiset"
+    "outsider": "Hylkiö|Hylkiöt",
+    "player": "Pelaaja|Pelaajat",
+    "townsfolk": "Kyläläinen|Kyläläiset",
+    "traveller": "Kiertolainen|Kiertolaiset"
   },
   "name": "Nimi",
   "quick-add": "Etsi hahmoja …",
   "randomise": "Satunnaista!",
-  "redo": "Tee uudestaan",
+  "recommended-travellers": "Suositellut Kiertolaiset",
+  "redo": "Tee uudelleen",
   "sao": "SAO",
   "search-abilities": "Etsi kykyjä",
   "search-character": "Etsi hahmoja …",
