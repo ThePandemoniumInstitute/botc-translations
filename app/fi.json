@@ -34,8 +34,8 @@
       "grimoire": {
         "label": "Loitsukirjaan pääsy",
         "value_0": "Kysy",
-        "value_1": "Ei",
-        "value_2": "Kyllä"
+        "value_1": "Kyllä",
+        "value_2": "Ei"
       },
       "streaming": {
         "value_0": "Ei",
@@ -102,6 +102,7 @@
       "prompt": {
         "join_title": "Liity peliin",
         "leave_title": "Palaa Aulaan",
+        "pronouns_placeholder": "Pronominit",
         "username_placeholder": "Käyttäjänimi"
       }
     },
