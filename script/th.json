@@ -7,6 +7,15 @@
     "homebrew": "กฎประจำบ้าน",
     "kickstarter": "Kickstarter"
   },
+  "export": {
+    "copy-json": "คัดลอกไฟล์ JSON",
+    "download-json": "ดาวน์โหลดไฟล์ JSON",
+    "png": "ส่งออกไฟล์ PNG",
+    "screenshot": {
+      "save": "บันทึก",
+      "share": "แชร์"
+    }
+  },
   "keyword": {
     "demon": "ปีศาจ|ปีศาจ",
     "fabled": "ตัวละครนิทาน|ตัวละครนิทาน",
@@ -21,5 +30,16 @@
   },
   "print": {
     "not-first-night": "* ไม่ใช่คืนแรก"
+  },
+  "settings": {
+    "allow-external-images": "อนุญาตรูปภาพจากภายนอก",
+    "font-size": "ขนาดฟอนต์",
+    "font-size-larger": "ใหญ่",
+    "font-size-normal": "ธรรมดา",
+    "print-columns": "คอลัมน์ในการพิมพ์",
+    "print-compact-night-sheet": "กระชับชีตกลางคืน",
+    "print-player-count-table": "แสดงตารางจำนวนผู้เล่น",
+    "script-type": "ชนิดของสคริปต์",
+    "script-type-standard": "พื้นฐาน"
   }
 }
