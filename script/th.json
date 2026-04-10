@@ -1,4 +1,39 @@
 {
+  "add-bootlegger-rule": "เพิ่มกฎของคนเถื่อน",
+  "add-bootlegger-rules": "คลิกไอคอนบวกเพื่อเพิ่มกฎของคนเถื่อน",
+  "add-demon": "เพิ่มปีศาจ",
+  "add-minion": "เพิ่มลูกสมุน",
+  "add-outsider": "เพิ่มคนนอก",
+  "add-townsfolk": "เพิ่มชาวเมือง",
+  "analysis": {
+    "maximum-character-recommendation": "จำนวนตัวละครที่แนะนำคือ {number} ตัว",
+    "maximum-character-recommendation-teensy": "จำนวนตัวละครที่แนะนำในเมืองจิ๋วคือ {number} ตัว",
+    "too-few-demon": "มีปีศาจไม่เพียงพอ",
+    "too-few-minion": "มีลูกสมุนไม่เพียงพอ",
+    "too-few-outsider": "มีคนนอกไม่เพียงพอ",
+    "too-few-townsfolk": "มีชาวเมืองไม่เพียงพอ",
+    "too-many-characters": "มีตัวละครมากเกินไป",
+    "too-many-demon": "มีปีศาจมากเกินไป",
+    "too-many-minion": "มีลูกสมุนมากเกินไป",
+    "too-many-outsider": "มีคนนอกมากเกินไป",
+    "too-many-townsfolk": "มีชาวเมืองมากเกินไป"
+  },
+  "author": "ผู้เขียน",
+  "author-placeholder": "ไม่ทราบ",
+  "bootlegger-rules": "กฎของคนเถื่อน",
+  "by-author": "โดย {author}",
+  "by-author-isolated": "โดย",
+  "character-tooltip": "ลากเพื่อเคลื่อนย้าย คลิกสองครั้งหรือคลิกขวาเพื่อแสดงเมนูข้อความ",
+  "characters": "ตัวละคร",
+  "clear-script": "ล้างสคริปต์",
+  "click-drag-move": "คลิกเพื่อลบออก ลากเพื่อเคลื่อนย้าย",
+  "close": "ปิด",
+  "copy-script-link": "คัดลอกลิงก์สคริปต์",
+  "ctxmenu": {
+    "draft": "แบบร่าง"
+  },
+  "delete-script-confirmation": "คุณแน่ใจใช่ไหมว่าจะลบสคริปต์นี้ สิ่งนี้ไม่สามารถย้อนกลับได้",
+  "djinn-rules": "กฎของญิน",
   "edition": {
     "base-three": "เบส",
     "carousel": "หรรษาม้าหมุน",
@@ -10,10 +45,29 @@
   "export": {
     "copy-json": "คัดลอกไฟล์ JSON",
     "download-json": "ดาวน์โหลดไฟล์ JSON",
+    "pdf": "พิมพ์/ส่งออกไฟล์ PDF",
     "png": "ส่งออกไฟล์ PNG",
     "screenshot": {
+      "failed-embed": "ไอคอนบางอันไม่สามารถฝังลงในรูปภาพที่ส่งออกได้",
       "save": "บันทึก",
       "share": "แชร์"
+    }
+  },
+  "export-menu": "เมนูส่งออก",
+  "fabled-and-loric": "ตัวละครนิทานและลอริก",
+  "filters": "ฟิลเตอร์",
+  "help": "ความช่วยเหลือ",
+  "import-description-kb": "หรือวางไฟล์ JSON / ลิงก์ URL (Ctrl+V / ⌘V)",
+  "import-description-nokb": "... หรือวางลิงก์ URL/ไฟล์ JSON ที่นี่",
+  "import-script": "นำเข้าสคริปต์",
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "สคริปต์ที่มีเด็กประสานเสียงต้องมีพระราชา",
+      "title": "มีเด็กประสานเสียง แต่ไม่มีพระราชา"
+    },
+    "+huntsman-damsel": {
+      "msg": "สคริปต์ที่มีนายพรานต้องมีโฉมงาม",
+      "title": "มีนายพราน แต่ไม่มีโฉมงาม"
     }
   },
   "keyword": {
@@ -28,18 +82,63 @@
     "townsfolk": "ชาวเมือง|ชาวเมือง",
     "traveller": "นักพเนจร|นักพเนจร"
   },
+  "name": "ชื่อ",
+  "new-bootlegger-rule": "กฎใหม่ของคนเถื่อน …",
+  "new-script": "สคริปต์ใหม่",
   "print": {
-    "not-first-night": "* ไม่ใช่คืนแรก"
+    "ios": "ขณะนี้ยังไม่รองรับการพิมพ์จากอุปกรณ์ IOS คุณจะลองทำดูก็ได้ แต่ผลลัพธ์อาจจะไม่ค่อยน่าดู",
+    "not-first-night": "* ไม่ใช่คืนแรก",
+    "too-many-characters": "สคริปต์ของคุณมีตัวละครมากเกินไป ({nchars}) จำนวนสูงสุดที่แนะนำคือ 25 ตัว แบบนี้มันจะทำให้ดูไม่เรียบร้อยเมื่อพิมพ์ ดำเนินการต่อหรือไม่?"
   },
+  "quick-add": "ค้นหาตัวละคร …",
+  "randomise": "สุ่ม!",
+  "read-more": "อ่านข้อมูลในปูม/วิกิ",
+  "recommended-travellers": "นักพเนจรที่แนะนำ",
+  "redo": "ทำซ้ำ",
+  "sao": "SAO",
+  "script-name": "ชื่อสคริปต์",
+  "script-name-placeholder": "สคริปต์ที่ไม่มีชื่อ",
+  "scripts": "สคริปต์",
+  "search-abilities": "ค้นหาความสามารถ",
+  "search-character": "ค้นหาตัวละคร …",
+  "search-names": "ค้นหาชื่อ",
   "settings": {
     "allow-external-images": "อนุญาตรูปภาพจากภายนอก",
+    "bloodstar-image-correction": "การแก้ไขภาพ Bloodstar",
+    "compact-layout": "กระชับการจัดวาง",
+    "display-and-ui-heading": "การแสดงผลและหน้าจอผู้ใช้",
+    "external-images-heading": "รูปภาพจากภายนอก",
     "font-size": "ขนาดฟอนต์",
     "font-size-larger": "ใหญ่",
     "font-size-normal": "ธรรมดา",
+    "force-one-column": "บังคับให้มีคอลัมน์เดียว",
+    "language": "ภาษา",
+    "language-select-heading": "การเลือกภาษา",
     "print-columns": "คอลัมน์ในการพิมพ์",
     "print-compact-night-sheet": "กระชับชีตกลางคืน",
+    "print-options-heading": "ตัวเลือกการพิมพ์",
     "print-player-count-table": "แสดงตารางจำนวนผู้เล่น",
+    "script-heading": "การตั้งค่าสคริปต์",
     "script-type": "ชนิดของสคริปต์",
-    "script-type-standard": "พื้นฐาน"
-  }
+    "script-type-explanation": "สคริปต์เมืองจิ๋วคือสคริปต์ที่สร้างขึ้นมาสำหรับกลุ่มผู้เล่นที่มีจำนวนน้อยมากๆ โดยเฉพาะ (น้อยกว่า 7 คน) โดยทั่วไปจะมีตัวละครที่น้อยกว่าสคริปต์พื้นฐาน การตั้งค่านี้มีผลเฉพาะกับการวิเคราะห์สคริปต์ ตัวสุ่ม และองค์ประกอบ UI บางส่วนเท่านั้น",
+    "script-type-standard": "พื้นฐาน",
+    "script-type-teensyville": "เมืองจิ๋ว",
+    "show-analysis-icons": "แสดงไอคอนการวิเคราะห์",
+    "show-night-sheet": "แสดงชีตกลางคืน",
+    "this-language": "ภาษาอังกฤษ"
+  },
+  "settings-menu": "การตั้งค่า",
+  "show-all": "ตัวละครทั้งหมด",
+  "toast": {
+    "copied": "คัดลอกลงคลิปบอร์ดแล้ว!"
+  },
+  "tour": {
+    "add-and-remove-characters-heading": "การเพิ่มและลบตัวละคร",
+    "final-heading": "ขอให้สนุกนะ!",
+    "script-name-and-authors-heading": "ชื่อสคริปต์และผู้เขียน",
+    "undo-redo-heading": "ยกเลิกกับทำซ้ำ",
+    "welcome-heading": "ยินดีต้อนรับ!"
+  },
+  "undo": "ยกเลิก",
+  "unpin": "เลิกปักหมุด"
 }
