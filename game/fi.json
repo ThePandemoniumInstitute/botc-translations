@@ -23,10 +23,13 @@
     "bountyhunter-philosopher": "Jos Filosofi saa Palkkionmetsästäjän kyvyn, yksi Kyläläinen saattaa muuttua pahaksi.",
     "butler-cannibal": "Jos Kannibaali saa Hovimestarin kyvyn, Kannibaali saa tietää tästä.",
     "cannibal-juggler": "Jos Jonglööri arvaa ensimmäisenä päivänään ja kuolee teloitukseen, elävä Kannibaali saa tänä yönä tietää, kuinka moni Jonglöörin arvauksista osui oikeaan.",
+    "courtier-summoner": "Jos elävällä Rienaajalla ei ole kykyä, on Rienaaja-kyky Tarinankertojalla.",
     "damsel-spy": "Jos Vakooja on (tai on ollut) pelissä, Neito on myrkytetty.",
-    "engineer-summoner": "Jos elävä Herättäjä poistetaan pelistä, Tarinankertojalla on Herättäjän kyky.",
+    "engineer-summoner": "Jos elävä Rienaaja poistetaan pelistä, on Tarinankertojalla Rienaaja-kyky.",
     "grandmother-leviathan": "Jos Leviatan on pelissä ja Lapsenlapsi kuolee teloitukseen, paha voittaa.",
     "hatter-leviathan": "Leviatan ei voi tulla peliin 5. päivän jälkeen.",
+    "hatter-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
+    "kazali-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
     "lilmonsta-psychopath": "Jos Psykopaatti vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
@@ -282,6 +285,9 @@
     },
     "lleech": {
       "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin."
+    },
+    "lordoftyphon": {
+      "other": "Suur-Typerrys valitsee pelaajan. :reminder:"
     },
     "lunatic": {
       "name": "Mielipuoli"
