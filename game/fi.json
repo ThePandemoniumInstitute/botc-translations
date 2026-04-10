@@ -166,6 +166,7 @@
       "name": "Koekaniini"
     },
     "bonecollector": {
+      "flavor": "Kerään moniakin asioita. Hiuksia. Hampaita. Vaatteita. Runokatkelmia. Kadonneiden rakastavaisten unelmia. Salaisia taitojani en paljasta, mutta palkkionikin on mitätön. Tuo minulle täysikuun aikaan sydänsuruihin kuolleen aatelisnaisen verta, niin saat vastauksesi.",
       "name": "Luunkerääjä"
     },
     "bountyhunter": {
@@ -292,6 +293,9 @@
     "lunatic": {
       "name": "Mielipuoli"
     },
+    "marionette": {
+      "ability": "Luulet olevasi hyvä hahmo, mutta et ole. Demoni tietää kuka olet. [Naapurisi on Demoni]"
+    },
     "pixie": {
       "name": "Keiju"
     },
@@ -318,6 +322,9 @@
     },
     "sailor": {
       "name": "Merimies"
+    },
+    "savant": {
+      "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla..."
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
