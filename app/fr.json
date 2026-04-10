@@ -45,7 +45,7 @@
       },
       "streaming": {
         "label": "Partie Streamée",
-        "title": "La partie sera diffusée en direct",
+        "title": "La partie sera diffusée en direct / enregistrée",
         "value_0": "Non",
         "value_1": "Oui"
       },
@@ -123,6 +123,7 @@
     "night_info": "Info de la Nuit",
     "night_info_text": "La Conteuse vous a réveillé cette nuit !",
     "night_sheet": "Feuille d’Ordre de Nuit",
+    "notifications": "Notifications",
     "npcs": "Ajouter des PNJs",
     "prompt_clear_player": "Êtes-vous sûr de vouloir supprimer tous les rôles et jetons d'aide-mémoire des joueurs ?",
     "prompt_clear_st": "Cela réinitialisera le Grimoire et les jetons d'aide-mémoire pour vous et pour les autres. Êtes-vous sûr ?",
