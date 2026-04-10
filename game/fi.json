@@ -194,6 +194,9 @@
       "name": "Hovimestari",
       "other": "Hovimestari valitsee pelaajan. :reminder:"
     },
+    "cacklejack": {
+      "name": "Kätkäjakki"
+    },
     "cannibal": {
       "flavor": "En tykkää klovneista. Maistuvat hassulta.",
       "name": "Kannibaali"
