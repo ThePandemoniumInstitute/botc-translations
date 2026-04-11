@@ -1,11 +1,11 @@
 {
   "editions": {
     "bmr": {
-      "description": "...on kuoleman loistelias näytös. Demonit tappavat useita kertoja yössä ja Kätyrit pääsevät myös mukaan toimintaan. Hyvät pelaajat voivat ottaa isoja riskejä saadakseen luotettavaa tietoa, mutta saattavat samassa saada ystävänsä hengiltä. Onneksi on monia tapoja pitää pelaajia elossa pitkään parasta ennen päiväyksen jälkeenkin. Mikäli hyvä joukkue ei kykene selvittämään mitkä Kätyrit ja Demonit ovat pelissä on heidän kohtalonsa selvä.",
+      "description": "...on kuoleman loistelias näytös. Demonit tappavat useita kertoja yössä ja Kätyrit nauravat partaansa muiden epätoivoiselle toiminnalle. Hyvät pelaajat voivat ottaa isoja riskejä saadakseen luotettavaa tietoa, mutta saattavat samalla vetää ystävänsä kölin alta. Kaikeksi onneksi taskuista löytyy myös monia tapoja pitää pelaajia elossa, vielä pitkään parasta ennen -päiväysten jälkeenkin. Mikäli hyvä joukkue ei kuitenkaan kykene ajoissa selvittämään mitkä Kätyrit ja Demonit pelissä ovat mukana, kolkuttelee heidän tuhonsa ovella.",
       "name": "Alla Apean Kuun"
     },
     "custom": {
-      "description": "Pelataksesi mukautettua skriptiä, sinun täytyy valita hahmot joilla haluat pelata virallisessa Skripti-työkalussa ja sitten ladattava generoitu \"custom-list.json\" tiedosto tänne tai käyttää URL linkkiä joka johtaa vastaavanlaiseen hostattuun JSON-tiedostoon. Ladataksesi script-tiedoston voit vetää sen tähän ruutuun tai liittää sen suoraan leikepöydältäsi.",
+      "description": "Pelataksesi räätälöityä käsikirjoitusta, sinun täytyy poimia haluamasi hahmot virallisessa Skripti-työkalussa ja sitten ladata luotu \"räätälöity-lista.json\" -tiedosto tänne, tai käyttää URL-linkkiä, joka johtaa vastaavanlaiseen isännöityyn JSON-tiedostoon. Voit myös vetää haluamasi räätälöidyn JSON-tiedoston tähän ruutuun tai liittää sen suoraan leikepöydältäsi.",
       "name": "Räätälöity Käsikirjoitus"
     },
     "homebrew": {
