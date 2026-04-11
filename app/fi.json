@@ -2,9 +2,9 @@
   "common": {
     "account-levels": {
       "free": "Ilmainen",
-      "patreon-demon": "Demonitaso",
-      "patreon-minion": "Kätyritaso",
-      "patreon-townsfolk": "Kyläläistaso",
+      "patreon-demon": "Demoni-taso",
+      "patreon-minion": "Kätyri-taso",
+      "patreon-townsfolk": "Kyläläis-taso",
       "special-free": "Maksuton",
       "special-moderator": "Moderaattori",
       "special-tpi": "TPI henkilöstö"
@@ -115,6 +115,7 @@
     "edition": {
       "button_clear": "Tyhjennä Loitsukirja",
       "button_paste": "Liitä",
+      "custom_placeholder": "Räätälöidyn Käsikirjoituksen URL-osoite",
       "difficulty_beginner": "Aloittelija"
     },
     "help": {
