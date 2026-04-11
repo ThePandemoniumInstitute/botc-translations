@@ -6,17 +6,24 @@
   "analysis": {
     "heading": "Käsikirjoituksen Analytiikka",
     "maximum-character-recommendation": "Suositeltu enimmäismäärä hahmoja on {number}.",
+    "maximum-character-recommendation-teensy": "Suositeltu enimmäismäärä hahmoja Pikkukylään on {number}.",
     "no-messages": "Ei raportoitavaa!",
     "range-between-recommendation-full-demon": "Suositeltu määrä Demoneja on {lower} ja {upper} välillä.",
     "range-between-recommendation-full-minion": "Suositeltu määrä Kätyreitä on {lower} ja {upper} välillä.",
+    "range-between-recommendation-full-outsider": "Suositeltu määrä Hylkiöitä on {lower} ja {upper} välillä.",
     "range-between-recommendation-full-townsfolk": "Suositeltu määrä Kyläläisiä on {lower} ja {upper} välillä.",
-    "range-between-recommendation-teensy-townsfolk": "Suositeltu määrä Kyläläisiä Minikäsikirjoitus pelissä on {lower} ja {upper} välillä.",
+    "range-between-recommendation-teensy-demon": "Suositeltu määrä Demoneja Pikkukylässä on {lower} ja {upper} välillä.",
+    "range-between-recommendation-teensy-minion": "Suositeltu määrä Kätyreitä Pikkukylässä on {lower} ja {upper} välillä.",
+    "range-between-recommendation-teensy-outsider": "Suositeltu määrä Hylkiöitä Pikkukylässä on {lower} ja {upper} välillä.",
+    "range-between-recommendation-teensy-townsfolk": "Suositeltu määrä Kyläläisiä Pikkukylässä on {lower} ja {upper} välillä.",
     "range-exact-recommendation-full-demon": "Suositeltu määrä Demoneja on tarkalleen {number}.",
     "range-exact-recommendation-full-minion": "Suositeltu määrä Kätyreitä on tarkalleen {number}.",
+    "range-exact-recommendation-full-outsider": "Suositeltu määrä Hylkiöitä on tarkalleen {number} .",
     "range-exact-recommendation-full-townsfolk": "Suositeltu määrä Kyläläisiä on tarkalleen {number} .",
-    "range-exact-recommendation-teensy-demon": "Suositeltu määrä Demoneja Minikäsikirjoituksessa on tarkalleen {number}.",
-    "range-exact-recommendation-teensy-minion": "Suositeltu määrä Kätyrejä Minikäsikirjoituksessa on tarkalleen {number}.",
-    "range-exact-recommendation-teensy-townsfolk": "Suositeltu määrä Kyläläisiä Minikäsikirjoituksessa on tarkalleen {number}.",
+    "range-exact-recommendation-teensy-demon": "Suositeltu määrä Demoneja Pikkukylässä on tarkalleen {number}.",
+    "range-exact-recommendation-teensy-minion": "Suositeltu määrä Kätyreitä Pikkukylässä on tarkalleen {number}.",
+    "range-exact-recommendation-teensy-outsider": "Suositeltu määrä Hylkiöitä Pikkukylässä on tarkalleen {number}.",
+    "range-exact-recommendation-teensy-townsfolk": "Suositeltu määrä Kyläläisiä Pikkukylässä on tarkalleen {number}.",
     "too-few-demon": "Ei riittävästi Demoneja",
     "too-few-minion": "Ei riittävästi Kätyreitä",
     "too-few-outsider": "Ei riittävästi Hylkiöitä",
@@ -24,6 +31,7 @@
     "too-many-characters": "Liian monta hahmoa",
     "too-many-demon": "Liian monta Demonia",
     "too-many-minion": "Liian monta Kätyriä",
+    "too-many-outsider": "Liian monta Hylkiötä",
     "too-many-townsfolk": "Liian monta Kyläläistä"
   },
   "author-placeholder": "Tuntematon",
@@ -38,6 +46,7 @@
     "base-three": "Perus",
     "carousel": "Karuselli",
     "custom": "Räätälöity",
+    "experimental": "Kokeellinen",
     "homebrew": "Kotipolttoinen",
     "kickstarter": "Kickstarter"
   },
@@ -47,6 +56,7 @@
     "pdf": "Tulosta/Vie PDF",
     "png": "Vie PNG",
     "screenshot": {
+      "failed-embed": "Joitakin kuvakkeita ei voitu upottaa vietyyn kuvaan",
       "save": "Tallenna",
       "share": "Jaa"
     }
@@ -59,12 +69,16 @@
   "import-type-error": "Väärä tiedostotyyppi, tiedostoa ei ladattu.",
   "interactions": {
     "+choirboy-king": {
-      "msg": "Käsikirjoitukset, joissa on Kuoropoika täytyy olla Kuningas.",
-      "title": "Kuoropoika, mutta ei Kuningasta"
+      "msg": "Kuoropojallisissa käsikirjoituksissa täytyy olla myös Kuningas.",
+      "title": "Kuoropoika, muttei Kuningasta"
     },
     "+huntsman-damsel": {
-      "msg": "Käsikirjoitukset, joissa on Metsästäjä täytyy olla Neito.",
-      "title": "Metsästäjä, mutta ei Neitoa"
+      "msg": "Metsästäjällisissä käsikirjoituksissa täytyy olla myös Neito.",
+      "title": "Metsästäjä, muttei Neitoa"
+    },
+    "no-outsider-mod": {
+      "msg": "Ilman Hylkiömuutoksia pahat pelaajat eivät voi luotettavasti teeskennellä olevansa Hylkiöitä.",
+      "title": "Ei Hylkiömuutoksia"
     }
   },
   "keyword": {
@@ -81,9 +95,9 @@
   },
   "name": "Nimi",
   "print": {
-    "ios": "Tulostamista iOS laitteilta ei vielä tueta. Voit silti yrittää, mutta se saattaa näyttää huonolta.",
+    "ios": "Tulostamista iOS-laitteilta ei vielä tueta. Voit silti yrittää, mutta se saattaa näyttää huonolta.",
     "not-first-night": "* Ei ensimmäisenä yönä",
-    "too-many-characters": "Käsikirjoituksessasi on liikaa hahmoja {nchars}. Suositeltu enimmäismäärä on 25. Tämä saattaa näyttää rikkinäiseltä tulosteena. Jatka?"
+    "too-many-characters": "Käsikirjoituksessasi on liikaa hahmoja ({nchars}). Suositeltu enimmäismäärä on 25. Tämä saattaa näyttää rikkinäiseltä tulosteena. Jatka?"
   },
   "quick-add": "Etsi hahmoja …",
   "randomise": "Satunnaista!",
@@ -98,25 +112,27 @@
     "bloodstar-image-correction": "Bloodstar Kuvien Korjaus",
     "bloodstar-image-correction-explanation": "Bloodstar.xyz luomilla kuvakkeilla on pieni määrä pehmustetta pohjassa, joten ne eivät ole täysin keskitettyjä. Tämän asetuksen salliminen poistaa pehmusteen.",
     "compact-layout": "Tiivis Ulkoasu",
-    "display-and-ui-heading": "Näyttö ja Käyttäjä Käyttöliittymä",
+    "display-and-ui-heading": "Näyttö ja Käyttöliittymä",
     "external-images-heading": "Ulkoiset Kuvat",
     "font-size": "Fonttikoko",
-    "font-size-larger": "Isompi",
+    "font-size-larger": "Suurempi",
     "font-size-normal": "Normaali",
     "force-one-column": "Pakota Yksi Sarake",
     "language": "Kieli",
     "language-select-heading": "Kielivalinta",
     "print-columns": "Tulosta Sarakkeet",
     "print-compact-night-sheet": "Tiivis Yöluettelo",
-    "print-options-heading": "Tulostin Valinnat",
-    "print-player-count-table": "Näytä Pelaaja Lukumäärä Taulukko",
-    "script-heading": "Käsikirjoitus Asetukset",
-    "script-type": "Käsikijroitustyyppi",
+    "print-options-heading": "Tulostinvalinnat",
+    "print-player-count-table": "Näytä Pelaajamäärätaulukko",
+    "script-heading": "Käsikirjoituksen Asetukset",
+    "script-type": "Käsikirjoituksen Luokka",
     "script-type-explanation": "Pikkukylä-skripti on käsikirjoitus, joka on tehty erityisesti pienemmille pelaajamäärille (alle 7 pelaajaa). Näissä on yleensä vähemmän hahmoja kuin tavallisessa käsikirjoituksessa. Tämä asetus vaikuttaa vain käsikirjoituksen analytiikkaan, satunnaistajaan ja joihinkin käyttöliittymän elementteihin.",
     "script-type-standard": "Standardi",
-    "show-analysis-icons": "Näytä Analyysi Kuvakkeet",
+    "script-type-teensyville": "Pikkukylä",
+    "show-analysis-icons": "Näytä Analyysikuvakkeet",
     "show-night-sheet": "Näytä Yöluettelo",
-    "view-tour": "Klikkaa {link} täältä{/link} nähdäksesi esittely uudestaan."
+    "this-language": "Suomi",
+    "view-tour": "Klikkaa {link}tästä{/link} nähdäksesi esittelymme uudestaan."
   },
   "settings-menu": "Asetukset",
   "show-all": "Kaikki Hahmot",
@@ -125,9 +141,9 @@
     "copied": "Kopioitu leikepöydälle!"
   },
   "tour": {
-    "add-and-remove-characters-01": "Voit {bold} lisätä hahmon{/bold} hahmot välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
-    "add-and-remove-characters-02": "Poistaakseksi {bold} hahmon{/bold}, klikkaa sitä uudestaan täällä, tai sen kuvaketta käsikirjoituksessa.",
-    "add-and-remove-characters-03": "Mikäli olet puhelimella, voit avata tämän välilehden pyyhkäisemällä oikealle tai napauttamalla {menuIcon} painiketta ylävasemalla. Voit sulkea sen pyyhkäisemällä vasemmalle.",
+    "add-and-remove-characters-01": "Voit {bold}lisätä hahmon{/bold} hahmot-välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
+    "add-and-remove-characters-02": "{bold}Poistaaksesi hahmon{/bold}, klikkaa sitä uudelleen täällä, tai sen kuvaketta käsikirjoituksessa.",
+    "add-and-remove-characters-03": "Mikäli olet puhelimellasi, voit avata tämän välilehden pyyhkäisemällä oikealle tai napauttamalla {menuIcon} -painiketta ylävasemalla. Voit sulkea sen pyyhkäisemällä vasemmalle.",
     "add-and-remove-characters-heading": "Hahmojen lisääminen ja poistaminen",
     "autosort-heading": "Automaattinen lajittelu",
     "final-heading": "Pelin iloa!",
@@ -135,9 +151,9 @@
     "multiple-scripts-heading": "Useiden käsikirjoitusten työstäminen",
     "script-analytics-01": "Jos käsikirjoituksessasi on ongelmia, ne näkyvät täällä.",
     "script-analytics-heading": "Käsikirjoituksen analytiikka",
-    "script-name-and-authors-heading": "Käsikirjoitus nimi ja tekijät",
+    "script-name-and-authors-heading": "Käsikirjoituksen nimi ja tekijät",
     "undo-redo-heading": "Kumoa ja uusi",
-    "welcome-01": "Tämä on upouusi käsikirjoitustyökalu {bold}Veri Kellotornissa{/bold} peliin! Tämä esittely antaa sinulle nopean katsastuksen perustoimintoihin jotta pääset alkuun.",
+    "welcome-01": "Tämä on upouusi käsikirjoitustyökalu {bold}Blood on the Clocktower{/bold} -peliin! Tämä esittelykierros antaa sinulle nopean katsastuksen perustoimintoihin, jotta pääset alkuun.",
     "welcome-heading": "Tervetuloa!"
   },
   "undo": "Kumoa"
