@@ -120,6 +120,12 @@
       "link_2": "täällä"
     }
   },
+  "overlays": {
+    "reveal": {
+      "evil": "Paha",
+      "good": "Hyvä"
+    }
+  },
   "user": {
     "blocked": "Estetty",
     "gain": "Vahvistus"
