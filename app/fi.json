@@ -116,6 +116,7 @@
       "button_clear": "Tyhjennä Loitsukirja",
       "button_paste": "Liitä",
       "custom_placeholder": "Räätälöidyn Käsikirjoituksen URL-osoite",
+      "custom_text": "Anna URL-osoite räätälöity-käsikirjoitus.json -tiedostoon",
       "difficulty_beginner": "Aloittelija"
     },
     "help": {
