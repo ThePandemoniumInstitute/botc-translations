@@ -4,7 +4,7 @@
   "add-outsider": "Lisää Hylkiöitä",
   "add-townsfolk": "Lisää Kyläläisiä",
   "analysis": {
-    "heading": "Käsikirjoitus Analyysit",
+    "heading": "Käsikirjoituksen Analytiikka",
     "too-few-outsider": "Ei riittävästi Hylkiöitä"
   },
   "author-placeholder": "Tuntematon",
@@ -46,15 +46,18 @@
   "search-abilities": "Etsi kykyjä",
   "search-character": "Etsi hahmoja …",
   "search-names": "Etsi nimiä",
+  "settings": {
+    "script-type-explanation": "Pikkukylä-skripti on käsikirjoitus, joka on tehty erityisesti pienemmille pelaajamäärille (alle 7 pelaajaa). Näissä on yleensä vähemmän hahmoja kuin tavallisessa käsikirjoituksessa. Tämä asetus vaikuttaa vain käsikirjoituksen analytiikkaan, satunnaistajaan ja joihinkin käyttöliittymän elementteihin."
+  },
   "settings-menu": "Asetukset",
   "show-all": "Kaikki Hahmot",
-  "show-script-analytics": "Näytä käsikirjoitus analytiikka",
+  "show-script-analytics": "Näytä käsikirjoituksen analytiikka",
   "toast": {
     "copied": "Kopioitu leikepöydälle!"
   },
   "tour": {
     "script-analytics-01": "Jos käsikirjoituksessasi on ongelmia, ne näkyvät täällä.",
-    "script-analytics-heading": "Käsikirjoitus analyysit"
+    "script-analytics-heading": "Käsikirjoituksen analytiikka"
   },
   "undo": "Kumoa"
 }
