@@ -12,15 +12,17 @@
       "name": "Kotipolttoinen"
     },
     "snv": {
-      "name": "Lahkoja ja Liljoja"
+      "description": "...on hullunkurisin peruspakkauksen kolmesta versiosta. Hyvät hahmot saavat hämmästyttävää tietoa jok'ikinen ilta. Paha joukkue on kuitenkin monipuolisuudessaan äärimmäisen uhkaava, kyeten jatkuvasti aiheuttamaan valtavaa hämmennystä. Hahmot vaihtavat puolia. Pelaajat vaihtavat hahmoja. Jopa paha joukkue voi hetken hurmiossa kadottaa tajunsa, kuka kukin on. Tämä on myös tahdon mukanaan vievän raivon ensiesiintyminen, mikä osaltaan heittää kaikensorttisia kapuloita kehiin.",
+      "name": "Liljaisia Lahkoja"
     },
     "tb": {
-      "description": "...sisältää vähän kaikkea. Jotkut hahmot saavat passiivisesti tietoa, toisten täytyy toimia jotta voivat saada tietoa kuka on kuka, kun taas toiset yksinkertaisesti pyrkivät houkuttelemaan Demonin käymään heidän kimppuunsa. Sekä hyvät että pahat voivat saada yliotteen tekemällä hyvin ajoitettuja uhrauksia\nHarmeja hautumassa on suhteellisen suoraviivainen Demonin metsästys mutta pahoilla on hihassaan useita petollisia temppuja luoda virheellistä tietoa, joten hyvien olisi paras kyseenalaistaa mitä he uskovat tietävänsä mikäli toivovat selviävänsä.",
+      "description": "...sisältää vähän kaikkea. Osa hahmoista saa vain passiivista tietoa, toisten täytyy toimia salapoliiseina, kun taas joillain on vain yksinkertaisesti tarve houkutella Demoni kimppuunsa. Sekä hyvät että pahat voivat saada yliotteen tekemällä tarkkaan ajoitettuja uhrauksia.\nPiru Merrassa on suhteellisen suoraviivainen Demonijahti, mutta pahoilla on hihoissaan useita petollisia temppuja luoda vääristynyttä tietoa, joten hyvien olisi parempi kyseenalaistaa mitä uskovat tietävänsä, mikäli toivovat selviävänsä.",
       "name": "Piru Merrassa"
     }
   },
   "jinxes": {
-    "alchemist-marionette": "Alkemisti-marionetilla ei ole marionetin kykyä & marionetti on pelissä.",
+    "alchemist-boffin": "Jos Alkemistilla on Koekaniinin kyky, ei Alkemisti saa tietää, mikä kyky Demonilla on.",
+    "alchemist-marionette": "Alkemisti-Sätkynukella ei ole Sätkynuken kykyä & Sätkynukke on pelissä.",
     "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee haluamansa Demonin - mutta ei pelaajaa. Jos Alkemisti kuolee ennen kuin herätys tapahtuu, paha voittaa. [Ei Demonia]",
     "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
     "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
@@ -352,6 +354,9 @@
     },
     "towncrier": {
       "flavor": "Kuulkaa! Kuulkaa! Noituutta labyrintissa! Kultivoitunut neromme paljastaa kaiken! Kylä vaarassa! Kuulkaatten!"
+    },
+    "ventriloquist": {
+      "name": "Käsinukke"
     },
     "voudon": {
       "name": "Voudon"
