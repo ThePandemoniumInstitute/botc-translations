@@ -117,17 +117,30 @@
       "button_paste": "Liitä",
       "custom_placeholder": "Räätälöidyn Käsikirjoituksen URL-osoite",
       "custom_text": "Anna URL-osoite räätälöity-käsikirjoitus.json -tiedostoon",
-      "difficulty_beginner": "Aloittelija"
+      "custom_title": "Lataa Räätälöity Käsikirjoitus",
+      "difficulty_beginner": "Aloittelija",
+      "error_custom": "Virhe ladattaessa räätälöityä käsikirjoitusta",
+      "error_script_text": "Tämä käsikirjoitus ladattiin, mutta siinä on joitakin ongelmia. Tämä tarkoittaa yleensä sitä, että käsikirjoituksessa on rivejä, joita ei pitäisi virallisen Custom Script JSON -mallin mukaan esiintyä.",
+      "homebrew_description": "Kotipolttoisten käsikirjoitusten kuvat on korvattu yleisillä kuvakkeilla turvallisuussyistä. Voit ottaa ne käyttöön Asetukset-valikossa.",
+      "upload_custom": "Lataa Räätälöity JSON-Käsikirjoitus"
     },
     "help": {
       "link_1": "sähköpostitse",
       "link_2": "täällä"
+    },
+    "settings": {
+      "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia."
     }
   },
   "overlays": {
     "reveal": {
       "evil": "Paha",
       "good": "Hyvä"
+    }
+  },
+  "pages": {
+    "lobby": {
+      "bootlegger_warning": "Tässä pelisessiossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on kässärinä varsin tasapainoinen tapaus ja näin ollen helposti suositeltava ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?"
     }
   },
   "user": {
