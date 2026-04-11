@@ -6,8 +6,26 @@
   "add-outsider": "เพิ่มคนนอก",
   "add-townsfolk": "เพิ่มชาวเมือง",
   "analysis": {
+    "heading": "การวิเคราะห์สคริปต์",
     "maximum-character-recommendation": "จำนวนตัวละครที่แนะนำคือ {number} ตัว",
     "maximum-character-recommendation-teensy": "จำนวนตัวละครที่แนะนำในเมืองจิ๋วคือ {number} ตัว",
+    "no-messages": "ไม่มีอะไรให้แจ้ง!",
+    "range-between-recommendation-full-demon": "แนะนำให้จำนวนปีศาจอยู่ระหว่าง {lower} และ {upper} คน",
+    "range-between-recommendation-full-minion": "แนะนำให้จำนวนลูกสมุนอยู่ระหว่าง {lower} และ {upper} คน",
+    "range-between-recommendation-full-outsider": "แนะนำให้จำนวนคนนอกอยู่ระหว่าง {lower} และ {upper} คน",
+    "range-between-recommendation-full-townsfolk": "แนะนำให้จำนวนชาวเมืองอยู่ระหว่าง {lower} และ {upper} คน",
+    "range-between-recommendation-teensy-demon": "แนะนำให้จำนวนปีศาจอยู่ระหว่าง {lower} และ {upper} คน ในเมืองจิ๋ว",
+    "range-between-recommendation-teensy-minion": "แนะนำให้จำนวนลูกสมุนอยู่ระหว่าง {lower} และ {upper} คน ในเมืองจิ๋ว",
+    "range-between-recommendation-teensy-outsider": "แนะนำให้จำนวนคนนอกอยู่ระหว่าง {lower} และ {upper} คน ในเมืองจิ๋ว",
+    "range-between-recommendation-teensy-townsfolk": "แนะนำให้จำนวนชาวเมืองอยู่ระหว่าง {lower} และ {upper} คน ในเมืองจิ๋ว",
+    "range-exact-recommendation-full-demon": "แนะนำให้มีปีศาจจำนวน {number} คน",
+    "range-exact-recommendation-full-minion": "แนะนำให้มีลูกสมุนจำนวน {number} คน",
+    "range-exact-recommendation-full-outsider": "แนะนำให้มีคนนอกจำนวน {number} คน",
+    "range-exact-recommendation-full-townsfolk": "แนะนำให้มีชาวเมืองจำนวน {number} คน",
+    "range-exact-recommendation-teensy-demon": "แนะนำให้มีปีศาจจำนวน {number} คน ในเมืองจิ๋ว",
+    "range-exact-recommendation-teensy-minion": "แนะนำให้มีลูกสมุนจำนวน {number} คน ในเมืองจิ๋ว",
+    "range-exact-recommendation-teensy-outsider": "แนะนำให้มีชาวเมืองคนนอก {number} คน ในเมืองจิ๋ว",
+    "range-exact-recommendation-teensy-townsfolk": "แนะนำให้มีชาวเมืองจำนวน {number} คน ในเมืองจิ๋ว",
     "too-few-demon": "มีปีศาจไม่เพียงพอ",
     "too-few-minion": "มีลูกสมุนไม่เพียงพอ",
     "too-few-outsider": "มีคนนอกไม่เพียงพอ",
@@ -30,7 +48,12 @@
   "close": "ปิด",
   "copy-script-link": "คัดลอกลิงก์สคริปต์",
   "ctxmenu": {
-    "draft": "แบบร่าง"
+    "copy-text": "คัดลอกข้อความ",
+    "copy-text-details": "คัดลอกข้อความความสามารถของตัวละคร",
+    "draft": "แบบร่าง",
+    "draft-details": "ตัวละครที่ร่างไว้ยังไม่ได้ถูกกำหนดในสคริปต์ หากคุณกดปุ่มสุ่ม ตัวละครที่ร่างไว้จะถูกแทนที่ด้วยตัวละครชนิดเดียวกัน",
+    "pinned": "ปักหมุด",
+    "pinned-details": "ตัวละครที่ปักหมุดไว้จะอยู่ที่เดิม แม้ว่าจะเปิดใช้งานจัดเรียงอัตโนมัติก็ตาม"
   },
   "delete-script-confirmation": "คุณแน่ใจใช่ไหมว่าจะลบสคริปต์นี้ สิ่งนี้ไม่สามารถย้อนกลับได้",
   "djinn-rules": "กฎของญิน",
@@ -68,6 +91,10 @@
     "+huntsman-damsel": {
       "msg": "สคริปต์ที่มีนายพรานต้องมีโฉมงาม",
       "title": "มีนายพราน แต่ไม่มีโฉมงาม"
+    },
+    "no-outsider-mod": {
+      "msg": "หากไม่มีการปรับแต่งคนนอก ผู้เล่นฝ่ายร้ายจะไม่สามารถเสแสร้งเป็นคนนอกได้",
+      "title": "ไม่มีการปรับแต่งคนนอก"
     }
   },
   "keyword": {
@@ -105,6 +132,7 @@
   "settings": {
     "allow-external-images": "อนุญาตรูปภาพจากภายนอก",
     "bloodstar-image-correction": "การแก้ไขภาพ Bloodstar",
+    "bloodstar-image-correction-explanation": "ไอคอนที่ bloodstar.xyz สร้างขึ้นมามีระยะห่างเล็กน้อยที่ด้านล่าง ทำให้ไอคอนไม่อยู่ตรงกลาง การเปิดใช้งานการตั้งค่านี้จะชดเชยระยะห่างดังกล่าว",
     "compact-layout": "กระชับการจัดวาง",
     "display-and-ui-heading": "การแสดงผลและหน้าจอผู้ใช้",
     "external-images-heading": "รูปภาพจากภายนอก",
@@ -125,18 +153,39 @@
     "script-type-teensyville": "เมืองจิ๋ว",
     "show-analysis-icons": "แสดงไอคอนการวิเคราะห์",
     "show-night-sheet": "แสดงชีตกลางคืน",
-    "this-language": "ภาษาอังกฤษ"
+    "this-language": "ภาษาอังกฤษ",
+    "view-tour": "คลิก {link}ที่นี่{/link} เพื่อดูแนวทางอีกครั้ง"
   },
   "settings-menu": "การตั้งค่า",
   "show-all": "ตัวละครทั้งหมด",
   "toast": {
+    "cannot-remove-bootlegger": "มีตัวละครประจำบ้านอยู่ในสคริปต์ ดังนั้นคุณไม่สามารถลบคนเถื่อนได้",
     "copied": "คัดลอกลงคลิปบอร์ดแล้ว!"
   },
   "tour": {
+    "add-and-remove-characters-01": "คุณสามารถ{bold}เพิ่มตัวละคร{/bold}จากแท็บตัวละคร คลิกที่ตัวละครที่คุณต้องการเพิ่ม",
+    "add-and-remove-characters-02": "เพื่อที่จะ{bold}ลบตัวละคร{/bold} คลิกที่ตัวละครนั้นอีกครั้งตรงนี้ หรือคลิกที่ไอคอนในสคริปต์",
+    "add-and-remove-characters-03": "หากคุณใช้โทรศัพท์มือถือ คุณสามารถเปิดแท็บนี้โดยการปัดไปทางขวามือหรือกดปุ่ม {menuIcon} ที่อยู่ด้านบนทางซ้ายมือ คุณสามารถปิดแท็บได้โดยการปัดไปทางซ้ายมือ",
+    "add-and-remove-characters-04": "นอกจากนี้คุณยังสามารถเพิ่มตัวละครได้อย่างรวดเร็วโดยใช้ช่อง ‘เพิ่มด่วน’ ซึ่งคุณสามารถใช้งานได้โดยการกดปุ่ม {plusIcon}",
     "add-and-remove-characters-heading": "การเพิ่มและลบตัวละคร",
+    "autosort-01": "โดยปกติสคริปต์ทั้งหมดจะถูกจัดเรียงอัตโนมัติด้วย {link}{sortIcon} {block}จัดโดย SAO{/block}{/link} – แม้แต่ตัวละครประจำบ้านก็ยังจัดเรียงได้! สามารถเปิดและปิดฟังก์ชันนี้ได้ที่นี่",
+    "autosort-heading": "จัดเรียงอัตโนมัติ",
+    "final-01": "หมดแล้ว! ถ้าอยากดูแนวทางนี้อีกครั้ง สามารถทำได้จากเมนู {block}{settingsIcon} การตั้งค่า{/block}",
     "final-heading": "ขอให้สนุกนะ!",
+    "import-export-share-01": "คุณสามารถ {block}{importIcon} นำเข้า{/block} {block}{exportIcon} ส่งออก{/block} หรือ{block}แชร์{/block}สคริปต์ได้จากที่นี่ รองรับได้ทั้งตัวละครและสคริปต์ประจำบ้าน!",
+    "import-export-share-02": "คลิกปุ่ม{block}คัดลอกลิงก์สคริปต์{/block}ในเมนู{block}ส่งออก{/block}จะทำให้คุณได้รับ ‘ลิงก์สคริปต์’ สุดพิเศษ ซึ่งอนุญาตให้คนอื่นๆ สามารถดูสคริปต์ของคุณได้เลยโดยตรงในเครื่องมือ",
+    "import-export-share-03": "คุณสามารถดูแนวทางนี้ได้อีกครั้งจากเมนู {block}{settingsIcon} การตั้งค่า{/block}",
+    "import-export-share-heading": "นำเข้า ส่งออก และแชร์",
+    "multiple-scripts-01": "คุณสามารถคลิกแท็บ{heading}สคริปต์{/heading}ตรงนี้เพื่อดูสคริปต์ทั้งหมดที่คุณเคยทำไว้",
+    "multiple-scripts-02": "คุณสามารถสลับไปมาระหว่างสคริปต์ล่าสุดได้มากถึง{bold}25 สคริปต์{/bold}ตรงนี้",
+    "multiple-scripts-heading": "กำลังทำงานกับสคริปต์หลายสคริปต์",
+    "script-analytics-01": "หากเกิดปัญหากับสคริปต์ของคุณ ปัญหาเหล่านั้นจะปรากฏในนี้",
+    "script-analytics-heading": "การวิเคราะห์สคริปต์",
+    "script-name-and-authors-01": "{bold}ชื่อสคริปต์และผู้เขียน{/bold}สามารถเปลี่ยนได้ตรงนี้",
     "script-name-and-authors-heading": "ชื่อสคริปต์และผู้เขียน",
+    "undo-redo-01": "ถ้าเกิดเผลอทำผิดก็ไม่ต้องกังวลไป! คุณสามารถ {block}{undoIcon} ยกเลิก{/block}หรือ {block}{redoIcon} ทำซ้ำ{/block}ได้เสมอ นอกจากนี้คุณยังสามารถล้างสคริปต์ได้โดยคลิกปุ่ม {binIcon}",
     "undo-redo-heading": "ยกเลิกกับทำซ้ำ",
+    "welcome-01": "นี่คือเครื่องมือทำสคริปต์ใหม่ล่าสุดของ {bold}Blood on the Clocktower หอนาฬิกาล่าปีศาจ{/bold}! แนวทางนี้จะอธิบายภาพรวมคร่าวๆ เกี่ยวกับคุณสมบัติพื้นฐานเพื่อให้คุณเริ่มต้นใช้งานได้",
     "welcome-heading": "ยินดีต้อนรับ!"
   },
   "undo": "ยกเลิก",
