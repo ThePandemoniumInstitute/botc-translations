@@ -330,12 +330,34 @@
     "reminder": {
       "custom_favorite": "Tallennettu suosikkina",
       "custom_note": "Muistiinpano",
-      "custom_text": "Kirjoita muistutusviesti, joka lisätään kohteeseen {0}",
-      "custom_title": "Lisää muistutus"
+      "custom_text": "Kirjoita muistiinpano {0} kohdalle",
+      "custom_title": "Lisää muistiinpano",
+      "tab1": "Olennaiset Muistutukset",
+      "tab2": "Muut Muistutukset",
+      "title": "Lisää {0} Muistutusmerkki"
     },
     "role": {
+      "error_character": "Hakua {0} vastaavaa hahmoa ei löytynyt.",
       "error_traveller": "Hakua {0} vastaavaa Kulkuria ei löytynyt.",
-      "tab_traveller": "Toiset Kulkurit"
+      "tab_character": "Hahmot Saatavilla",
+      "tab_traveller": "Toiset Kulkurit",
+      "title": "Valitse {alignment} {type} {target}",
+      "title_alignment_e": "Paha",
+      "title_alignment_g": "Hyvä",
+      "title_alignment_r": "tavallinen",
+      "title_target": "{0} varten",
+      "title_type_bluff": "bluffi",
+      "title_type_character": "hahmo"
+    },
+    "roles": {
+      "button_distribute": "Jaa {0} hahmoa",
+      "button_gardener": "Jaa {0} hahmoa",
+      "button_shuffle": "Sekoita",
+      "button_sort": "Järjestä",
+      "clear": "Tyhjennä valitut hahmot",
+      "title": "Valitse hahmot {0}",
+      "title_players": "pelaajat",
+      "warning": "Varoitus: valituilla hahmoilla on kykyjä, jotka muuttavat pelin alkuasetelmia! Sinun on itse otettava muutokset huomioon."
     },
     "settings": {
       "background_text": "Anna mukautetun taustan URL-osoite tai jätä se tyhjäksi poistaaksesi mukautetun taustan.",
@@ -346,9 +368,17 @@
       "css_title": "Syötä Mukautettu CSS",
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
       "image_title": "Salli mukautetut kuvat",
+      "nomination": {
+        "bigwig": {
+          "title": "Per-Uukki"
+        }
+      },
       "setting_css": "Mukautetut CSS-Säännöt",
       "setting_css_label": "Syötä Mukautetut CSS-säännöt",
       "setting_homebrew": "Näytä Mukautetut Kuvat / Kotipolttoiset Kuvakkeet",
+      "setting_player_reminders": "Pelaaja: Salli useat muistutusmerkit",
+      "setting_reminder_zoom": "Muistutusmerkkien Koko",
+      "setting_reminders": "Pinoa Muistutusmerkit",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
       "shortcuts": {
         "attentionGong": "Takaisinkutsu / Huomiokumistin",
@@ -373,6 +403,9 @@
     }
   },
   "overlays": {
+    "attention": {
+      "return": "Palatkaahan takaisin Toriaukiolle!"
+    },
     "reveal": {
       "evil": "Paha",
       "good": "Hyvä",
@@ -412,7 +445,7 @@
     },
     "reminders": {
       "edit_placeholder": "Muistiinpano",
-      "edit_text": "Muokkaa muistiinpanoa {0}"
+      "edit_text": "Muokkaa muistiinpanoa {0} kohdalle"
     }
   },
   "session": {
