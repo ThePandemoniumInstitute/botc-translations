@@ -72,14 +72,28 @@
     "exorcist-riot": "Jos Mellakka nimittää ja teloituttaa Manaajan valitseman pelaajan, hyvä voittaa.",
     "exorcist-yaggababble": "Jos Manaaja valitsee Hölösuun, ei Hölösuu tapa ketään yöllä.",
     "fanggu-scarletwoman": "Jos on olemassa samaan aikaan kaksi Demonia, joista toinen oli aiemmin Punahuuli, pysyy tämä Kätyri Punahuulena.",
-    "farmer-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Maanviljelijä käyttää kykyään, mutta ei kuole.",
+    "farmer-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Maajussi käyttää kykyään, muttei kuole.",
+    "farmer-riot": "Joka yö*, Mellakka valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Maajussi käyttää kykyään, muttei kuole.",
     "fearmonger-plaguedoctor": "Jos Tarinankertoja saisi Pelonlietsojan kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
+    "fearmonger-vizier": "Visiiri herää Pelonlietsojan kanssa, näkee kenet valitaan, eikä voi teloituttaa tätä kyvyllään.",
     "goblin-plaguedoctor": "Jos Tarinankertoja saisi Hiiden kyvyn, yksi Kätyreistä saa sen ja saa tietää tästä.",
+    "godfather-heretic": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "goon-pithag": "Jos Pata-akka muuttaa pahan pelaajan Konnaksi, ei tämä voi kääntyä oman kykynsä vuoksi hyväksi.",
     "grandmother-leviathan": "Jos Leviatan on pelissä ja Lapsenlapsi kuolee teloitukseen, paha voittaa.",
+    "grandmother-riot": "Jos Mellakka on pelissä ja Lapsenlapsi kuolee teloitukseen, paha voittaa.",
+    "hatter-legion": "Jos Leegio muodostuu, kaikki pahat pelaajat muuttuvat Leegioksi. Jos Leegio on pelissä, Hatuntekijällä ei ole kykyä.",
     "hatter-leviathan": "Leviatan ei voi tulla peliin 5. päivän jälkeen.",
-    "hatter-lilmonsta": "Jos Hatuntekijä kuolee ja Demoni valitsee Pikku Riiviön, hän saa myös valita, miksi Kätyriksi muuttuu.",
+    "hatter-lilmonsta": "Jos Hatuntekijä kuolee ja Demoni valitsee Pikku Riiviön, tämä valitsee myös, miksi Kätyriksi muuttuu.",
     "hatter-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
-    "huntsman-marionette": "Jos Marionetti luulee olevansa Metsästäjä, Neito on lisättävä peliin valmisteluvaiheessa.",
+    "heretic-lleech": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "heretic-pithag": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "heretic-spy": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "heretic-widow": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "huntsman-marionette": "Jos Sätkynukke luulee olevansa Metsästäjä, on Neito lisätty peliin jo valmisteluvaiheessa.",
+    "innkeeper-leviathan": "Jos Leviatan nimeää ja teloituttaa Krouvarin suojeleman pelaajan, hyvä voittaa.",
+    "innkeeper-riot": "Jos Mellakka nimeää ja teloituttaa Krouvarin suojeleman pelaajan, hyvä voittaa.",
+    "investigator-vizier": "Tarinankertoja ei julista Visiirin olevan pelissä.",
+    "kazali-marionette": "Jos Sätkynukke on pelissä, tai tulee peliin, on tämän aloitettava aina Demonin naapurina.",
     "kazali-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
     "king-leviathan": "Jos Leviatan on pelissä ja vähintään 1 pelaaja on kuollut, Kuningas saa tietää elävän hahmon joka yö.",
     "king-riot": "Jos Mellakka on pelissä, ja vähintään 1 pelaaja on kuollut, Kuningas saa tietää yhden elävän hahmon joka yö.",
@@ -129,8 +143,15 @@
     "poppygrower-spy": "Jos Unikkotarhurilla on kykynsä, Vakooja ei näe Loitsukirjaa.",
     "poppygrower-summoner": "Jos Unikkotarhuri on elossa 3. yönä, Rienaaja valitsee Demonin, muttei pelaajaa.",
     "poppygrower-widow": "Jos Unikkotarhurilla on kykynsä, Leski ei näe Loitsukirjaa.",
+    "preacher-summoner": "Jos elävällä Rienaajalla ei ole kykyä, on Rienaaja-kyky Tarinankertojalla.",
     "preacher-vizier": "Jos Visiiri menettää kykynsä, hän saa tietää tästä, eikä voi kuolla päivällä.",
-    "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
+    "pukka-summoner": "Rienaaja voi rienata Pukkan peliin 2. päivänä, 3. sijaan.",
+    "ravenkeeper-riot": "Joka yö*, Mellakka valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Korpinkesyttäjä käyttää kykyään, muttei kuole.",
+    "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle.",
+    "riot-sage": "Joka yö*, Mellakka valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Tietäjä käyttää kykyään, muttei kuole.",
+    "riot-soldier": "Jos Mellakka nimeää ja teloituttaa Sotilaan, hyvä voittaa.",
+    "summoner-zombuul": "Jos Rienaaja rienaa kuolleen pelaajan Vainajaksi, on Vainaja jo \"kuollut kertaalleen\".",
+    "vizier-zealot": "Kiihkoilija saattaa näyttäytyä pahana Visiirille."
   },
   "reminders": {
     "2nd": "2.",
@@ -139,10 +160,12 @@
     "abnormal": "Epänormaali",
     "abouttodie": "Kuolee",
     "actstwice": "Toimii Kahdesti",
+    "aligned": "Liitossa",
     "alive": "Elossa",
     "amigo": "Amigo",
-    "cannotdie": "Ei voi kuolla",
+    "cannotdie": "Kuolematon",
     "chosen": "Valittu",
+    "claimed": "Väitetty",
     "correct": "Oikein",
     "cursed": "Kirottu",
     "day1": "Päivä 1",
@@ -151,44 +174,55 @@
     "day4": "Päivä 4",
     "day5": "Päivä 5",
     "dead": "Kuollut",
-    "demonnotvoted": "Demoni ei äänestänyt",
-    "demonvoted": "Demoni äänesti",
-    "diedtoday": "Kuoli tänään",
-    "doesntkill": "Ei tapa",
+    "demonnotvoted": "Demoni Ei Äänestänyt",
+    "demonvoted": "Demoni Äänesti",
+    "diedtoday": "Kuoli Tänään",
+    "doesntkill": "Ei Tapa",
     "drunk": "Juopunut",
     "drunk1": "Juopunut 1",
     "drunk2": "Juopunut 2",
     "drunk3": "Juopunut 3",
-    "everyoneisdrunk": "Kaikki ovat juopuneita",
+    "everyoneisdrunk": "Kaikki ovat Juopuneita",
     "evil": "Paha",
-    "evilwakes": "Paha herää",
-    "falseinfo": "Väärää tietoa",
+    "evilwakes": "Paha Herää",
+    "falseinfo": "Väärä Tieto",
+    "fauxpaw": "Tekokäpälä",
+    "fear": "Pelko",
+    "finalnightnoattack": "Viimeinen Yö: Ei hyökkäystä",
     "friend": "Ystävä",
+    "goal": "Tavoite",
     "good": "Hyvä",
-    "goodplayerexecuted": "Hyvä pelaaja teloitettiin",
+    "goodplayerexecuted": "Hyvä Pelaaja Teloitettiin",
     "grandchild": "Lapsenlapsi",
-    "guessused": "Arvaus käytetty",
-    "haircutstonight": "Hiustenleikkuu tänä yönä",
-    "hasability": "Saanut kyvyn",
+    "guessused": "Arvaus Käytetty",
+    "haircutstonight": "Hiustenleikkuut Tänä Yönä",
+    "hasability": "On Kyky",
+    "hat": "Hattu",
     "isthealchemist": "On Alkemisti",
+    "istheapprentice": "On Oppipoika",
     "isthedemon": "On Demoni",
     "isthedrunk": "On Juoppo",
     "isthemarionette": "On Sätkynukke",
     "isthephilosopher": "On Filosofi",
     "know": "Tietää",
     "lunch": "Lounas",
+    "mad": "Raivoaa",
     "master": "Isäntä",
+    "maynotnominate": "Ei Voi Nimetä",
     "minion": "Kätyri",
     "minionnominated": "Kätyri Nimitti",
-    "minionsnotnominated": "Kätyrit eivät nimittäneet",
-    "negativevote": "Negatiivinen ääni",
+    "minionsnotnominated": "Kätyrit Eivät Nimittäneet",
+    "negativevote": "Negatiivinen Ääni",
     "night1": "Yö 1",
     "night2": "Yö 2",
     "night3": "Yö 3",
-    "noability": "Ei kykyä",
-    "nomoreevil": "Ei enää paha",
+    "noability": "Ei Kykyä",
+    "nominateevil": "Nimeä Paha",
+    "nominategood": "Nimeä Hyvä",
+    "nomoreevil": "Ei Enää Pahoja",
+    "notme": "Ei Minua",
     "once": "Ennen",
-    "outsider": "Ulkopuolinen",
+    "outsider": "Hylkiö",
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
     "redherring": "Harhautus",
@@ -256,7 +290,7 @@
       "name": "Barista"
     },
     "baron": {
-      "ability": "Pelissä on ylimääräisiä Ulkopuolisia. [+2 Ulkopuolista]",
+      "ability": "Pelissä on ylimääräisiä Hylkiöitä. [+2 Hylkiötä]",
       "name": "Paroni"
     },
     "beggar": {
@@ -398,13 +432,16 @@
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
     },
     "hermit": {
-      "ability": "Sinulla on kaikkien Ulkopuolisten kyvyt. [-0 tai -1 Ulkopuolinen]"
+      "ability": "Sinulla on kaikkien Hylkiöiden kyvyt. [-0 tai -1 Hylkiötä]"
     },
     "hindu": {
       "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
     },
     "innkeeper": {
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
+    },
+    "librarian": {
+      "first": "Näytä Hylkiö-hahmomerkki. Osoita sekä *HYLKIÖ* että *VÄÄRÄ* -pelaajia kohti."
     },
     "lleech": {
       "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin."
@@ -469,7 +506,7 @@
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)"
     },
     "sentinel": {
-      "ability": "Pelissä saattaa olla 1 Ulkopuolinen enemmän tai vähemmän."
+      "ability": "Pelissä saattaa olla 1 Hylkiö enemmän tai vähemmän."
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
@@ -481,7 +518,7 @@
       "name": "Lahtari"
     },
     "spy": {
-      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Ulkopuolisena, vaikka olisit kuollut."
+      "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Hylkiönä, vaikka olisit kuollut."
     },
     "summoner": {
       "name": "Rienaaja"
@@ -493,7 +530,7 @@
       "name": "Käsinukke"
     },
     "vigormortis": {
-      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 kyläläisnaapurinsa. [-1 Ulkopuolinen]"
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 Kyläläisnaapurinsa. [-1 Hylkiö]"
     },
     "voudon": {
       "name": "Voudon"
@@ -502,7 +539,7 @@
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
     },
     "xaan": {
-      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Ulkopuolisia]",
+      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Hylkiötä]",
       "name": "Xaan"
     },
     "zombuul": {
