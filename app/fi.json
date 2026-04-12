@@ -81,13 +81,13 @@
     "minion": "Kätyri|Kätyrit",
     "outsider": "Hylkiö|Hylkiöt",
     "phases": {
-      "day": "Ensimmäinen Päivä|Päivä {n}",
+      "day": "Ensimmäinen Päivä|Päivät {n}",
       "end": "Pelien välissä",
-      "first_night": "Ensimmäinen yö",
+      "first_night": "Ensimmäinen Yö",
       "grim_reveal": "Loitsukirjan paljastus",
-      "night": "Ensimmäinen yö|Yö {n}",
+      "night": "Ensimmäinen Yö|Yöt {n}",
       "other_nights": "Muut yöt",
-      "start": "1. yötä valmistellaan"
+      "start": "1. Yötä Valmistellaan"
     },
     "player": "Pelaaja {0}",
     "players": "Pelaajat",
@@ -152,11 +152,11 @@
     "tab_during_game": "Pelin Aikana",
     "tab_new_game": "Uusi Peli",
     "tab_playing": "Pelissä",
-    "to_day": "Mene Päivä Vaiheesen",
-    "to_night": "Mene Yö Vaiheeseen",
+    "to_day": "Päivävaiheeseen",
+    "to_night": "Yövaiheeseen",
     "translation": "Kehitä tätä käännöstä",
     "user_list": "Käyttäjälista",
-    "vacate_seat": "Vapauta Istuin",
+    "vacate_seat": "Vapauta Paikka",
     "vote_history": "Äänestyshistoria"
   },
   "modals": {
@@ -212,9 +212,14 @@
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
       "shortcuts": {
+        "attentionGong": "Takaisinkutsu / Huomiokumistin",
         "revealGrimoire": "Paljasta Loitsukirja",
         "toggleNPCs": "Lisää Ei-Pelaaja-Hahmoja",
         "toggleNightSignal": "Näytä Yötieto"
+      },
+      "sounds": {
+        "attentionGong": "Huomiokumistin",
+        "timerGong": "Ajastimen päättymiskumistin"
       }
     },
     "users": {
@@ -244,13 +249,13 @@
   },
   "player": {
     "menu": {
-      "empty_title": "Tyhjä Istuin {0}"
+      "empty_title": "Tyhjää {0} Paikka"
     },
     "name": {
-      "remove_text": "Haluatko varmasti poistaa istuimen {0}?\nSiinä istuu nyt {1}.",
-      "remove_title": "Poista Istuin",
+      "remove_text": "Haluatko varmasti poistaa Paikan {0}?\nSiinä istuu nyt {1}.",
+      "remove_title": "Poista Paikka",
       "seat_text": "(tämä näkyy vain sinulle)",
-      "seat_title": "Vaihda Istuimen Nimeä"
+      "seat_title": "Vaihda Paikan Nimeä"
     },
     "overlay": {
       "night_info_received": "Yötieto vastaanotettu",
@@ -258,7 +263,7 @@
     }
   },
   "session": {
-    "locked_text": "Vain istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä sessioon."
+    "locked_text": "Vain jo istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä sessioon."
   },
   "tabs": {
     "chat": {
@@ -270,9 +275,9 @@
       },
       "prompt_spectator": "Sivustaseuraajien keskustelu",
       "system": {
-        "seat_claim": "{0} on ottanut istuimen {1}.",
-        "seat_empty": "{0} on poistettu istuimelta {1}.",
-        "seat_vacate": "{0} on lähtenyt istuimelta {1}."
+        "seat_claim": "{0} on ottanut paikan {1}.",
+        "seat_empty": "{0} on poistettu paikalta {1}.",
+        "seat_vacate": "{0} on lähtenyt paikalta {1}."
       }
     }
   },
