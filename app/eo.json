@@ -33,7 +33,34 @@
       "difficulty": {
         "label": "Komplikeco",
         "title": "La atenda sperteco de la ludantoj en ĉi tiu ludsesion"
+      },
+      "grimoire": {
+        "value_0": "Petu",
+        "value_1": "Jes",
+        "value_2": "Ne"
+      },
+      "streaming": {
+        "value_0": "Ne",
+        "value_1": "Jes"
+      },
+      "travellers": {
+        "value_1": "Jes",
+        "value_2": "Ne"
       }
     }
+  },
+  "grimoire": {
+    "abilities": {
+      "open-eyes": "Malfermu/Fermu Okulojn"
+    },
+    "demon": "Demono|Demonoj",
+    "fabled": "Fablaro|Fablaroj",
+    "phases": {
+      "day": "Unua Tago|Tago {n}",
+      "end": "Inter ludoj",
+      "first_night": "Unua Nokto",
+      "night": "Unua Nokto|Nokto {n}"
+    },
+    "players": "Ludantoj"
   }
 }
