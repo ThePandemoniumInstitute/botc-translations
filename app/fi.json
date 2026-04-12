@@ -208,6 +208,8 @@
         "loading_title": "Virhe sovellustietoja ladattaessa",
         "missing_edition": "Tämä sessio sisältää painoksen, jota ei voitu löytää.",
         "missing_edition_title": "Virhe painoksen lataamisessa",
+        "missing_roles": "Tämä istunto sisältää räätälöityjä hahmoja, joita ei löydy. Lataa ne ennen liittymistä! Puuttuvat roolit: {0}",
+        "missing_roles_title": "Virhe ladattaessa räätälöityjä rooleja",
         "move_player": "Pelaajaa ei voi siirtää",
         "npcs": "Virhe NPC-päivityksessä",
         "offline": "Tämä palvelin näyttää olevan offline-tilassa",
@@ -241,12 +243,30 @@
         "update": "Virhe pelin päivityksessä",
         "update_game": "Istuntotietojen päivittäminen epäonnistui",
         "update_player": "Virhe pelaajan päivittämisessä",
-        "user_not_found": "Käyttäjää ei löytynyt."
+        "update_storyteller": "Virhe Tarinankertojan päivittämisessä",
+        "user_not_found": "Käyttäjää ei löytynyt.",
+        "user_text": "Jotain meni pieleen: {0}",
+        "user_title": "Virhe käyttäjän päivittämisessä",
+        "vacating": "Virhe paikkaa luovutettaessa",
+        "video_text": "Selaimesi esti sovellusta toistamasta videokeskustelua automaattisesti. Sulje tämä viesti aloittaaksesi keskustelun.",
+        "video_title": "Virhe videokeskustelun aloittamisessa"
       },
       "prompt": {
+        "chat_text": "Sovelluksella on ongelmia keskustelupalvelimen {0} kanssa, haluatko vaihtaa palvelimeen {1}?",
+        "chat_title": "Vaihda Keskustelupalvelinta",
+        "join_block_text": "Tässä istunnossa on ainakin yksi käyttäjä estolistaltasi:\n {0}\n Haluatko varmasti liittyä peliin?",
+        "join_block_title": "Estettyjä käyttäjiä löytyi",
+        "join_placeholder": "Istunnon ID",
+        "join_text": "Anna sen peli-istunnon numero tai nimi, johon haluat liittyä",
         "join_title": "Liity peliin",
+        "leave_text": "Haluatko varmasti poistua nykyisestä pelistä ja palata aulaan?",
+        "leave_text_player": "Oletko varma, että haluat jättää paikkasi ja palata aulaan?",
         "leave_title": "Palaa Aulaan",
         "pronouns_placeholder": "Pronominit",
+        "pronouns_text": "Anna pronominisi:",
+        "pronouns_title": "Anna pronominisi",
+        "storyteller_text": "Haluatko ryhtyä Tarinankertojaksi ja nähdä Loitsukirjan?",
+        "storyteller_title": "Tarinankertoja-ylennyspyyntö",
         "username_placeholder": "Käyttäjänimi"
       }
     },
@@ -260,6 +280,7 @@
       "error_custom": "Virhe ladattaessa räätälöityä käsikirjoitusta",
       "error_script_text": "Tämä käsikirjoitus ladattiin, mutta siinä on joitakin ongelmia. Tämä tarkoittaa yleensä sitä, että käsikirjoituksessa on rivejä, joita ei pitäisi virallisen Custom Script JSON -mallin mukaan esiintyä.",
       "homebrew_description": "Kotipolttoisten käsikirjoitusten kuvat on korvattu yleisillä kuvakkeilla turvallisuussyistä. Voit ottaa ne käyttöön Asetukset-valikossa.",
+      "homebrew_title": "Mukautetut Kuvat Poissa Käytöstä",
       "upload_custom": "Lataa Räätälöity JSON-Käsikirjoitus"
     },
     "help": {
@@ -275,6 +296,8 @@
     },
     "settings": {
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
+      "image_title": "Salli mukautetut kuvat",
+      "setting_homebrew": "Näytä Mukautetut Kuvat / Kotipolttoiset Kuvakkeet",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
       "shortcuts": {
         "attentionGong": "Takaisinkutsu / Huomiokumistin",
@@ -312,7 +335,7 @@
       "spectators": "Sivustaseuraajat"
     },
     "login": {
-      "register": "Rekisteröi"
+      "register": "Näyttäytyy"
     }
   },
   "player": {
