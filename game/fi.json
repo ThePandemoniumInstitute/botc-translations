@@ -45,9 +45,9 @@
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
-    "ogre-recluse": "Jos Hylkiö näyttäytyy pahana Jätille, Jätti saa tietää olevansa paha.",
+    "ogre-recluse": "Jos Rastuli näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
     "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
-    "recluse-sage": "Hylkiö saattaa näyttäytyä Demonina Tietäjälle."
+    "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
   },
   "reminders": {
     "2nd": "2.",
@@ -263,7 +263,7 @@
       "ability": "Jos 4 tai useampi pelaaja on elossa, jokainen elävä pelaaja voi julkisesti päättää (kerran pelissä), että hänen omalla puolellaan oleva pelaaja kuolee."
     },
     "dreamer": {
-      "ability": "Joka yö, valitse pelaaja (ei itseäsi tai Kiertolaisia): saat tietää 1 hyvän & 1 pahan hahmon, joista 1 on oikein.",
+      "ability": "Joka yö, valitse pelaaja (ei itseäsi tai Kulkuria): saat tietää 1 hyvän & 1 pahan hahmon, joista 1 on oikein.",
       "first": "Unennäkijä osoittaa pelaajaa. Näytä 1 hyvän & 1 pahan hahmon merkki, joista 1 on osoitetun pelaajan hahmo.",
       "name": "Unennäkijä"
     },
@@ -299,6 +299,12 @@
     "gossip": {
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
     },
+    "hindu": {
+      "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
+    },
+    "innkeeper": {
+      "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
+    },
     "lleech": {
       "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin."
     },
@@ -310,6 +316,9 @@
     },
     "marionette": {
       "ability": "Luulet olevasi hyvä hahmo, mutta et ole. Demoni tietää kuka olet. [Naapurisi on Demoni]"
+    },
+    "minstrel": {
+      "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
     },
     "pixie": {
       "name": "Keiju"
@@ -333,7 +342,8 @@
     },
     "recluse": {
       "ability": "Saatat näyttäytyä pahana & Kätyrinä tai Demonina, vaikka olisit kuollut.",
-      "name": "Hylkiö"
+      "flavor": "Gush poesh snk tkouk mtse sulkl mnas näs. Grr. Ilk pklo see etle te menkh ittäelt! Mengk! Mie hrv nä nlev demonk nuol äelk taistlek häddäkns miumla lähl. Hlvh, sitvks!",
+      "name": "Rastuli"
     },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!",
@@ -346,7 +356,7 @@
       "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla..."
     },
     "scarletwoman": {
-      "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kiertolaisia ei lasketa.)"
+      "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)"
     },
     "shabaloth": {
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
