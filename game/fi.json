@@ -302,7 +302,10 @@
     },
     "balloonist": {
       "ability": "Joka yö, saat tietää pelaajan, joka on eri hahmoluokkaa kuin edellisyönä. [+0 tai +1 Hylkiötä]",
-      "first": "Näytä kuka tahansa pelaaja. :muistutus:"
+      "first": "Näytä kuka tahansa pelaaja. :muistutus:",
+      "flavor": "Lisää lämpöä! Ylemmäs! Korkeammalle! Più alto! Ahhh... onpa se kaunis täältä ylhäältä, eikö vaan? Näetkö lapset kalastamassa joen varrella pajun alla? Näetkö auringon kimalluksen sirkuksen telttakepeissä? Mikä tämä on? Vanha mies, yksin, tajuttomana viinitarhassa? Vähemmän lämpöä! Alaspäin! Alemmas! Vai più in basso!",
+      "name": "Pallottelija",
+      "other": "Osoita pelaajaa, joka on eri hahmoluokkaa kuin edellinen osoitus. :reminder:"
     },
     "banshee": {
       "other": "Jos Demoni tappoi Bansheen tänä yönä, ilmoita kaikille pelaajille, että Banshee on kuollut. :muistutus:"
