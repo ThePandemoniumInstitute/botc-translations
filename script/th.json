@@ -151,7 +151,7 @@
     "language": "ภาษา",
     "language-select-heading": "การเลือกภาษา",
     "print-columns": "คอลัมน์ในการพิมพ์",
-    "print-compact-night-sheet": "กระชับชีตกลางคืน",
+    "print-compact-night-sheet": "กระชับแผ่นข้อมูลกลางคืน",
     "print-options-heading": "ตัวเลือกการพิมพ์",
     "print-player-count-table": "แสดงตารางจำนวนผู้เล่น",
     "script-heading": "การตั้งค่าสคริปต์",
@@ -160,7 +160,7 @@
     "script-type-standard": "พื้นฐาน",
     "script-type-teensyville": "เมืองจิ๋ว",
     "show-analysis-icons": "แสดงไอคอนการวิเคราะห์",
-    "show-night-sheet": "แสดงชีตกลางคืน",
+    "show-night-sheet": "แสดงแผ่นข้อมูลกลางคืน",
     "this-language": "ภาษาอังกฤษ",
     "view-tour": "คลิก {link}ที่นี่{/link} เพื่อดูแนวทางอีกครั้ง"
   },
