@@ -308,18 +308,27 @@
       "other": "Osoita pelaajaa, joka on eri hahmoluokkaa kuin edellinen osoitus. :reminder:"
     },
     "banshee": {
-      "ability": "Jos Demoni tappaa sinut, kaikki pelaajat saavat tietää tämän. Tästä lähtien, voit nimittää kaksi kertaa päivässä ja äänestää kaksi kertaa per nimitys.",
-      "other": "Jos Demoni tappoi Bansheen tänä yönä, ilmoita kaikille pelaajille, että Banshee on kuollut. :muistutus:"
+      "ability": "Jos Demoni tappaa sinut, kaikki pelaajat saavat tietää tämän. Voit tästä lähin nimittää kahdesti päivässä ja äänestää kahdesti per nimitys.",
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+      "name": "Aave",
+      "other": "Jos Demoni tappoi Aaveen tänä yönä, ilmoita julkisesti, että Aave on kuollut. :reminder:"
     },
     "barber": {
-      "ability": "Jos kuolit tänään tai tänä yönä, Demoni voi valita kaksi pelaajaa (ei toista Demonia), jotka vaihtavat hahmoja keskenään.",
-      "name": "Parturi"
+      "ability": "Jos kuolit tänään tai tänä yönä, Demoni voi valita 2 pelaajaa (ei toista Demonia), jotka vaihtavat hahmoja keskenään.",
+      "flavor": "Tiesitkö, että parturointi ja kirurgia olivat aikoinaan sama ammatti? Etkö? No, nyt tiedät.",
+      "name": "Parturi",
+      "other": "Jos parturi kuoli tänään, näytä Demonille *TÄMÄ HAHMO VALITSI SINUT* ja Parturi -merkit. Jos demoni valitsi 2 pelaajaa, herätä nämä yksi kerrallaan. Näytä *SINÄ OLET* & tämän uusi hahmo -merkit."
     },
     "barista": {
-      "name": "Barista"
+      "ability": "Joka yö, seuraavaan iltaan asti, 1) yksi pelaaja on raitis, terve & saa tositietoa, tai 2) hänen kykynsä toimii kahdesti. Hän saa tietää, kumpi tapahtui.",
+      "first": "Valitse pelaaja. Herätä tämä, näytä *TÄMÄ HAHMO VALITSI SINUT* & Barista -merkit, näytä sitten sormimerkki. :reminder:",
+      "flavor": "Kupillinen kahvia kermatta, herra? Olen todella pahoillani, mutta kerma on juuri loppu – entäpä ilman maitoa?",
+      "name": "Barista",
+      "other": "Valitse pelaaja. Herätä tämä, näytä *TÄMÄ HAHMO VALITSI SINUT* & Barista -merkit, näytä sitten sormimerkki. :reminder:"
     },
     "baron": {
       "ability": "Pelissä on ylimääräisiä Hylkiöitä. [+2 Hylkiötä]",
+      "flavor": "Tämä kylä on kyllä levinnyt kuin Jokisen eväät tuuleen, mitäh? Tunkatkaa ne ulkolaisetkin vaikka alas kaivokseen, sanon mää. Kova työ ei koskaan ole pahitteeksi, sus siunakkoon sitä, joka muuta väittää. Vain viivan alle jäävällähän on merkitystä, mitäh?",
       "name": "Paroni"
     },
     "beggar": {
