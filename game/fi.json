@@ -23,26 +23,39 @@
   "jinxes": {
     "alchemist-boffin": "Jos Alkemistilla on Koekaniinin kyky, ei Alkemisti saa tietää, mikä kyky Demonilla on.",
     "alchemist-marionette": "Alkemisti-Sätkynukella ei ole Sätkynuken kykyä & Sätkynukke on pelissä.",
-    "alchemist-spy": "Alkemisti-Vakoojalla ei ole Vakoojan kykyä & Vakooja on pelissä. Elävä Alkemisti-Vakooja voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Vakooja. Mikäli arvaus on oikein, Demonin täytyy valita Vakooja seuraavana yönä.",
-    "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee haluamansa Demonin - mutta ei pelaajaa. Jos Alkemisti kuolee ennen kuin herätys tapahtuu, paha voittaa. [Ei Demonia]",
-    "alchemist-widow": "Alkemisti-Leskellä ei ole Lesken kykyä & Leski on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Leski saattaa julkisesti arvata elävän pelaajan olevan Leski. Jos oikeassa, Demonin täytyy valita Leski tänä yönä.",
-    "alchemist-wraith": "Alkemisti-Haamulla ei ole Haamun kykyä & Haamu on pelissä. Joka teloituksen jälkeen elävä Alkemisti-Haamu saattaa julkisesti arvata elävän pelaajan olevan Haamu. Jos oikeassa, Demonin täytyy valita Haamu tänä yönä.",
-    "alsaahir-vizier": "Kertoja ei ilmoita, että Visiiri on pelissä.",
-    "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin edellisinä öinä): valittu Banshee kuolee & saa kykynsä käyttöön.",
-    "banshee-vortox": "Jos Vortox tappaa Bansheen, kaikki pelaajat saavat tietää, että Banshee on kuollut.",
-    "baron-heretic": "Vain yksi kirottu hahmo voi olla pelissä.",
-    "baron-plaguedoctor": "Jos tarinankertoja saisi Paronin kyvyn, enintään kaksi pelaajaa muuttuu ulkopuolisiksi.",
+    "alchemist-mastermind": "Alkemisti-Välkyllä ei ole Välkyn kykyä, eikä Välkky ole pelissä.",
+    "alchemist-organgrinder": "Jos Alkemistilla on Posetiivarin kyky, on Posetiivarikin pelissä. Jos molemmat ovat raittiita, molemmat ovatkin juopuneita.",
+    "alchemist-spy": "Alkemisti-Vakoojalla ei ole Vakoojan kykyä & Vakooja on pelissä. Elävä Alkemisti-Vakooja voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Vakooja. Jos arvaus osuu oikeaan, Demonin täytyy valita Vakooja tänä yönä.",
+    "alchemist-summoner": "Bluffiton Alkemisti-Rienaaja valitsee Demonin, muttei pelaajaa. Jos Alkemisti kuolee ennen kuin rienaus onnistuu, paha voittaa. [Ei Demonia]",
+    "alchemist-widow": "Alkemisti-Leskellä ei ole Lesken kykyä & Leski on pelissä. Elossa oleva Alkemisti-Leski voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Leski. Jos arvaus osuu oikeaan, Demonin täytyy valita Leski tänä yönä.",
+    "alchemist-wraith": "Alkemisti-Räyhähengellä ei ole Räyhähengen kykyä & Räyhähenki on pelissä. Elossa oleva Alkemisti-Räyhähenki voi jokaisen teloituksen jälkeen julkisesti arvata, kuka elävistä pelaajista on Räyhähenki. Jos arvaus osuu oikeaan, Demonin täytyy valita Räyhähenki tänä yönä.",
+    "alhadikhia-mastermind": "Jos Al-Hadikhia kuolee teloitukseen ja Välkky on elossa, Al-Hadikhia valitsee tänä yönä 3 hyvää pelaajaa: jos kaikki kolme valitsevat elää, paha voittaa. Muuten hyvä voittaa.",
+    "alhadikhia-princess": "Jos Prinsessa nimitti & teloitutti pelaajan 1. päivänään, ei kukaan kuole Al-Hadikhian vuoksi tänä yönä.",
+    "alhadikhia-scarletwoman": "Jos on olemassa samaan aikaan kaksi Demonia, joista toinen oli aiemmin Punahuuli, muuttuu tämä Kätyri takaisin Punahuuleksi.",
+    "alsaahir-vizier": "Tarinankertoja ei julista Visiirin olevan pelissä.",
+    "atheist-riot": "Jos Tarinankertoja nimitetään teloitettavaksi mellakan aikaan, pelaajat äänestävät. Jos hän on \"kuolemaisillaan\", peli päättyy. Mikäli ei, nimityksiä jatketaan.",
+    "balloonist-marionette": "Jos Sätkynukke luulee olevansa Pallottelija, saattaa pelissä olla ylimääräinen Hylkiö.",
+    "banshee-leviathan": "Joka yö*, Leviatan valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Aave kuolee & saa kykynsä käyttöön.",
+    "banshee-riot": "Joka yö*, Mellakka valitsee elävän hyvän pelaajan (eri kuin aiempina öinä): valittu Aave kuolee & saa kykynsä käyttöön.",
+    "banshee-vortox": "Jos Pyörrö tappaa Aaveen, saavat kaikki pelaajat tietää Aaveen kuolleen.",
+    "baron-heretic": "Vain yksi kiusa-hahmo voi olla pelissä.",
+    "baron-plaguedoctor": "Jos Tarinankertoja saisi Paronin kyvyn käyttöönsä, muuttuu enintään kaksi pelaajaa Hylkiöiksi.",
     "boffin-cultleader": "Demoni, jolla on Kulttijohtajan kyky, ei voi muuttua hyväksi tämän kyvyn seurauksena.",
+    "boffin-drunk": "Demonilla ei voi olla Juopon kykyä.",
     "boffin-heretic": "Demonilla ei voi olla Kerettiläisen kykyä.",
-    "boffin-ogre": "Demonilla ei voi olla Jätin kykyä.",
+    "boffin-ogre": "Demonilla ei voi olla Mörön kykyä.",
     "boffin-politician": "Demonilla ei voi olla Poliitikon kykyä.",
     "bountyhunter-kazali": "Jos Kazali muuttaa Palkkionmetsästäjän Kätyriksi, pahaa Kyläläistä ei lisätä.",
     "bountyhunter-philosopher": "Jos Filosofi saa Palkkionmetsästäjän kyvyn, yksi Kyläläinen saattaa muuttua pahaksi.",
     "butler-cannibal": "Jos Kannibaali saa Hovimestarin kyvyn, Kannibaali saa tietää tästä.",
     "cannibal-juggler": "Jos Jonglööri arvaa ensimmäisenä päivänään ja kuolee teloitukseen, elävä Kannibaali saa tänä yönä tietää, kuinka moni Jonglöörin arvauksista osui oikeaan.",
+    "cerenovus-goblin": "Mielenhäiriö voi valita pelaajan olemaan raivona Hiisiydestään.",
+    "chambermaid-mathematician": "Sisäkkö voi havaita, Herääkö matemaatikko tänä yönä.",
     "courtier-summoner": "Jos elävällä Rienaajalla ei ole kykyä, on Rienaaja-kyky Tarinankertojalla.",
     "damsel-spy": "Jos Vakooja on (tai on ollut) pelissä, Neito on myrkytetty.",
     "engineer-summoner": "Jos elävä Rienaaja poistetaan pelistä, on Tarinankertojalla Rienaaja-kyky.",
+    "fanggu-scarletwoman": "Jos on olemassa samaan aikaan kaksi Demonia, joista toinen oli aiemmin Punahuuli, pysyy tämä Kätyri Punahuulena.",
+    "goblin-plaguedoctor": "Jos Tarinankertoja saisi Hiiden kyvyn, annetaan se Kätyrille, joka saa tietää asiasta.",
     "grandmother-leviathan": "Jos Leviatan on pelissä ja Lapsenlapsi kuolee teloitukseen, paha voittaa.",
     "hatter-leviathan": "Leviatan ei voi tulla peliin 5. päivän jälkeen.",
     "hatter-summoner": "Jos Rienaaja luo toisen elävän Demonin, tämän yön kuolemat ovat mielivaltaisia.",
@@ -51,8 +64,9 @@
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lunatic-mathematician": "Jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni, Matemaatikko saattaa saada tietää tästä.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Marionetti.",
+    "ogre-pithag": "Jos Pata-akka muuttaa pahan pelaajan Möröksi, ei tämä voi kääntyä oman kykynsä vuoksi hyväksi.",
     "ogre-recluse": "Jos Rastuli näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
-    "ogre-spy": "Vakooja näyttäytyy pahana Jätille.",
+    "ogre-spy": "Vakooja näyttäytyy pahana Mörölle.",
     "politician-vizier": "Poliitikko saattaa näyttäytyä pahana Visiirille.",
     "recluse-sage": "Rastuli saattaa näyttäytyä Demonina Tietäjälle."
   },
@@ -133,6 +147,11 @@
     },
     "alchemist": {
       "name": "Alkemisti"
+    },
+    "alsaahir": {
+      "ability": "Joka päivä, jos arvaat julkisesti, keitä Kätyri(t) ja Demoni(t) ovat, hyvä voittaa.",
+      "flavor": "Olen täällä sinun takiasi, ja sinä täällä minun takiani.",
+      "name": "Alsaahir"
     },
     "amnesiac": {
       "flavor": "Hetkinen. Mitä. Kuka? Ah, selvä. Odotas. Mitä?"
@@ -222,8 +241,10 @@
     },
     "chambermaid": {
       "ability": "Joka yö, valitse kaksi elävää pelaajaa (ei itseäsi): saat tietää, kuinka moni heräsi tänä yönä kykynsä vuoksi.",
-      "first": "Kamarineito valitsee 2 elävää pelaajaa. Anna sormimerkki.",
-      "name": "Kamarineito"
+      "first": "Sisäkkö valitsee 2 elävää pelaajaa. Anna sormimerkki.",
+      "flavor": "En nähnyt mitään sopimatonta, arvon neiti. Pahoitteluni, mutta jos näinkin jotain, se ei varmasti ollut talon isäntä hiipimässä professorin kamariin yhdentoista maissa sekoittamaan hienoja taikajuomia, aivan kuten sanoitte, neiti.",
+      "name": "Sisäkkö",
+      "other": "Sisäkkö valitsee 2 elävää pelaajaa. Anna sormimerkki."
     },
     "chef": {
       "first": "Anna sormimerkki.",
@@ -304,7 +325,9 @@
       "name": "Maajussi"
     },
     "goblin": {
-      "ability": "Jos julkisesti väität olevasi Peikko kun sinut nimitetään & sinut teloitetaataan sinä päivänä, joukkueesi voittaa."
+      "ability": "Jos väität julkisesti olevasi Hiisi, kun sinut nimitetään & samana päivänä teloitetaan, joukkueesi voittaa.",
+      "flavor": "Et halua loukata shishissä shihiseviä vesihiisiä. Et todellakaan halua. Aiheesta toiseen… saisinko toisenkin palan kakkua?",
+      "name": "Hiisi"
     },
     "gossip": {
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä."
@@ -331,7 +354,9 @@
       "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
     },
     "ogre": {
-      "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty."
+      "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty.",
+      "first": "Mörkö valitsee pelaajan. :reminder:",
+      "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>"
     },
     "pixie": {
       "name": "Keiju"
