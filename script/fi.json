@@ -79,7 +79,7 @@
     }
   },
   "export-menu": "Vientivalikko",
-  "external-image-confirm": "Oletko varma että haluat sallia ulkoisia kuvia? Pahaa haluava käsikirjoituksen tekijä saattaa selvittää IP osoitteesi tällä tapaa. Pandemonium Instituutilla ei ole kontrollia muiden käyttäjien välittämistä kuvista sovelluksessa.",
+  "external-image-confirm": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
   "fabled-and-loric": "Tarunomaiset & Satuiset",
   "filters": "Suodattimet",
   "help": "Apu",
