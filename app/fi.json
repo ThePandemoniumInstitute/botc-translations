@@ -55,8 +55,8 @@
         "title": "Tähän peliin liittyminen vaatii aktiivisen tilauksen"
       },
       "travellers": {
-        "label": "Kiertolaiset",
-        "title": "Voiko pelisessioon osallistua Kiertolaisena",
+        "label": "Kulkurit",
+        "title": "Voiko peliin osallistua Kulkurina",
         "value_0": "Valinnainen",
         "value_1": "Kyllä",
         "value_2": "Ei"
@@ -92,12 +92,12 @@
     "player": "Pelaaja {0}",
     "players": "Pelaajat",
     "seat": "Paikka {0}",
-    "shroud": "Harso",
+    "shroud": "Huntu",
     "storyteller": "Tarinankertoja {0}",
-    "storytellers": "Kertojat",
+    "storytellers": "Tarinankertojat",
     "token": "Merkki",
-    "townsfolk": "Kyläläinen|Kyläläinen",
-    "traveller": "Matkalainen| Matkalaiset"
+    "townsfolk": "Kyläläinen|Kyläläiset",
+    "traveller": "Kulkuri|Kulkurit"
   },
   "main-menu": {
     "change_icon": "Napauta vaihtaaksesi kuvaketta",
@@ -147,6 +147,10 @@
       "link_1": "sähköpostitse",
       "link_2": "täällä"
     },
+    "role": {
+      "error_traveller": "Hakua {0} vastaavaa Kulkuria ei löytynyt.",
+      "tab_traveller": "Toiset Kulkurit"
+    },
     "settings": {
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
@@ -164,6 +168,9 @@
       "good": "Hyvä",
       "prompt": "Varoitus: Tämä lopettaa pelin ja paljastaa Loitsukirjan kaikille!\nKuka voitti pelin?",
       "title": "Paljasta Loitsukirja"
+    },
+    "rules": {
+      "text2": "Kiertolaiset tulisi yhdistää pelaajiin ennen hahmojen valitsemista."
     },
     "towninfo": {
       "script_by": "tehnyt {0}"
@@ -189,5 +196,8 @@
   "user": {
     "blocked": "Estetty",
     "gain": "Vahvistus"
+  },
+  "version": {
+    "travellers_alive": "{0} / {1} kulkuria elossa"
   }
 }
