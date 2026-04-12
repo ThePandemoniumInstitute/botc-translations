@@ -332,35 +332,65 @@
       "name": "Paroni"
     },
     "beggar": {
+      "ability": "Sinun täytyy käyttää äänestysmerkkiä äänestääksesi. Jos kuollut pelaaja antaa sinulle omansa, saat tietää hänen puolensa. Olet raitis & terve.",
+      "flavor": "Almuja köyhille, hyvä herra? Oiskos siulla kolikkoa, rouva? Kiitos. Jumala siunatkoon! Olette oikein kiltti sielu, ei epäilystäkään! Nautinkin tänään hienoa sapuskaa, sen teen!",
       "name": "Kerjäläinen"
+    },
+    "bigwig": {
+      "ability": "Jokainen nimetty valitsee pelaajan: vain tämä saa on äänestykseen asti puhua & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
+      "flavor": "Turhamaisuus kysyy: \"Onko se suosittua?\" Pelkuri kysyy: \"Onko se turvallista?\" Omatunto kysyy: \"Onko se oikein?\" Kuka meistä kysyy: \"Onko se totta?\"",
+      "name": "Per-Uukki"
     },
     "bishop": {
       "ability": "Vain Tarinankertoja voi nimittää. Ainakin 1 vastapuolen pelaaja täytyy nimittää joka päivä.",
+      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Piispa"
     },
     "boffin": {
+      "ability": "Demonilla (vaikka hän olisi juopunut tai myrkytetty) on ei-pelissä-olevan hyvän hahmon kyky. Kumpikin tiedätte mikä.",
+      "first": "Herätä Koekaniini ja Demoni. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Koekaniini -merkit, näytä sitten ei-pelissä-oleva hyvä hahmo.",
+      "flavor": "Tähtivetyä, valtaisa, inertti; hiili, happi, neonkaasut, kaikki pilalla. Molekyylikaaos, entropia, luo uusia kosmisia ilmiöitä, uudestisyntymistä atomikaaoksesta, tiheän aineen romahtamista. Kaikki pikkuruisessa pullossa.",
       "name": "Koekaniini"
     },
     "bonecollector": {
+      "ability": "Kerran pelissä, yöllä*, valitse kuollut pelaaja: tämä saa kykynsä takaisin iltaan saakka.",
       "flavor": "Kerään moniakin asioita. Hiuksia. Hampaita. Vaatteita. Runokatkelmia. Kadonneiden rakastavaisten unelmia. Salaisia taitojani en paljasta, mutta palkkionikin on mitätön. Tuo minulle täysikuun aikaan sydänsuruihin kuolleen aatelisnaisen verta, niin saat vastauksesi.",
-      "name": "Luunkerääjä"
+      "name": "Luunkerääjä",
+      "other": "Luunkerääjä voi valita kuolleen pelaajan. :reminder: Jos tarpeen, herätä valittu pelaaja käyttämään kykyään."
+    },
+    "boomdandy": {
+      "ability": "Jos sinut teloitetaan, kolme pelaajaa jää henkiin. Pelaaja jota kohti osoittaa eniten sormia kuolee 10-9-8...1 laskennan jälkeen.",
+      "flavor": "Tik... Tik... Tik... TOK.",
+      "name": "Ruutikeikari"
+    },
+    "bootlegger": {
+      "ability": "Käsikirjoituksessa on kotipolttoisia hahmoja tai sääntöjä.",
+      "flavor": "Syntyessäni minut nimettiin ”Kotoilupolttis McKotipolttoislärviksi”, kuten isäni ennen minua. Kunnioitettava nimi, sopivan arvokkaaseen ikään.",
+      "name": "Trokari"
     },
     "bountyhunter": {
-      "ability": "Aloitat pelin tietäen 1 pahan pelaajan. Jos tietämäsi pelaaja kuolee, saat tietää toisen pahan pelaajan tänä yönä. [1 Kyläläinen on paha]",
-      "name": "Palkkionmetsästäjä"
+      "ability": "Aloitat pelin tietäen 1 pahan pelaajan. Jos tämä pelaaja kuolee, saat tietää toisen pahiksen tänä yönä. [1 Kyläläinen on paha]",
+      "first": "Osoita \"TIEDÄT\" -merkittyä pelaajaa.",
+      "flavor": "Yksin näitä, turmeluksen sairaalloisella löyhkällä päällystettyjä, katuja kävelen . Hajujen paksuus tunkeutuu sieraimiini, kutsumatta, inhosta polttaen. Ja odotuksesta. Tämän kurjan paikan sairaus kasvaa joka yö. Ja minä... olen parannuskeino.",
+      "name": "Palkkionmetsästäjä",
+      "other": "Jos *TIEDÄT* -merkitty pelaaja kuoli, osoita uutta *TIEDÄT* -merkittyä pelaajaa."
     },
     "buddhist": {
       "ability": "Veteraanipelaajien on oltava puhumatta jokaisen päivän ensimmäiset 2 minuuttia.",
+      "first": "Ilmoita keihin Buddhalainen vaikuttaa.",
+      "flavor": "Heität piikkejä. Hiljaisuudessani ne putoavat ja niistä kukkia kasvaa.",
       "name": "Buddhalainen"
     },
     "bureaucrat": {
       "ability": "Joka yö, valitse pelaaja (ei itseäsi): tämän ääni vastaa 3 ääntä huomenna.",
       "first": "Byrokraatti valitsee pelaajan. :reminder:",
+      "flavor": "Allekirjoita tähän, kiitos. Ja tähän. Ja tähän. Jaaaa tähän. Tämän pitäisi olla selvillä päivän loppuun mennessä, olettaen tietysti, että allekirjoituksenne ovat luettavissa. Papereissa ei ole ollut sekaannuksia aikoihin. Eilen keskipäivällä, jos oikein muistan...",
       "name": "Byrokraatti",
       "other": "Byrokraatti valitsee pelaajan. :reminder:"
     },
     "butcher": {
-      "ability": "Joka päivä, 1. teloituksen jälkeen, voit tehdä uuden esityksen.",
+      "ability": "Joka päivä, 1. teloituksen jälkeen, voit tehdä toisenkin nimityksen.",
+      "flavor": "Kanalta maistuu. Lishsää khiitos.",
       "name": "Teurastaja"
     },
     "butler": {
@@ -371,9 +401,13 @@
       "other": "Hovimestari valitsee pelaajan. :reminder:"
     },
     "cacklejack": {
-      "name": "Kätkäjakki"
+      "ability": "Valitse joka päivä pelaaja: toisen pelaajan hahmo muuttuu yöllä.",
+      "flavor": "Johdin α Johtimeen β. VaLo päällE. SuMMeri pois. Kaazhua! Kädet SUor1na. SorMI 2 nenään. Pyy5yy paikaLLasi. PomPpu-paukKu! Ha-ha-ha!",
+      "name": "Kätkäjakki",
+      "other": "Valitse ennen sarastusta pelaaja, jolla ei ole \"EI MINUA\" -merkkiä. Herätä kohde. Näytä *SINÄ OLET* & tämän uusi hahmomerkki."
     },
     "cannibal": {
+      "ability": "Sinulla on viimeksi teloitetun kyky. Jos tämä on paha, olet myrkytetty siihen saakka, kun hyvä pelaaja kuolee teloitukseen.",
       "flavor": "En tykkää klovneista. Maistuvat hassulta.",
       "name": "Kannibaali"
     },
