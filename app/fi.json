@@ -100,6 +100,7 @@
     "traveller": "Kulkuri|Kulkurit"
   },
   "main-menu": {
+    "block_join": "Estämäsi henkilö on liittynyt tähän istuntoon: {0}",
     "cast_vote": "Äänestää",
     "change_icon": "Napauta vaihtaaksesi kuvaketta",
     "char_sheet": "Hahmoluettelo",
@@ -107,29 +108,35 @@
     "clear_grim": "Tyhjennä loitsukirja",
     "download": "Lataa {0} Sovellus",
     "edition": "Valitse Painos",
+    "error_audio": "Selaimesi esti sovellusta tekemästä {0}. Aloita keskustelu napsauttamalla tästä.",
+    "error_audio2": "automaattisesti toistuva äänikeskustelu",
     "error_audio3": "Saatat joutua {0} Firefoxissa, jotta kuulet ääntä sovelluksesta.",
     "error_audio4": "muuta asetusta",
-    "gong_attention": "Huomio Kello",
+    "fullscreen": "Koko näyttö",
+    "gather": "Kerää pelaajasi",
+    "gong_attention": "Huomiokumistin",
     "gong_recall": "Takaisinkutsu Toriaukiolle",
     "grim_access": "Sinulle on annettu pääsy Loitsukirjaan",
     "grim_request_user": "Sivustaseuraaja {0} pyytää pääsyä Loitsukirjaan:",
     "help": "Apua",
-    "json_schema": "Käsikirjoitus JSON Skeema",
-    "leave": "Lähde Pelistä",
-    "mute_cam": "Estä kamerasi[{0}]",
+    "json_schema": "Käsikirjoitus JSON Malli",
+    "leave": "Poistu Pelistä",
+    "mute_cam": "Estä kamerasi [{0}]",
     "mute_mic": "Mykistä mikrofonisi [{0}]",
+    "night_info": "Yötieto",
     "night_info_text": "Tarinankertoja herätti sinut tänä yönä!",
-    "night_sheet": "Yö Järjestys Arkki",
-    "npcs": "Lisää NPC:tä",
-    "prompt_clear_player": "Oletko varma että haluat poistaa kaikki pelaajan hahmo ja muistutus merkit?",
-    "prompt_clear_st": "Tämä tyhjentää Loitsukirjan ja Muistutusmerkit sinulle ja kaikille muille. Oletko varma?",
+    "night_sheet": "Yöjärjestysarkki",
+    "notifications": "Ilmoitukset",
+    "npcs": "Lisää NPC",
+    "prompt_clear_player": "Oletko varma, että haluat poistaa kaikki pelaajamerkit?",
+    "prompt_clear_st": "Tämä tyhjentää Loitsukirjan ja Muistutusmerkit sinulta ja kaikilta muilta. Oletko varma?",
     "prompt_clear_title": "Tyhjennä Loitsukirja ja Muistutusmerkit",
-    "prompt_timer_text": "Valitse ajastimen kesto ja (valinnainen) nimi:",
+    "prompt_timer_text": "Valitse ajastimen kesto ja (valinnainen) otsikko:",
     "prompt_timer_title": "Aseta ajastin",
-    "prompt_vacate_text": "Olet parhaillaan käynnissä olevassa pelissä, oletko varma, että haluat poistua istuimeltasi?",
-    "prompt_vacate_title": "Vapauta Istuin",
-    "push_to_talk": "Paina [{0}]puhuaksesi",
-    "raise_hand": "Nosta Käsi",
+    "prompt_vacate_text": "Olet parhaillaan käynnissä olevassa pelissä, oletko varma, että haluat jättää paikkasi?",
+    "prompt_vacate_title": "Vapauta Paikka",
+    "push_to_talk": "Paina [{0}] puhuaksesi",
+    "raise_hand": "Viittaa",
     "request_private": "Pyydä Yksityiskeskustelua",
     "reveal_grim": "Paljasta Loitsukirja",
     "rules": "Lue Säännöt",
@@ -138,9 +145,9 @@
     "settings": "Asetukset",
     "show_grim": "Näytä Loitsukirja",
     "show_town": "Näytä Toriaukio",
-    "show_users": "Näytä Käyttäjät[{0}]",
+    "show_users": "Näytä Käyttäjät [{0}]",
     "storyteller_add": "Ryhdy Tarinankertojaksi",
-    "storyteller_remove": "Luovu Tarinankertojan roolista",
+    "storyteller_remove": "Luovu Tarinankertomisesta",
     "tab_app": "Sovellus",
     "tab_during_game": "Pelin Aikana",
     "tab_new_game": "Uusi Peli"
@@ -187,6 +194,9 @@
       "link_1": "sähköpostitse",
       "link_2": "täällä"
     },
+    "npc": {
+      "title": "Lisää Ei-Pelaaja-Hahmo"
+    },
     "role": {
       "error_traveller": "Hakua {0} vastaavaa Kulkuria ei löytynyt.",
       "tab_traveller": "Toiset Kulkurit"
@@ -195,7 +205,8 @@
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
       "shortcuts": {
-        "revealGrimoire": "Paljasta Loitsukirja"
+        "revealGrimoire": "Paljasta Loitsukirja",
+        "toggleNightSignal": "Näytä Yötieto"
       }
     },
     "users": {
@@ -220,6 +231,12 @@
     "lobby": {
       "bootlegger_warning": "Tässä pelisessiossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on täydellinen ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?",
       "spectators": "Sivustaseuraajat"
+    }
+  },
+  "player": {
+    "overlay": {
+      "night_info_received": "Yötieto vastaanotettu",
+      "night_info_sent": "Yötieto lähetetty"
     }
   },
   "tabs": {
