@@ -267,18 +267,41 @@
         "pronouns_title": "Anna pronominisi",
         "storyteller_text": "Haluatko ryhtyä Tarinankertojaksi ja nähdä Loitsukirjan?",
         "storyteller_title": "Tarinankertoja-ylennyspyyntö",
-        "username_placeholder": "Käyttäjänimi"
-      }
+        "terms": "Päivitetyt Käyttöehdot",
+        "username_placeholder": "Käyttäjänimi",
+        "username_text": "Anna Käyttäjätunnuksesi:",
+        "username_title": "Anna Käyttäjätunnuksesi"
+      },
+      "terms": "Käyttämällä Blood on the Clocktower Online -peliä hyväksyt, että olet lukenut ja hyväksynyt seuraavat käyttöehdot:",
+      "terms_confirm": "Vahvistan lukeneeni ja hyväksyväni nämä ehdot ja käytännöt.",
+      "timer_paused": "Tauko Nimeämisten ja Äänestysten aikana",
+      "timer_start": "Aloita",
+      "timer_title": "Ajastimen otsikko (valinnainen)",
+      "unit_minutes": "minuuttia",
+      "unit_seconds": "sekuntia"
     },
     "edition": {
       "button_clear": "Tyhjennä Loitsukirja",
       "button_paste": "Liitä",
+      "button_upload": "Lataa",
+      "button_url": "URL",
+      "clear_description": "Tämä tyhjentää Loitsukirjan kaikilta. Oletko varma?",
+      "clear_title": "Tyhjennä Loitsukirja",
       "custom_placeholder": "Räätälöidyn Käsikirjoituksen URL-osoite",
       "custom_text": "Anna URL-osoite räätälöity-käsikirjoitus.json -tiedostoon",
       "custom_title": "Lataa Räätälöity Käsikirjoitus",
+      "difficulty": "Vaikeustaso:",
       "difficulty_beginner": "Aloittelija",
+      "difficulty_intermediate": "Keskitaso",
+      "difficulty_various": "Vaihteleva",
+      "error_character": "Liikaa hahmoja",
+      "error_character_text": "Tässä käsikirjoituksessa on yli 200 hahmoa – poistaisitko osan niistä.",
       "error_custom": "Virhe ladattaessa räätälöityä käsikirjoitusta",
+      "error_loading": "Joitakin hahmoja ei voitu ladata: {0}",
+      "error_script": "Käsikirjoitus ei ole kelvollinen",
       "error_script_text": "Tämä käsikirjoitus ladattiin, mutta siinä on joitakin ongelmia. Tämä tarkoittaa yleensä sitä, että käsikirjoituksessa on rivejä, joita ei pitäisi virallisen Custom Script JSON -mallin mukaan esiintyä.",
+      "error_size": "Tiedostokoko liian suuri",
+      "error_size_text": "Valitsemasi käsikirjoituksen koko on {0} MB, mutta enimmäiskoko on {1} MB.",
       "homebrew_description": "Kotipolttoisten käsikirjoitusten kuvat on korvattu yleisillä kuvakkeilla turvallisuussyistä. Voit ottaa ne käyttöön Asetukset-valikossa.",
       "homebrew_title": "Mukautetut Kuvat Poissa Käytöstä",
       "upload_custom": "Lataa Räätälöity JSON-Käsikirjoitus"
@@ -290,13 +313,27 @@
     "npc": {
       "title": "Lisää Ei-Pelaaja-Hahmo"
     },
+    "reminder": {
+      "custom_favorite": "Tallennettu suosikkina",
+      "custom_note": "Muistiinpano",
+      "custom_text": "Kirjoita muistutusviesti, joka lisätään kohteeseen {0}",
+      "custom_title": "Lisää muistutus"
+    },
     "role": {
       "error_traveller": "Hakua {0} vastaavaa Kulkuria ei löytynyt.",
       "tab_traveller": "Toiset Kulkurit"
     },
     "settings": {
+      "background_text": "Anna mukautetun taustan URL-osoite tai jätä se tyhjäksi poistaaksesi mukautetun taustan.",
+      "background_title": "Mukautettu Tausta",
+      "css_apply": "Käytetäänkö Mukautettuja CSS-sääntöjä?",
+      "css_confirm2": "Vahvista, että haluat säilyttää Mukautetut CSS -muutokset. Muussa tapauksessa ne poistetaan käytöstä automaattisesti.",
+      "css_text": "Voit muokata sovelluksesi ulkoasua täällä syöttämällä URL-osoitteen mukautettuun CSS-tiedostoon tai itse CSS-koodiin. Pandemonium Institute ei ole vastuussa muiden käyttäjien toimittamasta CSS-koodista. Haitallisen CSS-koodin lataaminen saattaa rikkoa sovelluksesi!",
+      "css_title": "Syötä Mukautettu CSS",
       "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
       "image_title": "Salli mukautetut kuvat",
+      "setting_css": "Mukautetut CSS-Säännöt",
+      "setting_css_label": "Syötä Mukautetut CSS-säännöt",
       "setting_homebrew": "Näytä Mukautetut Kuvat / Kotipolttoiset Kuvakkeet",
       "setting_reveal": "Näytä Kamerat Loitsukirjan Paljastuksessa",
       "shortcuts": {
@@ -309,6 +346,13 @@
         "attentionGong": "Huomiokumistin",
         "timerGong": "Ajastimen päättymiskumistin"
       }
+    },
+    "signal": {
+      "custom": "Räätälöity",
+      "prompt_custom_placeholder": "Räätälöity viesti",
+      "prompt_custom_player": "Mitä haluaisit kysyä Tarinankertojalta?",
+      "prompt_custom_st": "Mitä haluaisit kertoa pelaajalle?",
+      "prompt_custom_title": "Lähetä räätälöity viesti"
     },
     "users": {
       "type_spectator": "Sivustaseuraaja|{n} Sivustaseuraajat"
@@ -353,8 +397,8 @@
       "night_info_sent": "Yötieto lähetetty"
     },
     "reminders": {
-      "edit_placeholder": "Mukautettu muistiinpano",
-      "edit_text": "Muokkaa mukautettua muistiinpanoa {0}"
+      "edit_placeholder": "Muistiinpano",
+      "edit_text": "Muokkaa muistiinpanoa {0}"
     }
   },
   "session": {
