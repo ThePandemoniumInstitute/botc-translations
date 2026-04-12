@@ -226,28 +226,32 @@
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
     "redherring": "Harhautus",
-    "registerfalsely": "Rekisteröityy Väärin?",
+    "registerfalsely": "Näyttäytyy Väärin?",
     "safe": "Turvassa",
-    "soberhealthy": "Selvä & terve",
-    "somethingbad": "Jotain ikävää",
-    "storytellerability": "Kertojan kyky",
-    "survivesexecution": "Selviytyy teloituksesta",
-    "teapartytonight": "Teekutsut tänä yönä",
+    "soberhealthy": "Raitis & Terve",
+    "somethingbad": "Jotain Ikävää",
+    "stormcaught": "Myrskynsieppaama",
+    "storytellerability": "Kertojan Kyky",
+    "survivesexecution": "Selviytyy Teloituksesta",
+    "teapartytonight": "Teekutsut Tänä Yönä",
     "townsfolk": "Kyläläinen",
-    "turnsevil": "Muuttuu pahaksi",
+    "turnsevil": "Muuttuu Pahaksi",
     "twin": "Kaksonen",
-    "visitor": "Vieras",
+    "visitor": "Vierailija",
     "whoopsie": "Hupsista",
     "wrong": "Väärä"
   },
   "roles": {
     "acrobat": {
-      "ability": "Joka yö*, valitse yksi pelaaja: jos tämä on tai tulee olemaan juopunut tai myrkytetty tänä yönä, kuolet.",
+      "ability": "Joka yö*, valitse yksi pelaaja: kuolet, jos tämä on tänä yönä kertaakaan juopunut tai myrkytetty.",
+      "flavor": "Tervetuloa, jok'ikinen, kaikkien aikojen esitykseen.",
       "name": "Akrobaatti",
-      "other": "Akrobaatti valitsee yhden pelaajan. :reminder:"
+      "other": "Akrobaatti valitsee pelaajan. :reminder:"
     },
     "alchemist": {
-      "ability": "Sinulla on jonkin Kätyrin kyky. Sitä käyttäessäsi Kertoja voi kehottaa sinua valitsemaan uudestaan.",
+      "ability": "Sinulla on jonkin Kätyrin kyky. Sitä käyttäessäsi Kertoja voi kehottaa sinua valitsemaan uudelleen.",
+      "first": "Näytä *SINÄ OLET* ja Kätyri -merkkejä.",
+      "flavor": "Käy Maan sisuksissa. Oikaisemalla löydät kätketyn kiven. Kullan yläpuolella, punainen on. Kether Malkuthissa.",
       "name": "Alkemisti"
     },
     "alsaahir": {
@@ -496,7 +500,7 @@
       "name": "Rastuli"
     },
     "revolutionary": {
-      "ability": "Tiedetään, että 2 naapuria ovat samalla puolella. Kerran pelissä 1 heistä rekisteröityy väärin."
+      "ability": "Tiedetään, että 2 naapuria ovat samalla puolella. Kerran pelissä 1 heistä näyttäytyy muille väärin."
     },
     "riot": {
       "flavor": "Larga vida a la revolución! Mi revolucion!",
