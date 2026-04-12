@@ -221,7 +221,7 @@
     "nominategood": "Nimeä Hyvä",
     "nomoreevil": "Ei Enää Pahoja",
     "notme": "Ei Minua",
-    "once": "Ennen",
+    "once": "Kerran",
     "outsider": "Hylkiö",
     "poisoned": "Myrkytetty",
     "protected": "Suojattu",
@@ -254,20 +254,34 @@
       "flavor": "Käy Maan sisuksissa. Oikaisemalla löydät kätketyn kiven. Kullan yläpuolella, punainen on. Kether Malkuthissa.",
       "name": "Alkemisti"
     },
+    "alhadikhia": {
+      "ability": "Joka yö*, valitse 3 pelaajaa (kaikki saavat tietää): kolmikko valitsee elää tai kuolla, mutta jos kaikki jäävät eloon, kaikki kuolevat.",
+      "flavor": "Alsukut min dhahab.",
+      "name": "Al-Hadikhia",
+      "other": "Al-Hadikhia valitsee 3 pelaajaa. :reminder: :reminder: :reminder: Herätä valinnat nimeämisjärjestyksessä. Nyökkäys tai päänpudistus. Laita valinnat nukkumaan ennen seuraavan herättämistä."
+    },
     "alsaahir": {
       "ability": "Joka päivä, jos arvaat julkisesti, keitä Kätyri(t) ja Demoni(t) ovat, hyvä voittaa.",
       "flavor": "Olen täällä sinun takiasi, ja sinä täällä minun takiani.",
       "name": "Alsaahir"
     },
     "amnesiac": {
-      "flavor": "Hetkinen. Mitä. Kuka? Ah, selvä. Odotas. Mitä?"
+      "ability": "Et tiedä, mikä kykysi on. Voit kerran päivässä arvata yksityisesti, mikä se on: saat tietää, kuinka lähelle oikeaa osuit.",
+      "first": "Tee mitä vaan parhaaksi koet Dementikon kyvyn tyydyttämiseksi.",
+      "flavor": "Hetkinen. Mitä. Kuka? Ah, selvä. Odotas. Mitä?",
+      "name": "Dementikko",
+      "other": "Tee mitä vaan parhaaksi koet Dementikon kyvyn tyydyttämiseksi."
     },
     "angel": {
       "ability": "Jotain ikävää saattaa tapahtua sille, joka on eniten vastuussa uuden pelaajan kuolemasta.",
+      "first": "Ilmoita ketkä ovat Enkelin suojeluksessa. :reminder:",
+      "flavor": "Rohjetkoot synnittömät nostaa kätensä valittujeni puoleen, sillä minä isken sellaisia hölmöt tuhannen myrskyn raivolla ja vanhurskaudella.",
       "name": "Enkeli"
     },
     "apprentice": {
       "ability": "1. yönäsi saat jonkin Kyläläisen kyvyn (jos olet hyvä) tai jonkin Kätyrin kyvyn (jos olet paha).",
+      "first": "Näytä *SINÄ OLET* & sitten Kyläläinen tai Kätyri -merkkejä. Vaihda Oppipoika & Kyläläinen tai Kätyri -merkit. :reminder:",
+      "flavor": "Olen matkustanut vuosia tutkien Käsityön tapoja. Minkä käsityön, kysyt? Yksinkertaisesti yksinkertaisten ihmisten. Ei mitään hätää. Ei vielä.",
       "name": "Oppipoika"
     },
     "artist": {
@@ -283,9 +297,11 @@
     },
     "atheist": {
       "ability": "Kertoja saa rikkoa pelin sääntöjä, ja jos hänet teloitetaan, hyvät voittavat, vaikka olisit kuollut. [Ei pahoja hahmoja]",
+      "flavor": "Hajaantukaamme tarpeettomaan arvailuun ja typerään vainoharhaisuuteen. Kaikelle on kyllä täysin rationaalinen selitys. Kyllä, teekuppi saattaa todellakin kiertää planeettaa, liian pienenä näkyäkseen, mutta minä juon teeni aidosta posliinista, aidoissa käsissäni.",
       "name": "Ateisti"
     },
     "balloonist": {
+      "ability": "Joka yö, saat tietää pelaajan, joka on eri hahmoluokkaa kuin edellisyönä. [+0 tai +1 Hylkiötä]",
       "first": "Näytä kuka tahansa pelaaja. :muistutus:"
     },
     "banshee": {
@@ -456,6 +472,7 @@
       "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin."
     },
     "lordoftyphon": {
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. [Pahat ovat rivissä & sinä olet keskellä. +1 Kätyri. -? tai +? Hylkiötä]",
       "other": "Suur-Typerrys valitsee pelaajan. :reminder:"
     },
     "lunatic": {
@@ -469,6 +486,9 @@
     },
     "minstrel": {
       "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
+    },
+    "mutant": {
+      "ability": "Jos olet \"raivoissasi\" siitä, että olet Hylkiö, saatat joutua teloitetuksi."
     },
     "ogre": {
       "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty.",
@@ -551,7 +571,7 @@
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
     },
     "xaan": {
-      "ability": "X. yönä, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Hylkiötä]",
+      "ability": "Yönä X, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Hylkiötä]",
       "name": "Xaan"
     },
     "zombuul": {
