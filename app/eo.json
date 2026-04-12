@@ -1,1 +1,39 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Senkosta",
+      "patreon-demon": "Demona nivelo",
+      "patreon-minion": "Pekhelpanta nivelo",
+      "patreon-townsfolk": "Vilaĝana nivelo",
+      "special-free": "Senpaga",
+      "special-moderator": "Kontrolanto",
+      "special-tpi": "TPI Administraro"
+    },
+    "botc_online": "BOTC Interreta",
+    "button_allow": "Permesu",
+    "button_cancel": "Kontraŭmendu",
+    "button_close": "Fermu",
+    "button_confirm": "Konfirmu",
+    "button_continue": "Daŭrigu",
+    "button_deny": "Malpermesu",
+    "button_logout": "Elsalutu",
+    "button_search": "Traserĉu",
+    "button_send": "Sendu",
+    "cookie_policy": "Kuketaj Politiko",
+    "moderation_policy": "Kontrolara Politiko",
+    "privacy_policy": "Privateca Politiko",
+    "session-tags": {
+      "cameras": {
+        "label": "Retfotiloj",
+        "title": "Ĉu retfotiloj uzas en ĉi tiu ludsesion",
+        "value_0": "Malnepra",
+        "value_1": "Nepra",
+        "value_2": "Malŝatita"
+      },
+      "difficulty": {
+        "label": "Komplikeco",
+        "title": "La atenda sperteco de la ludantoj en ĉi tiu ludsesion"
+      }
+    }
+  }
+}
