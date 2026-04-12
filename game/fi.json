@@ -343,7 +343,7 @@
     },
     "goblin": {
       "ability": "Jos väität julkisesti olevasi Hiisi, kun sinut nimitetään & samana päivänä teloitetaan, joukkueesi voittaa.",
-      "flavor": "Et halua loukata shishissä shihiseviä vesihiisiä. Et todellakaan halua. Aiheesta toiseen… saisinko toisenkin palan kakkua?",
+      "flavor": "Et halua loukata shishissä shihiseviä vesihiisiä. Ei, et todellakaan halua. Enivei… saisinko toisenkin palasen kakkua?",
       "name": "Hiisi"
     },
     "gossip": {
@@ -376,6 +376,7 @@
       "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>"
     },
     "pixie": {
+      "first": "Näytä Kyläläisen hahmomerkki *RAIVO* -merkittynä.",
       "name": "Keiju"
     },
     "plaguedoctor": {
