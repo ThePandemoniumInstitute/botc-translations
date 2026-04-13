@@ -507,7 +507,12 @@
       "tab_advanced": "Edistynyt",
       "tab_chat": "Keskustelu",
       "tab_game": "Peli",
-      "tab_shortcuts": "Pikanäppäimet"
+      "tab_general": "Yleinen",
+      "tab_shortcuts": "Pikanäppäimet",
+      "tab_user": "Käyttäjä",
+      "title": "Sovellusasetukset",
+      "title_avatar": "Valitse Avatar",
+      "title_sound": "Äänitehosteiden Voimakkuus"
     },
     "signal": {
       "custom": "Räätälöity",
