@@ -573,16 +573,30 @@
       "flavor": "Kun vanhurskaat unelmat tulevat, on niillä totuuden paino.",
       "name": "Lautturi"
     },
+    "fibbin": {
+      "ability": "Kerran pelissä, 1 hyvä pelaaja saattaa saada virheellistä tietoa.",
+      "flavor": "Tii-hii-hii. Tii. Hii. Hii.",
+      "name": "Fibbin"
+    },
+    "fiddler": {
+      "ability": "Kerran pelissä, Demoni valitsee salaa vastapuolen pelaajan: kaikki tekevät valinnan, kumpi näistä 2 pelaajasta voittaa.",
+      "flavor": "Lyönp vetoo, et voitat miut viulukisassa, senkin pömösilmähömö! Meemme vetään kunnon kännit, veämme kapakan täyteen ja piämme kunnon jekut. Lyön siut pöydän alle aamuun mennes, jyrinäine muppetti.",
+      "name": "Pelimanni"
+    },
     "fisherman": {
+      "ability": "Kerran pelissä päiväsaikaan, voit käydä Tarinankertojan luona saadaksesi voittoneuvoja.",
+      "flavor": "Tämä oli suosikkiosuuteni joella... näetkö, kuinka auringonvalo luo sateenkaaren luostarista torille? Tämä oli paras paikka isoille kaloille. Ja mitä vanhemmaksi tulen, sitä isompia ne olivat.",
       "name": "Kalastaja"
     },
     "flowergirl": {
       "ability": "Joka yö*, saat tietää äänestikö Demoni tänään.",
+      "flavor": "Eilisen orvokit ovat kuihtuneet ja kuolleet, mutta tänään unikkoni kukkivat.",
       "name": "Kukkaistyttö",
       "other": "Nyökkää tai pudista päätäsi."
     },
     "fool": {
       "ability": "Kun kuolet 1. kerran, et kuole.",
+      "flavor": "...ja Kuningas sanoi: \"Mitä?! Minulla ei ole koskaan edes ollut kumisia housuja, saati sitten vaniljakastiketykkiä!\" Ho-ho! Hilpeää päivää!",
       "name": "Narri"
     },
     "gardener": {
