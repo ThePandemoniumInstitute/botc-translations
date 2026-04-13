@@ -412,7 +412,11 @@
       "name": "Kannibaali"
     },
     "cerenovus": {
-      "name": "Aivopesijä"
+      "ability": "Joka yö, valitse pelaaja & hyvä hahmo: pelaaja on \"raivona\" siitä, että on tämä hahmo, tai saattaa joutua teloitetuksi.",
+      "first": "Mielenhäiriö valitsee pelaajan & hahmon. :reminder: Laita Mielenhäiriö nukkumaan. Herätä kohde. Näytä *TÄMÄ HAHMO VALITSI SINUT*& Mielenhäiriö -merkit, sitten valittu raivona-hahmosta-merkki.",
+      "flavor": "Todellisuushan on vain mielipide. Tarkennus: minun mielipiteeni.",
+      "name": "Mielenhäiriö",
+      "other": "Mielenhäiriö valitsee pelaajan & hahmon. :reminder: Laita Mielenhäiriö nukkumaan. Herätä kohde. Näytä *TÄMÄ HAHMO VALITSI SINUT*& Mielenhäiriö -merkit, sitten valittu raivona-hahmosta-merkki."
     },
     "chambermaid": {
       "ability": "Joka yö, valitse kaksi elävää pelaajaa (ei itseäsi): saat tietää, kuinka moni heräsi tänä yönä kykynsä vuoksi.",
@@ -422,11 +426,13 @@
       "other": "Sisäkkö valitsee 2 elävää pelaajaa. Anna sormimerkki."
     },
     "chef": {
+      "ability": "Aloitat tietäen, kuinka monta paria pahoja pelaajia on.",
       "first": "Anna sormimerkki.",
+      "flavor": "Illan pöytävaraukset tuntuvat oudoilta. Rouva Mayweather ei ole ikuna kuunaan pitänyt seuraa tuolle Hudson Lane -lurjukselle. Silti, tänä iltana he jakavat pöydän kahdelle. Outoa.",
       "name": "Kokki"
     },
     "choirboy": {
-      "ability": "Jos Demoni tappaa Kuninkaan, saat tietää, kuka pelaajista on Demoni. [+Kuningas]",
+      "ability": "Jos Demoni tappaa Kuninkaan, saat tietää, kuka Demoni on. [+Kuningas]",
       "name": "Kuoropoika",
       "other": "Jos Demoni tappoi Kuninkaan, osoita Demonin pelaajaa."
     },
