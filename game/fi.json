@@ -433,6 +433,7 @@
     },
     "choirboy": {
       "ability": "Jos Demoni tappaa Kuninkaan, saat tietää, kuka Demoni on. [+Kuningas]",
+      "flavor": "Näin sen, näin. Olin penkkiväleissä siistimässä virsikirjoja, kun urut alkoivat soittaa kamalaa sävelmää. Urkurilla oli pitkä viitta ja tämän pitkät sormet liukuivat koskettimilla. Ja hattu, joka näytti… aivan… teidän hatultanne.",
       "name": "Kuoropoika",
       "other": "Jos Demoni tappoi Kuninkaan, osoita Demonin pelaajaa."
     },
