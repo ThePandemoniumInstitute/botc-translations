@@ -435,25 +435,39 @@
       "ability": "Jos Demoni tappaa Kuninkaan, saat tietää, kuka Demoni on. [+Kuningas]",
       "flavor": "Näin sen, näin. Olin penkkiväleissä siistimässä virsikirjoja, kun urut alkoivat soittaa kamalaa sävelmää. Urkurilla oli pitkä viitta ja tämän pitkät sormet liukuivat koskettimilla. Ja hattu, joka näytti… aivan… teidän hatultanne.",
       "name": "Kuoropoika",
-      "other": "Jos Demoni tappoi Kuninkaan, osoita Demonin pelaajaa."
+      "other": "Jos Demoni tappoi Kuninkaan, osoita kohti Demonia."
     },
     "clockmaker": {
       "ability": "Aloitat pelisi tietäen, kuinka monta askelta on Demonista tämän lähimpään Kätyriin.",
       "first": "Anna sormimerkki.",
-      "name": "Kellomestari"
+      "flavor": "Älä häiritse. Tikityksen täytyy jatkua, ympyrä on elämän symboli, joka sisältää kaiken – vastaukset – jumalallisessa koneistossaan. Minun täytyy työskennellä.",
+      "name": "Kelloseppä"
     },
     "courtier": {
-      "ability": "Kerran pelissä, yöllä, valitse hahmo: tämä on juopunut 3 yön & 3 päivän ajan."
+      "ability": "Kerran pelissä, yöllä, valitse hahmo: tämä on juopunut 3 yön & 3 päivän ajan.",
+      "first": "Hännystelijä saattaa valita hahmon. :reminder: :reminder:",
+      "flavor": "Pelkään enemmän leijonan johtamaa sadan lampaan armeijaa kuin lampaan johtamaa sadan leijonan armeijaa.",
+      "name": "Hännystelijä",
+      "other": "Hännystelijä saattaa valita hahmon. :reminder: :reminder:"
     },
     "cultleader": {
       "ability": "Joka yö, omaksut yhden elävän naapurisi puolen. Jos kaikki hyvät pelaajat päättävät liittyä kulttiisi, joukkueesi voittaa.",
-      "name": "Kulttijohtaja"
+      "first": "Kulttijohtaja saattaa vaihtaa puolta. Jos näin käy, näytä *SINÄ OLET* & peukalo -merkkejä.",
+      "flavor": "Itseään viisaiksi luullessa, heistä tyhmiä tuli.",
+      "name": "Kulttijohtaja",
+      "other": "Kulttijohtaja saattaa vaihtaa puolta. Jos näin käy, näytä *SINÄ OLET* & peukalo -merkkejä."
     },
     "damsel": {
-      "name": "Neito"
+      "ability": "Kätyrit tietävät, että pelissä on Neito. Jos kätyri arvaa sinut julkisesti (kerran), joukkueesi häviää.",
+      "first": "Näytä Kätyreille Neito-merkki Kätyrien tiedonannon aikana. Jos et olekin jo niin tehnyt, tee se nyt. Jos Metsästäjä valitsee Neidon, näytä tälle *SINÄ OLET* & tämän uusi hahmo -merkit.",
+      "flavor": "Kulta, älä koske hiuksiin.",
+      "name": "Neito",
+      "other": "Jos Metsästäjä valitsee Neidon, näytä tälle *SINÄ OLET* & tämän uusi hahmo -merkit."
     },
     "dawn": {
-      "name": "Aamu"
+      "first": "Odota muutama sekunti. Päätä Yövaihe.",
+      "name": "Sarastus",
+      "other": "Odota muutama sekunti. Päätä Yövaihe."
     },
     "demoninfo": {
       "name": "Demoni-info"
@@ -522,6 +536,13 @@
     },
     "innkeeper": {
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
+    },
+    "kazali": {
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. [Valitset, mitkä pelaajat ovat mitkäkin kätyrit. -? - +? Hylkiötä]",
+      "first": "Ronkeli valitsee keistä tulee Kätyreitä. Herätä kohteet. Näytä *SINÄ OLET* ja Kätyri -merkit & peukku alas.",
+      "flavor": "Gon(z)a7les6. Ole ta7kka. Koneellist4mi4en on kÄänne10y. Vi9he oir3ita. Uudel\\{7\\}äätö.",
+      "name": "Ronkeli",
+      "other": "Ronkeli valitsee pelaajan. :reminder:"
     },
     "librarian": {
       "first": "Näytä Hylkiö-hahmomerkki. Osoita sekä *HYLKIÖ* että *VÄÄRÄ* -pelaajia kohti."
