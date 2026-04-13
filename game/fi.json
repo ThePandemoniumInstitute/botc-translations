@@ -553,13 +553,19 @@
       "name": "Maajussi"
     },
     "gardener": {
+      "flavor": "Kun viisastelusta tulee tyhmyyttä ja tekopyhyydestä julmuutta, vetäydy puutarhaan. Kukat ja kivet ovat vanhojen ihmisten viimeinen rakkaus.",
       "name": "Puutarhuri"
     },
     "general": {
-      "name": "Kenraali"
+      "ability": "Saat joka yö tietää, kenen Tarinankertoja uskoo olevan voitolla: hyvän, pahan, tai ei kummankaan.",
+      "first": "Näytä peukalomerkki.",
+      "flavor": "Minulla ei ole aikaa sitaateille.",
+      "name": "Kenraali",
+      "other": "Näytä peukalomerkki."
     },
     "gnome": {
-      "ability": "Kaikki pelaajat aloittavat tietäen pelaajan, joka on sinun puolellasi. Voit valita tappaa kenet tahansa, joka nimittää heidät.",
+      "ability": "Kaikki tietävät pelaajan, joka on sinun puolellasi. Voit halutessasi tappaa kenet tahansa, joka nimittää tämän.",
+      "flavor": "Käsikyt tai seittemän olutta, ajan hukanneet on miulle kuolleita. Pilalla lattian perustukset pituudeltaan kammetaa ja lankut rikki vaa, nii kiistattomakuplivaise pikku. Suuret essehet virtaavat ilopuroihin, eivätkä suurempina kuin kohtaus, eip luontaist. Ha-örm.",
       "name": "Tonttu"
     },
     "goblin": {
@@ -568,40 +574,72 @@
       "name": "Hiisi"
     },
     "godfather": {
+      "ability": "Aloitat tietäen, mitkä Hylkiöt ovat pelissä. Jos 1 kuoli tänään, valitse tänä yönä pelaaja: tämä kuolee. [-1 tai +1 Hylkiö]",
+      "first": "Näytä kaikkien pelissä olevien Hylkiöiden hahmot.",
+      "flavor": "Normaalisti se on vain bisnestä. Mutta kun loukkaat tytärtäni, loukkaat minua. Ja kun loukkaat minua, loukkaat perhettäni. Sinun pitäisi todella olla tarkempi – olisihan se sääli, jos sinulle sattuisi jotain ikävää.",
       "name": "Kummisetä",
-      "other": "Jos Muukalainen kuoli tänään, Kummisetä valitsee pelaajan. :reminder:"
+      "other": "Jos Hylkiö kuoli tänään, Kummisetä valitsee pelaajan. :reminder:"
+    },
+    "godofug": {
+      "ability": "Yksi Ug-hattu. Ug-hattu käyttää, lausuu yksi äänne kerta, mut äänes kaks. Jos hylky, Ug-hattu pois.",
+      "flavor": "Siunattuja ovat lapseni, sillä he näkevät yksinkertaisuuden kauneuden.",
+      "name": "Jumal-Ug"
     },
     "golem": {
-      "ability": "Voit nimittää vain kerran pelissä. Näin tehdessäsi, jos nimitetty ei ole Demoni, hän kuolee.",
-      "flavor": "Golem auttaa? Golem tuhoaa! Golem auttaa.",
-      "name": "Golem"
+      "ability": "Voit nimittää vain kerran pelissä. Näin tehdessäsi, jos nimitetty ei ole Demoni, tämä kuolee.",
+      "flavor": "Savis auttaa? Savis murskaa! Savis auttaa.",
+      "name": "Savijätti"
     },
     "goon": {
+      "ability": "Joka yö, 1. pelaaja joka valitsee sinut kyvyllään on juopunut iltaruskoon asti. Vaihdat tämän puolelle.",
+      "flavor": "Kyllä pomo. Selitin jutskat oikein hyvin sille äijälle. Se ei halua kuulla siitä uudestaan. Ehei pomo, en tarvitse lekuria - se on vain pintanaarmu. Terve jo huomenis'",
       "name": "Konna"
     },
     "gossip": {
+      "ability": "Joka päivä, voit esittää julkilausuman. Tänä yönä, jos sutkautuksesi oli totta, pelaaja kuolee.",
       "flavor": "Pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä pälä. Pälä.",
-      "name": "Juorukello"
+      "name": "Juorukello",
+      "other": "Jos Juorukello lausui totuuden, pelaaja kuolee. :reminder:"
     },
     "grandmother": {
+      "ability": "Aloitat tietäen hyvän pelaajan & tämän hahmon. Jos Demoni tappaa tämän, myös sinä kuolet.",
+      "first": "Osoita lapsenlasta & näytä tämän hahmomerkki.",
+      "flavor": "Ota takki, jos menet ulos, rakas. Ja termospullosi. Ja huivisi. Minulla on heikko sydän, tiedäthän. Mitähän tekisinkään, jos vilustuisit... tai pahempaa?",
       "name": "Isoäiti",
-      "other": "Jos Demoni tappoi lapsenlapsen, Isoäiti kuolee myös. :reminder:"
+      "other": "Jos Demoni tappoi lapsenlapsen, myös tämän Isoäiti kuolee. :reminder:"
+    },
+    "gunslinger": {
+      "ability": "Joka päivä, kun 1. äänestyksen äänet on laskettu, voit valita pelaajan joka äänesti: tämä kuolee.",
+      "flavor": "On jo aikakin, että joku ottaa ohjat omiin käsiinsä. Ja se joku... olen minä.",
+      "name": "Pyssysankari"
     },
     "harlot": {
-      "name": "Ilotyttö"
+      "ability": "Joka yö*, valitse elävä pelaaja: hän voi paljastaa hahmonsa, mutta saatatte tällöin molemmat kuolla.",
+      "flavor": "Enchanté, Merimies. Vaikutat siltä, että tarvitset jonkun kuuntelemaan murheitasi. Olen hyvä kuuntelija. Todella, todella hyvä.",
+      "name": "Ilotyttö",
+      "other": "Ilotyttö valitsee elävän pelaajan. Laita Ilotyttö nukkumaan. Herätä valittu pelaaja, näytä *TÄMÄ HAHMO VALITSI SINUT* & Ilotyttö -merkit. Jos valittu pelaaja nyökkää, herätä Ilotyttö ja näytä valitun pelaajan hahmo. Molemmat pelaajat saattavat kuolla. :reminder: :reminder:"
     },
     "harpy": {
-      "name": "Harpyija"
+      "ability": "Joka yö, valitse 2 pelaajaa: huomenna 1. raivoaa, että 2. on paha, tai molemmat saattavat kuolla.",
+      "first": "Harpyija valitse 2 pelaajaa. :reminder: :reminder: Laita Harpyija nukkumaan. Herätä 1. kohde. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Harpyija -merkit, ja osoita kohti 2. kohdetta.",
+      "flavor": "Niin kaunista päivää ei koskaan ollutkaan, eikä niin nokkaista läsnäoloa ylläni.",
+      "name": "Harpyija",
+      "other": "Harpyija valitse 2 pelaajaa. :reminder: :reminder: Laita Harpyija nukkumaan. Herätä 1. kohde. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Harpyija -merkit, ja osoita kohti 2. kohdetta."
     },
     "hatter": {
-      "ability": "Jos kuolit tänään tai tänä yönä, Kätyrit ja Demoni voivat valita itselleen uudet Kätyri- ja Demoniroolit.",
-      "name": "Hatuntekijä"
+      "ability": "Jos kuolit tänään tai tänä yönä, Kätyrit ja Demoni voivat valita itselleen uudet Kätyri- ja Demonihahmot.",
+      "flavor": "Yksi hattu. Liian hattu. Kolmehattu. Teehattu. Etuhattu. Loistohattu. Kuusihattu. Keppishattu.",
+      "name": "Hatuntekijä",
+      "other": "Jos Hatuntekijä kuoli, herätä Kätyrit & Demonit. Jokainen voi valita itselleen uuden hahmon. Jos nämä vaihtavat, näytä *SINÄ OLET* & uuden hahmon -merkit."
     },
     "hellslibrarian": {
+      "ability": "Jotain pahaa saattaa tapahtua sille, joka puhuu, kun Tarinankertoja on pyytänyt hiljaisuutta.",
+      "flavor": "Shhhhhh. Olkaapas hiljaa. Kirjastonhoitajaa ei kantsi häiritä. Oon kuullut, et se on melkoinen äkäpussi.",
       "name": "Tuonelan Kirjastonhoitaja"
     },
     "heretic": {
       "ability": "Voittajat häviävät ja häviäjät voittavat, vaikka olisit kuollut.",
+      "flavor": "Kun raekuuro on murskannut katon ja pirstonut Katedraalin ikkunalasit, sulautuvat rakeet takaisin maahan, kuin kuoleva karitsa aavikon paahteessa. Sellainen on mielettömän vertauskuva.",
       "name": "Kerettiläinen"
     },
     "hermit": {
@@ -610,13 +648,16 @@
       "name": "Erakko"
     },
     "highpriestess": {
-      "ability": "Joka yö, saat tietää kelle pelaajista sinun pitäisi Kertojan mielestä puhua pikimmiten.",
+      "ability": "Joka yö, saat tietää kenelle kannattaisi Tarinankertojan mielestä puhua pikimmiten.",
       "first": "Osoita pelaajaa.",
+      "flavor": "Naamioita luonteenaan käyttävän persoonan taakse piiloutuu elämää. On aikoja, jolloin elämä riisuu naamiot ja perimmäiset vastaukset syvällisyyteen.",
       "name": "Ylipapitar",
       "other": "Osoita pelaajaa."
     },
     "hindu": {
-      "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi."
+      "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi.",
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
+      "name": "Hindu"
     },
     "innkeeper": {
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
