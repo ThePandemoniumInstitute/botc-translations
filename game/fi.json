@@ -549,14 +549,28 @@
       "name": "Manaaja",
       "other": "Manaaja valitsee pelaajan. :reminder: Laita Manaaja nukkumaan. Jos Manaaja valitsi Demonin: Herätä Demoni. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Manaaja -merkit. Osoita Manaajaa."
     },
+    "fanggu": {
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. 1. valitsemasi Hylkiö muuttuu RiivaaJaksi & kuolet itse. [+1 Hylkiö]",
+      "flavor": "Suojamuurisi ja aseesi ovat unissa pelkkää savua.",
+      "name": "RiivaaJa",
+      "other": "RiivaaJa valitsee pelaajan. :reminder: Jos tämä valitsee Hylkiön (vain kerran): Vaihda Hylkiö-merkki ylimääräiseen RiivaaJa-merkkiin. Laita RiivaaJa nukkumaan. Herätä kohde. Näytä *SINÄ OLET* ja RiivaaJA -merkit & peukku alas. :reminder:"
+    },
     "farmer": {
-      "name": "Maajussi"
+      "ability": "Kun kuolet yöllä, elävä hyvä pelaaja muuttuu Maajussiksi.",
+      "flavor": "Mitä mahtavimmatkin tarvitsevat pottua pöytään. Ilman meitä kaupunki nääntyy nälkään.",
+      "name": "Maajussi",
+      "other": "Jos Maajussi kuoli yöllä, herätä elossa oleva hyvä pelaaja. Näytä \"SINÄ OLET\" ja Maajussi -merkit."
     },
     "fearmonger": {
-      "ability": "Joka yö, valitse pelaaja: jos nimität & teloitat heidät, heidän joukkueensa häviää. Kaikki pelaajat tietävät jos valitset uuden pelaajan.",
-      "name": "Pelonlietsoja"
+      "ability": "Joka yö, valitse pelaaja: jos nimität & teloitutat tämän, hänen joukkueensa häviää. Kaikki pelaajat tietävät, jos valitset uuden kohteen.",
+      "first": "Pelonlietsoja valitsee pelaajan. :reminder: Ilmoita Pelonlietsojan valinneen kohteensa.",
+      "flavor": "Varo tuijottamasta pitkään Syvyyteen, ettei Se katsettaan sinuunkin käännä.",
+      "name": "Pelonlietsoja",
+      "other": "Pelonlietsoja valitsee pelaajan. :reminder: Jos kohde vaihtuu ilmoita, että Pelonlietsoja on valinnut uuden kohteen."
     },
     "ferryman": {
+      "ability": "Kuolleet saavat viimeisenä päivänä äänestysmerkkinsä takaisin.",
+      "flavor": "Kun vanhurskaat unelmat tulevat, on niillä totuuden paino.",
       "name": "Lautturi"
     },
     "gardener": {
