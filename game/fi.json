@@ -337,7 +337,7 @@
       "name": "Kerjäläinen"
     },
     "bigwig": {
-      "ability": "Jokainen nimetty valitsee pelaajan: vain tämä saa on äänestykseen asti puhua & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
+      "ability": "Jokainen nimetty valitsee pelaajan: vain tämä saa äänestykseen olla äänessä & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
       "flavor": "Turhamaisuus kysyy: \"Onko se suosittua?\" Pelkuri kysyy: \"Onko se turvallista?\" Omatunto kysyy: \"Onko se oikein?\" Kuka meistä kysyy: \"Onko se totta?\"",
       "name": "Per-Uukki"
     },
