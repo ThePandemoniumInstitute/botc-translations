@@ -359,10 +359,19 @@
       "title_players": "pelaajat",
       "warning": "Varoitus: valituilla hahmoilla on kykyjä, jotka muuttavat pelin alkuasetelmia! Sinun on itse otettava muutokset huomioon."
     },
+    "rules": {
+      "title": "Säännöt"
+    },
     "settings": {
+      "background_placeholder": "URL-osoite taustakuvaan",
       "background_text": "Anna mukautetun taustan URL-osoite tai jätä se tyhjäksi poistaaksesi mukautetun taustan.",
       "background_title": "Mukautettu Tausta",
+      "button_always": "Aina",
+      "button_edit": "Muokkaa Tiliä",
+      "button_setup": "Suorita Valmistelu",
+      "button_verify": "Vahvista Tili",
       "css_apply": "Käytetäänkö Mukautettuja CSS-sääntöjä?",
+      "css_confirm": "Tiedän mitä teen, anna minun muuttaa sovellukseni ulkoasua",
       "css_confirm2": "Vahvista, että haluat säilyttää Mukautetut CSS -muutokset. Muussa tapauksessa ne poistetaan käytöstä automaattisesti.",
       "css_text": "Voit muokata sovelluksesi ulkoasua täällä syöttämällä URL-osoitteen mukautettuun CSS-tiedostoon tai itse CSS-koodiin. Pandemonium Institute ei ole vastuussa muiden käyttäjien toimittamasta CSS-koodista. Haitallisen CSS-koodin lataaminen saattaa rikkoa sovelluksesi!",
       "css_title": "Syötä Mukautettu CSS",
@@ -370,9 +379,32 @@
       "image_title": "Salli mukautetut kuvat",
       "nomination": {
         "bigwig": {
+          "text": "Jokainen nimetty valitsee pelaajan: vain tämä saa äänestykseen olla äänessä & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
           "title": "Per-Uukki"
+        },
+        "focus": {
+          "text": "Nimitetty pelaaja saa ryhmän huomion.",
+          "title": "Nimetyn huomio"
+        },
+        "phases": {
+          "text": "Vain nimeäjä ja nimetty saavat puhua.",
+          "title": "Syytös & puolustus"
+        },
+        "regular": {
+          "text": "Kaikki saavat puhua kuten haluavat.",
+          "title": "Tavallinen"
         }
       },
+      "option_disabled": "Poissa käytöstä",
+      "patreon_link": "Yhdistä Patreon-Tili",
+      "patreon_link_text": "Voit nyt sulkea tämän ikkunan.",
+      "patreon_link_title": "Patreon-tili yhdistetty",
+      "patreon_perks": "Avatarin lataus ja erikoisnimikyltit ovat saatavilla maksullisella {0} -tilauksella!",
+      "patreon_perks2": "Patreon-tilaus",
+      "patreon_update": "Päivitä Patreonin Tila",
+      "setting_alignment": "Näytä Puoli Toriaukiolla",
+      "setting_animations": "Näytä Animaatiot",
+      "setting_audio_deafen": "Kuuntele Äänikeskustelua",
       "setting_css": "Mukautetut CSS-Säännöt",
       "setting_css_label": "Syötä Mukautetut CSS-säännöt",
       "setting_homebrew": "Näytä Mukautetut Kuvat / Kotipolttoiset Kuvakkeet",
@@ -406,6 +438,9 @@
     "attention": {
       "return": "Palatkaahan takaisin Toriaukiolle!"
     },
+    "gatherplayers": {
+      "warning": "Tarvitset vähintään 7 pelaajaa tavalliseen Korppikorpi-peliin."
+    },
     "reveal": {
       "evil": "Paha",
       "good": "Hyvä",
@@ -417,6 +452,9 @@
     },
     "towninfo": {
       "script_by": "tehnyt {0}"
+    },
+    "vote": {
+      "highscore_text": "Syötä uusi äänimäärä päivän äänestystulokselle\ntai jätä tyhjäksi elävälle oletusenemmistölle."
     }
   },
   "pages": {
