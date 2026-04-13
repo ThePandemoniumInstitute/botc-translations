@@ -45,8 +45,8 @@
         "value_2": "No"
       },
       "streaming": {
-        "label": "Transmisión de la partida",
-        "title": "Si la sesión de juego se transmitirá en directo",
+        "label": "Partida transmitida en directo / grabada",
+        "title": "La sesión de juego será transmitida en directo / grabada",
         "value_0": "No",
         "value_1": "Sí"
       },
@@ -374,7 +374,7 @@
       "nomination": {
         "bigwig": {
           "text": "Cada nominado elige a un jugador: solo este puede hablar hasta la votación y está «loco» porque el nominador sea bueno, o de lo contrario puede morir.",
-          "title": "Pez Gordo"
+          "title": "Big Wig"
         },
         "focus": {
           "text": "El jugador nominado tiene la atención del grupo."
