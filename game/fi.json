@@ -496,7 +496,8 @@
       "name": "Juoppo"
     },
     "duchess": {
-      "name": "Herttuatar"
+      "name": "Herttuatar",
+      "other": "Yksi kerrallaan: Herätä pelaajat joilla on *VIERAILIJA* tai *VÄÄRÄ TIETO* -merkki. Näytä *TÄMÄ HAHMO VALITSI SINUT* & Herttuatar -merkit, näytä sitten sormimerkki."
     },
     "dusk": {
       "first": "Aloita yövaihe.",
@@ -506,6 +507,7 @@
     "empath": {
       "ability": "Joka yö, saat tietää kuinka moni 2 elävästä naapuristasi on paha.",
       "first": "Anna sormimerkki.",
+      "flavor": "Ihoni on kananlihalla. Jokin täällä ei ole kunnossa. Tunnen sen.",
       "name": "Empaatti",
       "other": "Anna sormimerkki."
     },
@@ -538,7 +540,12 @@
       "flavor": "Tule sisään, hyvä matkaaja, ja lepuuta väsyneitä luitasi. Juo ja ole iloinen, sillä Pimeyden leegiot eivät ahdistele sinua tänä yönä."
     },
     "judge": {
-      "ability": "Kerran pelissä, jos toinen pelaaja nimitti, voit valita pakottaa nykyisen teloituksen joko läpäisemään tai epäonnistumaan."
+      "ability": "Kerran pelissä, jos toinen pelaaja teki nimityksen, voit halutessasi pakottaa teloituksen suoraan läpi tai epäonnistumaan.",
+      "flavor": "Katson vastaajan syylliseksi murhaan, petokseen, tuhopolttoon, varkauteen, virkamiehenä esiintymiseen, luvattoman lääkärintoimen harjoittamiseen, kunnianloukkaukseen, kuninkaanmurhaan ja roskaamiseen.",
+      "name": "Tuomari"
+    },
+    "juggler": {
+      "other": "Anna sormimerkki."
     },
     "kazali": {
       "ability": "Joka yö*, valitse pelaaja: tämä kuolee. [Valitset, mitkä pelaajat ovat mitkäkin kätyrit. -? - +? Hylkiötä]",
@@ -565,6 +572,10 @@
       "first": "Herätä demoni. Näytä *TÄMÄ PELAAJA ON* & Sätkynukke -merkit. Osoita Sätkynukkea.",
       "flavor": "Sanat, sanat. Niillä meidän on vain jatkettava.",
       "name": "Sätkynukke"
+    },
+    "mathematician": {
+      "first": "Anna sormimerkki.",
+      "other": "Anna sormimerkki."
     },
     "minstrel": {
       "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
