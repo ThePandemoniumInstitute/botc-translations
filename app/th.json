@@ -416,6 +416,8 @@
       "setting_clouds": "แสดงเมฆในช่วงกลางคืน",
       "setting_colorblind": "โหมดตาบอดสี: {0}",
       "setting_condense": "ย่อแผ่นข้อมูลตัวละคร",
+      "setting_cosmetics": "แสดงการตกแต่งของผู้เล่น",
+      "setting_css": "กฎ CSS แบบกำหนดเอง",
       "setting_echo_cancellation": "ตัดเสียงสะท้อน",
       "setting_microphone": "ไมโครโฟน",
       "setting_mute_audio": "ปิดเสียง",
