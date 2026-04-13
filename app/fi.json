@@ -494,8 +494,19 @@
       },
       "sounds": {
         "attentionGong": "Huomiokumistin",
-        "timerGong": "Ajastimen päättymiskumistin"
+        "chatJoin": "Julkikeskusteluun",
+        "chatLeave": "Julkikeskustelusta",
+        "countdown": "Laskenta",
+        "privateJoin": "Yksityiskeskusteluun",
+        "privateRequest": "Yksityiskeskustelupyyntö",
+        "timerGong": "Ajastimen päättymiskumistin",
+        "voteCast": "Äänestys",
+        "voteTick": "Äänestyskellon tikitys",
+        "voteTickShort": "Äänestyskellon tikitys (<1s)"
       },
+      "tab_advanced": "Edistynyt",
+      "tab_chat": "Keskustelu",
+      "tab_game": "Peli",
       "tab_shortcuts": "Pikanäppäimet"
     },
     "signal": {
