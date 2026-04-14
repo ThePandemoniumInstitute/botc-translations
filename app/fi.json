@@ -223,7 +223,7 @@
         "server_text": "Yhteys aikakatkaistiin pelipalvelinta odotellessa.",
         "server_title": "Pelipalvelimen Yhteys Katkesi",
         "session": "Virhe peli-istunnon luomisessa",
-        "session_banned": "Sinut on estetty.",
+        "session_banned": "Sinulla on porttikielto.",
         "session_full": "Tässä istunnossa on jo 25 käyttäjää.",
         "session_general": "Virhe yhdistettäessä istuntoon.",
         "session_join": "Istuntoon liittyminen ei onnistu",
@@ -552,7 +552,7 @@
   },
   "pages": {
     "clock": {
-      "description_mins": "1 minuutti {n} minuuttia"
+      "description_mins": "1 minuutti|{n} minuuttia"
     },
     "lobby": {
       "bootlegger_title": "Huomio!",
