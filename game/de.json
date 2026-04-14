@@ -753,6 +753,9 @@
     "pixie": {
       "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town. Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me."
     },
+    "plaguedoctor": {
+      "flavor": "Halt nu pitte schtill. Hailung brauchts sai Zait. Myrhh-myrhh."
+    },
     "po": {
       "ability": "Jede Nacht* darfst du 1 Spieler wählen: Er stirbt. Falls du letzte Nacht niemanden gewählt hast, wähle heute Nacht 3 Spieler.",
       "flavor": "Möchtest du eine Blume? Ich bin so einsam.",
@@ -766,11 +769,26 @@
       "name": "Giftmischer",
       "other": "Der Giftmischer wählt einen Spieler. :reminder:"
     },
+    "politician": {
+      "flavor": "Ich bin froh, dass Sie diese Frage gestellt haben. Das bin ich wirklich. Aber ich denke, die WIRKLICHE Frage hier lautet…"
+    },
+    "poppygrower": {
+      "flavor": "In den versteckten Hainen des tiefen Waldes wächst der schwarze Mohn. Wer sein Festmahl sieht, wird verzaubert. Wer seinen intensiven Duft riecht, ist für immer verloren, ein Sklave der Götter des Lichts und der Dunkelheit."
+    },
+    "preacher": {
+      "flavor": "Es ist besser reich und gesund zu sein als arm und krank."
+    },
+    "princess": {
+      "flavor": "Unsere Worte sind Hunde, gehalten von seidenen Fäden, ehrenwerte Herren. Möge Güte sie wahrhaftig verweben, damit sich die Zügel nicht auflösen und unseren Hof zerreißen."
+    },
     "professor": {
       "ability": "Einmal im Spiel, in der Nacht*, wähle 1 toten Spieler: Falls er ein Bürger ist, wird er wiederbelebt.",
       "flavor": "Das Verfahren ist simpel. Den hydraulischen Konfabulator an den modifizierten Chi-Matrix-Verstärker anschließen, 20 CCs Pseudodorafine hinzufügen, seine Z-Werte über 20% halten und schon wird es ihrem Mann gut gehen. Alles was wir jetzt noch brauchen, ist ein Blitzeinschlag.",
       "name": "Professor",
       "other": "Der Professor wählt möglicherweise einen toten Spieler. :reminder: :reminder:"
+    },
+    "psychopath": {
+      "flavor": "Überraschung!"
     },
     "pukka": {
       "ability": "Wähle jede Nacht 1 Spieler: Er wird vergiftet. Der zuvor vergiftete Spieler stirbt & ist dann nicht mehr vergiftet.",
@@ -778,6 +796,9 @@
       "flavor": "Es war wirklich äußerst freundlich von Ihnen, mich in Ihrem trauten Heim willkommen zu heißen. Verzeihen Sie mir bitte, dass ich Sie gekratzt habe. Ist nur ein kleiner Kratzer. Bitte nehmt diesen goldenen Zahnstocher als bescheidene Geste meines Bedauerns.",
       "name": "Pukka",
       "other": "Die Pukka wählt einen Spieler. :reminder: Der zuvor vergiftete Spieler stirbt und ist dann nicht mehr vergiftet. :reminder:"
+    },
+    "puzzlemaster": {
+      "flavor": "Wenn man anfängt zu denken, dass etwas lediglich etwas anderes ist, steht man in der Regel kurz vor einem Irrtum. Geduld, Geduld. Verwechsle nicht gerecht und sollte mit ist und ist nicht."
     },
     "ravenkeeper": {
       "ability": "Falls du in der Nacht stirbst, wirst du aufgeweckt & wählst 1 Spieler: Du erfährst seinen Charakter.",
@@ -794,6 +815,9 @@
       "ability": "2 benachbarte Spieler sind bekanntermaßen in der gleichen Fraktion. Einmal im Spiel erscheint 1 von ihnen falsch.",
       "flavor": "Vereint täuschten wir, getrennt hielten wir uns zurück.",
       "name": "Revolutionär"
+    },
+    "riot": {
+      "flavor": "Larga vida a la revolución! Mi revolucion!"
     },
     "sage": {
       "ability": "Falls der Dämon dich tötet, erfährst du, dass er 1 von 2 bestimmten Spielern ist.",
@@ -847,6 +871,9 @@
       "name": "Shabaloth",
       "other": "Ein zuvor gewählter Spieler könnte wieder auferstehen. :reminder: Der Shabaloth wählt 2 Spieler. :reminder: :reminder:"
     },
+    "shugenja": {
+      "flavor": "これは夢。それも夢。すべて夢です。"
+    },
     "slayer": {
       "ability": "Einmal im Spiel, während des Tages, wähle öffentlich 1 Spieler: Falls er der Dämon ist, stirbt er.",
       "flavor": "Stirb!",
@@ -858,6 +885,9 @@
       "flavor": "Effendi... Ich bin nur ein bescheidener Mann, aber meine Flöte ist aus Gold, und eine einzige Melodie wird den wildesten Dschinn zähmen, Inshallah. Man sagt, dass die Gier mehr Menschen umbringt als der Strick. Aber mich nicht, Effendi... mich nicht.",
       "name": "Schlangenbeschwörer",
       "other": "Der Schlangenbeschwörer wählt einen Spieler. Falls er den Dämon gewählt hat: Zeige das *DU BIST* & das Dämonplättchen. Zeige einen Daumen nach unten. Vertausche das Schlangenbeschwörer- & das Dämonplättchen im Grimoire. Lasse den vorherigen Schlangenbeschwörer einschlafen. Wecke den vorherigen Dämon. Zeige das *DU BIST* und das Schlangenbeschwörerplättchen & zeige einen Daumen nach oben. :reminder:"
+    },
+    "snitch": {
+      "flavor": "Es war John."
     },
     "soldier": {
       "ability": "Du bist sicher vor dem Dämon.",
@@ -875,6 +905,15 @@
       "flavor": "Jeder Braumeister, der etwas auf sich hält, weiß, dass kein Gebräu schneller für Ärger sorgt als eines, das geschüttelt, nicht gerührt wird.",
       "name": "Spion",
       "other": "Zeige dem Spion das Grimoire so lange, wie er es braucht."
+    },
+    "steward": {
+      "flavor": "Wie können Sie es WAGEN, ihre Ladyschaft eines Fehlverhaltens zu bezichtigen? Ich kenne sie schon mein ganzes Leben lang!"
+    },
+    "stormcatcher": {
+      "flavor": "Im Morgengrauen kriecht der lange Schatten des Tempels zum Brunnen. In der Dämmerung blockt der Obelisk das rote Glühen ab und kühlt das warme Wasser unter dem Torbogen. Alle Linien laufen hier zusammen. Ein Sturm zieht auf, und dieser üppige und heilige Ort zwischen den Apfelbäumen ist sein Auge."
+    },
+    "summoner": {
+      "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness."
     },
     "sweetheart": {
       "ability": "Wenn du stirbst, ist 1 Spieler ab jetzt betrunken.",
@@ -925,10 +964,16 @@
       "name": "Vigormortis",
       "other": "Der Vigormortis wählt einen Spieler. :reminder: Falls dieser Spieler ein Scherge ist, vergifte einen  benachbarten Bürger. :reminder: :reminder:"
     },
+    "villageidiot": {
+      "flavor": "Veilchen sind rot. Rosen sind blau. Bitte drehe das um, dann stimmt es genau."
+    },
     "virgin": {
       "ability": "Wenn du zum 1. Mal nominiert wirst: Falls der Nominierende ein Bürger ist, wird er sofort hingerichtet.",
       "flavor": "Ich bin rein. Lass diejenigen, die ohne Sünde sind, sich selbst opfern und an meiner Stelle leiden. Mein guter Ruf soll nicht durch eure giftigen Anschuldigungen befleckt werden.",
       "name": "Jungfrau"
+    },
+    "vizier": {
+      "flavor": "Eine ausgezeichnete Entscheidung, wie immer, Sir. Ein so geringfügi-ges Vergehen, wie das Anrempeln des Bischoffs verdient in der Tat Eure ‘Gerechtigkeit’ und ‘Gnade’. Spaziert durch die Gärten. Besucht die Gallerie, betrachtet die Von Strauf Skulptur. Entspannt Euch, Sir. Überlasst alles … mir."
     },
     "vortox": {
       "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Fähigkeiten von Bürgern liefern falsche Informationen. Falls an irgendeinem Tag keiner hingerichtet wird, gewinnt Böse.",
@@ -947,12 +992,30 @@
       "flavor": "Blutflecken auf dem Jackett? Nein. Das ist Kochsherry. Wie unachtsam.",
       "name": "Waschweib"
     },
+    "widow": {
+      "flavor": "Noch etwas Wein? Château d’Ergot ’07 ist ein ganz besonderer Jahrgang. Ja, in der Tat, ein ganz besonderer."
+    },
     "witch": {
       "ability": "Wähle jede Nacht 1 Spieler: Falls er morgen nominiert, stirbt er. Falls nur noch 3 Spieler leben, verlierst du diese Fähigkeit.",
       "first": "Die Hexe wählt einen Spieler. :reminder:",
       "flavor": "Drei Tropfen Ziegenblut. Eine Haarlocke, im Zorn ausgerissen. Der Name wird ausgesprochen, der Schatten geworfen. Geh mit dem linken Fuß zuerst den dornigen Pfad hinunter und schaue nicht zurück.",
       "name": "Hexe",
       "other": "Die Hexe wählt einen Spieler. :reminder:"
+    },
+    "wizard": {
+      "flavor": "Jeder Mann und jede Frau ist ein Stern. Liebe ist das Gesetz, Liebe unter Willen."
+    },
+    "wraith": {
+      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."
+    },
+    "xaan": {
+      "flavor": "Hinunter fallen sie. Einer nach dem anderen. Zu zweit, zu dritt, zu fünft."
+    },
+    "yaggababble": {
+      "flavor": "Doppelmord in der Rue Morgue? Фальшивые новости! Der Hund von Baskerville? Фальшивые новости! Der Tod auf dem Nil? Фальшивые новости!"
+    },
+    "zealot": {
+      "flavor": "Ich unterhalte mich gerne mit dir. Deine Denkweise gefällt mir. Sie ähnelt meiner eigenen, nur dass du zufällig verrückt bist."
     },
     "zombuul": {
       "ability": "Jede Nacht*, falls heute kein Spieler starb, wähle 1 Spieler: Er stirbt. Wenn du zum 1. Mal stirbst, überlebst du, aber erscheinst tot.",
