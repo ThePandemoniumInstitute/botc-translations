@@ -489,7 +489,7 @@
     },
     "goon": {
       "ability": "Każdej nocy pierwszy gracz, który wybierze cię w wyniku swojej umiejętności jest pijany do zmierzchu. Przechodzisz na jego stronę.",
-      "flavor": "Ta szefie. Pogadałem z tym typem jak należy. Drugi raz nie będzie trzeba, gwarantuję. Nie szefie, nie trza doktora - to tylko mała rana od noża. Do rana się zagoi.",
+      "flavor": "Ta szefie. Pogadałem z tym typem jak należy. Drugi raz nie będzie trzeba, gwarantuję. Nie szefie, nie trza doktora - to tylko rana od noża. Do rana się zagoi.",
       "name": "Zbir"
     },
     "gossip": {
@@ -534,7 +534,7 @@
     },
     "hindu": {
       "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
-      "name": "Hindu"
+      "name": "Hindus"
     },
     "huntsman": {
       "ability": "Raz na grę, w nocy, wybierz żywego gracza: jeśli wybrałeś Damulkę, staje się Mieszczaninem, którego nie ma w grze. [+Damulka]",
