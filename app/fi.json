@@ -522,7 +522,7 @@
       "prompt_custom_title": "Lähetä räätälöity viesti"
     },
     "users": {
-      "type_spectator": "Sivustaseuraaja|{n} Sivustaseuraajat"
+      "type_spectator": "Sivustaseuraaja|{n} Sivustaseuraajaa"
     }
   },
   "overlays": {
