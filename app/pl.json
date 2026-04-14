@@ -45,7 +45,7 @@
         "value_2": "Nie"
       },
       "streaming": {
-        "label": "Gra jest Streamowana / Nagrywana",
+        "label": "Gra jest streamowana / nagrywana",
         "title": "Gra będzie streamowana / nagrywana",
         "value_0": "Nie",
         "value_1": "Tak"
@@ -225,7 +225,7 @@
         "session_banned": "Twoje konto zostało zablokowane.",
         "session_full": "Ta sesja ma już 25 użytkowników.",
         "session_general": "Błąd przy połączeniu z sesją.",
-        "session_join": "Nie można dołaczyć do gry",
+        "session_join": "Nie można dołączyć do gry",
         "session_locked": "Ta sesja została zablokowana.\nTylko siedzący gracze i Bajarze mogą dołączyć.",
         "session_not_found": "Nie znaleziono sesji gry.",
         "session_public": "Nie możesz dołączać do publicznych sesji gier.",
@@ -318,6 +318,7 @@
       "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana do nas automatycznie. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
       "text1": "Niniejsza aplikacja (w wersji {version}) jest w rozbudowie.",
       "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego konta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
+      "text3": "Jeśli chcesz skontaktować się z moderacją, wyślij email na {0}.",
       "welcome": "Witaj w {0}!"
     },
     "npc": {
@@ -380,10 +381,10 @@
         },
         "focus": {
           "text": "Głos ma gracz Nominowany.",
-          "title": "Uwaga dla Nominowanego"
+          "title": "Uwaga dla nominowanego"
         },
         "phases": {
-          "text": "Tylko Nominujący i Nominowany mogą mówić.",
+          "text": "Tylko nominujący i nominowany mogą mówić.",
           "title": "Oskarżenie i obrona"
         },
         "regular": {
@@ -393,6 +394,8 @@
       },
       "option_disabled": "Wyłączony",
       "patreon_link": "Połącz z kontem na Patreon",
+      "patreon_link_text": "Możesz zamknąć to okno.",
+      "patreon_link_title": "Połączono konto Patreon",
       "patreon_perks": "Ustawianie własnych avatarów i specjalne plakietki imienne są dostępne z płatną {0}!",
       "patreon_perks2": "subskrypcją Patreona",
       "patreon_update": "Zaktualizuj status Patreon",
@@ -595,12 +598,12 @@
     },
     "user": {
       "button_add_st": "Dodaj Bajarza",
-      "button_block_user": "Zablokuj Użytkownika",
+      "button_block_user": "Zablokuj użytkownika",
       "button_cancel_st": "Anuluj zaproszenie dla nowego Bajarza",
       "button_kick_user": "Wykop użytkownika",
       "button_mod_user": "Moderuj",
       "button_remove_st": "Usuń Bajarza",
-      "button_unblock_user": "Odblokuj Użytkownika",
+      "button_unblock_user": "Odblokuj użytkownika",
       "error": "Wystąpił błąd podczas ładowania szczegółów o użytkowniku.",
       "grimoire_access_grant": "Przyznaj dostęp do Grymuaru",
       "grimoire_access_revoke": "Odbierz dostęp do Grymuaru",
