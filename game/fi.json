@@ -759,7 +759,7 @@
       "flavor": "Haluaisitko, etkö, olla kamuni, mörököllini? <murahdus><virnistys></murahdus>"
     },
     "oracle": {
-      "ability": "Joka yö*, saat tietää, kuinka moni kuolleista pelaajista on paha.",
+      "ability": "Joka yö*, saat tietää, kuinka moni paha on kuollut.",
       "name": "Oraakkeli",
       "other": "Anna sormimerkki."
     },
