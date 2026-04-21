@@ -772,20 +772,83 @@
       "ability": "Joka yö, jos kuolleita on vähintään yhtä paljon kuin eläviä, opit 1 elävän hahmon. Demoni tietää, että olet kuningas.",
       "first": "Herätä Demoni: Näytä *TÄMÄ PELAAJA ON* & Kuningas -merkit, osoita sitten Kuningasta.",
       "flavor": "Kuolevaisen kamppailun tuntemattomien kantojen / Ja sairaalloisen, arvoituksellisten surujen yön välissä / Piilevät kohtalon väritetyn pitkän elämän kahleettomat ilot / Jonka tarha kukkii jokaisen maalatun Kasvon Näkyinä.",
-      "name": "Kuningas"
+      "name": "Kuningas",
+      "other": "Jos kuolleita on vähintään yhtä paljon kuin eläviä, näytä elävän pelaajan hahmo."
+    },
+    "klutz": {
+      "ability": "Kun saat tietää kuolleesi, valitse julkisesti 1 elävä pelaaja: jos tämä on paha, joukkueesi häviää.",
+      "flavor": "Hups.",
+      "name": "Tunari"
+    },
+    "knaves": {
+      "ability": "Tarinankertojia on 2: valehtelija & totuudenpuhuja. Kerran pelissä, iltaruskossa, tilanne saattaa kääntyä.",
+      "flavor": "Joka seinä on ovi. Joka ateria on juhla.",
+      "name": "Veijarit"
+    },
+    "knight": {
+      "ability": "Aloitat tietäen 2 pelaajaa, jotka eivät ole Demoneja.",
+      "first": "Osoita kohti kahta *TIEDÄT* -pelaajaa.",
+      "flavor": "Kun mies valehtelee, murhaa hän palasen maailmaa.",
+      "name": "Ritari"
+    },
+    "legion": {
+      "ability": "Joka yö*, pelaaja saattaa kuolla. Teloitukset epäonnistuvat jos vain pahat äänestivät. Näyttäydyt myös Kätyrinä. [Suurin osa pelaajista on Leegio]",
+      "flavor": "Olemme talvipäivän kylmä tuuli. Olemme varjo kuuttomassa yössä. Olemme myrkky teessäsi ja kuiskaus korvissasi. Meitä on kaikkialla.",
+      "name": "Leegio",
+      "other": "Pelaaja saattaa kuolla. :reminder:"
+    },
+    "leviathan": {
+      "ability": "Jos enemmän kuin 1 hyvä pelaaja teloitetaan, paha voittaa. Kaikki tietävät, että olet pelissä. Paha voittaa 5. päivän päätteeksi.",
+      "first": "Ilmoita, että Leviatan on pelissä. :reminder:",
+      "flavor": "Viimeiseen asti kanssasi painin. Helvetin sydämestä sinua isken. Vihan tähden, syljen viimeisen henkäykseni sinuun.",
+      "name": "Leviatan",
+      "other": "Vaihda Leviatanin muistutusmerkki asiaankuuluvaan päivään. :reminder: Voit ilmoittaa, että Leviatan on pelissä."
     },
     "librarian": {
-      "first": "Näytä Hylkiö-hahmomerkki. Osoita sekä *HYLKIÖ* että *VÄÄRÄ* -pelaajia kohti."
+      "ability": "Aloitat tietäen, että 1 kahdesta pelaajasta on tietty Hylkiö. (Tai ettei pelissä ole yhtään.)",
+      "first": "Näytä Hylkiö-hahmomerkki. Osoita sekä *HYLKIÖ* että *VÄÄRÄ* -pelaajia kohti.",
+      "flavor": "Hyvä rouva, normaalioloissa voisitte toki lainata Codex Malificariumin kirjastoholvistamme. Ette kuitenkaan näytä olevan jäsen.",
+      "name": "Kirjastonhoitaja"
+    },
+    "lilmonsta": {
+      "ability": "Joka yö, Kätyrit valitsevat kuka hoitaa Pikku Riiviötä & \"on Demoni\". Joka yö*, pelaaja saattaa kuolla. [+1 Kätyri]",
+      "first": "Herätä Kätyrit. Nämä valitsevat pelaajan. :reminder: Laita Kätyrit nukkumaan. Herätä kohde. Näytä *SINÄ OLET* & Pikku Riiviö -merkit.",
+      "flavor": "Vaihe 1: Ole söpö. Vaihe 2: Maailmanherruus. Vaihe 3: Aamuphala.",
+      "name": "Pikku Riiviö",
+      "other": "Herätä Kätyrit, jotka valitsevat pelaajan. Laita Kätyrit nukkumaan. Herätä kohde. Näytä *SINÄT OLET* & Pikku Riiviö -merkit. Pelaaja saattaa kuolla. :reminder:"
     },
     "lleech": {
-      "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin."
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Aloitat valitsemalla pelaajan: tämä on myrkytetty. Kuolet vain ja ainoastaan jos tämä kuolee.",
+      "first": "Iilimato valitsee pelaajan. :reminder:",
+      "flavor": "Maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas, maukas aiv- tarkoitan torttua! Kyllä. Maukas torttu. Juuri sitä meinasin.",
+      "name": "Iilimato",
+      "other": "Iilimato valitsee pelaajan. :reminder:"
     },
     "lordoftyphon": {
       "ability": "Joka yö*, valitse pelaaja: tämä kuolee. [Pahat ovat rivissä & sinä olet keskellä. +1 Kätyri. -? tai +? Hylkiötä]",
+      "first": "Herätä Suur-Typerryksen naapurit. Näytä *SINÄ OLET* ja Kätyri -merkit & peukku alas.",
+      "flavor": "Kosmoksen varjoisissa ja unohdetuissa nurkissa, missä tähdet kuiskaavat salaisuuksia tyhjyyksiin, piilee niin syvällinen totuus, että pieninkin vilaus siitä purkaa kuolevaisten mielen järjen.",
+      "name": "Suur-Typerrys",
       "other": "Suur-Typerrys valitsee pelaajan. :reminder:"
     },
     "lunatic": {
-      "name": "Mielipuoli"
+      "ability": "Luulet olevasi Demoni, mutta etpä olekaan. Demoni tietää kuka olet & kenet valitset öisin.",
+      "first": "Jos pelissä on 7 pelaajaa tai enemmän, herätä Mielipuoli: Näytä *NÄMÄ OVAT KÄTYRISI* -merkki. Osoita keitä tahansa pelaajia. Näytä *NÄMÄ HAHMOT EIVÄT OLE PELISSÄ* -merkki. Näytä 3 hyvää hahmoa. Laita Mielipuoli takaisin nukkumaan. Herätä Demoni. Näytä \"SINÄ OLET\" -merkki ja Demonimerkki. Näytä \"TÄMÄ PELAAJA ON\" -tietomerkki sekä Mielipuolimerkki ja osoita sitten Mielipuolta.",
+      "flavor": "Olen itse yö... luulisin.",
+      "name": "Mielipuoli",
+      "other": "Tee mitä vain tarvitseekin teeskennelläksesi Demonin toimintaa. Laita Mielipuoli nukkumaan. Herätä Demoni. Näytä Mielipuolimerkki & osoita tätä kohti, sitten tämän kohteita."
+    },
+    "lycanthrope": {
+      "ability": "Joka yö*, valitse elävä pelaaja. Hyvä kohde kuolee & Demoni ei tapa yöllä. Yksi hyvä pelaaja näyttäytyy Demonina.",
+      "flavor": "Sivilisaation ohuen pintakiillon alla piilee ulvova hulluus.",
+      "name": "Ihmissusi",
+      "other": "Ihmissusi valitsee pelaajan. :reminder:"
+    },
+    "magician": {
+      "ability": "Demoni luulee, että olet Kätyri. Kätyrit luulevat, että olet Demoni.",
+      "first": "Osoita Kätyreille Taikuria ja Demonia Kätyrien tiedonannon aikana. Osoita Demonille tämän tiedonannossa Taikuria ja Kätyreitä.",
+      "flavor": "1... 2... Abra... 3... 4... Kadabra... *puuf!* Ja kuten näette, hyvät naiset ja herrat, kapteeni Farnsworthin kultasäkki on kadonnut! Mennyt! Jäljettömiin! Kiitos ja hyvää yötä!",
+      "name": "Taikuri"
     },
     "marionette": {
       "ability": "Luulet olevasi hyvä hahmo, mutta et ole. Demoni tietää kuka olet. [Naapurisi on Demoni]",
@@ -793,15 +856,65 @@
       "flavor": "Sanat, sanat. Niillä meidän on vain jatkettava.",
       "name": "Sätkynukke"
     },
+    "mastermind": {
+      "ability": "Jos Demoni kuolee teloitukseen (pelin päättääkseen), pelataan vielä 1 päivä. Jos joku teloitetaan, häviää tämän joukkue.",
+      "flavor": "Tuon hirviön lonkerot on kirkon oviin naulattu. Äidit ja lapset tanssivat kaduilla. Erinomaista. Kaikki etenee juuri niin kuin olen suunnitellutkin.",
+      "name": "Välkky"
+    },
     "mathematician": {
+      "ability": "Joka yö, saat tietää, kuinka monen pelaajan kyvyt toimivat epänormaalisti (aamunkoitosta asti) toisen hahmon kyvyn vuoksi.",
       "first": "Anna sormimerkki.",
+      "flavor": "Mikä tahansa johdonmukainen muodollinen systeemi x, jonka sisällä tietty määrä alkeellisia laskuja voidaan suorittaa, on epätäydellinen; toisin sanoen x-kielessä on lauseita, joita ei voida todistaa eikä kumota sen sisällä. Ergo, olet juopunut.",
+      "name": "Matemaatikko",
       "other": "Anna sormimerkki."
     },
+    "matron": {
+      "ability": "Voit valita joka päivä enintään 3 kpl 2 pelaajan joukkioita vaihtamaan paikkoja päikseen. Pelaajat eivät saa nousta tuoleiltaan keskustellakseen keskenään.",
+      "flavor": "Neiti Featherbottom, olkaahan hiljaa. Herra Rutherford, teekuppiin tartutaan neljällä sormella, kiitos. Tiedän, että olette yhdeksän lapsen isä, mutta ikä tai sen tapauskohtainen puute, ei ole koskaan tekosyy huonolle käytökselle.",
+      "name": "Matami"
+    },
+    "mayor": {
+      "ability": "Mikäli vain 3 pelaajaa on elossa eikä ketään teloiteta, voittaa joukkueesi. Jos kuolet yöllä, saattaa joku toinen kuolla sijastasi.",
+      "flavor": "Meidän on jätettävä erimielisyytemme sivuun ja lopetettava tämä järjetön tappaminen. Olemmehan kaikki veronmaksajia. No, useimmat meistä.",
+      "name": "Pormestari"
+    },
+    "mezepheles": {
+      "ability": "Aloitat tietäen salaisen sanan. 1. hyvä pelaaja joka tämän sanan sanoo, muuttuu tulevana yönä pahaksi.",
+      "first": "Näytä salainen sana.",
+      "flavor": "Se, mikä pelkästään sydämestä kumpuaa, kääntää muiden sydämet puoleesi.",
+      "name": "Kuiskaaja",
+      "other": "Jos hyvä pelaaja sanoi salaisen sanan, herätä tämä pelaaja. Näytä *SINÄ OLET* -merkki & peukkua alas. :reminder: :reminder:"
+    },
+    "minioninfo": {
+      "first": "Jos pelissä on 7 pelaajaa tai enemmän, herätä kaikki Kätyrit: Näytä *TÄMÄ ON DEMONI* -merkki. Osoita Demonia. Näytä *NÄMÄ OVAT KÄTYRISI* -merkki. Osoita muita Kätyreitä.",
+      "name": "Kätyritieto"
+    },
     "minstrel": {
-      "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti."
+      "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti.",
+      "flavor": "Ja minä kuulen, vaik kuin pehmeästi askellat ylläni... Ja kaik unistain lämpöisiä ja yhä suloisempia näin ovat... Jos et minulle rakkauttasi tunnustamatta jätä... Uinun minä rauhas, kunnes luokseni palaat.",
+      "name": "Trubaduuri"
+    },
+    "monk": {
+      "ability": "Joka yö*, valitse pelaaja (ei itseäsi): tämä on turvassa Demonilta tänä yönä.",
+      "flavor": "Ikäväisen kuolettava tuuli tänä yönä puhaltelee. Tulehan, veljeni, luostarin suojaan myrskyn raivotessa. Sanani, tai henkeni, kautta turvassa olet.",
+      "name": "Munkki",
+      "other": "Munkki valitsee pelaajan. :reminder:"
+    },
+    "moonchild": {
+      "ability": "Kun saat tietää kuolleesi, valitse julkisesti 1 elävä pelaaja. Jos kyseessä oli hyvä pelaaja, kuolee tämä tänä yönä.",
+      "flavor": "Skorpioni vilkaisee rakastavaisiin päin sivusilmällä, ja sinun on tehtävä valinta. Hopealla risti käteni, ja kohtalosi paljastuu. Teräksellä risti kurkkuni, ja tähtien nimeen tulet sitä katumaan.",
+      "name": "Kuukakara",
+      "other": "Jos Kuukakaran on määrä tappaa hyvä pelaaja, kuolee tämä. :reminder:"
     },
     "mutant": {
-      "ability": "Jos olet \"raivoissasi\" siitä, että olet Hylkiö, saatat joutua teloitetuksi."
+      "ability": "Jos olet \"raivoissasi\" siitä, että olet Hylkiö, saatat joutua teloitetuksi.",
+      "flavor": "En ole mikään friikki! Olen ihan ihminen! Ole armollinen!",
+      "name": "Mutantti"
+    },
+    "nightwatchman": {
+      "ability": "Kerran pelissä, yöllä, valitse pelaaja: tämä saa tietää, että olet Yövahti.",
+      "first": "Yövahti saa valita pelaajan. Laita Yövahti takaisin nukkumaan. Herätä kohde. Näytä *TÄMÄ PELAAJA ON* & Yövahti -merkit, ja osoita sitten Yövahtia. :reminder:",
+      "flavor": "On yö kolkko ja kolea, mutta mul on seuranain kuu, tähtöset, raikas tuulonen ja nahk'saappaitteni pehmyt tömähtely mukulaisil kivil. Tuolko tuikun valo lepattaa hämäräisen akkunan takan..."
     },
     "ogre": {
       "ability": "1. yönäsi valitse pelaaja (ei itseäsi): siirryt tämän puolelle (et tiedä, kummalle), vaikka olisit juopunut tai myrkytetty.",
