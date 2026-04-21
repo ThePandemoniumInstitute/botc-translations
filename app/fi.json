@@ -772,6 +772,7 @@
       "no_majority": "Enemmistöä ei tarvita",
       "pointing": "Osoitetaan {0}",
       "secret": "Äänestys on salainen.",
+      "secret_vote": "Piiloäänestys",
       "warning_shortcuts": "Pikanäppäimet ovat poissa käytöstä!"
     }
   },
