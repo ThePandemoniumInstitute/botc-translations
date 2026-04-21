@@ -771,6 +771,7 @@
       "majority": "Enemmistö on {0} ääni|Enemmistö on {0} ääntä",
       "no_majority": "Enemmistöä ei tarvita",
       "pointing": "Osoitetaan {0}",
+      "secret": "Äänestys on salainen.",
       "warning_shortcuts": "Pikanäppäimet ovat poissa käytöstä!"
     }
   },
