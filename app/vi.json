@@ -49,7 +49,7 @@
       },
       "subscription": {
         "label": "Cần Đăng Ký",
-        "title": "Tham gia trò chơi này cần có đăng ký có hiệu lực"
+        "title": "Để tham gia trò chơi này, bạn cần có một gói đăng ký còn hiệu lực"
       },
       "travellers": {
         "label": "Du khách",
@@ -67,7 +67,7 @@
   "grimoire": {
     "abilities": {
       "distribute-roles": "Phát Vai Trò",
-      "ghost-votes": "Trả Phiếu Ma",
+      "ghost-votes": "Trả Phiếu người chết",
       "grimoire": "Cho xem Cấm thư",
       "open-eyes": "Mở/Nhắm Mắt",
       "pointing": "Chọn Người Chơi"
@@ -82,7 +82,7 @@
       "end": "Trong thời gian giữa các ván chơi",
       "first_night": "Đêm Đầu Tiên",
       "night": "Đêm Đầu Tiên|Đêm Thứ {n}",
-      "other_nights": "Đêm Còn Lại",
+      "other_nights": "Những đêm Còn Lại",
       "start": "Đang Chuẩn Bị Đêm 1"
     },
     "player": "Người chơi {0}",
@@ -104,12 +104,12 @@
     "download": "Tải {0} Ứng dụng",
     "edition": "Chọn Kịch Bản",
     "error_audio": "Trình duyệt của bạn chặn ứng dụng cho việc {0}. Hãy bấm vào đây để bắt đầu nhắn tin.",
-    "error_audio2": "tự phát tin nhắn giọng nói",
-    "error_audio3": "Bạn có thể cần phải {0} ở Firefox để nghe tiếng từ ứng dụng.",
-    "error_audio4": "đổi cài đặt",
+    "error_audio2": "tự phát tin nhắn thoại",
+    "error_audio3": "Bạn có thể cần phải {0} ở Firefox để nghe âm thanh từ ứng dụng.",
+    "error_audio4": "thay đổi cài đặt",
     "fullscreen": "Toàn màn hình",
     "gather": "Tập Hợp Người Chơi",
-    "gong_attention": "Chiêng Chú Ý",
+    "gong_attention": "Chuông tập trung",
     "gong_recall": "Gọi về Quảng Trường",
     "grim_access": "Bạn đã được nhận quyền truy cập Cấm thư",
     "help": "Giúp",
@@ -121,8 +121,8 @@
     "night_info_text": "Người kể truyện gọi bạn dậy đêm nay!",
     "night_sheet": "Tờ Thứ Tự Ban Đêm",
     "npcs": "Thêm NPC",
-    "prompt_clear_player": "Bạn có chắc bạn muốn loại bỏ tất cả token ghi chú và nhân vật của tất cả người chơi hay không?",
-    "prompt_clear_st": "Việc này sẽ dọn sạch Cấm thư và token ghi chú cho bạn và tất cả mọi người. Bạn chắc không?",
+    "prompt_clear_player": "Bạn có chắc chắn muốn xóa tất cả nhân vật người chơi và các thẻ ghi nhớ không?",
+    "prompt_clear_st": "Thao tác này sẽ dọn sạch Cấm Thư và các Dấu ấn ghi nhớ của bạn cũng như của tất cả mọi người. Bạn có chắc chắn không?\"",
     "prompt_clear_title": "Dọn sạch Cấm thư và Token Ghi chú",
     "prompt_timer_text": "Chọn thời lượng và tiêu đề (tùy chọn) cho hẹn giờ:",
     "prompt_timer_title": "Đặt hẹn giờ",
