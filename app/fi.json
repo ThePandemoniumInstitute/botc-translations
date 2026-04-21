@@ -773,15 +773,29 @@
       "pointing": "Osoitetaan {0}",
       "secret": "Äänestys on salainen.",
       "secret_vote": "Piiloäänestys",
+      "votes": "{0} ääni tasuriin, {1} teloitukseen|{0} ääntä tasuriin, {1} teloitukseen",
       "warning_shortcuts": "Pikanäppäimet ovat poissa käytöstä!"
+    },
+    "whisper": {
+      "muted": "Tämä pelaaja on mykistetty / hiljennetty äänikeskustelussa.",
+      "video_muted": "Tämän pelaajan kamera on pysähtynyt / poissa käytöstä."
     }
   },
   "pages": {
     "banned": {
+      "description": "Tilisi on {0} viimeaikaisten toimiesi vuoksi, eikä sitä voi enää käyttää sovelluksessa pelaamiseen.",
+      "description_banned": "kielletty",
+      "expires": "Tilisi on suljettu tähän saakka:",
+      "expires2": "Pidättäydythän toistuvista rikkomuksista, tai tilisi voidaan sulkea pysyvästi.",
+      "footer1": "Jos tarvitset apua, otathan meihin yhteyttä osoitteeseen {0}.",
+      "footer2": "Muistathan:",
       "footer3": "Tapa kohteliaasti ja kuole arvokkaasti.",
-      "reason": "Annettu perustelu on seuraavanlainen:"
+      "permanent": "Tilisi on suljettu pysyvästi.",
+      "reason": "Annettu perustelu on seuraavanlainen:",
+      "title": "Tili Suljettu"
     },
     "clock": {
+      "description": "Tietokoneesi kello on tällä hetkellä pielessä {0} verran. Tämä voi aiheuttaa toimintahäiriöitä verkkopelaamisen aikana. Voit synkronoida tietokoneesi kellon {1}. Päivitä sovelluksesi näkymä, kun synkronointi on valmis.",
       "description_mins": "1 minuutti|{n} minuuttia",
       "description_online": "online"
     },
@@ -790,42 +804,44 @@
       "bootlegger_warning": "Tässä peli-istunnossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on täydellinen ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?",
       "button_create_game": "Luo Peli",
       "button_help": "Apua",
-      "button_join_game": "Liity Yksityiseen Peliin",
-      "button_local_play": "Paikallinen Peli",
+      "button_join_game": "Liity Yksityispeliin",
+      "button_local_play": "Paikallispeli",
       "button_mod": "Moderoi",
       "button_quit": "Lopeta",
       "button_settings": "Asetukset",
       "button_verify": "Vahvista Tili",
       "characters": "Hahmot",
       "create_game": "Luo Uusi Peli",
-      "edition_by": "luonut {author}",
-      "forced_private": "Et voi enää pelata julkisissa peleissä.",
+      "edition_by": "tehnyt {author}",
+      "forced_private": "Et voi enää pelata julkipeleissä.",
       "free_tier_free": "Maksuton",
       "free_tier_patreon": "Patreon",
-      "free_tier_verified": "Sinulla on {0} tili. Tarvitset {1} ennen kuin voit pelata julkisissa peleissä. Mikäli haluat järjestää omia pelejä, hanki tilaus {2}.",
+      "free_tier_unverified": "Sinulla on {0}-tili. Voit pelata mitä tahansa yllä olevista peleistä napsauttamalla vasemmalla olevaa painiketta, elleivät ne vaadi erikseen tilausta. Jos haluat isännöidä omia pelejäsi, hanki tilaus {1}.",
+      "free_tier_verified": "Sinulla on {0} tili. Tarvitset {1} ennen kuin voit pelata julkipeleissä. Mikäli haluat järjestää omia pelejä, hanki tilaus {2}.",
       "free_tier_verify": "vahvista tilisi",
       "game": "Peli",
       "language": "Kieli",
       "loading": "Ladataan pelejä...",
-      "no_games": "Julkisia pelejä ei löydetty.",
+      "no_games": "Julkipelejä ei löydetty.",
       "npcs": "Ei-Pelaaja-Hahmot",
-      "page": "Sivu {page} sivuista {total}",
+      "page": "Sivu {page} / {total}",
       "phase": "Vaihe",
       "players": "Pelaajat",
       "script": "Käsikirjoitus",
-      "show_private": "Näytä yksityiset pelit",
+      "show_private": "Näytä yksityispelit",
       "spectators": "Sivustaseuraajat",
-      "stats": "{0} käyttäjät ovat {1} {2} peleissä",
-      "stats_public": "julkinen",
+      "stats": "{0} käyttäjää on {1} {2} pelissä",
+      "stats_public": "julkisessa",
       "storyteller": "Tarinankertoja",
       "subscription": "Tilaustaso",
       "updating": "Päivitetään...",
-      "welcome": "Tervetuloa {0}!"
+      "welcome": "Tervetuloa {0}en!"
     },
     "login": {
+      "accept_policies": "Hyväksy ehdot {0}, {1}, {2} & {3}.",
       "description": "Kirjaudu sisään tai tuo käyttäjätili jatkaaksesi:",
       "email": "Sähköpostiosoite",
-      "error_captcha": "Ystävällisesti täytä captcha",
+      "error_captcha": "Vahvista ystävällisesti captcha",
       "error_password": "Salasanat eivät täsmää",
       "login": "Kirjaudu",
       "password": "Salasana",
@@ -833,32 +849,33 @@
       "password_reset": "Ohjeet salasanan nollaukseen on lähetetty tiliin liitettyyn sähköpostiosoitteeseen.",
       "recover_password": "Palauta Salasana",
       "register": "Näyttäytyy",
-      "subscribe": "Tilaa Uutiskirje",
-      "title": "Tervetuloa Verta Kellotornissa Onlineen - Työn alla!",
+      "subscribe": "Tilaa Postituslista",
+      "title": "Tervetuloa Blood on the Clocktower Onlineen - Työn alla!",
       "username": "Käyttäjänimi"
     },
     "update": {
       "description": "Käytät tällä hetkellä versiota {0}, mutta uusin versio on {1}.",
-      "download": "Lataa viimeisin versio {label}täältä.",
-      "reload": "Päivittääksesi sivun, lataa se ystävällisesti uudelleen tai tyhjennä selaimen välimuisti.",
-      "title": "Päivitä ystävällisesti Sovelluksesi"
+      "download": "Lataa viimeisin {label} -versio täältä.",
+      "reload": "Lataa sivu uudelleen tai tyhjennä selaimesi välimuisti päivittääksesi.",
+      "title": "Päivitä Sovelluksesi"
     },
     "verification": {
-      "button_resend": "Lähetä koodi uudestaan",
-      "code": "6 numeroinen koodi",
+      "button_resend": "Uudelleenlähetä koodi",
+      "code": "6-numeroinen koodi",
       "description": "Vahvista tilisi jatkaaksesi. Lähetimme koodin sähköpostiosoitteeseesi – syötä se jatkaaksesi. Etkö pääse sähköpostiisi?",
       "email_success": "Sähköposti lähetetty onnistuneesti.",
-      "error_429": "Odota ystävällisesti {0} sekuntia ennen uudestaan yrittämistä.",
+      "error_429": "Odota ystävällisesti {0} sekuntia ennen uudelleenyritystä.",
       "error_disposable": "Kertakäyttöisiä sähköpostiosoitteita ei voi käyttää tilin vahvistamiseen.",
-      "error_verified": "Jo vahvisettu",
+      "error_verified": "Jo vahvistettu",
       "error_wrong": "Virheellinen koodi, yritä uudestaan.",
       "link": "Voit muuttaa sen täältä."
     }
   },
   "player": {
     "menu": {
+      "alignment": "Vaihda Puolta",
       "character": "Muuta Hahmoa",
-      "chat": "Pyydä Yksityistä Keskustelua",
+      "chat": "Pyydä Yksityiskeskustelua",
       "empty_title": "Tyhjää {0} Paikka"
     },
     "name": {
