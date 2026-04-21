@@ -1203,14 +1203,16 @@
       "other": "Varas valitsee pelaajan. :reminder:"
     },
     "tinker": {
-      "ability": "Saatat kuolla koska tahansa.",
+      "ability": "Saatat kuolla milloin vain.",
       "flavor": "Taidan tietää mikä ongelma on. Onneksi minulla on idea! Katapultti tulee ampumaan kaksinkertaisen matkan vain pienellä säädöllä...",
-      "name": "Nikkaroija",
-      "other": "Nikkaroija saattaa kuolla. :reminder:"
+      "name": "Nikkari",
+      "other": "Nikkari saattaa kuolla. :reminder:"
     },
     "tor": {
+      "ability": "Pelaajat eivät tiedä hahmoaan tai puoltaan. He saavat tietää nämä kuollessaan.",
       "flavor": "Ukkonen äänenäni ja salama miekkanani, minä, iänkaikkinen vartija, herkuttelen niillä typeryksillä, jotka kehtaavat lähestyä kiellettyä porttia. Katso, pyhä päämääräni! Puhdistaa kuoriainen karun maan vatsasta, kietoa pauloihin tähtien verkon, kukkulalla jossa taivas kohtaa maan.",
-      "name": "Tor"
+      "name": "Tor",
+      "other": "Jos pelaaja kuoli tänä yönä, näytä *SINÄ OLET*, tämän hahmo & peukku -merkit."
     },
     "towncrier": {
       "ability": "Joka yö*, saat tietää, nimittikö Kätyri tänään.",
@@ -1219,79 +1221,109 @@
       "other": "Joko nyökkää tai pudista päätäsi."
     },
     "toymaker": {
+      "ability": "Demoni saa valita olla hyökkäämättä & tämän täytyy ainakin kerran pelissä näin tehdäkin. Pahat pelaajat saavat normaalit aloitustiedot.",
+      "first": "Jaa kaikki Kätyri- ja Demonitiedot, vaikka pelaajia olisi alle 7.",
       "flavor": "Se surisee! Se kävelee rappusia alas! Se pitää sinut lämpimänä öisin! Se maistuu sokerille! Muksut rakastavat sitä! Saanen esittää... upouusi... Lämpösurrauskävelyjuttuhärpäke! Iloa koko perheelle!",
-      "name": "Leluntekijä"
+      "name": "Leluntekijä",
+      "other": "Jos Demonin hyökkäys voisi päättää pelin, ja Demoni on merkitty *VIIMEINEN YÖ: EI HYÖKKÄÄ*, älä herätä Demonia."
     },
     "undertaker": {
       "ability": "Joka yö*, saat tietää mikä hahmo kuoli teloitukseen tänään.",
       "flavor": "Hmmm....mitäs meillä täällä on? Vasen saapas on kulunut korkoon asti ja kielen alta löytyy kiviä. Tämä on sotilaan varustus.",
-      "name": "Haudankaivaja"
+      "name": "Haudankaivaja",
+      "other": "Jos pelaaja teloitettiin tänään, näytä tämän hahmo."
     },
     "ventriloquist": {
+      "ability": "Jos pelaaja on nimitystilanteessaan raivona uutena hahmona, ei tämä välttämättä kuole teloitukseen.",
+      "flavor": "No niin, kööri, kokoontukaapa tänne! Tässä on ystäväni Kalle, jollapa on semmoinen suu, että muulikin punastuisi. Mutta älkääpä huoliko, minä hoidan puhumisen... vai mitenkäs?",
       "name": "Käsinukke"
     },
     "vigormortis": {
-      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 Kyläläisnaapurinsa. [-1 Hylkiö]"
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Tappamasi Kätyrit säilyttävät kykynsä & myrkyttävät 1 Kyläläisnaapurinsa. [-1 Hylkiö]",
+      "flavor": "Kaikki ovet ovat yhtä ja samaa. Kaikki avaimet ovat samoja. Kaikki maljat ovat se sama malja, mutta joka juopi minun antamaani vettä, ei ikinä janoa koe, vaan se vesi on hänessä lähde, joka kumpuaa iankaikkiseen elämään.",
+      "name": "Puhkikuolio",
+      "other": "Puhkikuolio valitsee pelaajan. :reminder: Jos tuo pelaaja on Kätyri, myrkytä viereinen Kyläläinen. :reminder: :reminder:"
     },
     "villageidiot": {
       "ability": "Joka yö, valitse pelaaja: saat tietää millä puolella tämä on. [+0 - +2 Kylähullua. 1 ylimääräisistä on juopunut.]",
-      "name": "Kylähullu"
+      "first": "Jos Kylähulluja on useampi, yksi on *JUOPUNUT*. :reminder: Herätä Kylähullut yksi kerrallaan valitsemaan pelaaja. Anna peukalomerkki.",
+      "flavor": "Ruusut ovat sinisiä ja orvokit punaisia, Käännäthän juuri sanomani päälaelleen.",
+      "name": "Kylähullu",
+      "other": "Herätä Kylähullut yksi kerrallaan valitsemaan pelaaja. Anna peukalomerkki."
     },
     "virgin": {
-      "ability": "1. kerta, kun sinut Nimitetään, jos nimittäjä on Kyläläinen, heidät teloitetaan heti.",
+      "ability": "1. kerta, kun sinut nimitetään, ja nimeäjä on Kyläläinen, teloitetaan tämä heti.",
       "flavor": "Olen puhdas. Antaa synnittömien kärsiä puolestani. Kunniaani ei tule tahria katkerilla syytöksillänne.",
       "name": "Neitsyt"
     },
     "vizier": {
+      "ability": "Kaikki tietävät, että olet Visiiri. Et voi kuolla päivän aikana. Jos hyvä pelaaja äänesti, voit teloittaa nimitetyn välittömästi.",
+      "first": "Ilmoita kuka pelaajista on Visiiri.",
       "flavor": "Oivallinen valinta, kuten aina, herra. Piispaan tömräämisen kaltainen pikkurikos tosiaan ansaitsee 'oikeudenmukaisuutesi' ja 'armosi'. Käy kävelyllä puutarhoissa. Käy galleriassa tutki Von Straufin veistoksia. Rentoudu, herra. Jätä kaikki... minulle.",
       "name": "Visiiri"
     },
     "vortox": {
-      "ability": "Joka yö*, valitse pelaaja: hän kuolee. Kyläläisten kyvyt tuottavat väärää tietoa. Joka päivä, jos ketään ei teloiteta, paha voittaa."
+      "ability": "Joka yö*, valitse pelaaja: tämä kuolee. Kyläläisten kyvyt tuottavat väärää tietoa. Joka päivä, jos ketään ei teloiteta, paha voittaa.",
+      "flavor": "Musta on valkoista. Oikea väärää. Vasen on oikea. Ylös pitkään. Alas on näky. Lyhyt on sokea. Seuraa minua. Vastaukset löydä.",
+      "name": "Pyörrö",
+      "other": "Pyörrö valitsee pelaajan. :reminder:"
     },
     "voudon": {
+      "ability": "Vain sinä & kuolleet voivat äänestää, ilman äänestysmerkin käyttöä. 50 % äänienemmistöä ei vaadita.",
+      "flavor": "Bien venu. Istu alas. Hengitä syvään. Astu kuolleiden maahan. Näe heidän silmillään. Puhu heidän äänellään. Yon sel lang se janm ase.",
       "name": "Voudon"
     },
     "washerwoman": {
-      "ability": "Aloitat tietäen, että yksi kahdesta pelaajasta on tietty Kyläläinen.",
-      "first": "Näytä Kyläläinen hahmomerkki. Osoita sekä *KYLÄLÄINEN* että *VÄÄRÄ* pelaajia.",
+      "ability": "Aloitat tietäen, että 1 kahdesta pelaajasta on tietty Kyläläinen.",
+      "first": "Näytä merkitty Kyläläinen. Osoita sekä *KYLÄLÄINEN* että *VÄÄRÄ* -pelaajia.",
       "flavor": "Veritahroja smokilla? Ei, tämä on ruoanlaitto sherryä. Olipa huolimatonta.",
       "name": "Pyykkäri"
     },
     "widow": {
       "ability": "1. yönäsi, katso Loitsukirjaa & valitse pelaaja: tämä on myrkytetty. 1 hyvä pelaaja tietää, että Leski on pelissä.",
-      "flavor": "Lisää viiniä? Château d’Ergot ’07 on hyvin erityinen vintage. Oi kyllä, erityinen tosiaan.",
+      "first": "Näytä Loitsukirjan sisältöä niin pitkään kuin Leski tarvitsee. Leski valitsee pelaajan. :reminder: Laita Leski takaisin nukkumaan. Herätä \"TIEDÄT\" -merkitty pelaaja & näytä Lesken merkki. :reminder:",
+      "flavor": "Lisää viiniä? Château d’Ergot ’07 on hyvin erityinen vuosikerta. Oih kyllä, hyvin erityinen tosiaan.",
       "name": "Leski"
     },
     "witch": {
-      "ability": "Joka yö, valitse pelaaja: jos hän nimittää huomenna hän kuolee. Jos vain 3 pelaajaa on hengissä, menetät tämän kyvyn.",
+      "ability": "Joka yö, valitse pelaaja: jos tämä nimittää huomenna, hän kuolee. Jos vain 3 pelaajaa on hengissä, menetät tämän kyvyn.",
       "first": "Noita valitsee pelaajan. :reminder:",
+      "flavor": "Kolme pisaraa vuohen verta. Vihasta revitty hiussuortuva. Nimi lausutaan, varjo heitetään. Kävele vasen jalka edellä tuota okapolkua pitkin, äläkä katso taaksesi.",
       "name": "Noita",
       "other": "Noita valitsee pelaajan. :reminder:"
     },
     "wizard": {
-      "ability": "Kerran pelissä, tee toive. Toteutuessaan sillä voi olla hintansa & jäättää jäljen luonteestaan.",
+      "ability": "Kerran pelissä, toivo jotain. Toteutuessaan toiveella saattaa olla hintansa & se jättää jäljen luonteestaan.",
+      "first": "Tee mitä vaan parhaaksi koet Velhon kyvyn tyydyttämiseksi.",
       "flavor": "Jokainen mies ja nainen on tähti. Rakkaus on laki, rakkaus tahdon alaisena.",
-      "name": "Velho"
+      "name": "Velho",
+      "other": "Tee mitä vaan parhaaksi koet Velhon kyvyn tyydyttämiseksi."
     },
     "wraith": {
       "ability": "Voit valita avata silmäsi yöllä. Heräät samaa aikaa muiden pahojen pelaajien kanssa.",
+      "first": "Herätä Räyhähenki aina kun toinen paha pelaaja herää.",
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
-      "name": "Haamu"
+      "name": "Räyhähenki",
+      "other": "Herätä Räyhähenki aina kun toinen paha pelaaja herää."
     },
     "xaan": {
       "ability": "Yönä X, kaikki Kyläläiset ovat myrkytettyjä iltaan asti. [X Hylkiötä]",
+      "first": "Jos X on 1, merkitse Tavaton *X* -muistutuksella. :reminder: :reminder:",
       "flavor": "Alas he putoavat. Yksi toisensa jälkeen. Kaksin, kolmin, viisin.",
-      "name": "Xaan"
+      "name": "Tavaton",
+      "other": "Vaihda Tavaton-muistutus asiaankuuluvaan yöhön. Jos on yö X, merkitse Tavaton *X* -merkillä. :reminder: :reminder:"
     },
     "yaggababble": {
-      "ability": "Aloitat tietäen salaisen fraasin. Jokaista kertaa kohden, kun sanoit sen tänään julkisesti pelaaja saatta kuolla.",
-      "flavor": "Murhat Rue Morguessa? Фальшивые новости! Vainukoirat Baskervillen nummella? Фальшивые новости! Kuolema Niilillä purjehtiessa? Фальшивые новости!"
+      "ability": "Aloitat tietäen salaisen fraasin. Pelaaja saattaa kuolla jokaista sen julkisesti sanomaasi kertaa kohden.",
+      "first": "Näytä Hölösuulle salainen fraasi.",
+      "flavor": "Murhat Rue Morguessa? Фальшивые новости! Vainukoirat Baskervillen nummella? Фальшивые новости! Kuolema Niilillä purjehtiessa? Фальшивые новости!",
+      "name": "Hölösuu",
+      "other": "Yksi pelaaja saattaa kuolla jokaista Hölösyyn tänään lausumaa fraasia kohden. :reminder:"
     },
     "zealot": {
-      "ability": "Jos 5 tai enemmän pelaajia on elossa, sinun täytyy äänestää joka nimittämisessä.",
+      "ability": "Mikäli eläviä pelaajia on 5 tai enemmän, on sinun äänestettävä joka nimityksessä.",
       "flavor": "Pidän keskusteluistamme. Älysi viehättää minua. Se muistuttaa omaani paitsi että satut olemaan hullu.",
-      "name": "Fanaatikko"
+      "name": "Kiihkoilija"
     },
     "zombuul": {
       "other": "Jos kukaan ei kuollut tänään, Zombuul valitsee pelaajan. :reminder:"
