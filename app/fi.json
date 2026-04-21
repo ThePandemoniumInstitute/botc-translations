@@ -1104,13 +1104,14 @@
     "players_alive": "{0} / {1} pelaajaa elossa",
     "reload": "Päivitä näkymä tai tyhjennä välimuisti aktivoidaksesi tuoreimman version.",
     "since": "{0} lähtien",
+    "translation_content": "Käytä Pelisisällön Käännöksiä",
     "translation_disclaimer": "Käytät tällä hetkellä paikallista versiota sovelluksesta. Tämän käännöksen ovat laatineet ja tarkistaneet seuraavat vapaaehtoiset, The Pandemonium Instituteen liittymättömät henkilöt:",
-    "translation_game": "Tämä pelisisällön käännös ei välttämättä vastaa täsmälleen The Pandemonium Instituutin laatimia virallisia englanninkielisiä pelisääntöjä.",
+    "translation_game": "Tämä pelisisällön käännös ei välttämättä vastaa täsmällisesti The Pandemonium Instituten laatimia virallisia englanninkielisiä pelisääntöjä.",
     "travellers_alive": "{0} / {1} kulkuria elossa",
     "update": "Päivitä!",
     "updating": "Päivitetään sovellusta versioon {0}...",
-    "warning_browser": "Käytät vanhaa ei tuettua selainta",
-    "warning_browser2": "{0}, mikä saattaa aiheuttaa ongelmia sovelluksen käytössä. Lataa uusimmat selaimen päivitykset tai vaihda toiseen selaimeen. Sovellus toimii parhaiten Firefox ja Chome selaimella.",
+    "warning_browser": "Käytät vanhentunutta tai ei-tuettua selainta",
+    "warning_browser2": "{0}, mikä saattaa aiheuttaa ongelmia sovelluksen käytössä. Lataa uusimmat selainpäivitykset tai vaihda toiseen selaimeen. Sovellus toimii parhaiten Firefox ja Chome -selaimilla.",
     "warning_update": "Sovellusversiosi on vanhentunut",
     "warning_update2": "{0}, viimeisin versio on {1}!"
   }
