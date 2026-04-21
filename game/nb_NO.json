@@ -44,10 +44,12 @@
     "drunk3": "Full 3",
     "everyoneisdrunk": "Alle er fulle",
     "evil": "Ond",
+    "evilwakes": "Onde våkner",
     "falseinfo": "Falsk info",
     "fear": "Frykt",
     "finalnightnoattack": "Siste natt: Ingen angrep",
     "friend": "Venn",
+    "goal": "Mål",
     "good": "God",
     "grandchild": "Barnebarn",
     "know": "Kjenner",
@@ -69,6 +71,7 @@
       "name": "Alkymist"
     },
     "angel": {
+      "ability": "Noe ille kan skje med hen som er mest ansvarlig for at en ny spiller dør.",
       "name": "Engel"
     },
     "apprentice": {
@@ -84,6 +87,7 @@
       "name": "Ateist"
     },
     "barber": {
+      "ability": "Hvis du dør i dag eller i natt, kan Demonen velge to spiller (ikke en annen Demon) som bytter roller.",
       "name": "Barberer"
     },
     "barista": {
