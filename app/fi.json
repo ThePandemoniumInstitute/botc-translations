@@ -655,31 +655,122 @@
       "execution": "Teloitus",
       "exile": "Karkotus",
       "majority": "Enemmistö",
-      "nominator": "Nimeäjä"
+      "nominator": "Nimeäjä",
+      "nominee": "Nimetty",
+      "phase": "Vaihe",
+      "pregame": "Ennen peliä",
+      "title": "Äänestyshistoria",
+      "type": "Tyyppi",
+      "voters": "Äänestäjät",
+      "votes": "Äänet"
     }
   },
   "overlays": {
     "attention": {
+      "attention": "Huomioo!",
       "return": "Palatkaahan takaisin Toriaukiolle!"
     },
+    "firstnight": {
+      "bluffs": "Valitse 3 tyhjää \"Demonin Bluffi\" -merkkiä Demonille jaettavaksi.",
+      "button_begin": "Aloita Ensimmäinen Yövaihe",
+      "gardener_button": "Lähetä Hahmot",
+      "gardener_text": "Kun olet tyytyväinen hahmovalintoihin, {0} pelaajillesi. Kun olet jakanut ne, voit jatkaa Ensimmäisen Yön järjestelyillä.",
+      "reminders": "Lisää tarvittavat {0} muistutusmerkit.",
+      "title": "Valmistele Ensimmäinen Yö"
+    },
     "gatherplayers": {
+      "button_add": "Lisää Paikka",
+      "button_clear": "Poista Tyhjät",
+      "button_clearall": "Poista Kaikki",
+      "button_select": "Valitse Painos",
+      "button_shuffle": "Sekoita Paikat",
+      "clear_text": "Oletko varma, että haluat poistaa kaikki pelaajat?",
+      "clear_title": "Poista kaikki pelaajat",
+      "move": "Siirrä {0}\nperään",
+      "shuffle_text": "Oletko varma, että haluat satunnaistaa istumapaikat?",
+      "shuffle_title": "Satunnaista istumapaikat",
+      "swap": "Vaihda{0}\nkanssa",
+      "text": "Lisää, sekoita tai poista pelaajapaikkoja täällä.",
+      "text2": "Kun paikkoja on tarpeeksi kaikille, {0}",
+      "title": "Kerää Pelaajasi",
       "warning": "Tarvitset vähintään 7 pelaajaa tavalliseen Korppikorpi-peliin."
     },
+    "nightaction": {
+      "open-eyes": {
+        "button_close": "Sulje",
+        "button_open": "Avaa",
+        "button_peek": "Kurkkaa",
+        "state_false": "Kiinni",
+        "state_open-eyes": "Auki",
+        "state_peek-eyes": "Kurkkaus",
+        "text": "Silmäsi ovat {0}",
+        "tooltip_false": "Et näe muiden pelaajien yösignaalia, etkä voi lähettää yksityisviestejä kenellekään muulle kuin naapureillesi ja Tarinankertojalle.",
+        "tooltip_open-eyes": "Voit lähettää ja vastaanottaa yksityisviestejä kaikille muille pelaajille riippumatta heidän pelipaikastaan. Näet jokaisen yösignaalin sisällön lähetettäessä ja vastaanotettaessa, mutta on mahdollista, että joku voi saada sinut tästä kiinni.",
+        "tooltip_peek-eyes": "Voit lähettää ja vastaanottaa yksityisiä tekstiviestejä kaikille muille pelaajille riippumatta heidän pelipaikastaan. Näet kuka lähettää ja vastaanottaa yösignaaleja, mutta et signaalien sisältöä. Et voi jäädä tästä kiinni."
+      }
+    },
+    "pointing": {
+      "button_countdown": "Laskenta",
+      "countdown_freeze": "Jäädytä",
+      "nobody": "valitsematta",
+      "prompt": "Klikkaa pelaajaa osoittaaksesi tätä!",
+      "title_locked": "Valittu pelaaja:|Valitut pelaajat:",
+      "title_open": "Nykyinen valinta:|Nykyiset valinnat:",
+      "you_pointed": "Osoitit:"
+    },
     "reveal": {
+      "button_remaining": "Pelaajat jäljellä",
+      "button_result": "Pelin lopputulos",
       "evil": "Paha",
       "good": "Hyvä",
       "prompt": "Varoitus: Tämä lopettaa pelin ja paljastaa Loitsukirjan kaikille!\nKuka voitti pelin?",
+      "result": "{0} voitti!",
+      "text": "Paljasta pelin lopputulos ja pelaajat klikkaamalla merkkejä. Voit vilkaista hahmoja viemällä hiiren osoittimen merkin päälle.",
       "title": "Paljasta Loitsukirja"
     },
     "rules": {
-      "text2": "Kiertolaiset tulisi yhdistää pelaajiin ennen hahmojen valitsemista."
+      "button_select": "Valitse Hahmot",
+      "text": "Olet valmis {0}",
+      "text2": "Kiertolaiset tulisi yhdistää pelaajiin ennen hahmojen valitsemista.",
+      "title": "Valitse Hahmot"
     },
     "towninfo": {
+      "alive": "Elossa",
+      "button_gather": "Kerää Pelaajasi",
       "return": "Palaa Loitsukirjaan (Pikanäppäin: {0})",
-      "script_by": "tehnyt {0}"
+      "script_by": "tehnyt {0}",
+      "text_player": "Tarinankertojan täytyy lisätä pelaajia ennen kuin voitte aloittaa.",
+      "text_st": "Aloittaaksesi sinun on ensin {0}",
+      "timer_ended": "päättyi",
+      "title": "Tervetuloa {0}."
     },
     "vote": {
+      "accusation": "Syytös",
+      "button_chat": "Avaa Keskustelu",
+      "button_clear_selection": "Tyhjennä Valinta",
+      "button_countdown": "Laskenta",
+      "button_defense": "Siirry Puolustukseen",
+      "button_hand_down": "ALAS",
+      "button_hand_up": "YLÖS",
+      "button_mark": "Leimaa",
+      "button_mark_remove": "Poista Leima",
+      "button_pause": "Tauko",
+      "button_reset": "Nollaa",
+      "button_restart": "Alusta",
+      "button_resume": "Jatka",
+      "button_select_player": "Valitse Pelaaja",
+      "button_set_highscore": "Aseta Äänestyslukema",
+      "button_start": "Aloita",
+      "choose_defense_attorney": "Valitse Puolustusasianajaja!",
+      "countdown_go": "Aloita",
+      "defense": "Puolustus",
+      "defense_attorney": "Puolustusasianajaja",
+      "highscore_placeholder": "korkein äänimäärä",
       "highscore_text": "Syötä uusi äänimäärä päivän äänestystulokselle\ntai jätä tyhjäksi elävälle oletusenemmistölle.",
+      "highscore_title": "Muuta Äänestyslukemaa",
+      "majority": "Enemmistö on {0} ääni|Enemmistö on {0} ääntä",
+      "no_majority": "Enemmistöä ei tarvita",
+      "pointing": "Osoitetaan {0}",
       "warning_shortcuts": "Pikanäppäimet ovat poissa käytöstä!"
     }
   },
