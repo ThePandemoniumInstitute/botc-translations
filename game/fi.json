@@ -1040,10 +1040,15 @@
       "name": "Psykopaatti"
     },
     "pukka": {
-      "ability": "Joka yö, valitse pelaaja: tämä on myrkytetty. Aiemmin myrkytetty pelaaja kuolee ja tervehtyy sitten."
+      "ability": "Joka yö, valitse pelaaja: tämä on myrkytetty. Aiemmin myrkytetty pelaaja kuolee ja tervehtyy sitten.",
+      "first": "Pooka valitsee pelaajan. :reminder:",
+      "flavor": "Olet todella ollut ystävällinen kutsuessasi minut kauniiseen kotiisi. Olen todella pahoillani, että raapaisin sinua vahingossa. Pikku juttu. Ei haittaa. Mutta ole hyvä, ota tämä kultahammastikku nöyrästä katumuksestani.",
+      "name": "Pooka",
+      "other": "Pooka valitsee pelaajan. :reminder: Aiemmin myrkytetty pelaaja kuolee ja tervehtyy sitten. :reminder:"
     },
     "puzzlemaster": {
-      "ability": "1 pelaaja on juopunut, vaikka kuolisit. Jos arvaat (kerran) kuka se on, saat tietää Demoni-pelaajan, mutta arvatessasi väärin saat väärää tietoa.",
+      "ability": "1 pelaaja on juopunut, vaikka kuolisit. Jos arvaat (kerran) kuka se on, saat tietää, kuka Demoni on, muuten saat väärää tietoa.",
+      "flavor": "Kun alkaa ajatella, että jokin asia on vain jokin muu asia, on yleensä erehdyksen partaalla. Malttia, malttia. Älä sekoita oikeutta ja sitä mitä pitäisi, olevaan ja olemattomaan.",
       "name": "Pulmamestari"
     },
     "ravenkeeper": {
@@ -1058,20 +1063,28 @@
       "name": "Rastuli"
     },
     "revolutionary": {
-      "ability": "Tiedetään, että 2 naapurusta ovat samalla puolella. Kerran pelissä 1 heistä näyttäytyy muille väärin."
+      "ability": "Tiedetään, että 2 naapurusta ovat samalla puolella. Kerran pelissä 1 heistä näyttäytyy muille väärin.",
+      "flavor": "Yhtenäisinä teeskentelimme. Hajaantuneina vetkuttelimme.",
+      "name": "Kumouksellinen"
     },
     "riot": {
+      "ability": "Päivänä 3, Kätyreistä tulee Mellakka & nimitetyt kuolevat, nimeten välittömästi elävän pelaajan. Tämän on tapahduttava.",
       "flavor": "Larga vida a la revolución! Mi revolucion!",
-      "name": "Mellakka"
+      "name": "Mellakka",
+      "other": "Vaihda Mellakan muistutusmerkki asiaankuuluvaan päivään. :reminder: Jos on 3. yö, voit herättää Kätyrit. Näytä *SINÄ OLET* & Mellakka -merkit."
     },
     "sage": {
-      "ability": "Jos Demoni tappaa sinut, saat tietää että se on yksi kahdesta pelaajasta.",
-      "name": "Tietäjä"
+      "ability": "Jos Demoni tappaa sinut, saat tietää tämän olevan 1 kahdesta pelaajasta.",
+      "flavor": "Nämä nidevuoret vartioivat salaisuutta, siitä olen varma! Sanojen väleissä se vain odottaa. Lisää kynttilöitä, poika! Lisää mustetta! Nämä muistiinpanot saattavat näyttää vaikeaselkoisilta, mutta karmea arvoitus paljastaa vielä itsensä.",
+      "name": "Tietäjä",
+      "other": "Jos Demoni tappoi Tietäjän, herätä tämä ja osoita kahta pelaajaa, joista toinen on Demoni."
     },
     "sailor": {
       "ability": "Joka yö, valitse elävä pelaaja: jompikumpi teistä on juopunut iltaan asti. Et voi kuolla.",
+      "first": "Merimies valitsee elävän pelaajan. :reminder:",
+      "flavor": "Juon kenet tahansa pöyän alle! Sä! Sie lörppö! Luuletkos, että voit peitota mut? Etkö? Mitäs mieltä oot, mummo? Ootko koskaan maistanu Vanhan McKillysin Erityisväkevää -rommia? Se nostaa taatusti rintakarvat pystyyn! Nouse kyytiin, ai!",
       "name": "Merimies",
-      "other": "Merimies valitsee elossa olevan pelaajan. :reminder:"
+      "other": "Merimies valitsee elävän pelaajan. :reminder:"
     },
     "saint": {
       "ability": "Jos kuolet teloitukseen, joukkueesi häviää.",
@@ -1079,19 +1092,22 @@
       "name": "Pyhimys"
     },
     "savant": {
-      "ability": "Joka päivä, voit vierailla Tarinankertojan luona saadaksesi yksityisesti tietää kaksi asiaa: 1 toden & 1 väärän asian.",
-      "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla..."
+      "ability": "Joka päivä, voit käydä yksiksesi Tarinankertojan luona saadaksesi tietää 2 asiaa: 1 toden & 1 väärän.",
+      "flavor": "Seitsemänkymmentäkaksi tulitikkua lattialla... aurinko laskee aikaisin, mutta kuu ei muutu... revitty kangas... paha kartanossa... kolmekolme... se, johon luotimme, ei ole sitä miltä näyttää... vihreä valo tarkoittaa magnesiumia... jäännöstä, mutta kuvio on väärä... Seitsemänkymmentäkaksi tulitikkua lattialla...",
+      "name": "Kultturelli"
     },
     "scapegoat": {
-      "ability": "Jos puolellasi oleva pelaaja teloitetaan, sinut saatetaan teloittaa tämän sijaan."
+      "ability": "Jos puolellasi oleva pelaaja teloitetaan, sinut saatetaan teloittaa tämän sijaan.",
+      "flavor": "Hyvää iltaa! Kiitos tanssiais-kutsusta. En ole täältäpäin kotoisin, mutta vaikutatte kyllä ystävälliseltä porukalta. Tulemme varmasti oikein hyvin toimeen. Mitähän varten tuo köysi on?"
     },
     "scarletwoman": {
       "ability": "Jos 5 tai useampi pelaajaa on elossa & Demoni kuolee, sinusta tulee Demoni. (Kulkureita ei lasketa.)",
-      "name": "Nainen Punaisissa",
-      "other": "Jos Naisesta Punaisissa tulee Demoni tänään, näytä hänelle *SINÄ OLET* merkki, sitten Demoni merkki."
+      "flavor": "Olet näyttänyt minulle Purppuraliekin neuvoston salaisuudet. Olemme maanneet yhdessä tulessa, himossa ja eläimellisessä yhteydessä, ja olen ikuisesti palvelijasi. Mutta tänä iltana, rakkaani, olet minun.",
+      "name": "Punahuuli",
+      "other": "Jos Punahuulesta tuli Demoni tänään, näytä hänelle *SINÄ OLET* -merkki, sitten Demonimerkki."
     },
     "seamstress": {
-      "ability": "Kerran pelissä, yöllä, valitse 2 pelaajaa (ei itseäsi): saat tietää, ovatko nämä samalla puolella keskenään.",
+      "ability": "Kerran pelissä, yöllä, valitse 2 pelaajaa (ei itseäsi): saat tietää, ovatko nämä samalla puolella.",
       "first": "Räätäli saattaa valita 2 pelaajaa. Nyökkää tai pudista päätäsi. :reminder:",
       "flavor": "Kuulitko että muukalainen kashmirvillatakissa kosi meidän nuorta Bellaa? Ja hän sanoi tahdon? No, se ei ole mitään siihen verrattuna mitä Harri ja jonglööri puuhasivat markkinoilla! Tietäisitpä mitä voisinkaan kertoa jos olisin juoruilija... oi oi.",
       "name": "Räätäli",
@@ -1103,55 +1119,79 @@
       "name": "Vartiomies"
     },
     "shabaloth": {
-      "ability": "Joka yö*, valite 2 pelaajaa: he kuolevat. Kuollut pelaaja, jonka valitsit viime yönä saattaa herätä henkiin.",
+      "ability": "Joka yö*, valitse 2 pelaajaa: nämä kuolevat. Kuollut pelaaja, jonka valitsit viime yönä, saattaa herätä henkiin.",
       "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
-      "name": "Sylkyri"
+      "name": "Sylkyri",
+      "other": "Aiemmin valittu pelaaja saattaa herätä henkiin. :reminder: Sylkyri valitsee 2 pelaajaa. :reminder: :reminder:"
     },
     "shugenja": {
+      "ability": "Aloitat tietäen, sijaitseeko lähin paha pelaaja sinusta myötä- vai vastapäivään. Jos etäisyys on sama, tieto on sattumanvarainen.",
+      "first": "Osoita myötä- tai vastapäivään.",
+      "flavor": "Unessa. Kuuntele maata. Juurakko osoittaa suunnan.",
       "name": "Shugenja"
     },
     "slayer": {
+      "ability": "Kerran pelissä, päivällä, valitse pelaaja julkisesti: jos tämä on Demoni, hän kuolee.",
       "flavor": "Kuole.",
       "name": "Lahtari"
     },
     "snakecharmer": {
       "ability": "Joka yö, valitse elävä pelaaja: valittu Demoni vaihtaa hahmoa & puolta kanssasi & on sen jälkeen myrkytetty.",
-      "name": "Käärmeenlumooja"
+      "first": "Käärmeenlumooja valitsee pelaajan. Jos Demoni valittiin: Näytä *SINÄ OLET* ja Demoni -merkit. Näytä peukku alas. Vaihda Käärmeenlumooja- ja Demoni-merkit keskenään. Laita vanha Käärmeenlumooja nukkumaan. Herätä vanha Demoni. Näytä *SINÄ OLET* ja Käärmeenlumooja -merkit & peukku ylös. :reminder:",
+      "flavor": "Effendi... Olen vain vaatimaton mies, mutta sävelmä kultaisesta piipustani kesyttää villeimmänkin djinnin, Inshallah. Sanotaan, että ahneus hirttää useampia kuin köysi. Mutta minä, Effendi... minä en.",
+      "name": "Käärmeenlumooja",
+      "other": "Käärmeenlumooja valitsee pelaajan. Jos Demoni valittiin: Näytä *SINÄ OLET* ja Demoni -merkit. Näytä peukku alas. Vaihda Käärmeenlumooja- ja Demoni-merkit keskenään. Laita vanha Käärmeenlumooja nukkumaan. Herätä vanha Demoni. Näytä *SINÄ OLET* ja Käärmeenlumooja -merkit & peukku ylös. :reminder:"
     },
     "snitch": {
+      "ability": "Jokainen Kätyri saa 3 bluffia.",
+      "first": "Herätä Kätyrit. Näytä *NÄMÄ HAHMOT EIVÄT OLE PELISSÄ* -merkkiä. Näytä 3 ei-pelissä-olevaa hyvää hahmoa.",
+      "flavor": "Joni se oli.",
       "name": "Vasikka"
     },
     "soldier": {
       "ability": "Olet turvassa Demonilta.",
+      "flavor": "Kuten Daavid sanoi Goljatille, kuten Theseus sanoi Minotaurukselle, kuten Arjuna sanoi Bhagadattalle... Ei.",
       "name": "Sotilas"
     },
     "spiritofivory": {
       "ability": "Pelissä voi olla korkeintaan 1 ylimääräinen paha pelaaja.",
-      "name": "Norsunluun Henki"
+      "flavor": "Erämaa kutsuu. Luut nousevat lihaksi, pudoten sitten tomuksi. Suuri henki kasvaa. Suuri henki tarkkailee. Suuri henki opastaa. Ihminen kuuntelee, tai ihmistä ei enää ole.",
+      "name": "Norsunluuhenki"
     },
     "spy": {
       "ability": "Joka yö, saat nähdä Loitsukirjan. Saatat näyttäytyä hyvänä & Kyläläisenä tai Hylkiönä, vaikka olisit kuollut.",
-      "name": "Vakooja"
+      "first": "Näytä Loitsukirjaa Vakoojalle niin kauan kuin tarvii.",
+      "flavor": "Väkijuomansa arvoinen panimomestari tietää, ettei mikään keitos haudu ongelmia nopeammin kuin se, jossa vakoojat näkyvät kahtena.",
+      "name": "Vakooja",
+      "other": "Näytä Loitsukirjaa Vakoojalle niin kauan kuin tarvii."
     },
     "steward": {
       "ability": "Aloitat tietäen 1 hyvän pelaajan.",
-      "name": "Tilanhoitaja"
+      "first": "Osoita kohti *TIEDÄT* -merkittyä pelaajaa.",
+      "flavor": "Kuinka USKALLAT syyttää Hänen Korkea-arvoisuuttaan mistään väärinteosta? Olen tuntenut hänet koko ikäni! Kaikki yhdeksän vuotta!",
+      "name": "Pehtori"
     },
     "stormcatcher": {
+      "ability": "Valitse hyvä hahmo. Jos se on pelissä, voi pelaaja kuolla vain teloitukseen, mutta pahat saavat tietää tämän.",
+      "first": "Ilmoita, mikä hahmo on myrskynsieppaama. Jos hahmo on pelissä, merkitse pelaajaa *MYRSKYNSIEPPAAMA* -merkillä. Herätä pahat pelaajat ja näytä heille valittu hahmomerkki ja pelaaja. Jos hahmo ei ole pelissä, herätä pahat pelaajat, näytä heille *NÄMÄ HAHMOT EIVÄT OLE PELISSÄ* -merkki ja asiaankuuluva hahmomerkki.",
+      "flavor": "Temppelin pitkä varjo hiipi aamunkoitteessa suihkulähteelle. Obeliski peitti illan tullen punaisen häikäisyn, viilentäen holvikaaren alla lilluvaa vettä. Kaikki viivat yhtyvät tässä. Myrsky on tulossa, ja tämä, tämä kivinen, rehevä ja pyhä paikka omenapuiden välissä, on silmässä.",
       "name": "Myrskynsieppaaja"
     },
     "summoner": {
       "ability": "Saat 3 bluffia. 3. yönä, valitse pelaaja: heistä tulee valitsemasi paha Demoni. [Ei Demonia]",
-      "first": "Näytä *NÄMÄ HAHMOT EIVÄT OLE PELISSÄ* merkki. Näytä 3 ei pelissä olevaa hyvää hahmomerkkiä.",
-      "name": "Rienaaja"
+      "first": "Näytä *NÄMÄ HAHMOT EIVÄT OLE PELISSÄ* -merkki. Näytä 3 ei-pelissä-olevaa hyvää hahmoa.",
+      "flavor": "Tervehdys pohjoisen vartijoille; älyni voimalla tei'ät leikkaan. Tervehdys idän vartijoille; tahtoni voimalla olette hallinnassani. Tervehdys etelän vartijoille; sen tuolla puolen piilevä paljastaa mysteerin. Tervehdys lännen vartijoille; kilpenä pimeydessä.",
+      "name": "Rienaaja",
+      "other": "Vaihda Rienaaja-muistutus asiaankuuluvaan yöhön. :reminder: Jos on yö 3, Rienaaja valitsee pelaajan ja haluamansa Demonin. Laita Rienaaja takaisin nukkumaan. Herätä kohde. Näytä *SINÄ OLET* ja Demoni -merkit & peukalo alas."
     },
     "sweetheart": {
-      "ability": "Kun kuolet, 1 pelaaja on juopunut siitä alkaen.",
+      "ability": "Kun kuolet, 1 pelaaja on siitä lähin juopunut.",
       "flavor": "En unohda häntä koskaan. En ikinä.",
-      "name": "Kullanmuru"
+      "name": "Kullanmuru",
+      "other": "Jos Kullanmuru kuoli, yksi pelaaja juopui välittömästi. Jos et olekin jo niin tehnyt, tee se nyt. :reminder:"
     },
     "tealady": {
-      "ability": "Jos molemmat elävät naapurisi ovat hyviä, he eivät voi kuolla.",
+      "ability": "Jos molemmat elävät naapurisi ovat hyviä, eivät he voi kuolla.",
       "flavor": "Jos sinulla on kylmä, tee lämmittää. Jos olet liian kiihtynyt, tee viilentää. Jos sinua masentaa, tee piristää. Jos olet innoissasi, tee rauhoittaa.",
       "name": "Teerouva"
     },
