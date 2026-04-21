@@ -1325,6 +1325,9 @@
       "flavor": "Pidän keskusteluistamme. Älysi viehättää minua. Se muistuttaa omaani paitsi että satut olemaan hullu.",
       "name": "Kiihkoilija"
     },
+    "zenomancer": {
+      "ability": "Yhdellä tai useammalla pelaajalla on tavoite. Sen saavuttaessaan pelaaja oppii jonkin tositiedon."
+    },
     "zombuul": {
       "other": "Jos kukaan ei kuollut tänään, Zombuul valitsee pelaajan. :reminder:"
     }
