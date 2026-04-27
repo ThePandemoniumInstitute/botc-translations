@@ -1162,7 +1162,9 @@
     },
     "tor": {
       "ability": "Gracze nie znają swojej postaci ani przynależności. Dowiaduję się o nich po śmierci.",
-      "name": "Tor"
+      "first": "Pomiń info dla Sługusa i Demona.",
+      "name": "Tor",
+      "other": "Jeżeli gracz umarł tej nocy, pokaż kartę *JESTEŚ*, jego żeton postaci i kciukiem w górę/w dół jego przynależność."
     },
     "towncrier": {
       "ability": "Każdej nocy* dowiadujesz się, czy Sługus nominował.",
