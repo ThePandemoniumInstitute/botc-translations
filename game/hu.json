@@ -229,8 +229,8 @@
     "safe": "Védett",
     "soberhealthy": "Józan és egészséges",
     "somethingbad": "Valami rossz",
-    "storytellerability": "Mesélő képessége",
     "stormcaught": "Viharvert",
+    "storytellerability": "Mesélő képessége",
     "survivesexecution": "Túléli a kivégzést",
     "teapartytonight": "Este teaparti",
     "townsfolk": "Városlakó",
@@ -707,17 +707,17 @@
       "flavor": "A föld elveszett és elfeledett helyein a lélek fénye hívogat.",
       "name": "Remete"
     },
-    "hindu": {
-      "ability": "Az első 4 játékos, aki meghal, azonnal újraéled egy ugyanazon oldalhoz tartozó utazóként.",
-      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
-      "name": "Hindu"
-    },
     "highpriestess": {
       "ability": "Minden éjjel megtudod, hogy a mesélő szerint melyik játékossal kellene leginkább beszélned.",
       "first": "Mutass rá egy játékosra.",
       "flavor": "A személyiség mögött egy élet rejtőzik, mely álarcként ölti magára a személyiségeket. Előfordul, hogy az élet leveszi az álarcot, és a mélység a mélységnek ad választ.",
       "name": "Főpapnő",
       "other": "Mutass rá egy játékosra."
+    },
+    "hindu": {
+      "ability": "Az első 4 játékos, aki meghal, azonnal újraéled egy ugyanazon oldalhoz tartozó utazóként.",
+      "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
+      "name": "Hindu"
     },
     "huntsman": {
       "ability": "Játékonként egyszer, éjjel válassz egy élő játékost: ha a királylányt választod, játékon kívüli városlakóvá válik. [+a királylány]",
@@ -1058,9 +1058,9 @@
     },
     "riot": {
       "ability": "A 3. napon a csatlósok lázadóvá válnak, a gyanúsítottak meghalnak, de rögtön gyanúsítanak egy élő játékost. Ezt kötelező megtenni.",
-      "other": "Cseréld le a lázadó emlékeztető jelölőjét az adott napnak megfelelően. :reminder: Ha ez a 3. éjszaka, felébresztheted a csatlósokat. Mutasd meg az EZ VAGY MOSTANTÓL lapkát és a lázadó jelölőit.",
       "flavor": "Larga vida a la revolución! Mi revolucion!",
-      "name": "Lázadó"
+      "name": "Lázadó",
+      "other": "Cseréld le a lázadó emlékeztető jelölőjét az adott napnak megfelelően. :reminder: Ha ez a 3. éjszaka, felébresztheted a csatlósokat. Mutasd meg az EZ VAGY MOSTANTÓL lapkát és a lázadó jelölőit."
     },
     "sage": {
       "ability": "Ha a démon megöl, megtudod, hogy melyik két játékos egyike a démon.",
