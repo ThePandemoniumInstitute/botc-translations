@@ -269,6 +269,7 @@
       "other": "Der Meuchelmörder wählt möglicherweise einen Spieler. :reminder: :reminder:"
     },
     "atheist": {
+      "ability": "Der Erzähler kann die Spielregeln brechen, und falls er hingerichtet wird, gewinnt Gut, sogar wenn du tot bist. [Keine bösen Charaktere]",
       "flavor": "Lassen wir unnötige Spekulation und alberne Paranoia beiseite. Es gibt für alles eine vollkommen rationale Erklärung. Ja, vielleicht umkreist tatsächlich eine Teetasse unseren Planeten, aber ich werde meinen Tee lieber aus der sehr realen Tasse in meinen sehr realen Händen trinken."
     },
     "balloonist": {
