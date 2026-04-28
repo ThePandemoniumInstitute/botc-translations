@@ -274,10 +274,14 @@
       "name": "Atheist"
     },
     "balloonist": {
-      "flavor": "Mehr Hitze! Höher! Höher! Più alto! Ahhh... es ist so schön von hier oben, findest du nicht auch? Kannst du die Kinder sehen, die am Fluss unter der Weide angeln? Kannst du das Glitzern der Sonne auf den Zirkuszelt-stangen sehen? Was ist das? Ein alter Mann, allein, ohnmächtig im Weinberg? Weniger Hitze! Tiefer! Tiefer! Vai più in basso!"
+      "ability": "Jede Nacht erfährst du von einem Spieler, der einen anderen Charaktertyp hat als der Spieler aus der Nacht davor. [+0 oder +1 Außenseiter]",
+      "flavor": "Mehr Hitze! Höher! Höher! Più alto! Ahhh... es ist so schön von hier oben, findest du nicht auch? Kannst du die Kinder sehen, die am Fluss unter der Weide angeln? Kannst du das Glitzern der Sonne auf den Zirkuszelt-stangen sehen? Was ist das? Ein alter Mann, allein, ohnmächtig im Weinberg? Weniger Hitze! Tiefer! Tiefer! Vai più in basso!",
+      "name": "Ballonfahrer"
     },
     "banshee": {
-      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."
+      "ability": "Falls der Dämon dich tötet, erfahren dies alle Spieler. Von nun an darfst du zweimal pro Tag nominieren und zweimal pro Nominierung abstimmen.",
+      "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+      "name": "Banshee"
     },
     "barber": {
       "ability": "Wenn du stirbst, darf der Dämon in dieser Nacht 2 Spieler (keinen anderen Dämon) auswählen, die ihre Charaktere tauschen.",
@@ -308,7 +312,9 @@
       "name": "Bischof"
     },
     "boffin": {
-      "flavor": "Sternenwasserstoff, riesig, inert; Kohlenstoff, Sauerstoff, Neongase, alles ruiniert. Molekulares Chaos, Entropie, bringt neue kosmische Phänomene hervor, Wieder-geburt aus atomarem Chaos, dichte Materie kollabiert. Alles in einer winzigen kleinen Flasche."
+      "ability": "Der Dämon hat (sogar wenn er betrunken oder vergiftet ist) die Fähigkeit eines nicht im Spiel befindlichen guten Charakters. Ihr wisst beide welche.",
+      "flavor": "Sternenwasserstoff, riesig, inert; Kohlenstoff, Sauerstoff, Neongase, alles ruiniert. Molekulares Chaos, Entropie, bringt neue kosmische Phänomene hervor, Wieder-geburt aus atomarem Chaos, dichte Materie kollabiert. Alles in einer winzigen kleinen Flasche.",
+      "name": "Laborratte"
     },
     "bonecollector": {
       "ability": "Einmal im Spiel, in der Nacht*, wähle 1 toten Spieler: Er erhält bis zur Abenddämmerung seine Fähigkeit zurück.",
@@ -317,10 +323,14 @@
       "other": "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
     },
     "boomdandy": {
-      "flavor": "Tick… Tick… Tick… TOCK."
+      "ability": "Falls du hingerichtet wirst, sterben alle bis auf 3 Spieler. Nach einem Countdown von 10 bis 1 stirbt der Spieler, auf den die meisten Spieler zeigen.",
+      "flavor": "Tick… Tick… Tick… TOCK.",
+      "name": "Bombenleger"
     },
     "bountyhunter": {
-      "flavor": "Allein gehe ich durch diese Straßen, die vom widerlichen Gestank der Korruption durchzogen sind. Seine Schwere dringt ungebeten in meine Nasenlöcher und lässt sie brennen vor Abscheu… und Vorfreude. Die Verderbtheit dieses elenden Ortes wächst jede Nacht. Und ich... Ich bin das Heilmittel."
+      "ability": "Du weißt zu Beginn, dass 1 Spieler böse ist. Wenn er stirbt, erfährst du heute Nacht von einem anderen bösen Spieler. [1 Bürger ist böse]",
+      "flavor": "Allein gehe ich durch diese Straßen, die vom widerlichen Gestank der Korruption durchzogen sind. Seine Schwere dringt ungebeten in meine Nasenlöcher und lässt sie brennen vor Abscheu… und Vorfreude. Die Verderbtheit dieses elenden Ortes wächst jede Nacht. Und ich... Ich bin das Heilmittel.",
+      "name": "Kopfgeldjäger"
     },
     "buddhist": {
       "ability": "In den ersten 2 Minuten jedes Tages dürfen erfahrene Spieler nicht reden.",
@@ -348,10 +358,14 @@
       "other": "Der Butler wählt einen Spieler. :reminder:"
     },
     "cacklejack": {
-      "flavor": "Kabel α An Kabel β. LicHt aN. BuZZer aus. GAzOinks! Arme G3r4d3. FingER zUr nase. hAaaLt stiLL. BoiNgo-banGo! Ha-ha-ha!"
+      "ability": "Wähle jeden Tag 1 Spieler: Heute Nacht wechselt 1 anderer Spieler den Charakter.",
+      "flavor": "Kabel α An Kabel β. LicHt aN. BuZZer aus. GAzOinks! Arme G3r4d3. FingER zUr nase. hAaaLt stiLL. BoiNgo-banGo! Ha-ha-ha!",
+      "name": "Kicherjeck"
     },
     "cannibal": {
-      "flavor": "Ich mag keine Clowns. Sie schmecken komisch."
+      "ability": "Du hast die Fähigkeit des zuletzt durch Hinrichtung Gestorbenen. Falls er böse ist, bist du vergiftet, bis ein Guter durch Hinrichtung stirbt.",
+      "flavor": "Ich mag keine Clowns. Sie schmecken komisch.",
+      "name": "Kannibale"
     },
     "cerenovus": {
       "ability": "Wähle jede Nacht 1 Spieler & 1 guten Charakter: Der Spieler ist morgen “besessen” davon, dass er der Charakter ist, oder könnte hingerichtet werden.",
@@ -374,7 +388,9 @@
       "name": "Koch"
     },
     "choirboy": {
-      "flavor": "Ich habe es gesehen. Wirklich! Ich saß in der Kirchenbank und ordnete die Gesangbücher, als eine schreckliche Melodie von der Orgel erklang. Der Organist trug einen langen Umhang und hatte lange Finger, die über die Tasten glitten. Und einen Hut, der aussah… genau wie… deiner."
+      "ability": "Falls der Dämon den König tötet, erfährst du, welcher Spieler der Dämon ist. [+König]",
+      "flavor": "Ich habe es gesehen. Wirklich! Ich saß in der Kirchenbank und ordnete die Gesangbücher, als eine schreckliche Melodie von der Orgel erklang. Der Organist trug einen langen Umhang und hatte lange Finger, die über die Tasten glitten. Und einen Hut, der aussah… genau wie… deiner.",
+      "name": "Chorknabe"
     },
     "clockmaker": {
       "ability": "Du weißt zu Beginn, wie viele Schritte es vom Dämon zum nächsten Schergen sind.",
@@ -390,10 +406,14 @@
       "other": "Der Höfling wählt möglicherweise einen Charakter. :reminder: :reminder:"
     },
     "cultleader": {
-      "flavor": "Sich selbst für weise haltend, machten sie sich zu Narren."
+      "ability": "Jede Nacht wird deine Fraktion zu der Fraktion eines deiner lebendigen Nachbarn. Falls alle guten Spieler deinem Kult beitreten, gewinnt dein Team.",
+      "flavor": "Sich selbst für weise haltend, machten sie sich zu Narren.",
+      "name": "Kultführer"
     },
     "damsel": {
-      "flavor": "Fass die Haare nicht an, Schätzchen."
+      "ability": "Alle Schergen wissen, dass die Unschuld im Spiel ist. Falls ein Scherge öffentlich errät (einmalig), dass du es bist, verliert dein Team.",
+      "flavor": "Fass die Haare nicht an, Schätzchen.",
+      "name": "Unschuld"
     },
     "dawn": {
       "first": "Warte ein paar Sekunden. Dann wecke alle Spieler.",
@@ -405,7 +425,9 @@
       "name": "Dämon-Info"
     },
     "deusexfiasco": {
-      "flavor": "Es ist kein Fehler, es ist eine Funktion. Es ist kein Fehler, es ist eine Anpassung. Es ist nicht kaputt, es ist eigenwillig."
+      "ability": "Mindestens einmal im Spiel wird der Erzähler einen Fehler machen, ihn korrigieren und öffentlich zugeben.",
+      "flavor": "Es ist kein Fehler, es ist eine Funktion. Es ist kein Fehler, es ist eine Anpassung. Es ist nicht kaputt, es ist eigenwillig.",
+      "name": "Deus ex Fiasco"
     },
     "deviant": {
       "ability": "Falls du heute lustig warst, kannst du nicht durch Verbannung sterben.",
@@ -460,7 +482,9 @@
       "other": "Gib ein Fingerzeichen."
     },
     "engineer": {
-      "flavor": "Wenn es nachgibt, großartig. Wenn es daran zerbricht, nun ja, dann musste es sowieso repariert werden."
+      "ability": "Einmal im Spiel, in der Nacht, wähle welche Schergen oder welcher Dämon im Spiel ist.",
+      "flavor": "Wenn es nachgibt, großartig. Wenn es daran zerbricht, nun ja, dann musste es sowieso repariert werden.",
+      "name": "Ingenieur"
     },
     "eviltwin": {
       "ability": "Du & ein gegnerischer Spieler kennen einander. Wird der gute Spieler hingerichtet, gewinnt Böse. Gut kann nicht gewinnen, solange ihr beide lebt.",
@@ -481,13 +505,19 @@
       "other": "Der Fang Gu wählt einen Spieler. :reminder: Falls er einen Außenseiter wählt (passiert maximal einmal): Ersetze das Außenseiter-Plättchen durch das zusätzliche Fang Gu-Plättchen. Lasse den Fang Gu einschlafen. Wecke das Ziel. Zeige das *DU BIST* und das Fang Gu-Plättchen & zeige einen Daumen nach unten. :reminder:"
     },
     "farmer": {
-      "flavor": "Selbst die Edlen und Mächtigen brauchen Essen auf dem Tisch. Ohne uns würde die Stadt verhungern."
+      "ability": "Wenn du in der Nacht stirbst, wird 1 lebendiger guter Spieler ein Farmer.",
+      "flavor": "Selbst die Edlen und Mächtigen brauchen Essen auf dem Tisch. Ohne uns würde die Stadt verhungern.",
+      "name": "Farmer"
     },
     "fearmonger": {
-      "flavor": "Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein."
+      "ability": "Wähle jede Nacht 1 Spieler: Falls du ihn nominierst & er hingerichtet wird, verliert sein Team. Alle Spieler erfahren, wenn du einen neuen Spieler wählst.",
+      "flavor": "Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.",
+      "name": "Angstmacher"
     },
     "ferryman": {
-      "flavor": "Wenn rechtschaffene Träume kommen, haben sie das Gewicht der Wahrheit."
+      "ability": "Am letzten Tag erhalten alle toten Spieler ihr Abstimmungsplättchen zurück.",
+      "flavor": "Wenn rechtschaffene Träume kommen, haben sie das Gewicht der Wahrheit.",
+      "name": "Fährmann"
     },
     "fibbin": {
       "ability": "Einmal im Spiel erhält 1 guter Spieler möglicherweise falsche Informationen.",
@@ -500,7 +530,9 @@
       "name": "Geiger"
     },
     "fisherman": {
-      "flavor": "Dies war mein Lieblingsabschnitt des Flusses… siehst du, wie das Sonnenlicht einen Regenbogen vom Kloster bis zum Markt erzeugt? Dies war der beste Ort für große Fische. Und je älter ich werde, desto größer werden sie."
+      "ability": "Einmal im Spiel, während des Tages, erbitte vom Erzähler einen Rat, der deinem Team hilft zu gewinnen.",
+      "flavor": "Dies war mein Lieblingsabschnitt des Flusses… siehst du, wie das Sonnenlicht einen Regenbogen vom Kloster bis zum Markt erzeugt? Dies war der beste Ort für große Fische. Und je älter ich werde, desto größer werden sie.",
+      "name": "Fischer"
     },
     "flowergirl": {
       "ability": "Jede Nacht* erfährst du, ob heute ein Dämon für eine Hinrichtung gestimmt hat.",
@@ -527,16 +559,24 @@
       "other": "Der Glücksspieler wählt einen Spieler & einen Charakter. :reminder:"
     },
     "gangster": {
-      "flavor": "Ich mag deine Schuhe. Es wäre wirklich eine Schande, wenn du einen kleinen Unfall hottest und sie ruiniert würden. Jetzt, wo du es sagst, ich mag auch deine Manschettenknöpfe."
+      "ability": "Einmal pro Tag darfst du 1 lebendigen Nachbarn töten, falls dein anderer lebendiger Nachbar zustimmt.",
+      "flavor": "Ich mag deine Schuhe. Es wäre wirklich eine Schande, wenn du einen kleinen Unfall hottest und sie ruiniert würden. Jetzt, wo du es sagst, ich mag auch deine Manschettenknöpfe.",
+      "name": "Gangster"
     },
     "general": {
-      "flavor": "Ich habe keine Zeit für Zitate."
+      "ability": "Jede Nacht erfährst du, von welcher Fraktion der Erzähler glaubt, dass sie gewinnt: Gut, Böse oder keine.",
+      "flavor": "Ich habe keine Zeit für Zitate.",
+      "name": "General"
     },
     "gnome": {
-      "flavor": "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o’ the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyse, no greater than is scene, not inherdt. Ha-urrumph."
+      "ability": "Alle Spieler wissen zu Beginn von 1 Spieler, dass er in deiner Fraktion ist. Du darfst jeden töten, der ihn nominiert.",
+      "flavor": "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o’ the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyse, no greater than is scene, not inherdt. Ha-urrumph.",
+      "name": "Gnom"
     },
     "goblin": {
-      "flavor": "Du solltest die Goblins nicht beleidigen. Das solltest du wirklich nicht tun. Aber mal ganz nebenbei... kann ich noch ein Stück Kuchen bekommen?"
+      "ability": "Falls du öffentlich behauptest, der Goblin zu sein, wenn du nominiert wirst & an diesem Tag hingerichtet wirst, gewinnt dein Team.",
+      "flavor": "Du solltest die Goblins nicht beleidigen. Das solltest du wirklich nicht tun. Aber mal ganz nebenbei... kann ich noch ein Stück Kuchen bekommen?",
+      "name": "Goblin"
     },
     "godfather": {
       "ability": "Du weißt zu Beginn, welche Außenseiter im Spiel sind. Falls 1 Außenseiter heute starb, wähle heute Nacht 1 Spieler: Er stirbt. [-1 oder +1 Außenseiter]",
