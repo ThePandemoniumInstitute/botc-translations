@@ -270,7 +270,8 @@
     },
     "atheist": {
       "ability": "Der Erzähler kann die Spielregeln brechen, und falls er hingerichtet wird, gewinnt Gut, sogar wenn du tot bist. [Keine bösen Charaktere]",
-      "flavor": "Lassen wir unnötige Spekulation und alberne Paranoia beiseite. Es gibt für alles eine vollkommen rationale Erklärung. Ja, vielleicht umkreist tatsächlich eine Teetasse unseren Planeten, aber ich werde meinen Tee lieber aus der sehr realen Tasse in meinen sehr realen Händen trinken."
+      "flavor": "Lassen wir unnötige Spekulation und alberne Paranoia beiseite. Es gibt für alles eine vollkommen rationale Erklärung. Ja, vielleicht umkreist tatsächlich eine Teetasse unseren Planeten, aber ich werde meinen Tee lieber aus der sehr realen Tasse in meinen sehr realen Händen trinken.",
+      "name": "Atheist"
     },
     "balloonist": {
       "flavor": "Mehr Hitze! Höher! Höher! Più alto! Ahhh... es ist so schön von hier oben, findest du nicht auch? Kannst du die Kinder sehen, die am Fluss unter der Weide angeln? Kannst du das Glitzern der Sonne auf den Zirkuszelt-stangen sehen? Was ist das? Ein alter Mann, allein, ohnmächtig im Weinberg? Weniger Hitze! Tiefer! Tiefer! Vai più in basso!"
