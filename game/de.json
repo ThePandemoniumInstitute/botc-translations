@@ -139,6 +139,7 @@
     "vizier-zealot": "Der Eiferer erscheint dem Wesir möglicherweise als böse."
   },
   "reminders": {
+    "2nd": "Zweiter",
     "3attacks": "3 Angriffe",
     "3votes": "3 Stimmen",
     "abnormal": "Fehlerhaft",
@@ -166,18 +167,27 @@
     "everyoneisdrunk": "Alle sind betrunken",
     "evil": "Böse",
     "falseinfo": "Falsche Information",
+    "fauxpaw": "Falsche Pfote",
+    "fear": "Angst",
     "finalnightnoattack": "Letzte Nacht: Kein Angriff",
+    "friend": "Freund",
     "good": "Gut",
+    "goodplayerexecuted": "Guter Spieler hingerichtet",
     "grandchild": "Enkelkind",
+    "guessused": "Rateversuch verbraucht",
     "haircutstonight": "Haare schneiden",
     "hasability": "Hat Fähigkeit",
+    "isthealchemist": "Ist der Alchemist",
     "istheapprentice": "Ist der Lehrling",
     "isthedemon": "Ist der Dämon",
     "isthedrunk": "Ist der Trunkenbold",
     "isthemarionette": "Ist die Marionette",
     "isthephilosopher": "Ist der Philosoph",
+    "know": "Bekannt",
+    "lunch": "Zuletzt hingerichtet",
     "mad": "Besessen",
     "master": "Meister",
+    "maynotnominate": "Kann nicht nominieren",
     "minion": "Scherge",
     "minionnominated": "Scherge hat nominiert",
     "minionsnotnominated": "Scherge hat nicht nominiert",
@@ -189,6 +199,7 @@
     "nominateevil": "Nominiere Böse",
     "nominategood": "Nominiere Gut",
     "nomoreevil": "Keine weitere Bösen",
+    "notme": "Ich nicht",
     "once": "Einmal",
     "outsider": "Außenseiter",
     "poisoned": "Vergiftet",
@@ -198,8 +209,12 @@
     "safe": "Sicher",
     "soberhealthy": "Nüchtern & gesund",
     "somethingbad": "Etwas Schlimmes",
+    "stormcaught": "Sicher",
+    "storytellerability": "Erzählerfähigkeit",
     "survivesexecution": "Überlebt Hinrichtung",
+    "teapartytonight": "Teeparty heute Nacht",
     "townsfolk": "Bürger",
+    "turnsevil": "Wird böse",
     "twin": "Zwilling",
     "visitor": "Besucher",
     "whoopsie": "Ups",
@@ -207,19 +222,28 @@
   },
   "roles": {
     "acrobat": {
+      "ability": "Wähle jede Nacht* 1 Spieler: Falls er heute Nacht betrunken oder vergiftet ist oder wird, stirbst du.",
       "flavor": "Meine Damen und Herren, halten Sie sich fest, denn ich werde mich über die Gesetze der Schwerkraft hinwegsetzen und in der Luft tanzen. Erleben Sie ein Wunderwerk an Beweglichkeit und Wagemut, ganz zu Ihrer Freude und Verwunderung!"
     },
     "alchemist": {
-      "flavor": "Besuche das Innere der Erde. Durch Berichtigung wirst du den verborgenen Stein finden. Über dem Gold wird das Rote liegen. Verbinde es mit Malkuth."
+      "ability": "Du hast eine Schergen-Fähigkeit. Wenn du diese einsetzt, kann der Erzähler dich auffordern, anders auszuwählen.",
+      "flavor": "Besuche das Innere der Erde. Durch Berichtigung wirst du den verborgenen Stein finden. Über dem Gold wird das Rote liegen. Verbinde es mit Malkuth.",
+      "name": "Alchemist"
     },
     "alhadikhia": {
-      "flavor": "Alsukut min dhahab."
+      "ability": "Jede Nacht* darfst du 3 Spieler auswählen (alle erfahren wer): Jeder davon wählt still “Leben” oder “Tod”, aber falls alle leben, sterben alle.",
+      "flavor": "Alsukut min dhahab.",
+      "name": "Al-Hadikhia"
     },
     "alsaahir": {
-      "flavor": "Ich bin wegen dir hier, und du bist wegen mir hier."
+      "ability": "Jeden Tag: Falls du öffentlich errätst, welche Spieler Scherge(n) und welche Dämon(en) sind, gewinnt Gut.",
+      "flavor": "Ich bin wegen dir hier, und du bist wegen mir hier.",
+      "name": "Alsaahir"
     },
     "amnesiac": {
-      "flavor": "Warte! Was? Wer? Oh, okay. Warte...Warte...Was?"
+      "ability": "Du weißt deine Fähigkeit nicht. Rate jeden Tag geheim, was sie ist: Du erfährst, wie nah du daran bist, sie zu erraten.",
+      "flavor": "Warte! Was? Wer? Oh, okay. Warte...Warte...Was?",
+      "name": "Vergessliche"
     },
     "angel": {
       "ability": "Etwas Schlimmes könnte demjenigen passieren, der am meisten für den Tod eines neuen Spielers verantwortlich ist.",
