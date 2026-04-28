@@ -37,6 +37,7 @@
     "banshee-leviathan": "Jede Nacht* wählt der Leviathan einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Eine gewählte Banshee stirbt & erhält ihre Fähigkeit.",
     "banshee-riot": "Jede Nacht* wählt Riot einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Eine gewählte Banshee stirbt & erhält ihre Fähigkeit.",
     "banshee-vortox": "Falls der Vortox die Banshee tötet, erfahren alle Spieler, dass die Banshee gestorben ist.",
+    "baron-heretic": "Es kann nur einer der beiden Charaktere im Spiel sein.",
     "baron-plaguedoctor": "Falls der Erzähler die Fähigkeit des Barons erhält, werden bis zu zwei Spieler zu Außenseitern.",
     "boffin-cultleader": "Falls der Dämon die Fähigkeit des Kultführers hat, kann er durch diese Fähigkeit nicht gut werden.",
     "boffin-drunk": "Der Dämon kann nicht die Fähigkeit des Trunkenbolds erhalten.",
@@ -66,7 +67,10 @@
     "engineer-legion": "Falls eine Legion erzeugt wird, werden alle bösen Spieler Legion. Falls Legion im Spiel ist, weiß der Ingenieur dies, aber hat keine Fähigkeit.",
     "engineer-summoner": "Falls der lebendige Beschwörer aus dem Spiel entfernt wird, hat der Erzähler die Fähigkeit des Beschwörers.",
     "eviltwin-plaguedoctor": "Falls der Erzähler die Fähigkeit des Bösen Zwillings erhält, wird ein Spieler Böser Zwilling.",
+    "exorcist-leviathan": "Falls der Leviathan den vom Exorzist gewählten Spieler nominiert und dieser hingerichtet wird, gewinnt Gut.",
+    "exorcist-riot": "Falls Riot den vom Exorzist gewählten Spieler nominiert und dieser hingerichtet wird, gewinnt Gut.",
     "exorcist-yaggababble": "Falls der Exorzist die Yaggababble wählt, tötet die Yaggababble heute Nacht nicht.",
+    "fanggu-scarletwoman": "Falls es zwei lebendige Dämonen geben würde, wovon einer vorher die Scharlachrote Frau war, bleibt die Scharlachrote Frau stattdessen die Scharlachrote Frau.",
     "farmer-leviathan": "Jede Nacht* wählt der Leviathan einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Ein gewählter Farmer benutzt seine Fähigkeit, aber stirbt nicht.",
     "farmer-riot": "Jede Nacht* wählt der Riot einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Ein gewählter Farmer benutzt seine Fähigkeit, aber stirbt nicht.",
     "fearmonger-plaguedoctor": "Falls der Erzähler die Fähigkeit des Angstmachers erhalten würde, erhält ein Scherge sie stattdessen und erfährt dies.",
@@ -93,6 +97,9 @@
     "king-leviathan": "Falls der Leviathan im Spiel ist und mindestens 1 Spieler tot ist, erfährt der König jede Nacht einen lebendigen Charakter.",
     "king-riot": "Falls der Riot im Spiel ist und mindestens 1 Spieler tot ist, erfährt der König jede Nacht einen lebendigen Charakter.",
     "legion-magician": "Die Magierin erwacht mit der Legion und erscheint möglicherweise als böse. Die Legion weiß, dass eine Magierin im Spiel ist, aber nicht welcher Spieler es ist.",
+    "legion-minstrel": "Falls heute eine Legion durch Hinrichtung gestorben ist, behalten andere Legion-Spieler ihre Fähigkeit, aber der Minnesänger könnte erfahren, dass sie Legion sind.",
+    "legion-politician": "Der Politiker erscheint möglicherweise als böse für Legion bei der Abstimmung.",
+    "legion-preacher": "Falls der Prediger einen Legion-Spieler wählt, behält er seine Fähigkeit, aber der Prediger könnte erfahren, dass der Spieler Legion ist.",
     "legion-summoner": "Falls eine Legion beschworen wird, werden alle bösen Spieler Legion.",
     "legion-zealot": "Der Eiferer erscheint möglicherweise als böse für die Legion bei der Abstimmung.",
     "leviathan-mayor": "Falls der Leviathan und der Bürgermeister an Tag 5 lebendig sind & keine Hinrichtung erfolgt, gewinnt Gut.",
@@ -102,10 +109,12 @@
     "leviathan-sage": "Jede Nacht* wählt der Leviathan einen lebendigen Spieler (einen anderen als in vorherigen Nächten): Eine gewählte Weise benutzt ihre Fähigkeit, aber stirbt nicht.",
     "leviathan-soldier": "Falls der Leviathan den Soldaten nominiert und dieser hingerichtet wird, gewinnt Gut.",
     "lilmonsta-magician": "Falls die Magierin lebendig ist, wählt der Erzähler, welcher Scherge das Lil' Monsta hütet.",
+    "lilmonsta-marionette": "Falls eine Marionette im Spiel wäre, kommt sie ins Spiel, nachdem entschieden wurde, wer der erste Dämon ist, & sie muss als sein Nachbar ins Spiel starten.",
     "lilmonsta-poppygrower": "Falls Lil' Monsta & der Mohnzüchter lebendig sind, erwachen die Schergen einzeln nacheinander, bis einer von ihnen wählt, das Lil' Monsta-Plättchen zu nehmen.",
     "lilmonsta-psychopath": "Falls der Psychopath das Lil' Monsta hütet, stirbt er, wenn er hingerichtet wird.",
     "lilmonsta-scarletwoman": "Falls das Lil' Monsta stirbt während 5 oder mehr Spieler lebendig sind, hütet die Scharlachrote Frau das Lil' Monsta für den Rest des Spiels.",
     "lilmonsta-vizier": "Falls der Wesir das Lil' Monsta hütet, stirbt er, wenn er hingerichtet wird.",
+    "lleech-mastermind": "Falls der Strippenzieher lebendig ist und der Wirt des Lleechs durch Hinrichtung stirbt, überlebt der Lleech, aber verliert seine Fähigkeit.",
     "lleech-slayer": "Falls der Dämonenjäger den Wirt des Lleechs wählt, stirbt der Wirt.",
     "lordoftyphon-summoner": "Falls ein Lord of Typhon beschworen wird, muss er direkt benachbart zu einem Schergen sitzen & sein anderer Nachbar wird zu einem bösen Schergen.",
     "lunatic-mathematician": "Der Mathematiker könnte es erfahren, falls die Verrückte einen anderen Spieler angreift als den, welchen der echte Dämon angreift.",
@@ -116,6 +125,10 @@
     "magician-wraith": "Nach jeder Hinrichtung darf die lebendige Magierin öffentlich einen lebendigen Spieler als den Geist raten. Falls sie ihn errät, muss der Dämon heute Nacht den Geist wählen.",
     "marionette-mathematician": "Der Mathematiker könnte es erfahren, falls die Fähigkeit der Marionette falsche Informationen geliefert oder nicht richtig funktioniert hat.",
     "marionette-plaguedoctor": "Falls der Erzähler die Fähigkeit der Marionette erhalten würde, wird stattdessen einer der guten Nachbarn des Dämons zur Marionette.",
+    "marionette-summoner": "Falls eine Marionette im Spiel wäre, kommt sie ins Spiel, nachdem entschieden wurde, wer der Dämon ist, & sie muss als sein Nachbar ins Spiel starten.",
+    "mastermind-vigormortis": "Ein toter Strippenzieher, der über seine Fähigkeit verfügt, behält sie, falls der Vigormortis stirbt.",
+    "mayor-riot": "Der Bürgermeister kann wählen, die Nominierungskette des Riots abzubrechen. Falls er dies tut, während nur 1 Riot lebendig ist, gewinnt Gut. Ansonsten gewinnt Böse.",
+    "monk-riot": "Falls der Riot den vom Mönch beschützten Spieler nominiert und dieser hingerichtet wird, gewinnt Gut.",
     "ogre-pithag": "Falls das Grubenweib einen bösen Spieler in den Oger verwandelt, kann dieser durch seine eigene Fähigkeit nicht gut werden.",
     "ogre-recluse": "Falls der Einsiedler dem Oger als böse erscheint, erfährt der Oger, dass er selbst böse ist.",
     "ogre-spy": "Der Spion erscheint dem Oger als böse.",
@@ -228,7 +241,8 @@
   "roles": {
     "acrobat": {
       "ability": "Wähle jede Nacht* 1 Spieler: Falls er heute Nacht betrunken oder vergiftet ist oder wird, stirbst du.",
-      "flavor": "Meine Damen und Herren, halten Sie sich fest, denn ich werde mich über die Gesetze der Schwerkraft hinwegsetzen und in der Luft tanzen. Erleben Sie ein Wunderwerk an Beweglichkeit und Wagemut, ganz zu Ihrer Freude und Verwunderung!"
+      "flavor": "Meine Damen und Herren, halten Sie sich fest, denn ich werde mich über die Gesetze der Schwerkraft hinwegsetzen und in der Luft tanzen. Erleben Sie ein Wunderwerk an Beweglichkeit und Wagemut, ganz zu Ihrer Freude und Verwunderung!",
+      "name": "Akrobatin"
     },
     "alchemist": {
       "ability": "Du hast eine Schergen-Fähigkeit. Wenn du diese einsetzt, kann der Erzähler dich auffordern, anders auszuwählen.",
@@ -1134,7 +1148,7 @@
     },
     "voudon": {
       "ability": "Nur du & die Toten können abstimmen. Dafür brauchen sie kein Abstimmungsplättchen. Eine 50% Mehrheit ist nicht erforderlich.",
-      "flavor": "Byen venu. Bitte setzen Sie sich. Atmen Sie tief durch. Betreten Sie das Land der Toten. Sehen Sie mit ihren Augen.  Sprechen Sie mit ihrer Stimme. Yon sel lang se janm ase.",
+      "flavor": "Byen venu. Bitte setzen Sie sich. Atmen Sie tief durch. Betreten Sie das Land der Toten. Sehen Sie mit ihren Augen. Sprechen Sie mit ihrer Stimme. Yon sel lang se janm ase.",
       "name": "Voudon"
     },
     "washerwoman": {
