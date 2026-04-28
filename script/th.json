@@ -60,11 +60,11 @@
   "delete-script-confirmation": "คุณแน่ใจใช่ไหมว่าจะลบสคริปต์นี้ สิ่งนี้ไม่สามารถย้อนกลับได้",
   "djinn-rules": "กฎของญิน",
   "edition": {
-    "base-three": "เบส",
+    "base-three": "ตัวละครพื้นฐาน",
     "carousel": "หรรษาม้าหมุน",
     "custom": "กำหนดเอง",
     "experimental": "ตัวละครทดลอง",
-    "homebrew": "กฎประจำบ้าน",
+    "homebrew": "ตัวละครประจำบ้าน",
     "kickstarter": "Kickstarter"
   },
   "export": {
