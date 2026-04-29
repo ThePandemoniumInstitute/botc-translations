@@ -664,7 +664,8 @@
     "hatter": {
       "ability": "Wenn du stirbst, dürfen sich Schergen & Dämonen in dieser Nacht neue Schergen- & Dämonencharaktere aussuchen.",
       "flavor": "Ein Hut. Zu Hut. Drei Hut. Teehut. Vorhut. Fingerhut. Sechs Hut. Stock und Hut.",
-      "name": "Hutmacher"
+      "name": "Hutmacher",
+      "other": "Falls der Hutmacher gestorben ist, wecke die Schergen & Dämon(en). Jeder darf einen neuen Charakter wählen. Zeige jedem, der dies tut, das Infoplättchen *DU BIST* & sein neues Charakterplättchen."
     },
     "hellslibrarian": {
       "ability": "Etwas Schlimmes könnte demjenigen passieren, der spricht, nachdem der Erzähler um Ruhe gebeten hat.",
@@ -683,8 +684,10 @@
     },
     "highpriestess": {
       "ability": "Jede Nacht erfährst du, von welchem Spieler der Erzähler glaubt, dass du am dringendsten mit ihm sprechen solltest.",
+      "first": "Zeige auf einen Spieler.",
       "flavor": "Es gibt Leben hinter der Persönlich-keit, die Persönlichkeiten als Masken benutzt. Es gibt Momente, in denen das Leben die Maske ablegt und Tiefe auf Tiefe antwortet.",
-      "name": "Hohepriesterin"
+      "name": "Hohepriesterin",
+      "other": "Zeige auf einen Spieler."
     },
     "huntsman": {
       "ability": "Einmal im Spiel, in der Nacht, wähle einen lebendigen Spieler: Die Unschuld, falls gewählt, wird ein Bürger, der nicht im Spiel ist. [+Unschuld]",
@@ -722,13 +725,16 @@
     },
     "kazali": {
       "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. [Du wählst welche Spieler welche Schergen sind. -? bis +? Außenseiter]",
+      "first": "Die Kazali wählt, welche Spieler welche Schergen werden. Wecke jeden gewählten Spieler. Zeige ihm das Infoplättchen *DU BIST* und das Charakterplättchen des Schergen & zeige ihm einen Daumen nach unten.",
       "flavor": "Gon(z)a7les6. 61b 8. D3r M3ch4n15mu5 157 iNvert13r7. E99ors insy6tum. Reco\\{7\\}fig.",
       "name": "Kazali"
     },
     "king": {
       "ability": "Jede Nacht, falls es mindestens so viele Tote gibt wie Lebendige, erfährst du 1 lebendigen Charakter. Der Dämon weiß, dass du der König bist.",
+      "first": "Wecke den Dämon: Zeige ihm das Infoplättchen *DIESER SPIELER IST* & das König-Plättchen, dann zeige auf den König-Spieler.",
       "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show.",
-      "name": "König"
+      "name": "König",
+      "other": "Sobald die Anzahl der toten Spieler die Anzahl der lebendigen Spieler erreicht oder übersteigt, zeige ihm ein Charakterplättchen eines lebendigen Spielers."
     },
     "klutz": {
       "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebendigen Spieler: Falls er böse ist, verliert dein Team.",
@@ -737,6 +743,7 @@
     },
     "knight": {
       "ability": "Du weißt zu Beginn von 2 Spielern, dass sie nicht der Dämon sind.",
+      "first": "Zeige auf die zwei Spieler, die mit “Bekannt” markiert sind.",
       "flavor": "Wenn ein Mensch lügt, tötet er einen Teil der Welt.",
       "name": "Ritter"
     },
@@ -768,6 +775,7 @@
     },
     "lordoftyphon": {
       "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. [Böse Charaktere sitzen in einer Reihe, mit dir in der Mitte. +1 Scherge. -? bis +? Außenseiter]",
+      "first": "Wecke die Nachbarn des Lord of Typhon. Zeige jedem dieser Spieler *DU BIST* und ein eigenes Schergen-Plättchen & einen Daumen nach unten.",
       "flavor": "In den schattigen und vergessenen Winkeln des Kosmos, wo die Sterne der Leere Geheimnisse zuflüstern, liegt eine Wahrheit, die so tiefgründig ist, dass schon der kleinste Blick darauf den Verstand der Sterblichen in den Wahnsinn treibt.",
       "name": "Lord of Typhon"
     },
@@ -785,11 +793,13 @@
     },
     "magician": {
       "ability": "Der Dämon hält dich für einen Schergen. Die Schergen halten dich für einen Dämon.",
+      "first": "Zeige während der Schergen-Info auf die Magierin und den Dämon. Zeige während der Dämon-Info auf die Magierin und die Schergen.",
       "flavor": "1… 2… Abra… 3… 4… Cadabra… <puff!> Und wie Sie sehen können, meine Damen und Herren, ist Captain Farnsworths Goldbeutel verschwunden! Weg! Ohne irgendeine Spur! Vielen Dank und gute Nacht!",
       "name": "Magierin"
     },
     "marionette": {
       "ability": "Du denkst, dass du ein guter Charakter bist, aber das stimmt nicht. Der Dämon weiß, wer du bist. [Du sitzt neben dem Dämon]",
+      "first": "Wecke den Dämon. Zeige das Infoplättchen *DIESER SPIELER IST*& das Marionette-Plättchen. Zeige auf den Marionetten-Spieler.",
       "flavor": "Worte, Worte. Sie sind alles, worauf wir uns stützen können.",
       "name": "Marionette"
     },
@@ -817,6 +827,7 @@
     },
     "mezepheles": {
       "ability": "Du weißt zu Beginn ein geheimes Wort. Der 1. gute Spieler, der dieses Wort sagt, wird in der folgenden Nacht böse.",
+      "first": "Zeige das geheime Wort.",
       "flavor": "Was aus dem Herzen kommt, wird die Herzen anderer zu deinem eigenen beugen.",
       "name": "Mezepheles"
     },
@@ -853,6 +864,7 @@
     },
     "noble": {
       "ability": "Du weißt zu Beginn von 3 Spielern, dass genau 1 von ihnen böse ist.",
+      "first": "Zeige auf die 3 Spieler, die als *Bekannt* markiert sind.",
       "flavor": "Sarkasmus ist in der Tat die geringste Form von Geisteskraft. Aber um auf ihre Kritik einzugehen, Sir, ist er dennoch eine Form von Geisteskraft.",
       "name": "Adlige"
     },
@@ -903,6 +915,7 @@
     },
     "pixie": {
       "ability": "Du weißt zu Beginn 1 Bürger, der im Spiel ist. Falls du besessen davon warst, dieser Charakter zu sein, erhältst du seine Fähigkeit, wenn er stirbt.",
+      "first": "Zeige das mit *Besessen* markierte Bürger-Charakterplättchen.",
       "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town. Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me.",
       "name": "Feenkind"
     },
