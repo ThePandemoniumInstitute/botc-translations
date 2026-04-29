@@ -246,6 +246,7 @@
     },
     "alchemist": {
       "ability": "Du hast eine Schergen-Fähigkeit. Wenn du diese einsetzt, kann der Erzähler dich auffordern, anders auszuwählen.",
+      "first": "Zeige das *DU BIST* Infoplättchen und ein Schergenplättchen.",
       "flavor": "Besuche das Innere der Erde. Durch Berichtigung wirst du den verborgenen Stein finden. Über dem Gold wird das Rote liegen. Verbinde es mit Malkuth.",
       "name": "Alchemist"
     },
@@ -261,8 +262,10 @@
     },
     "amnesiac": {
       "ability": "Du weißt deine Fähigkeit nicht. Rate jeden Tag geheim, was sie ist: Du erfährst, wie nah du daran bist, sie zu erraten.",
+      "first": "Mache alles, was nötig ist, um die Fähigkeit der Vergesslichen zu erfüllen.",
       "flavor": "Warte! Was? Wer? Oh, okay. Warte...Warte...Was?",
-      "name": "Vergessliche"
+      "name": "Vergessliche",
+      "other": "Mache alles, was nötig ist, um die Fähigkeit der Vergesslichen zu erfüllen."
     },
     "angel": {
       "ability": "Etwas Schlimmes könnte demjenigen passieren, der am meisten für den Tod eines neuen Spielers verantwortlich ist.",
@@ -332,6 +335,7 @@
     },
     "boffin": {
       "ability": "Der Dämon hat (sogar wenn er betrunken oder vergiftet ist) die Fähigkeit eines nicht im Spiel befindlichen guten Charakters. Ihr wisst beide welche.",
+      "first": "Wecke die Laborrate und den Dämon. Zeige das Infoplättchen “Dieser Charakter hat dich gewählt” & das Plättchen der Laborratte, dann das nicht im Spiel befindliche gute Charakterplättchen.",
       "flavor": "Sternenwasserstoff, riesig, inert; Kohlenstoff, Sauerstoff, Neongase, alles ruiniert. Molekulares Chaos, Entropie, bringt neue kosmische Phänomene hervor, Wieder-geburt aus atomarem Chaos, dichte Materie kollabiert. Alles in einer winzigen kleinen Flasche.",
       "name": "Laborratte"
     },
@@ -348,8 +352,10 @@
     },
     "bountyhunter": {
       "ability": "Du weißt zu Beginn, dass 1 Spieler böse ist. Wenn er stirbt, erfährst du heute Nacht von einem anderen bösen Spieler. [1 Bürger ist böse]",
+      "first": "Zeige auf den als “Bekannt” markierten Spieler.",
       "flavor": "Allein gehe ich durch diese Straßen, die vom widerlichen Gestank der Korruption durchzogen sind. Seine Schwere dringt ungebeten in meine Nasenlöcher und lässt sie brennen vor Abscheu… und Vorfreude. Die Verderbtheit dieses elenden Ortes wächst jede Nacht. Und ich... Ich bin das Heilmittel.",
-      "name": "Kopfgeldjäger"
+      "name": "Kopfgeldjäger",
+      "other": "Falls der als “Bekannt” markierte Spieler heute am Tag oder in der Nacht gestorben ist, zeige auf den neuen als “Bekannt” markierten Spieler."
     },
     "buddhist": {
       "ability": "In den ersten 2 Minuten jedes Tages dürfen erfahrene Spieler nicht reden.",
@@ -379,7 +385,8 @@
     "cacklejack": {
       "ability": "Wähle jeden Tag 1 Spieler: Heute Nacht wechselt 1 anderer Spieler den Charakter.",
       "flavor": "Kabel α An Kabel β. LicHt aN. BuZZer aus. GAzOinks! Arme G3r4d3. FingER zUr nase. hAaaLt stiLL. BoiNgo-banGo! Ha-ha-ha!",
-      "name": "Kicherjeck"
+      "name": "Kicherjeck",
+      "other": "Wähle vor der Morgendämmerung einen nicht mit “Ich nicht” markierten Spieler. Wecke diesen Spieler. Zeige das Infoplättchen “Du bist” & sein neues Charakterplättchen."
     },
     "cannibal": {
       "ability": "Du hast die Fähigkeit des zuletzt durch Hinrichtung Gestorbenen. Falls er böse ist, bist du vergiftet, bis ein Guter durch Hinrichtung stirbt.",
@@ -409,7 +416,8 @@
     "choirboy": {
       "ability": "Falls der Dämon den König tötet, erfährst du, welcher Spieler der Dämon ist. [+König]",
       "flavor": "Ich habe es gesehen. Wirklich! Ich saß in der Kirchenbank und ordnete die Gesangbücher, als eine schreckliche Melodie von der Orgel erklang. Der Organist trug einen langen Umhang und hatte lange Finger, die über die Tasten glitten. Und einen Hut, der aussah… genau wie… deiner.",
-      "name": "Chorknabe"
+      "name": "Chorknabe",
+      "other": "Falls der Dämon den König getötet hat, zeige auf den Dämon-Spieler."
     },
     "clockmaker": {
       "ability": "Du weißt zu Beginn, wie viele Schritte es vom Dämon zum nächsten Schergen sind.",
@@ -426,13 +434,17 @@
     },
     "cultleader": {
       "ability": "Jede Nacht wird deine Fraktion zu der Fraktion eines deiner lebendigen Nachbarn. Falls alle guten Spieler deinem Kult beitreten, gewinnt dein Team.",
+      "first": "Die Fraktion des Kultführers könnte sich ändern. Falls dies geschieht, zeige ihm das Infoplättchen *DU BIST* & Daumen hoch oder runter.",
       "flavor": "Sich selbst für weise haltend, machten sie sich zu Narren.",
-      "name": "Kultführer"
+      "name": "Kultführer",
+      "other": "Die Fraktion des Kultführers könnte sich ändern. Falls dies geschieht, zeige ihm das Infoplättchen *DU BIST* & Daumen hoch oder runter."
     },
     "damsel": {
       "ability": "Alle Schergen wissen, dass die Unschuld im Spiel ist. Falls ein Scherge öffentlich errät (einmalig), dass du es bist, verliert dein Team.",
+      "first": "Zeige den Schergen während der Schergen-Info das Plättchen der Unschuld. Falls du dies noch nicht gemacht hast, mache es jetzt. Falls die Unschuld vom Jäger gewählt wurde, zeige ihr das Infoplättchen *DU BIST* & ihr neues Charakterplättchen.",
       "flavor": "Fass die Haare nicht an, Schätzchen.",
-      "name": "Unschuld"
+      "name": "Unschuld",
+      "other": "Falls die Unschuld vom Jäger gewählt wurde, zeige ihr das Infoplättchen *DU BIST* & ihr neues Charakterplättchen."
     },
     "dawn": {
       "first": "Warte ein paar Sekunden. Dann wecke alle Spieler.",
@@ -526,7 +538,8 @@
     "farmer": {
       "ability": "Wenn du in der Nacht stirbst, wird 1 lebendiger guter Spieler ein Farmer.",
       "flavor": "Selbst die Edlen und Mächtigen brauchen Essen auf dem Tisch. Ohne uns würde die Stadt verhungern.",
-      "name": "Farmer"
+      "name": "Farmer",
+      "other": "Falls der Farmer heute Nacht gestorben ist, wecke einen lebendigen guten Spieler. Zeige ihm das Infoplättchen *DU BIST* und ein Farmerplättchen."
     },
     "fearmonger": {
       "ability": "Wähle jede Nacht 1 Spieler: Falls du ihn nominierst & er hingerichtet wird, verliert sein Team. Alle Spieler erfahren, wenn du einen neuen Spieler wählst.",
@@ -582,10 +595,15 @@
       "flavor": "Ich mag deine Schuhe. Es wäre wirklich eine Schande, wenn du einen kleinen Unfall hottest und sie ruiniert würden. Jetzt, wo du es sagst, ich mag auch deine Manschettenknöpfe.",
       "name": "Gangster"
     },
+    "gardener": {
+      "name": "Gärtner"
+    },
     "general": {
       "ability": "Jede Nacht erfährst du, von welcher Fraktion der Erzähler glaubt, dass sie gewinnt: Gut, Böse oder keine.",
+      "first": "Zeige mit dem Daumen in eine Richtung.",
       "flavor": "Ich habe keine Zeit für Zitate.",
-      "name": "General"
+      "name": "General",
+      "other": "Zeige mit dem Daumen in eine Richtung."
     },
     "gnome": {
       "ability": "Alle Spieler wissen zu Beginn von 1 Spieler, dass er in deiner Fraktion ist. Du darfst jeden töten, der ihn nominiert.",
