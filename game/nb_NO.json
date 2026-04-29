@@ -89,6 +89,7 @@
     "night3": "Natt 3",
     "noability": "Ingen evne",
     "nomoreevil": "Ingen flere onde",
+    "notme": "Ikke Meg",
     "once": "Én gang",
     "outsider": "Utenforstående",
     "poisoned": "Forgiftet",
@@ -107,16 +108,25 @@
   },
   "roles": {
     "acrobat": {
+      "ability": "Hver natt*, velg en spiller: du dør om hen er eller blir full eller forgifted i natt.",
       "name": "Akrobat",
       "other": "Akrobaten velger en spiller. :reminder:"
     },
     "alchemist": {
+      "first": "Vis *DU ER* infobrikken og en Undersåttbrikke.",
       "name": "Alkymist"
     },
     "alhadikhia": {
-      "flavor": "Alsukut min dhahab."
+      "ability": "Hver natt*, kan du velge 3 spillere (alle spillerne vet hvem): de velger i hemmelighet å leve eller å dø, men hvis alle velger å leve, dør alle.",
+      "flavor": "Alsukut min dhahab.",
+      "name": "Al-Hadikhia",
+      "other": "Al-Hadikhia velger 3 spillere. :reminder: :reminder: :reminder: I rekkefølge, vekk hver spiller. Hen nikker eller rister på hodet og så lukker øynene. Vekk så neste spiller."
+    },
+    "alsaahir": {
+      "flavor": "Jeg er her på grunn av deg, og du er her på grunn av meg."
     },
     "amnesiac": {
+      "first": "Gjør det som trengs for å tilfredsstille Den Glemskes evne.",
       "flavor": "Vent. Hva. Hvem? Åh, ok. Vent. Hva?"
     },
     "angel": {
@@ -138,9 +148,14 @@
       "ability": "Fortelleren kan bryte spillereglene. Godt lag vinner om de henretter Fortelleren, selv om du er død. [Ingen onde rolle]",
       "name": "Ateist"
     },
+    "banshee": {
+      "ability": "Hvis Demonen dreper deg, lærer alle spillerne dette. Fra nå av, kan du nominere to ganger per dag og stemme to ganger per nominasjon."
+    },
     "barber": {
       "ability": "Hvis du dør i dag eller i natt, kan demonen velge to spillere (ikke en annen demon) som bytter roller.",
-      "name": "Barberer"
+      "flavor": "Viste du at frisering og kirurgi var en gang det samme yrke? Nei? Nå vet du det.",
+      "name": "Barberer",
+      "other": "Hvis Frisøren døde i dag eller i natt, vis Demonen *DENNE ROLLEN VALGTE DEG* og Frisør brikkene. Hvis Demonen velger 2 spiller, vekk de en av gangen. Vis *DU ER* brikken og hens nye rolle brikke."
     },
     "barista": {
       "name": "Barista"
@@ -691,6 +706,10 @@
       "first": "Gi Minion- og Demon-info, selv om det er færre enn 7 spillere.",
       "name": "Leketøymaker",
       "other": "Hvis et Demonangrep kan avslutte spillet, og Demonen er merket med *SISTE NATT: INGEN ANGREP*, må du ikke vekke Demonen."
+    },
+    "undertaker": {
+      "ability": "Hver natt*, lær hvilken rolle døde av henrettelse i dag.",
+      "other": "Hvis en spiller var henrettet i dag, vis hens rollebrikke."
     },
     "ventriloquist": {
       "ability": "Hvis en spiller er gal om at de har en ny rolle under nominasjonen, kan det hende de ikke dør hvis de henrettes i dag."
