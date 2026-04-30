@@ -39,7 +39,7 @@
   "author": "Tekijä",
   "author-placeholder": "Tuntematon",
   "bootlegger-rules": "Trokarin Säännöt",
-  "by-author": "tehnyt {author}",
+  "by-author": "tekijä: {author}",
   "by-author-isolated": "tehnyt",
   "character-tooltip": "Vedä siirtääksesi, tuplaklikkaa tai oikeaklikkaa näyttääksesi kontekstivalikon",
   "characters": "Hahmot",
