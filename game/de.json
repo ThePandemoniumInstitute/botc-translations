@@ -189,6 +189,7 @@
     "fear": "Angst",
     "finalnightnoattack": "Letzte Nacht: Kein Angriff",
     "friend": "Freund",
+    "goal": "Ziel",
     "good": "Gut",
     "goodplayerexecuted": "Guter Spieler hingerichtet",
     "grandchild": "Enkelkind",
@@ -297,8 +298,10 @@
     },
     "balloonist": {
       "ability": "Jede Nacht erfährst du von einem Spieler, der einen anderen Charaktertyp hat als der Spieler aus der Nacht davor. [+0 oder +1 Außenseiter]",
+      "first": "Zeige auf irgendeinen Spieler. :reminder:",
       "flavor": "Mehr Hitze! Höher! Höher! Più alto! Ahhh... es ist so schön von hier oben, findest du nicht auch? Kannst du die Kinder sehen, die am Fluss unter der Weide angeln? Kannst du das Glitzern der Sonne auf den Zirkuszelt-stangen sehen? Was ist das? Ein alter Mann, allein, ohnmächtig im Weinberg? Weniger Hitze! Tiefer! Tiefer! Vai più in basso!",
-      "name": "Ballonfahrer"
+      "name": "Ballonfahrer",
+      "other": "Zeige auf einen Spieler, dessen Charaktertyp sich von dem Charaktertyp des zuvor gezeigten Spielers unterscheidet. :reminder:"
     },
     "banshee": {
       "ability": "Falls der Dämon dich tötet, erfahren dies alle Spieler. Von nun an darfst du zweimal pro Tag nominieren und zweimal pro Nominierung abstimmen.",
