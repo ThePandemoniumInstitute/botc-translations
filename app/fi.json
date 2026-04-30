@@ -812,7 +812,7 @@
       "button_verify": "Vahvista Tili",
       "characters": "Hahmot",
       "create_game": "Luo Uusi Peli",
-      "edition_by": "tehnyt {author}",
+      "edition_by": "tekijä: {author}",
       "forced_private": "Et voi enää pelata julkipeleissä.",
       "free_tier_free": "Maksuton",
       "free_tier_patreon": "Patreon",
