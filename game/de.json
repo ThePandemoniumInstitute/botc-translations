@@ -33,6 +33,7 @@
     "alhadikhia-princess": "Falls die Prinzessin an ihrem ersten Tag einen Spieler nominiert hat, der hingerichtet wurde, stirbt heute Nacht niemand durch den Al-Hadikhia.",
     "alhadikhia-scarletwoman": "Falls es zwei lebendige Dämonen geben würde, von denen einer vorher die Scharlachrote Frau war, wird die ehemalige Scharlachrote Frau wieder zur Scharlachroten Frau.",
     "alsaahir-vizier": "Der Erzähler verkündet nicht, dass der Wesir im Spiel ist.",
+    "atheist-riot": "Falls der Erzähler während einer Riot-Nominierungskette nominiert wird, stimmen die Spieler wie bei einer Verbannung ab. Falls mindestens die Hälfte aller Spieler dafür stimmen, endet das Spiel. Falls nicht, nominiert der Erzähler wieder.",
     "balloonist-marionette": "Falls die Marionette glaubt, dass sie der Ballonfahrer ist, kann im Aufbau ein Außenseiter hinzugefügt worden sein.",
     "banshee-leviathan": "Jede Nacht* wählt der Leviathan einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Eine gewählte Banshee stirbt & erhält ihre Fähigkeit.",
     "banshee-riot": "Jede Nacht* wählt Riot einen lebendigen guten Spieler (einen anderen als in vorherigen Nächten): Eine gewählte Banshee stirbt & erhält ihre Fähigkeit.",
@@ -196,6 +197,7 @@
     "guessused": "Rateversuch verbraucht",
     "haircutstonight": "Haare schneiden",
     "hasability": "Hat Fähigkeit",
+    "hat": "Hut",
     "isthealchemist": "Ist der Alchemist",
     "istheapprentice": "Ist der Lehrling",
     "isthedemon": "Ist der Dämon",
@@ -243,7 +245,8 @@
     "acrobat": {
       "ability": "Wähle jede Nacht* 1 Spieler: Falls er heute Nacht betrunken oder vergiftet ist oder wird, stirbst du.",
       "flavor": "Meine Damen und Herren, halten Sie sich fest, denn ich werde mich über die Gesetze der Schwerkraft hinwegsetzen und in der Luft tanzen. Erleben Sie ein Wunderwerk an Beweglichkeit und Wagemut, ganz zu Ihrer Freude und Verwunderung!",
-      "name": "Akrobatin"
+      "name": "Akrobatin",
+      "other": "Die Akrobatin wählt einen Spieler. :reminder:"
     },
     "alchemist": {
       "ability": "Du hast eine Schergen-Fähigkeit. Wenn du diese einsetzt, kann der Erzähler dich auffordern, anders auszuwählen.",
@@ -335,7 +338,8 @@
     },
     "bigwig": {
       "ability": "Jeder Nominierte wählt einen Spieler: bis zur Abstimmung darf nur dieser Spieler sprechen & er ist besessen davon, dass der Nominierte gut ist oder er könnte sterben.",
-      "flavor": "Die Eitelkeit fragt: „Ist es beliebt?“ Die Feigheit fragt: „Ist es sicher?“ Das Gewissen fragt: „Ist es richtig?“ Wer von uns wird fragen: „Ist es wahr?“"
+      "flavor": "Die Eitelkeit fragt: „Ist es beliebt?“ Die Feigheit fragt: „Ist es sicher?“ Das Gewissen fragt: „Ist es richtig?“ Wer von uns wird fragen: „Ist es wahr?“",
+      "name": "Fürsprecher"
     },
     "bishop": {
       "ability": "Nur der Erzähler kann nominieren. Unter den Nominierten muss jeden Tag mindestens 1 Spieler aus der gegnerischen Fraktion sein.",
