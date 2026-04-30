@@ -254,7 +254,8 @@
     "alhadikhia": {
       "ability": "Jede Nacht* darfst du 3 Spieler auswählen (alle erfahren wer): Jeder davon wählt still “Leben” oder “Tod”, aber falls alle leben, sterben alle.",
       "flavor": "Alsukut min dhahab.",
-      "name": "Al-Hadikhia"
+      "name": "Al-Hadikhia",
+      "other": "Der Al-Hadikhia wählt 3 Spieler. :reminder: :reminder: :reminder: Wecke die gewählten Spieler der Reihe nach auf. Sie nicken oder schütteln den Kopf. Lasse sie einschlafen, bevor du das nächste Ziel weckst."
     },
     "alsaahir": {
       "ability": "Jeden Tag: Falls du öffentlich errätst, welche Spieler Scherge(n) und welche Dämon(en) sind, gewinnt Gut.",
