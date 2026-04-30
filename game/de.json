@@ -306,7 +306,8 @@
     "banshee": {
       "ability": "Falls der Dämon dich tötet, erfahren dies alle Spieler. Von nun an darfst du zweimal pro Tag nominieren und zweimal pro Nominierung abstimmen.",
       "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
-      "name": "Banshee"
+      "name": "Banshee",
+      "other": "Falls die Banshee heute Nacht vom Dämon getötet wurde, verkünde, dass die Banshee gestorben ist. :reminder:"
     },
     "barber": {
       "ability": "Wenn du stirbst, darf der Dämon in dieser Nacht 2 Spieler (keinen anderen Dämon) auswählen, die ihre Charaktere tauschen.",
@@ -879,13 +880,15 @@
     },
     "ogre": {
       "ability": "Wähle in deiner 1. Nacht 1 Spieler (nicht dich selbst): Du wechselst zu seiner Fraktion (du erfährst sie nicht), sogar wenn du betrunken oder vergiftet bist.",
+      "first": "Der Oger wählt einen Spieler. :reminder:",
       "flavor": "“<grunz> <grins> </grunz>",
       "name": "Oger"
     },
     "ojo": {
       "ability": "Wähle jede Nacht* 1 Charakter: Er stirbt. Falls der Charakter nicht im Spiel ist, entscheidet der Erzähler, wer stirbt.",
       "flavor": "Wie ein Lagerfeuer in einer mondlosen Nacht… sehe ich dich, Sterblicher.",
-      "name": "Ojo"
+      "name": "Ojo",
+      "other": "Der Ojo wählt einen Charakter. :reminder:"
     },
     "oracle": {
       "ability": "Jede Nacht* erfährst du, wie viele tote Spieler böse sind.",
@@ -895,8 +898,10 @@
     },
     "organgrinder": {
       "ability": "Alle Spieler schließen für Abstimmungen die Augen & das Ergebnis ist geheim. Wähle jede Nacht, ob du bis zur Abenddämmerung betrunken bist.",
+      "first": "Der Drehorgelspieler nickt entweder, um betrunken zu sein, oder schüttelt den Kopf, um nüchtern zu sein. :reminder:",
       "flavor": "Die Orgel dreht sich immer weiter. Je mehr du tanzt, desto weniger weißt du.",
-      "name": "Drehorgelspieler"
+      "name": "Drehorgelspieler",
+      "other": "Der Drehorgelspieler nickt entweder, um betrunken zu sein, oder schüttelt den Kopf, um nüchtern zu sein. :reminder:"
     },
     "pacifist": {
       "ability": "Hingerichtete gute Spieler sterben möglicherweise nicht.",
@@ -947,18 +952,23 @@
     },
     "poppygrower": {
       "ability": "Schergen & Dämonen kennen einander nicht. Falls du stirbst, lernen sie sich heute Nacht kennen.",
+      "first": "Führe die Schritte Schergen-Info und Dämon-Info nicht aus. Wecke den Dämon. Zeige ihm das Infoplättchen *DIESE CHARAKTERE SIND NICHT IM SPIEL*. Zeige 3 nicht im Spiel befindliche gute Charakterplättchen.",
       "flavor": "In den versteckten Hainen des tiefen Waldes wächst der schwarze Mohn. Wer sein Festmahl sieht, wird verzaubert. Wer seinen intensiven Duft riecht, ist für immer verloren, ein Sklave der Götter des Lichts und der Dunkelheit.",
-      "name": "Mohnzüchter"
+      "name": "Mohnzüchter",
+      "other": "Falls der Mohnzüchter heute am Tag oder in der Nacht gestorben ist, wecke alle Schergen. Zeige das Infoplättchen *DIES IST DER DÄMON*. Zeige auf den Dämon. Lasse die Schergen einschlafen. Wecke den Dämon. Zeige das Infoplättchen *DIES SIND DEINE SCHERGEN*. Zeige auf die Schergen."
     },
     "preacher": {
       "ability": "Wähle jede Nacht 1 Spieler: Falls er ein Scherge ist, erfährt er, dass er gewählt wurde. Alle gewählten Schergen haben keine Fähigkeit.",
+      "first": "Der Prediger wählt einen Spieler. :reminder: Falls er einen Schergen wählt: Lasse den Prediger einschlafen. Wecke den Schergen. Zeige ihm das Infoplättchen *DIESER CHARAKTER HAT DICH GEWÄHLT* & das Predigerplättchen.",
       "flavor": "Es ist besser reich und gesund zu sein als arm und krank.",
-      "name": "Prediger"
+      "name": "Prediger",
+      "other": "Der Prediger wählt einen Spieler. :reminder: Falls er einen Schergen wählt: Lasse den Prediger einschlafen. Wecke den Schergen. Zeige ihm das Infoplättchen *DIESER CHARAKTER HAT DICH GEWÄHLT* & das Predigerplättchen."
     },
     "princess": {
       "ability": "Falls du an deinem 1. Tag einen Spieler nominiert hast & er hingerichtet wurde, tötet der Dämon heute Nacht nicht.",
       "flavor": "Unsere Worte sind Hunde, gehalten von seidenen Fäden, ehrenwerte Herren. Möge Güte sie wahrhaftig verweben, damit sich die Zügel nicht auflösen und unseren Hof zerreißen.",
-      "name": "Prinzessin"
+      "name": "Prinzessin",
+      "other": "Falls die Prinzessin einen Spieler nominiert hat und dieser hingerichtet wurde, wecke den Dämon wie gewohnt auf, aber niemand stirbt durch die Fähigkeit des Dämons. :reminder:"
     },
     "professor": {
       "ability": "Einmal im Spiel, in der Nacht*, wähle 1 toten Spieler: Falls er ein Bürger ist, wird er wiederbelebt.",
@@ -1002,7 +1012,8 @@
     "riot": {
       "ability": "An Tag 3 werden alle Schergen zu Riot & Nominierte sterben, aber nominieren sofort 1 lebendigen Spieler. Dies muss geschehen.",
       "flavor": "Larga vida a la revolución! Mi revolucion!",
-      "name": "Riot"
+      "name": "Riot",
+      "other": "Ändere das Erinnerungsplättchen des Riots auf den richtigen Tag. :reminder: Falls es die 3. Nacht ist, kannst du die Schergen wecken. Zeige das Infoplättchen *DU BIST* & ein Riot-Plättchen."
     },
     "sage": {
       "ability": "Falls der Dämon dich tötet, erfährst du, dass er 1 von 2 bestimmten Spielern ist.",
@@ -1058,6 +1069,7 @@
     },
     "shugenja": {
       "ability": "Du weißt zu Beginn, ob der dir nächste böse Spieler im oder gegen den Uhrzeigersinn sitzt. Bei gleicher Entfernung ist diese Info willkürlich.",
+      "first": "Zeige im Uhrzeigersinn oder gegen den Uhrzeigersinn.",
       "flavor": "これは夢。それも夢。すべて夢です。",
       "name": "Shugenja"
     },
@@ -1075,6 +1087,7 @@
     },
     "snitch": {
       "ability": "Jeder Scherge erhält 3 Bluffs.",
+      "first": "Wecke jeden Schergen einzeln. Zeige das Infoplättchen *DIESE CHARAKTERE SIND NICHT IM SPIEL*. Zeige 3 nicht im Spiel befindliche Charakterplättchen.",
       "flavor": "Es war John.",
       "name": "Petze"
     },
@@ -1097,6 +1110,7 @@
     },
     "steward": {
       "ability": "Du weißt zu Beginn von 1 Spieler, dass er gut ist.",
+      "first": "Zeige auf den Spieler, der als “Bekannt” markiert ist.",
       "flavor": "Wie können Sie es WAGEN, ihre Ladyschaft eines Fehlverhaltens zu bezichtigen? Ich kenne sie schon mein ganzes Leben lang!",
       "name": "Gutsverwalter"
     },
@@ -1107,6 +1121,7 @@
     },
     "summoner": {
       "ability": "Du erhältst 3 Bluffs. Wähle in der 3. Nacht 1 Spieler: Er wird zu einem bösen Dämon deiner Wahl. [Kein Dämon]",
+      "first": "Zeige das Infoplättchen *DIESE CHARAKTERE SIND NICHT IM SPIEL*. Zeige 3 nicht im Spiel befindliche gute Charakterplättchen.",
       "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness.",
       "name": "Beschwörer"
     },
@@ -1161,8 +1176,10 @@
     },
     "villageidiot": {
       "ability": "Wähle jede Nacht 1 Spieler: Du erfährst seine Fraktion. [+0 bis +2 Dorftrottel. 1 der zusätzlichen ist betrunken]",
+      "first": "Falls es mehrere Dorftrottel gibt, markiere einen mit der Erinnerung *Betrunken*. :reminder: Wecke jeden Dorftrottel einzeln, um sie einen Spieler wählen zu lassen. Zeige ihm einen Daumen nach oben oder einen Daumen nach unten.",
       "flavor": "Veilchen sind rot. Rosen sind blau. Bitte drehe das um, dann stimmt es genau.",
-      "name": "Dorftrottel"
+      "name": "Dorftrottel",
+      "other": "Wecke jeden Dorftrottel einzeln, um sie einen Spieler wählen zu lassen. Zeige einen Daumen nach oben oder einen Daumen nach unten."
     },
     "virgin": {
       "ability": "Wenn du zum 1. Mal nominiert wirst: Falls der Nominierende ein Bürger ist, wird er sofort hingerichtet.",
@@ -1171,6 +1188,7 @@
     },
     "vizier": {
       "ability": "Alle Spieler wissen, dass du der Wesir bist. Du kannst am Tag nicht sterben. Falls Gut abgestimmt hat, darfst du die Hinrichtung sofort erzwingen.",
+      "first": "Verkünde, welcher Spieler der Wesir ist.",
       "flavor": "Eine ausgezeichnete Entscheidung, wie immer, Sir. Ein so geringfügi-ges Vergehen, wie das Anrempeln des Bischoffs verdient in der Tat Eure ‘Gerechtigkeit’ und ‘Gnade’. Spaziert durch die Gärten. Besucht die Gallerie, betrachtet die Von Strauf Skulptur. Entspannt Euch, Sir. Überlasst alles … mir.",
       "name": "Wesir"
     },
@@ -1205,13 +1223,17 @@
     },
     "wizard": {
       "ability": "Einmal im Spiel kannst du dir etwas wünschen. Falls gewährt, wird es möglicherweise einen Preis haben & einen Hinweis auf die Art des Wunsches hinterlassen.",
+      "first": "Tue, was auch immer nötig ist, um die Fähigkeit des Zauberers zu erfüllen.",
       "flavor": "Jeder Mann und jede Frau ist ein Stern. Liebe ist das Gesetz, Liebe unter Willen.",
-      "name": "Zauberer"
+      "name": "Zauberer",
+      "other": "Tue, was auch immer nötig ist, um die Fähigkeit des Zauberers zu erfüllen."
     },
     "wraith": {
       "ability": "Du darfst während der Nacht beliebig die Augen öffnen. Du wachst auf, wenn andere böse Spieler aufwachen.",
+      "first": "Wecke den Geist jedes Mal, wenn du einen anderen bösen Spieler weckst.",
       "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
-      "name": "Geist"
+      "name": "Geist",
+      "other": "Wecke den Geist jedes Mal, wenn du einen anderen bösen Spieler weckst."
     },
     "xaan": {
       "ability": "In Nacht X werden alle Bürger vergiftet bis zur Abenddämmerung. [X Außenseiter]",
@@ -1220,8 +1242,10 @@
     },
     "yaggababble": {
       "ability": "Du weißt zu Beginn 1 geheime Phrase. Für jedes Mal, dass du sie heute öffentlich gesagt hast, könnte 1 Spieler sterben.",
+      "first": "Zeige der Yaggababble ihre geheime Phrase.",
       "flavor": "Doppelmord in der Rue Morgue? Фальшивые новости! Der Hund von Baskerville? Фальшивые новости! Der Tod auf dem Nil? Фальшивые новости!",
-      "name": "Yaggababble"
+      "name": "Yaggababble",
+      "other": "Für jedes Mal, dass die Yaggababble heute ihre Phrase gesagt hat, könnte ein Spieler sterben. :reminder:"
     },
     "zealot": {
       "ability": "Falls 5 oder mehr Spieler lebendig sind, musst du für jede Nominierung abstimmen.",
