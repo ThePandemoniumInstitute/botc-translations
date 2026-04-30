@@ -333,6 +333,10 @@
       "flavor": "Almosen für die Armen, guter Herr? Haben Sie eine Münze übrig, meine Dame? Dankeschön. Gott segne Sie! Sie sind wirklich eine freundliche Seele. Ich werde heute Abend einen leckeren Happen essen. Oh ja, das werde ich!",
       "name": "Bettler"
     },
+    "bigwig": {
+      "ability": "Jeder Nominierte wählt einen Spieler: bis zur Abstimmung darf nur dieser Spieler sprechen & er ist besessen davon, dass der Nominierte gut ist oder er könnte sterben.",
+      "flavor": "Die Eitelkeit fragt: „Ist es beliebt?“ Die Feigheit fragt: „Ist es sicher?“ Das Gewissen fragt: „Ist es richtig?“ Wer von uns wird fragen: „Ist es wahr?“"
+    },
     "bishop": {
       "ability": "Nur der Erzähler kann nominieren. Unter den Nominierten muss jeden Tag mindestens 1 Spieler aus der gegnerischen Fraktion sein.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Volumus Dei. Deus vult nobis.",
