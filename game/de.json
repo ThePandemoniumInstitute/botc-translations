@@ -1237,8 +1237,10 @@
     },
     "xaan": {
       "ability": "In Nacht X werden alle Bürger vergiftet bis zur Abenddämmerung. [X Außenseiter]",
+      "first": "Falls X gleich 1 ist, markiere den Xaan mit der Erinnerung *X*. :reminder: :reminder:",
       "flavor": "Hinunter fallen sie. Einer nach dem anderen. Zu zweit, zu dritt, zu fünft.",
-      "name": "Xaan"
+      "name": "Xaan",
+      "other": "Ändere die Erinnerung des Xaan auf die richtige Nacht. Falls es Nacht X ist, markiere den Xaan mit der Erinnerung *X*. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Du weißt zu Beginn 1 geheime Phrase. Für jedes Mal, dass du sie heute öffentlich gesagt hast, könnte 1 Spieler sterben.",
