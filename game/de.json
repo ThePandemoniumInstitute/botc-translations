@@ -359,6 +359,10 @@
       "flavor": "Tick… Tick… Tick… TOCK.",
       "name": "Bombenleger"
     },
+    "bootlegger": {
+      "ability": "Dieses Skript enthält selbst erstellte Charaktere oder Regeln.",
+      "flavor": "Als ich geboren wurde, erhielt ich den Namen „Homebrewy McHomebrewface“, genau wie mein Vater vor mir. Ein respektabler Name für ein ehrwürdiges Alter."
+    },
     "bountyhunter": {
       "ability": "Du weißt zu Beginn, dass 1 Spieler böse ist. Wenn er stirbt, erfährst du heute Nacht von einem anderen bösen Spieler. [1 Bürger ist böse]",
       "first": "Zeige auf den als “Bekannt” markierten Spieler.",
