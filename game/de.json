@@ -1000,7 +1000,9 @@
       "name": "Politiker"
     },
     "pope": {
-      "ability": "Mindestens ein guter Charakter ist mehrfach im Spiel. Diese Charaktere sind möglicherweise auch Bluffs."
+      "ability": "Mindestens ein guter Charakter ist mehrfach im Spiel. Diese Charaktere sind möglicherweise auch Bluffs.",
+      "flavor": "...Pulcherrimae.",
+      "name": "Papst"
     },
     "poppygrower": {
       "ability": "Schergen & Dämonen kennen einander nicht. Falls du stirbst, lernen sie sich heute Nacht kennen.",
@@ -1203,6 +1205,13 @@
       "name": "Bastler",
       "other": "Der Bastler stirbt möglicherweise. :reminder:"
     },
+    "tor": {
+      "ability": "Spieler kennen ihren Charakter und ihre Fraktion nicht. Sie erfahren beides, wenn sie sterben.",
+      "first": "Lasse die Schritte Schergen-Info und Dämon-Info weg.",
+      "flavor": "Mit dem Donner als meiner Stimme und dem Blitz als meiner Klinge verschlinge ich, der ewige Wächter, die Narren, die es wagen, sich dem verbotenen Tor zu nähern. Seht, mein heiliges Ziel! Den Käfer aus dem Schoß der felsigen Erde zu vertreiben, ihn in einem Netz aus Sternen zu fangen, auf dem Hügel, wo Himmel und Erde sich treffen.",
+      "name": "Tor",
+      "other": "Falls heute Nacht ein Spieler gestorben ist, zeige ihm das Infoplättchen *DU BIST*, seinen Charakter & einen Daumen rauf oder runter."
+    },
     "towncrier": {
       "ability": "Jede Nacht* erfährst du, ob heute ein Scherge jemanden nominiert hat.",
       "flavor": "Herhören! Herhören! Hexerei im Irrgarten! Genialer Savant enthüllt alles! Stadt in Gefahr! Herhören!",
@@ -1221,6 +1230,11 @@
       "flavor": "Hmmm... was haben wir hier? Der linke Stiefel ist bis zur Ferse abgetragen, mit Feuersteinsplittern unter der Zunge. Dies ist das Gewand eines Soldaten.",
       "name": "Totengräber",
       "other": "Falls heute ein Spieler durch Hinrichtung gestorben ist, zeige dem Totengräber dessen Charakterplättchen."
+    },
+    "ventriloquist": {
+      "ability": "Falls ein Spieler während seiner Nominierung besessen davon ist, ein neuer Charakter zu sein, stirbt er möglicherweise nicht, falls er heute hingerichtet wird.",
+      "flavor": "Na, Leute, kommt mal her! Das hier ist mein Kumpel Charlie, und der hat so ein großes Maul, dass sogar ein Maultier rot werden würde. Aber keine Sorge, Leute, ich übernehme das Reden … oder etwa nicht?",
+      "name": "Bauchredner"
     },
     "vigormortis": {
       "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Von dir getötete Schergen behalten ihre Fähigkeit & vergiften 1 benachbarten Bürger. [-1 Außenseiter]",
@@ -1308,6 +1322,11 @@
       "ability": "Falls 5 oder mehr Spieler lebendig sind, musst du für jede Nominierung abstimmen.",
       "flavor": "Ich unterhalte mich gerne mit dir. Deine Denkweise gefällt mir. Sie ähnelt meiner eigenen, nur dass du zufällig verrückt bist.",
       "name": "Eiferer"
+    },
+    "zenomancer": {
+      "ability": "Ein oder mehr Spieler haben jeweils ein Ziel. Falls ein Ziel erreicht wird, erfährt dieser Spieler eine wahre Information.",
+      "flavor": "Man sagt, das Universum sei ein Verb, kein Substantiv, und es bestehe aus Schildkröten, Schildkröten bis in die Unendlichkeit. Schildkröten bis in die Unendlichkeit, mein Freund, Schildkröten bis in die Unendlichkeit.",
+      "name": "Zenomancer"
     },
     "zombuul": {
       "ability": "Jede Nacht*, falls heute kein Spieler starb, wähle 1 Spieler: Er stirbt. Wenn du zum 1. Mal stirbst, überlebst du, aber erscheinst tot.",
