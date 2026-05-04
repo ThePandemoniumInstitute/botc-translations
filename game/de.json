@@ -361,7 +361,8 @@
     },
     "bootlegger": {
       "ability": "Dieses Skript enthält selbst erstellte Charaktere oder Regeln.",
-      "flavor": "Als ich geboren wurde, erhielt ich den Namen „Homebrewy McHomebrewface“, genau wie mein Vater vor mir. Ein respektabler Name für ein ehrwürdiges Alter."
+      "flavor": "Als ich geboren wurde, erhielt ich den Namen „Homebrewy McHomebrewface“, genau wie mein Vater vor mir. Ein respektabler Name für ein ehrwürdiges Alter.",
+      "name": "Schwarzhändler"
     },
     "bountyhunter": {
       "ability": "Du weißt zu Beginn, dass 1 Spieler böse ist. Wenn er stirbt, erfährst du heute Nacht von einem anderen bösen Spieler. [1 Bürger ist böse]",
@@ -613,6 +614,8 @@
       "name": "Gangster"
     },
     "gardener": {
+      "ability": "Der Erzähler weist allen Spielern ihre Charaktere zu.",
+      "flavor": "Wenn die Sophisterei zur Dummheit und die Heuchelei zur Grausamkeit wird, zieh dich in den Garten zurück. Die letzte Liebe alter Männer gilt den Blumen und den Steinen.",
       "name": "Gärtner"
     },
     "general": {
@@ -638,6 +641,11 @@
       "flavor": "Was habe ich dir getan, dass du mich so respektlos behandelst? Du kommst in mein Haus, am Hochzeitstag meiner Tochter und bittest mich, einen Mord zu begehen.",
       "name": "Pate",
       "other": "Falls heute ein Außenseiter gestorben ist, wählt der Pate einen Spieler. :reminder:"
+    },
+    "godofug": {
+      "ability": "Wenn 1-Laut-Hut trag, darf nur je 1 Laut sag & stimm 2 mal ab. Wenn nicht mach, 1-Laut-Hut reist weg.",
+      "flavor": "Gesegnet sind meine Kinder, denn sie erkennen die Schönheit in den einfachen Dingen.",
+      "name": "Gott der Ugs"
     },
     "golem": {
       "ability": "Du kannst nur einmal pro Spiel nominieren. Wenn du das tust, stirbt der Nominierte, falls er nicht der Dämon ist.",
@@ -709,6 +717,7 @@
       "other": "Zeige auf einen Spieler."
     },
     "hindu": {
+      "ability": "Die ersten 4 Spieler, die sterben, werden sofort als Reisende derselben Fraktion wiedergeboren.",
       "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥",
       "name": "Hindu"
     },
@@ -766,6 +775,11 @@
       "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebendigen Spieler: Falls er böse ist, verliert dein Team.",
       "flavor": "Hoppla.",
       "name": "Tollpatsch"
+    },
+    "knaves": {
+      "ability": "Es gibt 2 Erzähler: Einer lügt, der andere sagt die Wahrheit. Einmal im Spiel können sie in der Abenddämmerung die Rollen tauschen.",
+      "flavor": "Jede Wand ist eine Tür. Jede Mahlzeit ist ein Festmahl.",
+      "name": "Knappen"
     },
     "knight": {
       "ability": "Du weißt zu Beginn von 2 Spielern, dass sie nicht der Dämon sind.",
