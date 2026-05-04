@@ -999,6 +999,9 @@
       "flavor": "Ich bin froh, dass Sie diese Frage gestellt haben. Das bin ich wirklich. Aber ich denke, die WIRKLICHE Frage hier lautet…",
       "name": "Politiker"
     },
+    "pope": {
+      "ability": "Mindestens ein guter Charakter ist mehrfach im Spiel. Diese Charaktere sind möglicherweise auch Bluffs."
+    },
     "poppygrower": {
       "ability": "Schergen & Dämonen kennen einander nicht. Falls du stirbst, lernen sie sich heute Nacht kennen.",
       "first": "Führe die Schritte Schergen-Info und Dämon-Info nicht aus. Wecke den Dämon. Zeige ihm das Infoplättchen *DIESE CHARAKTERE SIND NICHT IM SPIEL*. Zeige 3 nicht im Spiel befindliche gute Charakterplättchen.",
