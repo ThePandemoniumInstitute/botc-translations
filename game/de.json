@@ -271,13 +271,13 @@
     },
     "angel": {
       "ability": "Etwas Schlimmes könnte demjenigen passieren, der am meisten für den Tod eines neuen Spielers verantwortlich ist.",
-      "first": "Kündige an, welcher Spieler durch den Engel beschützt ist. Füge das *BESCHÜTZT* Plättchen dem Spieler hinzu.",
+      "first": "Kündige an, welche Spieler durch den Engel beschützt sind. :reminder:",
       "flavor": "Wenn diejenigen, die ohne Sünde sind, es wagen, ihre Hand gegen meine Auserwählten zu erheben, werde ich solch einen Narren mit der Wut und Gerechtigkeit von tausend Stürmen niederschlagen.",
       "name": "Engel"
     },
     "apprentice": {
       "ability": "In deiner 1. Nacht erhältst du die Fähigkeit eines Bürgers (falls du gut bist), oder die Fähigkeit eines Schergen (falls du böse bist).",
-      "first": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token.",
+      "first": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token. :reminder:",
       "flavor": "Jahrelang bin ich gereist und habe die Kunst des Handwerks studiert.Welches Handwerk, fragen Sie? Das des einfachen Volkes. Nichts, worüber man sich Sorgen machen müsste. Noch nicht.",
       "name": "Lehrling"
     },
