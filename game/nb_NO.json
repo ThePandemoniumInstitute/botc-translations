@@ -1,6 +1,7 @@
 {
   "editions": {
     "bmr": {
+      "description": "…er en dødsekstravaganza. Demoner dreper flere ganger per natt, og håndlangere er også med på moroa. Gode spillere kan ta store risikoer for å skaffe seg pålitelig informasjon, men kan i prosessen komme til å drepe sine egne venner. Heldigvis finnes det mange måter å holde spillere i live lenge etter at de burde vært ute av spillet. Hvis det gode laget ikke klarer å finne ut hvilke håndlangere og demoner som er i spill, er imidlertid deres undergang så godt som sikker.",
       "name": "Månens mørke side"
     },
     "custom": {
@@ -70,13 +71,13 @@
     "isthedrunk": "Er fylliken",
     "isthemarionette": "Er marionetten",
     "isthephilosopher": "Er filosofen",
-    "know": "Kjenner",
+    "know": "Vet",
     "lunch": "Lunsj",
     "mad": "Gal",
     "master": "Master",
     "maynotnominate": "Kan ikke nominere",
-    "minion": "Undersått",
-    "minionnominated": "Undersått nominerte",
+    "minion": "Håndlanger",
+    "minionnominated": "Håndlanger nominerte",
     "poisoned": "Forgiftet",
     "protected": "Beskyttet",
     "safe": "Trygg",
