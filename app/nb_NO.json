@@ -84,7 +84,7 @@
       "day": "Første dag|Dag {n}",
       "end": "Mellom spill",
       "first_night": "Første natt",
-      "grim_reveal": "Avslør Grimoire",
+      "grim_reveal": "Grimoire avsløres",
       "night": "Første natt|Natt {n}",
       "other_nights": "Andre netter",
       "start": "Forbereder natt 1"
@@ -126,6 +126,7 @@
     "night_info": "Nattinfo",
     "night_info_text": "Fortelleren vekket deg i natt!",
     "night_sheet": "Liste over nattrekkefølge",
+    "notifications": "Varsler",
     "prompt_clear_player": "Er du sikker på at du vil fjerne alle spilleres roller og påminnelsesbrikker?",
     "prompt_clear_st": "Dette vil tømme Grimoire for alle brikker for deg og alle andre. Er du sikker?",
     "prompt_clear_title": "Tøm Grimoire og påminnelsesbrikker",
@@ -167,8 +168,8 @@
       "title": "Lag en kunngjøring"
     },
     "dialogue": {
-      "button_evil": "De Onde vant",
-      "button_good": "De Gode vant",
+      "button_evil": "De onde vant",
+      "button_good": "De gode vant",
       "button_no": "Nei",
       "button_yes": "Ja",
       "close_timer": "Denne meldingen lukkes om {n}s.",
@@ -180,7 +181,7 @@
         "avatar_pixel": "Bildet ditt var for stort. Skaler det ned til 4000x4000 før du laster opp igjen.",
         "avatar_size": "Filen din var for stor. Prøv igjen med et bilde med en filstørrelse mindre enn 5 MB.",
         "avatar_type": "Filen din var ikke gjenkjent som et bilde.",
-        "block_text": "En feil oppsto når blokkeringslisten din skulle oppdateres.",
+        "block_text": "En feil oppstod da blokkeringslisten din skulle oppdateres.",
         "block_title": "Oppdateringsfeil",
         "bluffs": "Feil under oppdatering av bløffer",
         "chat2_text": "Chat-serveren ser ut til å være nede",
@@ -206,7 +207,7 @@
         "loading_title": "Feil ved lasting av appdata",
         "missing_edition": "Denne økten inneholder en utgave som ikke blir funnet.",
         "missing_edition_title": "Feil ved lasting av utgave",
-        "missing_roles": "Denne økten inneholder egendefinerte roller som blir funnet. Last dem inn før du blir med! Manglende roller: {0}",
+        "missing_roles": "Denne økten inneholder egendefinerte roller som ikke blir funnet. Last dem inn før du blir med! Manglende roller: {0}",
         "missing_roles_title": "Feil ved lasting av egendefinerte roller",
         "move_player": "Kan ikke flytte spiller",
         "offline": "Serveren ser ut til å være frakoblet",
@@ -364,12 +365,12 @@
       "button_edit": "Endre bruker",
       "button_setup": "Kjør oppsettet",
       "button_verify": "Verifiser bruker",
-      "css_apply": "Bruk tilpassede CSS regler?",
+      "css_apply": "Bruk tilpassede CSS-regler?",
       "css_confirm": "Jeg vet hva jeg gjør, la meg endre utseendet på appen min",
-      "css_confirm2": "Bekreft at du vil beholde de tilpassede CSS forandringene, ellers vil de bli skrudd av automatisk.",
+      "css_confirm2": "Bekreft at du vil beholde de tilpassede CSS-forandringene, ellers vil de bli skrudd av automatisk.",
       "css_text": "Du kan endre appens utseende her ved å skrive inn en URL til en tilpasset CSS-fil eller selve CSS-koden. Pandemonium Institute er ikke ansvarlig for CSS-kode levert av andre brukere. Lasting av skadelig CSS-kode kan ødelegge appen din!",
       "css_title": "Legg til tilpasset CSS",
-      "image_text": "Er du sikker på at du vil tillate tilpassede bilder? En ondsinnet manuskriptforfatter kan spore IP-adressen din på denne måten. Pandemonium Institute har ingen kontroll over bildene som leveres av andre brukere av appen.",
+      "image_text": "Er du sikker på at du vil tillate tilpassede bilder? En ondsinnet manuskriptforfatter kan spore IP-adressen din på denne måten. The Pandemonium Institute har ingen kontroll over bildene som leveres av andre brukere av appen.",
       "image_title": "Tillat tilpassede bilder",
       "nomination": {
         "bigwig": {
@@ -378,7 +379,7 @@
         },
         "focus": {
           "text": "Den nominerte spilleren har gruppens oppmerksomhet.",
-          "title": "Nominert fokus"
+          "title": "Nominert i fokus"
         },
         "phases": {
           "text": "Bare nominator og nominert person kan snakke.",
@@ -467,7 +468,7 @@
         "modalSettings": "Innstillinger",
         "modalShortcuts": "Snarveier",
         "modalUsers": "Brukere",
-        "modeGather": "Samle spillerne dine",
+        "modeGather": "Samle spillerene dine",
         "raiseHand": "Rekk opp hånden",
         "revealGrimoire": "Avslør Grimoire",
         "setTimer": "Still inn timer",
@@ -487,15 +488,15 @@
         "toggleWhisper": "Chat / Tekstmelding"
       },
       "sounds": {
-        "attentionGong": "Oppmerksomhetsgongong",
+        "attentionGong": "Gongong for oppmerksomhet",
         "chatJoin": "Bli med i offentlig chat",
         "chatLeave": "Forlat offentlig chat",
         "countdown": "Nedtelling",
         "privateJoin": "Bli med i privat chat",
         "privateRequest": "Spør om å bli med i privat chat",
-        "timerGong": "Tiden er ute",
+        "timerGong": "Tiden er ute-gongong",
         "voteCast": "Stemme avgitt",
-        "voteTick": "Stemmeklokke",
+        "voteTick": "Stemmeklokkelyd",
         "voteTickShort": "Stemmeklokke (<1s)"
       },
       "tab_advanced": "Avansert",
@@ -563,7 +564,7 @@
       },
       "character": "Rolle",
       "custom": "Tilpasset",
-      "grimoire": "Grimoire",
+      "grimoire": "Grimoiret",
       "message": "Melding:",
       "player": "Spiller",
       "player_text": "Velg en spiller ved å klikke på brikken deres i Grimoire.",
@@ -631,7 +632,7 @@
       "error_402": "Engangs telefonnummer kan ikke brukes for bruker verifikasjon.",
       "error_403": "Dette telefonnummeret brukes av en annen bruker. Hvis du tror dette er feil, kontakt oss på {0}.",
       "error_404": "Verifiseringsforsøket er utløpt eller er ugyldig. Prøv på nytt.",
-      "error_assigned": "Dette telefonnummeret brukes allerede av en annen bruker, bruk et annet telefon nummer.",
+      "error_assigned": "Dette telefonnummeret brukes allerede av en annen bruker, bruk et annet telefonnummer.",
       "error_cooldown": "Du har forsøkt for mange ganger. Vent minst {0} minutter før du prøver igjen.",
       "error_other": "Noe gikk galt: {0}. Hver så snill og prøv igjen.",
       "error_pending": "Feil kode. Hver så snill og prøv igjen.",
@@ -786,7 +787,7 @@
       "footer3": "Drep med ynde og dø med verdighet.",
       "permanent": "Din bruker har blitt utestengt permanent.",
       "reason": "Følgende begrunnelse har blitt gitt:",
-      "title": "Konto Utestengt"
+      "title": "Konto utestengt"
     },
     "clock": {
       "description": "Datamaskinklokken din er for øyeblikket stilt av med {0}. Dette kan føre til at appen ikke fungerer som den skal under online spilling. Du kan synkronisere datamaskinklokken din {1}. Når den er synkronisert, laster du inn appen på nytt.",
