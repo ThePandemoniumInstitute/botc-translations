@@ -5,11 +5,11 @@
   },
   "keyword": {
     "demon": "Demon|Demoner",
-    "first-night": "Første Natt",
-    "other-nights": "Andre Netter",
+    "first-night": "Første natt",
+    "other-nights": "Andre netter",
     "player": "Spiller|Spillere",
     "townsfolk": "Innbygger|Innbyggere",
-    "traveller": "Reiser|Reisende"
+    "traveller": "Reisende|Reisende"
   },
   "print": {
     "not-first-night": "* Ikke første natten"
