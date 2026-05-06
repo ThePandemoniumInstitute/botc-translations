@@ -45,8 +45,8 @@
         "value_2": "Nei"
       },
       "streaming": {
-        "label": "Spillet blir strømmet",
-        "title": "Spillsesjonen blir strømmet direkte",
+        "label": "Spillet blir direktesendt / filmet",
+        "title": "Spillsesjonen blir direktesendt / filmet",
         "value_0": "Nei",
         "value_1": "Ja"
       },
