@@ -1,7 +1,7 @@
 {
   "editions": {
     "bmr": {
-      "description": "…er en dødsekstravaganza. Demoner dreper flere ganger per natt, og håndlangere er også med på moroa. Gode spillere kan ta store risikoer for å skaffe seg pålitelig informasjon, men kan i prosessen komme til å drepe sine egne venner. Heldigvis finnes det mange måter å holde spillere i live lenge etter at de burde vært ute av spillet. Hvis det gode laget ikke klarer å finne ut hvilke håndlangere og demoner som er i spill, er imidlertid deres undergang så godt som sikker.",
+      "description": "…er en dødsekstravaganza. Demoner dreper flere ganger per natt, og undersåttene er også med på moroa. Gode spillere kan ta store risikoer for å skaffe seg pålitelig informasjon, men kan i prosessen komme til å drepe sine egne venner. Heldigvis finnes det mange måter å holde spillere i live lenge etter at de burde vært ute av spillet. Hvis det gode laget ikke klarer å finne ut hvilke undersåtter og demoner som er i spill, er imidlertid deres undergang så godt som sikker.",
       "name": "Månens mørke side"
     },
     "custom": {
@@ -18,6 +18,9 @@
     }
   },
   "jinxes": {
+    "alhadikhia-princess": "Hvis prinsessen nominerte og henrettet en spiller første dag, dør ingen i natt av Al-Hadikhia.",
+    "alhadikhia-scarletwoman": "Hvis det er to demoner, og en av dem var Scarlet Woman, går Scarlet Woman tilbake til å bli Scarlet Woman igjen.",
+    "alsaahir-vizier": "Fortelleren annonserer ikke at Vizier er i spill.",
     "boffin-politician": "Demonen kan ikke ha politikerens evne.",
     "hatter-leviathan": "Leviatanen kan ikke komme inn i spillet etter dag 5.",
     "legion-politician": "Politikeren kan registreres som ond for Legion.",
@@ -76,8 +79,8 @@
     "mad": "Gal",
     "master": "Master",
     "maynotnominate": "Kan ikke nominere",
-    "minion": "Håndlanger",
-    "minionnominated": "Håndlanger nominerte",
+    "minion": "Undersått",
+    "minionnominated": "Undersått nominerte",
     "poisoned": "Forgiftet",
     "protected": "Beskyttet",
     "safe": "Trygg",
@@ -120,7 +123,7 @@
       "flavor": "Tikk… tikk… tikk… TAKK."
     },
     "snitch": {
-      "ability": "Hver håndlanger får tre bløffer."
+      "ability": "Hver undersått får tre bløffer."
     }
   }
 }
