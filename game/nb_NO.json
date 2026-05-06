@@ -1,17 +1,23 @@
 {
   "editions": {
+    "bmr": {
+      "name": "Månens mørke side"
+    },
     "custom": {
       "name": "Egendefinert manuskript"
     },
     "homebrew": {
-      "name": "Hjemmebrygget manuskript"
+      "name": "Hjemmebrygget"
+    },
+    "snv": {
+      "name": "Sekter og fioler"
     },
     "tb": {
-      "name": "Bryggende trøbbel"
+      "name": "Trøbbel i gjære"
     }
   },
   "jinxes": {
-    "boffin-politician": "Demonen kan ikke ha Politikerens evne.",
+    "boffin-politician": "Demonen kan ikke ha politikerens evne.",
     "hatter-leviathan": "Leviatanen kan ikke komme inn i spillet etter dag 5.",
     "legion-politician": "Politikeren kan registreres som ond for Legion.",
     "legion-zealot": "Fanatikeren kan registrere som ond for legionen.",
@@ -71,7 +77,7 @@
       "name": "Alkymist"
     },
     "angel": {
-      "ability": "Noe ille kan skje med hen som er mest ansvarlig for at en ny spiller dør.",
+      "ability": "Noe ille kan skje med den som er mest ansvarlig for at en ny spiller dør.",
       "name": "Engel"
     },
     "apprentice": {
@@ -87,7 +93,7 @@
       "name": "Ateist"
     },
     "barber": {
-      "ability": "Hvis du dør i dag eller i natt, kan Demonen velge to spiller (ikke en annen Demon) som bytter roller.",
+      "ability": "Hvis du dør i dag eller i natt, kan demonen velge to spillere (ikke en annen demon) som bytter roller.",
       "name": "Barberer"
     },
     "barista": {
@@ -95,6 +101,9 @@
     },
     "boomdandy": {
       "flavor": "Tikk… tikk… tikk… TAKK."
+    },
+    "snitch": {
+      "ability": "Hver håndlanger får tre bløffer."
     }
   }
 }
