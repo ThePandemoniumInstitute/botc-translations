@@ -479,7 +479,7 @@
         "toggleNPCs": "Legg til ikkespillende rolle",
         "toggleNight": "Veksle nattfase",
         "toggleNightOrder": "Nattrekkefølge",
-        "toggleNightSignal": "Vis Nattinfo",
+        "toggleNightSignal": "Vis nattinfo",
         "toggleReference": "Rollereferanse",
         "toggleRoles": "Velg roller",
         "toggleTownSquare": "Vis Torget",
@@ -636,7 +636,7 @@
       "error_cooldown": "Du har forsøkt for mange ganger. Vent minst {0} minutter før du prøver igjen.",
       "error_other": "Noe gikk galt: {0}. Prøv på nytt.",
       "error_pending": "Feil kode. Prøv igjen.",
-      "error_restart": "Du har nådd maksimalt antall forsøk. Angi ditt telefonnummeret igjen.",
+      "error_restart": "Du har nådd maksimalt antall forsøk. Angi ditt telefonnummer igjen.",
       "phone": "Telefonnummer",
       "success": "Verifikasjon vellykket! Du kan lukke dette vinduet nå.",
       "text_body": "Vi introduserer SMS-verifisering for kontoer som blir med i {0} for å beskytte det levende og respektfulle fellesskapet som gjør Blood on the Clocktower spesielt. Selv om de fleste spillere allerede bidrar til en fantastisk kultur, hjelper dette trinnet oss med å iverksette raske og passende tiltak når spillopplevelsen blir forstyrret. Private spill påvirkes ikke.",
@@ -663,7 +663,7 @@
   "overlays": {
     "attention": {
       "attention": "Oppmerksomhet!",
-      "return": "Samling på torget!"
+      "return": "Returner til torget!"
     },
     "firstnight": {
       "bluffs": "Velg de 3 blanke «Demonbløff»-brikkene som skal deles med demonen.",
@@ -681,13 +681,13 @@
       "button_shuffle": "Bland seter",
       "clear_text": "Er du sikker på at du vil fjerne alle spillere?",
       "clear_title": "Fjern alle spillere",
-      "move": "Flytt etter.\n{0}",
+      "move": "Flytt etter\n{0}",
       "shuffle_text": "Er du sikker på at du vil blande setene?",
       "shuffle_title": "Bland seter",
       "swap": "Bytt med.\n{0}",
       "text": "Legg til, bland eller fjern spilleres seter her.",
       "text2": "Når det er nok seter for alle, {0}",
-      "title": "Samle spillerne dine",
+      "title": "Samle spillerene dine",
       "warning": "Du trenger minst 7 spillere for ett normalt spill i Ravenswood Bluff."
     },
     "nightaction": {
@@ -721,7 +721,7 @@
       "prompt": "Advarsel: Dette vil avslutte spillet og vise Grimoire til alle spillere!\nHvem vant spillet?",
       "result": "{0} har vunnet!",
       "text": "Avslør spillresultatet og hver spiller ved å klikke på brikken deres. Du kan holde musen over brikken for å se på figuren deres.",
-      "title": "Vis Grimoire"
+      "title": "Avslør Grimoire"
     },
     "rules": {
       "button_select": "Velg roller",
@@ -731,7 +731,7 @@
     },
     "towninfo": {
       "alive": "I live",
-      "button_gather": "Samle spillerne dine",
+      "button_gather": "Samle spillerene dine",
       "return": "Gå tilbake til Grimoire (snarvei: {0})",
       "script_by": "av {0}",
       "text_player": "Historiefortelleren må legge til flere spillere før du kan begynne.",
@@ -768,7 +768,7 @@
       "pointing": "Peker på {0}",
       "secret": "Avstemningen vil være hemmelig.",
       "secret_vote": "Hemmelig avstemming",
-      "votes": "{0} stemme for uavgjort, {1} for å gjennomføre|{0} stemmer for uavgjort, {1} for å gjennomføre",
+      "votes": "{0} stemme for uavgjort, {1} for å henrette|{0} stemmer for uavgjort, {1} for å henrette",
       "warning_shortcuts": "Snarveier er deaktivert!"
     },
     "whisper": {
@@ -796,7 +796,7 @@
     },
     "lobby": {
       "bootlegger_title": "Vær oppmerksom!",
-      "bootlegger_warning": "Denne økten bruker Sagnet Bootlegger, som betyr at den har skreddersydde regler eller roller utenom de offisielle, og er best egnet for erfarne spillere.\nHvis du er ny spiller i Blood on the Clocktower anbefaler vi at du blir vant til standard regler og roller først, med en av de offisielle utgavene. Trouble Brewing er perfekt for førstegangsopplevelsen!\nUansett, velkommen — vi er glade for at du er her!\nEr du sikker på at du vil bli med i denne økten?",
+      "bootlegger_warning": "Denne økten bruker sagnet Bootlegger, som betyr at den har skreddersydde regler eller roller utenom de offisielle, og er best egnet for erfarne spillere.\nHvis du er ny spiller i Blood on the Clocktower anbefaler vi at du blir vant til standard regler og roller først, med en av de offisielle utgavene. Trouble Brewing er perfekt for nybegynnere!\nUansett, velkommen — vi er glade for at du er her!\nEr du sikker på at du vil bli med i denne økten?",
       "button_create_game": "Opprett spill",
       "button_help": "Hjelp",
       "button_join_game": "Bli med i et privat spill",
@@ -851,7 +851,7 @@
       "description": "Du bruker for øyeblikket versjon {0}, men den nyeste versjonen er {1}.",
       "download": "Last ned den nyeste {label}-versjonen her.",
       "reload": "Last inn siden på nytt eller tøm nettleserens hurtigbuffer for å oppdatere.",
-      "title": "Oppdater appen"
+      "title": "Vennligst oppdater appen"
     },
     "verification": {
       "button_resend": "Send kode på nytt",
@@ -926,7 +926,7 @@
     "name_placeholder": "Spilleøktens navn",
     "open_text": "Alle kan bli med i økten.",
     "prompt_public_text": "Er du sikker på at du vil gjøre spilløkten synlig for offentligheten?\n Dette vil tillate alle å se og bli med i spillet ditt.",
-    "prompt_public_title": "Lag spilløkten offentlig",
+    "prompt_public_title": "Gjør spilløkten offentlig",
     "server": "Chat-server:",
     "server_name": "Navn",
     "server_stats": "{0} brukere, {1} serverbelastning",
@@ -974,10 +974,10 @@
       "cancel": "Avbryt forespørsel",
       "cancel_request": "Avbryt samtaleforespørsel med {0}",
       "channels": {
-        "bmr_0": "Tavernaen",
-        "bmr_1": "Hytten",
+        "bmr_0": "Kroa",
+        "bmr_1": "Hytta",
         "bmr_2": "Sumpen",
-        "bmr_3": "Gårdshuset",
+        "bmr_3": "Låven",
         "bmr_4": "Campingvognen",
         "custom_0": "Eliksirbutikken",
         "custom_1": "Tårnet",
@@ -986,7 +986,7 @@
         "custom_4": "Elvebredden",
         "snv_0": "Urtehagen",
         "snv_1": "Drivhuset",
-        "snv_2": "Grotten",
+        "snv_2": "Grotta",
         "snv_3": "Tempelet",
         "snv_4": "Sirkusteltet",
         "tb_0": "Klosteret",
@@ -1014,8 +1014,8 @@
       "toggle": "Veksle nattfaseark"
     },
     "npcs": {
-      "remove_fabled": "Fjern Fabel",
-      "remove_loric": "Fjern Sagn"
+      "remove_fabled": "Fjern fabel",
+      "remove_loric": "Fjern sagn"
     },
     "text": {
       "channels": {
@@ -1048,7 +1048,7 @@
         "seat_empty": "{0} har blitt fjernet fra sete {1}.",
         "seat_vacate": "{0} har forlatt sete {1}.",
         "signal": "{0} sendte et nattsignal til {1}.",
-        "start": "Spillet har startet og rollene har blitt sendt!",
+        "start": "Spillet har startet og rollene er utdelt!",
         "storyteller_add": "{0} ble forteller.",
         "storyteller_remove": "{0} sluttet å være forteller.",
         "vote": "{0} har brukt sin spøkelsesstemme."
