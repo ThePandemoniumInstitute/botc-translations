@@ -5,7 +5,7 @@
       "name": "Bad Moon Rising"
     },
     "custom": {
-      "description": "För att spela med ett eget manus måste du välja vilka roller du vill spela med i den officiella Manusskaparen och därefter ladda upp den genererade JSON-filen. Du kan ladda in den direkt i appen eller ange en URL som JSON-filen finns på. Du kan också dra och släppa filen på den här skärmen eller kopiera och klistra in filinnehållet.",
+      "description": "För att spela med ett eget manus måste du välja vilka roller du vill spela med i det officiella Manusverktyget och därefter ladda upp den genererade JSON-filen. Du kan ladda in den direkt i appen eller ange en URL som JSON-filen finns på. Du kan också dra och släppa filen på den här skärmen eller kopiera och klistra in filinnehållet.",
       "name": "Hemgjort manus"
     },
     "homebrew": {
