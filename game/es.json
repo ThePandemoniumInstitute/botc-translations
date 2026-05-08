@@ -16,7 +16,6 @@
       "name": "Sects & Violets "
     },
     "tb": {
-      "descripción": "... tiene un poco de todo. Algunos personajes reciben información de forma pasiva, otros deben actuar para descubrir quién es quién, y otros simplemente intentan atraer al Demonio para que los ataque. Tanto el bien como el mal pueden tomar ventaja mediante sacrificios bien calculados.\nTrouble Brewing es una caza de Demonios relativamente directa, pero el mal dispone de numerosos trucos engañosos, así que los jugadores buenos harán bien en cuestionar todo lo que creen saber si quieren sobrevivir.",
       "name": "Trouble Brewing "
     }
   },
@@ -28,13 +27,11 @@
     "alchemist-spy": "Un Alquimista-Espía no tiene habilidad de Espía y un Espía está en juego. Tras cada ejecución, un Alquimista-Espía vivo puede adivinar públicamente a un jugador vivo como el Espía. Si es correcto, el Demonio debe elegir al Espía esta noche.",
     "alchemist-summoner": "El Alquimista-Invocador no recibe faroles, y elige qué Demonio hay, pero no qué jugador lo es. Si mueren antes de que esto ocurra, el mal gana. [Sin Demonio]",
     "alchemist-widow": "Una Viuda-Alquimista no tiene habilidad de Viuda y una Viuda está en juego. Tras cada ejecución, una Viuda-Alquimista viva puede adivinar públicamente a un jugador vivo como la Viuda. Si es correcto, el Demonio debe elegir a la Viuda esta noche.",
-    "wraith-alchemist": "Un Espectro Alquimista no tiene habilidad de Espectro y un Espectro está en juego. Tras cada ejecución, un Alquimista- Espectro vivo puede adivinar públicamente a un jugador vivo como el Espectro. Si es correcto, el Demonio debe elegir al Espectro esta noche.",
     "alhadikhia-mastermind": "Si Al-Hadikhia muere por ejecución y la Mente Maestra está viva, Al-Hadikhia elige esta noche a 3 buenos jugadores: si los 3 deciden vivir, el mal gana. Si no, gana bien.",
     "alhadikhia-princess": "Si la Princesa nomina y ejecuta a un jugador en su primer día, nadie muere ante la Al-Hadikhia esta noche.",
     "alhadikhia-scarletwoman": "Si hubiera dos Demonios, uno de los cuales era la Mujer Escarlata, la Mujer Escarlata se convertiría de nuevo en la Mujer Escarlata.",
     "alsaahir-vizier": "El Narrador no declara que el Visir está en juego.",
     "atheist-riot": "Durante un Riot, si se nomina al Narrador, los jugadores votan. Si están \"a punto de morir\", el juego termina. Si no, vuelven a nominar.",
-    "banshee-marionette": "Si la Marioneta cree que es el Aeronauta, podría haberse añadido un Forastero durante la preparación de la partida.",
     "banshee-leviathan": "Cada noche*, el Leviatán elige a un jugador bueno vivo (diferente a las noches anteriores): una Banshee elegida muere y obtiene su habilidad.",
     "banshee-riot": "Cada noche*, Riot elige a un jugador bueno vivo (diferente a las noches anteriores): una Banshee elegida muere y obtiene su habilidad.",
     "banshee-vortox": "Si el Vortox mata a la Banshee, todos los jugadores descubren que la Banshee ha muerto.",
@@ -49,7 +46,6 @@
     "boffin-villageidiot": "Si hay una ficha de repuesto, el Artífice puede darle al Demonio la habilidad de Tonto del Pueblo.",
     "boomdandy-plaguedoctor": "Si el Narrador obtiene la habilidad Explosivo, un jugador se convierte en el Explosivo.",
     "bountyhunter-kazali": "Si el Kazali convierte al Cazarrecompensas en un Esbirro, no se crea un Aldeano malvado.",
-    "bountyhunter-plaguedoctor": "Si el Filósofo adquiere la habilidad de Cazarrecompensas, un Aldeano podría volverse malvado.",
     "butler-cannibal": "Si el Caníbal adquiere la habilidad de mayordomo, el Caníbal aprende esto.",
     "butler-organgrinder": "Si el organillero provoca votación con los ojos cerrados, el mayordomo puede levantar la mano para votar, pero su voto solo se cuenta si su amo también votó.",
     "cannibal-juggler": "Si el Malabarista adivina el primer día y muere por ejecución, esta noche el Caníbal vivo aprende cuántas conjeturas acertó el Malabarista.",
@@ -89,15 +85,12 @@
     "heretic-pithag": "Solo puede haber un personaje maldito (jinx) en juego.",
     "heretic-spy": "Solo puede haber un personaje maldito (jinx) en juego.",
     "heretic-widow": "Solo puede estar en juego un personaje maldito (jinx).",
-    "cazador-marionette": "Si la Marioneta cree que es el Cazador, la Doncellas fue añadida durante la preparación.",
     "innkeeper-leviathan": "Si el Leviatán nomina y ejecuta a un jugador protegido por la Posadero, gana bien.",
     "innkeeper-riot": "Si Riot nomina y ejecuta a un jugador protegido por la Posadero, gana bien.",
-    "investigator - vizier": "El Narrador no declara que el Visir está en juego.",
     "kazali-marionette": "Si hay una Marioneta, entra en juego después del Demonio y debe empezar como su vecino.",
     "kazali-summoner": "Si el Invocador crea un segundo Demonio vivo, las muertes esta noche son arbitrarias.",
     "king-leviathan": "Si el Leviatán está en juego y al menos un jugador ha muerto, el Rey aprende un personaje vivo cada noche.",
     "king-riot": "Si hay Riot en juego y al menos un jugador está muerto, el Rey aprende un personaje vivo cada noche.",
-    "legian-magician": "El Mago despierta con Legión y podría registrarse como malvado. Legión sabe si hay un Mago en juego, pero no de qué jugador se trata.",
     "legion-minstrel": "Si la Legión muere hoy por ejecución, la Legión conserva su habilidad, pero el Juglar podría descubrir que es la Legión.",
     "legion-politician": "El político podría percibirse como malvado ante la Legión.",
     "legion-preacher": "Si el Predicador elige Legión, la Legión conserva su habilidad, pero el Predicador podría descubrir que es Legión.",
@@ -150,8 +143,7 @@
     "recluse-sage": "El recluso podría percibirse como el Demonio ante el Sabio.",
     "riot-sage": "Cada noche*, Riot elige un jugador bueno vivo (diferente a las noches anteriores): un Sabio elegido usa su habilidad, pero no muere.",
     "riot-soldier": "Si Riot nomina y ejecuta al Soldado, gana el bien.",
-    "summoner-zombuul": "Si el Invocador invoca a un jugador muerto en el Zombuul, el Zombuul ya ha \"muerto una vez\".",
-    "vizier-investigator": "El Intransigente podría percibirse como malvado ante el Visir."
+    "summoner-zombuul": "Si el Invocador invoca a un jugador muerto en el Zombuul, el Zombuul ya ha \"muerto una vez\"."
   },
   "reminders": {
     "2nd": "Segundo",
@@ -174,8 +166,6 @@
     "day4": "Día 4",
     "day5": "Día 5",
     "dead": "Muerto",
-    "Demonionotvoted": "El Demonio no ha votado",
-    "Demoniovoted": "El Demonio ha votado",
     "diedtoday": "Murió hoy",
     "doesntkill": "No mata",
     "drunk": "Borracho",
@@ -199,7 +189,6 @@
     "hasability": "Tiene habilidad",
     "isthealchemist": "Es el Alquimista",
     "istheapprentice": "Es el Aprendiz",
-    "istheDemonio": "Es el Demonio",
     "isthedrunk": "Es el Borracho",
     "isthemarionette": "Es la Marioneta",
     "isthephilosopher": "Es el Filósofo",
@@ -229,8 +218,8 @@
     "safe": "A salvo",
     "soberhealthy": "Sobrio y sano",
     "somethingbad": "Algo malo",
-    "storytellerability": "Habilidad del Narrador",
     "stormcaught": "Atrapado por la tormenta",
+    "storytellerability": "Habilidad del Narrador",
     "survivesexecution": "Sobrevive a la ejecución",
     "teapartytonight": "Fiesta de té esta noche",
     "townsfolk": "Aldeano",
@@ -387,11 +376,6 @@
       "name": "Burócrata",
       "other": "El Burócrata elige a un jugador. :reminder:"
     },
-    "carnicero": {
-      "ability": "Cada día, después de la primera ejecución, podrás nominar de nuevo.",
-      "flavor": "Sabe a pollo. Por favor, más.",
-      "name": "Carnicero"
-    },
     "butler": {
       "ability": "Cada noche, elige un jugador (no a ti mismo): mañana solo podrás votar si él también vota.",
       "first": "El mayordomo elige a un jugador. :reminder:",
@@ -481,13 +465,6 @@
       "ability": "Si hoy fueras gracioso, no puedes morir en el exilio.",
       "flavor": "Fue una broma de la Doncella, por supuesto.",
       "name": "Pervertido"
-    },
-    "devil’s advocate": {
-      "ability": "Cada noche, elige un jugador vivo (diferente a anoche): si se ejecuta mañana, no muere.",
-      "first": "El Abogado del Diablo elige a un jugador vivo. :reminder:",
-      "flavor": "Mi cliente, si la objeción es rechazada, se declara inocente en virtud del incumplimiento por parte de la fiscalía del estatuto 27.B - conjugación incorrecta o engañosa de un verbo. El hecho de que nueve miembros del jurado murieran anoche es simplemente prima facie, lo que, como sentó el precedente Wills contra Thule, es otra razón para absolver.",
-      "name": "Abogado del Diablo",
-      "other": "El Abogado del Diablo elige a un jugador vivo. :reminder:"
     },
     "djinn": {
       "ability": "Usa la regla especial del Djinn. Todos los jugadores saben lo que es.",
@@ -692,11 +669,6 @@
       "name": "Sombrerero",
       "other": "Si el Sombrerero muriera, despierta a los Esbirros y Demonios. Cada uno puede elegir un nuevo personaje. Si lo hacen, muestra la ficha *TÚ ERES* y su nueva ficha de personaje."
     },
-    "hellslibrary": {
-      "ability": "Algo malo puede ocurrir con quien hable cuando el Narrador pida silencio.",
-      "flavor": "Shhhhhh. Por favor, silencio. Es mejor no molestar al Bibliotecario. He oído que tiene mal genio.",
-      "name": "Bibliotecario del Infierno"
-    },
     "heretic": {
       "ability": "Quien gane, pierde y quien pierda, gana, aunque estés muerto.",
       "flavor": "Después de que el granizo ha destrozado el techo y astillado el cristal de las ventanas de la catedral, se funde de nuevo en la tierra, como un cordero moribundo bajo el sol del desierto. Así es la parábola del loco.",
@@ -707,17 +679,17 @@
       "flavor": "En los lugares perdidos y olvidados de la tierra, la luz del alma llama.",
       "name": "Ermitaño"
     },
-    "hindu": {
-      "ability": "Los primeros 4 jugadores en morir se reencarnan inmediatamente como Viajeros de la misma alineación.",
-      "flavor": "Cuatro caen en medio de la muerte; cuatro viajeros renacen. Cuatro, firmes en el dharma y de mente serena, ya no vuelven a perecer.",
-      "name": "Hindú"
-    },
     "highpriestess": {
       "ability": "Cada noche, aprende con qué jugador el Narrador cree que deberías hablar más.",
       "first": "Señala a un jugador.",
       "flavor": "Hay vida detrás de la personalidad que usa personalidades como máscaras. Hay momentos en los que la vida deja atrás la máscara y las respuestas profundas a lo profundo.",
       "name": "Suma Sacerdotisa",
       "other": "Señala a un jugador."
+    },
+    "hindu": {
+      "ability": "Los primeros 4 jugadores en morir se reencarnan inmediatamente como Viajeros de la misma alineación.",
+      "flavor": "Cuatro caen en medio de la muerte; cuatro viajeros renacen. Cuatro, firmes en el dharma y de mente serena, ya no vuelven a perecer.",
+      "name": "Hindú"
     },
     "huntsman": {
       "ability": "Una vez por partida, por la noche, elige un jugador vivo: la Doncella, si es elegida, se convierte en una Aldeana que no está en juego. [+la Doncella]",
@@ -1063,9 +1035,9 @@
     },
     "riot": {
       "ability": "En el día 3, los Esbirros se convierten en Riot y los nominados mueren, pero nomina inmediatamente a un jugador vivo. Esto debe pasar.",
-      "other": "Cambia la ficha de recordatorio de Riot al día correspondiente. :reminder: Si es la noche 3, puedes despertar a los Esbirros. Muestra las fichas *TÚ ERES* y Riot.",
       "flavor": "Larga vida a la revolución! ¡Mi revolución!",
-      "name": "Riot"
+      "name": "Riot",
+      "other": "Cambia la ficha de recordatorio de Riot al día correspondiente. :reminder: Si es la noche 3, puedes despertar a los Esbirros. Muestra las fichas *TÚ ERES* y Riot."
     },
     "sage": {
       "ability": "Si el Demonio te mata, aprendes que es uno de entre dos jugadores.",
@@ -1113,12 +1085,6 @@
       "flavor": "Nombre, por favor. Papeles, por favor. Armas, por favor.",
       "name": "Centinela"
     },
-    "shabbaloth": {
-      "ability": "Cada noche*, elige 2 jugadores: mueren. Un jugador muerto que elegiste anoche podría ser regurgitado.",
-      "flavor": "¡Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
-      "name": "Shabaloth",
-      "other": "Un jugador elegido previamente podría ser resucitado. :reminder: El Shabaloth elige a 2 jugadores. :reminder: :reminder:"
-    },
     "shugenja": {
       "ability": "Empiezas a saber si tu jugador malvado más cercano está en sentido horario o antihorario. Si es equidistante, esta información es arbitraria.",
       "first": "Apunta en sentido horario o antihorario.",
@@ -1159,12 +1125,6 @@
       "flavor": "Cualquier maestro cervecero que se prece, sabe que ninguna mezcla sirve de problemas más rápido que una donde los espías parecen dobles.",
       "name": "Espía",
       "other": "Muestra el Grimorio todo el tiempo que el Espía necesite."
-    },
-    "stewarsd": {
-      "ability": "Empiezas a conocer a un jugador bueno.",
-      "first": "Señala al jugador marcado *SABE*.",
-      "flavor": "¿Cómo te atreves a acusar a Su Señoría de mala conducta? ™¡La conozco de toda la vida! ¡Los nueve años!",
-      "name": "Administrador"
     },
     "stormcatcher": {
       "ability": "Nombra un personaje bueno. Si está en juego, solo puede morir por ejecución, pero los jugadores malvados descubren cuál es el jugador.",
@@ -1328,4 +1288,3 @@
     }
   }
 }
-
