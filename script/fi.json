@@ -82,7 +82,7 @@
   "external-image-confirm": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
   "fabled-and-loric": "Tarunomaiset & Satuiset",
   "filters": "Suodattimet",
-  "help": "Apu",
+  "help": "Ohje",
   "import-description": "Tuo käsikirjoitus JSON-muodossa napsauttamalla tai tänne vetämällä",
   "import-description-kb": "tai liitä JSON / URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... tai liitä URL/JSON tänne:",
