@@ -45,8 +45,8 @@
         "value_2": "Nein"
       },
       "streaming": {
-        "label": "Live gestreamt",
-        "title": "Wird die Runde live gestreamt",
+        "label": "Live gestreamt / aufgenommen",
+        "title": "Wird die Runde live gestreamt / aufgenommen",
         "value_0": "Nein",
         "value_1": "Ja"
       },
@@ -126,6 +126,7 @@
     "night_info": "Nacht-Info",
     "night_info_text": "Der Erzähler hat dich diese Nacht geweckt!",
     "night_sheet": "Nachtbogen",
+    "notifications": "Benachrichtigungen",
     "npcs": "NPC hinzufügen",
     "prompt_clear_player": "Bist du sicher, dass du alle Charakter- und Erinnerungsplättchen entfernen möchtest?",
     "prompt_clear_st": "Bei dir und allen anderen werden alle Charakter- und Erinnerungsplättchen entfernt. Bist du sicher?",
