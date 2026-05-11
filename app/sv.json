@@ -360,6 +360,10 @@
       "warning": "Varning: Du har valt roller som modifierar rollfördelningen! Du måste själv åtgärda dessa."
     },
     "rules": {
+      "intro_part01": "För länge sedan",
+      "intro_part02": "under ett helvetiskt oväder i den sömniga byn Ravenswood Bluff, precis när klockan slår midnatt… så hör ni ett skrik. Ni rusar till torget för att se efter vad det var, och där hittar ni er älskade historieberättare mördad – spetsad på klocktornets timvisare, med blodet droppande ner på torgets kullersten. Ni antar att en Demon ligger bakom detta, och ni har rätt: en Demon som dödar på natten och antar mänsklig skepnad på dagen.",
+      "tab1": "Innan spelet börjar",
+      "tab2": "Innan den första nomineringen",
       "title": "Regler"
     },
     "settings": {
