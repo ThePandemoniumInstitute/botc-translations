@@ -367,6 +367,7 @@
       "background_text": "Gib eine Hintergrundbild-URL ein, oder lass das Feld leer, um dein Hintergrundbild zu entfernen.",
       "background_title": "Eigenes Hintergrundbild",
       "button_always": "Immer",
+      "button_login": "Social Logins",
       "button_setup": "Sprach-Chat einrichten",
       "button_verify": "Account verifizieren",
       "css_apply": "Eigene CSS-Regeln anwenden?",
@@ -376,6 +377,8 @@
       "css_title": "CSS-Code eingeben",
       "image_text": "Bist du sicher, dass du inoffizielle Bilder laden möchtest? Ein böswilliger Skript-Autor könnte auf diesem Weg deine IP-Adresse erfahren. The Pandemonium Institute hat keine Kontrolle über Bilder, die von anderen Nutzern bereitgestellt werden.",
       "image_title": "Eigene Bilder erlauben",
+      "link_to": "Anmelden mit {0}",
+      "linked_to": "Du bist mit {0} angemeldet",
       "nomination": {
         "bigwig": {
           "text": "Jeder Angeklagte wählt einen Spieler: Bis zur Abstimmung darf nur dieser Spieler sprechen. Er ist \"besessen\" davon, dass der Angeklagte gut ist, oder könnte sterben.",
@@ -510,7 +513,9 @@
       "tab_user": "Benutzer",
       "title": "App-Einstellungen",
       "title_avatar": "Wähle einen Avatar",
-      "title_sound": "Soundeffekt-Lautstärke"
+      "title_sound": "Soundeffekt-Lautstärke",
+      "unlink_text": "Möchtest du wirklich das Login mit {0} von deinem Account entfernen? Du kannst es später jederzeit wieder hinzufügen.",
+      "unlink_title": "Login entfernen"
     },
     "setup": {
       "audio_devices": "Audiogeräte",
@@ -842,11 +847,22 @@
       "error_captcha": "Bitte absolviere das Captcha",
       "error_password": "Passwörter stimmen nicht überein",
       "login": "Anmelden",
+      "login_with": "Anmelden mit {0}",
       "password": "Passwort",
       "password_confirm": "Passwort-Bestätigung",
       "password_reset": "Es wurde eine E-Mail zum Zurücksetzen des Passworts an die zugehörige E-Mail-Adresse geschickt.",
       "recover_password": "Passwort vergessen",
       "register": "Registrieren",
+      "social": {
+        "complete": "Anmeldung abgeschlossen, du kannst dieses Fenster nun schließen!",
+        "error": "Ein Fehler ist aufgetreten:",
+        "error_general": "Etwas ist unerwartet schief gelaufen. Bitte versuch es noch einmal.",
+        "error_grant_expired": "Der Anmelde-Link ist abgelaufen. Bitte schließe dieses Fenster und versuche es erneut.",
+        "error_nonce_missing": "Anmeldung konnte nicht verifiziert werden. Bitte schließe dieses Fenster und versuche es erneut.",
+        "logging_in": "Du wirst angemeldet...",
+        "status": "Account verknüpft mit {0}",
+        "updating_account": "Aktualisiere deinen Account..."
+      },
       "subscribe": "Mailing-Liste abonnieren",
       "title": "Willkommen bei Blood on the Clocktower Online – Under Construction!",
       "username": "Benutzername"
@@ -1103,6 +1119,8 @@
     "reload": "Bitte lade die Seite neu oder leere deinen Browser-Cache, um die aktuelle Version zu erhalten.",
     "since": "seit {0}",
     "translation_content": "Zeige übersetzte Spielinhalte an",
+    "translation_disclaimer1": "Du verwendest eine übersetzte Version der App.",
+    "translation_disclaimer2": "Diese Übersetzung wurde von den folgenden Freiwilligen verfasst, die nicht mit The Pandemonium Institute assoziiert sind:",
     "translation_game": "Diese inoffizielle Übersetzung der Spiel-Inhalte ist möglicherweise nicht akkurat den Spielregeln entsprechend, wie sie von TPI geschrieben wurden.",
     "travellers_alive": "{0} / {1} lebende Reisende",
     "update": "Bitte updaten!",
