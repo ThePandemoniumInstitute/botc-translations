@@ -362,7 +362,6 @@
       "background_text": "Skriv inn en URL for en egendefinert bakgrunn, eller la det stå tomt for å fjerne en egendefinert bakgrunn.",
       "background_title": "Egendefinert bakgrunn",
       "button_always": "Alltid",
-      "button_edit": "Endre bruker",
       "button_setup": "Kjør oppsettet",
       "button_verify": "Verifiser bruker",
       "css_apply": "Bruk tilpassede CSS-regler?",
@@ -391,7 +390,6 @@
         }
       },
       "option_disabled": "Skrudd av",
-      "patreon_link": "Link Patreon-bruker",
       "patreon_link_text": "Du kan lukke vinduet nå.",
       "patreon_link_title": "Patreon-kontoen er koblet til",
       "patreon_perks": "Avatar-opplasting og spesielle navneskilt er tilgjengelig med en betalt {0}!",
@@ -1098,7 +1096,6 @@
     "reload": "Last inn på nytt eller tøm nettleserens hurtigbuffer for å få den nyeste versjonen.",
     "since": "siden {0}",
     "translation_content": "Bruk oversettelser av spillinnhold",
-    "translation_disclaimer": "Du bruker for øyeblikket en lokalisert versjon av appen. Denne oversettelsen er laget og gjennomgått av følgende frivillige, som ikke er tilknyttet The Pandemonium Institute:",
     "translation_game": "Denne oversettelsen av spillinnholdet gjenspeiler kanskje ikke de offisielle engelske spillereglene slik de er skrevet av The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} reisende i live",
     "update": "Venligst oppdater!",

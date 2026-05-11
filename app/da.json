@@ -340,7 +340,6 @@
       "background_text": "Indtast en tilpasset baggrund-URL, eller efterlad den blank for at fjerne en tilpasset baggrund.",
       "background_title": "Tilpasset Baggrund",
       "button_always": "Altid",
-      "button_edit": "Rediger Konto",
       "button_setup": "Kør Opsætningen",
       "button_verify": "Bekræft Konto",
       "css_apply": "Anvend Tilpassede CSS-regler?",
@@ -357,7 +356,6 @@
         }
       },
       "option_disabled": "Deaktiveret",
-      "patreon_link": "Forbind Patreon-konto",
       "patreon_perks": "Avatar-upload og speciale navneskilte er tilgængelige med en betalt {0}!",
       "patreon_perks2": "Patreon abonnement",
       "patreon_update": "Opdater Patreon-status",
@@ -1032,7 +1030,6 @@
     "players_alive": "{0} / {1} spillere i live",
     "reload": "Venligst genindlæs eller ryd din browser cache for at få den seneste version.",
     "since": "siden {0}",
-    "translation_disclaimer": "Du bruger i øjeblikket en lokaliseret version af appen. Denne oversættelse er blevet oprettet og gennemgået af følgende frivillige, som ikke er tilknyttet The Pandemonium Institute:",
     "translation_game": "Denne oversættelse af spillets indhold afspejler muligvis ikke nøjagtigt de officielle engelske regler, som er skrevet af The Pandemonium Institute.",
     "update": "Venligst opdater!",
     "updating": "Opdaterer app til version {0}...",

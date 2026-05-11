@@ -364,7 +364,6 @@
       "background_text": "カスタム背景URLを入力するか、空白にすることで解除できます。",
       "background_title": "カスタム背景",
       "button_always": "何時も",
-      "button_edit": "アカウント編集",
       "button_setup": "ゲームセットアップ",
       "button_verify": "アカウントを確認する",
       "css_apply": "カスタムCSSルールを適用しますか？",
@@ -393,7 +392,6 @@
         }
       },
       "option_disabled": "無効",
-      "patreon_link": "パトレオンを連携",
       "patreon_link_text": "このウィンドウはもう閉じて大丈夫です。",
       "patreon_link_title": "Patreonアカウントを連携させました",
       "patreon_perks": "課金{0}でアバターアップロードやネームプレート装飾が利用できます！",
@@ -1102,7 +1100,6 @@
     "reload": "最新版を読み込むには、リロードするかキャッシュ消去を行ってください。",
     "since": "{0}から",
     "translation_content": "ゲームコンテンツの翻訳を使用",
-    "translation_disclaimer": "あなたは現在、翻訳されたバージョンを使用しています。この翻訳は、The Pandemonium Institute とは無関係な、以下のボランティアが制作・確認しています：",
     "translation_game": "ゲームコンテンツの翻訳は、The Pandemonium Instituteが作成した公式英語ゲームルールと異なる場合があります。",
     "travellers_alive": "{0}人中 {1}人の旅人が生きています",
     "update": "更新してください！",

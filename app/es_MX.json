@@ -352,7 +352,6 @@
       "background_text": "Favor de ingresar un URL de fondo personalizado, o lo deja en blanco para quitar un fondo personalizado.",
       "background_title": "Fondo Personalizado",
       "button_always": "Siempre",
-      "button_edit": "Editar la Cuenta",
       "button_setup": "Manejar la Preparación",
       "button_verify": "Verificar Cuenta",
       "css_apply": "¿Aplicar Reglas CSS Personalizadas?",
@@ -381,7 +380,6 @@
         }
       },
       "option_disabled": "Desactivado",
-      "patreon_link": "Vincular Cuenta de Patreon",
       "patreon_perks": "¡La carga de avatares y placas de identificación especiales están disponibles con un pago de {0}!",
       "patreon_perks2": "Suscripción de Patreon",
       "patreon_update": "Actualizar Estado de Patreon",
@@ -1079,7 +1077,6 @@
     "players_alive": "{0} / {1} jugadores vivxs",
     "reload": "Favor de recargar o limpiar su caché de navegador para tener la versión más reciente.",
     "since": "desde {0}",
-    "translation_disclaimer": "Actualmente está usando una versión localizada de la aplicación. Esta traducción ha sido creada y revisada por los siguientes voluntarios, que no están afiliados con The Pandemonium Institute:",
     "translation_game": "Esta traducción del contenido del juego podría no reflejar con precisión las reglas oficiales del juego en inglés escritas por The Pandemonium Institute.",
     "update": "¡Favor de Actualizar!",
     "updating": "Actualizando la aplicación a la versión {0}...",

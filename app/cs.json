@@ -340,7 +340,6 @@
       "background_text": "Zadejte vlastní adresu URL pozadí nebo pole nechte prázdné, chcete-li vlastní pozadí odstranit.",
       "background_title": "Vlastní pozadí",
       "button_always": "Vždy",
-      "button_edit": "Upravit profil",
       "button_setup": "Spusťte nastavení",
       "button_verify": "Ověřit účet",
       "css_apply": "Použít vlastní pravidla CSS?",
@@ -357,7 +356,6 @@
         }
       },
       "option_disabled": "Zakázáno",
-      "patreon_link": "Propojit účet Patreon",
       "patreon_perks": "Nahrávání avatarů a speciální jmenovky jsou k dispozici s placeným {0}!",
       "patreon_perks2": "Předplatné Patreon",
       "patreon_update": "Aktualizovat stav Patreonu",
@@ -1031,7 +1029,6 @@
     "players_alive": "{0} / {1} hráčů naživu",
     "reload": "Prosím, znovu načtěte stránku nebo vymažte mezipaměť prohlížeče, abyste získali nejnovější verzi.",
     "since": "od {0}",
-    "translation_disclaimer": "V současné době používáte lokalizovanou verzi aplikace. Tento překlad byl vytvořen a zkontrolován následujícími dobrovolníky, kteří nejsou spojeni s institutem Pandemonium:",
     "translation_game": "Překlad obsahu této hry nemusí přesně odrážet oficiální anglická pravidla hry, jak byla sepsána institutem Pandemonium Institute.",
     "update": "Prosím aktualizujte!",
     "updating": "Aktualizace aplikace na verzi {0}...",

@@ -340,7 +340,6 @@
       "background_text": "Gib eine eigene Hintergrundbild-URL ein, oder lass das Feld leer um ein eigenes Hintergrundbild zu entfernen.",
       "background_title": "Eigenes Hintergrundbild",
       "button_always": "Immer",
-      "button_edit": "Account Bearbeiten",
       "button_setup": "Kamera- und Mikrofon-Setup durchführen",
       "button_verify": "Account verifizieren",
       "css_apply": "Eigene CSS-Regeln anwenden?",
@@ -357,7 +356,6 @@
         }
       },
       "option_disabled": "Deaktiviert",
-      "patreon_link": "Patreon-Account verknüpfen",
       "patreon_perks": "Eigene Avatare und besondere Namensschilder können mit einem kostenpflichtigen {0} freigeschaltet werden!",
       "patreon_perks2": "Patreon-Abonnement",
       "patreon_update": "Abo-Status aktualisieren",
@@ -1031,7 +1029,6 @@
     "players_alive": "{0} / {1} lebende Spieler",
     "reload": "Bitte lade die Seite neu oder leere deinen Browser-Cache, um die aktuelle Version zu erhalten.",
     "since": "seit {0}",
-    "translation_disclaimer": "Du siehst hier eine übersetzte Version der App. Diese Übersetzung wurde von den folgenden Freiwilligen verfasst, die nicht in Verbindung mit The Pandemonium Institute stehen:",
     "translation_game": "Diese inoffizielle Übersetzung des Spiels ist möglicherweise nicht akkurat den Spielregeln entsprechend, wie sie von TPI geschrieben wurden.",
     "update": "Bitte Updaten!",
     "updating": "Aktualisiere die App auf Version {0}...",

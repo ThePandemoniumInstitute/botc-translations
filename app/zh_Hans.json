@@ -354,7 +354,6 @@
       "background_text": "请输入自定义背景图片的链接，或者留空以清除自定义背景图片。",
       "background_title": "自定义背景图片",
       "button_always": "总是",
-      "button_edit": "编辑账号",
       "button_setup": "开始设置",
       "button_verify": "验证账号",
       "css_apply": "应用自定义CSS规则？",
@@ -383,7 +382,6 @@
         }
       },
       "option_disabled": "禁用",
-      "patreon_link": "关联 Patreon 账号",
       "patreon_perks": "付费 {0} 解锁头像上传功能和专属铭牌！",
       "patreon_perks2": "Patreon 订阅",
       "patreon_update": "更新 Patreon 状态",
@@ -1083,7 +1081,6 @@
     "players_alive": "{0}/{1} 名玩家存活",
     "reload": "请刷新或清空浏览器缓存以更新到软件的最新版本。",
     "since": "自 {0} 起",
-    "translation_disclaimer": "您目前正在使用App的本地化版本。此版本的翻译由以下志愿者创建和审核，他们与 The Pandemonium Institute 无关：",
     "translation_game": "The Pandemonium Institute 无法保证此版本的游戏翻译内容与官方英文游戏规则完全一致。",
     "travellers_alive": "{0} / {1} 名旅行者存活",
     "update": "请更新版本！",

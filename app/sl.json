@@ -352,7 +352,6 @@
       "background_text": "Prosim vstavi URL za lastno ozadje, ali pusti prazno, da odstraniš izbrano ozadje.",
       "background_title": "Lastno ozadje",
       "button_always": "Vedno",
-      "button_edit": "Uredi račun",
       "button_setup": "Izpelji postavitev",
       "button_verify": "Potrdi račun",
       "css_apply": "Uporabi CSS Pravila po meri?",
@@ -381,7 +380,6 @@
         }
       },
       "option_disabled": "Onemogočeno",
-      "patreon_link": "Poveži Patreon račun",
       "patreon_perks": "Nalaganje avatarja in posebne ploščice z imeni so na voljo s plačano/-im {0}!",
       "patreon_perks2": "Patreon naročnina",
       "patreon_update": "Posodobi Patreon stanje",
@@ -1080,7 +1078,6 @@
     "players_alive": "{0}/{1} igralcev je živih",
     "reload": "Prosim ponovno naložite ali počistite predpomnilnik brskalnika za pridobitev najnovejše verzije.",
     "since": "od {0}",
-    "translation_disclaimer": "Trenutno uporabljate lokalno verzijo aplikacije. Ta prevod so ustvarili in pregledali naslednji prostovoljci, ki niso del organizacije The Pandemonium Institute:",
     "translation_game": "Ta prevod morda ni točno skladen z uradnimi angleškimi pravili igre, ki jih je napisal The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} Popotnikov je živih",
     "update": "Prosim posodobi!",

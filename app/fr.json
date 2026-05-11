@@ -360,7 +360,6 @@
       "background_text": "Veuillez saisir l'URL de l'image de fond personnalisée, ou laisser vide pour retirer l'image de fond personnalisée.",
       "background_title": "Image de fond personnalisée",
       "button_always": "Toujours",
-      "button_edit": "Modifier le compte",
       "button_setup": "Lancer la Configuration",
       "button_verify": "Vérifier le Compte",
       "css_apply": "Appliquer des Règles CSS personnalisées ?",
@@ -383,7 +382,6 @@
         }
       },
       "option_disabled": "Désactivé",
-      "patreon_link": "Associer un Compte Patreon",
       "patreon_link_text": "Vous pouvez maintenant fermez cette fenêtre.",
       "patreon_link_title": "Compte Patreon lié",
       "patreon_perks": "L’importation d’avatar et les plaques nominatives spéciales sont disponibles avec un {0} payant !",
@@ -1082,7 +1080,6 @@
     "reload": "Veuillez recharger la page ou vider le cache de votre navigateur pour obtenir la dernière version.",
     "since": "depuis {0}",
     "translation_content": "Utiliser les traductions du contenu du jeu",
-    "translation_disclaimer": "Vous utilisez actuellement une version traduite de l’application. Cette traduction a été créée et relue par les bénévoles suivants, qui ne sont pas affiliés à The Pandemonium Institute :",
     "translation_game": "Cette traduction du contenu du jeu peut ne pas refléter fidèlement les règles officielles en anglais telles qu’elles ont été rédigées par The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} voyageurs en vie",
     "update": "Veuillez Mettre À Jour !",

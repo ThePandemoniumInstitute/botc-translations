@@ -367,7 +367,6 @@
       "background_text": "Ange en URL till en egen bakgrundsbild, eller lämna tomt för att återställa nuvarande bakgrund.",
       "background_title": "Egen bakgrund",
       "button_always": "Alltid",
-      "button_edit": "Redigera konto",
       "button_setup": "Anslut enheter",
       "button_verify": "Verifiera konto",
       "css_apply": "Vill du använda egna CSS-regler?",
@@ -396,7 +395,6 @@
         }
       },
       "option_disabled": "Avstängd",
-      "patreon_link": "Koppla Patreon-konto",
       "patreon_link_text": "Nu kan du stänga det här fönstret.",
       "patreon_link_title": "Patreon-konto kopplat",
       "patreon_perks": "Med en betald {0} kan du använda särskilda namnskyltar och ladda upp egna avatarer!",
@@ -1105,7 +1103,6 @@
     "reload": "Ladda om sidan eller rensa browserns cache för att hämta den senaste versionen.",
     "since": "sedan {0}",
     "translation_content": "Använd översättning av spelinnehåll",
-    "translation_disclaimer": "Du använder en lokaliserad version av appen. Översättningen har skapats och granskats av följande volontärer, som inte är anslutna till The Pandemonium Institute:",
     "translation_game": "Den här översättningen av spelets innehåll kanske inte exakt återger de officiella engelska spelreglerna av The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} Resenärer lever",
     "update": "Du måste uppdatera!",

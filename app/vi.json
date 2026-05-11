@@ -351,7 +351,6 @@
       "background_text": "Hãy nhập URL của ảnh nền tùy chỉnh, hoặc để trắng để loại bỏ ảnh nền tùy chỉnh.",
       "background_title": "Nền Tùy Chỉnh",
       "button_always": "Luôn luôn",
-      "button_edit": "Chỉnh Sửa Tài Khoản",
       "button_setup": "Chạy Thiết Lập",
       "button_verify": "Xác Minh Tài Khoản",
       "css_apply": "Áp Dụng Quy Tắc Tùy Chỉnh CSS?",
@@ -368,7 +367,6 @@
         }
       },
       "option_disabled": "Vô hiệu hóa",
-      "patreon_link": "Liên Kết Tài Khoản Patreon",
       "patreon_perks": "Tải Avatar và biển tên đặc biết có hiệu lực với {0} đã trả tiền!",
       "patreon_perks2": "Đăng ký Patreon",
       "patreon_update": "Cập Nhất Trạng Thái Patreon",
@@ -1053,7 +1051,6 @@
     "players_alive": "{0} / {1} người còn sống",
     "reload": "Hãy tải lại hoặc dọn hết cache trình duyệt để nhận phiên bản mới nhất.",
     "since": "từ {0}",
-    "translation_disclaimer": "Bạn đang sử dụng phiên bản nội địa của phần mềm. Bản dịch này đã được tạo và kiểm tra bởi những tình nguyện viên sau, là những người không liên quan đến The Pandemonium Institute:",
     "translation_game": "Bản dịch của trò chơi này có thể không phản ánh chính xác luật chơi Tiếng Anh chính thức được viết bởi The Pandemonium Intitute.",
     "update": "Hãy Cập Nhật!",
     "updating": "Đang cập nhật đến phiên bản {0}...",

@@ -364,7 +364,6 @@
       "background_text": "Voer een URL voor een aangepaste achtergrond in, of laat dit veld leeg om een aangepaste achtergrond te verwijderen.",
       "background_title": "Aangepaste Achtergrond",
       "button_always": "Altijd",
-      "button_edit": "Account Bewerken",
       "button_setup": "Start installatie",
       "button_verify": "Account Verifiëren",
       "css_apply": "Aangepaste CSS Regels toevoegen?",
@@ -393,7 +392,6 @@
         }
       },
       "option_disabled": "Uitgeschakeld",
-      "patreon_link": "Link naar Patreon Account",
       "patreon_link_text": "Je kunt dit scherm nu sluiten.",
       "patreon_link_title": "Patreon account gekoppeld",
       "patreon_perks": "Avatars en speciale naamplaten zijn beschikbaar met een betaald {0}!",
@@ -1102,7 +1100,6 @@
     "reload": "Herlaad of wis je browsercache om de nieuwe versie te krijgen.",
     "since": "sinds {0}",
     "translation_content": "Spelvertalingen gebruiken",
-    "translation_disclaimer": "Je gebruikt nu een gelokaliseerde versie van de app. Deze vertaling is gemaakt en beoordeeld door de volgende vrijwilligers, die niet verbonden zijn aan The Pandemonium Institute:",
     "translation_game": "Deze vertaling van de spel inhoud geeft mogelijk niet de officiële Engelse spelregels weer zoals geschreven door The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} travellers (reizigers) nog levend",
     "update": "Updaten alsjeblieft!",

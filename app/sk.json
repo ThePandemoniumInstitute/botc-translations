@@ -340,7 +340,6 @@
       "background_text": "Prosím zadajte URL adresu vlastného pozadia alebo vynechajte toto okienko na odstránenie vlastného pozadia.",
       "background_title": "Vlastné Pozadie",
       "button_always": "Vždy",
-      "button_edit": "Upraviť Účet",
       "button_setup": "Začať Prípravu",
       "button_verify": "Overiť Účet",
       "css_apply": "Použiť Vlastné CSS Pravidlá?",
@@ -357,7 +356,6 @@
         }
       },
       "option_disabled": "Deaktivované",
-      "patreon_link": "Pripojiť Patreon Účet",
       "patreon_perks": "Nahranie avatara a špeciálne menovky sú prístupné so zaplateným {0}!",
       "patreon_perks2": "Predplatné Patreonu",
       "patreon_update": "Aktualizovať Stav Patreonu",
@@ -1031,7 +1029,6 @@
     "players_alive": "{0} / {1} hráčov je nažive",
     "reload": "Prosím znovu načítajte alebo vyčistite pamäť prehliadača na získanie najnovšej verzie.",
     "since": "od {0}",
-    "translation_disclaimer": "Práve využívate lokalizovanú verziu aplikácie. Tento preklad bol vytvorený a skontrolovaný nasledujúcimi dobrovoľníkmi, ktorí nie sú spojení s Inštitútom Pandemónia:",
     "translation_game": "Preklad herného obsahu nemusí presne odrážať oficiálne Anglické pravidlá napísané Inštitútom Pandemónia.",
     "update": "Prosím Aktualizujte!",
     "updating": "Aplikácia sa aktualituje na verziu {0}...",

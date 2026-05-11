@@ -364,7 +364,6 @@
       "background_text": "Podaj adres URL niestandardowego tła, albo zostaw puste pole, aby usunąć niestandardowe tło.",
       "background_title": "Niestandardowe tło",
       "button_always": "Zawsze",
-      "button_edit": "Edytuj konto",
       "button_setup": "Uruchom Konfigurację",
       "button_verify": "Zweryfikuj konto",
       "css_apply": "Zastosować niestandardowe reguły CSS?",
@@ -393,7 +392,6 @@
         }
       },
       "option_disabled": "Wyłączony",
-      "patreon_link": "Połącz z kontem na Patreon",
       "patreon_link_text": "Możesz zamknąć to okno.",
       "patreon_link_title": "Połączono konto Patreon",
       "patreon_perks": "Ustawianie własnych avatarów i specjalne plakietki imienne są dostępne z płatną {0}!",
@@ -1098,7 +1096,6 @@
     "reload": "Proszę odświeżyć kartę lub wyczyścić pamięć podręczną przeglądarki, aby uzyskać najnowszą wersję.",
     "since": "od {0}",
     "translation_content": "Użyj tłumaczeń",
-    "translation_disclaimer": "Aktualnie korzystasz ze zlokalizowanej wersji aplikacji. To tłumaczenie zostało stworzone i sprawdzone przez następujących wolontariuszy, którzy nie są związani z The Pandemonium Institute:",
     "translation_game": "Tłumaczenie treści gry może nie odzwierciedlać oficjalnych angielskich zasad gry opracowanych przez The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} żywych wędrowców",
     "update": "Proszę Zaktualizować!",

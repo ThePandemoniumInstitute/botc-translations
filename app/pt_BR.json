@@ -354,7 +354,6 @@
       "background_text": "Insira o URL de um plano de fundo personalizado ou deixe-o em branco para remover um plano de fundo personalizado.",
       "background_title": "Plano de fundo personalizado",
       "button_always": "Sempre",
-      "button_edit": "Editar conta",
       "button_setup": "Executar a configuração",
       "button_verify": "Verificar conta",
       "css_apply": "Aplicar CSS personalizado?",
@@ -383,7 +382,6 @@
         }
       },
       "option_disabled": "Desabilitado",
-      "patreon_link": "Conectar conta do Patreon",
       "patreon_perks": "Carregamento de avatares e placas de identificação especiais estão disponíveis com uma {0} paga!",
       "patreon_perks2": "assinatura do Patreon",
       "patreon_update": "Atualizar status do Patreon",
@@ -1083,7 +1081,6 @@
     "players_alive": "{0}/{1} jogadores vivos",
     "reload": "Recarregue ou limpe o cache do navegador para obter a última versão.",
     "since": "desde {0}",
-    "translation_disclaimer": "Você está usando uma versão localizada do aplicativo. Esta tradução foi criada e revisada pelos seguintes voluntários, que não são afiliados ao The Pandemonium Institute:",
     "translation_game": "O conteúdo traduzido deste jogo pode não representar corretamente as regras oficiais do jogo em inglês escritas pelo The Pandemonium Institute.",
     "travellers_alive": "{0} de {1} viajantes vivos",
     "update": "Atualize o jogo!",

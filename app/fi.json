@@ -367,7 +367,6 @@
       "background_text": "Anna mukautetun taustan URL-osoite tai jätä se tyhjäksi poistaaksesi mukautetun taustan.",
       "background_title": "Mukautettu Tausta",
       "button_always": "Aina",
-      "button_edit": "Muokkaa Tiliä",
       "button_setup": "Suorita Valmistelu",
       "button_verify": "Vahvista Tili",
       "css_apply": "Käytetäänkö Mukautettuja CSS-sääntöjä?",
@@ -396,7 +395,6 @@
         }
       },
       "option_disabled": "Poissa käytöstä",
-      "patreon_link": "Yhdistä Patreon-Tili",
       "patreon_link_text": "Voit nyt sulkea tämän ikkunan.",
       "patreon_link_title": "Patreon-tili yhdistetty",
       "patreon_perks": "Avatarin lataus ja erikoisnimikyltit ovat saatavilla maksullisella {0} -tilauksella!",
@@ -1105,7 +1103,6 @@
     "reload": "Päivitä näkymä tai tyhjennä välimuisti aktivoidaksesi tuoreimman version.",
     "since": "{0} lähtien",
     "translation_content": "Käytä Pelisisällön Käännöksiä",
-    "translation_disclaimer": "Käytät tällä hetkellä paikallista versiota sovelluksesta. Tämän käännöksen ovat laatineet ja tarkistaneet seuraavat vapaaehtoiset, The Pandemonium Instituteen liittymättömät henkilöt:",
     "translation_game": "Tämä pelisisällön käännös ei välttämättä vastaa täsmällisesti The Pandemonium Instituten laatimia virallisia englanninkielisiä pelisääntöjä.",
     "travellers_alive": "{0} / {1} kulkuria elossa",
     "update": "Päivitä!",

@@ -352,7 +352,6 @@
       "background_text": "Gimme the bearings to yer trimmings, or gimme none to abandon yer trimmings.",
       "background_title": "Yer own trimmings",
       "button_always": "Ever",
-      "button_edit": "Change Who Ye Are",
       "button_setup": "Get Ready to Lift Anchor",
       "button_verify": "Show Yer Mark",
       "css_apply": "Apply yer own CSS code?",
@@ -381,7 +380,6 @@
         }
       },
       "option_disabled": "Cut off",
-      "patreon_link": "Show us the doubloons ye've given us",
       "patreon_perks": "Avast! Ye can only pick yer own portraits and have fancy flags if ye pay us {0}!",
       "patreon_perks2": "Put up yer coin on Patreon",
       "patreon_update": "Prove ye've paid yer doubloons on Patreon",
@@ -1079,7 +1077,6 @@
     "players_alive": "{0}/{1} mateys livin'",
     "reload": "Come back again to get the latest copy.",
     "since": "since {0}",
-    "translation_disclaimer": "Ye be speakin' the language of the sea. It be made and maintained by these scallywags, who don't be representin' the admiralty:",
     "translation_game": "The Pirate version o' Jolly Rodger mayhaps isn't quite the version ye know, as written by The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} landlubbers be livin'",
     "update": "Please get a new copy!",
