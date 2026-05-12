@@ -352,6 +352,8 @@
     "rules": {
       "intro_part01": "Dawno temu",
       "intro_part06": "Bajarz też może zaprosić cię do rozmowy głosowej, jeśli potrzebuje coś z tobą prywatnie przedyskutować. Zaproszenie pojawi się po lewej stronie twojego ekranu. Kliknij je by dołączyć do rozmowy głosowej. Podczas tej rozmowy możesz rozmawiać prywatnie z Bajarzem. Gdy skończysz, możesz wcisnąć klawisze backspace bądź delete by powrócić na Rynek.",
+      "intro_part09": "Ze względu na to, że to była spora ilość informacji do przyswojenia na raz, skup się na zapamiętaniu tych czterech zasad:",
+      "intro_part10": "Możesz mówić cokolwiek chcesz w dowolnym momencie.",
       "tab1": "Zanim rozpocznie się gra",
       "tab2": "Przed pierwszą nominacją",
       "title": "Zasady"
