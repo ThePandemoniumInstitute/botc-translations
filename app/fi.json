@@ -105,7 +105,7 @@
     "change_icon": "Napauta vaihtaaksesi kuvaketta",
     "char_sheet": "Hahmoluettelo",
     "characters": "Valitse Hahmot",
-    "clear_grim": "Tyhjennä loitsukirja",
+    "clear_grim": "Tyhjennä Loitsukirja",
     "download": "Lataa {0} Sovellus",
     "edition": "Valitse Painos",
     "error_audio": "Selaimesi esti sovellusta tekemästä {0}. Aloita keskustelu napsauttamalla tästä.",
@@ -137,7 +137,7 @@
     "prompt_vacate_title": "Vapauta Paikka",
     "push_to_talk": "Paina [{0}] puhuaksesi",
     "raise_hand": "Viittaa",
-    "request_private": "Yksityiskeskustelupyyntö",
+    "request_private": "Yksityiskeskustelu",
     "reveal_grim": "Paljasta Loitsukirja",
     "rules": "Lue Säännöt",
     "session_expires": "Tässä istunnossa ei ole tällä hetkellä Kätyri-tason käyttäjää ja se saattaa vanhentua {0}.",
@@ -360,6 +360,7 @@
       "warning": "Varoitus: valituilla hahmoilla on kykyjä, jotka muuttavat pelin alkuasetelmia! Sinun on itse otettava muutokset huomioon."
     },
     "rules": {
+      "intro_part13": "Pelaa rehellisesti, äläkä koskaan käytä ulkopuolisia työkaluja tai apuja nähdäksesi Loitsukirjan sisään, sillä se sisältää kaikki pelihahmotiedot. Jos näet jotain mitä ei pitäisi, pilaa se hauskuuden.",
       "title": "Säännöt"
     },
     "settings": {
@@ -418,7 +419,7 @@
       "setting_css": "Mukautetut CSS-Säännöt",
       "setting_css_label": "Syötä Mukautetut CSS-säännöt",
       "setting_echo_cancellation": "Kaiunpoisto",
-      "setting_english": "Näytä Lisää Englanninkielisiä Hahmonimiä",
+      "setting_english": "Näytä Hahmonimet Englanniksikin",
       "setting_gain": "Äänenvahvistus",
       "setting_general_volume": "Yleinen äänenvoimakkuus",
       "setting_grimoire_offset": "Loitsukirjan Poikkeama",
@@ -467,7 +468,7 @@
         "castVote": "Anna Ääni / Leimaa Pelaaja",
         "leaveChat": "Poistu Keskustelusta",
         "leaveSession": "Poistu Istunnosta",
-        "modalRules": "Luo Säännöt",
+        "modalRules": "Lue Säännöt",
         "modalSettings": "Asetukset",
         "modalShortcuts": "Pikanäppäimet",
         "modalUsers": "Käyttäjät",
@@ -476,7 +477,7 @@
         "revealGrimoire": "Paljasta Loitsukirja",
         "setTimer": "Aseta Ajastin",
         "toggleAudioDeafened": "Mykistä Äänikeskustelu",
-        "toggleAudioMuted": "Mikrofonin Mykistys / Radiopuhelintila",
+        "toggleAudioMuted": "Mikin Mykistys / Radiopuhelintila",
         "toggleEdition": "Valitse Painos",
         "toggleFullscreen": "Koko Näyttö",
         "toggleNPCs": "Lisää Ei-Pelaaja-Hahmoja",
@@ -670,11 +671,11 @@
     },
     "firstnight": {
       "bluffs": "Valitse 3 tyhjää \"Demonin Bluffi\" -merkkiä Demonille jaettavaksi.",
-      "button_begin": "Aloita Ensimmäinen Yövaihe",
+      "button_begin": "Aloita Eka Yövaihe",
       "gardener_button": "Lähetä Hahmot",
       "gardener_text": "Kun olet tyytyväinen hahmovalintoihin, {0} pelaajillesi. Kun olet jakanut ne, voit jatkaa Ensimmäisen Yön järjestelyillä.",
       "reminders": "Lisää tarvittavat {0} muistutusmerkit.",
-      "title": "Valmistele Ensimmäinen Yö"
+      "title": "Valmistele Eka Yö"
     },
     "gatherplayers": {
       "button_add": "Lisää Paikka",
@@ -801,7 +802,7 @@
       "bootlegger_title": "Huomio!",
       "bootlegger_warning": "Tässä peli-istunnossa käytetään Trokattua Satuista, mikä tarkoittaa, että se sisältää räätälöityjä sääntöjä tai hahmoja virallisen julkaisun ulkopuolella, sopien näin paremmin kokeneille pelaajille.\nJos Blood on the Clocktower on sinulle uusi kokemus, suosittelemme ensin totuttelemaan vakiosääntöihin ja -hahmoihin jollakin virallisella peruskäsikirjoituksella. Piru Merrassa on täydellinen ensimmäiseksi pelikokemukseksesi!\nJoka tapauksessa tervetuloa – olemme iloisia täälläolostasi!\nOletko siis varma, että haluat liittyä juuri tähän peliin?",
       "button_create_game": "Luo Peli",
-      "button_help": "Apua",
+      "button_help": "Ohje",
       "button_join_game": "Liity Yksityispeliin",
       "button_local_play": "Paikallispeli",
       "button_mod": "Moderoi",
@@ -873,7 +874,7 @@
     "menu": {
       "alignment": "Vaihda Puolta",
       "character": "Muuta Hahmoa",
-      "chat": "Pyydä Yksityiskeskustelua",
+      "chat": "Yksityiskeskustelu",
       "empty": "Tyhjä Paikka",
       "empty_text": "Haluatko varmasti poistaa tämän pelaajan paikaltaan pelin ollessa vielä käynnissä?",
       "empty_title": "Tyhjää {0} Paikka",
@@ -923,7 +924,7 @@
     "access": "Pääsy",
     "copy": "Kopioi",
     "created": "Luotu {0} sitten käyttäjän {1} toimesta.",
-    "free": "Ilmainen kaikille",
+    "free": "Vapaa kaikille",
     "language": "Keskustelukieli",
     "locked": "TKt ja Pelaajat",
     "locked_text": "Vain jo istuvat pelaajat ja nykyiset Tarinankertojat voivat liittyä istuntoon.",
@@ -1007,7 +1008,7 @@
       "night": "Yö on laskeutunut...",
       "nomination": "Pelaaja on nimitetty!",
       "outgoing": "Lähtevä",
-      "request_private": "Pyydä Yksityiskeskustelua",
+      "request_private": "Yksityiskeskustelu",
       "requests": "Keskustelupyynnöt",
       "reset_position": "Nollaa sijainti",
       "spectator": "Sivustaseuraaja",
