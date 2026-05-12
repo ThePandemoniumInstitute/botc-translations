@@ -357,6 +357,9 @@
       "warning": "Ostrzeżenie: zostały wybrane postacie, które modyfikują początkowe ustawienia gry! Pamiętaj, aby je uwzględnić."
     },
     "rules": {
+      "intro_part01": "Dawno temu",
+      "tab1": "Zanim rozpocznie się gra",
+      "tab2": "Przed pierwszą nominacją",
       "title": "Zasady"
     },
     "settings": {
