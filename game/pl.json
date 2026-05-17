@@ -551,15 +551,15 @@
       "name": "Plotkara"
     },
     "grandmother": {
-      "flavor": "Ubierz kurteczkę jak idziesz na dwór, skarbie. I jeszcze termos. I szaliczek. Mam słabe serce, jak wiesz. Co bym zrobiła gdybyś dostał kataru...albo gorzej?",
+      "flavor": "Ubierz kurteczkę jak idziesz na dwór, skarbie. I jeszcze termos. I szaliczek. Wiesz, że mam słabe serce. Co bym zrobiła, gdybyś złapał przeziębienie... albo coś gorszego?",
       "name": "Babcia"
     },
     "gunslinger": {
-      "flavor": "Najwyższy czas aby ktoś wziął sprawy w swoje ręce. Tym kimś...jestem ja.",
+      "flavor": "Najwyższy czas, aby ktoś wziął sprawy w swoje ręce. Tym kimś... jestem ja.",
       "name": "Rewolwerowiec"
     },
     "harlot": {
-      "flavor": "Enchanté, marynarzu. Wyglądasz na kogoś kto potrzebuje wysłuchania swoich trosk. Jestem dobrym słuchaczem. Bardzo, bardzo dobrym.",
+      "flavor": "Enchanté, marynarzu. Wyglądasz, jakbyś potrzebował się komuś wyżalić. A ja dobrze słucham. Bardzo, bardzo dobrze.",
       "name": "Nierządnica"
     },
     "harpy": {
@@ -581,7 +581,7 @@
     },
     "hermit": {
       "ability": "Posiadasz umiejętności wszystkich Outsiderów. [-0 albo -1 Outsider]",
-      "flavor": "W zaginionych i zapomnianych miejscach ziemi, duszy światło bije.",
+      "flavor": "W zaginionych i zapomnianych zakątkach ziemi, bije duszy światło.",
       "name": "Pustelnik"
     },
     "highpriestess": {
@@ -610,7 +610,7 @@
     },
     "innkeeper": {
       "ability": "Każdej nocy* wybierz 2 graczy: nie mogą umrzeć tej nocy, ale jeden z nich jest pijany do zmierzchu.",
-      "flavor": "Wejdź do środka, strudzony wędrowcze i pozwól odpocząć swoim zmęczonym kością. Pij i raduj się, bo legiony Czarnego Pana nie będą cię niepokoić tej nocy.",
+      "flavor": "Wejdź do środka, strudzony wędrowcze i pozwól odpocząć swoim zmęczonym kościom. Pij i raduj się, bo legiony Mrocznego Pana nie będą cię niepokoić tej nocy.",
       "name": "Karczmarz"
     },
     "investigator": {
@@ -624,7 +624,7 @@
       "name": "Sędzia"
     },
     "juggler": {
-      "flavor": "Na potrzeby mojej następnej sztuczki, wedle zamówienia, będę potrzebował kwiatka, woreczka fasoli, węża zabawki, pędzel i zmotoryzowany napędzany paliwem przyrząd do skracania żywopłotów. Ostrzegam, ta sztuczka może być moją ostatnią. O rany.",
+      "flavor": "Na potrzeby mojej następnej sztuczki, wedle zamówienia, będę potrzebował kwiatka, woreczka fasoli, węża-zabawki, pędzel i zmotoryzowany napędzany paliwem przyrząd do skracania żywopłotów. Ostrzegam, ta sztuczka może być moją ostatnią. O rety.",
       "name": "Żongler"
     },
     "kazali": {
