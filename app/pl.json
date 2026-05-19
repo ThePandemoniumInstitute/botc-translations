@@ -403,6 +403,7 @@
       "intro_part17": "O ile gra wymaga zwodzenia i oszukiwania pozostałych, prosimy traktować innych z szacunkiem i rozwagą. Zabijaj z wdziękiem, umieraj z godnością.",
       "intro_part18": "Teraz pora wytłumaczyć nominacje.",
       "intro_part19": "Bo nominować gracza wystarczy powiedzieć, kogo nominujesz. Na przykład: \"Nominuję Boba\". Gdy gracz jest nominowany, wszyscy głosują odnośnie tego, czy należy na nim wykonać egzekucję. Bajarz ogłosi, że głosowanie się rozpoczyna i animacja głosowania pojawi się na ekranie. Wskazówki zegara głosowania będą poruszały się zgodnie z kierunkiem wskazówek zegara i możesz użyć klawisza spacji bądź przycisków GÓRA i DÓŁ na środku ekranu, by oddać swój głos. Jeśli twoja ręka jest podniesiona, gdy wskazówka zegara głosowania dociera do ciebie, twój głos zostanie policzony, zaś jeśli nie jest uniesiona, twój głos nie będzie policzony.",
+      "intro_part20": "W ciągu dnia możesz głosować na dowolną liczbę graczy, a ktokolwiek otrzyma najwięcej zostanie poddany egzekucji. Taki gracz potrzebuje zebrać co najmniej tyle głosów ilu jest 50% żywych graczy (zaokrąglając w górę), albo egzekucja nie dojdzie do skutku. Przy remisie, żaden gracz nie zostanie poddany egzekucji.",
       "tab1": "Zanim rozpocznie się gra",
       "tab2": "Przed pierwszą nominacją",
       "title": "Zasady"
