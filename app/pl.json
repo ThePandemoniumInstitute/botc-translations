@@ -351,9 +351,13 @@
     },
     "rules": {
       "intro_part01": "Dawno temu",
+      "intro_part05": "W ciągu nocy, przy wyłaczonych kamerach, Bajarz będzie budził część graczy by mogli wykorzystać swoje umiejetności, badź by mogli otrzymać jakiś rodzaj informacji. Gdy Bajarz cię budzi na środku ekranu powinno wyskoczyć ci okienko. By porozumieć sie z Bajarzem postępuj zgodnie z instrukcją w tym okienku. Jeśli potrzebujesz dostępu do tego okienka w ciagu nocy, po tym jak odpowiedź do Bajarza została już przesłana możesz je otworzyć poprzez kliknięcie \"Nocne informacje\" znajdujące się w prawym górnym rogu ekranu.",
       "intro_part06": "Bajarz też może zaprosić cię do rozmowy głosowej, jeśli potrzebuje coś z tobą prywatnie przedyskutować. Zaproszenie pojawi się po lewej stronie twojego ekranu. Kliknij je by dołączyć do rozmowy głosowej. Podczas tej rozmowy możesz rozmawiać prywatnie z Bajarzem. Gdy skończysz, możesz wcisnąć klawisze backspace bądź delete by powrócić na Rynek.",
       "intro_part09": "Ze względu na to, że to była spora ilość informacji do przyswojenia na raz, skup się na zapamiętaniu tych czterech zasad:",
       "intro_part10": "Możesz mówić cokolwiek chcesz w dowolnym momencie.",
+      "intro_part11": "Gra polega na rozmowach. W zależności od twoich preferencji, możesz dyskutować publicznie w grupie, bądź udać się na prywatną rozmowę.",
+      "intro_part12": "Nie podglądaj.",
+      "intro_part18": "Teraz pora wytłumaczyć nominacje.",
       "tab1": "Zanim rozpocznie się gra",
       "tab2": "Przed pierwszą nominacją",
       "title": "Zasady"
