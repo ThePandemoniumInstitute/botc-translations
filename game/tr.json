@@ -21,10 +21,19 @@
     }
   },
   "reminders": {
+    "3attacks": "3 Atak",
+    "3votes": "3 Oy",
     "abouttodie": "Ölmek Üzere",
+    "actstwice": "İki kez oynar",
     "aligned": "Tarafında",
     "alive": "Hayatta",
+    "amigo": "Amigo",
     "cannotdie": "Ölemez",
+    "day1": "Gün 1",
+    "day2": "Gün 2",
+    "day3": "Gün 3",
+    "day4": "Gün 4",
+    "day5": "Gün 5",
     "dead": "Ölü",
     "demonnotvoted": "Şeytan Oy Kullanmadı",
     "demonvoted": "Şeytan Oy Kullandı",
@@ -36,6 +45,7 @@
     "drunk3": "Sarhoş 3",
     "everyoneisdrunk": "Herkes Sarhoş",
     "evil": "Kötü",
+    "evilwakes": "Kötü Takım Uyanır",
     "falseinfo": "Yanlış Bilgi",
     "fauxpaw": "Yanlış Pati",
     "fear": "Korku",
@@ -45,6 +55,7 @@
     "goodplayerexecuted": "İyi Oyuncu İdam Edildi",
     "grandchild": "Torun",
     "guessused": "Tahmin Kullanıldı",
+    "haircutstonight": "Gece Traşı",
     "hasability": "Yeteneği Var",
     "isthealchemist": "Simyacı Olan Kişi",
     "istheapprentice": "Çırak Olan Kişi",
@@ -55,6 +66,7 @@
     "master": "Sahip",
     "maynotnominate": "Aday Gösteremez",
     "minion": "Yardakçı",
+    "negativevote": "Eksi Oy",
     "night1": "1. Gece",
     "night2": "2. Gece",
     "night3": "3. Gece",
@@ -69,6 +81,7 @@
     "somethingbad": "Kötü Bir Şey",
     "storytellerability": "Hikâyeci'nin Yeteneği",
     "survivesexecution": "İdam Edilince Hayatta Kalır",
+    "teapartytonight": "Gece Çay Partisi",
     "townsfolk": "Kasabalı",
     "turnsevil": "Kötüye Döner",
     "twin": "İkiz",
@@ -292,7 +305,9 @@
     },
     "empath": {
       "ability": "Her gece, hayatta olan 2 komşundan kaçının kötü olduğunu öğrenirsin.",
-      "name": "Empat"
+      "first": "Parmak işareti yap.",
+      "name": "Empat",
+      "other": "Parmak işareti yap."
     },
     "engineer": {
       "ability": "Oyunda bir kez, geceleyin, hangi Yardakçıların veya hangi Şeytanın oyunda olduğunu seç.",
@@ -358,7 +373,7 @@
       "name": "Gangster"
     },
     "gardener": {
-      "ability": "1 veya daha fazla oyuncunun karakterini Hikâyeci tayin eder.",
+      "ability": "1 veya daha fazla oyuncunun karakterini Hikâyeci belirler.",
       "name": "Bahçıvan"
     },
     "general": {
@@ -425,7 +440,12 @@
     },
     "highpriestess": {
       "ability": "Her gece, Hikâyecinin en çok hangi oyuncuyla konuşman gerektiğini düşündüğünü öğrenirsin.",
-      "name": "Başrahibe"
+      "first": "Bir oyuncuyu işaret et.",
+      "name": "Başrahibe",
+      "other": "Bir oyuncuyu işaret et."
+    },
+    "hindu": {
+      "name": "Hindu"
     },
     "huntsman": {
       "name": "Avcı"
@@ -455,7 +475,7 @@
       "ability": "Her gece*, bir oyuncu seç: o kişi ölür. [Hangi oyuncunun hangi Yardakçı olduğunu sen seçersin. -? ila +? Yabancı]",
       "first": "Kazaliyi uyandır, Yardakçılarını seçmesine izin ver.",
       "name": "Kazali",
-      "other": "Kazali bir oyuncu seçer. :reminder: "
+      "other": "Kazali bir oyuncu seçer. :reminder:"
     },
     "king": {
       "name": "Kral"
@@ -536,6 +556,7 @@
     },
     "mezepheles": {
       "ability": "Gizli bir kelime bilerek başlarsın. Bu kelimeyi söyleyen ilk iyi oyuncu o gece kötüye dönüşür.",
+      "first": "Gizli kelimeyi göster.",
       "name": "Mezepheles"
     },
     "minstrel": {
@@ -569,14 +590,14 @@
     },
     "ogre": {
       "ability": "İlk gecende, bir oyuncu seç (kendini değil): onun tarafına geçersin (hangisi olduğunu bilmezsin), sarhoş veya zehirlenmiş bile olsan.",
-      "first": "Ogre bir oyuncuya işaret eder. :reminder:",
+      "first": "Ogre bir oyuncu seçer. :reminder:",
       "flavor": "\\<homurdan\\>\\<sırıt\\>\\</homurdan\\>",
       "name": "Ogre"
     },
     "ojo": {
       "ability": "Her gece*, bir karakter seç: o kişi ölür. Karakter oyunda değilse, kimin öldüğünü Hikâyeci seçer.",
       "name": "Ojo",
-      "other": "Ojo bir karakter seçer. :reminder: "
+      "other": "Ojo bir karakter seçer. :reminder:"
     },
     "oracle": {
       "ability": "Her gece*, kaç ölü oyuncunun kötü olduğunu öğrenirsin.",
@@ -622,6 +643,9 @@
       "ability": "Takımının kaybetmesinden en çok sorumlu olan oyuncuyduysan, taraf değiştirip kazanırsın, ölü bile olsan.",
       "flavor": "Bu soruyu sorduğunuza sevindim. Gerçekten. Ama bence burada ASIL soru...",
       "name": "Siyasetçi"
+    },
+    "pope": {
+      "name": "Papa"
     },
     "preacher": {
       "ability": "Her gece, bir oyuncu seç: bir Yardakçı seçilirse bunu öğrenir. Seçilmiş Yardakçıların yeteneği olmaz.",
@@ -694,11 +718,21 @@
       "name": "Shabaloth",
       "other": "Daha önce seçilen bir oyuncu yeniden dirilebilir. :reminder: Shabaloth 2 oyuncu seçer. :reminder: :reminder:"
     },
+    "shugenja": {
+      "first": "Saat yönü ya da tersini göster.",
+      "flavor": "これは夢。それも夢。すべて夢です。",
+      "name": "Shugenja"
+    },
     "slayer": {
+      "flavor": "Öl.",
       "name": "Şeytan Avcısı"
     },
     "snakecharmer": {
       "name": "Yılan Oynatıcısı"
+    },
+    "snitch": {
+      "ability": "Her bir Yardakçı 3 blöf öğrenir.",
+      "name": "İspiyoncu"
     },
     "soldier": {
       "ability": "Şeytana karşı güvendesin.",
@@ -729,6 +763,9 @@
       "name": "Tamirci",
       "other": "Tamirci ölebilir. :reminder:"
     },
+    "tor": {
+      "name": "Tor"
+    },
     "towncrier": {
       "ability": "Her gece*, bugün bir Yardakçının aday gösterip göstermediğini öğrenirsin.",
       "name": "Tellal",
@@ -738,11 +775,17 @@
       "ability": "Her gece*, bugün hangi karakterin idamla öldüğünü öğrenirsin.",
       "name": "Mezarcı"
     },
+    "ventriloquist": {
+      "name": "Vantrolog"
+    },
     "vigormortis": {
       "name": "Vigormortis"
     },
+    "villageidiot": {
+      "name": "Köyün Delisi"
+    },
     "virgin": {
-      "name": "Bakir"
+      "name": "Bakire"
     },
     "vizier": {
       "name": "Vezir"
@@ -767,6 +810,9 @@
       "first": "Cadı bir oyuncu seçer. :reminder:",
       "name": "Cadı",
       "other": "Cadı bir oyuncu seçer. :reminder:"
+    },
+    "xaan": {
+      "name": "Xaan"
     },
     "zombuul": {
       "ability": "Her gece*, bugün hiç kimse ölmediyse, bir oyuncu seç: o kişi ölür. İlk öldüğünde, hayatta kalırsın ama ölü olarak gözükürsün.",
