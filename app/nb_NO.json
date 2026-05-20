@@ -355,6 +355,14 @@
       "warning": "Advarsel: Det er valgt ut roller som endrer spilloppsettet! Du må ta hensyn til disse selv."
     },
     "rules": {
+      "intro_part01": "For lenge siden",
+      "intro_part02": "i den rolige byen Ravenswood Bluff, midt i et forferdelig tordenvær, når klokken slår midnatt... hører du et skrik. Du skynder deg til torget for å undersøke, og oppdager at din kjære forteller har blitt drept... spiddet av viseren på klokketårnet, med blod dryppende ned på brosteinen under. Du skjønner at dette er gjort av en demon, og du har helt rett - en demon som dreper om natten og tar menneskeform om dagen.",
+      "intro_part03": "Du kommer snart til å få enten en rød eller en blå spillebrikke. Hvis blå, er du god. Hvis rød, er du ond. Målet i spillet hvis du er god, er å finne og drepe demonen. Hvis demonen dør, vinner det gode laget. Målet hvis du er ond, er å ruinere byen. Hvis bare to spillere er igjen i live, vinner det onde laget.",
+      "intro_part10": "Du kan si hva du vil, når som helst.",
+      "intro_part16": "Vær grei.",
+      "intro_part18": "Nå er det tid for nominasjoner.",
+      "tab1": "Før spillet starter",
+      "tab2": "Før første nominasjon",
       "title": "Regler"
     },
     "settings": {
@@ -371,6 +379,8 @@
       "css_title": "Legg til tilpasset CSS",
       "image_text": "Er du sikker på at du vil tillate tilpassede bilder? En ondsinnet manuskriptforfatter kan spore IP-adressen din på denne måten. The Pandemonium Institute har ingen kontroll over bildene som leveres av andre brukere av appen.",
       "image_title": "Tillat tilpassede bilder",
+      "link_to": "Logg inn på {0}",
+      "linked_to": "Du er logget inn på {0}",
       "nomination": {
         "bigwig": {
           "text": "Hver nominerte velger en spiller: frem til avstemming er det kun de som kan prate, og de er gal om at den nominerte spilleren er god, eller kan dø.",
@@ -841,6 +851,13 @@
       "password_reset": "Innstruksjoner for å tilbakestille passordet ditt ha blitt sendt til tilknyttet epost adresse.",
       "recover_password": "Gjenopprett passord",
       "register": "Registrer",
+      "social": {
+        "complete": "Innlogging fullført. Du kan lukke dette vinduet nå.",
+        "error": "En feil har skjedd:",
+        "error_general": "Noe uventet gikk galt. Vennligst prøv igjen.",
+        "logging_in": "Logger deg inn...",
+        "updating_account": "Oppdaterer kontoen din..."
+      },
       "subscribe": "Abonner på e-postliste",
       "title": "Velkommern til Blood on the Clocktower Online - Under Konstruksjon!",
       "username": "Brukernavn"
