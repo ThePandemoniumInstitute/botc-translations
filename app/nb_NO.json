@@ -852,7 +852,7 @@
       "recover_password": "Gjenopprett passord",
       "register": "Registrer",
       "social": {
-        "complete": "Innlogging fullført. Du kan lukke dette vinduet nå.",
+        "complete": "Innlogging fullført. Du kan lukke dette vinduet nå!",
         "error": "En feil har skjedd:",
         "error_general": "Noe uventet gikk galt. Vennligst prøv igjen.",
         "logging_in": "Logger deg inn...",
