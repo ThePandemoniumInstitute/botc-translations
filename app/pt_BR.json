@@ -385,6 +385,9 @@
     },
     "rules": {
       "intro_part01": "Há muito tempo",
+      "intro_part02": "Na sonolenta cidade de Ravenswood Bluff, durante uma tempestade infernal, ao bater da meia-noite… você ouve um grito. Correndo para a Praça da Cidade para investigar, você encontra o seu amado Narrador assassinado… empalado no ponteiro das horas do torre do relógio, sangue pingando nas pedras do chão abaixo. Você supõe que isso seja obra de um Demônio, e está correto - um Demônio que mata durante a noite e assume forma humana durante o dia.",
+      "intro_part03": "Você está prestes a receber uma ficha vermelha ou azul. Se for azul, você é do bem. Se for vermelha, você é do mal. O objetivo do jogo, se você for do bem, é encontrar e executar o Demônio. Se o Demônio morrer, o bem vence. O objetivo do jogo, se você for do mal, é destruir a cidade. Se restarem apenas dois jogadores vivos, o mal vence.",
+      "intro_part04": "O jogo é dividido em duas fases: uma fase diurna e uma fase noturna. Durante o dia, vocês conversam. Cada um de vocês terá uma identidade secreta, um personagem da lista. Geralmente, os jogadores do bem compartilham o que sabem e tentam descobrir quem é quem. A maioria dos jogadores do bem dirá a verdade, mas alguns têm incentivo para mentir. Se você for do mal, definitivamente deve mentir! É melhor escolher um personagem bom para fingir ser, espalhando o máximo de informações falsas possível.",
       "intro_part05": "Durante a noite, as câmeras dos jogadores ficam ocultas, e o Narrador acordará alguns jogadores para que possam usar sua habilidade ou obter algum tipo de informação. Quando o Narrador acordar você, uma mensagem pop-up aparecerá no centro da tela. Siga as instruções para se comunicar com o Narrador na janela pop-up. Durante a noite, se precisar acessar a janela pop-up depois de responder ao Narrador, clique em \"Informações Noturnas\" no canto superior direito da tela.",
       "intro_part06": "Se o Narrador precisar discutir algo em particular com você, ele também pode solicitar um chat de voz. A solicitação de chat aparecerá no lado esquerdo da sua tela. Clique nela para entrar no chat. Durante o chat, você pode conversar em particular com o Narrador. Quando terminar, pressione backspace ou delete para retornar à Praça da Cidade.",
       "intro_part08": "Há muita informação neste jogo. No entanto, parte dela pode estar errada. Se você estiver bêbado ou envenenado, você não tem habilidade, mas o Narrador fingirá que você tem. O Narrador tem permissão para mentir para você - qualquer informação que você receber pode estar incorreta, mas você não saberá se está bêbado ou envenenado. Por exemplo, se você for o Bêbado, você pegou uma ficha de personagem diferente do saco e só o Narrador sabe que você é, na verdade, o Bêbado. Ou, se o Envenenador te envenenar, você ainda pode acordar à noite para usar sua habilidade, mas ela não funcionará.",
@@ -396,7 +399,9 @@
       "intro_part14": "Faça ao Narrador todas as perguntas que precisar.",
       "intro_part15": "Se você ficar confuso, ou não entender como o seu personagem funciona, ou não entender como funciona o personagem que você está fingindo ser, ou se algo acontecer durante a noite que você não entenda, ou se você só precisar de algum conselho de estratégia… seja o que for, por favor, pergunte. O Narrador é neutro, e o trabalho dele é ajudar você a entender as regras e se divertir jogando. Avise-o quando tiver uma pergunta, e vocês podem conversar em particular para que ninguém saiba qual pergunta você fez.",
       "intro_part16": "Jogue limpo.",
+      "intro_part17": "Este é um jogo sobre enganação e mentiras, então, por favor, trate os outros com respeito e consideração. Mate com graça e morra com dignidade.",
       "intro_part18": "Agora é hora das nomeações.",
+      "intro_part19": "Para nomear um jogador, basta dizer quem. Por exemplo: \"Eu nomeio o Bob.\" Quando um jogador é nomeado, todos votam a favor ou contra a execução dele. O Narrador anunciará que as votações estão começando, e a animação de votação aparecerá na tela. O ponteiro do relógio da votação se move no sentido horário, e você pode usar o atalho da barra de espaços ou os botões CIMA e BAIXO no centro da tela para levantar ou abaixar a mão. Se a sua mão estiver levantada quando o ponteiro chegar em você, isso conta como um voto; se estiver abaixada, não conta como um voto.",
       "intro_part20": "A cada dia, você pode votar em quantos jogadores quiser, e quem tiver mais votos é executado. Esse jogador precisa de uma contagem de votos de pelo menos 50% dos jogadores vivos; caso contrário, nenhuma execução ocorre. Em caso de empate, nenhum dos jogadores é executado.",
       "intro_part21": "Se você morrer, você ainda é uma parte importante do jogo. Você ainda conversa, e todas as câmeras dos jogadores ainda ficam ocultas durante a fase noturna. Mais importante, você ainda vence ou perde com o seu time. Na verdade, o jogo geralmente é decidido pelos votos e opiniões dos jogadores mortos. Quando você morre, você perde a sua habilidade de personagem, não pode mais nomear e tem apenas um voto para o resto do jogo, então use-o com sabedoria.",
       "tab1": "Antes do jogo começar",
@@ -408,6 +413,7 @@
       "background_text": "Insira o URL de um plano de fundo personalizado ou deixe-o em branco para remover um plano de fundo personalizado.",
       "background_title": "Plano de fundo personalizado",
       "button_always": "Sempre",
+      "button_login": "Logins sociais",
       "button_setup": "Executar a configuração",
       "button_verify": "Verificar conta",
       "css_apply": "Aplicar CSS personalizado?",
@@ -417,6 +423,8 @@
       "css_title": "Inserir CSS personalizado",
       "image_text": "Tem certeza de que deseja permitir imagens personalizadas? Um arquivo de script malicioso pode rastrear seu endereço de IP dessa maneira. The Pandemonium Institute não tem controle sobre imagens providenciadas por outros usuários do aplicativo.",
       "image_title": "Permitir imagens personalizadas",
+      "link_to": "Fazer login em {0}",
+      "linked_to": "Você está logado em {0}",
       "nomination": {
         "bigwig": {
           "text": "Cada nomeado escolhe um jogador: até a votação, apenas o jogador escolhido pode falar & deve alucinar que o nomeado é do bem, ou pode morrer.",
@@ -881,6 +889,7 @@
       "error_captcha": "Complete o captcha",
       "error_password": "As senhas não coincidem",
       "login": "Login",
+      "login_with": "Login com {0}",
       "password": "Senha",
       "password_confirm": "Confirmação da senha",
       "password_reset": "As instruções para redefinir sua senha foram enviadas para o endereço de e-mail associado.",
@@ -892,6 +901,7 @@
         "error_general": "Algo inesperadamente deu errado. Por favor tente de novo.",
         "error_grant_expired": "O link de autenticação expirou, por favor feche essa janela e tente de novo.",
         "error_nonce_missing": "Não foi possível verificar a solicitação de autenticação. Feche esta janela e tente novamente.",
+        "logging_in": "Logando você...",
         "status": "Conta está linkada a {0}",
         "updating_account": "Atualizando sua conta..."
       },
