@@ -347,6 +347,23 @@
       "warning": "Atenção: há personagens escolhidos que alteram a configuração do jogo! Você deve levá-los em consideração por conta própria."
     },
     "rules": {
+      "intro_part01": "Há muito tempo",
+      "intro_part05": "Durante a noite, as câmeras dos jogadores ficam ocultas, e o Narrador acordará alguns jogadores para que possam usar sua habilidade ou obter algum tipo de informação. Quando o Narrador acordar você, uma mensagem pop-up aparecerá no centro da tela. Siga as instruções para se comunicar com o Narrador na janela pop-up. Durante a noite, se precisar acessar a janela pop-up depois de responder ao Narrador, clique em \"Informações Noturnas\" no canto superior direito da tela.",
+      "intro_part06": "Se o Narrador precisar discutir algo em particular com você, ele também pode solicitar um chat de voz. A solicitação de chat aparecerá no lado esquerdo da sua tela. Clique nela para entrar no chat. Durante o chat, você pode conversar em particular com o Narrador. Quando terminar, pressione backspace ou delete para retornar à Praça da Cidade.",
+      "intro_part08": "Há muita informação neste jogo. No entanto, parte dela pode estar errada. Se você estiver bêbado ou envenenado, você não tem habilidade, mas o Narrador fingirá que você tem. O Narrador tem permissão para mentir para você - qualquer informação que você receber pode estar incorreta, mas você não saberá se está bêbado ou envenenado. Por exemplo, se você for o Bêbado, você pegou uma ficha de personagem diferente do saco e só o Narrador sabe que você é, na verdade, o Bêbado. Ou, se o Envenenador te envenenar, você ainda pode acordar à noite para usar sua habilidade, mas ela não funcionará.",
+      "intro_part09": "Isso pode ser muita informação para absorver de uma só vez, então, para manter as coisas simples, há apenas quatro coisas que você precisa lembrar:",
+      "intro_part10": "Você pode dizer o que quiser a qualquer momento.",
+      "intro_part11": "Este é um jogo de conversa. Você pode conversar publicamente com o grupo ou ter conversas particulares, fica a seu critério.",
+      "intro_part12": "Sem espiar.",
+      "intro_part13": "Por favor, jogue com integridade e nunca use ferramentas externas ou ajuda externa para acessar a visão do Grimório, pois ele contém todos os personagens do jogo. Se você ver algo que não deveria, isso vai estragar a diversão.",
+      "intro_part14": "Faça ao Narrador todas as perguntas que precisar.",
+      "intro_part15": "Se você ficar confuso, ou não entender como o seu personagem funciona, ou não entender como funciona o personagem que você está fingindo ser, ou se algo acontecer durante a noite que você não entenda, ou se você só precisar de algum conselho de estratégia… seja o que for, por favor, pergunte. O Narrador é neutro, e o trabalho dele é ajudar você a entender as regras e se divertir jogando. Avise-o quando tiver uma pergunta, e vocês podem conversar em particular para que ninguém saiba qual pergunta você fez.",
+      "intro_part16": "Jogue limpo.",
+      "intro_part18": "Agora é hora das nomeações.",
+      "intro_part20": "A cada dia, você pode votar em quantos jogadores quiser, e quem tiver mais votos é executado. Esse jogador precisa de uma contagem de votos de pelo menos 50% dos jogadores vivos; caso contrário, nenhuma execução ocorre. Em caso de empate, nenhum dos jogadores é executado.",
+      "intro_part21": "Se você morrer, você ainda é uma parte importante do jogo. Você ainda conversa, e todas as câmeras dos jogadores ainda ficam ocultas durante a fase noturna. Mais importante, você ainda vence ou perde com o seu time. Na verdade, o jogo geralmente é decidido pelos votos e opiniões dos jogadores mortos. Quando você morre, você perde a sua habilidade de personagem, não pode mais nomear e tem apenas um voto para o resto do jogo, então use-o com sabedoria.",
+      "tab1": "Antes do jogo começar",
+      "tab2": "Antes da primeira nomeação",
       "title": "Regras"
     },
     "settings": {
@@ -495,7 +512,9 @@
       "tab_user": "Usuário",
       "title": "Configurações do aplicativo",
       "title_avatar": "Selecionar um avatar",
-      "title_sound": "Volume dos efeitos sonoros"
+      "title_sound": "Volume dos efeitos sonoros",
+      "unlink_text": "Tem certeza de que deseja remover o login com {0} da sua conta? Você sempre pode adicioná-lo novamente mais tarde.",
+      "unlink_title": "Remover Login"
     },
     "setup": {
       "audio_devices": "Dispositivos de áudio",
@@ -830,6 +849,15 @@
       "password_reset": "As instruções para redefinir sua senha foram enviadas para o endereço de e-mail associado.",
       "recover_password": "Recuperar senha",
       "register": "Registrar",
+      "social": {
+        "complete": "Login completo, você pode fechar essa janela agora!",
+        "error": "Um erro aconteceu:",
+        "error_general": "Algo inesperadamente deu errado. Por favor tente de novo.",
+        "error_grant_expired": "O link de autenticação expirou, por favor feche essa janela e tente de novo.",
+        "error_nonce_missing": "Não foi possível verificar a solicitação de autenticação. Feche esta janela e tente novamente.",
+        "status": "Conta está linkada a {0}",
+        "updating_account": "Atualizando sua conta..."
+      },
       "subscribe": "Inscrever-se na lista de discussão",
       "title": "Boas-vindas ao Blood On the Clocktower Online - Em Desenvolvimento!",
       "username": "Nome de Usuário"
@@ -1081,6 +1109,9 @@
     "players_alive": "{0}/{1} jogadores vivos",
     "reload": "Recarregue ou limpe o cache do navegador para obter a última versão.",
     "since": "desde {0}",
+    "translation_content": "Usar Traduções de Conteúdo do Jogo",
+    "translation_disclaimer1": "Você está usando atualmente uma versão localizada do aplicativo.",
+    "translation_disclaimer2": "Esta tradução foi criada e revisada pelos seguintes voluntários, que não são afiliados ao The Pandemonium Institute:",
     "translation_game": "O conteúdo traduzido deste jogo pode não representar corretamente as regras oficiais do jogo em inglês escritas pelo The Pandemonium Institute.",
     "travellers_alive": "{0} de {1} viajantes vivos",
     "update": "Atualize o jogo!",
