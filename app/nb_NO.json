@@ -886,7 +886,7 @@
       "character": "Endre rolle",
       "chat": "Be om privat chat",
       "empty": "Tøm setet",
-      "empty_text": "Vil du virkelig fjerne denne spilleren fra deres sete mens spillet er i gang?",
+      "empty_text": "Vil du virkelig fjerne denne spilleren fra setet mens spillet er i gang?",
       "empty_title": "Tøm setet til {0}",
       "follow": "Følg Spiller",
       "nominate": "Nominer Spiller",
