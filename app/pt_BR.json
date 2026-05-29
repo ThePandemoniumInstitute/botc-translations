@@ -10,10 +10,12 @@
       "special-tpi": "Equipe do TPI"
     },
     "botc_online": "BOTC Online",
+    "button_allow": "Conceder",
     "button_cancel": "Cancelar",
     "button_close": "Fechar",
     "button_confirm": "Confirmar",
     "button_continue": "Continuar",
+    "button_deny": "Negar",
     "button_logout": "Desconectar-se",
     "button_search": "Buscar",
     "button_send": "Enviar",
@@ -82,6 +84,7 @@
       "day": "Primeiro Dia|Dia {n}",
       "end": "Intervalo entre partidas",
       "first_night": "Primeira Noite",
+      "grim_reveal": "Revelação do Grimório",
       "night": "Primeira Noite|Noite{n}",
       "other_nights": "Outras Noites",
       "start": "Preparando a Noite 1"
@@ -97,6 +100,7 @@
     "traveller": "Viajante|Viajantes"
   },
   "main-menu": {
+    "block_join": "Um usuário que você bloqueou entrou nessa sessão: {0}",
     "cast_vote": "Votar",
     "change_icon": "Clique para mudar o ícone",
     "char_sheet": "Ficha de Personagens",
@@ -113,6 +117,7 @@
     "gong_attention": "Gongo de atenção",
     "gong_recall": "Retornar à Praça da Cidade",
     "grim_access": "Você recebeu acesso ao Grimório",
+    "grim_request_user": "O Espectador {0} pediu acesso ao Grimório:",
     "help": "Ajuda",
     "json_schema": "Esquema JSON de Cenários",
     "leave": "Sair do jogo",
@@ -121,6 +126,7 @@
     "night_info": "Informação da Noite",
     "night_info_text": "O Narrador acordou você esta noite!",
     "night_sheet": "Ficha de Ordem da Noite",
+    "notifications": "Notificações",
     "npcs": "Adicionar Lendas ou Mitos",
     "prompt_clear_player": "Tem certeza de que deseja remover todos os Personagens e Marcadores?",
     "prompt_clear_st": "O Grimório e os Marcadores serão apagados para todos, incluindo você. Tem certeza?",
@@ -131,6 +137,7 @@
     "prompt_vacate_title": "Abandonar Assento",
     "push_to_talk": "Aperte [{0}] para falar",
     "raise_hand": "Levantar a mão",
+    "report_issue": "Reporte um Problema",
     "request_private": "Solicitar conversa particular",
     "reveal_grim": "Revelar Grimório",
     "rules": "Ler as regras",
@@ -322,6 +329,36 @@
       "tab1": "Marcadores relevantes",
       "tab2": "Outros Marcadores",
       "title": "Adicionar Marcador a {0}"
+    },
+    "report": {
+      "attachment": "Captura de Tela / Anexos (até 3)",
+      "description": "Descrição",
+      "description2": "Por favor descreva o problema que está enfrentando ou detalhes do seu pedido. Nós vamos automaticamente incluir o nome da sessão atual, os detalhes da sua conta e outros metadados técnicos.",
+      "description_placeholder": "Descreve seu problema em detalhes aqui",
+      "error": "Erro ao enviar reporte",
+      "error_attachment_limit": "Você pode adicionar no máximo 3 anexos.",
+      "error_attachment_text": "Os anexos que você selecionou tem um tamanho de {0}MB, mas o tamanho máximo é de {1}MB.",
+      "error_attachment_title": "Erro ao enviar anexo",
+      "reason": {
+        "cheating": "roubar o entregar o jogo",
+        "conduct": "Conduta do jogador",
+        "fake": "conta falsa ou dupla",
+        "feature": "Pedido de funcionalidade",
+        "harassment": "Assédio ou Bullying",
+        "hatespeech": "Discurso de ódio ou discriminação",
+        "other": "Outro (descreva abaixo)",
+        "safety": "Segurança & Privacidade",
+        "spamming": "spam",
+        "technical": "Problemas técnicos"
+      },
+      "reason_general": "Em o que podemos ajudá-lo?",
+      "reason_placeholder": "Selecione um tópico",
+      "reason_user": "Por que você está reportando esse usuário?",
+      "subject": "Assunto",
+      "subject_placeholder": "Um resumo breve do ser reporte",
+      "submitting": "Enviando...",
+      "title_general": "Reporte um problema",
+      "title_user": "Reporte um usuário"
     },
     "role": {
       "error_character": "Nenhum personagem correspondente a {0} encontrado.",
@@ -895,6 +932,7 @@
       "whisper": "Enviar mensagem de texto"
     },
     "name": {
+      "blocked": "Você bloqueou esse usuário.",
       "claim": "Clique para reivindicar",
       "connecting": "Este jogador está se conectando à conversa de voz.",
       "follow": "Você está seguindo este jogador.",
