@@ -514,7 +514,7 @@
     },
     "duchess": {
       "ability": "Jeden Tag dürfen 3 Spieler wählen dich zu besuchen. In der Nacht* erfährt jeder Besucher, wie viele Besucher böse sind, aber 1 erhält falsche Informationen.",
-      "flavor": "Wir werden uns genau zwischen 6 und 7 Uhr unterhalten. Tee gibt es um 6:15 Uhr. Gebäck um 6:45 Uhr. Seien Sie nicht zu spät.  Formelle Kleidung ist wie immer erwünscht.",
+      "flavor": "Wir werden uns genau zwischen 6 und 7 Uhr unterhalten. Tee gibt es um 6:15 Uhr. Gebäck um 6:45 Uhr. Seien Sie nicht zu spät. Formelle Kleidung ist wie immer erwünscht.",
       "name": "Herzogin",
       "other": "Wake each player marked *VISITOR* or *FALSE INFO* one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked “Visitor” or, if you are waking the player marked “False Info,” show them any number of fingers except the number of evil players marked “Visitor.”"
     },
@@ -1244,7 +1244,7 @@
       "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Von dir getötete Schergen behalten ihre Fähigkeit & vergiften 1 benachbarten Bürger. [-1 Außenseiter]",
       "flavor": "Alle Türen sind eine Tür. Alle Schlüssel sind ein Schlüssel. Alle Becher sind ein Becher, aber wer von dem Wasser trinkt, den wird niemals dürsten, sondern das Wasser wird eine Quelle sein, die ins ewige Leben entspringt.",
       "name": "Vigormortis",
-      "other": "Der Vigormortis wählt einen Spieler. :reminder: Falls dieser Spieler ein Scherge ist, vergifte einen  benachbarten Bürger. :reminder: :reminder:"
+      "other": "Der Vigormortis wählt einen Spieler. :reminder: Falls dieser Spieler ein Scherge ist, vergifte einen benachbarten Bürger. :reminder: :reminder:"
     },
     "villageidiot": {
       "ability": "Wähle jede Nacht 1 Spieler: Du erfährst seine Fraktion. [+0 bis +2 Dorftrottel. 1 der zusätzlichen ist betrunken]",
