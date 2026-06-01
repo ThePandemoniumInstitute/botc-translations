@@ -1160,18 +1160,18 @@
       "homebrew": "Um Personagem Caseiro",
       "loading": "Carregando estatísticas...",
       "none": "Nada",
-      "player": "Partidas\njogadas",
+      "player": "Partidas\nJogadas",
       "player_wins": "{0}% de vitórias",
-      "role": "Personagens\nmais recebidos",
+      "role": "Personagens\nMais Recebidos",
       "st_evil_wins": "{0}% de vitória do Mal",
-      "storyteller": "Partidas\nnarradas",
-      "warning": "As estatísticas estão sendo geradas...\nCheque novamente mais tarde!"
+      "storyteller": "Partidas\nNarradas",
+      "warning": "As estatísticas estão sendo geradas...\nTente novamente mais tarde!"
     },
     "stats_hidden": "Oculto",
     "stats_private": "Privado",
     "stats_public": "Públicas",
-    "upload_avatar": "Carregar avatar",
-    "verified": "Usuário verificado"
+    "upload_avatar": "Carregar Avatar",
+    "verified": "Usuário Verificado"
   },
   "version": {
     "character_distribution": "Distribuição de personagens",
