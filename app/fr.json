@@ -334,6 +334,7 @@
       "description": "Description",
       "description2": "Veuillez décrire le problème que vous rencontrez ou détailler votre demande. Nous inclurons automatiquement le nom de la session en cours, les informations de votre compte utilisateur ainsi que d’autres données techniques.",
       "description_placeholder": "Décrivez votre problème en détail ici",
+      "error": "Erreur lors de l'envoi",
       "error_attachment_limit": "Vous pouvez ajouter jusqu’à 3 pièces jointes.",
       "error_attachment_text": "Les pièces-jointes choisies out une taille de {0}Mo, mais la taille maximale autorisée est {1}Mo.",
       "error_attachment_title": "Erreur lors du téléchargement de la pièce jointe",
@@ -388,6 +389,7 @@
       "warning": "Attention : certains rôles sélectionnés modifient la configuration de la partie ! Vous devrez en tenir compte vous-même."
     },
     "rules": {
+      "tab1": "Avant de commencer la partie",
       "title": "Règles"
     },
     "settings": {
