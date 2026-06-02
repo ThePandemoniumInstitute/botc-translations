@@ -1,5 +1,115 @@
 {
+  "analysis": {
+    "heading": "Analýza scénáře",
+    "maximum-character-recommendation": "Doporučený maximální počet postav je {number}.",
+    "no-messages": "Není co hlásit!",
+    "range-between-recommendation-full-demon": "Doporučuje se mít mezi {lower} a {upper} Démony.",
+    "range-between-recommendation-full-minion": "Doporučuje se mít mezi {lower} a {upper} Přisluhovači.",
+    "range-between-recommendation-full-outsider": "Doporučuje se mít mezi {lower} a {upper} Podivíny.",
+    "range-between-recommendation-full-townsfolk": "Doporučuje se mít mezi {lower} a {upper} Měšťany.",
+    "range-exact-recommendation-full-demon": "Doporučuje se mít přesně {number} Démonů.",
+    "range-exact-recommendation-full-minion": "Doporučuje se mít přesně {number} Přisluhovačů.",
+    "range-exact-recommendation-full-outsider": "Doporučuje se mít přesně {number} Podivínů.",
+    "range-exact-recommendation-full-townsfolk": "Doporučuje se mít přesně {number} Měšťanů.",
+    "too-few-demon": "Nedostatek démonů",
+    "too-few-minion": "Nedostatek přisluhovačů",
+    "too-few-outsider": "Nedostatek podivínů",
+    "too-few-townsfolk": "Nedostatek měšťanů",
+    "too-many-characters": "Příliš mnoho postav",
+    "too-many-demon": "Příliš mnoho démonů",
+    "too-many-minion": "Příliš mnoho přisluhovačů",
+    "too-many-outsider": "Příliš mnoho podivínů",
+    "too-many-townsfolk": "Příliš mnoho měšťanů"
+  },
+  "edition": {
+    "carousel": "Šapitó",
+    "custom": "Vlastní",
+    "experimental": "Experimentální",
+    "homebrew": "Domácí Pravidla"
+  },
+  "export": {
+    "copy-json": "Zkopírovat JSON",
+    "download-json": "Stáhnout JSON",
+    "pdf": "Tisk/Export PDF",
+    "screenshot": {
+      "failed-embed": "Některé ikony se nepodařilo vložit do exportovaného obrázku",
+      "save": "Uložit",
+      "share": "Sdílet"
+    }
+  },
+  "interactions": {
+    "+choirboy-king": {
+      "msg": "Skripty se Zpěváčkem musí obsahovat Krále.",
+      "title": "Zpěváček, ale bez Krále"
+    },
+    "+huntsman-damsel": {
+      "msg": "Scénáře s Lovcem musí obsahovat Krásku.",
+      "title": "Lovec, ale bez Krásky"
+    },
+    "no-outsider-mod": {
+      "msg": "Bez úpravy Podivínů nemohou zlí hráči spolehlivě předstírat, že jsou Podivíni.",
+      "title": "Bez úpravy Podivínů"
+    }
+  },
   "keyword": {
-    "player": "Hráč|Hráči"
+    "demon": "Démon|Démoni",
+    "fabled": "Bájná|Bájné",
+    "first-night": "První Noc",
+    "minion": "Přisluhovač|Přisluhovači",
+    "other-nights": "Další Noci",
+    "outsider": "Podivín|Podivíni",
+    "player": "Hráč|Hráči",
+    "townsfolk": "Měšťan|Měšťané",
+    "traveller": "Pocestný|Pocestní"
+  },
+  "print": {
+    "ios": "Tisk z iOS zařízení zatím není podporován. Můžeš to zkusit i tak, ale nemusí to vypadat dobře.",
+    "not-first-night": "* Ne první noc",
+    "too-many-characters": "Tvůj skript má příliš mnoho znaků ({nchars}). Doporučené maximum je 25. To může v tisku vypadat rozbitě. Pokračovat?"
+  },
+  "settings": {
+    "allow-external-images": "Povolit externí obrázky",
+    "bloodstar-image-correction-explanation": "Ikony generované na bloodstar.xyz mají dole mírné odsazení, takže nejsou úplně vycentrované. Zapnutím tohoto nastavení se toto odsazení vyrovná.",
+    "compact-layout": "Kompaktní rozvržení",
+    "display-and-ui-heading": "Zobrazení a uživatelské rozhraní",
+    "external-images-heading": "Externí obrázky",
+    "font-size": "Velikost písma",
+    "font-size-larger": "Větší",
+    "font-size-normal": "Normální",
+    "force-one-column": "Vynutit jeden sloupec",
+    "language": "Jazyk",
+    "language-select-heading": "Výběr jazyka",
+    "print-columns": "Tisknout Sloupce",
+    "print-compact-night-sheet": "Kompaktní noční list",
+    "print-options-heading": "Možnosti tisku",
+    "print-player-count-table": "Zobrazit tabulku počtu hráčů",
+    "script-heading": "Nastavení scénáře",
+    "script-type": "Typ scénáře",
+    "script-type-standard": "Standardní",
+    "show-analysis-icons": "Zobrazit ikony analýzy",
+    "show-night-sheet": "Zobrazit noční list",
+    "this-language": "Angličtina",
+    "view-tour": "Klikni {link}zde{/link} pro znovu zobrazení prohlídky."
+  },
+  "tour": {
+    "add-and-remove-characters-01": "V záložce postav můžeš {bold}přidat postavu{/bold}. Klikni na libovolnou postavu, kterou chceš přidat.",
+    "add-and-remove-characters-02": "Pro {bold}odebrání postavy{/bold} na ni klikni znovu zde, nebo klikni na její ikonu ve scénáři.",
+    "add-and-remove-characters-03": "Pokud jsi na mobilu, tuto záložku otevřeš přejetím doprava nebo klepnutím na tlačítko {menuIcon} vlevo nahoře. Zavřeš ji přejetím doleva.",
+    "add-and-remove-characters-04": "Postavy můžeš také rychle přidat pomocí pole „rychlé přidání“, které zapneš stisknutím tlačítka {plusIcon}.",
+    "add-and-remove-characters-heading": "Přidávání a odebírání postav",
+    "autosort-heading": "Automatické třídění",
+    "final-heading": "Užijte si to!",
+    "import-export-share-01": "Odtud můžeš {block}{importIcon} importovat{/block}, {block}{exportIcon} exportovat{/block} nebo {block}sdílet{/block} scénáře. Podporované jsou i vlastní postavy a scénáře!",
+    "import-export-share-heading": "Import, export a sdílení",
+    "multiple-scripts-01": "Kliknutím na záložku {heading}scénáře{/heading} zde zobrazíš všechny scénáře, na kterých jsi pracoval.",
+    "multiple-scripts-02": "Zde můžeš přepínat mezi až {bold}25 posledními scénáři{/bold}.",
+    "multiple-scripts-heading": "Práce na více scénářích",
+    "script-analytics-heading": "Analýza scénáře",
+    "script-name-and-authors-01": "{bold}Název scénáře a autoři{/bold} lze změnit zde.",
+    "script-name-and-authors-heading": "Název scénáře a autoři",
+    "undo-redo-01": "Když uděláš chybu, neboj se! Vždy můžeš použít {block}{undoIcon} zpět{/block} nebo {block}{redoIcon} znovu{/block}. Scénář také můžeš vyprázdnit kliknutím na tlačítko {binIcon}.",
+    "undo-redo-heading": "Zpět a znovu udělat",
+    "welcome-01": "Toto je nový nástroj pro tvorbu scénářů pro {bold}Blood on the Clocktower{/bold}! Tato prohlídka ti dá rychlý přehled základních funkcí, abys mohl začít.",
+    "welcome-heading": "Vítej!"
   }
 }
