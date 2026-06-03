@@ -337,7 +337,7 @@
       "name": "Kerjäläinen"
     },
     "bigwig": {
-      "ability": "Jokainen nimetty valitsee pelaajan: vain tämä saa äänestykseen olla äänessä & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
+      "ability": "Nimetyt valitsevat puolustuspuhujansa: tämän on oltava raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
       "flavor": "Turhamaisuus kysyy: \"Onko se suosittua?\" Pelkuri kysyy: \"Onko se turvallista?\" Omatunto kysyy: \"Onko se oikein?\" Kuka meistä kysyy: \"Onko se totta?\"",
       "name": "Per-Uukki"
     },
@@ -372,7 +372,7 @@
       "ability": "Aloitat pelin tietäen 1 pahan pelaajan. Jos tämä pelaaja kuolee, saat tietää toisen pahiksen tänä yönä. [1 Kyläläinen on paha]",
       "first": "Osoita \"TIEDÄT\" -merkittyä pelaajaa.",
       "flavor": "Yksin näitä, turmeluksen sairaalloisella löyhkällä päällystettyjä, katuja kävelen . Hajujen paksuus tunkeutuu sieraimiini, kutsumatta, inhosta polttaen. Ja odotuksesta. Tämän kurjan paikan sairaus kasvaa joka yö. Ja minä... olen parannuskeino.",
-      "name": "Palkkis",
+      "name": "Palkkionmetsästäjä",
       "other": "Jos *TIEDÄT* -merkitty pelaaja kuoli, osoita uutta *TIEDÄT* -merkittyä pelaajaa."
     },
     "buddhist": {
