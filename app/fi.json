@@ -137,6 +137,7 @@
     "prompt_vacate_title": "Vapauta Paikka",
     "push_to_talk": "Paina [{0}] puhuaksesi",
     "raise_hand": "Viittaa",
+    "report_issue": "Ilmoita ongelmasta",
     "request_private": "Yksityiskeskustelu",
     "reveal_grim": "Paljasta Loitsukirja",
     "rules": "Lue Säännöt",
@@ -336,6 +337,43 @@
       "tab2": "Muut Muistutukset",
       "title": "Lisää {0} Muistutusmerkki"
     },
+    "report": {
+      "attachment": "Kuvakaappaus / Liitteet (enintään 3)",
+      "description": "Kuvaus",
+      "description2": "Kuvaile kohtaamaasi ongelmaa tai pyyntösi yksityiskohtia. Sisällytämme tähän automaattisesti nykyisen istuntosi nimen, käyttäjätilisi tiedot ja muut tekniset metatiedot.",
+      "description_placeholder": "Kuvaile ongelmaasi yksityiskohtaisesti",
+      "error": "Virhe raportin lähetyksessä",
+      "error_attachment_limit": "Voit lisätä enintään 3 liitettä.",
+      "error_attachment_text": "Valitsemiesi liitteiden koko on {0}MB, mutta enimmäiskoko on {1}MB.",
+      "error_attachment_title": "Virhe liitteen lataamisessa",
+      "error_timeout": "Odota vähintään 60 sekuntia ennen uuden raportin lähettämistä. Voit lähettää enintään 5 raporttia tunnissa.",
+      "reason": {
+        "cheating": "Huijaaminen tai Luovuttaminen",
+        "conduct": "Pelaajan Käytös",
+        "fake": "Väärennetty- tai Kaksoistili",
+        "feature": "Ominaisuuspyyntö",
+        "harassment": "Häirintä tai Kiusaaminen",
+        "hatespeech": "Vihapuhe tai Syrjintä",
+        "other": "Muu (kuvaile alla)",
+        "safety": "Turvallisuus & Yksityisyys",
+        "spamming": "Roskapostaus",
+        "technical": "Tekninen Ongelma"
+      },
+      "reason_general": "Miten voisimme auttaa?",
+      "reason_placeholder": "Valitse aihe",
+      "reason_user": "Miksi ilmoitat tästä käyttäjästä?",
+      "screenshot": "Kuvankaappaus ({0}kb)",
+      "screenshot_approve": "Haluatko käyttää tätä kuvakaappausta?",
+      "screenshot_error": "Kuvankaappaus epäonnistui",
+      "screenshot_take": "Ota Kuvankaappaus",
+      "subject": "Aihe",
+      "subject_placeholder": "Raporttisi lyhyt yhteenveto",
+      "submitting": "Lähetetään...",
+      "success_text": "Kiitos raportin lähettämisestä. Tukitiimimme ottaa sinuun yhteyttä mahdollisimman pian tiliisi liitetyn sähköpostiosoitteen kautta. Raporttiasi seurataan numerolla #{0}.",
+      "success_title": "Raportti lähetetty!",
+      "title_general": "Ilmoita ongelmasta",
+      "title_user": "Ilmoita käyttäjästä"
+    },
     "role": {
       "error_character": "Hakua {0} vastaavaa hahmoa ei löytynyt.",
       "error_traveller": "Hakua {0} vastaavaa Kulkuria ei löytynyt.",
@@ -404,7 +442,7 @@
       "linked_to": "{0} -kirjautuneena",
       "nomination": {
         "bigwig": {
-          "text": "Jokainen nimetty valitsee pelaajan: vain tämä saa äänestykseen olla äänessä & on raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
+          "text": "Nimetyt valitsevat puolustuspuhujansa: tämän on oltava raivokkaasti sitä mieltä, että nimetty on hyvä, tai saattaa itse kuolla.",
           "title": "Per-Uukki"
         },
         "focus": {
@@ -479,7 +517,7 @@
       "setting_zoom": "Pelaajamerkkien Koko",
       "setup": "Mikrofoni- tai Kameraongelmia?",
       "shortcut_add": "Lisää-painike",
-      "shortcut_escape": "Paina ESC palauttaaksesi pikanäppäimen",
+      "shortcut_escape": "Paina Esc palauttaaksesi pikanäppäimen",
       "shortcut_record": "Paina näppäintä, jonka haluat toiminnolle {0} määrittää",
       "shortcut_reset": "Palauta Kaikki Pikanäppäimet",
       "shortcut_reset_confirm": "Haluatko palauttaa kaikki pikanäppäimet? Tätä ei voi peruuttaa.",
@@ -633,6 +671,7 @@
       "button_kick_user": "Potki Käyttäjä",
       "button_mod_user": "Moderoi Käyttäjää",
       "button_remove_st": "Poista Tarinankertoja",
+      "button_report_user": "Ilmoita Käyttäjästä",
       "button_unblock_user": "Poista Käyttäjän Esto",
       "error": "Käyttäjätietojen lataamisessa tapahtui virhe.",
       "grimoire_access_grant": "Avaa Loitsukirja",
@@ -993,7 +1032,7 @@
     "remove": "Poista Tarinankertoja",
     "request_grim": "Pyydä Loitsukirjanäkymää",
     "title": "Tarinankertojat",
-    "unfollow": "Lopeta TK Seuraaminen"
+    "unfollow": "Lopeta Tarinankertojan Seuraaminen"
   },
   "tabs": {
     "bluffs": {
