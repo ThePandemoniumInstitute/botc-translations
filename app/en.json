@@ -193,6 +193,7 @@
       "description_placeholder": "Describe your issue in detail here",
       "description2": "Please describe the issue you're experiencing or the details of your request. We will automatically include the current session name, your user account details and other technical metadata.",
       "attachment": "Screenshot / Attachments (up to 3)",
+      "button_attachment": "Add Attachments",
       "submitting": "Submitting...",
       "error_attachment_limit": "You may only add up to 3 attachments.",
       "error_attachment_text": "The attachments you selected have a size of {0}MB, but the maximum size is {1}MB.",
@@ -863,6 +864,12 @@
       "description": "Your computer clock is currently off by {0}. This can cause the app to malfunction during online play. You can synchronize your computer clock {1}. Once it is synchronized, reload the app.",
       "description_mins": "1 minute|{n} minutes",
       "description_online": "online"
+    },
+    "external": {
+      "title": "Attention: You are leaving the BOTC app",
+      "description": "You are about to visit the following external page:",
+      "button": "Continue to external site",
+      "disclaimer": "The Pandemonium Institute has no control over the content of that website."
     },
     "lobby": {
       "bootlegger_title": "Heads up!",
