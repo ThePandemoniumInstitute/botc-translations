@@ -339,6 +339,7 @@
     },
     "report": {
       "attachment": "Kuvakaappaus / Liitteet (enintään 3)",
+      "button_attachment": "Lisää Liitteitä",
       "description": "Kuvaus",
       "description2": "Kuvaile kohtaamaasi ongelmaa tai pyyntösi yksityiskohtia. Sisällytämme tähän automaattisesti nykyisen istuntosi nimen, käyttäjätilisi tiedot ja muut tekniset metatiedot.",
       "description_placeholder": "Kuvaile ongelmaasi yksityiskohtaisesti",
@@ -436,7 +437,7 @@
       "css_confirm2": "Vahvista, että haluat säilyttää Mukautetut CSS -muutokset. Muussa tapauksessa ne poistetaan käytöstä automaattisesti.",
       "css_text": "Voit muokata sovelluksesi ulkoasua täällä syöttämällä URL-osoitteen mukautettuun CSS-tiedostoon tai itse CSS-koodiin. Pandemonium Institute ei ole vastuussa muiden käyttäjien toimittamasta CSS-koodista. Haitallisen CSS-koodin lataaminen saattaa rikkoa sovelluksesi!",
       "css_title": "Syötä Mukautettu CSS",
-      "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen käsikirjoitustiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty hallitsemaan muiden sovelluksen käyttäjien toimittamia kuvia.",
+      "image_text": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen kässäritiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty vaikuttamaan muiden toimittamiin kuviin.",
       "image_title": "Salli mukautetut kuvat",
       "link_to": "{0} -kirjautuminen",
       "linked_to": "{0} -kirjautuneena",
@@ -863,6 +864,12 @@
       "description": "Tietokoneesi kello on tällä hetkellä pielessä {0} verran. Tämä voi aiheuttaa toimintahäiriöitä verkkopelaamisen aikana. Voit synkronoida tietokoneesi kellon {1}. Päivitä sovelluksesi näkymä, kun synkronointi on valmis.",
       "description_mins": "1 minuutti|{n} minuuttia",
       "description_online": "online"
+    },
+    "external": {
+      "button": "Jatka ulkoiselle sivustolle",
+      "description": "Olet aikeissa vierailla seuraavalla ulkoisella sivustolla:",
+      "disclaimer": "The Pandemonium Institute ei pysty vaikuttamaan kyseisen verkkosivuston sisältöön.",
+      "title": "Huomio: Olet poistumassa BOTC-sovelluksesta"
     },
     "lobby": {
       "bootlegger_title": "Huomio!",
