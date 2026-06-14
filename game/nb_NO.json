@@ -122,8 +122,326 @@
     "boomdandy": {
       "flavor": "Tikk… tikk… tikk… TAKK."
     },
+    "lycanthrope": {
+      "ability": "Hver natt*, velg en levende spiller. Hvis de er gode dør de, og Demonen dreper ikke i natt. Én god spiller registreres som ond."
+    },
+    "magician": {
+      "ability": "Demonen tror du er en Minion. Minionene tror du er en Demon.",
+      "first": "Under Minion-info, pek på Magikeren og Demonen. Under Demon-info, pek på Magikeren og Minionene."
+    },
+    "marionette": {
+      "ability": "Du tror du er en god rolle, men det er du ikke. Demonen vet hvem du er. [Du er nabo til Demonen]",
+      "first": "Vekk Demonen. Vis *DENNE SPILLEREN ER*- og Marionett-brikken. Pek på ;arionetten."
+    },
+    "mastermind": {
+      "ability": "Hvis Demonen dør ved henrettelse (og dermed avslutter spillet), spill 1 dag til. Hvis en spiller da blir henrettet, taper laget deres."
+    },
+    "mathematician": {
+      "ability": "Hver natt lærer du hvor mange spilleres evner som har fungert unormalt (siden daggry) på grunn av en annen rolles evne."
+    },
+    "matron": {
+      "ability": "Hver dag kan du velge opptil 3 sett med 2 spillere som skal bytte plasser. Spillere kan ikke forlate plassene sine for å snakke privat."
+    },
+    "mayor": {
+      "ability": "Hvis bare 3 spillere lever og ingen henrettelse skjer, vinner laget ditt. Hvis du dør om natten, kan en annen spiller dø i stedet."
+    },
+    "mezepheles": {
+      "ability": "Du begynner å lære et hemmelig ord. Den første gode spilleren som sier dette ordet blir ond den natten.",
+      "name": "Mezefeles",
+      "other": "Hvis en god spiller sa det hemmelige ordet, vekk spilleren. Vis *DU ER*-infobrikken og gi tommelen ned. :reminder: :reminder:"
+    },
+    "minioninfo": {
+      "first": "Hvis det er 7 eller flere spillere, vekk alle Minioner: Vis *DETTE ER DEMONEN*-brikken. Pek på Demonen. Vis *DETTE ER DINE MINIONER*-brikken. Pek på de andre Minionene."
+    },
+    "minstrel": {
+      "ability": "Når en Minion dør ved henrettelse, er alle andre spillere (unntatt Reisende) fulle til skumringen i morgen."
+    },
+    "monk": {
+      "ability": "Hver natt*, velg en spiller (ikke deg selv): de er trygge fra Demonen i natt."
+    },
+    "moonchild": {
+      "ability": "Når du får vite at du er død, velg offentlig én levende spiller. De dør i natt hvis de var en god spiller.",
+      "other": "Hvis Månebarnet skal drepe en god spiller, dør de. :reminder:"
+    },
+    "mutant": {
+      "ability": "Hvis du er gal om å være en Outsider kan du bli henrettet."
+    },
+    "nightwatchman": {
+      "ability": "Én gang per spill, om natten, velg en spiller: de får vite at du er Nattevakten.",
+      "first": "Nattevakten kan velge en spiller. La Nattevakten sove. Vekk den valgte spilleren. Vis *DENNE SPILLEREN ER*- og Nattevakt-brikken, og pek deretter på Nattevakten. :reminder:",
+      "other": "Nattevakten kan velge en spiller. La Nattevakten sove. Vekk den valgte spilleren. Vis *DENNE SPILLEREN ER*- og Nattevakt-brikken, og pek deretter på Nattevakten. :reminder:"
+    },
+    "noble": {
+      "ability": "Du starter med å lære 3 spillere, hvorav bare 1 er ond.",
+      "first": "Vis de 3 spillerne som er merket med *VET*."
+    },
+    "nodashii": {
+      "ability": "Hver natt*, velg en spiller: de dør. Dine to naboer i byen er forgiftet.",
+      "name": "No Dashii",
+      "other": "No Dashii velger en spiller. :reminder:"
+    },
+    "ogre": {
+      "ability": "På din første natt, velg en spiller (ikke deg selv): du får deres lagtilhørighet (du vet ikke hvilken), selv om du er full eller forgiftet.",
+      "first": "Trollet velger en spiller. :reminder:"
+    },
+    "ojo": {
+      "ability": "Hver natt*, velg en rolle: de dør. Hvis de ikke er i spill, velger fortelleren hvem som dør.",
+      "name": "Ojo",
+      "other": "Ojo velger en rolle. :reminder:"
+    },
+    "oracle": {
+      "ability": "Hver natt* lærer du hvor mange døde spillere som er onde."
+    },
+    "organgrinder": {
+      "ability": "Alle spillerne holder øynene lukket når de stemmer, og stemmeopptellingen er hemmelig. Hver natt velger du om du er full til skumringen.",
+      "first": "Lirekassemannen nikker enten ja for å være full, eller rister nei for å være edru. :reminder:",
+      "other": "Lirekassemannen nikker enten ja for å være full, eller rister nei for å være edru. :reminder:"
+    },
+    "philosopher": {
+      "ability": "En gang per spill, om natten, velg en god rolle: få dens egenskap. Hvis denne rollen er i spill, er de full.",
+      "first": "Filosofen kan velge en rolle. Bytt rollebrikke hvis nødvendig. :reminder:",
+      "other": "Filosofen kan velge en rolle. Bytt rollebrikke hvis nødvendig. :reminder:"
+    },
+    "pithag": {
+      "ability": "Hver natt* velger du en spiller og en rolle de blir (hvis de ikke er i spill). Hvis en Demon blir skapt, er dødsfallene i natt tilfeldige.",
+      "name": "Trollkjerring",
+      "other": "Trollkjerringen velger en spiller og en rolle. Hvis de velger en rolle som ikke er i spill: La Trollkjerringen sove. Vekk den valgte spilleren. Vis *DU ER*-brikken og deres nye rollebrikke."
+    },
+    "pixie": {
+      "ability": "Du begynner å lære én Landsbybeboer i spill. Hvis du var gal om at du var denne rollen, får du egenskapen deres når de dør."
+    },
+    "plaguedoctor": {
+      "ability": "Når du dør, får fortelleren en Minion-egenskap",
+      "other": "Hvis Pestdoktoren døde, fikk fortelleren en Minion-evne. Hvis du ikke har gjort dette ennå, gjør det nå. :reminder:"
+    },
+    "po": {
+      "ability": "Hver natt* kan du velge en spiller: de dør. Hvis ditt siste valg var ingen, velg 3 spillere i natt.",
+      "name": "Po",
+      "other": "Po kan velge én spiller ELLER velge 3 spillere hvis de ikke valgte noen i går natt. :reminder: eller :reminder: :reminder: :reminder:"
+    },
+    "poisoner": {
+      "ability": "Hver natt, velg en spiller: de er forgiftet i natt og i morgen."
+    },
+    "politician": {
+      "ability": "Hvis du var spilleren som var mest ansvarlig for at laget ditt tapte, endret du lagtilhørighet og vant, selv om du var død."
+    },
+    "pope": {
+      "ability": "Det er duplikater av gode roller i spill. De kan også være bløffer."
+    },
+    "poppygrower": {
+      "ability": "Minioner og Demoner kjenner ikke hverandre. Hvis du dør, lærer de hvem hverandre er den natten.",
+      "first": "Hopp over Minion-info og Demon-info. Vekk demonen. Vis *DISSE FIGURENE ER IKKE I SPILL*-brikken. Vis 3 gode roller som ikke er i spill.",
+      "other": "Hvis Valmuedyrkeren døde i dag eller i natt, vekk alle Minionene. Vis *DETTE ER DEMONEN*-brikke. Pek på Demonen. La Minionene sove. Vekk Demonen. Vis *DETTE ER DINE MINIONER*-brikke. Pek på Minionene."
+    },
+    "preacher": {
+      "ability": "Hver natt velger du en spiller: Hvis du valgte en Minion lærer de dette. Alle valgte Minioner har ikke lengre sin egenskap.",
+      "first": "Predikanten velger en spiller. :reminder: Hvis de velger en Minion: La Predikanten sove. Vekk den valgte spilleren. Vis *DENNE ROLLEN VALGTE DEG* og Predikanten-brikken.",
+      "other": "Predikanten velger en spiller. :reminder: Hvis de velger en Minion: La Predikanten sove. Vekk den valgte spilleren. Vis *DENNE ROLLEN VALGTE DEG* og Predikanten-brikken."
+    },
+    "princess": {
+      "ability": "Hvis du nominerte og henrettet en spiller på din første dag, dreper ikke Demonen i natt.",
+      "other": "Hvis Prinsessen nominerte spilleren som ble henrettet i dag, vekk Demonen som normalt, men ingen dør på grunn av Demonens evne. :reminder:"
+    },
+    "professor": {
+      "ability": "Én gang per spill, om natten*, velg en død spiller: hvis de er en Landsbybeboer, gjenopplives de.",
+      "other": "Professoren kan velge en død spiller. :reminder: :reminder:"
+    },
+    "psychopath": {
+      "ability": "Hver dag, før nominasjonene, kan du offentlig velge en spiller: de dør. Hvis du blir henrettet, dør du bare hvis du taper stein, saks og papir."
+    },
+    "pukka": {
+      "ability": "Hver natt velger du en spiller: de blir forgiftet. Den tidligere forgiftede spilleren dør og blir deretter frisk.",
+      "first": "Pukka velger en spiller. :reminder:",
+      "name": "Pukka",
+      "other": "Pukka velger en spiller. :reminder: Den tidligere forgiftede spilleren dør og blir deretter frisk. :reminder:"
+    },
+    "puzzlemaster": {
+      "ability": "1 spiller er full, selv om du dør. Hvis du gjetter (én gang) hvem det er, lærer du hvem som er Demonen, men hvis du gjettet feil får du feil informasjon."
+    },
+    "ravenkeeper": {
+      "ability": "Hvis du dør om natten, blir du vekket for å velge en spiller: du lærer rollen deres.",
+      "other": "Hvis Ravnvokteren døde i natt, velger Ravnvokteren en spiller. Vis den spillerens rollebrikke."
+    },
+    "recluse": {
+      "ability": "Du kan registreres som ond og som en Minion eller Demon, selv om du er død."
+    },
+    "revolutionary": {
+      "ability": "2 nabospillere er kjent for å være i samme lagtilhørighet. Én gang per spill registreres én av dem feil."
+    },
+    "riot": {
+      "ability": "På dag 3 blir Minioner til Riot. De nominerte dør, og må deretter nominerer en gjenlevende spiller umiddelbart. Dette må skje.",
+      "other": "Endre Riot-påminnelsesbrikken til den aktuelle dagen. :reminder: Hvis det er natt 3, kan du vekke Minionene. Vis *DU ER*- og Riot-brikken."
+    },
+    "sage": {
+      "ability": "Hvis Demonen dreper deg, får du vite at det er 1 av 2 spillere.",
+      "other": "Hvis Demonen drepte Vismannen, vekk Vismannen og pek på 2 spillere, hvorav 1 er Demonen."
+    },
+    "sailor": {
+      "ability": "Hver natt velger du en levende spiller: enten du eller de er fulle til skumringen. Du kan ikke dø."
+    },
+    "saint": {
+      "ability": "Hvis du dør ved henrettelse, taper laget ditt."
+    },
+    "savant": {
+      "ability": "Hver dag kan du besøke fortelleren for å lære to ting privat: 1 er sant og 1 er usant."
+    },
+    "scapegoat": {
+      "ability": "Hvis en spiller med samme lagtilhørighet som deg blir henrettet, kan du bli henrettet i stedet."
+    },
+    "scarletwoman": {
+      "ability": "Hvis det er 5 eller flere spillere i live og Demonen dør, blir du Demonen. (Reisende teller ikke.)",
+      "other": "Hvis Skarlagenskvinnen ble Demonen i dag, vis dem *DU ER*-brikken, deretter Demon-brikken."
+    },
+    "seamstress": {
+      "ability": "Én gang per spill, om natten, velg to spillere (ikke deg selv): du får vite om de har samme lagtilhørighet.",
+      "first": "Syersken kan velge to spillere. Nikk eller rist på hodet. :reminder:",
+      "other": "Syersken kan velge to spillere. Nikk eller rist på hodet. :reminder:"
+    },
+    "sentinel": {
+      "ability": "Det kan være én ekstra eller én færre Outsider i spill."
+    },
+    "shabaloth": {
+      "ability": "Hver natt*, velg 2 spillere: de dør. En død spiller du valgte i går natt kan bligjenopplivet.",
+      "name": "Shabaloth",
+      "other": "En tidligere valgt spiller kan bli gjenopplivet. :reminder: Shabaloth velger 2 spillere. :reminder: :reminder:"
+    },
+    "shugenja": {
+      "ability": "Du starter med å vite om din nærmeste onde spiller er med eller mot klokken. Hvis den er like langt fra hverandre, er denne informasjonen tilfeldig.",
+      "first": "Pek med klokken eller mot klokken.",
+      "name": "Shugenja"
+    },
+    "slayer": {
+      "ability": "Én gang per spill, i løpet av dagen, velg en spiller offentlig: hvis de er Demonen, dør de."
+    },
+    "snakecharmer": {
+      "ability": "Hver natt velger du en levende spiller: en valgt Demon bytter roller og lagtilhørighet med deg og blir deretter forgiftet.",
+      "first": "Slangetemmeren velger en spiller. Hvis de velger Demonen: Vis *DU ER*- og Demon-brikken. Gi tommelen ned. Bytt Slangetemmer- og Demon-brikkene. La den gamle Slangetemmeren sove. Vekk den gamle Demonen. Vis *DU ER*- og Slangetemmer-brikken og gi tommelen opp. :reminder:",
+      "other": "Slangetemmeren velger en spiller. Hvis de velger Demonen: Vis *DU ER*- og Demon-brikken. Gi tommelen ned. Bytt Slangetemmer- og Demon-brikkene. La den gamle Slangetemmeren sove. Vekk den gamle Demonen. Vis *DU ER*- og Slangetemmer-brikken og gi tommelen opp. :reminder:"
+    },
     "snitch": {
-      "ability": "Hver undersått får tre bløffer."
+      "ability": "Hver undersått får tre bløffer.",
+      "first": "Vekk hver Minion. Vis *DISSE ROLLENE ER IKKE I SPILL*-brikken. Vis 3 brikker for roller som ikke er i spill."
+    },
+    "spiritofivory": {
+      "ability": "Det kan ikke være mer enn én ekstra ond spiller."
+    },
+    "spy": {
+      "ability": "Hver natt ser du Grimoire. Du kan registreres som god & som en Landsbybeboer eller en Outsider, selv om du er død.",
+      "first": "Vis Grimoire så lenge Spionen trenger den.",
+      "other": "Vis Grimoire så lenge Spionen trenger den."
+    },
+    "steward": {
+      "ability": "Du statrer med å vite 1 god spiller.",
+      "first": "Vis spilleren merket *VET*."
+    },
+    "stormcatcher": {
+      "ability": "Nevn en god rolle. Hvis de er i spill, kan de bare dø ved henrettelse, men onde spillere lærer hvilken spiller det er.",
+      "first": "Kunngjør hvilken figur som er Stormfanget. Hvis figuren er i spill, merk spilleren som *STORMFANGET*. Vekk hver onde spiller og vis dem rollebrikken, deretter den merkede spilleren. Hvis den ikke er i spill, vekk hver onde spiller, vis dem *DISSE ROLLENE ER IKKE I SPILL*-brikken og den relevante rollebrikken."
+    },
+    "summoner": {
+      "ability": "Du får 3 bløffer. På natt 3 velger du en spiller: de blir en ond Demon etter eget valg. [Ingen demon]",
+      "first": "Vis *DISSE ROLLENE ER IKKE I SPILL*-brikken. Vis 3 gode roller som ikke er i spill.",
+      "other": "Endre påminnelsesbrikken for Åndemaneren til den aktuelle natten. :reminder: Hvis det er natt 3, velger Åndemaneren en spiller og en Demonrolle. La Åndemaneren sove. Vekk den valgte spilleren. Vis *DU ER*- og Demonbrikkene og gi tommelen ned."
+    },
+    "sweetheart": {
+      "ability": "Når du dør, er 1 spiller full fra nå av.",
+      "other": "Hvis Kjæresten døde, blir en spiller umiddelbart full. Hvis du ikke har gjort dette ennå, gjør det nå. :reminder:"
+    },
+    "tealady": {
+      "ability": "Hvis begge dine levende naboer er gode, kan de ikke dø."
+    },
+    "thief": {
+      "ability": "Hver natt velger du en spiller (ikke deg selv): stemmen deres teller negativt i morgen."
+    },
+    "tinker": {
+      "other": "Fikleren kan dø. :påminnelse:"
+    },
+    "tor": {
+      "ability": "Spillere kjenner ikke rollen eller lagtilh;righeten sin. De lærer den når de dør.",
+      "first": "Hopp over Minion-info og Demon-info.",
+      "name": "Tor",
+      "other": "Hvis en spiller døde i natt, vis *DU ER*-infobrikken, rollebrikken deres og gi et tommelfingersignal."
+    },
+    "towncrier": {
+      "ability": "Hver natt* får du vite om en Minion nominerte i dag."
+    },
+    "toymaker": {
+      "ability": "Demonen kan velge å ikke angripe og må gjøre dette minst én gang per spill. Onde spillere får normal startinformasjon.",
+      "first": "Gi Minion- og Demon-info, selv om det er færre enn 7 spillere.",
+      "other": "Hvis et Demonangrep kan avslutte spillet, og Demonen er merket med *SISTE NATT: INGEN ANGREP*, må du ikke vekke Demonen."
+    },
+    "ventriloquist": {
+      "ability": "Hvis en spiller er gal om at de har en ny rolle under nominasjonen, kan det hende de ikke dør hvis de henrettes i dag."
+    },
+    "vigormortis": {
+      "ability": "Hver natt*, velg en spiller: de dør. Minions du dreper beholder egenskapen sin og forgifter 1 Landsbyboer-nabo. [-1 Outsider]",
+      "name": "Vigormortis",
+      "other": "Vigormortis velger en spiller. :reminder: Hvis spilleren er en Minion, forgift en nabolandsbyboer. :reminder: :reminder:"
+    },
+    "villageidiot": {
+      "ability": "Hver natt velger du en spiller: du lærer lagtilhørigheten deres. [+0 til +2 Landsbyidioter. 1 av de ekstra er full]",
+      "first": "Hvis det er flere Landsbyidioter, merk én som *FULL*. :påminnelse: Vekk Landsbyidiotene én om gangen for å velge en spiller. Gi et tommelsignal.",
+      "other": "Vekk Landsbyidiotene én om gangen for å velge en spiller. Gi et tommelsignal."
+    },
+    "virgin": {
+      "ability": "Første gang du blir nominert, blir den som nominerte henrettet umiddelbart hvis de er en Landsbyboer."
+    },
+    "vizier": {
+      "ability": "Alle spillere vet at du er Vesiren. Du kan ikke dø i løpet av dagen. Hvis en god spiller stemte, kan du velge å henrette umiddelbart.",
+      "first": "Kunngjør hvilken spiller som er Vesiren."
+    },
+    "vortox": {
+      "ability": "Hver natt*, velg en spiller: de dør. Landsbyfolkets evner gir falsk informasjon. Hver dag, hvis ingen blir henrettet, vinner de onde.",
+      "name": "Vortox",
+      "other": "Vortoxen velger en spiller. :reminder:"
+    },
+    "voudon": {
+      "ability": "Bare du og de døde kan stemme. De trenger ikke stemmebrikke for å gjøre det. 50% flertall er ikke nødvendig.",
+      "name": "Voudon"
+    },
+    "washerwoman": {
+      "ability": "Du starter med å vite at 1 av 2 spillere er en bestemt Landsbyboer.",
+      "first": "Vis Landsbybeboer-rollebrikken. Pek på både *BYFOLK*- og *FEIL*-spillerne."
+    },
+    "widow": {
+      "ability": "På din første natt, se på Grimoire og velg en spiller: de er forgiftet. 1 god spiller vet at en Enke er i spill.",
+      "first": "Vis Grimoire så lenge Enken trenger den. Enken velger en spiller. :reminder: La Enken sove. Vekk spilleren merket *VET* og vis Enke-brikken. :reminder:"
+    },
+    "witch": {
+      "ability": "Hver natt velger du en spiller: hvis de nominerer i morgen, dør de. Hvis bare 3 spillere lever, mister du denne evnen."
+    },
+    "wizard": {
+      "ability": "Én gang per spill kan du velge å ønske deg noe. Hvis det blir oppfylt, kan det ha en pris og gi deg en pekepinn på hva det er.",
+      "first": "Gjør det som trengs for å oppfylle Trollmannens ønske.",
+      "other": "Gjør det som trengs for å oppfylle Trollmannens ønske."
+    },
+    "wraith": {
+      "ability": "Du kan velge å åpne øynene om natten. Du våkner når andre onde spillere gjør det.",
+      "first": "Vekk Gjenferdet når andre onde spillere våkner.",
+      "other": "Vekk Gjenferdet når andre onde spillere våkner."
+    },
+    "xaan": {
+      "ability": "Natt X blir alle innbyggerne forgiftet til skumringen. [X Outsidere]",
+      "first": "Hvis X er 1, merk Xaan med *X* påminnelsesbrikken. :reminder: :reminder:",
+      "name": "Xaan",
+      "other": "Endre Xaan-påminnelsestokenet til den relevante natten. Hvis det er natt X, merk Xaan med *X*-påminnelsesbrikken. :reminder: :reminder:"
+    },
+    "yaggababble": {
+      "ability": "Du starter med å lære en hemmelig frase. For hver gang du sier den offentlig i dag, kan en spiller dø.",
+      "first": "Vis Yaggababler den hemmelige frasen deres.",
+      "other": "For hver gang Yaggababler sa frasen i dag, kan en spiller dø. :reminder:"
+    },
+    "zealot": {
+      "ability": "Hvis det er 5 eller flere spillere i live, må du stemme på alle nominasjonene."
+    },
+    "zenomancer": {
+      "ability": "Én eller flere spillere har et mål hver. Når det er oppnådd, lærer spilleren noe sann informasjon.",
+      "name": "Zenomancer"
+    },
+    "zombuul": {
+      "ability": "Hver natt*, hvis ingen døde i dag, velg en spiller: de dør. Første gang du dør, lever du, men registreres som død.",
+      "name": "Zombuul",
+      "other": "Hvis ingen døde i dag, velger Zombuul en spiller. :reminder:"
     }
   }
 }
