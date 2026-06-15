@@ -13,5 +13,8 @@
   },
   "print": {
     "not-first-night": "* Ikke første natten"
+  },
+  "settings": {
+    "this-language": "Norsk"
   }
 }
