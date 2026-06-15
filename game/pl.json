@@ -503,7 +503,7 @@
       "ability": "Każdej nocy wybierz gracza (nie siebie ani Podróżnika): poznajesz 1 dobrą i 1 złą postać, 1 z nich jest prawdą.",
       "first": "Marzyciel Senny wskazuje na gracza. Pokaż żeton 1 dobrej i 1 złej postaci, 1 z nich jest żeton wskazanej osoby.",
       "flavor": "Pamiętam zegarmistrza. Niebo było czerwone i padało fraktalnymi trójkątami. Czuć było zapach fiołków i coś bulgotało. Kobieta o świecących oczach i postrzępionej brodzie syczała na niebo. Wtedy się obudziłam.",
-      "name": "Marzyciel Senny",
+      "name": "Senny Wędrowiec",
       "other": "Marzyciel Senny wskazuje na gracza. Pokaż żeton 1 dobrej i 1 złej postaci, 1 z nich jest żeton wskazanej osoby."
     },
     "drunk": {
@@ -976,7 +976,8 @@
     "plaguedoctor": {
       "ability": "Gdy umierasz, Bajarz dostaje umiejętność Sługusa.",
       "flavor": "Prose nie rusaj sie. Czeba czasu by sie zleczylo. Myrhh-myrhh.",
-      "name": "Doktor Dżumy"
+      "name": "Doktor Dżumy",
+      "other": "Jeżeli Doktor Plagi umarł, Bajarz zdobył zdolność Sługusa. Jeżeli jeszcze tego nie zrobiłeś, zrób to teraz. :reminder:"
     },
     "po": {
       "ability": "Każdej nocy* możesz wybrać gracza: umiera. Jeżeli twoim ostatnim wyborem był nikt, zamiast tego wybierz 3 graczy.",
@@ -1246,7 +1247,8 @@
     "wizard": {
       "ability": "Raz na grę wypowiedz życzenie. Jeżeli zostanie spełnione, może mieć ono cenę i zostawić wskazówki co do swojej natury.",
       "flavor": "Każdy mężczyzna i każda kobieta jest gwiazdą. Miłość jest prawem, miłość podług woli.",
-      "name": "Czarodziej"
+      "name": "Czarodziej",
+      "other": "Zrób wszystko, co trzeba, aby zaspokoić umiejętność Czarnoksiężnika."
     },
     "wraith": {
       "ability": "Możesz zdecydować się otworzyć oczy w nocy. Budzisz się razem z innymi złymi graczami.",
