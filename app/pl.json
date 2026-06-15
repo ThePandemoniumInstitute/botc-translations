@@ -794,6 +794,11 @@
       "description_mins": "1 minuta|{n} min",
       "description_online": "online"
     },
+    "external": {
+      "button": "Kontynuuj do zewnętrznej strony",
+      "disclaimer": "The Pandemonium Institute nie odpowiada za treści na tej stronie.",
+      "title": "Uwaga: opuszczasz aplikacje BOTC"
+    },
     "lobby": {
       "bootlegger_title": "Orientuj się!",
       "bootlegger_warning": "Ta gra zawiera postać Mityczną, co oznacza, że zasady lub postacie zostały zmienione w stosunku do oryginalnych zasad i w związku z tym zaleca się odpowiedni poziom doświadczenia graczy.\nJeżeli jesteś nowy w Blood on the Clocktower, zalecamy najpierw zapoznać się z podstawowymi postaciami i zasadami przy użyciu oficjalnych skryptów. \"Idzie Burza\" jest idealnym na pierwszą grę.\nW każdym razie witaj - cieszymy się że tu jesteś!\nCzy na pewno chcesz dołączyć do tej gry?",
