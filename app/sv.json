@@ -339,6 +339,7 @@
     },
     "report": {
       "attachment": "Skärmbild/bilagor (max 3)",
+      "button_attachment": "Bifoga filer",
       "description": "Beskrivning",
       "description2": "Beskriv problemet eller ditt förslag här. Vi kommer automatiskt lägga till sessionens namn, ditt användarkonto och annan teknisk metadata.",
       "description_placeholder": "Beskriv problemet detaljerat här",
@@ -863,6 +864,12 @@
       "description": "Din dators klocka går {0} fel. Detta kan göra så att appen inte fungerar som den ska när du spelar online. Du kan synkronisera din dators klocka {1}. När den är synkroniserad kan du ladda om appen.",
       "description_mins": "1 minut|{n} minuter",
       "description_online": "online"
+    },
+    "external": {
+      "button": "Fortsätt till extern webbplats",
+      "description": "Du är på väg att gå till följande externa webbplats:",
+      "disclaimer": "The Pandemonium Institute har ingen kontroll över innehållet på den webbplatsen.",
+      "title": "Obs! Du kommer att lämna BOTC-appen"
     },
     "lobby": {
       "bootlegger_title": "Observera!",
