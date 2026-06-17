@@ -445,10 +445,10 @@
     },
     "courtier": {
       "ability": "Én gang per spill, om natten, velg en rolle: den spilleren er full i 3 netter og 3 dager.",
-      "first": "Hoffmannen kan velge en rolle. :reminder: :reminder:",
+      "first": "Kammerherren kan velge en rolle. :reminder: :reminder:",
       "flavor": "Jeg er mer redd for en hær på hundre sauer ledet av en løve enn en hær på hundre løver ledet av en sau.",
-      "name": "Hoffmann",
-      "other": "Hoffmannen kan velge en rolle. :reminder: :reminder:"
+      "name": "Kammerherre",
+      "other": "Kammerherren kan velge en rolle. :reminder: :reminder:"
     },
     "cultleader": {
       "ability": "Hver natt får du samme lagtilhørighet som en levende nabo. Hvis alle gode spillere velger å bli med i kulten din, vinner laget ditt.",
