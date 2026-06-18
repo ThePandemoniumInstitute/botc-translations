@@ -804,7 +804,7 @@
       "first": "Réveillez les Sbires. Ils choisissent un joueur. :reminder: Les Sbires se rendorment. Réveillez la cible et montrez-lui la tuile *VOUS ÊTES* et le jeton de rôle du Timonstre.",
       "flavor": "Étape 1 : Être tromignon. Étape 2 : Dominer le monde. Étape 3 : Ti-déj.",
       "name": "Timonstre",
-      "other": "Réveillez les Sbires. Ils choisissent un joueur. :reminder: Les Sbires se rendorment. Réveillez la cible et montrez-lui la tuile *VOUS ÊTES* et le jeton de rôle du Timonstre."
+      "other": "Réveillez les Sbires. Ils choisissent un joueur. :reminder: Les Sbires se rendorment. Réveillez la cible et montrez-lui la tuile *VOUS ÊTES* et le jeton de rôle du Timonstre. Chaque nuit*, un joueur pourrait mourir."
     },
     "lleech": {
       "ability": "Chaque nuit*, choisissez un joueur : il meurt. Lors de votre première nuit, choisissez un joueur : il est empoisonné. Par la suite, vous mourez si et seulement si il est mort.",
