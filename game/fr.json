@@ -976,7 +976,7 @@
     },
     "po": {
       "ability": "Chaque nuit*, vous pouvez choisir un joueur : il meurt. Si votre dernier choix était « personne », choisissez 3 joueurs cette nuit.",
-      "flavor": "Voulez-vous une fleur ? Je me sens si seul.",
+      "flavor": "Voulez-vous une fleur ? Je me sens si seul.",
       "name": "Po",
       "other": "Le Po peut choisir un joueur OU choisit 3 joueurs si son dernier choix était « personne » :reminder: ou :reminder: :reminder: :reminder:"
     },
