@@ -978,7 +978,7 @@
       "ability": "Chaque nuit*, vous pouvez choisir un joueur : il meurt. Si votre dernier choix était « personne », choisissez 3 joueurs cette nuit.",
       "flavor": "Voulez-vous une fleur ? Je me sens si seul.",
       "name": "Po",
-      "other": "Le Po peut choisir un joueur OU choisit 3 joueurs si son dernier choix était « personne » :reminder: ou :reminder: :reminder: :reminder:"
+      "other": "Le Po peut choisir un joueur OU choisit 3 joueurs si son dernier choix était « personne » :reminder: ou :reminder: :reminder: :reminder:"
     },
     "poisoner": {
       "ability": "Chaque nuit, choisissez un joueur. Il est empoisonné cette nuit et le jour suivant.",
@@ -1117,7 +1117,7 @@
     "shugenja": {
       "ability": "Lors de votre première nuit, vous apprenez si le joueur maléfique le plus proche de vous l’est en sens horaire ou antihoraire. À distance égale, cette info est arbitraire.",
       "first": "Montrez la direction horaire ou antihoraire.",
-      "flavor": "これは夢。それも夢。この世の全ては夢である。",
+      "flavor": "これは夢。それも夢。すべて夢です。",
       "name": "Shugenja"
     },
     "slayer": {
@@ -1200,9 +1200,10 @@
     },
     "tor": {
       "ability": "Les joueurs ne connaissent ni leur rôle ni leur alignement. Ils les apprennent lorsqu'ils meurent.",
-      "first": "Si un joueur est mort cette nuit, montrez-lui la tuile *VOUS ÊTES*, son jeton de rôle et un pouce vers le haut ou le bas.",
+      "first": "Sautez les étapes Info des Sbires et Info du Démon.",
       "flavor": "Avec le tonnerre pour voix et la foudre pour épée, moi, gardien éternel, je dévore les insensés qui osent s'approcher de la porte interdite. Voici mon dessein sacré : arracher le scarabée aux entrailles de la terre rocheuse et l'enfermer dans un filet d'étoiles, sur la colline où le ciel rencontre la terre.",
-      "name": "Tor"
+      "name": "Tor",
+      "other": "Si un joueur est mort cette nuit, montrez-lui la tuile *VOUS ÊTES*, son jeton de rôle et un pouce vers le haut ou le bas."
     },
     "towncrier": {
       "ability": "Chaque nuit*, vous apprenez si un Sbire a nommé quelqu’un dans la journée.",
