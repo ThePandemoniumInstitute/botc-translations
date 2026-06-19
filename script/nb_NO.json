@@ -194,7 +194,7 @@
     "script-name-and-authors-heading": "Manuskriptnavn og forfattere",
     "undo-redo-01": "Hvis du roter det til, ikke bekymre deg! Du kan alltid {block}{undoIcon} angre{/block} eller {block}{redoIcon} gjøre det om{/block}. Du kan også tømme manuskriptet ved å klikke på {binIcon}-knappen.",
     "undo-redo-heading": "Angre og gjør på nytt",
-    "welcome-01": "Dette er ett helt nytt manuskriptverktøy for {bold}Blood on the Clocktower{/bold}! Denne oversikten 'vil gi deg en rask oversikt over grunnfunksjoner for å få deg igang.",
+    "welcome-01": "Dette er ett helt nytt manuskriptverktøy for {bold}Blood on the Clocktower{/bold}! Denne oversikten vil gi deg en rask oversikt over grunnfunksjoner for å få deg igang.",
     "welcome-heading": "Velkommen!"
   },
   "undo": "Angre",
