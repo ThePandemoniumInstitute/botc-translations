@@ -3,7 +3,7 @@
   "add-bootlegger-rules": "Cliquez sur l'icône plus pour ajouter une règle de Contrebandier.",
   "add-demon": "Ajouter des Démons",
   "add-minion": "Ajouter des Sbires",
-  "add-outsider": "Ajouter des Étrangers",
+  "add-outsider": "Ajouter des Marginaux",
   "add-townsfolk": "Ajouter des Villageois",
   "analysis": {
     "heading": "Analyseur de Script",
@@ -12,28 +12,28 @@
     "no-messages": "Rien à signaler !",
     "range-between-recommendation-full-demon": "Il est recommandé d'avoir entre {lower} et {upper} Démons.",
     "range-between-recommendation-full-minion": "Il est recommandé d'avoir entre {lower} et {upper} Sbires.",
-    "range-between-recommendation-full-outsider": "Il est recommandé d'avoir entre {lower} et {upper} Étrangers.",
+    "range-between-recommendation-full-outsider": "Il est recommandé d'avoir entre {lower} et {upper} Marginaux.",
     "range-between-recommendation-full-townsfolk": "Il est recommandé d'avoir entre {lower} et {upper} Villageois.",
     "range-between-recommendation-teensy-demon": "Il est recommandé d'avoir entre {lower} et {upper} Démons dans un Teensyville.",
     "range-between-recommendation-teensy-minion": "Il est recommandé d'avoir entre {lower} et {upper} Sbires dans un Teensyville.",
-    "range-between-recommendation-teensy-outsider": "Il est recommandé d'avoir entre {lower} et {upper} Étrangers dans un Teensyville.",
+    "range-between-recommendation-teensy-outsider": "Il est recommandé d'avoir entre {lower} et {upper} Marginaux dans un Teensyville.",
     "range-between-recommendation-teensy-townsfolk": "Il est recommandé d'avoir entre {lower} et {upper} Villageois dans un Teensyville.",
     "range-exact-recommendation-full-demon": "Il est recommandé d'avoir exactement {number} Démons.",
     "range-exact-recommendation-full-minion": "Il est recommandé d'avoir exactement {number} Sbires.",
-    "range-exact-recommendation-full-outsider": "Il est recommandé d'avoir exactement {number} Étrangers.",
+    "range-exact-recommendation-full-outsider": "Il est recommandé d'avoir exactement {number} Marginaux.",
     "range-exact-recommendation-full-townsfolk": "Il est recommandé d'avoir exactement {number} Villageois.",
     "range-exact-recommendation-teensy-demon": "Il est recommandé d'avoir exactement {number} Démons dans un Teensyville.",
     "range-exact-recommendation-teensy-minion": "Il est recommandé d'avoir exactement {number} Sbires dans un Teensyville.",
-    "range-exact-recommendation-teensy-outsider": "Il est recommandé d'avoir exactement {number} Étrangers dans un Teensyville.",
+    "range-exact-recommendation-teensy-outsider": "Il est recommandé d'avoir exactement {number} Marginaux dans un Teensyville.",
     "range-exact-recommendation-teensy-townsfolk": "Il est rcommandé d'avoir exactement {number} Villageois dans un Teensyville.",
     "too-few-demon": "Pas assez de Démons",
     "too-few-minion": "Pas assez de Sbires",
-    "too-few-outsider": "Pas assez d’Étrangers",
+    "too-few-outsider": "Pas assez de Marginaux",
     "too-few-townsfolk": "Pas assez de Villageois",
     "too-many-characters": "Trop de personnages",
     "too-many-demon": "Trop de Démons",
     "too-many-minion": "Trop de Sbires",
-    "too-many-outsider": "Trop d’Étrangers",
+    "too-many-outsider": "Trop de Marginaux",
     "too-many-townsfolk": "Trop de Villageois"
   },
   "author": "Auteur",
@@ -100,8 +100,8 @@
       "title": "Chasseur, mais pas de Demoiselle"
     },
     "no-outsider-mod": {
-      "msg": "Sans modification d’Étrangers, les joueurs mauvais ne peuvent pas prétendre être des Étrangers de façon sûre.",
-      "title": "Pas de modification d’Étrangers"
+      "msg": "Sans modification du compte de marginal, les joueurs mauvais ne peuvent pas prétendre être des marginaux de façon sûre.",
+      "title": "Pas de modification du compte de Marginal"
     }
   },
   "keyword": {
@@ -111,7 +111,7 @@
     "loric": "Mythique|Mythiques",
     "minion": "Sbire|Sbires",
     "other-nights": "Autres Nuits",
-    "outsider": "Étranger|Étrangers",
+    "outsider": "Marginal|Marginaux",
     "player": "Joueur|Joueurs",
     "townsfolk": "Villageois|Villageois",
     "traveller": "Voyageur|Voyageurs"
