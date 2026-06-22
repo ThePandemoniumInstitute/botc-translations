@@ -296,19 +296,6 @@
       "title": "Pick yer sea:",
       "upload_custom": "Gimme Jason's Ledger"
     },
-    "help": {
-      "button_send": "Send news to the carpenter",
-      "button_stop": "Stop giving the carpenter yer news",
-      "link_0": "Book o' woes",
-      "link_1": "by messenger pigeon",
-      "link_2": "here",
-      "link_3": "our shop",
-      "session_debug": "Are ye encountering rough seas? Shiver me timbers! Let us know what be troubling ye:",
-      "session_debug2": "Yer journeys are being watched by our well drilled seagulls. Ye can tell 'em to fly away here or by reloading yer magic box.",
-      "text1": "We still be makin' changers to yer ocean (version {version}).",
-      "text2": "Ye can tell us how ye feel through the {0} page or {1}. Ye can change yer pirate particulars {2}. If ye want to try journeying face to face, try {3}.",
-      "welcome": "Welcome to {0}!"
-    },
     "npc": {
       "title": "Tell the Crew a Legend"
     },

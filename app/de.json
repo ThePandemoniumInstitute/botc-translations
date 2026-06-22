@@ -311,20 +311,6 @@
       "title": "Wähle ein Szenario:",
       "upload_custom": "Skript-JSON hochladen"
     },
-    "help": {
-      "button_send": "Runden-Daten senden",
-      "button_stop": "Senden der Daten abbrechen",
-      "link_0": "Bugtracker",
-      "link_1": "per E-Mail",
-      "link_2": "hier",
-      "link_3": "unseren Online-Store",
-      "session_debug": "Hast du einen Fehler entdeckt? Dann kannst du technische Hintergrund-Informationen zu deiner Runde und den vorherigen Ereignissen automatisch an uns senden, was uns hilfreiche Details zur Ursachenforschung liefern kann:",
-      "session_debug2": "Deine App-Sitzung wird nun protokolliert und automatisch an uns gesendet. Du kannst die Übertragung jederzeit beenden, indem du den folgenden Button anklickst oder die Seite neu lädst.",
-      "text1": "Diese App (Version {version}) befindet sich noch in Entwicklung.",
-      "text2": "Du kannst uns jederzeit Feedback zukommen lassen, entweder über unseren {0} oder {1}. Deine Account-E-Mail-Adresse und dein Passwort kannst du {2} ändern. Wenn du das zugehörige Brettspiel kaufen möchtest, besuche {3}.",
-      "text3": "Wenn du einen Moderator kontaktieren möchtest, sende bitte eine Email an {0}.",
-      "welcome": "Willkommen bei {0}!"
-    },
     "npc": {
       "title": "Nichtspielercharakter hinzufügen"
     },

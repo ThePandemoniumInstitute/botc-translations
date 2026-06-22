@@ -290,19 +290,6 @@
       "title": "Seleziona un'edizione:",
       "upload_custom": "Carica Scenario Personalizzato JSON"
     },
-    "help": {
-      "button_send": "Invia Dati di Debug della Sessione",
-      "button_stop": "Termina Invio di Dati di Debug della Sessione",
-      "link_0": "tracciamento problemi",
-      "link_1": "tramite email",
-      "link_2": "qui",
-      "link_3": "il nostro negozio online",
-      "session_debug": "Stai riscontrando degli errori? Puoi mandarci informazioni sulla tua sessione di gioco e cronologia recente al nostro bug tracker, che ci aiuterà a identificare i problemi riscontrati:",
-      "session_debug2": "La tua sessione dell'app sta venendo tracciata e sarà inviata automaticamente a noi. Puoi fermare questo tracciamento manualmente in qualsiasi momento cliccando il pulsante qui sotto o ricaricando l'app.",
-      "text1": "Questa app (versione {version}) è attualmente in costruzione.",
-      "text2": "Puoi inoltrare feedback tramite la pagina {0} o {1}. Puoi aggiornare l'indirizzo email del tuo account e la password {2}. Se vuoi comprare la versione fisica del gioco, dai un'occhiata a {3}.",
-      "welcome": "Benvenuto/a a {0}!"
-    },
     "reminder": {
       "custom_favorite": "Salvato come preferito",
       "custom_note": "Nota personalizzata",

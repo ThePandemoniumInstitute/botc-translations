@@ -296,19 +296,6 @@
       "title": "Izberi izdajo:",
       "upload_custom": "Naloži JSON Skripte po meri"
     },
-    "help": {
-      "button_send": "Pošlji podatke o odpravljanju napak seje",
-      "button_stop": "Ustavi pošiljanje podatkov o odpravljanju napak",
-      "link_0": "sledilec napak",
-      "link_1": "preko e-sporočil",
-      "link_2": "tukaj",
-      "link_3": "naša spletna trgovina",
-      "session_debug": "Prihaja do napak? Lahko pošlješ informacije o tvoji seji in nedavni zgodovini na naš iskalec napak, kar nam bo pomagalo prepoznati težave s katerimi se srečuješ:",
-      "session_debug2": "Sledimo tvoji seji na aplikaciji in nam bo samodejno poslana. Sledenje lahko vedno ročno ustaviš tako, da klikneš spodnji gumb ali ponovno naložiš aplikacijo.",
-      "text1": "Ta aplikacija (verzija {version}) je trenutno V Delu.",
-      "text2": "Povratne informacije lahko pošlješ preko {0} strani ali {1}. Lahko posodobiš svoj e-poštni naslov in geslo svojega uporabniškega računa {2}. Če želiš kupiti igro v fizični obliki, poglej {3}.",
-      "welcome": "Dobrodošli na {0}!"
-    },
     "npc": {
       "title": "Dodaj neigralski lik"
     },

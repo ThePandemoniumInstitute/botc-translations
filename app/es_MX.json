@@ -296,19 +296,6 @@
       "title": "Elija una edición:",
       "upload_custom": "Cargar JSON de Guion Personalizado"
     },
-    "help": {
-      "button_send": "Enviar Datos de Depuración de la Sesión",
-      "button_stop": "Dejar de Enviar Datos de Depuración",
-      "link_0": "rastreador de problemas",
-      "link_1": "por correo electrónico",
-      "link_2": "aquí",
-      "link_3": "nuestra tienda en línea",
-      "session_debug": "¿Encontró algún error? Puede enviar información sobre su sesión e historial reciente a nuestro sistema de seguimiento de errores, lo que nos ayudará a identificar los problemas que tenga:",
-      "session_debug2": "Su sesión en la aplicación está siendo rastreada y se nos enviará automáticamente. Puede detener este rastreo manualmente haciendo clic en el botón de abajo o recargando la aplicación.",
-      "text1": "Esta aplicación (versión {version}) está actualmente Bajo Construcción.",
-      "text2": "Puede enviar sus comentarios a través de la página {0} o {1}. Puede actualizar su correo electrónico y contraseña {2}. Si quiere comprar el juego físico, consulta {3}.",
-      "welcome": "¡Bienvenide a {0}!"
-    },
     "npc": {
       "title": "Añada un Personaje No Jugador"
     },

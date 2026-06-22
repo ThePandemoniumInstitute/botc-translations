@@ -307,20 +307,6 @@
       "title": "Selecteer een editie:",
       "upload_custom": "Upload Speciaal Script JSON"
     },
-    "help": {
-      "button_send": "Verzend Sessie Debug Gegevens",
-      "button_stop": "Stop met Verzenden van Debug Gegevens",
-      "link_0": "probleem jager",
-      "link_1": "via e-mail",
-      "link_2": "hier",
-      "link_3": "onze online winkel",
-      "session_debug": "Loop je tegen fouten aan? Je kunt informatie over je sessie en recente geschiedenis naar onze bug tracker sturen. Zo kunnen we de problemen die je ondervindt identificeren:",
-      "session_debug2": "Je app sessie wordt nu bijgehouden en automatisch naar ons verstuurd. Je kunt dit altijd handmatig stoppen door op de onderstaande knop te klikken of de app opnieuw te laden.",
-      "text1": "Deze app (versie {version}) is momenteel in Ontwikkeling.",
-      "text2": "Je kunt uw terugkoppeling geven via de {0} pagina of {1}. Je kunt jouw account emailadres en wachtwoord updaten {2}. Als je het fysieke spel wilt kopen, kijk op {3}.",
-      "text3": "Als je in contact wilt komen met een moderator, stuur een mail naar {0}.",
-      "welcome": "Welkom bij {0}!"
-    },
     "npc": {
       "title": "Voeg een Non-Player Character (niet-spelende gebruiker) toe"
     },

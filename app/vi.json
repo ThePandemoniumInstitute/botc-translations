@@ -295,19 +295,6 @@
       "title": "Chọn thể loại:",
       "upload_custom": "Tải JSON Kịch Bản Tự Làm"
     },
-    "help": {
-      "button_send": "Gửi Dữ Liệu Gỡ Lỗi Phiên",
-      "button_stop": "Dừng Gửi Dữ Liệu Gỡ Lỗi",
-      "link_0": "theo dõi vấn đề",
-      "link_1": "bằng email",
-      "link_2": "đây",
-      "link_3": "cửa hàng trực tuyến của chúng tôi",
-      "session_debug": "Bạn gặp bất kỳ lỗi nào? Bạn có thể gửi thông tin về phiên của bạn và lịch sử gần đây tới hệ thống theo dõi lỗi của chúng tôi, nó sẽ giúp chúng tôi xác định lỗi mà bạn gặp phải:",
-      "session_debug2": "Phiên phần mềm của bạn hiện đang được theo dõi và sẽ được gửi tự động đến chúng tôi. Bạn luôn có thể dừng việc theo dõi bằng việc nhấn nút bên dưới hoặc tải lại phần mềm.",
-      "text1": "Phần mềm này (phiên bản {version}) hiện Đang Thi Công.",
-      "text2": "Bạn có thể gửi nhận xét qua trang {0} hoặc {1}. Bạn có thể cập nhật tài khoản email và mật khẩu của bạn {2}. Nếu bạn muốn mua bản trực tiếp của trò chơi, hãy xem qua {3}.",
-      "welcome": "Chào mừng tới {0}!"
-    },
     "npc": {
       "title": "Thêm một Người Chơi Giả (NPC)"
     },

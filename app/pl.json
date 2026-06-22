@@ -307,20 +307,6 @@
       "title": "Wybierz skrypt:",
       "upload_custom": "Prześlij plik JSON skryptu niestandardowego"
     },
-    "help": {
-      "button_send": "Wyślij dane debugowe sesji",
-      "button_stop": "Zatrzymaj wysyłanie danych debugowych",
-      "link_0": "rejestratora błędów",
-      "link_1": "za pomocą poczty elektronicznej",
-      "link_2": "tutaj",
-      "link_3": "nasz sklep online",
-      "session_debug": "Napotykasz na błędy? Możesz wysłać informacje o swojej sesji i historię działań do naszego rejestru błędów, abyśmy mogli określić, na czym polega problem:",
-      "session_debug2": "Sesja twojej aplikacji jest zapisywana i zostanie wysłana do nas automatycznie. Możesz to w każdej chwili przerwać poprzez kliknięcie na poniższy przycisk lub przeładowane aplikacji.",
-      "text1": "Niniejsza aplikacja (w wersji {version}) jest w rozbudowie.",
-      "text2": "Możesz przesłać swoją opinię poprzez stronę {0} albo {1}. Możesz zaktualizować email swojego konta i hasło {2}. Jeśli chciałbyś kupić fizyczną wersję gry, zajrzyj tutaj {3}.",
-      "text3": "Jeśli chcesz skontaktować się z moderacją, wyślij email na {0}.",
-      "welcome": "Witaj w {0}!"
-    },
     "npc": {
       "title": "Dodaj postać niezależną"
     },

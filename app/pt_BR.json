@@ -311,20 +311,6 @@
       "title": "Selecione uma edição:",
       "upload_custom": "Carregar Cenário Personalizado em JSON"
     },
-    "help": {
-      "button_send": "Enviar dados de depuração da sessão",
-      "button_stop": "Parar de enviar dados de depuração",
-      "link_0": "rastreador de erros",
-      "link_1": "por email",
-      "link_2": "aqui",
-      "link_3": "nossa loja virtual",
-      "session_debug": "Está encontrando algum erro? Você pode enviar informações sobre sua sessão e histórico recente para nosso rastreador de erros, o que nos ajudará a identificar os problemas que você estiver enfrentando:",
-      "session_debug2": "A sessão do seu aplicativo está sendo rastreada agora e será enviada automaticamente para nós. Você sempre pode interromper esse processo manualmente clicando no botão abaixo ou recarregando o aplicativo.",
-      "text1": "Este aplicativo (versão {version}) está atualmente em desenvolvimento.",
-      "text2": "Você pode enviar feedback pela página do {0} ou {1}. Você pode atualizar o endereço de e-mail e a senha da sua conta {2}. Se quiser comprar o jogo físico, dê uma olhada em {3}.",
-      "text3": "Se você gostaria de contatar um moderador, por favor envie um e-mail para {0}.",
-      "welcome": "Boas-vindas ao {0}!"
-    },
     "npc": {
       "title": "Adicionar uma Lenda ou um Mito"
     },

@@ -309,20 +309,6 @@
       "title": "Velg en utgave:",
       "upload_custom": "Last opp JSON for egendefinert manuskript"
     },
-    "help": {
-      "button_send": "Send øktens feilsøkingsdata",
-      "button_stop": "Slutt å sende feilsøkingsdata",
-      "link_0": "Problemfølger",
-      "link_1": "via e-post",
-      "link_2": "her",
-      "link_3": "vår online butikk",
-      "session_debug": "Opplever du noen feil? Du kan sende informasjon om økten din og nylig historikk til feilsporeren vår, som vil hjelpe oss med å identifisere problemer du har:",
-      "session_debug2": "Appøkten din spores nå og sendes automatisk til oss. Du kan når som helst stoppe denne sporingen manuelt ved å klikke på knappen nedenfor eller laste inn appen på nytt.",
-      "text1": "Denne appen (versjon {version}) er for tiden under utvikling.",
-      "text2": "Du kan sende inn tilbakemelding via {0}-siden eller {1}. Du kan oppdatere e-postadressen og passordet til kontoen din {2}. Hvis du vil kjøpe det fysiske spillet, kan du ta en titt på {3}.",
-      "text3": "Hvis du ønsker å komme i kontakt med en moderator, kan du sende en e-post til {0}.",
-      "welcome": "Velkommen til {0}!"
-    },
     "reminder": {
       "custom_favorite": "Lagret som favoritt",
       "custom_note": "Egendefinert notat",

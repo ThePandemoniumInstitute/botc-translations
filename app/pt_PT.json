@@ -293,19 +293,6 @@
       "title": "Escolhe uma colecção:",
       "upload_custom": "Carregar JSON de Guião Personalizado"
     },
-    "help": {
-      "button_send": "Enviar Dados de Debug da Sessão",
-      "button_stop": "Parar de Enviar Dados de Debug da Sessão",
-      "link_0": "registo de problemas",
-      "link_1": "por email",
-      "link_2": "aqui",
-      "link_3": "a nossa loja online",
-      "session_debug": "Estás a encontrar algum erro? Podes enviar informação sobre a tua sessão e histórico recente para o nosso registo de bugs, que nos vai ajudar a identificar problemas que estás a ter:",
-      "session_debug2": "A tua sessão da app está a ser registada e vai ser automaticamente enviada para nós. Podes sempre parar este registo manualmente clicando no butão em baixo ou refrescando a app.",
-      "text1": "Esta app (versão {version}) está Em Contrução neste momento.",
-      "text2": "Podes enviar feedback através da página {0} ou {1}. Podes actualizar o teu endereço de email e password {2}. Se queres comprar o jogo físico, espreita em {3}.",
-      "welcome": "Bem-vindo a {0}!"
-    },
     "npc": {
       "title": "Adicionar um Personagem Não-Jogável"
     },

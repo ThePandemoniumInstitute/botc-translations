@@ -311,20 +311,6 @@
       "title": "Välj en utgåva:",
       "upload_custom": "Ladda upp JSON för eget manus"
     },
-    "help": {
-      "button_send": "Skicka debugdata",
-      "button_stop": "Sluta skicka debugdata",
-      "link_0": "felanmälning",
-      "link_1": "via e-post",
-      "link_2": "här",
-      "link_3": "vår onlinebutik",
-      "session_debug": "Krånglar appen? Du kan skicka information om sessionen och din senaste spelhistorik till vår bugghanterare för att hjälpa oss identifiera problemet:",
-      "session_debug2": "Din appsession spåras nu och kommer automatiskt att skickas till oss. Klicka på knappen nedan eller ladda om appen för att avbryta spårningen.",
-      "text1": "Den här appen (version {version}) är under utveckling.",
-      "text2": "Du kan skicka feedback på sidan {0} eller {1}. Du kan uppdatera ditt kontos e-postadress och lösenord {2}. Om du vill köpa det fysiska spelet kan du gå till {3}.",
-      "text3": "Skicka ett mejl till {0} för att kontakta en moderator.",
-      "welcome": "Välkommen till {0}!"
-    },
     "npc": {
       "title": "Lägg till en myt"
     },

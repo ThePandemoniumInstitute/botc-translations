@@ -305,19 +305,6 @@
       "title": "Choisir une édition :",
       "upload_custom": "Charger un JSON de Script Personnalisé"
     },
-    "help": {
-      "button_send": "Envoyer les Données de Debug de la Partie",
-      "button_stop": "Arrêter d'envoyer les Données de Debug",
-      "link_0": "suivi des problèmes",
-      "link_1": "par e-mail",
-      "link_2": "ici",
-      "link_3": "notre boutique en ligne",
-      "session_debug": "Rencontrez-vous des erreurs ? Vous pouvez envoyer des informations sur votre session et votre historique récent à notre suivi des problèmes, afin de nous aider à identifier les difficultés que vous rencontrez :",
-      "session_debug2": "Votre session d’application est maintenant suivie et sera automatiquement envoyée à notre équipe. Vous pouvez à tout moment arrêter ce suivi manuellement en cliquant sur le bouton ci-dessous ou en rechargeant l’application.",
-      "text1": "Cette application (version {version}) est actuellement en cours de développement.",
-      "text2": "Vous pouvez envoyer vos commentaires via la page {0} ou {1}. Vous pouvez mettre à jour l’adresse e-mail et le mot de passe de votre compte {2}.Si vous souhaitez acheter le jeu physique, rendez-vous sur {3}.",
-      "welcome": "Bienvenue à {0} !"
-    },
     "npc": {
       "title": "Ajouter un Personnage Non-Joueur"
     },

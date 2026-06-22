@@ -292,19 +292,6 @@
       "title": "Vybrat edici:",
       "upload_custom": "Nahrát vlastní scénář JSON"
     },
-    "help": {
-      "button_send": "Odeslat data z relace pro ladění",
-      "button_stop": "Přestat odesílat data z relace pro ladění",
-      "link_0": "sledování problémů",
-      "link_1": "skrze email",
-      "link_2": "tady",
-      "link_3": "náš online obchod",
-      "session_debug": "Narážíte na nějaké chyby? Můžete zaslat informace o vaší relaci a nedávné historii do našeho systému pro sledování chyb, což nám pomůže identifikovat problémy, se kterými se potýkáte:",
-      "session_debug2": "Vaše relace v aplikaci je nyní sledována a bude nám automaticky odeslána. Toto sledování můžete kdykoli ručně zastavit kliknutím na tlačítko níže nebo znovu načtením aplikace.",
-      "text1": "Tato aplikace (verze {version}) je momentálně ve vývoji.",
-      "text2": "Zpětnou vazbu můžete zaslat prostřednictvím stránky {0} nebo {1}. E-mailovou adresu a heslo svého účtu můžete aktualizovat {2}. Pokud si chcete zakoupit fyzickou verzi hry, podívejte se na {3}.",
-      "welcome": "Vítejte v {0}!"
-    },
     "reminder": {
       "custom_favorite": "Uloženo jako oblíbené",
       "custom_note": "Vlastní poznámka",

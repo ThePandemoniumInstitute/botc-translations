@@ -311,20 +311,6 @@
       "title": "Valitse painos:",
       "upload_custom": "Lataa Räätälöity JSON-Käsikirjoitus"
     },
-    "help": {
-      "button_send": "Lähetä Istunnon Virheenkorjaustiedot",
-      "button_stop": "Lopeta Virheenkorjaustietojen Lähettäminen",
-      "link_0": "ongelmaseuranta",
-      "link_1": "sähköpostitse",
-      "link_2": "täällä",
-      "link_3": "verkkokauppamme",
-      "session_debug": "Kohtaatko virheitä? Voit lähettää tietoja istunnostasi ja viimeaikaisesta historiastasi virheenseurantaamme, mikä auttaa meitä tunnistamaan kohtaamasi ongelmat:",
-      "session_debug2": "Sovellusistuntoasi seurataan nyt ja se lähetetään meille automaattisesti. Voit aina lopettaa seurannan manuaalisesti napsauttamalla alla olevaa painiketta tai lataamalla sovelluksen uudelleen.",
-      "text1": "Tämä sovellus (versio {version}) on tällä hetkellä Rakenteilla.",
-      "text2": "Voit lähettää palautetta {0}-sivun kautta tai {1}. Voit päivittää tilisi sähköpostiosoitteen ja salasanan {2}. Jos haluat ostaa fyysisen pelin, tutustu {3}-sivustoon.",
-      "text3": "Jos haluat ottaa yhteyttä moderaattoriin, lähetä sähköpostia osoitteeseen {0}.",
-      "welcome": "Tervetuloa {0}en!"
-    },
     "npc": {
       "title": "Lisää Ei-Pelaaja-Hahmo"
     },

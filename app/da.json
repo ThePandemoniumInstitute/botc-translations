@@ -290,19 +290,6 @@
       "title": "Vælg en udgave:",
       "upload_custom": "Upload Tilpasset Manuskript JSON"
     },
-    "help": {
-      "button_send": "Send Session-fejldata",
-      "button_stop": "Stop med at Sende Fejldata",
-      "link_0": "fejlsporing",
-      "link_1": "via e-mail",
-      "link_2": "her",
-      "link_3": "vores online butik",
-      "session_debug": "Oplever du problemer? Du kan sende oplysninger om din session og seneste aktivet til vores bug-tracker, hvilket vil hjælpe os med at identificere problemer du har:",
-      "session_debug2": "Din appsession bliver sporet nu, og vil automatisk blive sendt til os. Du kan altid manuelt stoppe denne sporing ved at klikke knappen forneden, eller ved at genindlæse appen.",
-      "text1": "Denne app (version {version}) er i udvikling.",
-      "text2": "Du kan indsende feedback igennem {0} siden, eller {1}. Du kan opdatere din kontos e-mailadresse og kodeord {2}. Hvis du vil købe det fysiske spil, tag et kig ved {3}.",
-      "welcome": "Velkommen til {0}!"
-    },
     "reminder": {
       "custom_favorite": "Gemt som favorit",
       "custom_note": "Tilpasset note",

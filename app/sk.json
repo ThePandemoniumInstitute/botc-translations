@@ -290,19 +290,6 @@
       "title": "Vybrať edíciu:",
       "upload_custom": "Nahrať JSON Vlastného Scenáru"
     },
-    "help": {
-      "button_send": "Odoslať Dolaďovacie Dáta Hry",
-      "button_stop": "Prestať Odosielať Doľadovacie Dáta Hry",
-      "link_0": "sledovač problémov",
-      "link_1": "cez e-mail",
-      "link_2": "Tu",
-      "link_3": "náš online obchod",
-      "session_debug": "Stretli ste sa s nejakými chybami? Môžete poslať informácie o vašej hre a nedávnej histórii našemu sledovaču chýb,čo nám pomôže identifikovať vaše problémy:",
-      "session_debug2": "Vaša hra v aplikácii je práve sledovaná a bude automaticky posielaná nám. Vždy môžete zastaviť toto sledovanie manuálne kliknutím tlačítka nižšie alebo znovu načítaním aplikácie.",
-      "text1": "Táto aplikácia (verzia {version}) je práve Vo Vývoji.",
-      "text2": "Späatnú väzbu môžete zasielať cez {0} stránku alebo {1}. E-mailovú adresu a heslo vášho účtu môžete aktualizovať {2}. Ak si chcete kúpiť fyzickú verziu tejto hry, pozrite sa na {3}.",
-      "welcome": "Vitajte v {0}!"
-    },
     "reminder": {
       "custom_favorite": "Uložené do obľúbených",
       "custom_note": "Vlastná poznámka",

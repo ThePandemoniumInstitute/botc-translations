@@ -293,19 +293,6 @@
       "title": "Selecciona unha edición:",
       "upload_custom": "Subir Guión JSON Personalizado"
     },
-    "help": {
-      "button_send": "Enviar Datos de Depuración da Sesión",
-      "button_stop": "Deter Envío de Datos de Depuración",
-      "link_0": "rastreador de problemas",
-      "link_1": "por correo electrónico",
-      "link_2": "aquí",
-      "link_3": "nosa tenda en liña",
-      "session_debug": "Estás atopándote con algún erro? Podes enviar información sobre a túa sesión e historia recente ao noso rastreador de erros, o que nos axudará a identificar problemas que teñas:",
-      "session_debug2": "Estase a rastrear agora a túa sesión da aplicación e seranos enviada automaticamente .Sempre podes parar este rastreo manualmente premendo no botón embaixo ou recargando a aplicación.",
-      "text1": "Esta aplicación (versión {version}) está actualmente En Construción.",
-      "text2": "Podes subir retroalimentación a través da páxina {0} ou {1}. Podes actualizar a túa dirección de correo electrónico e contrasinal {2}. Se queres comprar o xogo físico, vota unha ollada a {3}.",
-      "welcome": "Benvido a {0}!"
-    },
     "npc": {
       "title": "Engadir un Personaxe Non-Xogador"
     },
