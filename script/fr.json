@@ -7,7 +7,7 @@
   "add-townsfolk": "Ajouter des Villageois",
   "analysis": {
     "heading": "Analyseur de Script",
-    "maximum-character-recommendation": "La quantité maximale recommandée de personnages est {number}.",
+    "maximum-character-recommendation": "La quantité maximale recommandée de rôles est {number}.",
     "maximum-character-recommendation-teensy": "La quantité maximale recommandée de rôles pour un Teensyville est {number}.",
     "no-messages": "Rien à signaler !",
     "range-between-recommendation-full-demon": "Il est recommandé d'avoir entre {lower} et {upper} Démons.",
@@ -30,7 +30,7 @@
     "too-few-minion": "Pas assez de Sbires",
     "too-few-outsider": "Pas assez de Marginaux",
     "too-few-townsfolk": "Pas assez de Villageois",
-    "too-many-characters": "Trop de personnages",
+    "too-many-characters": "Trop de rôles",
     "too-many-demon": "Trop de Démons",
     "too-many-minion": "Trop de Sbires",
     "too-many-outsider": "Trop de Marginaux",
@@ -42,7 +42,7 @@
   "by-author": "par {author}",
   "by-author-isolated": "par",
   "character-tooltip": "Cliquer-déplacer pour déplacer, double-clic ou clic droit pour afficher le menu contextuel",
-  "characters": "Personnages",
+  "characters": "Rôles",
   "clear-script": "Vider le script",
   "click-drag-move": "Cliquer pour retirer, cliquer-déplacer pour déplacer",
   "close": "Fermer",
@@ -51,11 +51,11 @@
   "copy-script-link": "Copier le lien du script",
   "ctxmenu": {
     "copy-text": "Copier le texte",
-    "copy-text-details": "Copier la description de la capacité du personnage",
+    "copy-text-details": "Copier la description de la capacité du rôle",
     "draft": "Brouillon",
-    "draft-details": "Un personnage brouillon n'est pas encore tout à fait validé pour le script. Si vous cliquez sur le bouton de tirage aléatoire, les personnages brouillon seront remplacés par des personnages du même type.",
+    "draft-details": "Un rôle brouillon n’est pas encore définitivement retenu pour le script. Si vous cliquez sur le bouton de tirage aléatoire, les rôles brouillon seront remplacés par des rôles du même type.",
     "pinned": "Épinglé",
-    "pinned-details": "Un personnage épinglé reste en place, même si le paramètre de tri automatique est activé."
+    "pinned-details": "Un rôle épinglé reste en place, même si le paramètre de tri automatique est activé."
   },
   "delete-script-confirmation": "Êtes vous sûr de vouloir supprimer ce script ? Cette action ne peut pas être annulée.",
   "djinn-rules": "Règles du Djinn",
@@ -80,7 +80,7 @@
   },
   "export-menu": "Menu d'exportation",
   "external-image-confirm": "Êtes vous sûr de vouloir autoriser les images personnalisés ? Un auteur de script malveillant pourrait s'en servir pour récupérer votre adresse IP. Le Pandemonium Institute n'a aucun contrôle sur les images fournies par d'autres utilisateurs de l'application.",
-  "fabled-and-loric": "Légendaires & Mythiques",
+  "fabled-and-loric": "Légendaires & Loric",
   "filters": "Filtres",
   "help": "Aide",
   "import-description": "Cliquez ou glissez-déposez pour importer le script JSON",
@@ -92,23 +92,23 @@
   "import-typing-error": "Cette boîte sert à coller un JSON depuis un appareil mobile ou tactile. Il n'est pas possible de taper du texte ici.",
   "interactions": {
     "+choirboy-king": {
-      "msg": "Les scripts avec un Enfant de Chœur doivent contenir un Roi.",
-      "title": "Enfant de Chœur, mais pas de Roi"
+      "msg": "Les scripts avec un Choriste doivent contenir un Roi.",
+      "title": "Choriste, mais pas de Roi"
     },
     "+huntsman-damsel": {
       "msg": "Les scripts avec un Chasseur doivent contenir une Demoiselle.",
       "title": "Chasseur, mais pas de Demoiselle"
     },
     "no-outsider-mod": {
-      "msg": "Sans modification du compte de marginal, les joueurs mauvais ne peuvent pas prétendre être des marginaux de façon sûre.",
-      "title": "Pas de modification du compte de Marginal"
+      "msg": "Sans modification du nombre de Marginaux, les joueurs maléfiques ne peuvent pas prétendre être des Marginaux de manière fiable.",
+      "title": "Aucune modification du nombre de Marginaux"
     }
   },
   "keyword": {
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
     "first-night": "Première Nuit",
-    "loric": "Mythique|Mythiques",
+    "loric": "Loric|Lorics",
     "minion": "Sbire|Sbires",
     "other-nights": "Autres Nuits",
     "outsider": "Marginal|Marginaux",
@@ -122,9 +122,9 @@
   "print": {
     "ios": "L'impression depuis un appareil iOS n'est pas encore supportée. Vous pouvez tout de même essayer, mais le résultat pourrait ne pas être beau.",
     "not-first-night": "* Sauf la première nuit",
-    "too-many-characters": "Votre script contient trop de personnages ({nchars}). La quantité maximale recommandée est 25. La version imprimée pourrait ne pas s'afficher correctement. Continuer ?"
+    "too-many-characters": "Votre script contient trop de rôles ({nchars}). La quantité maximale recommandée est 25. La version imprimée pourrait ne pas s'afficher correctement. Continuer?"
   },
-  "quick-add": "Chercher des personnages…",
+  "quick-add": "Chercher des rôles…",
   "randomise": "Tirage aléatoire !",
   "randomise-details": "Le tirage aléatoire va remplir votre script avec des personnages brouillon aléatoires.",
   "read-more": "Lire l'almanac/la page du wiki",
@@ -135,7 +135,7 @@
   "script-name-placeholder": "Script sans nom",
   "scripts": "Scripts",
   "search-abilities": "Recherche par capacité",
-  "search-character": "Chercher des personnages…",
+  "search-character": "Chercher des rôles…",
   "search-names": "Recherche par nom",
   "settings": {
     "allow-external-images": "Autoriser les Images Externes",
@@ -165,20 +165,20 @@
     "view-tour": "Cliquez {link}ici{/link} pour revoir la visite guidée."
   },
   "settings-menu": "Paramètres",
-  "show-all": "Tous les personnages",
+  "show-all": "Tous les rôles",
   "show-script-analytics": "Afficher l'analyse du script",
   "toast": {
-    "cannot-remove-bootlegger": "Il y a des personnages faits maison sur ce script, ce qui vous empêche de retirer le Contrebandier.",
+    "cannot-remove-bootlegger": "Il y a des rôles maison sur ce script, ce qui vous empêche de retirer le Contrebandier.",
     "copied": "Copié dans le presse-papier !"
   },
   "toggle-autosort": "Activer le tri automatique",
   "toggle-quick-input": "Activer la saisi rapide",
   "tour": {
-    "add-and-remove-characters-01": "Vous pouvez {bold}ajouter un personnage{/bold} depuis le panneau de personnage. Cliquez sur le personnage à ajouter.",
-    "add-and-remove-characters-02": "Pour {bold}retirer un personnage{/bold}, cliquez à nouveau dessus ici, ou cliquez sur son icône dans le script.",
+    "add-and-remove-characters-01": "Vous pouvez {bold}ajouter un rôle{/bold} depuis le panneau de rôle. Cliquez sur le rôle à ajouter.",
+    "add-and-remove-characters-02": "Pour {bold}retirer un rôle{/bold}, cliquez à nouveau dessus ici, ou cliquez sur son icône dans le script.",
     "add-and-remove-characters-03": "Si vous utilisez un appareil mobile, vous pouvez ouvrir ce panneau en balayant simplement vers la droite ou en appuyant sur le bouton {menuIcon} en haut à gauche. Vous pouvez le fermer en balayant vers la gauche.",
-    "add-and-remove-characters-04": "Vous pouvez aussi ajouter des personnages rapidement en utilisant le champs \"ajout rapide\", que vous pouvez activer ou désactiver en appuyant sur le bouton {plusIcon}.",
-    "add-and-remove-characters-heading": "Ajouter et retirer des personnages",
+    "add-and-remove-characters-04": "Vous pouvez aussi ajouter des rôles rapidement en utilisant le champs \"ajout rapide\", que vous pouvez activer ou désactiver en appuyant sur le bouton {plusIcon}.",
+    "add-and-remove-characters-heading": "Ajouter et retirer des rôles",
     "autosort-01": "Par défaut, tous les scripts sont automatiquement triés dans l'ordre {link}{sortIcon}{block}SAO{/block}{/link}. Cela fonctionne même pour les personnages faits maison ! Vous pouvez activer ou désactiver cette option ici.",
     "autosort-heading": "Tri automatique",
     "final-01": "C'est tout pour le moment ! Si vous voulez revoir cette visite guidée, vous pouvez le faire depuis le menu {block}{settingsIcon} paramètres{/block}.",
