@@ -314,6 +314,12 @@
     "npc": {
       "title": "Nichtspielercharakter hinzufügen"
     },
+    "playnice": {
+      "text1": "In einem Spiel voller Lug und Trug ist es wichtig, respektvoll und freundlich zu bleiben.",
+      "text2": "Sollte sich jemand auffällig daneben benehmen, melde es uns bitte in der App oder per {0}.",
+      "text2_email": "E-Mail",
+      "title": "Bleib cool!"
+    },
     "reminder": {
       "custom_favorite": "Als Favorit speichern",
       "custom_note": "Eigener Text",
