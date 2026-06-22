@@ -169,6 +169,14 @@
       "input_title": "Announcement title",
       "title": "Make an announcement"
     },
+    "playnice": {
+      "title": "Play nice!",
+      "text1": "In a game of trickery, it’s important to keep things respectful and friendly.",
+      "text2": "If you see behaviour that crosses the line please report it on the app or via {0}.",
+      "text2_email": "email",
+      "terms": " Find the Online Terms of Use here",
+      "button": "I understand"
+    },
     "report": {
       "title_general": "Report an issue",
       "title_user": "Report a user",
@@ -349,20 +357,6 @@
       "title": "Select an edition:",
       "upload_custom": "Upload Custom Script JSON"
     },
-    "help": {
-      "button_send": "Send Session Debug Data",
-      "button_stop": "Stop Sending Debug Data",
-      "link_0": "issue tracker",
-      "link_1": "via email",
-      "link_2": "here",
-      "link_3": "our online store",
-      "session_debug": "Are you encountering any errors? You can send information about your session and recent history to our bug tracker, which will help us identify problems you're having:",
-      "session_debug2": "Your app session is being tracked now and will be automatically sent to us. You can always stop this tracking manually by clicking the button below or reloading the app.",
-      "text1": "This app (version {version}) is currently Under Construction.",
-      "text2": "You can submit feedback through the {0} page or {1}. You can update your account email address and password {2}. If you want to buy the physical game, take a look at {3}.",
-      "text3": "If you would like to get in touch with a moderator, please send an email to {0}.",
-      "welcome": "Welcome to {0}!"
-    },
     "npc": {
       "title": "Add a Non-Player Character"
     },
@@ -486,6 +480,7 @@
       "setting_css_label": "Enter Custom CSS Rules",
       "setting_echo_cancellation": "Echo Cancellation",
       "setting_english": "Show Additional English Character Names",
+      "setting_chat_volume": "Chat Volume",
       "setting_gain": "Audio Gain",
       "setting_general_volume": "General volume",
       "setting_grimoire_offset": "Grimoire Offset",
@@ -1049,6 +1044,7 @@
       "download": "Download Script JSON",
       "error_popout": "Error creating window",
       "error_save": "Error saving file",
+      "error_size": "Script size is too big",
       "jinxes": "Jinxes",
       "other_nights": "Not the\nfirst night",
       "popout": "Pop-out Character tab",
