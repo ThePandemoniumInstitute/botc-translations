@@ -257,7 +257,8 @@
     "alhadikhia": {
       "ability": "Każdej nocy* możesz wybrać 3 graczy (wszyscy gracze dowiadują się kogo): każdy w tajemnicy decyduje czy żyje czy umiera, ale gdy wszyscy żyją to wszyscy umierają.",
       "flavor": "Alsukut min dhahab.",
-      "name": "Al-Hadikhia"
+      "name": "Al-Hadikhia",
+      "other": "Al-Hadikhia wybiera 3 graczy. :reminder: :reminder: :reminder: Obudź gracza oznaczonego *1* i powiedz \"Al-Hadikhia wybrała\", po czym wypowiedz imię tego gracza, następnie zapytaj \"Czy chcesz żyć?\". Gracz potwierdza potaknięciem, lub zaprzecza ruchem głowy. Uśpij tego gracza i dodaj lub usuń całun według decyzji. Powtórz z graczami *2* i *3*. Jeżeli wszyscy troje są teraz żywi, dodaj całun do każdego z nich."
     },
     "alsaahir": {
       "ability": "Każdego dnia, jeżeli publicznie odgadniesz, którzy gracze są Sługusami, a którzy są Demonami, dobro wygrywa.",
@@ -341,7 +342,7 @@
       "name": "Mecenas"
     },
     "bishop": {
-      "ability": "Tylko Bajarz może nominować. Co najmniej po jednym graczu z przeciwnych drużyn musi być nominowanym każdego dnia.",
+      "ability": "Tylko Bajarz może nominować. Co najmniej jeden gracz z przeciwnej drużyny musi być nominowany każdego dnia.",
       "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
       "name": "Biskup"
     },
@@ -375,6 +376,7 @@
     },
     "buddhist": {
       "ability": "Przez pierwsze 2 minuty każdego dnia, doświadczeni gracze nie mogą się odzywać.",
+      "first": "Ogłoś którzy gracze są pod wpływem Buddysty.",
       "flavor": "Rzucasz cierniami. Opadając w mojej ciszy, stają się kwiatami.",
       "name": "Buddysta"
     },
@@ -552,10 +554,11 @@
     "farmer": {
       "ability": "Gdy umrzesz w nocy, żywy dobry gracz staje się Rolnikiem.",
       "flavor": "Nawet najpotężniejsi władcy potrzebują jedzenia na stole. Bez nas miasto umrze z głodu.",
-      "name": "Rolnik"
+      "name": "Rolnik",
+      "other": "Jeżeli Rolnik umarł tej nocy, obudź żywego dobrego gracza. Pokaż mu kartę *JESTEŚ* i żeton Rolnika."
     },
     "fearmonger": {
-      "ability": "Każdej nocy wybierz gracza: jeżeli go nominujesz i zostanie stracony, jego drużyna umiera. Wszyscy gracze wiedzą, że wybrałeś nowego gracza.",
+      "ability": "Każdej nocy wybierz gracza: jeżeli go nominujesz i zostanie stracony, jego drużyna przegrywa. Wszyscy gracze wiedzą, że wybrałeś nowego gracza.",
       "first": "Siewca strachu wybiera gracza. :reminder: Ogłoś, że Siewca strachu wybrał gracza.",
       "flavor": "Strzeż się patrzenia zbyt długo w Otchłań, aby Otchłań nie spojrzała w głąb ciebie.",
       "name": "Siewca Strachu",
@@ -835,16 +838,18 @@
     },
     "magician": {
       "ability": "Demon myśli, że jesteś Sługusem. Sługusi myślą, że jesteś Demonem.",
+      "first": "Podczas przekazywania Informacji Sługusom wskaż Magika i Demona. Podczas przekazywania Informacji dla Demona wskaż Magika i Sługusów.",
       "flavor": "1... 2... Abra... 3... 4... Kadabra... *puf* I jak widzicie drodzy państwo, worek złota Kapitana Farnswortha zniknął! Przepadł! Bez śladu! Dziękuję i dobranoc!",
       "name": "Magik"
     },
     "marionette": {
       "ability": "Myślisz, że jesteś dobrą postacią, ale nią nie jesteś. Demon wie kim jesteś. [Sąsiadujesz z Demonem]",
+      "first": "Obudź Demona. Pokaż kartę *TEN GRACZ JEST* i żeton Marionetki. Wskaż Marionetkę.",
       "flavor": "Słowa, słowa. Tylko to nam pozostało.",
       "name": "Marionetka"
     },
     "mastermind": {
-      "ability": "Jeżeli Demon umże w wyniku egzekucji (kończąc grę), grajcie przez jeszcze 1 dzień. Jeżeli gracz zostanie stracony, jego drużyna przegrywa.",
+      "ability": "Jeżeli Demon umrze w wyniku egzekucji (kończąc grę), grajcie przez jeszcze 1 dzień. Jeżeli gracz zostanie poddany egzekucji, jego drużyna przegrywa.",
       "flavor": "Macki tego potwora zostały przybite do kościelnych wrót. Matki z dziećmi tańczą na ulicach. Wyśmienicie. Wszystko idzie zgodnie z moim planem.",
       "name": "Geniusz Zła"
     },
@@ -903,7 +908,7 @@
       "name": "Nocny Strażnik"
     },
     "noble": {
-      "ability": "Zaczynasz grę widząc o 3 graczach, 1 i tylko 1 z nich jest zły.",
+      "ability": "Zaczynasz grę wiedząc o 3 graczach, 1 i tylko 1 z nich jest zły.",
       "first": "Wskaż na trzech graczy oznaczonych *ZNANY*.",
       "flavor": "Sarkazm jest zaiste najniższą formą dowcipu. Jednak muszę Panu przypomnieć, skoro tak Pan krytykuje, że jest to nadal forma dowcipu.",
       "name": "Szlachcic"
@@ -916,6 +921,7 @@
     },
     "ogre": {
       "ability": "Swojej pierwszej nocy wybierz gracza (nie siebie): przechodzisz na jego stronę (nie wiesz, którą) nawet gdy jesteś pijany albo zatruty.",
+      "first": "Ogr wybiera gracza. :reminder:",
       "flavor": "<hark><wyszczerz></hark>",
       "name": "Ogr"
     },
@@ -923,7 +929,7 @@
       "ability": "Każdej nocy* wybierz postać: umiera. Jeżeli nie ma jej w grze, to Bajarz wybiera kto umrze.",
       "flavor": "Jak ognisko w bezksiężycową noc... widzę cię, śmiertelniku.",
       "name": "Ojo",
-      "other": "Ojo wybiera postać. :reminder: "
+      "other": "Ojo wybiera postać. :reminder:"
     },
     "oracle": {
       "ability": "Każdej nocy* dowiadujesz się, ilu martwych graczy jest złych.",
@@ -983,6 +989,7 @@
       "name": "Polityk"
     },
     "pope": {
+      "ability": "W grze występują duplikaty dobrych umiejętności. Mogą być także blefami.",
       "flavor": "...Pulcherrimae.",
       "name": "Papież"
     },
@@ -1000,7 +1007,8 @@
     },
     "princess": {
       "ability": "Pierwszego dnia, jeżeli z nominowałaś gracza i doszło do jego egzekucji, Demon nie zabija tej nocy.",
-      "name": "Księżniczka"
+      "name": "Księżniczka",
+      "other": "Jeżeli Księżniczka nominowała gracza, który został stracony tego dnia, Demon budzi się normalnie, ale nikt nie umiera w wyniku umiejętności Demona. :reminder:"
     },
     "professor": {
       "ability": "Raz na grę, w nocy*, wybierz martwego gracza: jeżeli był Mieszczaninem, zostaje wskrzeszony.",
