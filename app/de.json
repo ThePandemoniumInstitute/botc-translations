@@ -315,6 +315,8 @@
       "title": "Nichtspielercharakter hinzufügen"
     },
     "playnice": {
+      "button": "Alles klar",
+      "terms": "Nutzungsbedingungen anzeigen",
       "text1": "In einem Spiel voller Lug und Trug ist es wichtig, respektvoll und freundlich zu bleiben.",
       "text2": "Sollte sich jemand auffällig daneben benehmen, melde es uns bitte in der App oder per {0}.",
       "text2_email": "E-Mail",
@@ -466,6 +468,7 @@
       "setting_avatars": "Zeige Avatare & Kameras auf dem Stadtplatz",
       "setting_background": "Hintergrundbild",
       "setting_camera": "Kamera",
+      "setting_chat_volume": "Chat-Lautstärke",
       "setting_chroma": "Chroma-Wert",
       "setting_chroma_label": "Wähle einen Chroma-Wert",
       "setting_clouds": "Zeige Wolken in der Nacht",
@@ -1041,6 +1044,7 @@
       "download": "Skript-JSON herunterladen",
       "error_popout": "Fehler beim Öffnen des Fensters",
       "error_save": "Fehler beim Speichern der Datei",
+      "error_size": "Skript ist zu groß",
       "jinxes": "Jinxes",
       "other_nights": "Nicht in der\nersten Nacht",
       "popout": "Charakterbogen öffnen",
