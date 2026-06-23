@@ -314,6 +314,14 @@
     "npc": {
       "title": "Lisää Ei-Pelaaja-Hahmo"
     },
+    "playnice": {
+      "button": "Ymmärrän",
+      "terms": "Verkkopalvelun Käyttöehdot",
+      "text1": "Kieroilevaankin peliin on hyvä uppoutua muita kunnioittavalla, ystävällisellä asenteella.",
+      "text2": "Jos huomaat sopimatonta käytöstä, ilmoita siitä sovelluksessa tai {0}n kautta.",
+      "text2_email": "sähköposti",
+      "title": "Pelaa nätisti!"
+    },
     "reminder": {
       "custom_favorite": "Tallennettu suosikkina",
       "custom_note": "Muistiinpano",
@@ -460,6 +468,7 @@
       "setting_avatars": "Näytä Avatarit / Kamerat Toriaukiolla",
       "setting_background": "Taustakuva",
       "setting_camera": "Kamera",
+      "setting_chat_volume": "Keskustelujen Äänenvoimakkuus",
       "setting_chroma": "Kroma-avain",
       "setting_chroma_label": "Valitse Kroma-väri",
       "setting_clouds": "Näytä Yövaiheen Pilvet",
@@ -1035,6 +1044,7 @@
       "download": "Lataa Käsikirjoituksen JSON",
       "error_popout": "Ikkunan luonti epäonnistui",
       "error_save": "Virhe tiedoston tallentamisessa",
+      "error_size": "Kässärin koko on liian suuri",
       "jinxes": "Kiusaukset",
       "other_nights": "Ei\nekana yönä",
       "popout": "Hahmovälilehti Ponnahdusikkunaan",
