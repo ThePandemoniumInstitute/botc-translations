@@ -550,7 +550,8 @@
         "toggleTownSquare": "Show Town Square",
         "toggleVideoMuted": "Toggle Camera",
         "toggleVoteHistory": "Vote History",
-        "toggleWhisper": "Chat / Text Message"
+        "toggleWhisper": "Chat / Text Message",
+        "reloadApp": "Reload App"
       },
       "sounds": {
         "attentionGong": "Attention gong",
@@ -558,6 +559,7 @@
         "chatLeave": "Public chat exit",
         "countdown": "Countdown",
         "privateJoin": "Private chat enter",
+        "privateLeave": "Private chat leave",
         "privateRequest": "Private chat request",
         "timerGong": "Timer end gong",
         "voteCast": "Vote cast",
