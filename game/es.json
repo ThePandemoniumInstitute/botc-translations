@@ -6,7 +6,7 @@
     },
     "custom": {
       "description": "Para jugar con un script personalizado, necesitas seleccionar los personajes con los que quieres jugar en la herramienta oficial de guiones y después subir el \"custom-list.json\" generado, ya sea directamente aquí o proporcionar una URL a dicho archivo JSON alojado. Para cargarlo, también puedes arrastrar y soltar el archivo de guion en esta pantalla o pegar el JSON desde tu portapapeles.",
-      "name": "Guion personalizado "
+      "name": "Guion personalizado"
     },
     "homebrew": {
       "name": "Homebrew"
