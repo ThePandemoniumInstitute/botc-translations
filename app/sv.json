@@ -314,6 +314,14 @@
     "npc": {
       "title": "Lägg till en myt"
     },
+    "playnice": {
+      "button": "Jag förstår",
+      "terms": "Läs användningsvillkoren för onlinespel här",
+      "text1": "I ett spel om bluffar och lögner är det viktigt att uppföra sig med respekt och vänlighet.",
+      "text2": "Om du ser beteende som går över gränsen kan du rapportera det i appen eller via {0}.",
+      "text2_email": "e-post",
+      "title": "Var sjyst!"
+    },
     "reminder": {
       "custom_favorite": "Sparad som favorit",
       "custom_note": "Anteckning",
@@ -460,6 +468,7 @@
       "setting_avatars": "Visa avatarer/kameror på torget",
       "setting_background": "Bakgrundsbild",
       "setting_camera": "Kamera",
+      "setting_chat_volume": "Chattvolym",
       "setting_chroma": "Chroma key",
       "setting_chroma_label": "Välj chromafärg",
       "setting_clouds": "Visa moln under nattfasen",
@@ -524,6 +533,7 @@
         "modalUsers": "Användare",
         "modeGather": "Samla dina spelare",
         "raiseHand": "Räck upp handen",
+        "reloadApp": "Ladda om appen",
         "revealGrimoire": "Avslöja grimoaren",
         "setTimer": "Ställ in timer",
         "toggleAudioDeafened": "Tysta röstsamtal",
@@ -547,6 +557,7 @@
         "chatLeave": "Lämna öppet samtal",
         "countdown": "Nedräkning",
         "privateJoin": "Starta privat samtal",
+        "privateLeave": "Lämna privat samtal",
         "privateRequest": "Privat uppringning",
         "timerGong": "Tiden är ute",
         "voteCast": "Röst lagd",
@@ -1035,6 +1046,7 @@
       "download": "Ladda ner manuset som JSON",
       "error_popout": "Det gick inte att skapa fönster",
       "error_save": "Det gick inte att spara filen",
+      "error_size": "Manuset är för stort",
       "jinxes": "Krockar",
       "other_nights": "Inte den\nförsta natten",
       "popout": "Lossa rollarket",
