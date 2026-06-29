@@ -4,7 +4,7 @@
       "free": "Gratis",
       "patreon-demon": "Demonnivå",
       "patreon-minion": "Undersåttnivå",
-      "patreon-townsfolk": "Byfolknivå",
+      "patreon-townsfolk": "Bygdefolknivå",
       "special-free": "Gratis",
       "special-moderator": "Moderator",
       "special-tpi": "TPI-ansatt"
@@ -79,7 +79,7 @@
     "fabled": "Fabel|Fabel",
     "loric": "Sagn|Sagn",
     "minion": "Undersått|Undersåtter",
-    "outsider": "Outsider|Outsiders",
+    "outsider": "Utstøtt|Utstøtte",
     "phases": {
       "day": "Første dag|Dag {n}",
       "end": "Mellom spill",
@@ -127,7 +127,7 @@
     "night_info_text": "Fortelleren vekket deg i natt!",
     "night_sheet": "Liste over nattrekkefølge",
     "notifications": "Varsler",
-    "npcs": "Legg til ISKer",
+    "npcs": "Legg til statister",
     "prompt_clear_player": "Er du sikker på at du vil fjerne alle spilleres roller og påminnelsesbrikker?",
     "prompt_clear_st": "Dette vil tømme Grimoire for alle brikker for deg og alle andre. Er du sikker?",
     "prompt_clear_title": "Tøm Grimoire og påminnelsesbrikker",
@@ -212,7 +212,7 @@
         "missing_roles": "Denne økten inneholder egendefinerte roller som ikke blir funnet. Last dem inn før du blir med! Manglende roller: {0}",
         "missing_roles_title": "Feil ved lasting av egendefinerte roller",
         "move_player": "Kan ikke flytte spiller",
-        "npcs": "Feil under oppdatering av ISKer",
+        "npcs": "Feil under oppdatering av statister",
         "offline": "Serveren ser ut til å være nede",
         "remove_player": "Kan ikke fjerne spiller",
         "remove_storyteller": "Feil ved fjerning av forteller",
@@ -312,7 +312,15 @@
       "upload_custom": "Last opp JSON for egendefinert manuskript"
     },
     "npc": {
-      "title": "Legg til en Ikke-Spillbar Karakter"
+      "title": "Legg til en statist"
+    },
+    "playnice": {
+      "button": "Jeg forstår",
+      "terms": "Se brukervilkårene her",
+      "text1": "I et spill fullt av triksing og lureri, er det viktig å være respektfulle og vennlige mot hverandre.",
+      "text2": "Hvis du ser atferd som går over grensen, kan du rapportere det i appen eller via {0}.",
+      "text2_email": "e-post",
+      "title": "Vær snille!"
     },
     "reminder": {
       "custom_favorite": "Lagret som favoritt",
@@ -460,6 +468,7 @@
       "setting_avatars": "Vis avatarer/kameraer på torget",
       "setting_background": "Bakgrunnsbilde",
       "setting_camera": "Kamera",
+      "setting_chat_volume": "Stemmevolum",
       "setting_chroma": "Bluescreen",
       "setting_chroma_label": "Velg bluescreenfarge",
       "setting_clouds": "Vis skyer under nattfasen",
@@ -515,7 +524,7 @@
         "acceptChat2": "Godta samtaleforespørsel 2",
         "acceptChat3": "Godta samtaleforespørsel 3",
         "attentionGong": "Ring i gongongen",
-        "castVote": "Stem / Marker spiller",
+        "castVote": "Stem/marker spiller",
         "leaveChat": "Forlat samtale",
         "leaveSession": "Forlat økt",
         "modalRules": "Les reglene",
@@ -524,13 +533,14 @@
         "modalUsers": "Brukere",
         "modeGather": "Samle spillerne dine",
         "raiseHand": "Rekk opp hånden",
+        "reloadApp": "Last inn appen på nytt",
         "revealGrimoire": "Avslør Grimoire",
         "setTimer": "Sett nedtelling",
         "toggleAudioDeafened": "Demp stemmesamtale",
-        "toggleAudioMuted": "Demp mikrofon / Trykk-for-å-snakke",
+        "toggleAudioMuted": "Demp mikrofon/Trykk-for-å-snakke",
         "toggleEdition": "Velg utgave",
         "toggleFullscreen": "Fullskjerm",
-        "toggleNPCs": "Legg til ikkespillende rolle",
+        "toggleNPCs": "Legg til statist",
         "toggleNight": "Veksle nattfase",
         "toggleNightOrder": "Nattrekkefølge",
         "toggleNightSignal": "Vis nattinfo",
@@ -642,7 +652,7 @@
       "title_st": "Fortelleren vekket deg:",
       "warning_dead": "Denne spilleren er død.",
       "warning_droison": "Denne spilleren er full/forgiftet.",
-      "warning_vortox": "Innbyggeregenskaper gir falsk informasjon."
+      "warning_vortox": "Bygdefolkegenskaper gir falsk informasjon."
     },
     "update": {
       "bugfix": "Feilrettinger",
@@ -881,7 +891,7 @@
       "language": "Språk",
       "loading": "Laster inn spill…",
       "no_games": "Ingen offentlige spill funnet.",
-      "npcs": "Ikke-Spillbare Karakterer",
+      "npcs": "Statister",
       "page": "Side {page} av {total}",
       "phase": "Fase",
       "players": "Spillere",
@@ -1035,6 +1045,7 @@
       "download": "Last ned skript JSON",
       "error_popout": "Feil ved oppretting av vindu",
       "error_save": "Feil ved lagring av fil",
+      "error_size": "Størrelsen på manuskriptet er for stort",
       "jinxes": "Jinxer",
       "other_nights": "Ikke\n.første natt",
       "popout": "Løsne rollefane",
@@ -1089,9 +1100,9 @@
       "toggle": "Bytt nattfasefane"
     },
     "npcs": {
-      "remove_fabled": "Fjern fabel",
-      "remove_loric": "Fjern sagn",
-      "title": "ISKer"
+      "remove_fabled": "Fjern Fabel",
+      "remove_loric": "Fjern Sagn",
+      "title": "Statister"
     },
     "text": {
       "channels": {
