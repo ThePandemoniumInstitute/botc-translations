@@ -614,7 +614,7 @@
     "godfather": {
       "ability": "Zaczynasz grę wiedząc, którzy Outsiderzy są w grze. Jeżeli jeden umarł za dnia, wybierz gracza tej nocy: umiera. [-1 albo +1 Outsider]",
       "first": "Pokaż żetony postaci wszystkich Outsiderów, którzy są w grze.",
-      "flavor": "Normalnie, to tylko interes. Ale gdy obrażasz moją córkę, obrażasz mnie. A jak obrażasz mnie, obrażasz moją rodzinę. Naprawdę powinieneś bardziej uważać - była by wielka szkoda gdyby przytrafił ci się jakiś nieszczęśliwy wypadek.",
+      "flavor": "Zwyczajnie, to tylko interes. Ale gdy obrażasz moją córkę, obrażasz mnie. A jak obrażasz mnie, obrażasz moją rodzinę. Naprawdę powinieneś bardziej uważać - byłoby naprawdę szkoda, gdyby wydarzył ci się jakiś nieszczęśliwy wypadek.",
       "name": "Ojciec Chrzestny",
       "other": "Jeżeli za dnia umarł Outsider, Ojciec chrzestny wybiera gracza. :reminder:"
     },
