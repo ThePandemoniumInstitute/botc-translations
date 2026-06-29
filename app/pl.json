@@ -310,6 +310,9 @@
     "npc": {
       "title": "Dodaj postać niezależną"
     },
+    "playnice": {
+      "text2_email": "email"
+    },
     "reminder": {
       "custom_favorite": "Zapisane jako ulubione",
       "custom_note": "Własna notatka",
