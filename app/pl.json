@@ -315,6 +315,8 @@
       "title": "Dodaj postać niezależną"
     },
     "playnice": {
+      "button": "Rozumiem",
+      "terms": "Znajdź Warunki Użytkowania online tutaj",
       "text2": "Jeżeli jesteś świadkiem przekroczenia granic zgłoś to przez aplikację lub poprzez {0}.",
       "text2_email": "email"
     },
@@ -519,6 +521,7 @@
         "modalUsers": "Użytkownicy",
         "modeGather": "Zwołaj graczy",
         "raiseHand": "Podnieś rękę",
+        "reloadApp": "Przeładuj aplikację",
         "revealGrimoire": "Ujawnij Grymuar",
         "setTimer": "Ustaw licznik",
         "toggleAudioDeafened": "Wycisz czat głosowy",
@@ -1033,6 +1036,7 @@
       "download": "Pobierz plik JSON tego Skryptu",
       "error_popout": "Błąd podczas tworzenia okna",
       "error_save": "Błąd podczas zapisywania pliku",
+      "error_size": "Rozmiar skryptu jest za duży",
       "jinxes": "Wyjątki",
       "other_nights": "Nie pierwszej\n\t nocy",
       "popout": "Wysuń Arkusz Postaci",
