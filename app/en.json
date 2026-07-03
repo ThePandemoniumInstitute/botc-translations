@@ -927,9 +927,12 @@
         "updating_account": "Updating your account...",
         "complete": "Login complete, you can close this window now!",
         "error": "An error happened:",
-        "error_general": "Something unexpected went wrong. Please try again.",
-        "error_grant_expired": "The authentication link has expired, please close this window and try again.",
-        "error_nonce_missing": "Unable to verify authentication request. Please close this window and try again.",
+        "error_code_missing": "The authentication has been cancelled.",
+        "error_already_linked": "This app account is already linked to a different social login.",
+        "error_general": "Something unexpected went wrong.",
+        "error_grant_expired": "The authentication link has expired.",
+        "error_nonce_missing": "Unable to verify authentication request.",
+        "try_again": "Please close this window and try again.",
         "status": "Account is linked to {0}"
       }
     },
