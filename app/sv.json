@@ -922,11 +922,14 @@
       "social": {
         "complete": "Du har loggats in och kan stänga det här fönstret!",
         "error": "Ett fel inträffade:",
-        "error_general": "Ett okänt fel inträffade. Försök igen.",
-        "error_grant_expired": "Verifieringslänken har gått ut. Stäng det här fönstret och försök igen.",
-        "error_nonce_missing": "Det gick inte att verifiera. Stäng det här fönstret och försök igen.",
+        "error_already_linked": "Det här appkontot är redan kopplat till ett annat socialt medium.",
+        "error_code_missing": "Verifieringen har avbrutits.",
+        "error_general": "Ett okänt fel inträffade.",
+        "error_grant_expired": "Verifieringslänken har gått ut.",
+        "error_nonce_missing": "Det gick inte att verifiera.",
         "logging_in": "Du loggas in…",
         "status": "Kontot är kopplat till {0}",
+        "try_again": "Stäng det här fönstret och försök igen.",
         "updating_account": "Ditt konto uppdateras…"
       },
       "subscribe": "Prenumerera på våra mejlutskick",
