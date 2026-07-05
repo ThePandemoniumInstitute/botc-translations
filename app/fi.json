@@ -922,11 +922,14 @@
       "social": {
         "complete": "Kirjautuminen suoritettu, voit sulkea tämän ikkunan!",
         "error": "Tapahtui virhe:",
-        "error_general": "Jotain odottamatonta tapahtui. Yritä uudelleen.",
-        "error_grant_expired": "Todennuslinkki on vanhentunut, sulje tämä ikkuna ja yritä uudelleen.",
-        "error_nonce_missing": "Todennuspyyntöä ei voitu vahvistaa. Sulje tämä ikkuna ja yritä uudelleen.",
+        "error_already_linked": "Tämä sovellustili on jo linkitetty toiseen somekirjautumiseen.",
+        "error_code_missing": "Tunnistautuminen peruttu.",
+        "error_general": "Jotain odottamatonta tapahtui.",
+        "error_grant_expired": "Tunnistautumislinkki on vanhentunut.",
+        "error_nonce_missing": "Tunnistautumispyyntöä ei voitu vahvistaa.",
         "logging_in": "Kirjaudutaan...",
         "status": "Tili on linkitetty {0} -palveluun",
+        "try_again": "Sulje tämä ikkuna ja yritä uudelleen.",
         "updating_account": "Tiliäsi päivitetään..."
       },
       "subscribe": "Tilaa Postituslista",
