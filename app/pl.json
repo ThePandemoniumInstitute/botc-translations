@@ -317,6 +317,7 @@
     "playnice": {
       "button": "Rozumiem",
       "terms": "Znajdź Warunki użytkowania online tutaj",
+      "text1": "W grach z podstępem, ważnym jest aby zachowywać się z szacunkiem i przyjacielsko.",
       "text2": "Jeżeli jesteś świadkiem przekroczenia granic zgłoś to przez aplikację lub poprzez {0}.",
       "text2_email": "email"
     },
@@ -333,6 +334,7 @@
       "attachment": "Zrzut z ekranu / Załączniki (max 3)",
       "button_attachment": "Dodaj załącznik",
       "description": "Opis",
+      "description2": "Opisz proszę szczegóły problemu którego doświadczasz albo swoją potrzebę. Nazwa twojej sesji, nazwa użytkownika, detale twojego konta i inne metadane zostaną automatycznie dołączone do tego raportu.",
       "description_placeholder": "Opisz swój problem ze szczegółami",
       "error": "Błąd podczas wysyłania zgłoszenia",
       "error_attachment_limit": "Można dodać maksymalnie 3 załączniki.",
