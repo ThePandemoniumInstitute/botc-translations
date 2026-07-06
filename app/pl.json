@@ -311,6 +311,7 @@
       "title": "Dodaj postać niezależną"
     },
     "playnice": {
+      "text2": "Jeżeli jesteś świadkiem przekroczenia granic zgłoś to przez aplikacje lub poprzez {0}.",
       "text2_email": "email"
     },
     "reminder": {
@@ -841,6 +842,15 @@
       "password_reset": "Instrukcje, jak zresetować hasło, zostały wysłane na podany adres e-mail.",
       "recover_password": "Odzyskaj hasło",
       "register": "Zarejestruj się",
+      "social": {
+        "error_already_linked": "To konto jest już powiązane z innym loginem.",
+        "error_code_missing": "Uwierzytelnianie przerwane.",
+        "error_general": "Stało się coś nieoczekiwanego.",
+        "error_grant_expired": "Link z uwierzytelnieniem wygasł.",
+        "error_nonce_missing": "Nie można było potwierdzić uwierzytelniania.",
+        "status": "Konto jest połączone z {0}",
+        "try_again": "Proszę zamknąć to okno i spróbować ponownie."
+      },
       "subscribe": "Subskrybuj Listę Mailingową",
       "title": "Witamy w Blood on the Clocktower Online (w przygotowaniu)!",
       "username": "Nazwa użytkownika"
