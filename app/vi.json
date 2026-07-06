@@ -10,10 +10,12 @@
       "special-tpi": "Nhân Viên TPI"
     },
     "botc_online": "BOTC Trực Tuyến",
+    "button_allow": "Cho phép",
     "button_cancel": "Hủy bỏ",
     "button_close": "Đóng",
     "button_confirm": "Xác nhận",
     "button_continue": "Tiếp tục",
+    "button_deny": "Từ chối",
     "button_logout": "Đăng xuất",
     "button_search": "Tìm kiếm",
     "button_send": "Gửi",
