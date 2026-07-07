@@ -914,6 +914,7 @@
       "error_password": "Passwords don't match",
       "login": "Login",
       "login_with": "Login with {0}",
+      "social_login": "Or use social login:",
       "password": "Password",
       "password_confirm": "Password Confirmation",
       "password_reset": "Instructions to reset your password have been sent to the associated email address.",
