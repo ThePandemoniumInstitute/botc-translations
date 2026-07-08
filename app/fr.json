@@ -196,7 +196,7 @@
         "connection": "Une erreur de connexion s'est produite",
         "create_generic": "Le serveur n'a pas pu créer votre session.",
         "create_rate_limit": "Vous devez attendre quelques minutes avant de pouvoir créer une autre session.",
-        "create_session_exists": "Une session à ce nom existe déjà.",
+        "create_session_exists": "Une session ayant ce nom existe déjà.",
         "edition_change": "Erreur lors du changement d'édition",
         "end": "Erreur lors de la fin de la partie",
         "eyes_close": "Impossible de fermer les yeux",
@@ -212,6 +212,7 @@
         "missing_roles": "Cette session contient des rôles personnalisés qui ne peuvent pas être trouvés. Veuillez les charger avant de rejoindre ! Rôles manquants : {0}",
         "missing_roles_title": "Erreur en chargeant des rôles personnalisés",
         "move_player": "Impossible de déplacer le joueur",
+        "npcs": "Erreur en mettant à jour les PNJs",
         "offline": "Ce serveur semble être hors ligne",
         "remove_player": "Impossible de retirer le joueur",
         "remove_storyteller": "Erreur lors de la suppression de la Conteuse",
@@ -323,7 +324,7 @@
     },
     "reminder": {
       "custom_favorite": "Enregistré dans les favoris",
-      "custom_note": "Note personnalisée",
+      "custom_note": "Note \npersonnalisée",
       "custom_text": "Saisissez une note de rappel personnalisée à ajouter à {0}",
       "custom_title": "Ajouter un Aide-Mémoire Personnalisé",
       "tab1": "Aides-Mémoire Pertinents",
@@ -373,10 +374,11 @@
       "error_traveller": "Aucun voyageur correspondant à {0} n’a été trouvé.",
       "tab_character": "Rôles disponibles",
       "tab_traveller": "Autres Voyageurs",
-      "title": "Sélectionnez un {target} ({alignment})",
+      "title": "Sélectionnez un {target} {type} {alignment}",
       "title_alignment_e": "Maléfique",
       "title_alignment_g": "Bon",
       "title_alignment_r": "normal",
+      "title_target": "pour {0}",
       "title_type_bluff": "bluff",
       "title_type_character": "rôle"
     },
@@ -641,8 +643,10 @@
     "user": {
       "button_add_st": "Ajouter une Conteuse",
       "button_block_user": "Bloquer l'Utilisateur",
+      "button_cancel_st": "Annuler l'Invitation à Conter",
       "button_kick_user": "Expulser l'Utilisateur",
       "button_mod_user": "Modérer l’utilisateur",
+      "button_remove_st": "Retirer la Conteuse",
       "button_unblock_user": "Débloquer l'Utilisateur",
       "error": "Une erreur est survenue lors du chargement des détails de l’utilisateur.",
       "grimoire_access_grant": "Accorder l’Accès au Grimoire",
@@ -795,13 +799,14 @@
       "button_restart": "Recommencer",
       "button_resume": "Reprendre",
       "button_select_player": "Sélectionner un Joueur",
+      "button_set_highscore": "Modifier le Nombre de Vote",
       "button_start": "Démarrer",
-      "choose_defense_attorney": "Choisit un avocat !",
+      "choose_defense_attorney": "Choisissez un avocat !",
       "countdown_go": "Go",
       "defense": "Défense",
       "defense_attorney": "Avocat de la défense",
       "highscore_placeholder": "le plus grand nombre de votes",
-      "highscore_text": "Entrez un nouveau nombre pour le record de votes d’aujourd’hui\n ou laissez vide pour conserver la majorité habituelle des joueurs en vie.",
+      "highscore_text": "Entrez un nouveau nombre pour le record de votes d’aujourd’hui\nou laissez vide pour conserver la majorité habituelle des joueurs en vie.",
       "highscore_title": "Modifier le record de votes",
       "majority": "La majorité est de {0} vote|La majorité est de {0} votes",
       "no_majority": "Aucune majorité requise",
@@ -835,6 +840,7 @@
       "description_online": "en ligne"
     },
     "lobby": {
+      "bootlegger_title": "Votre Attention !",
       "bootlegger_warning": "Cette session utilise le Contrebandier, ce qui veut dire qu'elle contiendra des règles ou des rôles non-officiels, et est plus adaptée aux joueurs expérimentés.\nSi vous êtes nouveau à Blood on The Clocktower, nous vous recommandons de d'abord vous habituer avec les règles et les rôles standards, en jouant à l'un des scripts officiels de base. Trouble Brewing est parfait pour avoir la meilleure première expérience !\nQuoi qu'il en soit, bienvenue — nous sommes ravis que vous soyez là !\nÊtes-vous sûr de vouloir rejoindre cette session ?",
       "button_create_game": "Créer une Partie",
       "button_help": "Aide",
@@ -872,7 +878,7 @@
       "welcome": "Bienvenue sur {0} !"
     },
     "login": {
-      "accept_policies": "Accepter nos {0}, {1}, {2} & {3}.",
+      "accept_policies": "Acceptez nos {0}, {1}, {2} & {3}.",
       "description": "Veuillez vous connecter ou créer un compte pour continuer :",
       "email": "Adresse E-Mail",
       "error_captcha": "Veuillez compléter le captcha",
@@ -911,11 +917,11 @@
       "alignment": "Changer d'Alignement",
       "character": "Changer de Rôle",
       "chat": "Demander un Chat Privé",
-      "empty": "Siège Vide",
+      "empty": "Vider le siège",
       "empty_text": "Voulez-vous vraiment expulser ce joueur de son siège alors que la partie est en cours ?",
-      "empty_title": "Siège vide de {0}",
+      "empty_title": "Vider le siège de {0}",
       "follow": "Suivre le Joueur",
-      "nominate": "Nommer un joueur",
+      "nominate": "Auto-Nommer",
       "unfollow": "Ne Plus Suivre le Joueur",
       "wake": "Réveiller",
       "whisper": "Envoyer Message Privé"
@@ -1004,7 +1010,7 @@
       "jinxes": "Jinxes",
       "other_nights": "Pas la\n première nuit",
       "popout": "Détacher l'Onglet Rôle",
-      "popout_window": "Ouvrir l'onglet Personnage dans une nouvelle fenêtre"
+      "popout_window": "Ouvrir l'onglet Rôles dans une nouvelle fenêtre"
     },
     "characters": {
       "title": "Rôles"
@@ -1055,7 +1061,8 @@
       "toggle": "Basculer sur la fiche de nuit"
     },
     "npcs": {
-      "remove_fabled": "Retirer Légendaire",
+      "remove_fabled": "Retirer le Légendaire",
+      "remove_loric": "Enlever le Folklorique",
       "title": "PNJs"
     },
     "text": {
@@ -1106,6 +1113,7 @@
     "error_avatar_text": "L'avatar que vous avez choisi fait {0}Mo, mais la taille maximal est {1}Mo.",
     "error_avatar_title": "Le fichier est trop gros",
     "gain": "Gain",
+    "group_subscription": "Abonnement de Groupe",
     "id": "ID de l'Utilisateur",
     "level": "Niveau du Compte",
     "mic_volume": "Volume du Micro",
@@ -1115,7 +1123,7 @@
     "statistics": "Statistiques",
     "stats": {
       "edition": "Éditions les\n plus jouées",
-      "homebrew": "Un Personnage Maison",
+      "homebrew": "Un Personnage Homebrew",
       "loading": "Chargement des statistiques...",
       "none": "Aucun",
       "player": "Parties\n Jouées",
