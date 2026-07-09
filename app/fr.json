@@ -389,6 +389,7 @@
       "warning": "Attention : certains rôles sélectionnés modifient la configuration de la partie ! Vous devrez en tenir compte vous-même."
     },
     "rules": {
+      "intro_part21": "Si vous mourez, vous restez une partie importante de la partie. Vous pouvez toujours parler, et les caméras de tous les joueurs restent cachées pendant la phase de nuit. Plus important encore, vous gagnez ou perdez toujours avec votre équipe. En réalité, la partie est souvent décidée par les votes et les opinions des joueurs morts. Lorsque vous mourez, vous perdez la capacité de votre rôle, vous ne pouvez plus nommer, et vous n’avez qu’un seul vote pour le reste de la partie, alors utilisez-le judicieusement.",
       "tab1": "Avant de commencer la partie",
       "title": "Règles"
     },
