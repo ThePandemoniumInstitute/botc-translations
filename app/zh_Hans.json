@@ -45,8 +45,8 @@
         "value_2": "无权查看"
       },
       "streaming": {
-        "label": "对局直播",
-        "title": "当前游戏对局是否将被直播",
+        "label": "对局正在被直播/录制中",
+        "title": "当前游戏对局是否将被直播 / 录制",
         "value_0": "否",
         "value_1": "是"
       },
@@ -84,6 +84,7 @@
       "day": "首个白天|第 {n} 天",
       "end": "等待开局",
       "first_night": "首个夜晚",
+      "grim_reveal": "揭示魔典",
       "night": "首个夜晚|第 {n} 夜",
       "other_nights": "其他夜晚",
       "start": "正在准备首个夜晚"
@@ -125,6 +126,7 @@
     "night_info": "夜晚信息",
     "night_info_text": "说书人今晚唤醒过了你！",
     "night_sheet": "夜晚顺序表",
+    "notifications": "通知",
     "npcs": "添加 NPC",
     "prompt_clear_player": "您确定要移除所有的玩家角色和提示标记吗？",
     "prompt_clear_st": "本操作将清空本场游戏中您与其他玩家所使用的魔典以及所有的提示标记，您确定要清空吗？",
@@ -135,6 +137,7 @@
     "prompt_vacate_title": "离开座位",
     "push_to_talk": "按下 [{0}] 以说话",
     "raise_hand": "举手",
+    "report_issue": "报告问题",
     "request_private": "请求私聊",
     "reveal_grim": "揭晓魔典",
     "rules": "阅读游戏规则",
@@ -189,6 +192,7 @@
         "chat_title": "聊天服务连接错误",
         "claiming": "请求坐席发生错误",
         "clear_grim": "无法清空魔典",
+        "clear_history": "无法清空游戏历史记录",
         "connection": "网络连接错误",
         "create_generic": "服务器无法为您创建会话。",
         "create_rate_limit": "您需要等待一段时间才能再次创建游戏房间。",
@@ -251,6 +255,8 @@
       "prompt": {
         "chat_text": "与聊天服务器{0}的连接不稳定，是否要切换到 {1}？",
         "chat_title": "切换聊天服务器",
+        "join_block_text": "本对局中存在你已屏蔽的用户：\n·{0}\n·你确定要加入吗？",
+        "join_block_title": "发现被你屏蔽的用户",
         "join_placeholder": "游戏会话ID",
         "join_text": "请输入您想加入的游戏会话ID或者名称",
         "join_title": "加入一场游戏",
@@ -308,6 +314,14 @@
     "npc": {
       "title": "添加一个 非玩家角色"
     },
+    "playnice": {
+      "button": "我已知晓",
+      "terms": "点击查看在线使用条款",
+      "text1": "这是一款充满诡计与欺骗的游戏，但请保持尊重与友善。",
+      "text2": "如果您发现越界行为，请在app内举报，或联系 {0}。",
+      "text2_email": "邮箱",
+      "title": "文明游戏提醒!"
+    },
     "reminder": {
       "custom_favorite": "已保存为 我的最爱",
       "custom_note": "自定义笔记",
@@ -316,6 +330,44 @@
       "tab1": "相关提示",
       "tab2": "其他提示",
       "title": "添加提示标记到 {0}"
+    },
+    "report": {
+      "attachment": "截图 / 附件（最多3个）",
+      "button_attachment": "添加附件",
+      "description": "详细描述",
+      "description2": "请描述你遇到的问题或具体诉求。系统会自动附上当前对局的名称、你的账号信息及其他的技术元数据。",
+      "description_placeholder": "请在此详细描述你遇到的问题",
+      "error": "举报提交失败",
+      "error_attachment_limit": "最多只能添加3个附件。",
+      "error_attachment_text": "你选择的附件大小为 {0}MB，但最大允许大小为 {1}MB。",
+      "error_attachment_title": "附件上传失败",
+      "error_timeout": "请至少等待60秒后再提交下一次举报。每小时最多可提交5次举报。",
+      "reason": {
+        "cheating": "作弊或消极比赛",
+        "conduct": "玩家行为",
+        "fake": "开小号",
+        "feature": "功能建议",
+        "harassment": "骚扰或霸凌",
+        "hatespeech": "仇恨言论或歧视",
+        "other": "其他（请在下方说明）",
+        "safety": "安全与隐私",
+        "spamming": "散布垃圾信息",
+        "technical": "技术问题"
+      },
+      "reason_general": "我们能为你提供什么帮助？",
+      "reason_placeholder": "请选择举报类型",
+      "reason_user": "你举报该用户的原因是？",
+      "screenshot": "截图（{0}kb）",
+      "screenshot_approve": "是否使用此截图？",
+      "screenshot_error": "截图失败",
+      "screenshot_take": "截取屏幕截图",
+      "subject": "主题",
+      "subject_placeholder": "简要描述你的举报内容",
+      "submitting": "提交中…",
+      "success_text": "感谢你提交举报。我们的支持团队会尽快通过你账号绑定的邮箱与你联系。你的举报编号为 #{0}，可用于后续查询。",
+      "success_title": "举报已发送！",
+      "title_general": "举报",
+      "title_user": "举报用户"
     },
     "role": {
       "error_character": "没有找到符合 {0} 的角色。",
@@ -341,6 +393,29 @@
       "warning": "注意：所选的角色需要进行设置调整！您需要自行调整相关角色。"
     },
     "rules": {
+      "intro_part01": "很久很久以前",
+      "intro_part02": "一个叫做鸦木布拉夫的沉睡小镇里，雷雨交加。午夜时分，一阵骇人的惨叫声回荡在那藤蔓覆盖且又错综复杂的乡间小径上。受到惊吓的镇民们赶往城镇广场查看，他们发现当地的一位说书人被谋杀了，他的尸体被钉在钟楼的时针上，鲜血不断地滴落在下方的鹅卵石上。众人的好奇心开始逐渐转变为恐惧，显而易见，有恶魔正在逍遥法外，它在夜晚杀戮，而在白天化为人形隐匿于镇民之中。",
+      "intro_part03": "你们将会收到一个红色或蓝色的角色标记。如果你的标记是蓝色的，你属于善良的一方。如果是红色的，你会是邪恶的一方。如果你是善良的，你的目标是找到并处决所有恶魔。如果所有恶魔都死亡，善良阵营获胜。如果你是邪恶的，你的目标是摧毁这个城镇。如果只剩两个玩家还活着，邪恶阵营获胜。",
+      "intro_part04": "游戏分为两个阶段：白天阶段和夜晚阶段。在白天，你们会互相交谈。你们每个人都有一个秘密身份，也就是一个剧本列表中的角色。通常善良的玩家会分享他们所知道的一切，并尝试去弄清楚每个人的具体身份。大多数善良的玩家都会说实话，但有的善良玩家也会有伪装的动机。如果你是邪恶的，那你肯定需要伪装！最好挑个善良角色来伪装，并尽可能多地散布虚假信息。",
+      "intro_part05": "在夜晚时，玩家的摄像头会被隐藏，说书人会唤醒部分玩家，他们就可以使用自己的角色能力或是获取某种类型的信息。当说书人唤醒你时，屏幕中央会出现一个弹窗提示，请按照提示与说书人在弹窗中进行沟通互动。在夜晚的后续时间中，如需再次打开与说书人互动的弹窗，可点击屏幕右上角的\"夜晚信息\"。",
+      "intro_part06": "如果说书人需要与你私聊，也可能会对你发起语音请求，请求会出现在屏幕左侧，点击即可加入语音聊天。在语音聊天中，你可以与说书人私下沟通。你可以按下退格键（Backspace）或删除键（Delete）来返回城镇广场。",
+      "intro_part07": "你们中的大多数人都会死。这是一件好事！在鸦木布拉夫小镇，死亡并不是终点。某些玩家甚至可能想要赶紧死，因为他们死掉时就能获得信息。如果你死了，你仍然参与游戏，你可以继续说话，你会与你的阵营一同获胜或落败。",
+      "intro_part08": "在这个游戏中会有很多信息。但是其中一些可能是错误的。如果你醉酒或中毒，你会失去角色能力，但说书人会假装你仍有能力。说书人会给你假信息——你得到的任何信息都可能错误，但你不会知道你有没有醉酒或中毒。例如，如果你是酒鬼，你会从袋子里抽出一个镇民角色标记，只有说书人知道你实际上是酒鬼。或者，如果投毒者使你中毒了，你仍然可以在晚上醒来使用你的能力，但它不会起作用。",
+      "intro_part09": "熟悉全部规则的信息量太大了，所以最开始游戏，你只需要简单地记住四件事：",
+      "intro_part10": "你可以在任何时候说任何你想说的话。",
+      "intro_part11": "这是一个聊天为主的游戏。你可以自己决定是和所有人一起公聊或者去找人私聊。",
+      "intro_part12": "禁止偷看。",
+      "intro_part13": "请对你的角色标记保密，也不准偷看魔典，魔典里面有所有游戏中的角色信息。如果你看到不应该看到的东西，会破坏游戏的乐趣。",
+      "intro_part14": "有任何疑问都可以问说书人。",
+      "intro_part15": "如果你有不懂的，不明白的地方，包括你的角色或者你想要伪装的角色能力，在晚上发生了你无法理解的事，或者你想了解玩法...无论是什么问题都可以问说书人。说书人是中立的，他的职责就是帮助你理解规则，然后玩得开心。你有问题就可以直接问说书人，如果你不想让别人知道你问了什么，也可以找说书人私聊。",
+      "intro_part16": "玩得开心。",
+      "intro_part17": "这个游戏里会有欺骗和诡计，所以请互相尊重和体谅。要以优雅的方式杀戮，也要以有尊严的方式死去。",
+      "intro_part18": "说书人将会让大家开始提名。",
+      "intro_part19": "想要提名一名玩家，只需说出他名字。例如：“我提名小帅。”当一名玩家被提名时，每个人都要投票表决是否要处决他。例如：我会像这样指他（指向小帅），并说“对小帅的提名计票，从现在开始。”说书人会按顺时针方向移动他的手（亲自演示），当说书人指到你的时候，如果你举手了，那你就是投了赞成票，如果你没举手，那你就是放弃了投票。",
+      "intro_part20": "每个白天，你可以给不同的玩家投票，投票次数不限，当天得票最多的人会被处决。而且处决的赞成票数需要大于等于存活玩家人数的一半的，才算投票成功，否则被提名的人就不会被处决。如果多名玩家的票数打平，这些玩家都不会被处决。",
+      "intro_part21": "即使你死了也不会出局。你仍然可以说话，你在夜晚仍然要闭上眼睛。最重要的是，你仍然可以帮助自己的阵营获胜。事实上，胜负经常是由死去玩家的投票和意见决定的。如果你死了，你会失去你的角色能力，你不再能发起提名，并且你在游戏的剩下时间里只剩最后一票，所以要谨慎，想清楚再投。",
+      "tab1": "游戏开始前",
+      "tab2": "首次提名前",
       "title": "规则"
     },
     "settings": {
@@ -348,6 +423,7 @@
       "background_text": "请输入自定义背景图片的链接，或者留空以清除自定义背景图片。",
       "background_title": "自定义背景图片",
       "button_always": "总是",
+      "button_login": "第三方登录",
       "button_setup": "开始设置",
       "button_verify": "验证账号",
       "css_apply": "应用自定义CSS规则？",
@@ -357,6 +433,8 @@
       "css_title": "输入自定义CSS",
       "image_text": "您确定要允许显示自定义图片吗？恶意脚本文件作者可能通过此方式追踪您的IP地址。The Pandemonium Institute 无法在 App 中控制其他用户提供的图片内容。",
       "image_title": "允许使用自定义图片",
+      "link_to": "登录 {0}",
+      "linked_to": "你已登录 {0}",
       "nomination": {
         "bigwig": {
           "text": "每个被提名者要选择一名玩家：在投票前，只有他可以发言，并且他要“疯狂”地证明被提名者是善良的，否则他可能死亡。",
@@ -376,6 +454,8 @@
         }
       },
       "option_disabled": "禁用",
+      "patreon_link_text": "现在可以关闭此窗口了。",
+      "patreon_link_title": "Patreon 账号已绑定",
       "patreon_perks": "付费 {0} 解锁头像上传功能和专属铭牌！",
       "patreon_perks2": "Patreon 订阅",
       "patreon_update": "更新 Patreon 状态",
@@ -388,6 +468,7 @@
       "setting_avatars": "在城镇广场上显示头像/摄像头",
       "setting_background": "背景图片",
       "setting_camera": "摄像头",
+      "setting_chat_volume": "聊天音量",
       "setting_chroma": "色度键抠像",
       "setting_chroma_label": "选择一个色度键颜色",
       "setting_clouds": "显示夜晚阶段的云彩效果",
@@ -452,6 +533,7 @@
         "modalUsers": "用户",
         "modeGather": "添加玩家",
         "raiseHand": "举手",
+        "reloadApp": "重新启动App",
         "revealGrimoire": "揭晓魔典",
         "setTimer": "设定计时器",
         "toggleAudioDeafened": "禁用语音聊天",
@@ -475,6 +557,7 @@
         "chatLeave": "离开公聊",
         "countdown": "倒计时",
         "privateJoin": "进入私聊",
+        "privateLeave": "离开私聊",
         "privateRequest": "请求私聊",
         "timerGong": "计时结束通知",
         "voteCast": "投票结果",
@@ -489,7 +572,9 @@
       "tab_user": "用户",
       "title": "App设置",
       "title_avatar": "选择一个头像",
-      "title_sound": "音效音量"
+      "title_sound": "音效音量",
+      "unlink_text": "确定要解除账号与 {0} 的登录绑定吗？之后你仍可以随时重新绑定。",
+      "unlink_title": "解除登录绑定"
     },
     "setup": {
       "audio_devices": "音频设备",
@@ -579,10 +664,13 @@
     },
     "user": {
       "button_add_st": "添加说书人",
+      "button_block_user": "屏蔽用户",
       "button_cancel_st": "取消说书人请求",
       "button_kick_user": "踢出用户",
       "button_mod_user": "管理员用户",
       "button_remove_st": "移除说书人",
+      "button_report_user": "举报用户",
+      "button_unblock_user": "取消屏蔽",
       "error": "加载用户详情时发生了错误。",
       "grimoire_access_grant": "授权魔典访问",
       "grimoire_access_revoke": "收回魔典访问权限",
@@ -774,6 +862,12 @@
       "description_mins": "1分钟 | {n} 分钟",
       "description_online": "在线"
     },
+    "external": {
+      "button": "继续前往外部页面",
+      "description": "你即将访问以下外部页面：",
+      "disclaimer": "The Pandemonium Institute 对该网站的内容不承担任何责任。",
+      "title": "注意：你即将离开 BOTC 应用"
+    },
     "lobby": {
       "bootlegger_title": "注意！",
       "bootlegger_warning": "本局游戏加入了奇遇角色 - 私货商人，意味着它包含了非官方的自定义规则或角色，更适合有经验的玩家。\n如果你是《染·钟楼谜团》的新手，我们建议你先熟悉标准规则和角色，可以从官方基础剧本开始。《暗流涌动》非常适合你作为新手的游戏体验！\n不过，无论如何我们欢迎你的到来！\n你确定要加入本局游戏吗？",
@@ -819,11 +913,26 @@
       "error_captcha": "请完成验证码",
       "error_password": "密码不正确",
       "login": "登录",
+      "login_with": "使用 {0} 登录",
       "password": "密码",
       "password_confirm": "确认密码",
       "password_reset": "重置密码的操作指引已经发送至您的关联电子邮箱。",
       "recover_password": "恢复密码",
       "register": "注册",
+      "social": {
+        "complete": "登录完成，现在可以关闭此窗口了！",
+        "error": "发生错误：",
+        "error_already_linked": "该App账号已绑定其他第三方登录方式。",
+        "error_code_missing": "身份验证已取消。",
+        "error_general": "发生了意外错误。",
+        "error_grant_expired": "身份验证链接已过期。",
+        "error_nonce_missing": "无法验证身份验证请求。",
+        "logging_in": "正在登录…",
+        "status": "账号已绑定 {0}",
+        "try_again": "请关闭此窗口并重试。",
+        "updating_account": "正在更新账号信息…"
+      },
+      "social_login": "或使用第三方登录：",
       "subscribe": "订阅到我的邮箱",
       "title": "欢迎来到 染·钟楼谜团在线App - 当前还在建设中！",
       "username": "用户名"
@@ -861,6 +970,7 @@
       "whisper": "发送文本信息"
     },
     "name": {
+      "blocked": "你已屏蔽该用户。",
       "claim": "坐在这里",
       "connecting": "该玩家正在连接至语音聊天。",
       "follow": "您正在跟随这名玩家。",
@@ -940,6 +1050,7 @@
       "download": "下载剧本JSON",
       "error_popout": "创建窗口时发生了错误",
       "error_save": "保存文件时发生了错误",
+      "error_size": "剧本文件过大",
       "jinxes": "相克规则",
       "other_nights": "非首夜",
       "popout": "弹出 角色 标签页",
@@ -1012,6 +1123,7 @@
       "prompt_spectator": "旁观者聊天",
       "prompt_system": "系统信息",
       "prompt_user": "向 {0}",
+      "sender_blocked": "发送者已被屏蔽",
       "system": {
         "death": "{0} 已经死亡。",
         "end_evil": "游戏结束，邪恶阵营获胜！",
@@ -1039,6 +1151,8 @@
   },
   "user": {
     "avatar_enabled": "头像可见",
+    "blocked": "已屏蔽",
+    "blocked_on_date_as_name": "于 {0}，曾用名： {1}",
     "camera_enabled": "摄像头可见",
     "error_avatar_text": "您选择的头像文件大小为 {0} MB，文件最大不应超过 {1}MB。",
     "error_avatar_title": "文件过大",
@@ -1052,7 +1166,7 @@
     "registration": "注册",
     "statistics": "统计",
     "stats": {
-      "edition": "玩过最多的\n剧本",
+      "edition": "玩过最多的 \n剧本",
       "homebrew": "自制角色",
       "loading": "统计加载中...",
       "none": "无",
@@ -1075,6 +1189,9 @@
     "players_alive": "{0}/{1} 名玩家存活",
     "reload": "请刷新或清空浏览器缓存以更新到软件的最新版本。",
     "since": "自 {0} 起",
+    "translation_content": "使用游戏内容翻译",
+    "translation_disclaimer1": "你当前使用的是经过翻译的 App 版本。",
+    "translation_disclaimer2": "本翻译由以下志愿者创建并审校完成，这些志愿者与 The Pandemonium Institute 无任何关联：",
     "translation_game": "The Pandemonium Institute 无法保证此版本的游戏翻译内容与官方英文游戏规则完全一致。",
     "travellers_alive": "{0} / {1} 名旅行者存活",
     "update": "请更新版本！",
