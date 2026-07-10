@@ -219,7 +219,7 @@
     "noability": "Brak umiejętności",
     "nominateevil": "Nominuj złego",
     "nominategood": "Nominuj dobrego",
-    "nomoreevil": "Brak Złych",
+    "nomoreevil": "Żadnych więcej złych",
     "notme": "Nie ja",
     "once": "Zmieniony",
     "outsider": "Outsider",
@@ -244,7 +244,7 @@
   "roles": {
     "acrobat": {
       "ability": "Każdej nocy* wybierz gracza: jeżeli jest lub stanie się pijany lub zatruty tej nocy, umierasz.",
-      "flavor": "Panie, panowie, i wy, drogie dzieci - witamy na najlepszym przedstawieniu na świecie.",
+      "flavor": "Panie, panowie, i wy, drogie dzieci - patrzcie uważnie, gdyż za chwilę zaśmieję się w twarz grawitacji, tańcząc w powietrzu! Co to za śmiałość, co za gibkość! A to wszystko dla was, drodzy widzowie!",
       "name": "Akrobata",
       "other": "Akrobata wybiera gracza. :reminder:"
     },
@@ -255,10 +255,10 @@
       "name": "Alchemik"
     },
     "alhadikhia": {
-      "ability": "Każdej nocy* możesz wybrać 3 graczy (wszyscy gracze dowiadują się kogo): każdy w tajemnicy decyduje czy żyje czy umiera, ale gdy wszyscy żyją, to wszyscy umierają.",
+      "ability": "Każdej nocy* możesz wybrać 3 graczy (wszyscy gracze dowiadują się. kogo): każdy w tajemnicy decyduje, czy chce przeżyć, czy umrzeć. Jeśli wszyscy troje przeżyją, to wszyscy umierają.",
       "flavor": "Alsukut min dhahab.",
       "name": "Al-Hadikhia",
-      "other": "Al-Hadikhia wybiera 3 graczy. :reminder: :reminder: :reminder: Obudź gracza oznaczonego *1* i powiedz \"Al-Hadikhia wybrała\", po czym wypowiedz imię tego gracza, następnie zapytaj \"Czy chcesz żyć?\". Gracz potwierdza potaknięciem, lub zaprzecza ruchem głowy. Uśpij tego gracza i dodaj lub usuń całun według decyzji. Powtórz z graczami *2* i *3*. Jeżeli wszyscy troje są teraz żywi, dodaj całun do każdego z nich."
+      "other": "Al-Hadikhia wybiera 3 graczy. :reminder: :reminder: :reminder: Obudź każdego z wybranych graczy po kolei. Gracze mogą pokiwać lub pokręcić głową. Uśpij gracza zanim obudzisz kolejnego."
     },
     "alsaahir": {
       "ability": "Każdego dnia, jeżeli publicznie odgadniesz, którzy gracze są Sługusami, a którzy są Demonami, dobro wygrywa.",
@@ -279,7 +279,7 @@
       "name": "Anioł"
     },
     "apprentice": {
-      "ability": "1-szej swej nocy, zdobywasz umiejętność Mieszczanina (jeżeli dobry) lub Sługusa (jeżeli zły).",
+      "ability": "Pierwszej nocy po wejściu do gry otrzymujesz umiejętność Mieszczanina (jeśli jesteś dobry) lub Sługusa (jeśli jesteś zły).",
       "first": "Pokaż Czeladnikowi kartę *JESTEŚ*, a następnie żeton Mieszczanina lub Sługusa, zamień żeton Czeladnika z żetonem tej postaci. :reminder:",
       "flavor": "Przez lata podróżowałem i zgłębiałem tajniki Sztuki. Której sztuki, pytasz? Prostego ludu. Nie ma się czym martwić. Jeszcze.",
       "name": "Czeladnik"
@@ -320,10 +320,10 @@
       "other": "Jeżeli Balwierz umarł tego dnia lub nocy, pokaż Demonowi *TA POSTAĆ CIĘ WYBRAŁA* i żeton Balwierza. Jeżeli Demon wybierze 2 graczy, obudź ich pojedynczo. Pokaż kartę *JESTEŚ* i ich nowy żeton postaci."
     },
     "barista": {
-      "ability": "Każdej nocy, do zmierzchu: 1) gracz staje się trzeźwy, zdrowy i dostaje prawdziwe informacje, albo 2) jego umiejętność działa dwa razy. Dowiadują się który co.",
+      "ability": "Każdej nocy, do zmierzchu: 1) jeden gracz staje się trzeźwy, zdrowy i dostaje prawdziwe informacje lub 2) jego umiejętność działa dwa razy. Dowiaduje się, która opcja została wybrana.",
       "first": "Wybierz gracza. Obudź go, pokaż kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Kawiarki, następnie pokaż na palcach. :reminder:",
       "flavor": "Kawa bez śmietanki, Monsieur? Najserdeczniej przepraszam, ale właśnie skończyła nam się śmietanka - może być bez mleka?",
-      "name": "Barista",
+      "name": "Kawiarka",
       "other": "Wybierz gracza. Obudź go, pokaż kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Kawiarki, następnie pokaż na palcach. :reminder:"
     },
     "baron": {
@@ -534,7 +534,7 @@
       "other": "Inżynier może wybrać Sługusów albo Demona. Uśpij Inżyniera. Obudź wybranych graczy pojedynczo. Pokaż kartę *JESTEŚ* i nowy żeton postaci. :reminder:"
     },
     "eviltwin": {
-      "ability": "Ty i gracz przeciwnej strony się znacie. Jeżeli dobry z was zostanie stracony, zło zwycięża. Dobro nie może wygrać jeżeli oboje z was żyją.",
+      "ability": "Ty i gracz z przeciwnej drużyny się znacie. Jeżeli dobry z waszej dwójki zostanie stracony, zło zwycięża. Dobro nie może wygrać, jeżeli oboje żyjecie.",
       "first": "Obudź obu bliźniaków. Pozwól na kontakt wzrokowy. Pokaż żeton dobrego bliźniaka Złemu Bliźniakowi i vice versa.",
       "flavor": "Ja nie jestem Sara! Ja jestem Klara! ONA jest Sara! Sara jest tą złą! Nie ja!",
       "name": "Zły Bliźniak"
@@ -625,7 +625,7 @@
       "other": "Daj znać kciukiem."
     },
     "gnome": {
-      "ability": "Wszyscy gracze wiedzą o graczu z twojej drużyny. Możesz zdecydować o śmierci kogokolwiek kto go nominuje.",
+      "ability": "Gdy wchodzisz do gry, wszyscy gracze poznają jednego gracza z twojej drużyny. Możesz zabić kogokolwiek, kto go nominuje.",
       "name": "Krasnal"
     },
     "goblin": {
@@ -662,7 +662,7 @@
       "other": "Jeżeli Plotkara ma zabić gracza, gracz umiera. :reminder:"
     },
     "grandmother": {
-      "ability": "Zaczynasz grę wiedząc o dobrym graczu i jego postaci. Jeżeli zabije go Demon, to ty też umierasz.",
+      "ability": "Na początku gry poznajesz dobrego gracza i jego postać. Jeżeli zabije go Demon, ty też umierasz.",
       "first": "Wskaż na gracza oznaczonego jako wnuczek i pokaż jego żeton postaci.",
       "flavor": "Ubierz kurteczkę jak idziesz na dwór, skarbie. I jeszcze termos. I szaliczek. Wiesz, że mam słabe serce. Co bym zrobiła, gdybyś złapał przeziębienie... albo coś gorszego?",
       "name": "Babcia",
@@ -957,7 +957,7 @@
       "other": "Filozof może wybrać postać. Jeżeli trzeba podmień ich żeton. :reminder:"
     },
     "pithag": {
-      "ability": "Każdej nocy* wybierz gracza i postać którą się staje (jeżeli nie ma jej w grze). Jeżeli w ten sposób powstał Demon, śmierć tej nocy jest arbitralna.",
+      "ability": "Każdej nocy* wybierz gracza i postać, którą się staje (jeżeli nie ma jej w grze). Jeżeli w ten sposób powstał Demon, śmierć tej nocy jest arbitralna.",
       "flavor": "Czas czarodziejski taniec zawrócić; W kotła wnętrzności truciznę rzucić; Ropucho czarna, co od miesiąca; Pod zimnym głazem skryta śpiąca; Sączyłaś jady, ty na początek; Zaprawisz kotła naszego wrzątek.",
       "name": "Jędza",
       "other": "Jędza wybiera gracza i postać. Jeżeli wybranej postaci nie ma w grze: Uśpij Jędzę. Obudź cel. Pokaż kastę *JESTEŚ* i jego nowy żeton postaci."
