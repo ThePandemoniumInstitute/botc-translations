@@ -908,7 +908,7 @@
       "name": "Nocny Strażnik"
     },
     "noble": {
-      "ability": "Zaczynasz grę wiedząc o 3 graczach, 1 i tylko 1 z nich jest zły.",
+      "ability": "Zaczynasz grę znając 3 graczy, 1 i tylko 1 z nich jest zły.",
       "first": "Wskaż na trzech graczy oznaczonych *ZNANY*.",
       "flavor": "Sarkazm jest zaiste najniższą formą dowcipu. Jednak muszę Panu przypomnieć, skoro tak Pan krytykuje, że jest to nadal forma dowcipu.",
       "name": "Szlachcic"
