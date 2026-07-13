@@ -530,6 +530,7 @@
       "name": "Zły Bliźniak"
     },
     "exorcist": {
+      "ability": "Każdej nocy* wybierz gracza (innego niż poprzedniej nocy): Demon, jeżeli wybrany, dowiaduje się o nim i nie budzi się tej nocy.",
       "flavor": "Wypędzamy was, wszelkiego ducha nieczystego, wszelką moc szatańską, każdy napór piekielnego przeciwnika, każdy legion, każdą diabelską sektę i zgromadzenie, w imię i mocą Pana naszego, Jezusa Chrystusa. Rozkazujemy wam, odejdźcie i uchodźcie daleko od Kościoła Bożego, od dusz stworzonych przez Boga na Jego obraz i odkupionych drogocenną krwią Boskiego Baranka.",
       "name": "Egzorcysta",
       "other": "Egzorcysta wybiera gracza. :reminder: Uśpij Egzorcystę. Jeżeli Egzorcysta wybrał Demona: Obudź Demona. Pokaż mu kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Egzorcysty. Wskaż Egzorcystę."
@@ -812,7 +813,7 @@
       "other": "Zrób wszystko co trzeba, aby zasymulować działanie Demona. Uśpij Szaleńca. Obudź Demona. Pokaż żeton Szaleńca i wskaż go, następnie wskaż cele, które wybrał."
     },
     "lycanthrope": {
-      "ability": "Każdej nocy* wybierz żywego gracza. Jeżeli dobry umiera, a Demon nie zabija tej nocy. Jeden z dobrych graczy pokazuje się jako zły.",
+      "ability": "Każdej nocy* wybierz żywego gracza. Jeżeli jest dobry to umiera, a Demon nie zabija tej nocy. Jeden z dobrych graczy pokazuje się jako zły.",
       "flavor": "Tuż pod cienką warstwą cywilizacji czai się dzikie, wyjące szaleństwo.",
       "name": "Wilkołak",
       "other": "Wilkołak wybiera gracza. :reminder:"
