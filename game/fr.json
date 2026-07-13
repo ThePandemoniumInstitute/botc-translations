@@ -99,7 +99,7 @@
     "king-riot": "Si l’Émeute est en jeu et qu’au moins un joueur est mort, le Roi apprend chaque nuit un rôle vivant.",
     "legion-magician": "Si le Magicien est en jeu, pendant l’étape d’info du Démon, les Légions se réveillent en groupes séparés. Chaque groupe apprend quels joueurs sont bons, mais n’apprend pas qui est le Magicien.",
     "legion-minstrel": "Si Légion meurt par exécution aujourd’hui, Légion conserve sa capacité, mais le Ménestrel peut apprendre que Légion est en jeu.",
-    "legion-politician": "Le Politicien peut être considéré comme maléfique par Légion.",
+    "legion-politician": "Le Politicien peut être considéré comme maléfique par la Légion.",
     "legion-preacher": "Si le Prédicateur choisit Légion, Légion conserve sa capacité, mais le Prédicateur peut apprendre que Légion est en jeu.",
     "legion-summoner": "Si Légion est invoquée, tous les joueurs maléfiques deviennent Légion.",
     "legion-zealot": "Le Zélote peut être considéré comme maléfique par Légion.",
