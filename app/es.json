@@ -318,6 +318,8 @@
       "title": "Añadir ficha de recordatorio a {0}"
     },
     "report": {
+      "description": "Descripción",
+      "error_attachment_limit": "Sólo puedes añadir hasta 3 archivos.",
       "reason": {
         "conduct": "Conducta de jugador",
         "feature": "Solicitud de función",
@@ -325,7 +327,8 @@
         "safety": "Seguridad y privacidad",
         "technical": "Problema técnico"
       },
-      "reason_general": "¿En qué podemos ayudarle?"
+      "reason_general": "¿En qué podemos ayudarle?",
+      "title_user": "Reportar usuario"
     },
     "role": {
       "error_character": "No se ha encontrado ningún personaje que coincida con {0}.",
