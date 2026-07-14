@@ -314,6 +314,12 @@
     "npc": {
       "title": "Adicionar uma Lenda ou um Mito"
     },
+    "playnice": {
+      "button": "Entendi",
+      "text1": "Num jogo de falsidades. É importante manter a convivência respeitosa e amigável.",
+      "text2": "Se você ver um comportamento que passa dos limites por favor reporte pelo app via {0}.",
+      "text2_email": "email"
+    },
     "reminder": {
       "custom_favorite": "Favoritado",
       "custom_note": "Anotação",
@@ -325,6 +331,7 @@
     },
     "report": {
       "attachment": "Captura de Tela / Anexos (até 3)",
+      "button_attachment": "Adicionar anexos",
       "description": "Descrição",
       "description2": "Por favor descreva o problema que está enfrentando ou detalhes do seu pedido. Nós vamos automaticamente incluir o nome da sessão atual, os detalhes da sua conta e outros metadados técnicos.",
       "description_placeholder": "Descreva seu problema em detalhes aqui",
