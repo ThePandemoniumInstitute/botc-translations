@@ -498,7 +498,7 @@
       "video_unnamed": "Thiết bị hình ảnh không tên"
     },
     "signal": {
-      "bluffs": "Nhân vật ngoài trò chơi:",
+      "bluffs": "Nhân vật lừa:",
       "cards": {
         "ability": "Dùng năng lực của bạn?",
         "acknowledge": "Được rồi",
@@ -904,7 +904,7 @@
   },
   "tabs": {
     "bluffs": {
-      "title": "Nhân vật ngoài ván chơi"
+      "title": "Nhân vật lừa"
     },
     "character": {
       "download": "Tải Về JSON Kịch Bản",
