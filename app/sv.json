@@ -437,7 +437,7 @@
       "linked_to": "Du är inloggad på {0}",
       "nomination": {
         "bigwig": {
-          "text": "Nominerade väljer en spelare: fram till röstning får bara hen prata och hen är galen att den nominerade är god, eller kanske dör.",
+          "text": "Nominerade väljer en spelare: fram till röstning får bara hen prata & hen är galen att den nominerade är god, eller kanske dör.",
           "title": "Talmannen"
         },
         "focus": {
