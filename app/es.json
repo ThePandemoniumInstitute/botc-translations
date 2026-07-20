@@ -317,6 +317,16 @@
       "tab2": "Otros recordatorios",
       "title": "Añadir ficha de recordatorio a {0}"
     },
+    "report": {
+      "reason": {
+        "conduct": "Conducta de jugador",
+        "feature": "Solicitud de función",
+        "other": "Otro (describa abajo)",
+        "safety": "Seguridad y privacidad",
+        "technical": "Problema técnico"
+      },
+      "reason_general": "¿En qué podemos ayudarle?"
+    },
     "role": {
       "error_character": "No se ha encontrado ningún personaje que coincida con {0}.",
       "error_traveller": "No se ha encontrado ningún Viajero que coincida con {0}.",
