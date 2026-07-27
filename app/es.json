@@ -308,6 +308,9 @@
     "npc": {
       "title": "Añadir un personaje no jugable"
     },
+    "playnice": {
+      "title": "¡Juega limpio!"
+    },
     "reminder": {
       "custom_favorite": "Guardado como favorito",
       "custom_note": "Nota personalizada",
@@ -323,11 +326,13 @@
       "reason": {
         "conduct": "Conducta del jugador",
         "feature": "Solicitud de función",
+        "hatespeech": "Incitación al odio o Discriminación",
         "other": "Otro (describe abajo)",
         "safety": "Seguridad y privacidad",
         "technical": "Problema técnico"
       },
       "reason_general": "¿En qué podemos ayudarte?",
+      "subject": "Asunto",
       "title_user": "Reportar a un usuario"
     },
     "role": {
