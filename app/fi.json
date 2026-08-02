@@ -918,7 +918,7 @@
       "password_confirm": "Salasanan Vahvistaminen",
       "password_reset": "Ohjeet salasanan nollaukseen on lähetetty tiliin liitettyyn sähköpostiosoitteeseen.",
       "recover_password": "Palauta Salasana",
-      "register": "Näyttäytyy",
+      "register": "Rekisteröidy",
       "social": {
         "complete": "Kirjautuminen suoritettu, voit sulkea tämän ikkunan!",
         "error": "Tapahtui virhe:",
