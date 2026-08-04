@@ -1,1 +1,15 @@
-{}
+{
+  "editions": {
+    "bmr": {
+      "name": "Bad Moon Rising"
+    },
+    "snv": {
+      "name": "Sects & Violets"
+    }
+  },
+  "reminders": {
+    "amigo": "Amic",
+    "friend": "Amic",
+    "whoopsie": "Ups!"
+  }
+}
