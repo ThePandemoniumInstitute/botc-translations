@@ -1,1 +1,30 @@
-{}
+{
+  "common": {
+    "account-levels": {
+      "free": "Gratuït",
+      "patreon-demon": "Nivell dimoni",
+      "patreon-minion": "Nivell sequaç",
+      "patreon-townsfolk": "Nivell vilatà",
+      "special-free": "De cortesia",
+      "special-moderator": "Moderador",
+      "special-tpi": "Equip de TPI"
+    },
+    "button_allow": "Permet",
+    "button_cancel": "Cancel·la",
+    "button_close": "Tanca",
+    "button_confirm": "Confirma",
+    "button_logout": "Tanca la sessió",
+    "button_search": "Cerca",
+    "cookie_policy": "Política de galetes",
+    "moderation_policy": "Política de moderació",
+    "privacy_policy": "Política de privacitat",
+    "session-tags": {
+      "cameras": {
+        "title": "Ús de càmeres en aquesta sessió de joc"
+      },
+      "grimoire": {
+        "value_2": "No"
+      }
+    }
+  }
+}
