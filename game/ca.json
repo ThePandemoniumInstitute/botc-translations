@@ -1,11 +1,71 @@
 {
   "editions": {
     "bmr": {
+      "description": "…és un festival de la mort. Els dimonis maten diverses vegades cada nit, i els Sequaços també participen en l’acció. Els jugadors bons poden córrer grans riscos per obtenir informació fiable, però, durant el procés, poden matar accidentalment els seus amics. Per sort, hi ha moltes maneres de mantenir els jugadors amb vida molt més enllà de la seva data de caducitat. Tanmateix, si l’equip bo no aconsegueix esbrinar quins sequaços i dimonis estan en joc, la seva perdició està pràcticament assegurada.",
       "name": "Bad Moon Rising"
     },
+    "custom": {
+      "description": "Per jugar amb un guió personalitzat, has de seleccionar els personatges amb els quals vols jugar a l’utilitat oficial de creació de guions i, després, pujar aquí el fitxer «custom-list.json» generat o bé proporcionar l’URL d’un fitxer JSON allotjat en línia. També pots carregar-lo arrossegant i deixant anar el fitxer del guió en aquesta pantalla o enganxant-hi el JSON des del porta-retalls.",
+      "name": "Guió personalitzat"
+    },
+    "homebrew": {
+      "name": "Casolà"
+    },
     "snv": {
+      "description": "…és la més esbojarrada de les tres edicions incloses en la caixa bàsica. Els personatges bons obtenen informació extraordinària totes i cadascuna de les nits. Tanmateix, l’equip malvat és extremament variat i perillós, i pot provocar una confusió enorme. Els personatges canvien de bàndol. Els jugadors canvien de personatge. Fins i tot l’equip malvat pot perdre el fil de qui és qui. Aquesta edició també introdueix per primera vegada la bogeria, que posa tota mena de pals a les rodes.",
       "name": "Sects & Violets"
+    },
+    "tb": {
+      "description": "…té una mica de tot. Alguns personatges reben informació de manera passiva; d’altres han d’actuar per descobrir qui és qui, mentre que alguns simplement volen fer d’esquer perquè el Dimoni els ataqui. Tant l’equip bo com el malvat poden obtenir avantatge fent sacrificis en el moment oportú.\nTrouble Brewing és una caça del dimoni relativament senzilla, però els malvats tenen uns quants trucs de desinformació perversos amagats a la màniga. Per tant, si esperen sobreviure, val més que els jugadors bons es qüestionin allò que creuen saber.",
+      "name": "Trouble Brewing"
     }
+  },
+  "jinxes": {
+    "alchemist-boffin": "Si l’Alquimista té l’habilitat del Setciències, l’Alquimista no descobreix quina habilitat té el dimoni.",
+    "alchemist-marionette": "Un Alquimista-Marioneta no té l’habilitat de la Marioneta i la Marioneta és a la partida.",
+    "alchemist-mastermind": "Un Alquimista-Conspirador no té l’habilitat del Conspirador i el Conspirador no és a la partida.",
+    "alchemist-organgrinder": "Si l’Alquimista té l’habilitat del Tocador d’orguenet, el Tocador d’orguenet és a la partida. Si tots dos estan sobris, tots dos estan borratxos.",
+    "alchemist-spy": "Un Alquimista-Espia no té l’habilitat de l’Espia i l’Espia és a la partida. Després de cada execució, l’Alquimista viu pot intentar encertar públicament si un jugador viu és l’Espia. Si encerta, el dimoni ha de triar l’Espia aquesta nit.",
+    "alchemist-summoner": "Un Alquimista-Invocador no obté coartades i, a més, tria el dimoni però no el jugador. Si mor abans que això passi, guanyen els malvats. [Sense dimoni]",
+    "alchemist-widow": "Un Alquimista-Vídua no té l’habilitat de la Vídua i la Vídua és a la partida. Després de cada execució, l’Alquimista viu pot intentar encertar públicament si un jugador viu és la Vídua. Si encerta, el dimoni ha de triar la Vídua aquesta nit.",
+    "alchemist-wraith": "Un Alquimista-Espectre no té l’habilitat de l’Espectre i l’Espectre és a la partida. Després de cada execució, l’Alquimista viu pot intentar encertar públicament si un jugador viu és l’Espectre. Si encerta, el dimoni ha de triar l’Espectre aquesta nit.",
+    "alhadikhia-mastermind": "Si l’Al-Hadikhia mor per execució i el Conspirador és viu, l’Al-Hadikhia tria tres jugadors bons aquesta nit: si tots tres trien viure, guanyen els malvats; si no, guanyen els bons.",
+    "alhadikhia-princess": "Si la Princesa ha acusat i executat un jugador en el seu primer dia, ningú mor a causa de l’habilitat de l’Al-Hadikhia aquesta nit.",
+    "alhadikhia-scarletwoman": "Si hi hagués d’haver dos dimonis, un dels quals fos la Dona escarlata, la Dona escarlata torna a ser la Dona escarlata.",
+    "alsaahir-vizier": "El narrador no declara que el Visir és a la partida.",
+    "atheist-riot": "Durant un esvalotament, si el narrador és acusat, els jugadors voten. Si està «a punt de morir», la partida acaba. Si no, torna a acusar.",
+    "balloonist-marionette": "Si la Marioneta creu que és l’Aeronauta, pot haver-se afegit un foraster durant la preparació.",
+    "banshee-leviathan": "Cada nit,* el Leviatan tria un jugador bo viu (diferent dels de les nits anteriors): una Gemegaire triada mor i obté la seva habilitat.",
+    "boffin-heretic": "El dimoni no pot tenir l’habilitat de l’Heretge.",
+    "boffin-ogre": "El dimoni no pot tenir l’habilitat de l’Ogre.",
+    "boffin-politician": "El dimoni no pot tenir l’habilitat del Polític.",
+    "boffin-villageidiot": "Si hi ha una fitxa disponible, el Setciències pot donar al dimoni l’habilitat del Ximplet.",
+    "boomdandy-plaguedoctor": "Si el narrador hagués d’obtenir l’habilitat del Bombat, un jugador es converteix en el Bombat.",
+    "bountyhunter-kazali": "Si el Kazali converteix el Caça-recompenses en sequaç, no es crea cap vilatà malvat.",
+    "bountyhunter-philosopher": "Si el Filòsof obté l’habilitat del Caça-recompenses, un vilatà podria tornar-se malvat.",
+    "butler-cannibal": "Si el Caníbal obté l’habilitat del Majordom, el Caníbal ho descobreix.",
+    "butler-organgrinder": "Si el Tocador d’orguenet fa que els jugadors tanquin els ulls en votar, el Majordom pot aixecar la mà per votar, però el seu vot només compta si el seu amo també ha votat.",
+    "cannibal-juggler": "Si el Malabarista fa prediccions el primer dia i mor per execució, aquesta nit el Caníbal viu descobreix quantes prediccions ha encertat el Malabarista.",
+    "cannibal-princess": "Si el Caníbal acusa, executa i mata la Princesa avui, el dimoni no mata aquesta nit.",
+    "cannibal-zealot": "Si el Caníbal obté l’habilitat de l’Extremista, el Caníbal ho descobreix.",
+    "cerenovus-goblin": "El Cerenovus pot triar fer que un jugador estigui «boig» afirmant que és el Goblin.",
+    "chambermaid-mathematician": "La Minyona pot detectar si el Matemàtic es despertarà aquesta nit.",
+    "clockmaker-summoner": "L’Invocador és percebut com a dimoni pel Rellotger.",
+    "courtier-summoner": "Si l’Invocador viu no té habilitat, el narrador té l’habilitat de l’Invocador.",
+    "courtier-vizier": "Si el Visir perd la seva habilitat, ho descobreix i no pot morir durant el dia.",
+    "cultleader-pithag": "Si el Fetiller transforma un jugador malvat en un Líder de secta, aquest no pot tornar-se bo a causa de la seva pròpia habilitat.",
+    "damsel-pithag": "Si el Fetiller crea una Donzella, el narrador tria quin jugador és.",
+    "damsel-spy": "Si l’Espia és (o ha estat) a la partida, la Donzella està emmetzinada.",
+    "damsel-widow": "Si la Vídua és (o ha estat) a la partida, la Donzella està emmetzinada.",
+    "drunk-mathematician": "El Matemàtic descobreix si l’habilitat del Borratxo ha donat informació falsa o ha funcionat incorrectament.",
+    "engineer-legion": "Si la Legió és creada, tots els jugadors malvats es converteixen en Legió. Si la Legió és a la partida, l’Enginyer comença sabent-ho però no té habilitat.",
+    "engineer-summoner": "Si l’Invocador viu és eliminat de la partida, el narrador té l’habilitat de l’Invocador.",
+    "eviltwin-plaguedoctor": "Si el narrador hagués d’obtenir l’habilitat de la Bessona malvada, un jugador es converteix en la Bessona malvada.",
+    "exorcist-leviathan": "Si el Leviatan acusa i executa el jugador triat per l’Exorcista, els bons guanyen.",
+    "exorcist-riot": "Si l’Esvalotador acusa i executa el jugador triat per l’Exorcista, els bons guanyen.",
+    "exorcist-yaggababble": "Si l’Exorcista tria la Queta, la Queta no mata aquesta nit.",
+    "fanggu-scarletwoman": "Si hi hagués d’haver dos dimonis, un dels quals fos la Dona escarlata, la Dona escarlata continua sent la Dona escarlata.",
+    "farmer-leviathan": "Cada nit,* el Leviatan tria un jugador bo viu (diferent dels de les nits anteriors): un Granger triat utilitza la seva habilitat però no mor."
   },
   "reminders": {
     "amigo": "Amic",
