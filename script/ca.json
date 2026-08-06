@@ -59,7 +59,7 @@
   "djinn-rules": "Regles del Jinn",
   "edition": {
     "base-three": "Base",
-    "carousel": "Carousel",
+    "carousel": "Carrusel",
     "custom": "Personalitzat",
     "experimental": "Experimental",
     "homebrew": "Casolà",
@@ -146,7 +146,7 @@
     "font-size-normal": "Normal",
     "force-one-column": "Forceu-ne una sola columna",
     "language": "Idioma",
-    "language-select-heading": "Selecció de d’idioma",
+    "language-select-heading": "Selecció d’idioma",
     "print-columns": "Columnes d’impressió",
     "print-compact-night-sheet": "Full d’ordre de nit compacte",
     "print-options-heading": "Opcions d’impressió",
