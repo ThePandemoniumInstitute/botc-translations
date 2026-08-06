@@ -1,4 +1,5 @@
 {
+  "add-bootlegger-rule": "Afegiu una regla del Contrabandista",
   "add-bootlegger-rules": "Feu clic a la icona del signe més per afegir una regla del Contrabandista.",
   "add-demon": "Afegeix dimonis",
   "add-minion": "Afegeix sequaços",
@@ -8,6 +9,7 @@
     "heading": "Anàlisi del guió",
     "maximum-character-recommendation": "El nombre màxim recomanat de personatges és {number}.",
     "maximum-character-recommendation-teensy": "En un guió de Teensyville, el nombre màxim recomanat de personatges és {number}.",
+    "no-messages": "No hi ha res a destacar!",
     "range-between-recommendation-full-demon": "Es recomana incloure entre {lower} i {upper} dimonis.",
     "range-between-recommendation-full-minion": "Es recomana incloure entre {lower} i {upper} sequaços.",
     "range-between-recommendation-full-outsider": "Es recomana incloure entre {lower} i {upper} forasters.",
@@ -35,6 +37,8 @@
   "author": "Autor",
   "author-placeholder": "Desconegut",
   "bootlegger-rules": "Regles del Contrabandista",
+  "by-author": "de {author}",
+  "by-author-isolated": "de",
   "character-tooltip": "Arrossegueu per moure; feu doble clic o clic amb el botó dret per mostrar el menú contextual",
   "characters": "Personatges",
   "clear-script": "Neteja el guió",
@@ -44,20 +48,28 @@
   "commit-details": "Marca aquest personatge com a definitiu perquè no s’elimini del guió em prémer el botó de generació aleatòria.",
   "copy-script-link": "Copia l’enllaç del guió",
   "ctxmenu": {
+    "copy-text": "Copia el text",
+    "copy-text-details": "Copia el text de l’habilitat del personatge",
     "draft": "Esborrany",
     "draft-details": "Un personatge en esborrany encara no s’ha incorporat definitivament al guió. Si premeu el botó de generació aleatòria, cada personatge en esborrany se substituirà per un altre del mateix tipus.",
     "pinned": "Fixat",
     "pinned-details": "Un personatge fixat es manté a la mateixa posició encara que l’ordenació automàtica estigui activada."
   },
   "delete-script-confirmation": "Segur que voleu eliminar aquest guió? Aquesta acció és irreversible.",
+  "djinn-rules": "Regles del Jinn",
   "edition": {
     "base-three": "Base",
+    "carousel": "Carousel",
     "custom": "Personalitzat",
     "experimental": "Experimental",
     "homebrew": "Casolà",
     "kickstarter": "Kickstarter"
   },
   "export": {
+    "copy-json": "Copieu el JSON",
+    "download-json": "Baixeu el JSON",
+    "pdf": "Imprimeix o exporta el PDF",
+    "png": "Exporta el PNG",
     "screenshot": {
       "failed-embed": "No s’han pogut incrustar algunes icones a la imatge exportada",
       "save": "Desa",
@@ -66,12 +78,14 @@
   },
   "export-menu": "Menú d’exportació",
   "external-image-confirm": "Segur que voleu permetre imatges personalitzades? L’autor d’un fitxer de guió maliciós podria rastrejar la vostra adreça IP d’aquesta manera. The Pandemonium Institute no té cap control sobre les imatges que proporcionen altres usuaris de l’aplicació.",
+  "fabled-and-loric": "Faules i lòrics",
   "filters": "Filtres",
   "help": "Ajuda",
   "import-description": "Feu clic per seleccionar el JSON del guió o arrossegueu-lo i deixeu-lo anar per importar-lo",
   "import-description-kb": "o enganxeu un JSON o un URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "… o enganxeu aquí un URL o un JSON:",
   "import-json-error": "No s’ha pogut carregar cap JSON vàlid des de",
+  "import-script": "Importa un guió",
   "import-type-error": "El tipus de fitxer és incorrecte; no s’ha carregat.",
   "import-typing-error": "Aquest quadre permet enganxar dades JSON en dispositius mòbils o tàctils. No s’hi permet escriure ni enviar el contingut.",
   "interactions": {
@@ -82,6 +96,10 @@
     "+huntsman-damsel": {
       "msg": "Els guions amb el Caçador han d’incloure la Donzella.",
       "title": "Caçador, però sense Donzella"
+    },
+    "no-outsider-mod": {
+      "msg": "Sense cap modificació de forasters, els jugadors malvats no poden fer-se passar per forasters de manera creïble.",
+      "title": "Sense cap modificació de forasters"
     }
   },
   "keyword": {
@@ -97,14 +115,20 @@
     "traveller": "Viatger|Viatgers"
   },
   "name": "Nom",
+  "new-bootlegger-rule": "Nova regla del Contrabandista…",
   "new-script": "Guió nou",
   "print": {
     "ios": "Encara no s’admet la impressió des de dispositius iOS. Podeu provar-ho igualment, però és possible que el resultat no quedi bé.",
+    "not-first-night": "*Excepte la primera nit",
     "too-many-characters": "El guió té massa personatges ({nchars}). El nombre màxim recomanat és 25. És possible que no s’imprimeixi correctament. Voleu continuar?"
   },
   "quick-add": "Cerca personatges…",
+  "randomise": "Genera personatges aleatòriament!",
   "randomise-details": "El generador aleatori omplirà el guió amb personatges en esborrany triats a l’atzar.",
+  "read-more": "Llegiu l’entrada de l’almanac o del wiki",
   "recommended-travellers": "Viatgers recomanats",
+  "redo": "Refes",
+  "sao": "OAS",
   "script-name": "Nom del guió",
   "script-name-placeholder": "Guió sense títol",
   "scripts": "Guions",
@@ -120,8 +144,10 @@
     "font-size": "Mida de la lletra",
     "font-size-larger": "Més gran",
     "font-size-normal": "Normal",
+    "force-one-column": "Forceu-ne una sola columna",
     "language": "Idioma",
     "language-select-heading": "Selecció de d’idioma",
+    "print-columns": "Columnes d’impressió",
     "print-compact-night-sheet": "Full d’ordre de nit compacte",
     "print-options-heading": "Opcions d’impressió",
     "print-player-count-table": "Mostra la taula del nombre de jugadors",
@@ -139,7 +165,8 @@
   "show-all": "Tots els personatges",
   "show-script-analytics": "Mostra l’anàlisi del guió",
   "toast": {
-    "cannot-remove-bootlegger": "Aquest guió conté personatges casolans; per tant, no podeu eliminar el Contrabandista."
+    "cannot-remove-bootlegger": "Aquest guió conté personatges casolans; per tant, no podeu eliminar el Contrabandista.",
+    "copied": "S’ha copiat al porta-retalls!"
   },
   "toggle-autosort": "Activa o desactiva l’ordenació automàtica",
   "toggle-quick-input": "Mostra o amaga el camp d’addició ràpida",
@@ -149,21 +176,26 @@
     "add-and-remove-characters-03": "Si feu servir un dispositiu mòbil, podeu obrir aquesta pestanya lliscant el dit cap a la dreta o prement el botó {menuIcon} de la part superior esquerra. Per tancar-la, llisqueu el dit cap a l’esquerra.",
     "add-and-remove-characters-04": "També podeu afegir personatges ràpidament mitjançant el camp d’addició ràpida, que podeu mostrar o amagar prement el botó {plusIcon}.",
     "add-and-remove-characters-heading": "Afegir i eliminar personatges",
+    "autosort-01": "De manera predeterminada, tots els guions queden automàticament {link}{sortIcon} {block}ordenats segons l’SAO{/block}{/link}. L’ordenació funciona fins i tot amb personatges casolans! Podeu activar o desactivar aquesta opció aquí.",
     "autosort-heading": "Ordenació automàtica",
     "final-01": "Això és tot per ara! Si voleu tornar a veure aquesta visita guiada, podeu fer-ho des del menú {block}{settingsIcon} Configuració{/block}.",
+    "final-heading": "Gaudiu-ne!",
     "import-export-share-01": "Des d’aquí, podeu {block}{importIcon} importar{/block}, {block}{exportIcon} exportar{/block} o {block}compartir{/block} guions. També s’admeten personatges i guions casolans!",
     "import-export-share-02": "En fer clic al botó {block}Copieu l’enllaç del guió{/block} del menú {block}Exportació{/block}, obtindreu un «enllaç del guió» especial que permetrà a qualsevol persona veure el guió directament a l’eina.",
     "import-export-share-03": "També podeu tornar a veure aquesta visita guiada des del menú {block}{settingsIcon} Configuració{/block}.",
     "import-export-share-heading": "Importa, exporta i comparteix",
     "multiple-scripts-01": "Feu clic a la pestanya {heading}Guions{/heading} per veure tots els guions amb què heu treballat.",
     "multiple-scripts-02": "Aquí podeu triar entre un màxim de {bold}25 guions recents{/bold}.",
+    "multiple-scripts-heading": "Treballar amb diversos guions",
     "script-analytics-01": "Qualsevol problema del guió es mostrarà aquí.",
     "script-analytics-heading": "Anàlisi del guió",
     "script-name-and-authors-01": "Aquí podeu canviar el {bold}nom i els autors del guió{/bold}.",
     "script-name-and-authors-heading": "Nom i autors del guió",
     "undo-redo-01": "Si us equivoqueu, podeu {block}{undoIcon} desfer{/block} o {block}{redoIcon} refer{/block} els canvis. També podeu buidar el guió prement el botó {binIcon}.",
-    "undo-redo-heading": "Desfes i refes",
-    "welcome-01": "Aquesta és la nova eina per crear guions de {bold}Blood on the Clocktower{/bold}! Aquesta visita guiada us presentarà breument les funcions bàsiques perquè pugueu començar."
+    "undo-redo-heading": "Desfés i refés",
+    "welcome-01": "Aquesta és la nova eina per crear guions de {bold}Blood on the Clocktower{/bold}! Aquesta visita guiada us presentarà breument les funcions bàsiques perquè pugueu començar.",
+    "welcome-heading": "Us donem la benvinguda!"
   },
+  "undo": "Desfés",
   "unpin": "Desfixa"
 }
