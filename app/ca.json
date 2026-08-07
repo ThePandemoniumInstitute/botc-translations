@@ -17,193 +17,193 @@
     "button_deny": "Denega",
     "button_logout": "Tanca la sessió",
     "button_search": "Cerca",
-    "button_send": "Enviar",
+    "button_send": "Envia",
     "cookie_policy": "Política de galetes",
     "moderation_policy": "Política de moderació",
-    "privacy_policy": "Política de privacitat",
+    "privacy_policy": "Política de privadesa",
     "session-tags": {
       "cameras": {
         "title": "Ús de càmeres en aquesta sessió"
       },
       "difficulty": {
         "title": "Nivell d’experiència previst dels jugadors en aquesta sessió",
-        "value_0": "Mitjana"
+        "value_0": "Mitjà"
       },
       "grimoire": {
-        "title": "Els espectadors tenen accés al grimori",
-        "value_1": "Si",
+        "title": "Accés dels espectadors al grimori",
+        "value_1": "Sí",
         "value_2": "No"
       },
       "streaming": {
-        "label": "La partida es retransmet / s’enregistra",
-        "title": "La sessió es retransmetrà / s’enregistrarà"
+        "label": "La partida es retransmet/s’enregistra",
+        "title": "La sessió es retransmetrà/s’enregistrarà"
       },
       "subscription": {
-        "title": "Per unir-vos a aquesta partida, cal tenir una subscripció activa"
+        "title": "Per a unir-vos a aquesta partida, cal tenir una subscripció activa"
       },
       "travellers": {
-        "title": "Els viatgers estan permesos en aquesta sessió"
+        "title": "S’admeten viatgers en aquesta sessió"
       }
     },
-    "trademark": "“Blood on the Clocktower” és una marca registrada per Steven Medway i The Pandemonium Institute."
+    "trademark": "«Blood on the Clocktower» és una marca registrada de Steven Medway i The Pandemonium Institute."
   },
   "grimoire": {
     "abilities": {
-      "distribute-roles": "Distribueix rols",
-      "ghost-votes": "Retorna fitxes de vot",
-      "pointing": "Trieu un jugador"
+      "distribute-roles": "Reparteix els personatges",
+      "ghost-votes": "Retorna els vots dels jugadors morts",
+      "pointing": "Tria un jugador"
     },
     "phases": {
-      "start": "Preparant la primera nit"
+      "start": "Preparació de la primera nit"
     }
   },
   "main-menu": {
-    "cast_vote": "Emeteu vot",
-    "characters": "Selecciona personatges",
-    "clear_grim": "Neteja el grimori",
-    "error_audio": "El navegador ha impedit {0}. Feu clic aquí per iniciar el xat.",
-    "error_audio3": "Potser també haureu de {0} a Firefox per sentir l’àudio de l’aplicació.",
-    "error_audio4": "canvia una opció de configuració",
-    "gather": "Reuniu els jugadors",
-    "grim_access": "Heu rebut accés al grimori",
-    "night_info": "Informació de nit",
-    "night_info_text": "El narrador us ha despertat aquesta nit!",
-    "prompt_clear_player": "Esteu segur que voleu eliminar tots els personatges dels jugadors i totes les fitxes de recordatori?",
-    "prompt_clear_st": "Això netejarà el grimori i eliminarà les fitxes de recordatori per a tothom. N’esteu segur?",
-    "prompt_clear_title": "Neteja el grimori i elimina les fitxes de recordatori",
-    "prompt_timer_text": "Trieu la durada i (opcionalment) el títol pel temporitzador:",
-    "prompt_timer_title": "Posa un temporitzador",
-    "prompt_vacate_text": "Ara mateix sou en una partida activa. Esteu segur que voleu deixar el seient?",
-    "push_to_talk": "Premeu [{0}] per parlar",
-    "rules": "Llegiu les regles",
-    "session_expires": "En aquesta sessió no hi ha cap usuari de nivell sequaç i podria caducar a les {0}.",
-    "set_timer": "Posa un temporitzador",
-    "storyteller_add": "Convertiu-vos en narrador",
-    "storyteller_remove": "Deixeu de ser narrador",
-    "translation": "Milloreu aquesta traducció"
+    "cast_vote": "Emet el vot",
+    "characters": "Selecciona els personatges",
+    "clear_grim": "Buida el grimori",
+    "error_audio": "El navegador ha impedit {0}. Feu clic aquí per a iniciar el xat.",
+    "error_audio3": "Potser també haureu de {0} al Firefox per a sentir l’àudio de l’aplicació.",
+    "error_audio4": "canviar una opció de configuració",
+    "gather": "Reuneix els jugadors",
+    "grim_access": "Se us ha concedit accés al grimori",
+    "night_info": "Informació de la nit",
+    "night_info_text": "El narrador us ha despertat aquesta nit.",
+    "prompt_clear_player": "Segur que voleu eliminar tots els personatges dels jugadors i totes les fitxes de recordatori?",
+    "prompt_clear_st": "Això buidarà el grimori i eliminarà les fitxes de recordatori per a tothom. Voleu continuar?",
+    "prompt_clear_title": "Buida el grimori i elimina les fitxes de recordatori",
+    "prompt_timer_text": "Trieu una durada i, opcionalment, un títol per al temporitzador:",
+    "prompt_timer_title": "Configura un temporitzador",
+    "prompt_vacate_text": "Ara mateix participeu en una partida activa. Segur que voleu deixar el seient?",
+    "push_to_talk": "Premeu [{0}] per a parlar",
+    "rules": "Llegeix les regles",
+    "session_expires": "Com que ara mateix no hi ha cap usuari de nivell sequaç, és possible que aquesta sessió caduqui a les {0}.",
+    "set_timer": "Configura un temporitzador",
+    "storyteller_add": "Converteix-te en narrador",
+    "storyteller_remove": "Deixa de ser narrador",
+    "translation": "Millora aquesta traducció"
   },
   "modals": {
     "dialogue": {
       "error": {
-        "add_player": "No es pot afegir el jugador",
-        "avatar": "Error en pujar l’avatar",
-        "avatar_generic": "S’ha produït un error en pujar l’avatar.",
-        "avatar_pixel": "La imatge és massa gran. Reduïu-la a menys de 4000 × 4000 píxels abans de tornar-la a pujar.",
-        "avatar_type": "El fitxer no s’ha reconegut com a imatge.",
-        "chat2_text": "Sembla que el servidor de xat no està disponible",
-        "clear_grim": "No es pot netejar el grimori",
-        "missing_roles": "Aquesta sessió conté personatges personalitzats que no s’han pogut trobar. Carregueu-los abans d’unir-vos-hi! Personatges que falten: {0}",
-        "offline": "Sembla que el servidor no està disponible",
-        "server_text": "S’ha exhaurit el temps d’espera de connexió amb el servidor de joc.",
-        "session": "Error en crear la sessió de joc",
-        "session_banned": "El vostre compte està bandejat.",
-        "session_locked": "La sessió de joc està blocada.\nNomés s’hi poden unir els jugadors asseguts i els narradors.",
-        "session_not_found": "No s’ha trobat la sessió de joc.",
+        "add_player": "No es pot afegir cap jugador",
+        "avatar": "Error en penjar l’avatar",
+        "avatar_generic": "S’ha produït un error en penjar l’avatar.",
+        "avatar_pixel": "La imatge és massa gran. Reduïu-la a menys de 4.000 × 4.000 píxels abans de tornar-la a penjar.",
+        "avatar_type": "No s’ha reconegut el fitxer com a imatge.",
+        "chat2_text": "Sembla que el servidor de xat està fora de línia",
+        "clear_grim": "No es pot buidar el grimori",
+        "missing_roles": "Aquesta sessió conté personatges personalitzats que no s’han pogut trobar. Carregueu-los abans d’unir-vos-hi. Personatges que falten: {0}",
+        "offline": "Sembla que el servidor està fora de línia",
+        "server_text": "S’ha esgotat el temps d’espera de la connexió amb el servidor de joc.",
+        "session": "Error en crear la sessió",
+        "session_banned": "El compte està bandejat.",
+        "session_locked": "La sessió està blocada.\nNomés s’hi poden unir els jugadors que ocupen un seient i els narradors.",
+        "session_not_found": "No s’ha trobat la sessió.",
         "session_public": "No us podeu unir a sessions de joc públiques.",
-        "session_rejoin": "Encara no us podeu tornar a unir a aquesta sessió de joc.",
-        "session_subscription": "Necessiteu una subscripció per unir-vos a aquesta sessió de joc.",
-        "session_unverified": "Heu de verificar el compte abans de poder-vos unir a sessions de joc públiques.",
-        "subscription_text": "Necessiteu una subscripció per unir-vos a aquesta sessió de joc.",
+        "session_rejoin": "Encara no us podeu tornar a unir a aquesta sessió.",
+        "session_subscription": "Necessiteu una subscripció per a unir-vos a aquesta sessió.",
+        "session_unverified": "Heu de verificar el compte abans de poder-vos unir a sessions públiques.",
+        "subscription_text": "Necessiteu una subscripció per a unir-vos a aquesta sessió.",
         "update_game": "No es poden actualitzar les dades de la sessió",
-        "video_text": "El navegador ha impedit la reproducció automàtica del xat de vídeo. Tanqueu aquest missatge per iniciar el xat."
+        "video_text": "El navegador ha impedit la reproducció automàtica del xat de vídeo. Tanqueu aquest missatge per a iniciar el xat."
       },
       "prompt": {
-        "chat_title": "Canvieu de servidor de xat",
-        "join_block_text": "Hi ha almenys un usuari de la vostra llista d’usuaris blocats en aquesta sessió:\n{0}\nSegur que us hi voleu unir?",
-        "join_text": "Introduïu el número o el nom de la sessió de joc a la qual us voleu unir",
-        "join_title": "Uneix-me a una partida",
-        "storyteller_title": "Sol·licitud per convertir-vos en narrador"
+        "chat_title": "Canvia de servidor de xat",
+        "join_block_text": "Hi ha almenys un usuari de la llista d’usuaris blocats en aquesta sessió:\n{0}\nSegur que us hi voleu unir?",
+        "join_text": "Introduïu el número o el nom de la sessió a la qual us voleu unir",
+        "join_title": "Uneix-te a una partida",
+        "storyteller_title": "Sol·licitud per a convertir-vos en narrador"
       }
     },
     "edition": {
-      "button_clear": "Neteja el grimori",
-      "button_upload": "Puja",
-      "clear_description": "Això netejarà el grimori i eliminarà les fitxes de recordatori per a tothom. N’esteu segur?",
-      "clear_title": "Neteja el grimori i elimina les fitxes de recordatori",
-      "error_character": "Hi han massa personatges",
-      "error_script_text": "El guió s’ha carregat, però conté alguns problemes. Normalment, això vol dir que hi ha línies que no hi haurien de ser, segons l’esquema JSON oficial de guions personalitzats.",
-      "homebrew_description": "Per motius de seguretat, les imatges personalitzades dels guions casolans s’han substituït per icones genèriques. Les podeu activar des del menú «Configuració».",
-      "upload_custom": "Puja el JSON del guió personalitzat"
+      "button_clear": "Buida el grimori",
+      "button_upload": "Penja",
+      "clear_description": "Això buidarà el grimori i eliminarà les fitxes de recordatori per a tothom. Voleu continuar?",
+      "clear_title": "Buida el grimori i elimina les fitxes de recordatori",
+      "error_character": "Hi ha massa personatges",
+      "error_script_text": "S’ha carregat el guió, però conté alguns problemes. Normalment, això vol dir que hi ha línies que no hi hauria d’haver, segons l’esquema JSON oficial de guions personalitzats.",
+      "homebrew_description": "Per motius de seguretat, les imatges personalitzades dels guions casolans s’han substituït per icones genèriques. Activeu-les des del menú «Configuració».",
+      "upload_custom": "Penja el JSON del guió personalitzat"
     },
     "reminder": {
-      "custom_favorite": "Desat com a preferit",
-      "custom_text": "introdueix una nota de recordatori personalitzada per afegir-la a {0}"
+      "custom_favorite": "S’ha desat com a preferit.",
+      "custom_text": "Introduïu una nota de recordatori personalitzada per a afegir-la a {0}"
     },
     "report": {
-      "error_attachment_limit": "Només podeu afegir un màxim de 3 fitxers adjunts.",
-      "error_attachment_title": "Error en pujar el fitxer adjunt",
-      "error_timeout": "Espereu almenys 60 segons abans d’enviar un altre informe. Només en podeu enviar un màxim de 5 per hora.",
+      "error_attachment_limit": "Podeu afegir com a màxim 3 fitxers adjunts.",
+      "error_attachment_title": "Error en penjar el fitxer adjunt",
+      "error_timeout": "Espereu almenys 60 segons abans d’enviar un altre informe. En podeu enviar com a màxim 5 per hora.",
       "reason": {
-        "feature": "Suggeriment de funció",
-        "safety": "Seguretat i privacitat"
+        "feature": "Sol·licitud d’una funció",
+        "safety": "Seguretat i privadesa"
       },
-      "reason_user": "Per què informeu d’aquest usuari?",
-      "success_title": "Informe enviat!",
-      "title_user": "Informa d’un usuari"
+      "reason_user": "Per què denuncieu aquest usuari?",
+      "success_title": "S’ha enviat l’informe.",
+      "title_user": "Denuncia un usuari"
     },
     "role": {
-      "title": "Seleccioneu {type} {alignment} {target}"
+      "title": "Seleccioneu un {type} {alignment} {target}"
     },
     "roles": {
-      "button_shuffle": "Barreja",
-      "clear": "Desmarca tots els personatges",
-      "warning": "Avís: hi ha personatges seleccionats que modifiquen la preparació de la partida! Haureu de tenir en compte aquests canvis pel vostre compte."
+      "button_shuffle": "Mescla",
+      "clear": "Desselecciona tots els personatges",
+      "warning": "Avís: Hi ha personatges seleccionats que modifiquen la preparació de la partida! Haureu de tenir en compte aquests canvis pel vostre compte."
     },
     "rules": {
-      "intro_part02": "a la somnolenta Vila dels Corbs, durant una tempesta infernal, just a mitjanit… sentiu un crit. Correu cap a la plaça del poble per investigar-ho i hi trobeu el vostre estimat narrador assassinat… travessat per l’agulla de les hores de la torre del rellotge, mentre la sang regalima sobre les llambordes. Suposeu que és obra d’un dimoni, i teniu raó: un dimoni que mata de nit i adopta forma humana de dia.",
-      "intro_part04": "La partida es divideix en dues fases: la fase de dia i la fase de nit. Durant el dia, parleu. Cadascú té una identitat secreta: un dels personatges de la llista. En general, els jugadors bons comparteixen tot el que saben i intenten esbrinar qui és qui. La majoria diran la veritat, però alguns tenen motius per mentir. Si sou malvat, sens dubte heu de mentir! El millor és triar un personatge bo que pugueu fingir que sou i difondre tanta informació falsa com sigui possible.",
-      "intro_part05": "Durant la nit, les càmeres dels jugadors queden ocultes i el narrador en desperta alguns perquè facin servir l’habilitat o rebin informació. Quan el narrador us desperti, apareixerà un missatge emergent al centre de la pantalla. Seguiu-ne les instruccions per comunicar-vos amb el narrador. Si, després de respondre-li, heu de tornar a obrir el missatge durant la nit, feu clic a «Informació de la nit», a l’angle superior dret de la pantalla.",
-      "intro_part06": "Si el narrador us ha de parlar en privat, també us pot sol·licitar un xat de veu. La sol·licitud apareixerà al costat esquerre de la pantalla. Feu-hi clic per entrar al xat, on podreu parlar en privat amb el narrador. Quan acabeu, premeu la tecla de retrocés o Supr per tornar a la plaça del poble.",
-      "intro_part07": "La majoria morireu. I això és bo! A la Vila dels Corbs, la mort no és el final. Alguns jugadors fins i tot poden voler morir, perquè en fer-ho obtenen informació. Encara que sigueu mort, continueu participant en la partida, podeu continuar parlant i guanyeu o perdeu quan ho fa el vostre equip.",
-      "intro_part08": "En aquesta partida hi ha molta informació, però una part pot ser errònia. Si esteu borratxo o emmetzinat, no teniu habilitat, però el narrador fingirà que sí. El narrador us pot mentir: qualsevol informació que rebeu pot ser incorrecta, però no sabreu si esteu borratxo o emmetzinat. Per exemple, si sou el Borratxo, haureu tret de la bossa la fitxa d’un altre personatge i només el narrador sabrà que realment sou el Borratxo. O, si l’Emmetzinador us emmetzina, potser us despertareu igualment durant la nit per fer servir l’habilitat, però no funcionarà.",
-      "intro_part09": "Pot ser molta informació per assimilar de cop. Per simplificar-ho, només heu de recordar quatre coses:",
-      "intro_part11": "És un joc de conversa. Podeu parlar públicament amb el grup o tenir converses privades, el que vulgueu.",
-      "intro_part13": "Jugeu amb integritat i no feu servir mai eines ni ajuda externes per accedir a la vista del grimori, ja que conté tots els personatges de la partida. Si veieu res que no hauríeu de veure, espatllareu la diversió.",
-      "intro_part15": "Si us confoneu, no enteneu com funciona el vostre personatge o el personatge que fingiu ser, passa alguna cosa de nit que no compreneu o simplement necessiteu consell estratègic… sigui el que sigui, pregunteu. El narrador és neutral i té la funció d’ajudar-vos a entendre les regles i a passar-vos-ho bé. Digueu-li que teniu una pregunta i podreu parlar-hi en privat perquè ningú no sàpiga què heu preguntat.",
-      "intro_part17": "És un joc d’enganys i estratagemes; si us plau, tracteu els altres amb respecte i consideració. Mateu amb elegància i moriu amb dignitat.",
-      "intro_part18": "Ara és el moment de les acusacions..",
-      "intro_part19": "Per acusar un jugador, només heu de dir qui és. Per exemple: «Acuso en Pau». Quan s’acusa un jugador, tothom vota si cal executar-lo o no. El narrador anunciarà que comença la votació i apareixerà l’animació corresponent a la pantalla. L’agulla de votació gira en sentit horari i podeu fer servir la barra espaiadora o els botons AMUNT i AVALL del centre de la pantalla per aixecar o abaixar la mà. Si teniu la mà aixecada quan l’agulla arriba a la vostra posició, compteu com a vot; si la teniu abaixada, no.",
-      "intro_part20": "Cada dia podeu votar tants o tan pocs jugadors com vulgueu, i s’executa qui obtingui més vots. El recompte d’aquest jugador ha d’arribar com a mínim a la majoria dels jugadors vius; si no, no hi ha cap execució. En cas d’empat, no s’executa cap dels dos jugadors."
+      "intro_part02": "a la somnolenta Vila dels Corbs, durant una tempesta infernal, just a mitjanit… sentiu un crit. Correu cap a la plaça del poble per a investigar-ho i hi trobeu el vostre estimat narrador assassinat… travessat per l’agulla de les hores de la torre del rellotge, mentre la sang regalima sobre les llambordes. Suposeu que és obra d’un dimoni, i teniu raó: un dimoni que mata de nit i adopta forma humana de dia.",
+      "intro_part04": "La partida es divideix en dues fases: la fase de dia i la fase de nit. Durant el dia, parleu. Cadascú té una identitat secreta: un dels personatges de la llista. En general, els jugadors bons comparteixen tot el que saben i intenten esbrinar qui és qui. La majoria diran la veritat, però alguns tenen motius per mentir. Si sou del bàndol malvat, sens dubte heu de mentir! El millor és triar un personatge bo, fer-vos-hi passar i escampar tanta informació falsa com pugueu.",
+      "intro_part05": "Durant la nit, les càmeres dels jugadors queden ocultes i el narrador en desperta alguns perquè facin servir l’habilitat o rebin informació. Quan el narrador us desperti, apareixerà un missatge emergent al centre de la pantalla. Seguiu-ne les instruccions per a comunicar-vos amb el narrador. Si, després de respondre-li, heu de tornar a obrir el missatge durant la nit, feu clic a «Informació de la nit», a l’angle superior dret de la pantalla.",
+      "intro_part06": "Si el narrador us ha de parlar en privat, també us pot sol·licitar un xat de veu. La sol·licitud apareixerà al costat esquerre de la pantalla. Feu-hi clic per a entrar al xat, on podreu parlar en privat amb el narrador. Quan acabeu, premeu Retrocés o Supr per a tornar a la plaça del poble.",
+      "intro_part07": "La majoria morireu. I això és bo! A la Vila dels Corbs, la mort no és el final. Alguns jugadors fins i tot poden voler morir, perquè en fer-ho obtenen informació. Quan moriu, continueu participant en la partida, podeu continuar parlant i guanyeu o perdeu quan ho fa el vostre equip.",
+      "intro_part08": "En aquesta partida hi ha molta informació, però és possible que una part sigui errònia. Si esteu borratxo o emmetzinat, no teniu cap habilitat, però el narrador fingirà que sí. El narrador us pot mentir: és possible que la informació que rebeu sigui incorrecta, però no sabreu si esteu borratxo o emmetzinat. Per exemple, si sou el Borratxo, haureu tret de la bossa la fitxa d’un altre personatge i només el narrador sabrà que realment sou el Borratxo. O, si l’Emmetzinador us emmetzina, potser us despertareu igualment durant la nit per a fer servir l’habilitat, però no funcionarà.",
+      "intro_part09": "Pot ser molta informació per assimilar de cop. Per a simplificar-ho, només heu de recordar quatre coses:",
+      "intro_part11": "És un joc de conversa. Podeu parlar públicament amb el grup o mantenir converses privades, com preferiu.",
+      "intro_part13": "Jugeu amb integritat i no feu servir mai eines ni ajuda externes per a accedir a la vista del grimori, ja que conté tots els personatges de la partida. Si veieu res que no hauríeu de veure, espatllareu la diversió.",
+      "intro_part15": "Si us confoneu, no enteneu com funciona el vostre personatge o el personatge que fingiu ser, passa alguna cosa de nit que no compreneu o necessiteu consell estratègic… sigui el que sigui, pregunteu. El narrador és neutral i té la funció d’ajudar-vos a entendre les regles i a passar-vos-ho bé. Digueu-li que teniu una pregunta i parleu-hi en privat perquè ningú no sàpiga què heu preguntat.",
+      "intro_part17": "És un joc d’enganys i estratagemes; tracteu els altres amb respecte i consideració. Mateu amb elegància i moriu amb dignitat.",
+      "intro_part18": "Ara és el moment de les acusacions.",
+      "intro_part19": "Per a acusar un jugador, digueu qui és. Per exemple: «Acuso en Pau». Quan s’acusa un jugador, tothom vota si cal executar-lo o no. El narrador anunciarà que comença la votació i apareixerà l’animació corresponent a la pantalla. L’agulla de votació gira en sentit horari. Utilitzeu la barra espaiadora o els botons «Amunt» i «Avall» del centre de la pantalla per a aixecar o abaixar la mà. Si la teniu aixecada quan l’agulla arriba a la vostra posició, és un vot; si la teniu abaixada, no.",
+      "intro_part20": "Cada dia podeu votar tants o tan pocs jugadors com vulgueu, i s’executa qui obtingui més vots. El recompte d’aquest jugador ha d’arribar com a mínim al 50% dels jugadors vius; si no, no hi ha cap execució. En cas d’empat, no s’executa cap dels dos jugadors."
     },
     "settings": {
-      "background_text": "Introduïu l’URL d’un fons personalitzat o deixeu el camp en blanc per eliminar-lo.",
-      "css_confirm": "Sé el què faig; deixeu-me canviar l’aspecte de l’aplicació",
-      "css_text": "Podeu modificar l’aspecte de l’aplicació introduint l’URL d’un fitxer CSS personalitzat o directament el codi CSS. The Pandemonium Institute no es fa responsable del codi CSS proporcionat per altres usuaris. Si carregueu codi CSS maliciós, l’aplicació podria deixar de funcionar!",
-      "image_text": "Segur que voleu permetre imatges personalitzades? L’autor d’un fitxer de guió maliciós podria rastrejar la vostra adreça IP d’aquesta manera. The Pandemonium Institute no té cap control sobre les imatges que proporcionen altres usuaris de l’aplicació.",
+      "background_text": "Introduïu l’URL d’un fons personalitzat o deixeu el camp en blanc per a eliminar-lo.",
+      "css_confirm": "Sé què faig; deixa’m canviar l’aspecte de l’aplicació",
+      "css_text": "Podeu modificar l’aspecte de l’aplicació introduint l’URL d’un fitxer CSS personalitzat o directament el codi CSS. The Pandemonium Institute no es fa responsable del codi CSS proporcionat per altres usuaris. Carregar codi CSS maliciós pot fer que l’aplicació deixi de funcionar!",
+      "image_text": "Segur que voleu permetre imatges personalitzades? És possible que l’autor d’un fitxer de guió maliciós rastregi l’adreça IP d’aquesta manera. The Pandemonium Institute no té cap control sobre les imatges que proporcionen altres usuaris de l’aplicació.",
       "nomination": {
         "bigwig": {
-          "text": "Cada acusat tria un jugador: fins que comenci la votació, només pot parlar aquest jugador, que ha d’insistir que l’acusat és bo o podria morir."
+          "text": "Cada acusat tria un jugador: fins que comenci la votació, només pot parlar aquest jugador, que ha d’estar «boig» que l’acusat és bo o podria morir."
         }
       },
-      "patreon_link_title": "Compte de Patreon vinculat",
-      "patreon_perks": "La pujada d’avatars i les plaques de nom especials estan disponibles amb una {0} de pagament!",
-      "setting_colorblind": "Mode per a daltònics: {0}",
-      "setting_homebrew": "Mostreu imatges personalitzades / icones casolanes",
-      "setting_player_bluffs": "Jugador: mostra la pestanya Coartades",
-      "setting_ptt": "Premeu per parlar",
-      "setting_video_hidden": "Amaga la vostra càmera",
-      "setting_video_mirrored": "Inverteix horitzontalment la vostra càmera",
-      "shortcut_escape": "Premeu Esc per restablir la drecera",
-      "shortcut_touch": "Compatibilitat amb el tacte (lliscament, etc.)",
+      "patreon_link_title": "S’ha vinculat el compte de Patreon.",
+      "patreon_perks": "Amb una {0} de pagament podeu penjar avatars i fer servir plaques de nom especials.",
+      "setting_colorblind": "Mode per a persones amb daltonisme: {0}",
+      "setting_homebrew": "Mostra imatges personalitzades/icones casolanes",
+      "setting_player_bluffs": "Jugador: mostra la pestanya «Coartades»",
+      "setting_ptt": "Prem per a parlar",
+      "setting_video_hidden": "Amaga la càmera",
+      "setting_video_mirrored": "Inverteix horitzontalment la càmera",
+      "shortcut_escape": "Premeu Esc per a restablir la drecera",
+      "shortcut_touch": "Compatibilitat amb gestos tàctils (lliscament, etc.)",
       "shortcuts": {
-        "attentionGong": "Gong de crida / d’atenció",
-        "modalRules": "Llegiu les regles",
-        "modeGather": "Reuniu els jugadors",
-        "setTimer": "Posa un temporitzador",
-        "toggleAudioMuted": "Silencia el micròfon / premeu per parlar",
-        "toggleEdition": "Seleccioneu l’edició",
-        "toggleNight": "Activa/desactiva la fase de nit",
-        "toggleRoles": "Seleccioneu els personatges",
-        "toggleVideoMuted": "Activa/desactiva la càmera",
-        "toggleWhisper": "Xat / missatge de text"
+        "attentionGong": "Crida a plaça / Gong d’atenció",
+        "modalRules": "Llegeix les regles",
+        "modeGather": "Reuneix els jugadors",
+        "setTimer": "Configura un temporitzador",
+        "toggleAudioMuted": "Silencia el micròfon/Prem per a parlar",
+        "toggleEdition": "Selecciona l’edició",
+        "toggleNight": "Activa/Desactiva la fase de nit",
+        "toggleRoles": "Selecciona els personatges",
+        "toggleVideoMuted": "Activa/Desactiva la càmera",
+        "toggleWhisper": "Xat/Missatge de text"
       }
     },
     "setup": {
-      "button_rerun": "Executa de nou",
-      "button_start": "Omocoa"
+      "button_rerun": "Torna a executar",
+      "button_start": "Inicia"
     },
     "user": {
-      "prompt_kick": "Segur que voleu expulsar {0} de la sessió de joc?"
+      "prompt_kick": "Segur que voleu expulsar {0} de la sessió?"
     }
   },
   "overlays": {
@@ -213,15 +213,15 @@
   },
   "pages": {
     "lobby": {
-      "bootlegger_warning": "Aquesta sessió fa servir el Lòric Contrabandista; això vol dir que inclou regles personalitzades o personatges no inclosos en la versió oficial i que és més adequada per a jugadors amb experiència.\nSi encara no coneixeu Blood on the Clocktower, us recomanem que primer us familiaritzeu amb les regles i els personatges estàndard mitjançant un dels guions bàsics oficials. Trouble Brewing és ideal per a una primera partida!\nEn qualsevol cas, us donem la benvinguda; ens alegrem que sigueu aquí!\nSegur que voleu unir-vos a aquesta sessió?"
+      "bootlegger_warning": "Aquesta sessió fa servir el lòric Contrabandista; això vol dir que inclou regles personalitzades o personatges no inclosos en la versió oficial i que és més adequada per a jugadors amb experiència.\nSi encara no coneixeu Blood on the Clocktower, us recomanem que primer us familiaritzeu amb les regles i els personatges estàndard mitjançant un dels guions bàsics oficials. Trouble Brewing és ideal per a una primera partida!\nEn qualsevol cas, us donem la benvinguda; ens alegrem que sigueu aquí!\nSegur que voleu unir-vos a aquesta sessió?"
     }
   },
   "session": {
-    "name_placeholder": "Nom de la sessió de joc",
+    "name_placeholder": "Nom de la sessió",
     "prompt_public_text": "Segur que voleu fer pública la sessió?\nAixò permetrà que qualsevol persona la vegi i s’hi uneixi.",
-    "prompt_public_title": "Fes pública la sessió de joc",
+    "prompt_public_title": "Fes pública la sessió",
     "tags": "Etiquetes de la partida pública",
-    "title_create": "Crea una sessió de joc",
-    "title_current": "Sessió de joc actual"
+    "title_create": "Crea una sessió",
+    "title_current": "Sessió actual"
   }
 }
