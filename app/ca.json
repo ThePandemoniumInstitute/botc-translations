@@ -390,6 +390,7 @@
     "rules": {
       "intro_part01": "Fa molt de temps",
       "intro_part02": "a la somnolenta Vila dels Corbs, durant una tempesta infernal, just a mitjanit… sentiu un crit. Correu cap a la plaça del poble per a investigar-ho i hi trobeu el vostre estimat narrador assassinat… travessat per l’agulla de les hores de la torre del rellotge, mentre la sang regalima sobre les llambordes. Suposeu que és obra d’un dimoni, i teniu raó: un dimoni que mata de nit i adopta forma humana de dia.",
+      "intro_part03": "Esteu a punt de rebre una fitxa vermella o blava. Si és blava, sou del bàndol bo; si és vermella, sou del bàndol malvat. Si sou del bàndol bo, l’objectiu és trobar i executar el dimoni. Si el dimoni mor, guanyen els bons. Si sou del bàndol malvat, l’objectiu és destruir la vila. Si només queden dos jugadors vius, guanyen els malvats.",
       "intro_part04": "La partida es divideix en dues fases: la fase de dia i la fase de nit. Durant el dia, parleu. Cadascú té una identitat secreta: un dels personatges de la llista. En general, els jugadors bons comparteixen tot el que saben i intenten esbrinar qui és qui. La majoria diran la veritat, però alguns tenen motius per mentir. Si sou del bàndol malvat, sens dubte heu de mentir! El millor és triar un personatge bo, fer-vos-hi passar i escampar tanta informació falsa com pugueu.",
       "intro_part05": "Durant la nit, les càmeres dels jugadors queden ocultes i el narrador en desperta alguns perquè facin servir l’habilitat o rebin informació. Quan el narrador us desperti, apareixerà un missatge emergent al centre de la pantalla. Seguiu-ne les instruccions per a comunicar-vos amb el narrador. Si, després de respondre-li, heu de tornar a obrir el missatge durant la nit, feu clic a «Informació de la nit», a l’angle superior dret de la pantalla.",
       "intro_part06": "Si el narrador us ha de parlar en privat, també us pot sol·licitar un xat de veu. La sol·licitud apareixerà al costat esquerre de la pantalla. Feu-hi clic per a entrar al xat, on podreu parlar en privat amb el narrador. Quan acabeu, premeu Retrocés o Supr per a tornar a la plaça del poble.",
@@ -586,7 +587,12 @@
       "mic_cam_blocked": "No es pot accedir a la càmera ni al micròfon",
       "mic_cam_query": "Accedeix a la càmera i al micròfon",
       "mic_only": "Accedeix només al micròfon",
-      "mic_query": "S’estan consultant els permisos del micròfon"
+      "mic_query": "S’estan consultant els permisos del micròfon",
+      "no_devices": "No s’ha trobat cap dispositiu adequat",
+      "self_listen": "Escolta’t",
+      "start": "Inicia",
+      "step": "Pas {0}:",
+      "text": "Aquesta configuració intentarà accedir a la càmera web i al micròfon quan premeu {0}. Si es produeix cap error, es mostrarà sota el pas corresponent."
     },
     "user": {
       "prompt_kick": "Segur que voleu expulsar {0} de la sessió?"
