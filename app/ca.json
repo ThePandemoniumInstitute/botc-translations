@@ -13,8 +13,8 @@
     "button_cancel": "Cancel·la",
     "button_close": "Tanca",
     "button_confirm": "Confirma",
-    "button_continue": "Continuar",
-    "button_deny": "Denegar",
+    "button_continue": "Continua",
+    "button_deny": "Denega",
     "button_logout": "Tanca la sessió",
     "button_search": "Cerca",
     "button_send": "Envia",
@@ -201,6 +201,27 @@
     "setup": {
       "button_rerun": "Executa de nou",
       "button_start": "Omocoa"
+    },
+    "user": {
+      "prompt_kick": "Segur que voleu expulsar {0} de la sessió de joc?"
     }
+  },
+  "overlays": {
+    "vote": {
+      "countdown_go": "Som-hi"
+    }
+  },
+  "pages": {
+    "lobby": {
+      "bootlegger_warning": "Aquesta sessió fa servir el Lòric Contrabandista; això vol dir que inclou regles personalitzades o personatges no inclosos en la versió oficial i que és més adequada per a jugadors amb experiència.\nSi encara no coneixeu Blood on the Clocktower, us recomanem que primer us familiaritzeu amb les regles i els personatges estàndard mitjançant un dels guions bàsics oficials. Trouble Brewing és ideal per a una primera partida!\nEn qualsevol cas, us donem la benvinguda; ens alegrem que sigueu aquí!\nSegur que voleu unir-vos a aquesta sessió?"
+    }
+  },
+  "session": {
+    "name_placeholder": "Nom de la sessió de joc",
+    "prompt_public_text": "Segur que voleu fer pública la sessió?\nAixò permetrà que qualsevol persona la vegi i s’hi uneixi.",
+    "prompt_public_title": "Fes pública la sessió de joc",
+    "tags": "Etiquetes de la partida pública",
+    "title_create": "Crea una sessió de joc",
+    "title_current": "Sessió de joc actual"
   }
 }
