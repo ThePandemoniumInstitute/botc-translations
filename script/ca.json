@@ -66,9 +66,9 @@
     "kickstarter": "Kickstarter"
   },
   "export": {
-    "copy-json": "Copieu el JSON",
-    "download-json": "Baixeu el JSON",
-    "pdf": "Imprimeix o exporta el PDF",
+    "copy-json": "Copiar el JSON",
+    "download-json": "Descarregar el JSON",
+    "pdf": "Imprimeix/Exporta el PDF",
     "png": "Exporta el PNG",
     "screenshot": {
       "failed-embed": "No s’han pogut incrustar algunes icones a la imatge exportada",
@@ -98,8 +98,8 @@
       "title": "Caçador, però sense Donzella"
     },
     "no-outsider-mod": {
-      "msg": "Sense cap modificació de forasters, els jugadors malvats no poden fer-se passar per forasters de manera creïble.",
-      "title": "Sense cap modificació de forasters"
+      "msg": "Sense modificació de forasters, els jugadors malvats no poden fer-se passar per forasters de manera creïble.",
+      "title": "Sense modificació de forasters"
     }
   },
   "keyword": {
@@ -119,7 +119,7 @@
   "new-script": "Guió nou",
   "print": {
     "ios": "Encara no s’admet la impressió des de dispositius iOS. Podeu provar-ho igualment, però és possible que el resultat no quedi bé.",
-    "not-first-night": "*Excepte la primera nit",
+    "not-first-night": "*No la primera nit",
     "too-many-characters": "El guió té massa personatges ({nchars}). El nombre màxim recomanat és 25. És possible que no s’imprimeixi correctament. Voleu continuar?"
   },
   "quick-add": "Cerca personatges…",
@@ -144,7 +144,7 @@
     "font-size": "Mida de la lletra",
     "font-size-larger": "Més gran",
     "font-size-normal": "Normal",
-    "force-one-column": "Forceu-ne una sola columna",
+    "force-one-column": "Força una sola columna",
     "language": "Idioma",
     "language-select-heading": "Selecció d’idioma",
     "print-columns": "Columnes d’impressió",
@@ -176,7 +176,7 @@
     "add-and-remove-characters-03": "Si feu servir un dispositiu mòbil, podeu obrir aquesta pestanya lliscant el dit cap a la dreta o prement el botó {menuIcon} de la part superior esquerra. Per tancar-la, llisqueu el dit cap a l’esquerra.",
     "add-and-remove-characters-04": "També podeu afegir personatges ràpidament mitjançant el camp d’addició ràpida, que podeu mostrar o amagar prement el botó {plusIcon}.",
     "add-and-remove-characters-heading": "Afegir i eliminar personatges",
-    "autosort-01": "De manera predeterminada, tots els guions queden automàticament {link}{sortIcon} {block}ordenats segons l’SAO{/block}{/link}. L’ordenació funciona fins i tot amb personatges casolans! Podeu activar o desactivar aquesta opció aquí.",
+    "autosort-01": "De manera predeterminada, tots els guions queden automàticament {link}{sortIcon} {block}ordenats segons el SAO{/block}{/link}. L’ordenació funciona fins i tot amb personatges casolans! Podeu activar o desactivar aquesta opció aquí.",
     "autosort-heading": "Ordenació automàtica",
     "final-01": "Això és tot per ara! Si voleu tornar a veure aquesta visita guiada, podeu fer-ho des del menú {block}{settingsIcon} Configuració{/block}.",
     "final-heading": "Gaudiu-ne!",
