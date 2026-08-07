@@ -30,7 +30,9 @@
     "too-few-minion": "No hi ha prou sequaços",
     "too-few-outsider": "No hi ha prou forasters",
     "too-few-townsfolk": "No hi ha prou vilatans",
+    "too-many-characters": "Hi ha massa personatges",
     "too-many-demon": "Massa dimonis",
+    "too-many-minion": "Massa sequaços",
     "too-many-outsider": "Massa forasters",
     "too-many-townsfolk": "Massa vilatans"
   },
@@ -133,6 +135,7 @@
   "script-name-placeholder": "Guió sense títol",
   "scripts": "Guions",
   "search-abilities": "Cerca habilitats",
+  "search-character": "Cerca personatges…",
   "search-names": "Cerca noms",
   "settings": {
     "allow-external-images": "Permet imatges externes",
