@@ -186,7 +186,7 @@
     "evil": "Ond",
     "evilwakes": "Onda vaknar",
     "falseinfo": "Falsk info",
-    "fauxpaw": "Luktar ond",
+    "fauxpaw": "Villospår",
     "fear": "Skräck",
     "finalnightnoattack": "En lugn natt",
     "friend": "Vän",
@@ -281,7 +281,7 @@
     "apprentice": {
       "ability": "Din första natt får du en Bybos förmåga (om du är god) eller en Kumpans (om du är ond).",
       "first": "Visa Lärlingen kortet *DU ÄR* och en Bybos eller Kumpans rollbricka. Byt ut Lärlingsbrickan mot den nya rollbrickan. :reminder:",
-      "flavor": "Många år har jag vandrat och studerat hantverket. Vilket hantverk? Bara det enkla folkets. Inget att oroa sig för. Inte än.",
+      "flavor": "Många år har jag vandrat och studerat hantverket. Vilket hantverk? Bara det enkla folkets. Inget att bekymra sig över. Inte än.",
       "name": "Lärlingen"
     },
     "artist": {
@@ -297,7 +297,7 @@
     },
     "atheist": {
       "ability": "Berättaren kan bryta mot reglerna, och om hen avrättas vinner goda laget, även om du är död. [Inga onda roller]",
-      "flavor": "Nu lägger vi ifrån oss allt onödigt gissande och larvig paranoia. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer.",
+      "flavor": "Nu lägger vi ifrån oss allt onödigt gissande och larvig paranoia. Det finns en fullständigt logisk förklaring till allt. Ja, kanske är det så att en tekopp kretsar kring planeten, för liten för att se, men jag dricker hellre mitt te från det högst verkliga porslinet i mina högst verkliga händer.",
       "name": "Ateisten"
     },
     "balloonist": {
@@ -322,7 +322,7 @@
     "barista": {
       "ability": "Varje natt, fram till skymningen, 1) blir en spelare frisk, nykter & får sann info, eller 2) dubblerar sin förmåga. Hen får veta vilket.",
       "first": "Välj en spelare. Väck hen, visa kortet *DU PÅVERKAS AV* & Baristans rollbricka, och ge en fingersignal. :reminder:",
-      "flavor": "Kaffe utan grädde? Jag är hemskt ledsen, men vi har slut på grädde – går det bra utan mjölk istället?",
+      "flavor": "Kaffe utan grädde, monsieur? Jag är hemskt ledsen, men vi har slut på grädde – går det bra utan mjölk istället?",
       "name": "Baristan",
       "other": "Välj en spelare. Väck hen, visa kortet *DU PÅVERKAS AV* & Baristans rollbricka, och ge en fingersignal. :reminder:"
     },
@@ -840,7 +840,7 @@
     },
     "lycanthrope": {
       "ability": "Varje natt* väljer du en levande spelare; om hen är god dör hen & Demonen dödar inte inatt. En god spelare registreras som ond.",
-      "flavor": "Bakom civilisationens tunna fernissa döljer sig ett ylande vanvett.",
+      "flavor": "Bakom civilisationens tunna fernissa döljer sig ett bottenlöst vanvett.",
       "name": "Lykantropen",
       "other": "Lykantropen väljer en spelare. :reminder:"
     },
@@ -896,7 +896,7 @@
     },
     "monk": {
       "ability": "Varje natt* väljer du en spelare (inte dig själv); hen är skyddad från Demonen inatt.",
-      "flavor": "Det blåser en grym och dödlig vind inatt. Kom, broder, och ta skydd i klostret medan stormen rasar. Jag svär vid mitt liv att du är säker här.",
+      "flavor": "Det blåser en grym och dödlig vind inatt. Kom, broder, och ta skydd i klostret medan stormen rasar. Jag svär vid mitt liv att du är trygg här.",
       "name": "Munken",
       "other": "Munken väljer en spelare. :reminder:"
     },
@@ -1059,7 +1059,7 @@
     },
     "recluse": {
       "ability": "Du kanske registreras som ond & som Kumpan eller Demon, även om du är död.",
-      "flavor": "Di va’na förbasta åhäver å kom’ å nada på marska mi. Ska fan te å skrata eft’er! Kas! Ja dreter i döbler ja å di gör bäst di i å höll se hissed frå tôfta mi. Kas, sa ja!",
+      "flavor": "Di va’na föbasta åhäver å kum’ å nada hänne å marska mi. Grr. Ul fan te å skrata eft’er sörbor! Kas! I dråner bågä på me i å ula skrömsla hissed fra tôfta mi. Kas, saja!",
       "name": "Enstöringen"
     },
     "revolutionary": {
@@ -1181,7 +1181,7 @@
     "summoner": {
       "ability": "Du får 3 bluffar. Natt 3 väljer du en spelare; hen blir en ond Demon som du väljer. [Ingen Demon]",
       "first": "Visa kortet *DE HÄR ROLLERNA ÄR INTE I SPEL*. Visa 3 goda rollbrickor som inte är i spel.",
-      "flavor": "Hell väktarna i nord; av mitt intellekt är ni sårade. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
+      "flavor": "Hell väktarna i nord; av mitt intellekt är ni huggna. Hell väktarna i öst; av min vilja är ni härskade. Hell väktarna i syd; av världen bortom denna är mysteriet avslöjat. Hell väktarna i väst; en sköld i mörkret.",
       "name": "Åkallaren",
       "other": "Byt ut Åkallarens påminnelse till den aktuella natten. :reminder: Om det är natt 3 så väljer Åkallaren en spelare & en Demon. Söv Åkallaren. Väck den valda spelaren. Visa kortet *DU ÄR*, den valda Demonens rollbricka & tummen ner."
     },
