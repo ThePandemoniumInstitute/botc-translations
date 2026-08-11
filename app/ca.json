@@ -223,5 +223,11 @@
     "tags": "Etiquetes de la partida pública",
     "title_create": "Crea una sessió",
     "title_current": "Sessió actual"
+  },
+  "user": {
+    "registration": "Data de registre"
+  },
+  "version": {
+    "since": "des de les {0}"
   }
 }
