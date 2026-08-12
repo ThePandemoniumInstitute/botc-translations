@@ -46,8 +46,8 @@
   "clear-script": "Vider le script",
   "click-drag-move": "Cliquer pour retirer, cliquer-déplacer pour déplacer",
   "close": "Fermer",
-  "commit-all-details": "Valider tous les personnages brouillon dans le script.",
-  "commit-details": "Valider ce presonnage dans le script pour qu'il ne soit pas retiré lors d'un tirage aléatoire.",
+  "commit-all-details": "Verrouiller tous les rôles du tirage dans le script.",
+  "commit-details": "Verrouiller ce rôle dans le script pour éviter qu'il ne soit retiré lors du tirage aléatoire.",
   "copy-script-link": "Copier le lien du script",
   "ctxmenu": {
     "copy-text": "Copier le texte",
@@ -72,8 +72,12 @@
     "download-json": "Télécharger le JSON",
     "pdf": "Imprimer/Exporter en PDF",
     "png": "Exporter en PNG",
+    "preview-export": "Options d'exportation et aperçu",
     "screenshot": {
+      "download-player-sheet": "Télécharger la fiche des joueurs",
+      "download-st-sheet": "Télécharger la fiche du Conteur",
       "failed-embed": "Certaines icônes n'ont pas pu être intégrées dans l'image exportée",
+      "overflow": "La fiche des joueurs ne contient pas tous les rôles. Retirez quelques rôles ou ajustez l'échelle dans le menu Options d'exportation.",
       "save": "Enregistrer",
       "share": "Partager"
     }
@@ -81,15 +85,17 @@
   "export-menu": "Menu d'exportation",
   "external-image-confirm": "Êtes vous sûr de vouloir autoriser les images personnalisés ? Un auteur de script malveillant pourrait s'en servir pour récupérer votre adresse IP. Le Pandemonium Institute n'a aucun contrôle sur les images fournies par d'autres utilisateurs de l'application.",
   "fabled-and-loric": "Légendaires & Loric",
+  "filter-showing": "Affichage",
   "filters": "Filtres",
   "help": "Aide",
   "import-description": "Cliquez ou glissez-déposez pour importer le script JSON",
   "import-description-kb": "ou collez JSON / URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... ou collez URL/JSON ici :",
   "import-json-error": "Aucun JSON valide trouvé à partir de",
+  "import-load-json": "Charger le JSON",
   "import-script": "Importer un script",
   "import-type-error": "Type de fichier incorrect, le fichier n'a pas été chargé.",
-  "import-typing-error": "Cette boîte sert à coller un JSON depuis un appareil mobile ou tactile. Il n'est pas possible de taper du texte ici.",
+  "import-typing-error": "Cette boîte existe pour permettre le collage de JSONs sur les appareils mobiles et tactiles. La saisie et l'envoi ne sont pas autorisés.",
   "interactions": {
     "+choirboy-king": {
       "msg": "Les scripts avec un Choriste doivent contenir un Roi.",
@@ -108,7 +114,7 @@
     "demon": "Démon|Démons",
     "fabled": "Légendaire|Légendaires",
     "first-night": "Première Nuit",
-    "loric": "Loric|Lorics",
+    "loric": "Loric|Loric",
     "minion": "Sbire|Sbires",
     "other-nights": "Autres Nuits",
     "outsider": "Marginal|Marginaux",
@@ -119,17 +125,69 @@
   "name": "Nom",
   "new-bootlegger-rule": "Nouvelle règle de Contrebandier…",
   "new-script": "Nouveau Script",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Exporter les pages",
+      "page-size": "Taille de la page",
+      "us-letter": "Lettre US"
+    },
+    "night-sheet": "Fiche de nuit",
+    "night-sheet-options": {
+      "include-travellers": "Inclure les Voyageurs"
+    },
+    "page-export-options": "Options de page et d'exportation",
+    "player-sheet": "Fiche joueur",
+    "player-sheet-options": {
+      "max-npcs-shown": "Nombre maximum de PNJ affichés",
+      "show-npc-names": "Afficher les noms des PNJ"
+    },
+    "reset": "Réinitialiser",
+    "restore-defaults": "Rétablir les paramètres par défaut",
+    "script": {
+      "landscape-player-sheet": "Fiche de joueur paysage",
+      "player-count": "Nombre de joueurs"
+    },
+    "script-options": "Options de script",
+    "st-sheet": "Fiche Conteur",
+    "st-sheet-options": {
+      "display-player-count": "Afficher le tableau du nombre de joueurs"
+    },
+    "theme": {
+      "author-font": "Police de l'auteur",
+      "balance": {
+        "infer": "Inférer",
+        "left": "Gauche",
+        "none": "Aucun",
+        "right": "Droite"
+      },
+      "balance-columns": "Équilibrer les colonnes",
+      "one-col": "Une colonne",
+      "standard": "Standard",
+      "theme": "Thème",
+      "title-font": "Police du titre"
+    },
+    "theme-options": "Options de thème",
+    "tweaks": {
+      "custom-icon-position": "Position d'icône personnalisée",
+      "custom-icon-size": "Taille d'icône personnalisée",
+      "size-mult": "Multiplicateur de taille"
+    },
+    "tweaks-heading": "Ajustements"
+  },
   "print": {
     "ios": "L'impression depuis un appareil iOS n'est pas encore supportée. Vous pouvez tout de même essayer, mais le résultat pourrait ne pas être beau.",
     "not-first-night": "* Sauf la première nuit",
     "too-many-characters": "Votre script contient trop de rôles ({nchars}). La quantité maximale recommandée est 25. La version imprimée pourrait ne pas s'afficher correctement. Continuer?"
   },
   "quick-add": "Chercher des rôles…",
-  "randomise": "Tirage aléatoire !",
-  "randomise-details": "Le tirage aléatoire va remplir votre script avec des personnages brouillon aléatoires.",
+  "randomise": "Aléatoire !",
+  "randomise-details": "Le générateur aléatoire complétera votre script avec des rôles tirés au sort.",
   "read-more": "Lire l'almanac/la page du wiki",
   "recommended-travellers": "Voyageurs Recommandés",
   "redo": "Refaire",
+  "restore-script": "Rétablir",
+  "restore-script-tooltip": "Rétablir un script récemment supprimé",
   "sao": "SAO",
   "script-name": "Nom du script",
   "script-name-placeholder": "Script sans nom",
@@ -138,6 +196,7 @@
   "search-character": "Chercher des rôles…",
   "search-names": "Recherche par nom",
   "settings": {
+    "advanced-heading": "Paramètres avancés",
     "allow-external-images": "Autoriser les Images Externes",
     "bloodstar-image-correction": "Correction des Images de Bloodstar",
     "bloodstar-image-correction-explanation": "Les icônes générées par bloodstar.xyz ont un peu d'espace vide en bas, et ne sont donc pas exactement centrées. Activer ce paramètre compense cet espace vide.",
@@ -150,52 +209,65 @@
     "force-one-column": "Forcer sur une seule Colonne",
     "language": "Langue",
     "language-select-heading": "Choix de la Langue",
+    "manage-homebrew-characters": "Rôles maisons",
+    "miscellaneous": "Divers",
     "print-columns": "Colonnes pour l'Impression",
     "print-compact-night-sheet": "Feuille de Nuit Compacte",
     "print-options-heading": "Options d'Impression",
     "print-player-count-table": "Afficher la Tableau du Nombre de Joueurs",
     "script-heading": "Paramètres du Script",
+    "script-scaling": "Échelle du script",
     "script-type": "Type de Script",
     "script-type-explanation": "Un script Teensyville est un script fait spécifiquement pour des petits nombres de joueurs (moins de 7 joueurs). Ils contiennent normalement moins de rôles qu'un script standard. Ce paramètre impacte seulement l'analyseur de script, le tirage aléatoire de rôles, et quelques éléments d'interface.",
     "script-type-standard": "Standard",
     "script-type-teensyville": "Teensyville",
     "show-analysis-icons": "Afficher les Icônes d'Analyse",
     "show-night-sheet": "Afficher la Feuille de Nuit",
-    "this-language": "Français"
+    "this-language": "Français",
+    "ui-scaling": "Échelle de l'interface",
+    "view-tour": {
+      "here": "ici",
+      "term": "Cliquez sur {0} pour revoir la visite guidée."
+    }
   },
   "settings-menu": "Paramètres",
   "show-all": "Tous les rôles",
   "show-script-analytics": "Afficher l'analyse du script",
   "toast": {
     "cannot-remove-bootlegger": "Il y a des rôles maison sur ce script, ce qui vous empêche de retirer le Contrebandier.",
-    "copied": "Copié dans le presse-papier !"
+    "copied": "Copié dans le presse-papier !",
+    "external-images": "Par mesure de sécurité, les images externes ne sont pas chargées par défaut. Vous pouvez les autoriser dans le menu Paramètres.",
+    "failed-import-script": "Impossible d'importer le script – {n} scripts sont déjà chargés. Veuillez d'abord supprimer un script pour faire de la place.",
+    "failed-import-script-link": "Échec de l'importation du lien du script – {n} scripts sont déjà chargés. Veuillez supprimer un script et réessayer.",
+    "failed-write-clipboard": "Impossible de copier dans le presse-papiers – votre navigateur ne prend pas en charge cette fonction ou manque d'autorisations."
   },
   "toggle-autosort": "Activer le tri automatique",
   "toggle-quick-input": "Activer la saisi rapide",
+  "toggle-sidebar-sort": "Inverser le tri des rôles",
   "tour": {
-    "add-and-remove-characters-01": "Vous pouvez {bold}ajouter un rôle{/bold} depuis le panneau de rôle. Cliquez sur le rôle à ajouter.",
-    "add-and-remove-characters-02": "Pour {bold}retirer un rôle{/bold}, cliquez à nouveau dessus ici, ou cliquez sur son icône dans le script.",
+    "add-and-remove-characters-01": "Vous pouvez {bold}ajouter un rôle{bold$} depuis l'onglet des rôles. Cliquez sur n'importe quel rôle pour l'ajouter.",
+    "add-and-remove-characters-02": "Pour {bold}retirer un rôle{bold$}, cliquez à nouveau dessus ici, ou cliquez sur son icône dans le script.",
     "add-and-remove-characters-03": "Si vous utilisez un appareil mobile, vous pouvez ouvrir ce panneau en balayant simplement vers la droite ou en appuyant sur le bouton {menuIcon} en haut à gauche. Vous pouvez le fermer en balayant vers la gauche.",
     "add-and-remove-characters-04": "Vous pouvez aussi ajouter des rôles rapidement en utilisant le champs \"ajout rapide\", que vous pouvez activer ou désactiver en appuyant sur le bouton {plusIcon}.",
     "add-and-remove-characters-heading": "Ajouter et retirer des rôles",
-    "autosort-01": "Par défaut, tous les scripts sont automatiquement triés dans l'ordre {link}{sortIcon}{block}SAO{/block}{/link}. Cela fonctionne même pour les personnages faits maison ! Vous pouvez activer ou désactiver cette option ici.",
+    "autosort-01": "Par défaut, tous les scripts sont automatiquement {link}{sortIcon} {block}triés dans l'ordre SAO{block$}{link$} – cela fonctionne même pour les rôles faits maisons ! Cela peut être activé ou désactivé ici.",
     "autosort-heading": "Tri automatique",
-    "final-01": "C'est tout pour le moment ! Si vous voulez revoir cette visite guidée, vous pouvez le faire depuis le menu {block}{settingsIcon} paramètres{/block}.",
+    "final-01": "C'est tout pour le moment ! Si vous souhaitez revoir cette visite guidée, vous pouvez le faire depuis le menu {block}{settingsIcon} paramètres{block$}.",
     "final-heading": "Amusez-vous !",
-    "import-export-share-01": "Vous pouvez {block}{importIcon} importer{/block}, {block}{exportIcon} exporter{/block} ou {block}partager{/block} des scripts ici. Les personnages et scripts faits maison sont aussi supportés !",
-    "import-export-share-02": "Cliquer sur le bouton {block}Copier le lien du script{/block} dans le menu {block}exporter{/block} vous donnera un ‘lien de script’ spécial, qui permettra à tout le monde de voir votre script directement dans l'outil.",
-    "import-export-share-03": "Vous pouvez revoir cette visite guidée dans le menu {block}{settingsIcon} paramètres{/block}.",
+    "import-export-share-01": "Vous pouvez {block}{importIcon} importer{block$}, {block}{exportIcon} exporter{block$} ou {block}partager{block$} des scripts d'ici. Les rôles et scripts faits maison sont pris en charge !",
+    "import-export-share-02": "Cliquer sur le bouton {block}Copier le lien du script{block$} dans le menu {block}exporter{block$} vous donnera un ‘lien de script’ spécial, qui permet à n'importe qui de consulter votre script directement dans l'outil.",
+    "import-export-share-03": "Vous pouvez également revoir cette visite depuis le menu {block}{settingsIcon} Paramètres{block$}.",
     "import-export-share-heading": "Importer, exporter et partager",
-    "multiple-scripts-01": "Vous pouvez cliquer sur le panneau {heading}scripts{/heading} ici pour voir tous les scripts sur lesquels vous avez travaillé.",
-    "multiple-scripts-02": "Vous pouvez alterner entre les {bold}25 derniers scripts{/bold} ici.",
+    "multiple-scripts-01": "Vous pouvez cliquer sur l'onglet {heading}scripts{heading$} ici pour voir tous les scripts sur lesquels vous avez travaillé.",
+    "multiple-scripts-02": "Vous pouvez passer d'un script à l'autre parmi les {bold}25 scripts récents{bold$} ici.",
     "multiple-scripts-heading": "Travailler sur plusieurs scripts",
     "script-analytics-01": "Si il y a des problèmes avec votre script, ils seront affichés ici.",
     "script-analytics-heading": "Analyseur de script",
-    "script-name-and-authors-01": "Le {bold}nom du script et ses auteurs{/bold} peuvent être changés ici.",
+    "script-name-and-authors-01": "Le {bold}nom du script et les auteurs{bold$} peuvent être modifiés ici.",
     "script-name-and-authors-heading": "Nom du script et auteurs",
-    "undo-redo-01": "Pas d'inquiétude si vous faites une erreur ! Vous pouvez toujours {block}{undoIcon} annuler{/block} ou {block}{redoIcon} refaire{/block}. Vous pouvez aussi vider le script en cliquant sur le bouton {binIcon}.",
+    "undo-redo-01": "Si vous vous trompez, pas de panique ! Vous pouvez toujours {block}{undoIcon} annuler{block$} ou {block}{redoIcon} rétablir{block$}. Vous pouvez aussi vider le script en cliquant sur le bouton {binIcon}.",
     "undo-redo-heading": "Annuler et refaire",
-    "welcome-01": "Ceci est un tout nouveau outil de script pour {bold}Blood on the Clocktower{/bold} ! Cette visite guidée va vous donner un aperçu rapide des fonctionnalités de base et vous permettre de vous lancer.",
+    "welcome-01": "Il s'agit d'un tout nouvel outil de création de scripts pour {bold}Blood on the Clocktower{bold$} ! Cette visite guidée vous donnera un aperçu rapide des fonctionnalités de base pour vous lancer.",
     "welcome-heading": "Bienvenue !"
   },
   "undo": "Annuler",
