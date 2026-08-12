@@ -88,8 +88,7 @@
     "script-type-standard": "Standardní",
     "show-analysis-icons": "Zobrazit ikony analýzy",
     "show-night-sheet": "Zobrazit noční list",
-    "this-language": "Angličtina",
-    "view-tour": "Klikni {link}zde{/link} pro znovu zobrazení prohlídky."
+    "this-language": "Angličtina"
   },
   "tour": {
     "add-and-remove-characters-01": "V záložce postav můžeš {bold}přidat postavu{/bold}. Klikni na libovolnou postavu, kterou chceš přidat.",
