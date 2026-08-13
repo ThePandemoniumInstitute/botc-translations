@@ -1,4 +1,9 @@
 {
+  "jinxes": {
+    "drunk-mathematician": "Il Matematico scopre se l'abilità dell'Ubriaco ha prodotto informazioni false o non ha funzionato correttamente.",
+    "lunatic-mathematician": "Il Matematico scopre se il Lunatico ha attaccato un giocatore diverso da quello attaccato dal vero Demone.",
+    "marionette-mathematician": "Il Matematico scopre se l'abilità della Marionetta ha fornito informazioni false o non ha funzionato correttamente."
+  },
   "roles": {
     "fibbin": {
       "flavor": "Ha-ha-ha. Ha. Ha. Ha."
