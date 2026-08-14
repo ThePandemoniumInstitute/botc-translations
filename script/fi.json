@@ -72,6 +72,7 @@
     "download-json": "Lataa JSON",
     "pdf": "Tulosta/Vie PDF",
     "png": "Vie PNG",
+    "preview-export": "Vientiasetukset & Esikatselu",
     "screenshot": {
       "failed-embed": "Joitakin kuvakkeita ei voitu upottaa vietyyn kuvaan",
       "save": "Tallenna",
@@ -119,6 +120,22 @@
   "name": "Nimi",
   "new-bootlegger-rule": "Uusi Trokarisääntö …",
   "new-script": "Uusi Kässäri",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Vie Sivut",
+      "us-letter": "US Letter"
+    },
+    "theme": {
+      "author-font": "Tekijäfontti",
+      "balance-columns": "Sarakkeiden Tasaus",
+      "one-col": "Yksi Sarake",
+      "standard": "Vakio",
+      "theme": "Teema",
+      "title-font": "Otsikon Fontti"
+    },
+    "theme-options": "Teema-asetukset"
+  },
   "print": {
     "ios": "Tulostamista iOS-laitteilta ei vielä tueta. Voit silti yrittää, mutta se saattaa näyttää huonolta.",
     "not-first-night": "* Ei ekana yönä",
@@ -138,6 +155,7 @@
   "search-character": "Etsi hahmoja …",
   "search-names": "Etsi nimiä",
   "settings": {
+    "advanced-heading": "Lisäasetukset",
     "allow-external-images": "Salli Ulkoiset Kuvat",
     "bloodstar-image-correction": "Bloodstar Kuvien Korjaus",
     "bloodstar-image-correction-explanation": "Bloodstar.xyz luomilla kuvakkeilla on pieni määrä pehmustetta pohjassa, joten ne eivät ole täysin keskitettyjä. Tämän asetuksen salliminen poistaa pehmusteen.",
@@ -150,6 +168,8 @@
     "force-one-column": "Pakota Yksi Sarake",
     "language": "Kieli",
     "language-select-heading": "Kielivalinta",
+    "manage-homebrew-characters": "Kotipolttoiset Hahmot",
+    "miscellaneous": "Sekalaiset",
     "print-columns": "Tulosta Sarakkeet",
     "print-compact-night-sheet": "Tiivis Yöluettelo",
     "print-options-heading": "Tulostinvalinnat",
@@ -157,11 +177,15 @@
     "script-heading": "Kässäriasetukset",
     "script-type": "Kässäriluokka",
     "script-type-explanation": "Pikkukylä-skripti on kässäri, joka on tehty erityisesti pienemmille pelaajamäärille (alle 7 pelaajaa). Näissä on yleensä vähemmän hahmoja kuin tavallisessa käsikirjoituksessa. Tämä asetus vaikuttaa vain kässärianalytiikkaan, satunnaistajaan ja joihinkin käyttöliittymän elementteihin.",
-    "script-type-standard": "Standardi",
+    "script-type-standard": "Vakio",
     "script-type-teensyville": "Pikkukylä",
     "show-analysis-icons": "Näytä Analyysikuvakkeet",
     "show-night-sheet": "Näytä Yöluettelo",
-    "this-language": "Suomi"
+    "this-language": "Suomi",
+    "view-tour": {
+      "here": "tästä",
+      "term": "Klikkaa {0} nähdäksesi esittelykierroksen uudelleen."
+    }
   },
   "settings-menu": "Asetukset",
   "show-all": "Kaikki Hahmot",
