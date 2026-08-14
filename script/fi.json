@@ -70,11 +70,14 @@
   "export": {
     "copy-json": "Kopioi JSON",
     "download-json": "Lataa JSON",
-    "pdf": "Tulosta/Vie PDF",
+    "pdf": "Vie PDF",
     "png": "Vie PNG",
     "preview-export": "Vientiasetukset & Esikatselu",
     "screenshot": {
+      "download-player-sheet": "Lataa Pelaaja-arkki",
+      "download-st-sheet": "Lataa Tarinankertoja-arkki",
       "failed-embed": "Joitakin kuvakkeita ei voitu upottaa vietyyn kuvaan",
+      "overflow": "Kaikki hahmot eivät mahtuneet pelaaja-arkkiin. Poista joitain hahmoja tai muuta skaalausta Vientiasetukset-valikossa.",
       "save": "Tallenna",
       "share": "Jaa"
     }
@@ -82,12 +85,14 @@
   "export-menu": "Vientivalikko",
   "external-image-confirm": "Oletko varma, että haluat sallia mukautetut kuvat? Haitallisen kässäritiedoston kirjoittaja saattaa seurata IP-osoitettasi tällä tavalla. The Pandemonium Institute ei pysty vaikuttamaan muiden toimittamiin kuviin.",
   "fabled-and-loric": "Tarunomaiset & Satuiset",
+  "filter-showing": "Näytetään",
   "filters": "Suodattimet",
   "help": "Ohje",
   "import-description": "Tuo kässäri JSON-muodossa napsauttamalla tai tänne vetämällä",
   "import-description-kb": "tai liitä JSON / URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... tai liitä URL/JSON tänne:",
   "import-json-error": "Kelvollisen JSON-tiedoston lataaminen epäonnistui",
+  "import-load-json": "Avaa JSON",
   "import-script": "Tuo kässäri",
   "import-type-error": "Väärä tiedostotyyppi, tiedostoa ei ladattu.",
   "import-typing-error": "Tähän ruutuun voi liittää JSON:n mobiililla tai kosketusnäyttöisillä laitteilla. Näppäileminen ei ole sallittua.",
@@ -124,17 +129,51 @@
     "export": {
       "a4": "A4",
       "export-pages": "Vie Sivut",
+      "page-size": "Sivukoko",
       "us-letter": "US Letter"
+    },
+    "night-sheet": "Yöluettelo",
+    "night-sheet-options": {
+      "include-travellers": "Sisällytä Kulkurit"
+    },
+    "page-export-options": "Sivun ja Viennin Asetukset",
+    "player-sheet": "Pelaaja-arkki",
+    "player-sheet-options": {
+      "max-npcs-shown": "NPC Maksimimäärä",
+      "show-npc-names": "Näytä NPC-nimet"
+    },
+    "reset": "Nollaa",
+    "restore-defaults": "Palauta Oletusasetukset",
+    "script": {
+      "landscape-player-sheet": "Pelaaja-arkki Vaakatasoon",
+      "player-count": "Pelaajamäärä"
+    },
+    "script-options": "Kässärivalinnat",
+    "st-sheet": "Tarinankertoja-arkki",
+    "st-sheet-options": {
+      "display-player-count": "Näytä Pelaajamäärätaulukko"
     },
     "theme": {
       "author-font": "Tekijäfontti",
+      "balance": {
+        "infer": "Päättele",
+        "left": "Vasen",
+        "none": "Ei mitään",
+        "right": "Oikea"
+      },
       "balance-columns": "Sarakkeiden Tasaus",
       "one-col": "Yksi Sarake",
       "standard": "Vakio",
       "theme": "Teema",
       "title-font": "Otsikon Fontti"
     },
-    "theme-options": "Teema-asetukset"
+    "theme-options": "Teema-asetukset",
+    "tweaks": {
+      "custom-icon-position": "Mukautettu Kuvakesijainti",
+      "custom-icon-size": "Mukautettu Kuvakekoko",
+      "size-mult": "Kokokerroin"
+    },
+    "tweaks-heading": "Hienosäädöt"
   },
   "print": {
     "ios": "Tulostamista iOS-laitteilta ei vielä tueta. Voit silti yrittää, mutta se saattaa näyttää huonolta.",
@@ -147,6 +186,8 @@
   "read-more": "Lue almanakan/wikin kirjaus",
   "recommended-travellers": "Suositellut Kulkurit",
   "redo": "Tee uudelleen",
+  "restore-script": "Palauta",
+  "restore-script-tooltip": "Palauta äskettäin poistettu kässäri",
   "sao": "SAO",
   "script-name": "Kässärin nimi",
   "script-name-placeholder": "Nimetön Kässäri",
@@ -175,6 +216,7 @@
     "print-options-heading": "Tulostinvalinnat",
     "print-player-count-table": "Näytä Pelaajamäärätaulukko",
     "script-heading": "Kässäriasetukset",
+    "script-scaling": "Kässäriskaalaus",
     "script-type": "Kässäriluokka",
     "script-type-explanation": "Pikkukylä-skripti on kässäri, joka on tehty erityisesti pienemmille pelaajamäärille (alle 7 pelaajaa). Näissä on yleensä vähemmän hahmoja kuin tavallisessa käsikirjoituksessa. Tämä asetus vaikuttaa vain kässärianalytiikkaan, satunnaistajaan ja joihinkin käyttöliittymän elementteihin.",
     "script-type-standard": "Vakio",
@@ -182,6 +224,7 @@
     "show-analysis-icons": "Näytä Analyysikuvakkeet",
     "show-night-sheet": "Näytä Yöluettelo",
     "this-language": "Suomi",
+    "ui-scaling": "UI-skaalaus",
     "view-tour": {
       "here": "tästä",
       "term": "Klikkaa {0} nähdäksesi esittelykierroksen uudelleen."
@@ -192,34 +235,39 @@
   "show-script-analytics": "Näytä kässärianalytiikka",
   "toast": {
     "cannot-remove-bootlegger": "Tässä kässärissä on kotipolttoisia hahmoja, joten et voi poistaa Trokaria.",
-    "copied": "Kopioitu leikepöydälle!"
+    "copied": "Kopioitu leikepöydälle!",
+    "external-images": "Ulkoisia kuvia ei ladata oletuksena turvallisuussyistä. Voit sallia ne asetusvalikosta.",
+    "failed-import-script": "Kässäriä ei voida tuoda– {n} kässäriä jo ladattu. Poista ensin kässäri tehdäksesi tilaa muille.",
+    "failed-import-script-link": "Kässärilinkin tuonti epäonnistui – {n} kässäriä jo ladattu. Poista kässäri ja yritä uudelleen.",
+    "failed-write-clipboard": "Leikepöydälle kirjoitus epäonnistui – selaimellasi ei ole siihen kykyä tai käyttöoikeuksia."
   },
   "toggle-autosort": "Automaattisen lajittelun vaihto",
   "toggle-quick-input": "Pikalisäysvalinta",
+  "toggle-sidebar-sort": "Hahmolajittelun vaihto",
   "tour": {
-    "add-and-remove-characters-01": "Voit {bold}lisätä hahmon{/bold} hahmot-välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
-    "add-and-remove-characters-02": "{bold}Poistaaksesi hahmon{/bold}, klikkaa sitä uudelleen täällä, tai sen kuvaketta kässärissä.",
+    "add-and-remove-characters-01": "Voit {bold}lisätä hahmon{bold$} hahmot-välilehdeltä. Klikkaa mitä tahansa hahmoa, jonka haluat lisätä.",
+    "add-and-remove-characters-02": "{bold}Poistaaksesi hahmon{bold$}, klikkaa sitä uudelleen täällä, tai sen kuvaketta kässärissä.",
     "add-and-remove-characters-03": "Mikäli olet puhelimellasi, voit avata tämän välilehden pyyhkäisemällä oikealle tai napauttamalla {menuIcon} -painiketta ylävasemalla. Voit sulkea sen pyyhkäisemällä vasemmalle.",
     "add-and-remove-characters-04": "Voit myös lisätä hahmoja käyttämällä 'pikalisäys' -syötettä, jonka saat esiin/pois painamalla {plusIcon} -painiketta.",
     "add-and-remove-characters-heading": "Hahmojen lisääminen ja poistaminen",
-    "autosort-01": "Oletuksena kaikki kässärit ovat automaattisesti {link}{sortIcon}{block} SAO-lajiteltu {/block}{/link} – systeemi toimii myös kotipolttoisilla hahmoilla! Asetusta voi säätää tästä.",
+    "autosort-01": "Oletuksena kaikki kässärit ovat automaattisesti {link}{sortIcon}{block} SAO-lajiteltu {block$}{link$} – systeemi toimii myös kotipolttoisilla hahmoilla! Asetusta voi säätää tästä.",
     "autosort-heading": "Automaattinen lajittelu",
-    "final-01": "Se oli kaikki tältä erää! Jos haluat katsoa esittelyn uudestaan, voit tehdä niin {block}{settingsIcon} asetukset {/block} -valikosta.",
+    "final-01": "Se oli kaikki tältä erää! Jos haluat katsoa esittelyn uudestaan, voit tehdä niin {block}{settingsIcon} asetukset {block$} -valikosta.",
     "final-heading": "Pelin iloa!",
-    "import-export-share-01": "Voit {block}{importIcon} tuoda{/block}, {block}{exportIcon} viedä{/block} tai {block}jakaa{/block} kässäreitä täältä. Myös kotipolttoiset hahmot ja kässärit ovat tuettuina!",
-    "import-export-share-02": "Klikkaamalla {block}Kopio Kässärin Linkki{/block} -painiketta {block}vie{/block} -valikossa saat erityisen ‘kässärilinkin’, jonka avulla kuka tahansa voi tarkastella kässäriäsi suoraan työkalussa.",
-    "import-export-share-03": "Voit katsoa tämän esittelyn uudestaan {block}{settingsIcon} asetukset {/block} -valikosta.",
-    "import-export-share-heading": "Tuo, vie ja jakaminen",
-    "multiple-scripts-01": "Voit klikata {heading}kässäri{/heading} -välilehteä täältä nähdäksesi kaikki työstämäsi kässärit.",
-    "multiple-scripts-02": "Voit vaihtaa jopa {bold}25 viimeisimmän kässärin{/bold} välillä täältä.",
+    "import-export-share-01": "Voit {block}{importIcon} tuoda{block$}, {block}{exportIcon} viedä{block$} tai {block}jakaa{block$} kässäreitä täältä. Myös kotipolttoiset hahmot ja kässärit ovat tuettuina!",
+    "import-export-share-02": "Klikkaamalla {block}Kopio Kässärin Linkki{block$} -painiketta {block}vie{block$} -valikossa saat erityisen ‘kässärilinkin’, jonka avulla kuka tahansa voi tarkastella kässäriäsi suoraan työkalussa.",
+    "import-export-share-03": "Voit katsoa tämän esittelyn uudestaan {block}{settingsIcon} asetukset {block$} -valikosta.",
+    "import-export-share-heading": "Tuonti, vienti ja jakaminen",
+    "multiple-scripts-01": "Voit klikata {heading}kässäri{heading$} -välilehteä täältä nähdäksesi kaikki työstämäsi kässärit.",
+    "multiple-scripts-02": "Voit vaihtaa jopa {bold}25 viimeisimmän kässärin{bold$} välillä täältä.",
     "multiple-scripts-heading": "Useiden kässärien työstö",
     "script-analytics-01": "Jos kässärissäsi on ongelmia, näkyvät ne täällä.",
     "script-analytics-heading": "Kässärianalytiikka",
-    "script-name-and-authors-01": "{bold}Kässärin nimeä ja tekijöitä{/bold} voi vaihtaa täältä.",
+    "script-name-and-authors-01": "{bold}Kässärin nimeä ja tekijöitä{bold$} voi vaihtaa täältä.",
     "script-name-and-authors-heading": "Kässärin nimi ja tekijät",
-    "undo-redo-01": "Jos teet virheen, ei hätää! Voit aina {block}{undoIcon} kumota{/block} tai {block}{redoIcon} korjata{/block} sen. Voit myös tyhjentää kässärin klikkaamalla {binIcon} -painiketta.",
+    "undo-redo-01": "Jos teet virheen, ei hätää! Voit aina {block}{undoIcon} kumota{block$} tai {block}{redoIcon} korjata{block$} sen. Voit myös tyhjentää kässärin klikkaamalla {binIcon} -painiketta.",
     "undo-redo-heading": "Kumoa ja uusi",
-    "welcome-01": "Tämä on upouusi kässärityökalu {bold}Blood on the Clocktower{/bold} -peliin! Tämä esittelykierros antaa sinulle nopean katsastuksen perustoimintoihin, jotta pääset alkuun.",
+    "welcome-01": "Tämä on upouusi kässärityökalu {bold}Blood on the Clocktower{bold$} -peliin! Tämä esittelykierros antaa sinulle nopean katsastuksen perustoimintoihin, jotta pääset alkuun.",
     "welcome-heading": "Tervetuloa!"
   },
   "undo": "Kumoa",
