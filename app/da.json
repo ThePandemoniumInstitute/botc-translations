@@ -14,10 +14,12 @@
     "button_close": "Luk",
     "button_confirm": "Bekræft",
     "button_continue": "Fortsæt",
+    "button_deny": "Afslå",
     "button_logout": "Log ud",
     "button_search": "Søg",
     "button_send": "Send",
     "cookie_policy": "Cookiepolitik",
+    "moderation_policy": "Moderations politik",
     "privacy_policy": "Privatlivspolitik",
     "session-tags": {
       "cameras": {
@@ -74,12 +76,14 @@
     },
     "demon": "Dæmon|Dæmoner",
     "fabled": "Sagnhelt|Sagnhelte",
+    "loric": "Loric",
     "minion": "Håndlanger|Håndlangere",
     "outsider": "Fremmed|Fremmede",
     "phases": {
       "day": "Første Dag|Dag {n}",
       "end": "Imellem spil",
       "first_night": "Første Nat",
+      "grim_reveal": "Protokol afsløring",
       "night": "Første Nat|Nat {n}",
       "other_nights": "Andre Nætter",
       "start": "Forbereder Nat 1"
@@ -111,6 +115,7 @@
     "gong_attention": "Opmærksomhedsgong",
     "gong_recall": "Tilbagekald til Torvet",
     "grim_access": "Du har fået adgang til Grimoiren",
+    "grim_request_user": "Tilskuer {0} har anmodet om protokol adgang:",
     "help": "Hjælp",
     "json_schema": "Manuskript JSON Skema",
     "leave": "Forlad Spil",
@@ -119,6 +124,7 @@
     "night_info": "Nat-info",
     "night_info_text": "Fortælleren vækkede dig i nat!",
     "night_sheet": "Natteodreark",
+    "npcs": "Tilføj NPC'ere",
     "prompt_clear_player": "Er sikker på at du vil fjerne alle spillerkarakterer og huskebrikker?",
     "prompt_clear_st": "Dette vil rydde Grimoiren og Huskebrikker for dig og alle andre. Er du sikker?",
     "prompt_clear_title": "Ryd Grimoire og Huskebrikker",
@@ -128,6 +134,7 @@
     "prompt_vacate_title": "Forlad Sæde",
     "push_to_talk": "Tryk [{0}] for at tale",
     "raise_hand": "Rejs Hånd",
+    "report_issue": "Rapporter et problem",
     "request_private": "Anmod Privat Chat",
     "reveal_grim": "Afslør Grimoire",
     "rules": "Læs Reglerne",
@@ -173,6 +180,8 @@
         "avatar_pixel": "Dit billede var for stort. Skaler det ned til mindre end 4000x4000 før du uploader igen.",
         "avatar_size": "Din fil var for stor. Prøv igen med et billede mindre end 5 MB filstørrelse.",
         "avatar_type": "Din fil var ikke genkendt som et billede.",
+        "block_text": "Der var en fejl under opdatering af din blokeringsliste.",
+        "block_title": "Fejl under opdatering af blokeringsliste",
         "bluffs": "Fejl ved opdatering af bluffs",
         "chat2_text": "Chatserveren ser ud til at være offline",
         "chat2_title": "Chatserver Afbrudt",
@@ -180,7 +189,11 @@
         "chat_title": "Der opstod en fejl i chatforbindelsen",
         "claiming": "Fejl ved at tage sædet",
         "clear_grim": "Kan ikke rydde Grimoire",
+        "clear_history": "Kan ikke rydde spilhistorik",
         "connection": "Der opstod en forbindelsesfejl",
+        "create_generic": "Serveren kunne ikke skabe din session.",
+        "create_rate_limit": "Du skal vente et par minutter, før du kan oprette en ny session.",
+        "create_session_exists": "En session med dette navn findes allerede.",
         "edition_change": "Fejl ved ændring af udgave",
         "end": "Fejl ved afslutning af spil",
         "eyes_close": "Kan ikke lukke øjne",
@@ -196,6 +209,7 @@
         "missing_roles": "Denne session indeholder tilpassede karakterer der ikke kan blive fundet. Indlæs dem før du deltager! Manglende roller: {0}",
         "missing_roles_title": "Fejl ved at indlæse tilpassede roller",
         "move_player": "Kan ikke flytte spiller",
+        "npcs": "Fejl ved opdatering af NPC'er",
         "offline": "Serveren ser ud til at være offline",
         "remove_player": "Kan ikke fjerne spiller",
         "remove_storyteller": "Fejl ved at fjerne Fortæller",
@@ -210,6 +224,7 @@
         "session_banned": "Du er bandlyst.",
         "session_full": "Denne session har allerede 25 brugere.",
         "session_general": "Fejl ved at forbinde til session.",
+        "session_join": "Kan ikke tilkoble sessionen",
         "session_locked": "Spilsessionen er blevet låst.\nKun siddende Spillere og Fortællere kan deltage.",
         "session_not_found": "Spilsession ikke fundet.",
         "session_public": "Du kan ikke deltage i offentlige sessioner.",
@@ -237,6 +252,7 @@
       "prompt": {
         "chat_text": "Appen har problemer med at nå chatserveren {0}. Vil du skifte til {1}?",
         "chat_title": "Skift Chatserver",
+        "join_block_title": "Blokerede brugere fundet",
         "join_placeholder": "Sessions-ID",
         "join_text": "Indtast nummeret eller navnet på spilsessionen du vil deltage i",
         "join_title": "Deltag i et spil",
@@ -285,10 +301,21 @@
       "error_size_text": "Manuskriptet du valgte har en størrelse på {0}MG, men den maksimale størrelse er {1}MB.",
       "homebrew_description": "Tilpassede billeder fra Hjemmelavede manuskripter er blevet erstattet med generiske billeder, af sikkerhedsmæssige årsager. Du kan aktivere dem i Indstillinger.",
       "homebrew_title": "Tilpassede Billeder Deaktiveret",
+      "monthly_script": "Månedens manuskript:",
       "theme": "Tema:",
       "theme_generic": "Generisk tema:",
       "title": "Vælg en udgave:",
       "upload_custom": "Upload Tilpasset Manuskript JSON"
+    },
+    "npc": {
+      "title": "Tilføj en ikke-spillerfigur"
+    },
+    "playnice": {
+      "button": "Jeg forstår",
+      "terms": "Find online brugsbetingelserne her",
+      "text1": "I et spil med bedrag og løgn, er det vigtigt at holde tingene respektfulde og venlige.",
+      "text2": "Hvis du observerer opførsel, der går over grænsen, rapporter da venligst dette igennem appen, eller via {0}.",
+      "text2_email": "Email"
     },
     "reminder": {
       "custom_favorite": "Gemt som favorit",
@@ -299,6 +326,43 @@
       "tab2": "Andre Påmindelser",
       "title": "Tilføj Huskebrik til {0}"
     },
+    "report": {
+      "attachment": "Skærmbillede / Bilag (op til 3)",
+      "button_attachment": "Tilføj Bilag",
+      "description": "Beskrivelse",
+      "description2": "Beskriv venligst det problem du oplever, eller detaljerne i din anmodning. Vi vil automatisk inkludere den nuværende sessions navn, din brugerkontos detaljer og andet teknisk metadata",
+      "description_placeholder": "Beskriv dit problem i detaljer her",
+      "error": "Fejl ved indsendelse af rapport",
+      "error_attachment_limit": "Du kan kun tilføje op til 3 bilag.",
+      "error_attachment_text": "De bilag du har valgt har en størrelse på {0}MB, men maksimal størrelse er {1}MB.",
+      "error_attachment_title": "Fejl under indsendelse af bilag",
+      "error_timeout": "Vent mindst 60 sekunder, før du indsender en ny rapport. Du må kun indsende op til 5 rapporter i timen.",
+      "reason": {
+        "cheating": "Snyd eller spilødelæggende adfærd",
+        "conduct": "Spilleropførsel",
+        "feature": "Komponent anmodning",
+        "harassment": "Chikane eller mobning",
+        "hatespeech": "Hadtale og Diskriminisation",
+        "other": "Andet (beskriv herunder)",
+        "safety": "Sikkerhed & Privatliv",
+        "spamming": "Spam",
+        "technical": "Teknisk problem"
+      },
+      "reason_general": "Hvad kan vi hjælpe dig med?",
+      "reason_placeholder": "Vælg et emne",
+      "reason_user": "Hvorfor rapporterer du denne bruger?",
+      "screenshot": "Skærmbillede ({0}kb)",
+      "screenshot_approve": "Vil du bruge dette skærmbillede?",
+      "screenshot_error": "Fejl under tagning af skærmbillede",
+      "screenshot_take": "Tag Skærmbillede",
+      "subject": "Emne",
+      "subject_placeholder": "En kort gennemgang af din rapport",
+      "submitting": "Indsender...",
+      "success_text": "Tak for indsendelse af rapport. Vores medarbejdere vender tilbage til dig hurtigst muligt via den Emailadresse der er tilknyttet sin konto. Din rapport vil blive sporet under nummeret #{0}.",
+      "success_title": "Rapport sendt!",
+      "title_general": "Rapporter et problem",
+      "title_user": "Rapporter en bruger"
+    },
     "role": {
       "error_character": "Ingen karakter matchende {0} blev fundet.",
       "error_traveller": "Ingen Rejsende matchende {0} blev fundet.",
@@ -307,7 +371,8 @@
       "title": "Vælg en {alignment} {type} {target}",
       "title_alignment_e": "Ond",
       "title_alignment_g": "God",
-      "title_alignment_r": "standard"
+      "title_alignment_r": "standard",
+      "title_type_character": "karakter"
     },
     "roles": {
       "button_distribute": "Del ud {0} karakterer",
@@ -320,6 +385,12 @@
       "warning": "Advarsel: der er valgte karakterer der ændrer spillets opsætning! Du skal selv tage højde for disse."
     },
     "rules": {
+      "intro_part01": "For længe siden",
+      "intro_part04": "Spillet er opdelt i to faser: en dagfase og en natfase. I løbet af dagen taler I. I vil hver især have en hemmelig identitet, en karakter på listen. Generelt deler de gode spillere alt, hvad de ved, og forsøger at finde ud af, hvem der er hvem. De fleste gode spillere vil fortælle sandheden, men nogle har et incitament til at lyve. Hvis du er ond, bør du helt sikkert lyve! Det er bedst at vælge en god karakter at foregive at være og sprede så mange falske oplysninger som muligt.",
+      "intro_part05": "Om natten er spillerkameraerne skjult, og historiefortælleren vækker nogle spillere, så de kan bruge deres evne eller få en form for information. Når historiefortælleren vækker dig, vises en pop op-meddelelse midt på skærmen. Følg instruktionerne for at kommunikere med historiefortælleren i pop op-vinduet. Hvis du om natten har brug for at få adgang til pop op-vinduet efter at have svaret historiefortælleren, skal du klikke på \"Natinfo\" i øverste højre hjørne af skærmen.",
+      "intro_part06": "Hvis historiefortælleren har brug for at diskutere noget privat med dig, kan de også anmode om en stemmechat. Chatanmodningen vises i venstre side af din skærm.Klik på den for at deltage i chatten. Mens du er i chatten, kan du tale privat med historiefortælleren. Når du er færdig, skal du trykke på backspace eller delete for at vende tilbage til torvet.",
+      "intro_part07": "De fleste af jer vil dø. Det er en god ting! I Ravenswood Bluff er døden ikke enden. Nogle spillere vil måske endda gerne dø, da de får information, når de gør det. Hvis du er død, deltager du stadig i spillet, du kan stadig tale, og du vinder eller taber stadig, når dit hold vinder eller taber.",
+      "tab2": "Før den første nominering",
       "title": "Regler"
     },
     "settings": {
@@ -1017,7 +1088,11 @@
     "players_alive": "{0} / {1} spillere i live",
     "reload": "Venligst genindlæs eller ryd din browser cache for at få den seneste version.",
     "since": "siden {0}",
+    "translation_content": "Brug oversættelser af spilindhold",
+    "translation_disclaimer1": "Du bruger i øjeblikket en lokaliseret version af appen.",
+    "translation_disclaimer2": "Denne oversættelse er udarbejdet og gennemgået af følgende frivillige, som ikke er tilknyttet The Pandemonium Institute:",
     "translation_game": "Denne oversættelse af spillets indhold afspejler muligvis ikke nøjagtigt de officielle engelske regler, som er skrevet af The Pandemonium Institute.",
+    "travellers_alive": "{0} / {1} Rejsende I live",
     "update": "Venligst opdater!",
     "updating": "Opdaterer app til version {0}...",
     "warning_browser": "Du bruger en ældre eller ikke understøttet browser",
