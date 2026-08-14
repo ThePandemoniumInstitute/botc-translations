@@ -1228,7 +1228,7 @@
       "name": "Wdowa"
     },
     "witch": {
-      "ability": "Każdej nocy wybierz gracza: jeśli jutro nominuje, umiera. Jeżeli w grze jest tylko 3 graczy, tracisz tę umiejętność."
+      "ability": "Każdej nocy wybierz gracza: jeżeli jutro nominuje, umiera. Jeżeli żyje tylko 3 graczy, tracisz tę umiejętność."
     },
     "wizard": {
       "name": "Czarodziej"
@@ -1249,7 +1249,7 @@
       "first": "Wybierz tajemną frazę. Obudź Yaggababble i przekaż frazę.",
       "flavor": "Zabójstwo przy Rue Morgue? Фальшивые новости! Psy na wrzosowisku Baskerville? Фальшивые новости! Śmierć podczas rejsu na Nilu? Фальшивые новости!",
       "name": "Yaggababble",
-      "other": "Za każde wypowiedzenie przez Yaggababble jej frazy, któryś z graczy może umrzeć. :reminder:"
+      "other": "Za każde wypowiedzenie przez Yaggababble jej frazy, gracz może umrzeć. :reminder:"
     },
     "zealot": {
       "ability": "Jeżeli żyje 5 lub więcej graczy, musisz głosować podczas każdej nominacji.",
