@@ -10,6 +10,12 @@
   "reminders": {
     "amigo": "Amic",
     "friend": "Amic",
+    "hat": "Cap",
     "whoopsie": "Ups!"
+  },
+  "roles": {
+    "demoninfo": {
+      "first": "Si hi ha set o més jugadors, desperta el dimoni: Mostra-li la targeta *AQUESTS SÓN ELS TEUS SEQUAÇOS*. Assenya-la tots els sequaços. Mostra-li la targeta *AQUESTS PERSONATGES NO SÓN A LA PARTIDA*. Mostra-li tres fitxes de personatge que no siguin a la partida."
+    }
   }
 }
