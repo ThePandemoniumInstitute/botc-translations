@@ -119,6 +119,13 @@
   "name": "Nom",
   "new-bootlegger-rule": "Nova regla del Contrabandista…",
   "new-script": "Guió nou",
+  "preview": {
+    "theme": {
+      "balance": {
+        "none": "Cap"
+      }
+    }
+  },
   "print": {
     "ios": "Encara no s’admet la impressió des de dispositius iOS. Podeu provar-ho igualment, però és possible que el resultat no quedi bé.",
     "not-first-night": "*No la primera nit",
