@@ -1,5 +1,12 @@
 {
   "export": {
     "pdf": "Eksporter PDF"
+  },
+  "tour": {
+    "add-and-remove-characters-01": "Du kan {bold}tilføje en karakter{bold$} fra karakterfanen. Klik på den karakter du ønsker at tilføje.",
+    "add-and-remove-characters-02": "For at {bold}fjerne en karakter{bold$}, klik på den her, eller klik på dens ikon i manuskriptet.",
+    "script-name-and-authors-01": "{bold}Manuskriptnavn og forfattere{bold$} kan ændres her.",
+    "undo-redo-01": "Laver du fejl, så bare rolig! Du kan altid {block}{undoIcon} fortryde{block$} eller {block}{redoIcon} gentage{block$} det. Du kan også tømme manuskriptet ved at klikke på {binIcon}knappen.",
+    "welcome-01": "Dette er et spritnyt manuskriptværktøj til  {bold}Blood on the Clocktower{bold$}! Denne rundtur vil give dig et hurtigt overblik over de grundlæggende funktioner, for at få dig godt i gang."
   }
 }
