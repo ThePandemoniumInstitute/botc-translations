@@ -398,7 +398,7 @@
       "intro_part10": "Du kan sige hvad du vil når som helst.",
       "intro_part11": "Dette er et samtalespil. Du kan tale offentligt med gruppen eller have private samtaler, det er op til dig.",
       "intro_part12": "Ikke smugkigge,",
-      "intro_part13": "Spil venligst med integritet, og brug aldrig andre enheder eller udefrakommende hjælp til at få indblik i Trolddomsbogen, da denne indeholder alle spillets karakterer. Hvis du ser noget du ikke burde, vil det ødelægge udfordringen.",
+      "intro_part13": "Spil venligst med integritet, og brug aldrig eksterne værktøjer eller hjælp til at få adgang til Sortebogsvisningen, da den indeholder alle spillets karakterer. Hvis du ser noget, du ikke burde se, vil det ødelægge fornøjelsen ved spillet.",
       "intro_part14": "Ret alle spørgsmål du har til Fortælleren.",
       "intro_part15": "Hvis du bliver forvirret, eller ikke forstår hvordan din karakter virker, eller ikke forstår hvordan karakteren du bluffer som virker, eller hvis der sker noget om natten du ikke forstår, eller du bare har brug for et strategisk råd... hvad end det måtte være, bare spørg. Fortælleren er neutral, og deres job er at hjælpe dig til at forstå reglerne og nyde spillet. Tag kontakt hvis du har spørgsmål. Tal privat, hvis ingen andre må vide hvilket spørgsmål du stiller.",
       "intro_part16": "Spil ordenligt.",
@@ -431,7 +431,7 @@
       "nomination": {
         "bigwig": {
           "text": "Hver nomineret vælger en spiller: Indtil afstemningen er det kun dem, der må tale, og de er gal over, at den nominerede er god, ellers risikerer de selv at dø.",
-          "title": "Dommeren"
+          "title": "Højesteretsdommer"
         },
         "focus": {
           "text": "Den nominerede spiller har gruppens opmærksomhed.",
@@ -533,6 +533,7 @@
         "toggleAudioMuted": "Gør Stum / Tryk-og-Tal",
         "toggleEdition": "Vælg Udgave",
         "toggleFullscreen": "Fuldskærm",
+        "toggleNPCs": "Tilføj spillerløs karakter",
         "toggleNight": "Skift til Nat / Dag",
         "toggleNightOrder": "Natrækkefølge",
         "toggleNightSignal": "Vis Natinfo",
@@ -856,6 +857,7 @@
     "external": {
       "button": "Fortsæt til ekstern hjemmeside",
       "description": "Du er ved at skifte til følgende eksterne hjemmeside:",
+      "disclaimer": "The Pandemonium Institute har ingen kontrol over indholdet af hjemmesiden",
       "title": "Bemærk: Du er ved at forlade BOTC Appen"
     },
     "lobby": {
