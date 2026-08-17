@@ -404,6 +404,7 @@
       "intro_part18": "Det er tid til nomineringer.",
       "intro_part19": "For at nominere en spiller, bare sig deres navn. For eksempel: \"Jeg nominerer Bob.\" Når en spiller nomineres stemmer alle om hvorvidt de skal henrettes eller ej. Fortælleren vil bekendtgøre at afstemningen begynder, og afstemningsanimationen vil vise sig på skærmen. Den stemmetællende urviser vil bevæge sig med uret, og du kan bruge Mellemrumstasten som genvej, eller OP og NED knapperne midt på skærmen, for at løfte eller sænke din hånd. Hvis din hånd er løftet idet urviseren peger på dig, har du stemt. Hvis din hånd er sænket, har du ikke stemt.",
       "intro_part20": "Hver dag må du stemme for så få eller mange spillere du ønsker, og hvem der end har flest stemmer, vil blive henrettet. Spilleren skal have et antal stemmer der svaret til mindst 50% af de levende spillere, ellers vil ingen henrettelse foregå. Ved stemmelighed bliver ingen spiller henrettet.",
+      "intro_part21": "Selvom du dør, er du stadig en vigtig del af spillet. Du kan stadig tale sammen med de andre, og alle spilleres kameraer er fortsat skjulte i natfasen. Vigtigst af alt vinder eller taber du sammen med dit hold. Faktisk afgøres spillet ofte af de døde spilleres stemmer og meninger. Når du dør, mister du din karakterevne og kan ikke længere indstille nogen til afstemning; desuden har du kun én stemme tilbage til resten af spillet, så brug den med omtanke.",
       "tab2": "Før den første nominering",
       "title": "Regler"
     },
@@ -412,6 +413,7 @@
       "background_text": "Indtast en tilpasset baggrund-URL, eller efterlad den blank for at fjerne en tilpasset baggrund.",
       "background_title": "Tilpasset Baggrund",
       "button_always": "Altid",
+      "button_login": "Sociale logins",
       "button_setup": "Kør Opsætningen",
       "button_verify": "Bekræft Konto",
       "css_apply": "Anvend Tilpassede CSS-regler?",
@@ -421,9 +423,11 @@
       "css_title": "Indtast Tilpasset CSS",
       "image_text": "Er du sikker på at du vil tillade tilpassede billeder? En ondsindet manuskriptfils forfatter kan spore din IP-adresse på denne måde. The Pandemonium Institute har ingen kontrol over billeder leveret af appens andre brugere.",
       "image_title": "Tillad tilpassede billeder",
+      "link_to": "Log ind på {0}",
       "linked_to": "Du er nu logget ind på {0}",
       "nomination": {
         "bigwig": {
+          "text": "Hver nomineret vælger en spiller: Indtil afstemningen er det kun dem, der må tale, og de er gal over, at den nominerede er god, ellers risikerer de selv at dø.",
           "title": "Dommeren"
         },
         "focus": {
@@ -519,6 +523,7 @@
         "modalUsers": "Brugere",
         "modeGather": "Saml Dine Spillere",
         "raiseHand": "Rejs Hånd",
+        "reloadApp": "Genindlæs App",
         "revealGrimoire": "Afslør Grimoire",
         "setTimer": "Sæt Timer",
         "toggleAudioDeafened": "Gør Døv",
@@ -541,6 +546,7 @@
         "chatLeave": "Afslut offentlig chat",
         "countdown": "Nedtælling",
         "privateJoin": "Start privat chat",
+        "privateLeave": "Forlad privat chat",
         "privateRequest": "Anmod privat chat",
         "timerGong": "Timerafslutnings-gong",
         "voteCast": "Stemme afgivet",
@@ -793,6 +799,7 @@
     "vote": {
       "accusation": "Anklagelse",
       "button_chat": "Åben Chat",
+      "button_clear_selection": "Ryd valg",
       "button_countdown": "Nedtælling",
       "button_defense": "Gå til Forsvar",
       "button_hand_down": "NED",
@@ -803,10 +810,12 @@
       "button_reset": "Nulstil",
       "button_restart": "Genstart",
       "button_resume": "Genoptag",
+      "button_select_player": "Vælg Spiller",
       "button_start": "Start",
       "choose_defense_attorney": "Vælg en forsvarsadvokat!",
       "countdown_go": "Kør",
       "defense": "Forsvar",
+      "defense_attorney": "Forsvarsadvokat",
       "highscore_placeholder": "højeste stemmetal",
       "highscore_text": "Indtast et nyt nummer for dagens højeste stemmetal\n eller efterlad det tomt for det normale flertal for levende spillere.",
       "highscore_title": "Skift Højeste Stemmetal",
