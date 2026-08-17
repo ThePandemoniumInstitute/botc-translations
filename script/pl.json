@@ -81,6 +81,7 @@
   "export-menu": "Menu eksportu",
   "external-image-confirm": "Czy jesteś pewien, że chcesz włączyć ładowanie zewnętrznych obrazów? Jeśli twórca pliku skryptu ma złe intencje, pozwoli mu to śledzić twój adres IP. The Pandemonium Institute nie ma kontroli nad obrazami udostępnianymi przez innych użytkowników aplikacji.",
   "fabled-and-loric": "Legendy i Mity",
+  "filter-showing": "Pokazuje",
   "filters": "Filtry",
   "help": "Pomoc",
   "import-description": "Kliknij albo przesuń i upuść aby zaimportować skrypt z JSONa",
@@ -119,6 +120,19 @@
   "name": "Nazwa",
   "new-bootlegger-rule": "Nowa reguła przemytnika …",
   "new-script": "Nowy Skrypt",
+  "preview": {
+    "export": {
+      "us-letter": "Listowy (US)"
+    },
+    "player-sheet-options": {
+      "max-npcs-shown": "Limit nazw NPCów"
+    },
+    "theme": {
+      "balance": {
+        "infer": "Wywnioskować"
+      }
+    }
+  },
   "print": {
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
     "not-first-night": "* Nie pierwszej nocy",
