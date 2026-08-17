@@ -127,16 +127,53 @@
   "new-script": "Nowy Skrypt",
   "preview": {
     "export": {
+      "a4": "A4",
+      "export-pages": "Wyeksportuj strony",
+      "page-size": "Wielkość strony",
       "us-letter": "Amerykański list (DL)"
     },
+    "night-sheet": "Arkusz nocy",
+    "night-sheet-options": {
+      "include-travellers": "Uwzględnij Wędrowców"
+    },
+    "page-export-options": "Opcje układu strony i eksportu",
+    "player-sheet": "Arkusz gracza",
     "player-sheet-options": {
-      "max-npcs-shown": "Limit pokazywanych NPCów"
+      "max-npcs-shown": "Limit pokazywanych NPCów",
+      "show-npc-names": "Pokaż nazwy NPCów"
+    },
+    "reset": "Zresetuj",
+    "restore-defaults": "Przywróć ustawienia domyślne",
+    "script": {
+      "landscape-player-sheet": "Horyzontalny arkusz gracza",
+      "player-count": "Liczba graczy"
+    },
+    "script-options": "Opcje skryptu",
+    "st-sheet": "Arkusz Bajarza",
+    "st-sheet-options": {
+      "display-player-count": "Wyświetl wykaz ilości graczy"
     },
     "theme": {
+      "author-font": "Czcionka autora",
       "balance": {
-        "infer": "Wywnioskować"
-      }
-    }
+        "infer": "Wywnioskować",
+        "left": "Lewo",
+        "none": "Brak",
+        "right": "Prawo"
+      },
+      "balance-columns": "Wyrównaj kolumny",
+      "one-col": "Jedna kolumna",
+      "standard": "Standard",
+      "theme": "Motyw",
+      "title-font": "Czcionka tytułu"
+    },
+    "theme-options": "Opcje motywu",
+    "tweaks": {
+      "custom-icon-position": "Niestandardowe położenie ikon",
+      "custom-icon-size": "Niestandardowy rozmiar ikon",
+      "size-mult": "Mnożnik rozmiaru"
+    },
+    "tweaks-heading": "Ulepszenia"
   },
   "print": {
     "ios": "Wydruk z urządzeń iOS nie jest jeszcze wspierany. Możesz spróbować, ale może on nie wyglądać dobrze.",
@@ -149,6 +186,8 @@
   "read-more": "Przeczytaj almanach/stronę wiki",
   "recommended-travellers": "Zalecani Wędrowcy",
   "redo": "Ponów",
+  "restore-script": "Przywróć",
+  "restore-script-tooltip": "Przywróć niedawno usunięty skrypt",
   "sao": "SAO",
   "script-name": "Tytuł skryptu",
   "script-name-placeholder": "Skrypt Bez Tytułu",
@@ -197,11 +236,14 @@
   "toast": {
     "cannot-remove-bootlegger": "Ten skrypt zawiera postacie chałupnicze, więc nie możesz usunąć Przemytnika.",
     "copied": "Skopiowane do schowka!",
+    "external-images": "Zewnętrzne obrazy nie są ładowane domyślnie ze względów bezpieczeństwa. Możesz to zmienić z poziomu ustawień.",
     "failed-import-script": "Nie można załadować skryptu - załadowano już {n} skryptów. Usuń któryś skrypt, aby zrobić miejsce i spróbuj jeszcze raz.",
-    "failed-import-script-link": "Załadowanie skryptu z linku się nie powiodło - {n} skrypt jest już załadowany. Usuń skrypt i spróbuj jeszcze raz."
+    "failed-import-script-link": "Załadowanie skryptu z linku się nie powiodło - {n} skrypt jest już załadowany. Usuń skrypt i spróbuj jeszcze raz.",
+    "failed-write-clipboard": "Nie można było zapisać w schowku - twoja przeglądarka tego nie obsługuje albo nie masz uprawnień."
   },
   "toggle-autosort": "Przełącz automatyczne sortowanie",
   "toggle-quick-input": "Szybkie szukanie",
+  "toggle-sidebar-sort": "Przełącz sortowanie postaci",
   "tour": {
     "add-and-remove-characters-01": "Możesz {bold}dodać postać{bold$} z zakładki postaci. Kliknij na dowolną postać, którą chcesz dodać.",
     "add-and-remove-characters-02": "Aby {bold}usunąć postać{bold$} kliknij ją ponownie lub kliknij na jej ikonę na skrypcie.",
