@@ -230,7 +230,7 @@
     "safe": "Bezpieczny",
     "soberhealthy": "Trzeźwy i Zdrowy",
     "somethingbad": "Coś złego",
-    "stormcaught": "Rażony Piorunem",
+    "stormcaught": "Chroniony",
     "storytellerability": "Umiejętność Bajarza",
     "survivesexecution": "Przeżywa egzekucje",
     "teapartytonight": "Czas na herbatkę",
@@ -682,7 +682,7 @@
     "harpy": {
       "ability": "Każdej nocy wybierz 2 graczy: jutro, pierwszy gracz ma obsesję, że drugi jest zły, inaczej jeden z nich lub oboje mogą umrzeć.",
       "first": "Harpia wybiera dwóch graczy. :reminder: :reminder: Uśpij Harpię. Obudź pierwszego gracza, pokaż mu kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Harpii, a następnie wskaż na drugiego gracza.",
-      "flavor": "Tak piękny dzień nie zdarzył się przede mną, lecz cień plugawy wisi dziś nade mną.",
+      "flavor": "Dnia tak pięknego nie miałem jeszcze, lecz duch szpetny i pierzasty powoduje u mnie dreszcze.",
       "name": "Harpia",
       "other": "Harpia wybiera dwóch graczy. :reminder: :reminder: Uśpij Harpię. Obudź pierwszego gracza, pokaż mu kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Harpii, a następnie wskaż na drugiego gracza."
     },
@@ -1001,7 +1001,7 @@
       "name": "Siewca Maku"
     },
     "preacher": {
-      "ability": "Każdej nocy wybierz gracza: Sługus, jeżeli wybrany, dowiaduje się o tym. Wszystkie wybrane w ten sposób Sługusy nie mają umiejętności.",
+      "ability": "Każdej nocy wybierz gracza: jeśli wybierzesz Sługusa, dowiaduje się o tym. Wszyscy wybrani Sługusi tracą swoje umiejętności.",
       "first": "Kaznodzieja wybiera gracza. :reminder: Jeżeli wybrał Sługusa: uśpij Kaznodzieję. Obudź wybranego gracza. Pokaż kartę *TA POSTAĆ CIĘ WYBRAŁA* i żeton Kaznodziei.",
       "flavor": "Lepiej jest być bogatym i zdrowym, niż biednym i chorym.",
       "name": "Kaznodzieja",
@@ -1009,7 +1009,7 @@
     },
     "princess": {
       "ability": "Jeżeli pierwszego dnia w grze nominowałaś gracza i doszło do jego egzekucji, Demon nie zabije tej nocy.",
-      "flavor": "Nasze słowa są jak ogary, spętane jedwabnymi nićmi, drodzy Państwo. Niech życzliwość tka prawdę, aby nasze władanie się nie rozpruło rozdarłszy nasz dwór.",
+      "flavor": "Nasze słowa są jak ogary, spętane jedwabnymi nićmi, drodzy Państwo. Niech życzliwość tka z nich prawdę, aby smycze się nie rozpruły, rozdzierając nasz dwór.",
       "name": "Księżniczka",
       "other": "Jeżeli Księżniczka nominowała gracza, który został stracony tego dnia, Demon budzi się normalnie, ale nikt nie umiera w wyniku umiejętności Demona. :reminder:"
     },
@@ -1047,7 +1047,7 @@
     },
     "revolutionary": {
       "ability": "Wiadomo, że 2 sąsiadujących graczy jest w tej samej drużynie. Raz na grę, jeden z nich może się pokazać niepoprawnie.",
-      "flavor": "Zjednoczeni, kłamaliśmy w zgodzie. Podzieleni, nie ruszyliśmy dalej.",
+      "flavor": "Zjednoczeni, udawaliśmy. Podzieleni, utknęliśmy.",
       "name": "Rewolucjonista"
     },
     "riot": {
@@ -1108,16 +1108,16 @@
     },
     "snakecharmer": {
       "name": "Zaklinacz Węży",
-      "other": "Zaklinacz Węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół (zły). Zamień żeton Zaklinacza Wężów i Demona. Uśpij starego Zaklinacza Wężów. Obudź starego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza Węży oraz kciuk w górę (dobry). :reminder:"
+      "other": "Zaklinacz węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół. Zamień żeton Zaklinacza węży i Demona. Uśpij poprzedniego Zaklinacza węży. Obudź poprzedniego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza węży oraz kciuk w górę. :reminder:"
     },
     "snitch": {
-      "ability": "Każdy ze Sługusów dostaje 3 blefy.",
+      "ability": "Każdy Sługus dostaje 3 blefy.",
       "first": "Obudź każdego Sługusa. Pokaż kartę *TYCH POSTACI NIE MA W GRZE* i 3 żetony dobrych postaci, których nie ma w grze.",
       "flavor": "To był John.",
       "name": "Kapuś"
     },
     "soldier": {
-      "flavor": "Jak Dawid rzekł do Goliata, jak Tezeusz rzekł do Minotaura, jak Arjuna rzekł do Bhagadatta... Nie.",
+      "flavor": "Jak Dawid rzekł do Goliata, jak Tezeusz rzekł do Minotaura, jak Arjuna rzekł do Bhagadatty... Nie.",
       "name": "Żołnierz"
     },
     "spiritofivory": {
@@ -1136,8 +1136,8 @@
       "flavor": "Jak ŚMIESZ oskarżać Jej Dostojność o takie występki? Znam ją moje całe życie! Wszystkie dziewięć lat!"
     },
     "stormcatcher": {
-      "ability": "Wymień dobrą postać. Jeżeli w grze, może umrzeć jedynie w skutek egzekucji, ale źli gracze dowiadują się który to gracz.",
-      "first": "Ogłoś, która postać jest pod ochroną Łapacza Burzy. Jeżeli ta postać jest w grze, oznacz ją przypominajką *BEZPIECZNY*. Obudź każdego złego gracza i pokaż żeton postaci, następnie wskaż gracza. Jeżeli nie ma jej w grze, obudź każdego złego gracza, pokaż kartę *TYCH POSTACI NIE MA W GRZE* i żeton odpowiedniej postaci.",
+      "ability": "Wymień dobrą postać. Jeżeli jest w grze, może umrzeć jedynie przez egzekucję, ale źli gracze dowiadują się, który to gracz.",
+      "first": "Ogłoś, która postać jest pod ochroną Łowcy Burz. Jeżeli ta postać jest w grze, oznacz ją przypominajką *CHRONIONY*. Obudź każdego złego gracza i pokaż żeton tej postaci, następnie wskaż gracza. Jeżeli nie ma jej w grze, obudź każdego złego gracza, pokaż kartę *TYCH POSTACI NIE MA W GRZE* i żeton odpowiedniej postaci.",
       "name": "Łowca Burz"
     },
     "summoner": {
