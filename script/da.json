@@ -1,6 +1,30 @@
 {
+  "analysis": {
+    "maximum-character-recommendation": "Det anbefalede maksimale antal karakterer er {number}.",
+    "maximum-character-recommendation-teensy": "Det anbefalede maksimale antal karakterer i Teensyville er {number}.",
+    "no-messages": "Intet at rapportere!",
+    "range-between-recommendation-full-demon": "Det anbefales at have mellem {lower} og {upper} dæmoner.",
+    "range-between-recommendation-full-minion": "Det anbefales at have mellem {lower} og {upper} håndlangere.",
+    "range-exact-recommendation-full-demon": "Det anbefales at have præcis {number} dæmoner.",
+    "too-few-demon": "Ikke nok Dæmoner",
+    "too-few-minion": "Ikke nok håndlangere",
+    "too-many-demon": "For mange Dæmoner",
+    "too-many-minion": "For mange håndlangere"
+  },
   "export": {
-    "pdf": "Eksporter PDF"
+    "copy-json": "Kopier JSON",
+    "download-json": "Download JSON",
+    "pdf": "Eksporter PDF",
+    "png": "Eksporter PNG",
+    "preview-export": "Eksportindstillinger og forhåndsvisning",
+    "screenshot": {
+      "download-player-sheet": "Download Spillerark",
+      "download-st-sheet": "Download Fortællerark",
+      "failed-embed": "Nogle ikoner kunne ikke integreres i det eksporterede billede",
+      "overflow": "Spillerarket kunne ikke rumme alle tegnene. Fjern nogle tegn, eller juster skaleringen i menuen Eksportindstillinger.",
+      "save": "Gem",
+      "share": "Del"
+    }
   },
   "interactions": {
     "+choirboy-king": {
@@ -16,6 +40,35 @@
   "print": {
     "not-first-night": "* ikke den første nat",
     "too-many-characters": "Dit manuskript har for mange Karakterer ({nchars}). Det anbefalede maksimale antal er 25. Dette kan se forkert ud på skrift. Vil du fortsætte?"
+  },
+  "settings": {
+    "advanced-heading": "Avancerede indstillinger",
+    "allow-external-images": "Tillad eksterne billeder",
+    "bloodstar-image-correction": "Bloodstar-billedkorrektion",
+    "bloodstar-image-correction-explanation": "Ikonerne som bloodstar.xyz genererer har en lille smule margen i bunden, så de er ikke helt centrerede. Aktivering af denne indstilling forskyder denne margen.",
+    "compact-layout": "Kompakt layout",
+    "display-and-ui-heading": "Skærm og brugergrænseflade",
+    "external-images-heading": "Eksterne billeder",
+    "font-size": "Skriftstørrelse",
+    "font-size-larger": "Større",
+    "font-size-normal": "Normal",
+    "force-one-column": "Tving én kolonne",
+    "language": "Sprog",
+    "language-select-heading": "Valg af sprog",
+    "manage-homebrew-characters": "Hjemmelavede figurer",
+    "miscellaneous": "Diverse",
+    "print-columns": "Udskriv kolonner",
+    "print-compact-night-sheet": "Kompakt natark",
+    "print-options-heading": "Udskriftsindstillinger",
+    "print-player-count-table": "Vis tabel over spillerantal",
+    "script-type-standard": "Standard",
+    "show-analysis-icons": "Vis analyseikoner",
+    "show-night-sheet": "Vis natark",
+    "ui-scaling": "UI-skalering",
+    "view-tour": {
+      "here": "Her",
+      "term": "Klik på {0} for at se rundvisningen igen."
+    }
   },
   "tour": {
     "add-and-remove-characters-01": "Du kan {bold}tilføje en karakter{bold$} fra karakterfanen. Klik på den karakter du ønsker at tilføje.",
