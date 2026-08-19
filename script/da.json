@@ -2,6 +2,21 @@
   "export": {
     "pdf": "Eksporter PDF"
   },
+  "interactions": {
+    "+choirboy-king": {
+      "title": "Kordreng, men ingen Konge"
+    }
+  },
+  "keyword": {
+    "demon": "Dæmon|Dæmoner",
+    "loric": "Loric|Loric",
+    "minion": "Håndlanger|Håndlangere",
+    "traveller": "Rejsende|Rejsende"
+  },
+  "print": {
+    "not-first-night": "* ikke den første nat",
+    "too-many-characters": "Dit manuskript har for mange Karakterer ({nchars}). Det anbefalede maksimale antal er 25. Dette kan se forkert ud på skrift. Vil du fortsætte?"
+  },
   "tour": {
     "add-and-remove-characters-01": "Du kan {bold}tilføje en karakter{bold$} fra karakterfanen. Klik på den karakter du ønsker at tilføje.",
     "add-and-remove-characters-02": "For at {bold}fjerne en karakter{bold$}, klik på den her, eller klik på dens ikon i manuskriptet.",
