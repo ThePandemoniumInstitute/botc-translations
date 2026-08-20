@@ -890,6 +890,7 @@
       "language": "Sprog",
       "loading": "Indlæser spil...",
       "no_games": "Ingen offentlige spil fundet.",
+      "npcs": "Spillerløse Karakterer",
       "page": "Sige {page} af {total}",
       "phase": "Fase",
       "players": "Spillere",
@@ -904,16 +905,31 @@
       "welcome": "Velkommen til {0}!"
     },
     "login": {
+      "accept_policies": "Acceptér vores {0}, {1}, {2} & {3}.",
       "description": "Log in eller opret en konto for at fortsætte:",
       "email": "E-Mail Adresse",
       "error_captcha": "Udfyld captcha",
       "error_password": "Kodeord passer ikke",
       "login": "Log ind",
+      "login_with": "Log ind med {0}",
       "password": "Kodeord",
       "password_confirm": "Kodeord Bekræftelse",
       "password_reset": "Instruktioner til at nulstille dit kodeord er blevet sendt til den tilknyttede e-mailadresse.",
       "recover_password": "Gendan adgangskode",
       "register": "Registrer",
+      "social": {
+        "complete": "Login gennemført, du kan nu lukke dette vindue!",
+        "error": "Der skete en fejl:",
+        "error_already_linked": "Denne brugerkonto er allerede knyttet til en anden profil.",
+        "error_code_missing": "Godkendelsen blev afbrudt.",
+        "error_general": "Noget uventet gik galt.",
+        "error_grant_expired": "Godkendelseslinket er udløbet.",
+        "error_nonce_missing": "Kan ikke bekræfte godkendelsesanmodningen.",
+        "logging_in": "Logger dig ind...",
+        "status": "Kontoen er forbundet med {0}",
+        "try_again": "Luk dette vindue og prøv igen.",
+        "updating_account": "Opdaterer din konto..."
+      },
       "social_login": "Eller brug socialt login:",
       "subscribe": "Tilmeld dig Nyhedsbrevet",
       "title": "Velkommen til Blood on the Clocktower Online - Under Konstruktion!",
@@ -970,7 +986,8 @@
       "night_info_received": "Natinfo modtaget",
       "night_info_sent": "Natinfo sendt",
       "nominate": "Nominér denne spiller",
-      "point": "Peg på denne spiller"
+      "point": "Peg på denne spiller",
+      "select": "Vælg denne spiller"
     },
     "reminders": {
       "add": "Tilføj Påmindelse",
@@ -1031,9 +1048,11 @@
       "download": "Download Manuskript-JSON",
       "error_popout": "Fejl ved opretning af vindue",
       "error_save": "Fejl ved at gemme fil",
+      "error_size": "Manuskriptet er for stort",
       "jinxes": "Jinxes",
       "other_nights": "Ikke den\nførste nat",
-      "popout": "Pop-ud karakter fane"
+      "popout": "Pop-ud karakterfane",
+      "popout_window": "Åbn karakterfanen i et nyt vindue"
     },
     "characters": {
       "title": "Karakterer"
@@ -1080,6 +1099,7 @@
       "title": "Stemme"
     },
     "night": {
+      "popout": "Pop-ud natfaseark",
       "toggle": "Skift visning af ark for natfasen"
     },
     "npcs": {
@@ -1101,6 +1121,7 @@
       "prompt_spectator": "Tilskuerchat",
       "prompt_system": "Systembeskeder",
       "prompt_user": "Til {0}",
+      "sender_blocked": "afsender blokeret",
       "system": {
         "death": "{0} er død.",
         "end_evil": "Spillet er slut og det Onde hold har vundet!",
@@ -1129,6 +1150,7 @@
   "user": {
     "avatar_enabled": "Synligt profilbillede",
     "blocked": "Blokeret",
+    "blocked_on_date_as_name": "på {0} som {1}",
     "camera_enabled": "Synligt kamera",
     "error_avatar_text": "Profilbilledet du har valgt har en størrelse på {0}MB, men den maksimale størrelse er {1}MB.",
     "error_avatar_title": "Filstørrelse for stor",
@@ -1142,7 +1164,7 @@
     "registration": "Registrering",
     "statistics": "Statistikker",
     "stats": {
-      "edition": "Top spillede\nudgaver",
+      "edition": "Mest populære\nUdgaver",
       "homebrew": "En hjemmebrygget karakter",
       "loading": "Indlæser statistikker...",
       "none": "Ingen",
