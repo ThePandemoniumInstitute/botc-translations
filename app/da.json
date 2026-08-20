@@ -286,7 +286,7 @@
       "button_paste": "Indsæt",
       "button_upload": "Upload",
       "button_url": "URL",
-      "clear_description": "Dette vil rydde Grimoiren og Huskebrikker for dig og alle andre. Er du sikker?",
+      "clear_description": "Dette vil rydde Trolddomsbogen og Huskebrikker for dig og alle andre. Er du sikker?",
       "clear_title": "Ryd Grimoire og Huskebrikker",
       "custom_placeholder": "Tilpasset Manuskript URL",
       "custom_text": "Indtast URL til en tilpasset-manuskript.json fil",
@@ -319,7 +319,8 @@
       "terms": "Find Brugsbetingelserne for Onlinespil her",
       "text1": "I et spil med bedrag og løgn, er det vigtigt at holde tingene respektfulde og venlige.",
       "text2": "Hvis du observerer opførsel, der går over grænsen, rapporter da venligst dette igennem appen, eller via {0}.",
-      "text2_email": "Email"
+      "text2_email": "Email",
+      "title": "Spil pænt!"
     },
     "reminder": {
       "custom_favorite": "Gemt som favorit",
@@ -344,6 +345,7 @@
       "reason": {
         "cheating": "Snyd eller Spil ødelæggende adfærd",
         "conduct": "Spilleropførsel",
+        "fake": "Falsk eller Duplikeret konto",
         "feature": "Komponent anmodning",
         "harassment": "Chikane eller mobning",
         "hatespeech": "Hadtale og Diskriminisation",
@@ -376,6 +378,7 @@
       "title_alignment_e": "Ond",
       "title_alignment_g": "God",
       "title_alignment_r": "standard",
+      "title_target": "til {0}",
       "title_type_bluff": "bluf",
       "title_type_character": "karakter"
     },
@@ -397,6 +400,7 @@
       "intro_part05": "Om natten er spillerkameraerne skjult, og historiefortælleren vækker nogle spillere, så de kan bruge deres evne eller få en form for information. Når historiefortælleren vækker dig, vises en pop op-meddelelse midt på skærmen. Følg instruktionerne for at kommunikere med historiefortælleren i pop op-vinduet. Hvis du om natten har brug for at få adgang til pop op-vinduet efter at have svaret historiefortælleren, skal du klikke på \"Natinfo\" i øverste højre hjørne af skærmen.",
       "intro_part06": "Hvis historiefortælleren har brug for at diskutere noget privat med dig, kan de også anmode om en stemmechat. Chatanmodningen vises i venstre side af din skærm.Klik på den for at deltage i chatten. Mens du er i chatten, kan du tale privat med historiefortælleren. Når du er færdig, skal du trykke på backspace eller delete for at vende tilbage til torvet.",
       "intro_part07": "De fleste af jer vil dø. Det er en god ting! I Ravenswood Bluff er døden ikke enden. Nogle spillere vil måske endda gerne dø, da de får information, når de gør det. Hvis du er død, deltager du stadig i spillet, du kan stadig tale, og du vinder eller taber stadig, når dit hold vinder eller taber.",
+      "intro_part08": "Der er en masse information i dette spil. Dog kan noget af det være forkert. Hvis du er fuld eller forgiftet, har du ingen evne, men fortælleren vil lade som om, du har. Fortælleren har lov til at lyve for dig - enhver information, du får, kan være forkert, men du vil ikke vide, om du er beruset eller forgiftet.For eksempel, hvis du er den fulde mand, trak du en anden karakterbrik ud af posen, og kun fortælleren ved, at du faktisk er den fulde mand. Eller, hvis Giftgiveren forgifter dig, kan du stadig vågne om natten for at bruge din evne, men det vil ikke virke.",
       "intro_part09": "Det kan være en masse information at tage ind på én gang, så for at holde tingene enkle er der kun fire ting, du skal huske:",
       "intro_part10": "Du kan sige hvad du vil når som helst.",
       "intro_part11": "Dette er et samtalespil. Du kan tale offentligt med gruppen eller have private samtaler, det er op til dig.",
@@ -910,6 +914,7 @@
       "password_reset": "Instruktioner til at nulstille dit kodeord er blevet sendt til den tilknyttede e-mailadresse.",
       "recover_password": "Gendan adgangskode",
       "register": "Registrer",
+      "social_login": "Eller brug socialt login:",
       "subscribe": "Tilmeld dig Nyhedsbrevet",
       "title": "Velkommen til Blood on the Clocktower Online - Under Konstruktion!",
       "username": "Brugernavn"
@@ -947,6 +952,7 @@
       "whisper": "Send Tekstbesked"
     },
     "name": {
+      "blocked": "Du har blokeret denne bruger.",
       "claim": "Klik for at tage",
       "connecting": "Denne spiller forbinder til stemmechatten.",
       "follow": "Du følger efter denne spiller.",
@@ -1073,6 +1079,14 @@
       "spectator": "Tilskuer",
       "title": "Stemme"
     },
+    "night": {
+      "toggle": "Skift visning af ark for natfasen"
+    },
+    "npcs": {
+      "remove_fabled": "Fjern Sagnomspundet",
+      "remove_loric": "Fjern Loric",
+      "title": "NPC´er"
+    },
     "text": {
       "channels": {
         "private": "Privat",
@@ -1114,6 +1128,7 @@
   },
   "user": {
     "avatar_enabled": "Synligt profilbillede",
+    "blocked": "Blokeret",
     "camera_enabled": "Synligt kamera",
     "error_avatar_text": "Profilbilledet du har valgt har en størrelse på {0}MB, men den maksimale størrelse er {1}MB.",
     "error_avatar_title": "Filstørrelse for stor",
