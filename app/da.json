@@ -869,6 +869,7 @@
       "title": "Bemærk: Du er ved at forlade BOTC Appen"
     },
     "lobby": {
+      "bootlegger_title": "Pas på!",
       "button_create_game": "Opret Spil",
       "button_help": "Hjælp",
       "button_join_game": "Deltag i Privat Spil",
