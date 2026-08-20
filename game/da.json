@@ -3,5 +3,22 @@
     "custom": {
       "name": "Tilpasset Manuskript"
     }
+  },
+  "jinxes": {
+    "marionette-mathematician": "Matematikeren lærer om Marionettens evne gav falsk info, eller ikke fungerede korrekt."
+  },
+  "reminders": {
+    "goal": "Mål",
+    "hat": "Hat",
+    "notme": "Ikke Mig",
+    "stormcaught": "Stormjaget"
+  },
+  "roles": {
+    "acrobat": {
+      "flavor": "Mine damer og herrer, hold på hat og briller, for jeg vil nu trodse selveste tyngdekraften og danse i luften, et kunststykke udi smidighed og dristighed, til Deres begejstring og forundring!"
+    },
+    "alchemist": {
+      "first": "Vis \"DU ER\" infobrikken og en Håndlangerbrik."
+    }
   }
 }
