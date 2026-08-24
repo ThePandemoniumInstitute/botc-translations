@@ -122,10 +122,10 @@
   "new-script": "Nowy Skrypt",
   "preview": {
     "export": {
-      "us-letter": "Listowy (US)"
+      "us-letter": "Amerykański list (DL)"
     },
     "player-sheet-options": {
-      "max-npcs-shown": "Limit nazw NPCów"
+      "max-npcs-shown": "Limit pokazywanych NPCów"
     },
     "theme": {
       "balance": {
