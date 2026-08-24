@@ -341,7 +341,7 @@
       "error_attachment_limit": "Du kan kun tilføje op til 3 bilag.",
       "error_attachment_text": "De bilag du har valgt har en størrelse på {0}MB, men maksimal størrelse er {1}MB.",
       "error_attachment_title": "Fejl under indsendelse af bilag",
-      "error_timeout": "Vent mindst 60 sekunder, før du indsender en ny rapport. Du må kun indsende op til 5 rapporter i timen.",
+      "error_timeout": "Venligst vent mindst 60 sekunder før du indsender en ny rapport. Du må kun indsende op til 5 rapporter i timen.",
       "reason": {
         "cheating": "Snyd eller Spil ødelæggende adfærd",
         "conduct": "Spilleropførsel",
