@@ -25,6 +25,7 @@
     "alsaahir-vizier": "Fortælleren erklærer ikke at Vesiren er i spil.",
     "balloonist-marionette": "Hvis Marionetten tror de er Ballonfareren, kan en Fremmed være blevet tilføjet ved opsætning.",
     "drunk-mathematician": "Matematikeren lærer om Drukkenboltens evne gav falsk info eller på anden måde ikke fungerede.",
+    "legion-magician": "Hvis Tryllekunstneren er i spil, vågner Legionen i seperate grupper under Dæmoninfofasen. Hver gruppe får at vide hvilke spillere der er gode, men får ikke at vide hvem Tryllekunstneren er.",
     "lunatic-mathematician": "Matematikeren lærer om Galningen angriber en anden spiller end den rigtige Dæmon angreb.",
     "marionette-mathematician": "Matematikeren lærer om Marionettens evne gav falsk info, eller ikke fungerede korrekt."
   },
@@ -43,6 +44,21 @@
     },
     "alhadikhia": {
       "other": "Al-Hadikhiaen vælger 3 spillere. :reminder: :reminder: :reminder: Væk hver udvalgt spiller i nævnt rækkefølge. De vil nikke eller ryste på hovedet. Læg dem til at sove inden du vækker det næste offer."
+    },
+    "amnesiac": {
+      "first": "Udfør eventuelle handlinger for at tilfredsstille Amnesistens evne.",
+      "other": "Udfør eventuelle handlinger for at tilfredsstille Amnesistens evne."
+    },
+    "angel": {
+      "first": "Bekendtgør hvilke spillere der er beskyttet af Englen. :reminder:"
+    },
+    "apprentice": {
+      "first": "Vis *DU ER* infobrikken, og så en Landsbyboer- eller Håndlangerbrik. Byt Lærlingen ud med Landsbyboer- eller Håndlangerbrikken. :reminder:"
+    },
+    "balloonist": {
+      "first": "Peg på en valgfri spiller. :reminder:",
+      "flavor": "Mere varme på! Højere! Højere! Più alto! Ahhh... alt er så smukt heroppefra, synes du ikke? Kan du se børnene der fisker i floden, under piletræet? Kan du se solens glimten i cirkusteltets stænger? Men hvad er nu det? En gammel mand, alene og bevidstløs på vinmarken? Mindre varme! Lavere! Lavere! Vai più in basso!",
+      "other": "Peg på en spiller med en anden karaktertype end den senest udpegede spiller. :reminder:"
     }
   }
 }
