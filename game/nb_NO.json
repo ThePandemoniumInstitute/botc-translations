@@ -688,7 +688,7 @@
     "harpy": {
       "ability": "Hver natt, velg 2 spillere: i morgen er den første spilleren gal om at den andre er ond, ellers kan det hende at én eller begge dør.",
       "first": "Harpyen velger 2 spillere. :reminder: :reminder: La Harpyen sove. Vekk den første spilleren. Vis *DENNE ROLLEN VALGTE DEG*-brikken, Harpy-brikken, og pek deretter på den andre spilleren.",
-      "flavor": "Så vakker en dag jeg aldri så, og heller ikke en skygge så skummel som hang over meg.",
+      "flavor": "Så vakker en dag har jeg aldri skuet, ei heller av en slik fæl og fjærede skikkelse blitt truet.",
       "name": "Harpy",
       "other": "Harpyen velger 2 spillere. :reminder: :reminder: La Harpyen sove. Vekk den første spilleren. Vis *DENNE ROLLEN VALGTE DEG*-brikken, Harpy-brikken, og pek deretter på den andre spilleren."
     },
@@ -1064,7 +1064,7 @@
     },
     "revolutionary": {
       "ability": "2 nabospillere er kjent for å ha samme lagtilhørighet. Én gang per spill registreres 1 av dem feil.",
-      "flavor": "Sammen vi feiget. Splittet, vi sinket.",
+      "flavor": "Forenede vi bløffet. Splittet vi gikk i stå.",
       "name": "Revolusjonær"
     },
     "riot": {
