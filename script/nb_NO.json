@@ -73,6 +73,8 @@
     "pdf": "Skriv ut|Eksporter PDF",
     "png": "Eksporter PNG",
     "screenshot": {
+      "download-player-sheet": "Last ned spilleroversikt",
+      "download-st-sheet": "Last ned fortelleroversikt",
       "failed-embed": "Noen ikoner kunne ikke legges inn i det eksporterte bildet",
       "save": "Lagre",
       "share": "Del"
@@ -119,6 +121,22 @@
   "name": "Navn",
   "new-bootlegger-rule": "Ny hjemmelagd regel…",
   "new-script": "Nytt manuskript",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Eksporter sider",
+      "page-size": "Sidestørrelse",
+      "us-letter": "US letter"
+    },
+    "night-sheet": "Nattoversikt",
+    "page-export-options": "Side- og eksportalternativer",
+    "player-sheet": "Spilleroversikt",
+    "st-sheet": "Fortelleroversikt",
+    "theme": {
+      "standard": "Standard",
+      "title-font": "Tittelskrifttype"
+    }
+  },
   "print": {
     "ios": "Utskrift fra iOS-enheter er ikke støttet enda. Du kan prøve uansett, men det kan se feil ut.",
     "not-first-night": "* Ikke første natten",
@@ -138,6 +156,7 @@
   "search-character": "Søk i roller …",
   "search-names": "Søk på navn",
   "settings": {
+    "advanced-heading": "Avanserte innstillinger",
     "allow-external-images": "Tillat eksterne bilder",
     "bloodstar-image-correction": "Korrigering av Bloodstar-bilde",
     "bloodstar-image-correction-explanation": "Ikonene fra bloodstar.xyz har litt ekstra luft i bunnen og er ikke helt sentrert. Denne innstillingen retter opp dette.",
@@ -160,14 +179,22 @@
     "script-type-standard": "Standard",
     "show-analysis-icons": "Vis analyseikoner",
     "show-night-sheet": "Vis nattoversikt",
-    "this-language": "Norsk"
+    "this-language": "Norsk",
+    "view-tour": {
+      "here": "her",
+      "term": "Klikk {0} for å se oversikten igjen."
+    }
   },
   "settings-menu": "Innstillinger",
   "show-all": "Alle roller",
   "show-script-analytics": "Vis manuskriptanalyse",
   "toast": {
     "cannot-remove-bootlegger": "Det er hjemmelagde roller i dette manuskriptet, så du kan ikke fjerne Hjemmebrenneren.",
-    "copied": "Kopiert til utklippstavlen!"
+    "copied": "Kopiert til utklippstavlen!",
+    "external-images": "Eksterne bilder lastes ikke inn som standard av sikkerhetshensyn. Du kan velge å tillate dem fra innstillingsmenyen.",
+    "failed-import-script": "Kunne ikke importere et manuskript – {n} manuskript er allerede lest inn. Slett et manuskript først for å lage plass til fler.",
+    "failed-import-script-link": "Import av manuskript feilet – {n} manuskript er allerede lest inn. Slett et manuskript og prøv på nytt.",
+    "failed-write-clipboard": "Kunne ikke lagre til utklippstavle – browseren din kan ikke gjøre dette eller mangler tillatelse."
   },
   "toggle-autosort": "Slå av/på automatisk sortering",
   "toggle-quick-input": "Slå av/på hurtigtillegging",
