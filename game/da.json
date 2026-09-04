@@ -59,6 +59,21 @@
       "first": "Peg på en valgfri spiller. :reminder:",
       "flavor": "Mere varme på! Højere! Højere! Più alto! Ahhh... alt er så smukt heroppefra, synes du ikke? Kan du se børnene der fisker i floden, under piletræet? Kan du se solens glimten i cirkusteltets stænger? Men hvad er nu det? En gammel mand, alene og bevidstløs på vinmarken? Mindre varme! Lavere! Lavere! Vai più in basso!",
       "other": "Peg på en spiller med en anden karaktertype end den senest udpegede spiller. :reminder:"
+    },
+    "banshee": {
+      "other": "Hvis Bansheen blev dræbt af dæmonen i nat, bekendtgør at Bansheen er død. :reminder:"
+    },
+    "barista": {
+      "first": "Vælg en spiller. Væk dem, vis dem brikken *DENNE KARAKTER HAR VALGT DIG* & Baristabrikken, og giv så et fingersignal. :reminder:",
+      "other": "Vælg en spiller. Væk dem, vis dem brikken *DENNE KARAKTER HAR VALGT DIG* & Baristabrikken, og giv så et fingersignal. :reminder:"
+    },
+    "bigwig": {
+      "ability": "Hver nominerede vælger en spiller: indtil afstemningen må kun de tale & de er gale med at den nominerede er god, eller de kan dø.",
+      "flavor": "Forfængelighed spørger 'Er det populært?' Fejhed spørger 'Er det forsvarligt?' Samvittighed spørger 'Er det rigtigt?' Hvem iblandt os vil spørge: ' Er det sandt?'",
+      "name": "Højesteretsdommer"
+    },
+    "bonecollector": {
+      "other": "Knoglesamleren kan vælge en død spiller. :reminder: Hvis nødvendigt, væk den valgte spiller for at bruge deres evne."
     }
   }
 }
