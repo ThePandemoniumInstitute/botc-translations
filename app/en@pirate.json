@@ -163,7 +163,7 @@
     },
     "dialogue": {
       "button_evil": "The Bad'uns Have Prevailed",
-      "button_good": "The Good'uns Have Prevailed",
+      "button_good": "Good'uns Have Prevailed",
       "button_no": "Nay",
       "button_yes": "Aye",
       "close_timer": "Saying bye bye in {n} blinks.",
@@ -687,8 +687,8 @@
     "reveal": {
       "button_remaining": "Other mateys",
       "button_result": "Prevailing crew",
-      "evil": "The bad'uns",
-      "good": "The good'uns",
+      "evil": "Bad'uns",
+      "good": "Good'uns",
       "prompt": "Avast! This will end yer journey and show the mateys the map!\nWho prevailed?",
       "result": "{0} have prevailed!",
       "text": "Show who prevailed and each matey's station by picking their mark. Ye can peek at their station if ye need.",
@@ -932,7 +932,8 @@
       "error_save": "Couldn't copy that",
       "jinxes": "Jinxes",
       "other_nights": "Not the\nnew moon",
-      "popout": "Move Station List"
+      "popout": "Move Station List",
+      "popout_window": "Copy Station list on a new sheet"
     },
     "characters": {
       "title": "Stations"
@@ -1048,7 +1049,7 @@
       "player": "Voyages\nSailed",
       "player_wins": "{0}% Success",
       "role": "Most Common\nStations",
-      "st_evil_wins": "{0}% Bad'uns Success",
+      "st_evil_wins": "{0}% Bad'uns Prevailing",
       "storyteller": "Voyages\nCaptained",
       "warning": "Record bein' written\nSee ye soon!"
     },
