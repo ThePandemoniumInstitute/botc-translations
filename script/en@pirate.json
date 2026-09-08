@@ -1,15 +1,50 @@
 {
   "edition": {
-    "base-three": "Well-Mapped"
+    "base-three": "Well-Mapped",
+    "carousel": "Shiny New",
+    "custom": "O' Yer Own Making",
+    "experimental": "Cuttin' Edge",
+    "homebrew": "O' Yer Own Craft",
+    "kickstarter": "Old Hand"
+  },
+  "export": {
+    "copy-json": "Move Jason",
+    "download-json": "Remember Jason",
+    "png": "Sail to Papua New Guinea",
+    "screenshot": {
+      "save": "Make ledger lastin'",
+      "share": "Show some'n yer ledger"
+    }
+  },
+  "interactions": {
+    "+huntsman-damsel": {
+      "msg": "Ledgers wi' a Tracker must have a Quarry.",
+      "title": "Tracker, but no Quarry"
+    }
   },
   "keyword": {
     "demon": "Beast o' the Sea|Beasts o' the Sea",
     "fabled": "Captain o' Legend|Captains o' Legend",
+    "first-night": "New Moon",
     "loric": "Great Tale o' the Sea|Great Tales o' the Sea",
     "minion": "Scallywag|Scallywags",
+    "other-nights": "Later Moons",
     "outsider": "Stowaway|Stowaways",
     "player": "Matey|Mateys",
     "townsfolk": "Crewmate|Crewmates",
     "traveller": "Landlubber|Landlubbers"
+  },
+  "print": {
+    "ios": "Yarr, yer apple be rotten. Ye can try it anyway, but it be off mayhap.",
+    "not-first-night": "* Not under a new moon",
+    "too-many-characters": "Yer ledger has too many stations ({nchars}). We suggest ye don't use more'n 25, or yer ledger might look off. Are ye sure?"
+  },
+  "settings": {
+    "compact-layout": "Keep yer penmanship small",
+    "display-and-ui-heading": "How yer ledger pen looks",
+    "external-images-heading": "Outside Portraits",
+    "force-one-column": "Write jus' one list",
+    "print-options-heading": "How to get a copy",
+    "script-heading": "Ledger rigging"
   }
 }
