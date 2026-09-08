@@ -10,14 +10,17 @@
       "special-tpi": "Admiralty"
     },
     "botc_online": "Jolly Roger on the High Seas",
+    "button_allow": "Let",
     "button_cancel": "Call off",
     "button_close": "Make Fast",
     "button_confirm": "Aye",
     "button_continue": "Onward",
+    "button_deny": "Don't Let",
     "button_logout": "Stand Down",
     "button_search": "Seek",
     "button_send": "Cast off",
     "cookie_policy": "Biscuit Code",
+    "moderation_policy": "Terms o' parley",
     "privacy_policy": "Code o' Secrecy",
     "session-tags": {
       "cameras": {
@@ -81,6 +84,7 @@
       "day": "New Sun|Sun {n}",
       "end": "Land ho",
       "first_night": "New Moon",
+      "grim_reveal": "Map display",
       "night": "New Moon|Moon {n}",
       "other_nights": "Waxing Moons",
       "start": "Gettin' Ready to Set Sail"
@@ -96,6 +100,7 @@
     "traveller": "Landlubber|Landlubbers"
   },
   "main-menu": {
+    "block_join": "Someone ye've stowed in the hold came aboard: {0}",
     "cast_vote": "Say Aye",
     "change_icon": "Click if'n ye want to pick a new icon",
     "char_sheet": "Station List",
@@ -112,6 +117,7 @@
     "gong_attention": "Ship's Bell",
     "gong_recall": "Gather on the Upper Deck",
     "grim_access": "The Captain let you see the Map",
+    "grim_request_user": "Onlooker {0} wants to see the Map:",
     "help": "Raise a distress flag",
     "json_schema": "Yer cabin boy Jason",
     "leave": "Abandon ship",
@@ -120,6 +126,7 @@
     "night_info": "Moon's Knowin'",
     "night_info_text": "The Captain roused ye this moon!",
     "night_sheet": "Rousin' list",
+    "notifications": "Crew Bell",
     "npcs": "Parley a Legend",
     "prompt_clear_player": "Are ye sure ye want to burn yer copy o' the map?",
     "prompt_clear_st": "This will burn everyone's maps. Are ye sure?",
@@ -130,6 +137,7 @@
     "prompt_vacate_title": "Jump overboard",
     "push_to_talk": "Press {0} to be heard",
     "raise_hand": "Raise yer Hand",
+    "report_issue": "Tell us a tale o' woe",
     "request_private": "Ask t' Talk Alone",
     "reveal_grim": "Show the Map",
     "rules": "Know the code",
@@ -162,7 +170,7 @@
       "title": "Sound the alarm"
     },
     "dialogue": {
-      "button_evil": "The Bad'uns Have Prevailed",
+      "button_evil": "Bad'uns Have Prevailed",
       "button_good": "Good'uns Have Prevailed",
       "button_no": "Nay",
       "button_yes": "Aye",
@@ -175,6 +183,8 @@
         "avatar_pixel": "Yer portrait was to big to fit in the hold. We only have space for one that be 4000x4000.",
         "avatar_size": "Yer booty be too big. Make it less than 5MB and we'll talk.",
         "avatar_type": "Yer booty doesn't look like a portrait to me!",
+        "block_text": "We couldn't change who ye've got stowed in the hold.",
+        "block_title": "Couldn't change who ye've got stowed in the hold.",
         "bluffs": "Couldn't change the fools' marks",
         "chat2_text": "We can't seem to let ye talk here",
         "chat2_title": "I think we sunk yer messenger pigeon",
@@ -216,6 +226,7 @@
         "session_banned": "Sling yer hook, yer not welcome.",
         "session_full": "If anyone else gets aboard she'll sink!",
         "session_general": "Ye couldn't get aboard.",
+        "session_join": "Couldn't get aboard",
         "session_locked": "No one else can get aboard.\nUnless ye already be on this voyage, heave off and find yer own ship.",
         "session_not_found": "That ship be lost at sea.",
         "session_public": "Ye can't get aboard a merchant's ship, stick to yer private ships.",
@@ -243,6 +254,8 @@
       "prompt": {
         "chat_text": "The ocean be rough in {0}, but {1} might be calmer. Should we set sail?",
         "chat_title": "Change yer ocean",
+        "join_block_text": "There be at least one matey ye've stowed in yer hold:\n {0}\n Are ye sure ye want to hop aboard?",
+        "join_block_title": "Pirates stowed in hold",
         "join_placeholder": "Name o' the ship",
         "join_text": "What's the ship ye want to board?",
         "join_title": "Get on board",
@@ -291,6 +304,7 @@
       "error_size_text": "Yer ledger be too big! It be {0}MB, we can only carry {1}MB.",
       "homebrew_description": "These counterfeit stations have portraits which mayhap be dangerous. Ye can choose to see them if ye adjust the rigging.",
       "homebrew_title": "No Counterfeit Portraits",
+      "monthly_script": "Ledger o' the Moon:",
       "theme": "Trimmings:",
       "theme_generic": "Normal trimmings:",
       "title": "Pick yer sea:",
@@ -298,6 +312,14 @@
     },
     "npc": {
       "title": "Tell the Crew a Legend"
+    },
+    "playnice": {
+      "button": "I will",
+      "terms": "Here be the Pirates' Code",
+      "text1": "When ye be lyin' to yer mates, ye all gotta be nice about it.",
+      "text2": "If ye see something that's not right, ye can let us know here or at {0}.",
+      "text2_email": "messenger pigeon",
+      "title": "Be nice!"
     },
     "reminder": {
       "custom_favorite": "Logged to use again",
@@ -307,6 +329,44 @@
       "tab1": "Memberin' Marks for those aboard",
       "tab2": "Memberin' Marks for other Stations",
       "title": "Add Memberin' Mark to {0}"
+    },
+    "report": {
+      "attachment": "Portraits and texts (up to 3)",
+      "button_attachment": "Give us proof",
+      "description": "About",
+      "description2": "What be the problem? We already know who ye be, what ship ye be on and how ye be workin' the ship.",
+      "description_placeholder": "Tell us more",
+      "error": "Couldn't send that off",
+      "error_attachment_limit": "Ye can't send more'n 3 texts.",
+      "error_attachment_text": "Yer paintings used {0} ounces o' paint, but we only have {1} ounces in storage.",
+      "error_attachment_title": "Couldn't copy yer text or painting",
+      "error_timeout": "Please take a moment before ye send that off. Ye can't send more than 5 reports in an hour.",
+      "reason": {
+        "cheating": "Playin' Dirty",
+        "conduct": "Mutineer",
+        "fake": "Ghost Pirate",
+        "feature": "I want shiny new cannons",
+        "harassment": "Bein' a scallywag",
+        "hatespeech": "Bile and Brimstone",
+        "other": "Som'n else",
+        "safety": "Rickety planks",
+        "spamming": "Won't Shut Up",
+        "technical": "Hole in the boat"
+      },
+      "reason_general": "What be the matter?",
+      "reason_placeholder": "Pick a problem",
+      "reason_user": "What be the matter?",
+      "screenshot": "Painting ({0} ounces)",
+      "screenshot_approve": "Do ye want to keep this painting?",
+      "screenshot_error": "Ye ruined yer painting",
+      "screenshot_take": "Paint Portrait",
+      "subject": "Topic",
+      "subject_placeholder": "What be yer problem?",
+      "submitting": "Sending...",
+      "success_text": "Thank ye for blowin' the horn. Our team will get back to ye sharp-like to the address ye've set as yer home. Yer report will be tracked as number #{0}.",
+      "success_title": "Done!",
+      "title_general": "Tell us a tale o' woe",
+      "title_user": "Report a Mutiny"
     },
     "role": {
       "error_character": "No station {0} found.",
@@ -332,6 +392,29 @@
       "warning": "Avast! Some o' these stations change yer other stations! Ye need to sort this out yerself."
     },
     "rules": {
+      "intro_part01": "Long ago",
+      "intro_part02": "aboard the good ship Jolly Roger, in bad seas, ye hear a scream. Rushing to top deck to have a look-see, ye find yer beloved Captain has been murdered... tied to the mast, blood dripping to the deck below. Ye conclude that this be the work o' a mighty Beast, and ye be right - a Beast o' the Sea that kills under cover o' dark and hides among ye under the sun.",
+      "intro_part03": "Yer gonna see either a red or blue mark. If blue, ye be a good'un. If red, a bad'un. The aim if yer a good'un be to find the Beast o' the Sea and to toss 'em to a watery grave. If'n the Beast o' the Sea joins the locker, the good'uns prevail. The aim if yer a bad'un be to sink the ship. If just two mateys be left livin', the bad'uns prevail.",
+      "intro_part04": "The journey's broken into two parts: the sun and the moon. When the sun's up, ye talk. Ye'll all work a secret trade, a station on the ledger. Often the good'uns share what they be told and try to work out who be who. Most good'uns be tellin' the truth, but some have reason to lie. If yer a bad'un, ye should for sure be lying! It's best to pick a deckhand to pretend to be, spreading scurvy where ye can.",
+      "intro_part05": "Under the moon, ye can't see yer mateys, and the Captain wil rouse some mateys so that they can work their trade or be told some kind o' knowin's. If'n the Captain rouses ye, ye'll see a note in the middle o' the cricle. Do what the note says to talk wi' the Captain. Under the moon, if'n ye have to check yer knowin's or instructions again, pick \"Moon's Knowin's\" at the top right o' the map.",
+      "intro_part06": "If'n the Captain needs to talk to ye below deck, they can also call ye in. Ye'll see an alert on the left o' the map. Click it to say hello. There, ye can talk below deck wi' the Captain. When yer done, pick 'backspace' or 'delete' to go back to yer cabin.",
+      "intro_part07": "Most o' ye will join the locker. This is good! Aboard the Jolly Roger, the locker is not the end o' yer journey. Some mateys might even want to join the locker to get knowin's. If ye be in the locker, yer still on the voyage, ye can still talk, and ye still prevail and sink wi' yer crew.",
+      "intro_part08": "Ye'll find many knowin's on yer journey. Some of it mayhaps be scrurvy. If'n ye be tipsy or seasick, ye work no trade, but the Captain makes out like ye do. The Captain can lie to you - anything ye be told will mayhap be wrong, but ye won't know if'n ye be tipsy or seasick. If'n ye be the Drunkard by chance, ye'll have seen another mark and only the Captain will know yer really the Drunkard. Or, if the Boat-Rocker rocks yer boat, ye can still be roused to work yer trade, but it won't work.",
+      "intro_part09": "This can be a lot to be told at once, so to keep things simple, here's what ye really need to know:",
+      "intro_part10": "Ye can say what ye want when ye want to.",
+      "intro_part11": "This be a talkin' game. Ye can talk on deck wi' the crew or take some'n below deck, it's yer call.",
+      "intro_part12": "No peeking.",
+      "intro_part13": "There be honour among theives. Don't use tools or stooges to see the map, as it has all the right knowin'. If ye see some'n ye shouldn't, it's no fun.",
+      "intro_part14": "Ask yer Captain anything ye need.",
+      "intro_part15": "If yer not sure o' some'n like how yer station works or another station worked, or some'n happens under the moon that yer not sure about, or ye just need some advice... whatever be the matter, please ask. The Captain be neutral. Their task be to help ye to know the rules and have fun on the journey. Tell them if ye have a question, and ye can talk below deck so that no soul knows what ye asked.",
+      "intro_part16": "Be nice.",
+      "intro_part17": "Ye be lyin' to yer friends in this game! Keep it cordial or I'll keelhaul the lot o' ye.",
+      "intro_part18": "Make some'n walk the plank.",
+      "intro_part19": "If ye want to accuse some'n, say who, like, \"I accuse Johnny.\" If'n a matey be accused, all mateys say aye if the want 'em to walk the plank, else nay. The Captain tells that ayes be starting, and the circle will be joined. The aye hand moves clocklike, and ye can press yer space bar knob or the knobs in the middle o' the circle to say aye or nay. If yer hand were up when the hand gets to ye, ye said aye, and if not, nay.",
+      "intro_part20": "Ev'ry sun, ye can say aye as often as ye like, and whoever most people said aye to walks the plank if'n they got at least half o' the livin' mateys to say aye, else no one walks the plank. If'n the ayes be equal, neither matey walks the plank.",
+      "intro_part21": "If'n ye join the locker, yer still on the ship. Ye can still talk and ye can't see the other mateys under the moon. Ye still prevail or sink wi' yer crew. Most journeys be decided by the ayes and voices o' those in the locker. When ye join the locker, ye stop workin' yer trade, ye can't accuse mateys, and ye only get one more aye for the rest o' the journey, so be smart like about it.",
+      "tab1": "Afore ye set sail",
+      "tab2": "Afore the first accusal",
       "title": "Code"
     },
     "settings": {
@@ -339,6 +422,7 @@
       "background_text": "Gimme the bearings to yer trimmings, or gimme none to abandon yer trimmings.",
       "background_title": "Yer own trimmings",
       "button_always": "Ever",
+      "button_login": "Prover yerself from another ocean",
       "button_setup": "Get Ready to Lift Anchor",
       "button_verify": "Show Yer Mark",
       "css_apply": "Apply yer own CSS code?",
@@ -348,6 +432,8 @@
       "css_title": "Enter yer CSS",
       "image_text": "Are ye sure ye want to see portraits made by yer mateys? If they poison the grog or the ledger the can mayhap find ye through yer IP address! The Pandemonium Institute has no say over what portraits blaggards on the seas bring on board.",
       "image_title": "Show counterfeit portraits",
+      "link_to": "Hop in to {0}",
+      "linked_to": "Ye be hopped in to {0}",
       "nomination": {
         "bigwig": {
           "text": "Every accused matey picks a matey: until ayes, only they can talk & they be me addled that the accused be a good'un or they join the locker, mayhaps.",
@@ -367,6 +453,8 @@
         }
       },
       "option_disabled": "Cut off",
+      "patreon_link_text": "Ye can scram now.",
+      "patreon_link_title": "We know if'n ye be givin' us doubloons",
       "patreon_perks": "Avast! Ye can only pick yer own portraits and have fancy flags if ye pay us {0}!",
       "patreon_perks2": "Put up yer coin on Patreon",
       "patreon_update": "Prove ye've paid yer doubloons on Patreon",
@@ -379,6 +467,7 @@
       "setting_avatars": "Show Portraits / Spyglasses on Upper Deck",
       "setting_background": "Trimmings",
       "setting_camera": "Spyglass",
+      "setting_chat_volume": "How loud yer mateys be",
       "setting_chroma": "Chameleon colours",
       "setting_chroma_label": "Pick yer chameleon colours",
       "setting_clouds": "Show Clouds Overhead",
@@ -443,6 +532,7 @@
         "modalUsers": "Pirates",
         "modeGather": "Assemble Yer Crew",
         "raiseHand": "Lift Yer Hook",
+        "reloadApp": "Take a breather",
         "revealGrimoire": "Show the Map",
         "setTimer": "Turn Hourglass",
         "toggleAudioDeafened": "Cover Yer Ears",
@@ -466,6 +556,7 @@
         "chatLeave": "Go below deck",
         "countdown": "Countdown",
         "privateJoin": "Start talkin' alone",
+        "privateLeave": "Go back on deck",
         "privateRequest": "Invite below deck",
         "timerGong": "Crew bell",
         "voteCast": "Aye",
@@ -480,7 +571,9 @@
       "tab_user": "Pirate",
       "title": "Boat Rigging",
       "title_avatar": "Pick a Portrait",
-      "title_sound": "How Loud Be The Cannons?"
+      "title_sound": "How Loud Be The Cannons?",
+      "unlink_text": "Are ye sure ye want to take away the sign-in with {0} from yer pirate? Ye can add it back another time.",
+      "unlink_title": "Take away yer sign-in"
     },
     "setup": {
       "audio_devices": "Ears",
@@ -570,10 +663,13 @@
     },
     "user": {
       "button_add_st": "Add Captain",
+      "button_block_user": "Stow in Hold",
       "button_cancel_st": "Don't Add Captain",
       "button_kick_user": "Throw Overboard",
       "button_mod_user": "Wield the hammer",
       "button_remove_st": "Mutiny against Captain",
+      "button_report_user": "Tell Us About 'Em",
+      "button_unblock_user": "Let Out o' Hold",
       "error": "We couldn't get their pirate details.",
       "grimoire_access_grant": "Show Map",
       "grimoire_access_revoke": "Hide Map",
@@ -765,6 +861,12 @@
       "description_mins": "1 moment|{n} moments",
       "description_online": "on the seas"
     },
+    "external": {
+      "button": "Go to other sea",
+      "description": "Ye be about to sail to this sea:",
+      "disclaimer": "The Admirals haven't checked that sea out.",
+      "title": "Beware: Ye be leaving the Jolly Roger"
+    },
     "lobby": {
       "bootlegger_title": "Brace!",
       "bootlegger_warning": "This voyage be using the Bootlegger Great Tale o' the Sea, so it has bespoke rules or stations not blessed by the admiralty, so it be best for those with good sea legs.\nIf ye be new to flying the Jolly Roger, we suggest ye get used to the normal rules and stations first, on an admiralty-blessed sea. Storm's Comin' be a fine choice for yer first journeys.\nAt any rate, welcome aboard - we're glad ye're here!\nAre ye sure ye want to hop aboard this vessel?",
@@ -804,16 +906,32 @@
       "welcome": "Welcome aboard {0}!"
     },
     "login": {
+      "accept_policies": "Agree to our {0}, {1}, {2} & {3}.",
       "description": "We'll need to know who ye be:",
       "email": "Address",
       "error_captcha": "Yarr, can ye read this for me?",
       "error_password": "Yer codes aren't the same",
       "login": "Join",
+      "login_with": "Hop in wi' {0}",
       "password": "Code",
       "password_confirm": "Code Again",
       "password_reset": "We've sent ye a pigeon so ye can change yer code.",
       "recover_password": "Forgot me Code",
       "register": "Sign up",
+      "social": {
+        "complete": "Yer in, ye can scram now!",
+        "error": "Something went wrong:",
+        "error_already_linked": "Yer pirate is on another sea.",
+        "error_code_missing": "We cancelled yer sign-in.",
+        "error_general": "Something strange went wrong.",
+        "error_grant_expired": "Yer text be too old.",
+        "error_nonce_missing": "Couldn't make that right.",
+        "logging_in": "Hoppin' in...",
+        "status": "Pirate be linked to {0}",
+        "try_again": "Scram and come back later.",
+        "updating_account": "Checkin' yer pirate..."
+      },
+      "social_login": "Or use other seas:",
       "subscribe": "Sign up for Carrier Pigeons",
       "title": "Yarr, welcome aboard the Jolly Roger! We'll be makin' a few improvements.",
       "username": "Name"
@@ -851,6 +969,7 @@
       "whisper": "Murmur"
     },
     "name": {
+      "blocked": "Ye've stowed 'em in the hold.",
       "claim": "Pick to claim",
       "connecting": "This matey be trying to join the talking.",
       "follow": "Ye be following this matey.",
@@ -930,6 +1049,7 @@
       "download": "Ask Jason for the Ledger",
       "error_popout": "Couldn't do that",
       "error_save": "Couldn't copy that",
+      "error_size": "Leger be too big",
       "jinxes": "Jinxes",
       "other_nights": "Not the\nnew moon",
       "popout": "Move Station List",
@@ -1002,6 +1122,7 @@
       "prompt_spectator": "Onlookers' Talkin'",
       "prompt_system": "Missives from the Admiralty",
       "prompt_user": "To {0}",
+      "sender_blocked": "sender stowed in the hold",
       "system": {
         "death": "{0} has joined the locker.",
         "end_evil": "The ship has come in to port and the bad'uns have prevailed!",
@@ -1029,6 +1150,8 @@
   },
   "user": {
     "avatar_enabled": "Portrait seen",
+    "blocked": "Stowed in the Hold",
+    "blocked_on_date_as_name": "back on {0}, they were {1}",
     "camera_enabled": "Spyglass seen",
     "error_avatar_text": "Yer portrait be worth {0} thousand bites o' booty, but the most we can afford be {1} thousand bites o' booty.",
     "error_avatar_title": "Yer booty be too big",
@@ -1065,6 +1188,9 @@
     "players_alive": "{0}/{1} mateys livin'",
     "reload": "Come back again to get the latest copy.",
     "since": "since {0}",
+    "translation_content": "Use Other Tongues",
+    "translation_disclaimer1": "Yer not on the original ocean.",
+    "translation_disclaimer2": "The Pirate Tongue might not be quite right. If anything be unclear, the Admirals suggest tryin' another tongue, like English. It might not show the views o' the Admiralty at The Pandemonium Institute, and were made and checked by the following mateys:",
     "translation_game": "The Pirate version o' Jolly Rodger mayhaps isn't quite the version ye know, as written by The Pandemonium Institute.",
     "travellers_alive": "{0} / {1} landlubbers be livin'",
     "update": "Please get a new copy!",
