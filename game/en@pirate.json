@@ -26,76 +26,78 @@
     "alchemist-mastermind": "A Magician-Plotter works not the Plotter's trade & the Plotter be not-in-play.",
     "alchemist-organgrinder": "If'n the Magician works the Vielleux's trade, the Vielleux be aboard. If both be decent, both be tipsy.",
     "alchemist-spy": "A Magician-Sneak works not the Sneak trade & a Sneak be aboard. When a player walks the plank, a livin' Magician-Sneak may call a livin' matey the Sneak. If'n they be right, the Beast o' the Sea must pick the Sneak this moon.",
-    "alchemist-summoner": "The Magician-Summoner knows not what be ashore, and picks a Beast o' the Sea, but not a matey. If'n they enter the locker afore they do, the bad'uns prevail. [No Beast o' the Sea]",
-    "alchemist-widow": "A Magician-Widow works not the Widow's trade & a Widow be aboard. After each plank walk, a livin' Magician-Widow can guess on deck that a livin' matey is the Widow. If'n they be right, the Beast o' the Sea must pick the Widow this night.",
-    "alchemist-wraith": "A Magician-Wraith works not the Wraith trade & a Wraith be aboard. When a player walks the plank, a livin' Magician-Wraith may call a livin' matey the Wraith. If'n they be right, the Beast o' the Sea must pick the Wraith this moon.",
-    "alhadikhia-mastermind": "If the Al-Hadikhia enters the locker by walkin' the plank and the Plotter be livin', the Al-Hadikhia picks 3 good'uns this moon: if'n all three pick to live, the bad'uns prevail. Else, the good'uns prevail.",
-    "alhadikhia-princess": "If'n the Princess accused a matey and sent them to walk the plank on their first daylight, Al-Hadikhia sends none to the locker this moon.",
+    "alchemist-summoner": "The Magician-Stormcaller knows not what be ashore, and picks a Beast o' the Sea, but not a matey. If'n they enter the locker afore they do, the bad'uns prevail. [No Beast o' the Sea]",
+    "alchemist-widow": "A Magician-Thalassomancer works not the Thalassomancer's trade & a Widow be aboard. After each plank walk, a livin' Magician-Thalassomancer can guess on deck that a livin' matey is the Thalassomancer. If'n they be right, the Beast o' the Sea must pick the Thalassomancer this night.",
+    "alchemist-wraith": "A Magician-Whistler works not the Whistler trade & a Whistler be aboard. When a player walks the plank, a livin' Magician-Whistler may call a livin' matey the Whistler. If'n they be right, the Beast o' the Sea must pick the Whistler this moon.",
+    "alhadikhia-mastermind": "If'n the Pacific Ocean enters the locker by walkin' the plank and the Plotter be livin', the Pacific Ocean picks 3 good'uns this moon: if'n all three pick to live, the bad'uns prevail. Else, the good'uns prevail.",
+    "alhadikhia-princess": "If'n the Mermaid accused a matey and sent them to walk the plank on their first daylight, the Pacific Ocean sends none to the locker this moon.",
     "alhadikhia-scarletwoman": "If'n there would be two Beasts o' the Sea, and one had been the Jezebel, the Jezebel becomes the Jezebel again.",
     "alsaahir-vizier": "The Captain tells not that the Governor be aboard.",
-    "atheist-riot": "During a riot, if'n the Captain be accused, mateys take a vote. If'n they be on the plank, the journey ends. If not, they accuse again.",
+    "atheist-riot": "During Chaos, if'n the Captain be accused, mateys take a vote. If'n they be on the plank, the journey ends. If not, they accuse again.",
     "balloonist-marionette": "If'n the Puppet thinks they be the Lookout, an extra Stowaway is mayhaps on the ship.",
     "banshee-leviathan": "Ev'ry moon*, the Kraken picks a livin' good'un (not one they picked afore): a picked Death-Knocker be sent to the locker and works their trade.",
-    "banshee-riot": "Ev'ry moon*, Riot picks a livin' good'un (not one they picked afore): a picked Death-Knocker goes to the locker and works their trade.",
-    "banshee-vortox": "If'n the Great Storm sends the Death-Knocker to the locker, all mateys be told that the Death-Knocker has been sent there.",
+    "banshee-riot": "Ev'ry moon*, Chaos picks a livin' good'un (not one they picked afore): a picked Death-Knocker goes to the locker and works their trade.",
+    "banshee-vortox": "If'n the Maelstrom sends the Death-Knocker to the locker, all mateys be told that the Death-Knocker has been sent there.",
     "baron-heretic": "Only 1 jinxed station can be worked.",
     "baron-plaguedoctor": "If'n the Captain would work the Landlord's trade, up to two mateys become Stowaways.",
     "boffin-cultleader": "If'n the Beast o' the Sea works the Ritualist's trade, they can't become a good'un because of it.",
     "boffin-drunk": "The Beast o' the Sea can't work the Drunkard's trade.",
     "boffin-goon": "If'n the Demon works the Ruffian's trade, they can't become a good'un because of it.",
-    "boffin-heretic": "The Beast o' the Sea can't work the Heretic's trade.",
-    "boffin-ogre": "The Beast o' the Sea can't work the Ogre's trade.",
+    "boffin-heretic": "The Beast o' the Sea can't work the Accursed's trade.",
+    "boffin-ogre": "The Beast o' the Sea can't work the Sycophant's trade.",
     "boffin-politician": "The Beast o' the Sea can't work the Politician's trade.",
     "boffin-villageidiot": "If'n there be a spare mark, the Gear Wright can let the Beast o' the Sea work the Fool o' the Fleet's trade.",
-    "boomdandy-plaguedoctor": "If'n the Captain would work the Boomdandy's trade, a matey becomes the Boomdandy.",
-    "bountyhunter-kazali": "If'n the Kazali turns the Privateer into a Scallywag, it makes no crewmates bad'uns.",
+    "boomdandy-plaguedoctor": "If'n the Captain would work the Powder Monkey trade, a matey becomes the Powder Monkey.",
+    "bountyhunter-kazali": "If'n Fate's Hand turns the Privateer into a Scallywag, it makes no crewmates bad'uns.",
     "bountyhunter-philosopher": "If'n the Ponderer works the Privateer's trade, a Crewmate will mayhaps become a bad'un.",
     "butler-cannibal": "If'n the Cannon Ball works the Cabin Boy's trade, they be told it.",
     "butler-organgrinder": "If'n the Vielleux makes the mateys close their eyes, the Butler may always say aye, but their aye counts only if'n the master said aye too.",
     "cannibal-juggler": "If'n the Tosser guesses on the first daylight and walks the plank into the locker, the livin' Cannon Ball learns how many guesses were right this moon.",
-    "cannibal-princess": "If'n the Cannibal accused the Princess and made them walk the plank into the locker, the Beast o' the Sea doesn't send anyone to the locker tonight.",
-    "cannibal-zealot": "If'n the Cannibal works the God-Botherer's trade, they be told it.",
-    "cerenovus-goblin": "The Cerenovus can pick a matey to be delirious that they be the Goblin.",
+    "cannibal-princess": "If'n the Cannon Ball accused the Mermaid and made them walk the plank into the locker, the Beast o' the Sea doesn't send anyone to the locker tonight.",
+    "cannibal-zealot": "If'n the Cannon Ball works the God-Botherer's trade, they be told it.",
+    "cerenovus-goblin": "The Fata Morgana can pick a matey to be addled that they be Popeye.",
     "chambermaid-mathematician": "The Maid can see if'n the Bean Counter will rouse this moon.",
-    "clockmaker-summoner": "The Clockmaker sees the Summoner as a Beast o' the Sea.",
-    "courtier-summoner": "If'n the livin' Summoner works no trade, the Captain works the Summoner's trade.",
+    "clockmaker-summoner": "The Clockmaker sees the Stormcaller as a Beast o' the Sea.",
+    "courtier-summoner": "If'n the livin' Stormcaller works no trade, the Captain works the Stormcaller's trade.",
     "courtier-vizier": "If'n the Governor gives up their trade, they be told it, and can't be sent to the locker under daylight.",
-    "cultleader-pithag": "If'n the Pit-Hag makes a bad'un into the Cult Leader, they can't become a good'un thanks to their own trade.",
-    "damsel-pithag": "If'n a Pit-Hag makes a Damsel, the Captain picks which matey it be.",
+    "cultleader-pithag": "If'n the Circe makes a bad'un into the Ritualist, they can't become a good'un thanks to their own trade.",
+    "damsel-pithag": "If'n Circe makes a Damsel, the Captain picks which matey it be.",
     "damsel-spy": "If'n the Sneak be (or has been) aboard, the Damsel be seasick.",
-    "damsel-widow": "If'n the Widow be (or has been) aboard, the Damsel be seasick.",
+    "damsel-widow": "If'n the Thalassomancer be (or has been) aboard, the Quarry be seasick.",
+    "drunk-mathematician": "The Bean Counter is told if the Drunkard's trade gave scurvy or didn't work right.",
     "engineer-legion": "If'n Mutineers be made, all bad'uns become Mutineers. If'n Mutineers be aboard, the Shipwright be told this, but works no trade.",
-    "engineer-summoner": "If'n the livin' summoner be thrown overboard, the Captain works the Summoner's trade.",
+    "engineer-summoner": "If'n the livin' Stormcaller be thrown overboard, the Captain works the Stormcaller's trade.",
     "eviltwin-plaguedoctor": "If'n the Captain would work the Evil Twin's trade, a matey becomes the Evil Twin.",
     "exorcist-leviathan": "If'n the Kraken accuses the matey the Chaplain picked and makes them walk the plank, the good'uns prevail.",
-    "exorcist-riot": "If'n Riot accuses the matey the Chaplain picked and makes them walk the plank, the good'uns prevail.",
+    "exorcist-riot": "If'n Chaos accuses the matey the Chaplain picked and makes them walk the plank, the good'uns prevail.",
     "exorcist-yaggababble": "If'n the Chaplain picks the Ghoul o' the Gab, the Ghoul o' the Gab sends no one to the locker tonight.",
     "fanggu-scarletwoman": "If'n there would be two Beasts o' the Sea, and one had been the Jezebel, the Jezebel stays the Jezebel.",
     "farmer-leviathan": "Ev'ry moon*, the Kraken picks a livin' good'un (not one they picked afore): a picked Farmer works their trade but does not go to the locker.",
-    "farmer-riot": "Ev'ry moon*, Riot picks a livin' good'un (not one they picked afore): a picked Farmer works their trade but doesn't go to the locker.",
-    "fearmonger-plaguedoctor": "If'n the Captain would work the Fearmonger's trade, a Scallywag works it, and be told that.",
-    "fearmonger-vizier": "The Governor be roused with the Fearmonger, is told who they pick and cannot make that matey walk the plank sharp-like.",
-    "goblin-plaguedoctor": "If'n the Captain would work the Goblin's trade, a Scallywag does, and be told it.",
+    "farmer-riot": "Ev'ry moon*, Chaos picks a livin' good'un (not one they picked afore): a picked Farmer works their trade but doesn't go to the locker.",
+    "fearmonger-plaguedoctor": "If'n the Captain would work the Agitator's trade, a Scallywag works it, and be told that.",
+    "fearmonger-vizier": "The Governor be roused with the Agitator, is told who they pick and cannot make that matey walk the plank sharp-like.",
+    "goblin-plaguedoctor": "If'n the Captain would work Popeye's trade, a Scallywag does, and be told it.",
     "godfather-heretic": "Only 1 jinxed station can be worked.",
-    "goon-pithag": "If'n the Pit-Hag makes a bad'un into the Ruffian, they can't become a good'un from their own trade.",
+    "goon-pithag": "If'n Circe makes a bad'un into the Ruffian, they can't become a good'un from their own trade.",
     "grandmother-leviathan": "If'n the Kraken be aboard and the Grandchild be made to walk the plank to the locker, the bad'uns prevail.",
-    "grandmother-riot": "If'n there be a Riot and the Grandchild be sent to the locker by walkin' the plank, the bad'uns prevail.",
+    "grandmother-riot": "If'n there be Chaos and the Grandchild be sent to the locker by walkin' the plank, the bad'uns prevail.",
     "hatter-legion": "If'n Mutineers be made, all bad'uns become Mutineers. If'n Mutineers be aboard, Daedalus works no trade.",
     "hatter-leviathan": "The Kraken can't come aboard after the fifth sunrise.",
-    "hatter-lilmonsta": "If'n Daedalus be sent to the locker and the Beast o' the Sea picks Lil' Monsta, they also pick a Scallywag to become.",
-    "hatter-summoner": "If'n the Summoner makes a second livin' Beast o' the Sea, the Captain picks who goes to the locker.",
+    "hatter-lilmonsta": "If'n Daedalus be sent to the locker and the Beast o' the Sea picks Lil' Globsta, they also pick a Scallywag to become.",
+    "hatter-summoner": "If'n the Stormcaller makes a second livin' Beast o' the Sea, the Captain picks who goes to the locker.",
     "heretic-lleech": "Only 1 jinxed station can be worked.",
     "heretic-pithag": "Only 1 jinxed station can be worked.",
     "heretic-spy": "Only 1 jinxed station can be worked.",
     "heretic-widow": "Only 1 jinxed station can be worked.",
     "huntsman-marionette": "If'n the Puppet thinks they be the Tracker, the Quarry be aboard from set sail.",
     "innkeeper-leviathan": "If'n the Kraken accuses the matey guarded by the Tavern Keeper and makes them walk the plank, the good'uns prevail.",
-    "innkeeper-riot": "If'n Riot accuses a player guarded by the Tavern Keeper and makes 'em walk the plank, the good'uns prevail.",
+    "innkeeper-riot": "If'n Chaos accuses a player guarded by the Tavern Keeper and makes 'em walk the plank, the good'uns prevail.",
     "investigator-vizier": "The Captain doesn't proclaim the Governor to be aboard.",
     "kazali-marionette": "If'n there would be a Puppet aboard, they come aboard after the Beast o' the Sea & are their bunkmate.",
-    "kazali-summoner": "If'n the Summoner makes a second livin' Beast o' the Sea, the Captain picks who joins the locker.",
+    "kazali-summoner": "If'n the Stormcaller makes a second livin' Beast o' the Sea, the Captain picks who joins the locker.",
     "king-leviathan": "If'n the Kraken be aboard and at least 1 matey be in the locker, the King be told the station of a livin' matey ev'ry night.",
-    "king-riot": "If'n there be a Riot aboard, and at least 1 matey be in the locker, the King be told a livin' station ev'ry moon.",
+    "king-riot": "If'n there be Chaos aboard, and at least 1 matey be in the locker, the King be told a livin' station ev'ry moon.",
+    "legion-magician": "If'n the Trickster be aboard, Mutineers rouse in their own groups for Beastly Knowin's. Each group be told which mateys be good'uns, but isn't told the Trickster.",
     "legion-minstrel": "If'n a Mutineer walked the plank into the locker this daylight, Mutineers keep workin' their trade, but the minstrel be told mayhap that they be a Mutineer.",
     "legion-politician": "The Politician passes mayhap as a bad'un to Mutineers.",
     "legion-preacher": "If'n the Preacher picks a Mutineer, the Mutineer keeps workin' their trade, but the Preach be told mayhap that they be a Mutineer.",
@@ -107,46 +109,48 @@
     "leviathan-ravenkeeper": "Ev'ry moon*, the Kraken picks a livin matey (not one they picked afore): a picked Pigeon-Keeper works their trade but doesn't enter the locker.",
     "leviathan-sage": "Ev'ry moon*, the Kraken picks a livin good'un (not one they picked afore): a picked Cartographer works their trade but doesn't enter the locker.",
     "leviathan-soldier": "If'n the Kraken accuses the Marine and makes them walk the plank, the good'uns prevail.",
-    "lilmonsta-magician": "If'n the Magician be livin', the Captain picks which Scallywag babysits Lil' Monsta.",
+    "lilmonsta-magician": "If'n the Trickster be livin', the Captain picks which Scallywag babysits Lil' Globsta.",
     "lilmonsta-marionette": "If'n there would be a Puppet aboard, they come aboard after the Beast o' the Sea & are their bunkmate.",
-    "lilmonsta-poppygrower": "If'n Lil' Monsta & the Poppy Grower be livin', Scallywags rouse one by one, until one of them picks to take the Lil' Monsta mark.",
-    "lilmonsta-psychopath": "If'n the Fiend be babysittin' Lil' Monsta, they join the locker when they walk the plank.",
-    "lilmonsta-scarletwoman": "If'n Lil' Monsta joins the locker with 5 or more mateys livin', the Jezebel babysits Lil' Monsta for the rest o' the voyage.",
-    "lilmonsta-vizier": "If'n the Governor be babysittin' Lil' Monsta, they join the locker when they walk the plank.",
-    "lleech-mastermind": "If'n the Mastermind be livin' and the Lleech host joins the locker by walkin' the plank, the Lleech lives, but stops workin' their trade.",
-    "lleech-slayer": "If'n the Hunter picks the Lleech host, the host joins the locker.",
+    "lilmonsta-poppygrower": "If'n Lil' Globsta & the Wrecker be livin', Scallywags rouse one by one, until one of them picks to take the Lil' Globsta mark.",
+    "lilmonsta-psychopath": "If'n the Fiend be babysittin' Lil' Globsta, they join the locker when they walk the plank.",
+    "lilmonsta-scarletwoman": "If'n Lil' Globsta joins the locker with 5 or more mateys livin', the Jezebel babysits Lil' Globsta for the rest o' the voyage.",
+    "lilmonsta-vizier": "If'n the Governor be babysittin' Lil' Globsta, they join the locker when they walk the plank.",
+    "lleech-mastermind": "If'n the Plotter be livin' and the Barnacle host joins the locker by walkin' the plank, the Barnacle lives, but stops workin' their trade.",
+    "lleech-slayer": "If'n the Hunter picks the Barnacle's host, the host joins the locker.",
     "lordoftyphon-summoner": "If Poseidon's Spear be summoned, they has to be bunkmates with a Scallywag, and their other bunkmate becomes a Scallywag and a bad'un.",
-    "magician-marionette": "If'n the Magician be livin', the Beast o' the Sea be not told which bunkmate be the Puppet.",
-    "magician-spy": "Whene'er the Sneak sees the Map, the Beast o' the Sea and Magician's station marks be absent.",
-    "magician-vizier": "If'n the Governor be aboard, the Magician works no trade but be safe from the Governor's trade.",
-    "magician-widow": "If'n the Widow sees the Map, the Beast o' the Sea and Magician's station marks be absent.",
-    "magician-wraith": "After some'n walks the plank, the livin' Magician can guess that a livin' matey be the Wraith on the deck. If'n they be right, the Beast o' the Sea has to pick the Wraith under the next moon.",
+    "lunatic-mathematician": "The Bean Counter be told if'n the Madman picked a different matey to the right Beast o' the Sea.",
+    "magician-marionette": "If'n the Trickster be livin', the Beast o' the Sea be not told which bunkmate be the Puppet.",
+    "magician-spy": "Whene'er the Sneak sees the Map, the Beast o' the Sea and Trickster's station marks be absent.",
+    "magician-vizier": "If'n the Governor be aboard, the Trickster works no trade but be safe from the Governor's trade.",
+    "magician-widow": "If'n the Thalassomancer sees the Map, the Beast o' the Sea and Trickster's station marks be absent.",
+    "magician-wraith": "After some'n walks the plank, the livin' Trickster can guess that a livin' matey be the Wraith on the deck. If'n they be right, the Beast o' the Sea has to pick the Whistler under the next moon.",
+    "marionette-mathematician": "The Bean Counter be told if'n the Puppet's trade got scurvy or didn't work right.",
     "marionette-plaguedoctor": "If'n the Captain would work the Puppet's trade, one o' the Beast o' the Sea's good bunkmates becomes the Puppet.",
     "marionette-summoner": "If'n there would be a Puppet aboard, they come aboard after the Beast o' the Sea & are their bunkmate.",
-    "mastermind-vigormortis": "A Mastermind that's workin' their trade keeps workin' it if the Vigormortis joins the locker.",
-    "mayor-riot": "The Quartermaster can stop the riot. If'n they do when there only be 1 Riot livin', the good'uns prevail, but if not, the bad'uns do.",
-    "monk-riot": "If'n Riot accuses the matey guarded by the Jesuit and makes 'em walk the plank, the good'uns prevail.",
-    "ogre-pithag": "If'n the Pit-Hag makes a bad'un the Ogre, they can't become a good'un by workin' their own trade.",
-    "ogre-recluse": "If'n the Marooned passes as a bad'un to the Ogre, the Ogre learns that they be a bad'un.",
-    "ogre-spy": "The Sneak passes for a bad'un to the Ogre.",
-    "pithag-politician": "If'n the Pit-Hag makes a bad'un the Politician, they can't become a good'un by working their own ability.",
-    "pithag-summoner": "If'n the Summoner makes a second livin' beast o' the sea, the Captain picks who joins the locker this moon.",
-    "pithag-villageidiot": "If'n there be a spare mark, the Pit-Hag can make an extra Fool o' the Fleet. If'n they do, the tipsy Fool o' the Fleet mayhaps changes.",
+    "mastermind-vigormortis": "A Plotter that's workin' their trade keeps workin' it if the Rigorrustus joins the locker.",
+    "mayor-riot": "The Quartermaster can stop the Chaos. If'n they do when there only be 1 Chaos livin', the good'uns prevail, but if not, the bad'uns do.",
+    "monk-riot": "If'n Chaos accuses the matey guarded by the Jesuit and makes 'em walk the plank, the good'uns prevail.",
+    "ogre-pithag": "If'n Circe makes a bad'un the Sycophant, they can't become a good'un by workin' their own trade.",
+    "ogre-recluse": "If'n the Marooned passes for a bad'un to the Sycophant, the Sycophant learns that they be a bad'un.",
+    "ogre-spy": "The Sneak passes for a bad'un to the Sycophant.",
+    "pithag-politician": "If'n Circe makes a bad'un the Courtier, they can't become a good'un by working their own ability.",
+    "pithag-summoner": "If'n the Stormcaller makes a second livin' beast o' the sea, the Captain picks who joins the locker this moon.",
+    "pithag-villageidiot": "If'n there be a spare mark, Circe can make an extra Fool o' the Fleet. If'n they do, the tipsy Fool o' the Fleet mayhaps changes.",
     "plaguedoctor-scarletwoman": "If'n the Captain would work the Jezebel trade, a Scallywag works it, and be told so.",
     "plaguedoctor-spy": "If'n the Captain would work the Sneak trade, a Minion works it, and be told so.",
-    "plaguedoctor-wraith": "If'n the Captain would work the Wraith's trade, a Scallywag works it, and be told so.",
+    "plaguedoctor-wraith": "If'n the Captain would work the Whistler trade, a Scallywag works it, and be told so.",
     "politician-vizier": "The Politician mayhaps pass for a bad'un to the Governor.",
-    "poppygrower-spy": "If'n the Poppy Grower works their trade, the Sneak doesn't see the Map.",
-    "poppygrower-summoner": "If'n the Poppy Grower be livin' when the third moon be up, the Summoner picks which Beast o' the Sea, but not which matey.",
-    "poppygrower-widow": "If'n the Poppy Grower works their trade, the Widow doesn't see the Map.",
-    "preacher-summoner": "If'n the livin' Summoner works no trade, the Captain works the Summoner trade.",
+    "poppygrower-spy": "If'n the Wrecker works their trade, the Sneak doesn't see the Map.",
+    "poppygrower-summoner": "If'n the Wrecker be livin' when the third moon be up, the Stormcaller picks which Beast o' the Sea, but not which matey.",
+    "poppygrower-widow": "If'n the Wrecker works their trade, the Thalassomancer doesn't see the Map.",
+    "preacher-summoner": "If'n the livin' Stormcaller works no trade, the Captain works the Stormcaller trade.",
     "preacher-vizier": "If'n the Governor stops workin' their trade, they be told so, and can't die in daylight.",
-    "pukka-summoner": "The Summoner can summon a Pukka under the 2nd moon instead of the 3rd.",
-    "ravenkeeper-riot": "Ev'ry moon*, Riot picks a livin' good'un (not one they picked afore): a picked Pigeon-Keeper works their trade but doesn't go to the locker.",
+    "pukka-summoner": "The Stormcaller can summon a Great Wave under the 2nd moon instead of the 3rd.",
+    "ravenkeeper-riot": "Ev'ry moon*, Chaos picks a livin' good'un (not one they picked afore): a picked Pigeon-Keeper works their trade but doesn't go to the locker.",
     "recluse-sage": "The Marooned passes mayhap for the Beast o' the Sea to the Cartographer.",
-    "riot-sage": "Ev'ry moon*, Riot picks a livin' good'un (not one they picked afore): a picked Cartographer works their trade but doesn't go to the locker.",
-    "riot-soldier": "If'n Riot accuses the Marine and makes them walk the plank, the good'uns prevail.",
-    "summoner-zombuul": "If'n the Summoner makes a matey in the locker the Zombuul, the Zombuul has already \"been to the locker once\".",
+    "riot-sage": "Ev'ry moon*, Chaos picks a livin' good'un (not one they picked afore): a picked Cartographer works their trade but doesn't go to the locker.",
+    "riot-soldier": "If'n Chaos accuses the Marine and makes them walk the plank, the good'uns prevail.",
+    "summoner-zombuul": "If'n the Stormcaller makes a matey in the locker the Zombuul, the Zombuul has already \"been to the locker once\".",
     "vizier-zealot": "The God-Botherer passes mayhap for a bad'un to the Governor."
   },
   "reminders": {
@@ -193,8 +197,9 @@
     "guessused": "Guess Used",
     "haircutstonight": "Haircuts Next Moon",
     "hasability": "Works Trade",
-    "isthealchemist": "Be The Alchemist",
-    "istheapprentice": "Be The Apprentice",
+    "hat": "Cap",
+    "isthealchemist": "Be The Magician",
+    "istheapprentice": "Be The Lieutenant",
     "isthedemon": "Be The Beast o' the Sea",
     "isthedrunk": "Be The Drunkard",
     "isthemarionette": "Be The Puppet",
@@ -215,6 +220,7 @@
     "nominateevil": "Accuse Bad'un",
     "nominategood": "Accuse Good'un",
     "nomoreevil": "No More Bad'uns",
+    "notme": "Nay!",
     "once": "Once",
     "outsider": "Stowaway",
     "poisoned": "Seasick",
@@ -239,25 +245,25 @@
     "acrobat": {
       "ability": "Ev'ry moon*, pick a matey: if'n they be or get tipsy or seasick this moon, ye be joining the Locker.",
       "flavor": "Arr, welcome, me hearties, to the greatest show on the seven seas.",
-      "name": "Acrobat",
-      "other": "The Acrobat picks a matey. :reminder:"
+      "name": "Topsman",
+      "other": "The Topsman picks a matey. :reminder:"
     },
     "alchemist": {
       "ability": "Ye work a Scallywag trade. If'n ye use it, the Captain might tell ye to pick som'n else.",
       "first": "Show the *YE BE* mark and the station mark of a Scallywag.",
-      "flavor": "See the interior o' the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth.",
-      "name": "Alchemist"
+      "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as ye can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank ye, and goodnight!",
+      "name": "Magician"
     },
     "alhadikhia": {
       "ability": "Ev'ry moon*, ye can pick 3 mateys (all mateys be told who): they silent-like pick to live or join the locker, but if all live, all join the locker.",
       "flavor": "Alsukut min dhahab.",
-      "name": "Al-Hadikhia",
-      "other": "Al-Hadikhia picks three mateys. :reminder: :reminder: :reminder: Rouse the mateys marked *1* and proclaim, \"Al-Hadikhia has picked\" then the matey's name, then \"do ye pick to live?\". They either nod or shake their noggin. Send 'em to slumber and add or take coffins as needs be. Do it again for players marked *2* and *3*. If all three now be livin', add a coffin to all three."
+      "name": "The Pacific Ocean",
+      "other": "The Pacific Ocean picks three mateys. :reminder: :reminder: :reminder: Rouse the mateys marked *1* and proclaim, \"The Pacific Ocean has claimed\" then the matey's name, then \"do ye pick to live?\". They either nod or shake their noggin. Send 'em to slumber and add or take coffins as needs be. Do it again for players marked *2* and *3*. If all three now be livin', add a coffin to all three."
     },
     "alsaahir": {
       "ability": "Ev'ry sun, if'n you figure out on the deck whose the Scallywag(s) and whose the Beast(s) o' the sea, the good'uns prevail.",
-      "flavor": "I be here because of ye, and ye be here beacause of me.",
-      "name": "Alsaahir"
+      "flavor": "The dead speak, and I hear them. Cross not the tide tonight, or ye’ll answer to their wrath.",
+      "name": "Spirit Caller"
     },
     "amnesiac": {
       "ability": "Ye forgot what yer trade be. Ev'ry sun, tell the Captain privately what it is: learn how right ye be.",
@@ -268,15 +274,15 @@
     },
     "angel": {
       "ability": "Something mayhaps goes wrong for whoever is most to blame for sending a greenhorn to the locker.",
-      "first": "Proclaim which mateys be protected by the Angel. Add the *PROTECTED*mark to those mateys.",
-      "flavor": "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms.",
-      "name": "Angel"
+      "first": "Proclaim which mateys be protected by the Letter of Marque. Add the *PROTECTED*mark to those mateys.",
+      "flavor": "Know Ye therefore that we do hereby grant commission to and authorize him to fight, take, suppress and destroy Declared Enemies of the Crown of England.",
+      "name": "Letter of Marque"
     },
     "apprentice": {
       "ability": "Under yer 1st moon, ye start working a Crewmate trade (if'n ye be good) or a Scallywag trade (if'n ye be bad).",
-      "first": "Show the Apprentice the *YE BE* mark, then a Crewmate or Scallywag mark. In the map, give them the Apprentice mark with their station mark, and put the Apprentice's *BE THE APPRENTICE* mark by their station mark.",
+      "first": "Show the Lieutenant the *YE BE* mark, then a Crewmate or Scallywag mark. In the map, give them the Lieutenant mark with their station mark, and put the Lieutenant *BE THE APPRENTICE* mark by their station mark.",
       "flavor": "For many moons I've learnt from the best, working my trade. Which trade? Just that o' the humble soul. No need for alarm. Not yet.",
-      "name": "Apprentice"
+      "name": "Lieutenant"
     },
     "artist": {
       "ability": "Once a journey, in the daylight, ask the Captain alone any Yarr/Nar question.",
@@ -285,9 +291,9 @@
     },
     "assassin": {
       "ability": "Once in yer journey, under the moon*, pick a matey: they join the locker, even if'n they shouldn'.",
-      "flavor": "...",
-      "name": "Assassin",
-      "other": "The assassin can pick a matey. :reminder: :reminder:"
+      "flavor": "Davey Jones' Locker is never locked to me.",
+      "name": "Locker-Unlocker",
+      "other": "The Locker-Unlocker can pick a matey. :reminder: :reminder:"
     },
     "atheist": {
       "ability": "The Captain dont need'n follow the statutes, and if made to walk the plank, the good'uns prevail, even if'n yer in the locker. [No ne'erdowells]",
@@ -310,7 +316,7 @@
     "barber": {
       "ability": "If'n ye died under last daylight or this moon, the Beast o' the Sea can pick 2 mateys (not another Beast o' the Sea) to swap stations.",
       "flavor": "What can I interest ye in today? A bit off the sides, a lot off the top? Oh, just your hair? Oh, well.",
-      "name": "Barber",
+      "name": "Barrrber",
       "other": "If'n the Barber died under last daylight or this moon, show the Beast o' the Sea the *THIS STATION PICKED YE* & Barber marks. If'n the Beast o' the Sea picks 2 mateys, rouse each, one by one. Show the *YE BE* mark & their new station marks."
     },
     "barista": {
@@ -327,8 +333,8 @@
     },
     "beggar": {
       "ability": "Ye have to spend a dead man's treasure to vote. If a matey in the locker gives ye theirs, ye be told their loyalty. Ye be decent and whole.",
-      "flavor": "Alms for the poor, good Sir? Spare a coin, Madam? Thank ye kindly. God bless! Yer a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!",
-      "name": "Beggar"
+      "flavor": "Heb je al gehoord dat Piet Hein is gesmoord. Gesmoord in een pot met bonen. Hij liep als een gek met de lepel in z'n bek. De stroop liep 'm langs z'n oren.",
+      "name": "Watergeuze"
     },
     "bigwig": {
       "ability": "Every accused matey picks a matey: until ayes, only they can talk & they be me addled that the accused be a good'un or they join the locker, mayhaps.",
@@ -337,8 +343,8 @@
     },
     "bishop": {
       "ability": "Only the Captain can accuse. At least 1 matey with a different loyalty to ye must be accused each daylight.",
-      "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.",
-      "name": "Bishop"
+      "flavor": "Yes, Jerry, I understand that you're supposed to have a say, but when the ship is limping into port, whatever system works is what we get.",
+      "name": "Jury-Rigger"
     },
     "boffin": {
       "ability": "The Beast o' the Sea (even when tipsy or seasick) works a not-aboard deckhand's trade. Ye both be knowin' which.",
@@ -348,32 +354,32 @@
     },
     "bonecollector": {
       "ability": "Once on yer journey, under the moon*, pick a matey in the locker: they work their trade again until sun down.",
-      "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for thou to know but my fee is a mere pittance. Bring'st me the blood of a noblewoman who died of heartbreak under a full moon, and thou shalt have thy answers.",
-      "name": "Bone Collector",
-      "other": "The Bone Collector shakes their noggin 'nay' or picks a matey in the locker. If'n they picked a matey, put the Bone Collector's 'Works Trade' memberin' mark by the picked matey's station mark. (Ye may need to rouse the matey to work their trade.)"
+      "flavor": "Jolly was ensign by pirate preceding during attack, the 18th (the part the Age Piracy). Vast of flags the of human, or “Head”, accompanied other, on black, sometimes the \"Head\" or the \"flag\".",
+      "name": "Roger",
+      "other": "The Roger shakes their noggin 'nay' or picks a matey in the locker. If'n they picked a matey, put the Roger's 'Works Trade' memberin' mark by the picked matey's station mark. (Ye may need to rouse the matey to work their trade.)"
     },
     "boomdandy": {
       "ability": "If ye walk the plank, all but 3 mateys join the locker. After a 10 to 1 countdown, the matey with the most mateys pointing at them joins the locker.",
-      "flavor": "Tick... Tick... Tick... TOCK.",
-      "name": "Boomdandy"
+      "flavor": "All hands to battle stations!",
+      "name": "Powder Monkey"
     },
     "bootlegger": {
       "ability": "This ledger has counterfeit stations or statutes.",
       "flavor": "My first crew called me 'Homebrewy McHomebrewface'. But the Admirals care naught for our little democracies.",
-      "name": "Bootlegger"
+      "name": "Brewer"
     },
     "bountyhunter": {
       "ability": "Ye join knowing 1 bad'un. If the matey ye know joins the locker, ye be told another bad'un next moon. [1 Crewmate be a bad'un]",
       "first": "Show the *KNOWN* matey.",
-      "flavor": "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure.",
-      "name": "Bounty Hunter",
+      "flavor": "The King's gold spends as well as any, and I've been paid to hunt for ye.",
+      "name": "Privateer",
       "other": "If the *KNOWN* matey joined the locker under last daylight or this moon, show a new *KNOWN* matey."
     },
     "buddhist": {
       "ability": "For the first 2 moments of each daylight, sea dogs hold their tongues.",
-      "first": "Proclaim the mateys affected by the Buddhist.",
-      "flavor": "You throw thorns. Falling in my silence, they become flowers.",
-      "name": "Buddhist"
+      "first": "Proclaim the mateys affected by the Cottonmouth.",
+      "flavor": "Do you have the courage and fortitude to follow orders and stay true in the face of danger and almost certain death? Mr. Cotton! Answer, man.",
+      "name": "Cottonmouth"
     },
     "bureaucrat": {
       "ability": "Ev'ry moon, pick a matey (not yerself): if they say aye in the morrow, it counts for 3.",
@@ -385,7 +391,7 @@
     "butcher": {
       "ability": "Ev'ry daylight, after a player walks the plank, ye can accuse again.",
       "flavor": "Looks like meat's back on the menu, boys. Don't worry about what happened to Polly.",
-      "name": "Butcher"
+      "name": "Chopper"
     },
     "butler": {
       "ability": "Ev'ry moon, pick a matey (not yerself): in the morrow, ye can say aye only if they do, too.",
@@ -394,17 +400,23 @@
       "name": "Cabin Boy",
       "other": "The Cabin Boy picks a matey. :reminder:"
     },
+    "cacklejack": {
+      "ability": "Ev'ry daylight, pick a matey: another matey switches station next moon.",
+      "flavor": "Saltpetre. Sulfur. Maybe throw in some rum, why not?",
+      "name": "Alchemist",
+      "other": "Afore sun up, pick a matey not marked *NOT ME*. Rouse the pick. Show the *YE BE* mark and their new station mark."
+    },
     "cannibal": {
       "ability": "Ye work the trade of the most recent matey to have joined the locker by walkin' the plank. If they be a bad'un, ye be seasick until a good'un joins the locker by walkin' the plank.",
-      "flavor": "I don’t like clowns. They taste funny.",
-      "name": "Cannibal"
+      "flavor": "AAAAAAAAAAARRRRRRRRGH *sploosh*",
+      "name": "Cannon Ball"
     },
     "cerenovus": {
       "ability": "Ev'ry moon, pick a matey & a deckhand: they be \"addled\" that they be working this station in the morrow, or mayhaps walk the plank.",
-      "first": "The Cerenovus picks a matey & a station. :reminder: Send the Cerenovus to slumber. Rouse the pick. Show the *THIS STATION PICKED YE* mark, the Cerenovus mark, then the addled-station mark.",
+      "first": "The Fata Morgana picks a matey & a station. :reminder: Send the Fata Morgana to slumber. Rouse the pick. Show the *THIS STATION PICKED YE* mark, the Fata Morgana mark, then the addled-station mark.",
       "flavor": "Reality be merely an opinion. Specifically, my opinion.",
-      "name": "Cerenovus",
-      "other": "The Cerenovus picks a matey & a station. :reminder: Send the Cerenovus to slumber. Rouse the pick. Show the *THIS STATION PICKED YE* mark, the Cerenovus mark, then the addled-station mark."
+      "name": "Fata Morgana",
+      "other": "The Fata Morgana picks a matey & a station. :reminder: Send the Fata Morgana to slumber. Rouse the pick. Show the *THIS STATION PICKED YE* mark, the Fata Morgana mark, then the addled-station mark."
     },
     "chambermaid": {
       "ability": "Ev'ry moon, pick 2 livin' mateys (but not you): ye be told how many were roused this moon thanks to their trade.",
@@ -420,10 +432,10 @@
       "name": "Cook"
     },
     "choirboy": {
-      "ability": "If'n the Beast o' the Sea sends the King to the locker, ye be told which matey be the Beast o' the Sea. [+the King]",
-      "flavor": "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours.",
-      "name": "Choirboy",
-      "other": "If'n the Beast o' the Sea sent the King to the locker, point at the Beast o' the Sea."
+      "ability": "If'n the Beast o' the Sea sends the Master to the locker, ye be told which matey be the Beast o' the Sea. [+the Master]",
+      "flavor": "Ah, the word with which the master makes the broom a broom once more! Ah, he runs and fetches faster! Be a broomstick as before!",
+      "name": "Apprentice",
+      "other": "If'n the Beast o' the Sea sent the Master to the locker, point at the Beast o' the Sea."
     },
     "clockmaker": {
       "ability": "Ye join knowin' how many steps from the Beast o' the Sea to the nearest Scallywag.",
@@ -440,10 +452,10 @@
     },
     "cultleader": {
       "ability": "Ev'ry moon, ye turn the loyalty of a livin' bunkmate. If all good'uns join yer cult, ye prevail.",
-      "first": "The Cult Leader mayhaps turns loyalty. If so, show the *YE BE* mark and a thumbs up or down for their new loyalty.",
-      "flavor": "Thinking themselves wise, they became fools.",
-      "name": "Cult Leader",
-      "other": "The Cult Leader mayhaps turns loyalty. If so, show the *YE BE* mark and a thumbs up or down for their new loyalty."
+      "first": "The Ritulist mayhaps turns loyalty. If so, show the *YE BE* mark and a thumbs up or down for their new loyalty.",
+      "flavor": "Quick, join hands! Let us pray together for calm waters.",
+      "name": "Ritualist",
+      "other": "The Ritualist mayhaps turns loyalty. If so, show the *YE BE* mark and a thumbs up or down for their new loyalty."
     },
     "damsel": {
       "ability": "All Scallywags be told the Quarry be aboard. If'n a Scallywag guesses ye on deck (once), yer crew sinks.",
@@ -469,14 +481,14 @@
     "deviant": {
       "ability": "If ye were funny during this daylight, ye don't join the locker if ye be set off to sea.",
       "flavor": "What's a pirate's favourite letter? Sea! No, Arr!",
-      "name": "Deviant"
+      "name": "The Jester we Picked Up off the Shore o' That Island just West o' Bermuda that we Make Tell us Jokes"
     },
     "devilsadvocate": {
       "ability": "Ev'ry moon, pick a livin' matey (that ye didn't pick last moon): if'n they walk the plank in the next daylight, they don't join the locker.",
-      "first": "The Devil's Advocate picks a livin' matey. :reminder:",
-      "flavor": "The Pirate Code CLEARLY states that no person shall... be punished... for any crime... without the agreed permission of the Captain. Regrettably, as the Captain was recently eaten by a sea monster, said monster cannot be held responsible for its actions, ipse facto, we must all adjourn to our cabins and talk about this more tomorrow.",
-      "name": "Devil's Advocate",
-      "other": "The Devil's Advocate picks a livin' matey. :reminder:"
+      "first": "The Intercessor picks a livin' matey. :reminder:",
+      "flavor": "The Pirate Code CLEARLY states that no person shall... be punished... for any crime... without the agreed permission of the Captain. Regrettably, as the Captain was recently eaten by a sea monster, said monster cannot be held responsible for its actions, ipso facto, we must all adjourn to our cabins and talk about this more tomorrow.",
+      "name": "Intercessor",
+      "other": "The Intercessor picks a livin' matey. :reminder:"
     },
     "djinn": {
       "ability": "Use the Genie's statutes. All mateys know what they be.",
@@ -485,8 +497,8 @@
     },
     "doomsayer": {
       "ability": "If'n there be 4 or more livin' mateys, once in the journey, each livin' matey can make a matey of their own loyalty join the locker when on deck.",
-      "flavor": "Great Poseidon himself has sent storm and death! We must throw ourselves of to lighten the load! And, lo! The seventh seal is shattered! I suppose it deserves a rest.",
-      "name": "Doomsayer"
+      "flavor": "The Lord of the Sea himself has sent storm and death! We must throw ourselves off to lighten the load! And, lo! The seventh seal is shattered! I suppose it deserves a rest.",
+      "name": "Poseidon's Wrath"
     },
     "dreamer": {
       "ability": "Ev'ry moon, pick a player (not yerself or Landlubbers): ye be told 1 deckhand & 1 ne'erdowell, 1 o' which they be.",
@@ -497,14 +509,14 @@
     },
     "drunk": {
       "ability": "Ye don't know ye be the Drunkard. Ye tink ye be a Crewmate, but yer not.",
-      "flavor": "The best part o' saiWhling be all the rum. The worst, be all the grog. But I'd not change it fer a moment. Way, hey, and up she rises!",
+      "flavor": "The best part o' sailing be all the rum. The worst, be all the grog. But I'd not change it fer a moment. Way, hey, and up she rises!",
       "name": "Drunkard"
     },
     "duchess": {
       "ability": "Ev'ry sun, 3 mateys can visit ye. Under the next moon, each o' them be told how many be bad'uns, but 1 gets scurvy.",
       "flavor": "We have a luncheon with Governor Torres at 2 precisely. Do not be late. Formal wear applies, as always.",
-      "name": "Duchess",
-      "other": "Rouse each matey marked *VISITOR* or *SCURVEY* one at a time. Show them the Duchess token, then fingers (1, 2, 3), one for each bad'un marked “Visitor” or, if you are waking the player marked “Scurvey,” show them any number o' fingers except the number o' bad'uns marked “Visitor.”"
+      "name": "Her Ladyship",
+      "other": "Rouse each matey marked *VISITOR* or *SCURVY* one at a time. Show them the Duchess token, then fingers (1, 2, 3), one for each bad'un marked “Visitor” or, if you are waking the player marked “Scurvy,” show them any number o' fingers except the number o' bad'uns marked “Visitor.”"
     },
     "dusk": {
       "first": "Send 'em to slumber.",
@@ -538,10 +550,10 @@
       "other": "The Chaplain picks a matey. :reminder: Send the Chaplain to slumber. If'n the Chaplain picked the Beast o' the Sea: rouse the Beast o' the Sea. Show the *THIS MATEY PICKED YE* & Chaplain marks. Point at the Chaplain."
     },
     "fanggu": {
-      "ability": "Ev'ry moon*, pick a matey: the join the locker. the first Stowaway this sends to the locker becomes a bad Fang Gu and ye join the locker instead. [+1 Stowaway]",
+      "ability": "Ev'ry moon*, pick a matey: the join the locker. the first Stowaway this sends to the locker becomes a bad Ghost Ship and ye join the locker instead. [+1 Stowaway]",
       "flavor": "Yer cannons and yer hull be naught but smoke on the water.",
-      "name": "Fang Gu",
-      "other": "The Fang Gu picks a matey. :reminder: If they picked a Stowaway (once only): give the Stowaway the spare Fang Gu mark. Send the Fang Gu to slumber. Rouse the pick. Show the *YE BE* and Fang Gu marks and give a thumbs-down. :reminder:"
+      "name": "Ghost Ship",
+      "other": "The Ghost Ship picks a matey. :reminder: If they picked a Stowaway (once only): give the Stowaway the spare Ghost Ship mark. Send the Ghost Ship to slumber. Rouse the pick. Show the *YE BE* and Ghost Ship marks and give a thumbs-down. :reminder:"
     },
     "farmer": {
       "ability": "If'n ye join the locker under the moon, a livin' good matey becomes a Fisher.",
@@ -551,25 +563,25 @@
     },
     "fearmonger": {
       "ability": "Ev'ry moon, pick a matey: if'n ye accuse them and they walk the plank, their crew sinks. All players know if ye picked a new matey.",
-      "first": "The Fearmonger picks a matey. :reminder: Proclaim that \"the Fearmonger has picked a matey.\"",
+      "first": "The Agitator picks a matey. :reminder: Proclaim that \"the Agitator has picked a matey.\"",
       "flavor": "All alone, out at sea. Anything could go wrong. And you'll turn on each other.",
-      "name": "Fearmonger",
-      "other": "The Fearmonger picks a matey. :reminder: If'n the matey didn't already have the *FEAR* 'memberin mark, proclaim that \"the Fearmonger has picked a matey.\""
+      "name": "Agitator",
+      "other": "The Agitator picks a matey. :reminder: If'n the matey didn't already have the *FEAR* 'memberin mark, proclaim that \"the Agitator has picked a matey.\""
     },
     "ferryman": {
       "ability": "All mateys in the locker regain their dead man's treasure when approaching port.",
-      "flavor": "When righteous dreams come, they have the weight of truth.",
-      "name": "Ferryman"
+      "flavor": "Who hath seen the phantom ship, the ocean will yer secret keep.",
+      "name": "Flying Dutchman"
     },
     "fibbin": {
       "ability": "Once in the journey, 1 good'un mayhaps gets wrong knowin's.",
-      "flavor": "Tee-hee-hee. Tee. Hee. Hee.",
-      "name": "Fibbin"
+      "flavor": "Me? What'd I do?",
+      "name": "Japester"
     },
     "fiddler": {
       "ability": "Once in the journey, the Beast o' the Sea below deck picks a foe: all mateys pick which o' the 2 mateys prevails.",
-      "flavor": "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet.",
-      "name": "Fiddler"
+      "flavor": "Number one, the challenge, demand yer satisfaction.",
+      "name": "Duelist"
     },
     "fisherman": {
       "ability": "Once on yer journey, in daylight, see the Captain for some guidance to help yer crew prevail.",
@@ -596,9 +608,9 @@
     },
     "gambler": {
       "ability": "Ev'ry moon*, pick a matey & guess their station: if ye be wrong, ye join the locker.",
-      "flavor": "Heads, I prevail. Tails, ye sink.",
-      "name": "Gambler",
-      "other": "The Gambler picks a matey & a station. :reminder:"
+      "flavor": "No Purchase, No Pay.",
+      "name": "Daredevil",
+      "other": "The Daredevil picks a matey & a station. :reminder:"
     },
     "gangster": {
       "ability": "Once per daylight, ye can send a livin' bunkmate to the locker, if yer other livin' bunkmate agrees.",
@@ -607,8 +619,8 @@
     },
     "gardener": {
       "ability": "The Captain picks 1 or more mateys' stations.",
-      "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones.",
-      "name": "Gardener"
+      "flavor": "I am... apt to follow blindly the lead of other men.",
+      "name": "Darwin"
     },
     "general": {
       "ability": "Ev'ry moon, ye be told which crew the Captain thinks be prevailing: the good'uns, the bad'uns, or neither.",
@@ -623,9 +635,9 @@
       "name": "Gremlin"
     },
     "goblin": {
-      "ability": "If'n ye claim to be the Goblin when accused & ye walk the plank that daylight, yer crew prevails.",
+      "ability": "If'n ye claim to be Popeye when accused & ye walk the plank that daylight, yer crew prevails.",
       "flavor": "Gobble, gobble.",
-      "name": "Goblin"
+      "name": "Popeye"
     },
     "godfather": {
       "ability": "Ye join knowin' which Stowaways be aboard. If one joined the locker in the last daylight, pick a matey this moon: they join the locker. [-1 or +1 Stowaway]",
@@ -633,6 +645,11 @@
       "flavor": "I have some very important clients in Havana. They'd be very disappointed if anything happened to their special goods and guests. And so would I.",
       "name": "Smuggler",
       "other": "If'n a Stowaway joined the locker in the last daylight, the Smuggler picks a matey. :reminder:"
+    },
+    "godofug": {
+      "ability": "If'n ye talk like a mate o' the sea or in just one sound at a time (Cap'n picks), ye vote twice. If ye fail, pass the Cap'n cap.",
+      "flavor": "Arr.",
+      "name": "God o' Arrrrrr"
     },
     "golem": {
       "ability": "Ye can only accuse once on yer journey. When ye do, if the accusee be not the Beast o' the Sea, they join the locker.",
@@ -647,14 +664,14 @@
     "gossip": {
       "ability": "Ev'ry day, ye can say something on deck. Next moon, were it true, a matey joins the locker.",
       "flavor": "They say loose lips sink ships, but we're still floating!",
-      "name": "Gossip",
-      "other": "If'n the Gossip should send a matey to the locker, they do. :reminder:"
+      "name": "Tattletale",
+      "other": "If'n the Tattletale should send a matey to the locker, they do. :reminder:"
     },
     "grandmother": {
       "ability": "Ye join knowin' a good'un & their station. If'n the Beast o' the Sea sends them to the locker, ye join too.",
       "first": "Point at the grandchild matey & show their station mark.",
       "flavor": "You know I don't like your sailing mates, dear. At least promise to wrap up warm. It's cold at sea, what would I do without you?",
-      "name": "Grandmother",
+      "name": "Granma",
       "other": "If'n the grandchild were sent to the locker by the Beast o' the Sea, the Grandmother also joins. :reminder:"
     },
     "gunslinger": {
@@ -665,8 +682,8 @@
     "harlot": {
       "ability": "Ev'ry moon*, pick a livin' matey: if'n they agree, ye be told their station, but ye both mayhaps join the locker.",
       "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good.",
-      "name": "Harlot",
-      "other": "The Harlot points at a livin' matey. Send 'em to slumber. Rouse the picked matey, show 'em the *THIS STATION PICKED YE* mark, then the Harlot mark. That matey either nods or shakes their noggin. If they nodded, rouse the Harlot and show the picked matey's station mark. Them ye can pick if both mateys join the locker."
+      "name": "Scarlet Woman",
+      "other": "The Scarlet Woman points at a livin' matey. Send 'em to slumber. Rouse the picked matey, show 'em the *THIS STATION PICKED YE* mark, then the Scarlet Woman mark. That matey either nods or shakes their noggin. If they nodded, rouse the Scarlet Woman and show the picked matey's station mark. Them ye can pick if both mateys join the locker."
     },
     "harpy": {
       "ability": "Ev'ry moon, pick 2 mateys: in the morrow, the 1st matey be addled that the 2nd be a bad'un, or mayhaps one or both be sent to the locker.",
@@ -689,7 +706,7 @@
     "heretic": {
       "ability": "Those who prevail, sink and those who sink, prevail, even if ye be in the locker.",
       "flavor": "Anglican, Calvinist, Catholic, Muslim. Who cares what your confession is? Our souls are damned regardless.",
-      "name": "Heretic"
+      "name": "Accursed"
     },
     "hermit": {
       "ability": "Ye work all Stowaway trades. [-0 or -1 Stowaway]",
@@ -702,6 +719,11 @@
       "flavor": "There be life behind the personality that uses personalities as masks. There be times when life puts off the mask and deep answers to deep.",
       "name": "High Priestess",
       "other": "Point at a matey."
+    },
+    "hindu": {
+      "ability": "The first 4 mateys to join the locker come right back to the livin' sharp-like and keep their loyalty.",
+      "flavor": "From the black horizon we come, sails full of the wind of the grave. The living flee the sea by day… but by night the ocean belongs to us.",
+      "name": "Armada of the Damned"
     },
     "huntsman": {
       "ability": "Once in yer journey, under the moon, pick a livin' matey: the Quarry, if picked, becomes a not-in-play Crewmate. [+the Quarry]",
@@ -736,27 +758,32 @@
     "juggler": {
       "ability": "During yer 1st daylight, guess up to 5 mateys' stations on deck. That moon, ye be told how many were right.",
       "flavor": "A cutlass, a pistol, a cannonball, a square cut from the mast and the teeth o' a kraken. Who can keep all five in the air?",
-      "name": "Juggler",
+      "name": "Tosser",
       "other": "Make a gesture with yer fingers."
     },
     "kazali": {
-      "ability": "Ev'ry moon*, pick a matey: the join the locker. [Ye pick which mateys be which Scallywags. -? to +? Stowaways]",
-      "first": "Rouse the Kazali, let 'em pick Scallywags.",
-      "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
-      "name": "Kazali",
-      "other": "The Kazali picks a matey. :reminder: "
+      "ability": "Ev'ry moon*, pick a matey: they join the locker. [Ye pick which mateys be which Scallywags. -? to +? Stowaways]",
+      "first": "Rouse Fate's Hand, let 'em pick Scallywags.",
+      "flavor": "Arise, my champions. I have chosen you to reap eternal glory.",
+      "name": "Fate's Hand",
+      "other": "Fate's Hand picks a matey. :reminder:"
     },
     "king": {
-      "ability": "Ev'ry moon, if'n the count o' those in the locker is the same as or more than there be livin', ye learn 1 livin' station. The Beast o' the Sea knows ye be the King.",
-      "first": "Rouse the Beast o' the Sea. Show the *THIS MATEY BE* mark and the King mark, then point at the King.",
-      "flavor": "This is now a vessel of the Crown, and ye fine and gentle folk are now a part of the Royal Navy.",
-      "name": "King",
+      "ability": "Ev'ry moon, if'n the count o' those in the locker is the same as or more than there be livin', ye learn 1 livin' station. The Beast o' the Sea knows ye be the Master.",
+      "first": "Rouse the Beast o' the Sea. Show the *THIS MATEY BE* mark and the Master mark, then point at the Master.",
+      "flavor": "I am the Master, and ye will obey me.",
+      "name": "Master",
       "other": "If'n the count o' those in the locker be the same as or more than those livin', show the station mark o' a livin' matey."
     },
     "klutz": {
       "ability": "When ye be told that ye be in the locker, on deck, pick a livin' matey: if they be a bad'un, yer crew sinks.",
       "flavor": "Marry!",
       "name": "Fumbler"
+    },
+    "knaves": {
+      "ability": "There be 2 Captains: one has a false tongue and one has good. Once in yer journey, at sun down, they mayhaps switch.",
+      "flavor": "Parlay! I invoke the right of parlay. According to the Code of the Brethren, set down by the pirates Morgan and Bartholomew, you have to take me to your Captain.",
+      "name": "Captains' Parley"
     },
     "knight": {
       "ability": "Ye join knowin' 2 mateys be not the Beast o' the Sea.",
@@ -775,7 +802,7 @@
       "first": "Tell on deck that \"The Kraken be aboard.\" Give the Kraken the *SUNRISE 1* 'memberin mark. :reminder:",
       "flavor": "I am released, and now, I come for thee.",
       "name": "Kraken",
-      "other": "If'n ye want, tell on deck that \"The Kraken be aboard\". Change the 'memberin 'mark. :reminder:"
+      "other": "If ye want, tell on deck that \"The Kraken be aboard\". Change the 'memberin 'mark. :reminder:"
     },
     "librarian": {
       "ability": "Ye join knowin' that one o' two mateys be a given Stowaway. (or that none be aboard.)",
@@ -784,21 +811,21 @@
       "name": "Bosun"
     },
     "lilmonsta": {
-      "ability": "Ev'ry moon, Scallywags pick who babysists Lil' Monsta & \"is the Beast o' the Sea\". Ev'ry moon*, a matey mayhaps joins the locker. [+1 Scallywag]",
+      "ability": "Ev'ry moon, Scallywags pick who babysists Lil' Globsta & \"is the Beast o' the Sea\". Ev'ry moon*, a matey mayhaps joins the locker. [+1 Scallywag]",
       "first": "Rouse all Scallywags, let 'em pick a babysitter. :reminder:",
       "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
-      "name": "Lil' Monsta",
+      "name": "Lil' Globsta",
       "other": "Rouse all Scallywags, let 'em pick a babysitter. :reminder: A matey mayhap joins the locker. :reminder:"
     },
     "lleech": {
       "ability": "Ev'ry moon*, pick a matey: they join the locker. Pick a matey when ye join: they be seasick. Ye join the locker if & only if they be in the locker.",
-      "first": "The Lleech picks a matey. :reminder:",
-      "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
-      "name": "Lleech",
-      "other": "The Lleech picks a matey. :reminder:"
+      "first": "The Barnacle picks a matey. :reminder:",
+      "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty boat- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+      "name": "Barnacle",
+      "other": "The Barnacle picks a matey. :reminder:"
     },
     "lordoftyphon": {
-      "ability": "Ev'ry moon, pick a matey: the join the locker. [Ne'erdowells be in a row. Ye be in the middle. +1 Scallywag. -? to +? Stowaways]",
+      "ability": "Ev'ry moon, pick a matey: they join the locker. [Ne'erdowells be in a row. Ye be in the middle. +1 Scallywag. -? to +? Stowaways]",
       "first": "Change bunkmates o' Poseidon's Spear wi' Scallywags, rouse 'em, tell 'em their new loyalty and station, then do Scallywag knowin's.",
       "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds.",
       "name": "Poseidon's Spear",
@@ -806,10 +833,10 @@
     },
     "lunatic": {
       "ability": "Ye tink ye be a Beast o' the Sea, be yer not. The Beast o' the Sea knows who ye be and who ye pick under the moon.",
-      "first": "If'n there be 7 or more mateys, rouse the Lunatic: show the *THESE BE YER SCALLYWAGS* mark. Point at any mateys. Show the *THESE STATIONS BE ASHORE* mark. Show 3 deckhand marks. Send the Lunatic to slumber. Rouse the Beast o' the Sea. Show the *YE BE* mark and the Beast o' the Sea mark. Show the *THIS MATEY BE* mark and the Lunatic mark, and point at the Lunatic.",
+      "first": "If'n there be 7 or more mateys, rouse the Madman: show the *THESE BE YER SCALLYWAGS* mark. Point at any mateys. Show the *THESE STATIONS BE ASHORE* mark. Show 3 deckhand marks. Send the Madman to slumber. Rouse the Beast o' the Sea. Show the *YE BE* mark and the Beast o' the Sea mark. Show the *THIS MATEY BE* mark and the Madman mark, and point at the Madman.",
       "flavor": "I be the Moon... mayhaps.",
-      "name": "Lunatic",
-      "other": "Do what needs be done to make the Lunatic tink they be the Beast o' the Sea. Send the Lunatic to slumber. Show the Lunatic mark & point at them, then their pick(s)."
+      "name": "Madman",
+      "other": "Do what needs be done to make the Madman tink they be the Beast o' the Sea. Send the Madman to slumber. Show the Madman mark & point at them, then their pick(s)."
     },
     "lycanthrope": {
       "ability": "Ev'ry moon*, pick a livin' matey. If they be a good'un, they join the locker & the Beast o' the Sea doesn't send anyone to the locker this moon. One good'un passes for a bad'un.",
@@ -819,9 +846,9 @@
     },
     "magician": {
       "ability": "The Beast o' the Sea tinks ye be a Scallywag. Scallywags tink ye be a Beast o' the Sea.",
-      "first": "Show the Scallywags and Beasts o' the Sea the Magician in their knowin's.",
-      "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
-      "name": "Magician"
+      "first": "Show the Scallywags and Beasts o' the Sea the Trickster in their knowin's.",
+      "flavor": "I never really was on your side.",
+      "name": "Trickster"
     },
     "marionette": {
       "ability": "Ye tink ye be a good'un, but ye be not. The Beast o' the Sea be told who ye be. [Ye be bunkmates wi' the Beast o' the Sea]",
@@ -844,7 +871,7 @@
     "matron": {
       "ability": "Ev'ry daylight, ye can pick up to 3 sets o' 2 mateys to swap seats. Mateys must stay on deck.",
       "flavor": "Captain Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you've been sailing for five months, but weariness is no excuse for poor manners.",
-      "name": "Matron"
+      "name": "Ma"
     },
     "mayor": {
       "ability": "If'n just 3 mateys be livin' & nobody walks the plank, yer crew prevails. If'n ye should join the locker under the moon, another matey mayhaps joins it instead.",
@@ -875,9 +902,9 @@
     },
     "moonchild": {
       "ability": "When ye be told that ye joined the locker, on deck pick 1 livin' matey. Next moon, were it a good'un, they join the locker.",
-      "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it.",
-      "name": "Moonchild",
-      "other": "If'n the Moonchild be set to send a good'un to the locker, they join it. :reminder:"
+      "flavor": "Meow.",
+      "name": "Ship's Cat",
+      "other": "If'n the Ship's Cat be set to send a good'un to the locker, they join it. :reminder:"
     },
     "mutant": {
       "ability": "If'n yer \"delirious\" that yer a Stowaway, ye might be thrown overboard.",
@@ -899,21 +926,21 @@
     },
     "nodashii": {
       "ability": "Ev'ry moon*, pick a matey: they join the locker. Yer 2 Crewmate bunkmates be seasick.",
-      "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane.",
-      "name": "No Dashii",
-      "other": "The No Dashii picks a matey. :reminder:"
+      "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+      "name": "Leviathan",
+      "other": "Leviathan picks a matey. :reminder:"
     },
     "ogre": {
       "ability": "Under yer 1st moon, pick a matey (not yerself): you become their loyalty (ye don't know which) even if tipsy or seasick.",
-      "first": "The Ogre points at a matey. :reminder:",
-      "flavor": "<grunt><grin></grunt>",
-      "name": "Ogre"
+      "first": "The Sycophant points at a matey. :reminder:",
+      "flavor": "Right ye are, me hearty, whatever ye say!",
+      "name": "Sycophant"
     },
     "ojo": {
       "ability": "Ev’ry moon, pick a position: they be joinin' the locker. If'n they be ashore, the captain picks who joins the locker.",
-      "flavor": "Like a bonfire on a moonless night… I see you, mortal.",
-      "name": "Ojo",
-      "other": "The Ojo picks a matey. :reminder: "
+      "flavor": "One eye on this world, and one on the next.",
+      "name": "Eyepatch",
+      "other": "The Eyepatch picks a matey. :reminder:"
     },
     "oracle": {
       "ability": "Ev'ry moon*, ye be told how many players in the locker be bad'uns.",
@@ -942,9 +969,9 @@
     },
     "pithag": {
       "ability": "Ev'ry moon*, pick a matey & a station for them to work (if not aboard). If a Beast o' the Sea be made, the Captain picks who joins the locker under this moon.",
-      "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
-      "name": "Pit-Hag",
-      "other": "The Pit-Hag picks a matey & a station. If they picked a station that be ashore: send the Pit-Hag to slumber. Rouse the pick. Show the *YE BE* mark & their new station mark."
+      "flavor": "If I am wise, it is only because I have been fool enough for a hundred lifetimes.",
+      "name": "Circe",
+      "other": "Circe picks a matey & a station. If they picked a station that be ashore: send Circe to slumber. Rouse the pick. Show the *YE BE* mark & their new station mark."
     },
     "pixie": {
       "ability": "Ye join knowin' 1 aboard crewmate. If ye were addled that ye worked this station, ye work their trade when they join the locker.",
@@ -955,33 +982,38 @@
     "plaguedoctor": {
       "ability": "When ye join the locker, the Captain works a Scallywag trade.",
       "flavor": "Eat your lemons. Smell your rosemary. If it weren't for me, this would be a plague ship.",
-      "name": "Plague Doctor",
-      "other": "If'n the Plague Doctor joined the locker, the Captain works a Scallywag trade. If ye haven't done this yet, do it now."
+      "name": "Ship's Doctor",
+      "other": "If'n the Ship's Doctor joined the locker, the Captain works a Scallywag trade. If ye haven't done this yet, do it now."
     },
     "po": {
       "ability": "Ev'ry moon*, ye can pick a matey: they die. If yer last pick were no one, pick 3 mateys this moon.",
-      "flavor": "Would ye like a flower? I'm so lonely.",
-      "name": "Po",
-      "other": "The Po can pick a matey or picks the mateys if they picked no one last moon. :reminder: or :reminder: :reminder: :reminder:"
+      "flavor": "The tyrants of the world must be unseated! We can no longer tolerate kings and despots making slaves of our fellow man. And so we shall adopt a new doctrine: war against the world!",
+      "name": "Enemy of Mankind",
+      "other": "The Enemy of Mankind can pick a matey or picks the mateys if they picked no one last moon. :reminder: or :reminder: :reminder: :reminder:"
     },
     "poisoner": {
-      "ability": "Ev'ry moon, pick a matey: they be tipsy this moon and under the next daylight.",
-      "first": "The Poisoner picks a matey. :reminder:",
+      "ability": "Ev'ry moon, pick a matey: they be seasick this moon and under the next daylight.",
+      "first": "The Boat-Rocker picks a matey. :reminder:",
       "flavor": "A little hemlock, some foxglove... mustn't forget the nightshade...",
-      "name": "Poisoner",
-      "other": "The Poisoner picks a matey. :reminder:"
+      "name": "Boat-Rocker",
+      "other": "The Boat-Rocker picks a matey. :reminder:"
     },
     "politician": {
       "ability": "If'n ye were the matey (most responsible) for ye loyalty’s ship sinking, ye (change) loyalty & prevail, even if ye be in the locker.",
       "flavor": "Absolutely, my lord. I'm fully on your side. And you know I'm on your side, so you know it doesn't matter that I'm going to talk to the other faction. Really, when I come back and tell you how much I'm still on your side, you should only trust me more!",
       "name": "Courtier"
     },
+    "pope": {
+      "ability": "Mateys be doubling up on on-board deckhands. They mayhaps be fools' marks.",
+      "flavor": "Oh, the hu...bris of man, to think of me as a woman.",
+      "name": "Manatee"
+    },
     "poppygrower": {
       "ability": "Scallywags & Beasts o' the Sea don't know each other. If ye join the locker, they be told who each other are under the moon.",
       "first": "Do not give the Scallywags and Beasts o' the Sea their knowin's. Rouse the Beast o' the Seat, show the *THE STATIONS BE ASHORE* mark and any three Deckhand marks that be ashore.",
-      "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark.",
-      "name": "Poppy Grower",
-      "other": "If'n the Poppy Grower joined the locker under this moon or the last daylight, rouse the Scallywags, show the *THIS BE THE BEAST O' THE SEA* mark, and point at the Beast o' the Sea. Send them to slumber. Rouse the Beast o' the Sea, show the *THESE BE YER SCALLYWAGS* mark, and point at the Scallywags. Send the Beast o' the Sea to slumber."
+      "flavor": "I be gonna wreck it",
+      "name": "Wrecker",
+      "other": "If'n the Wrecker joined the locker under this moon or the last daylight, rouse the Scallywags, show the *THIS BE THE BEAST O' THE SEA* mark, and point at the Beast o' the Sea. Send them to slumber. Rouse the Beast o' the Sea, show the *THESE BE YER SCALLYWAGS* mark, and point at the Scallywags. Send the Beast o' the Sea to slumber."
     },
     "preacher": {
       "ability": "Ev'ry moon, pick a matey: a Scallywag, if picked, be told this. All picked Scallywags work no trade.",
@@ -993,8 +1025,8 @@
     "princess": {
       "ability": "Under yer 1st daylight, if ye accused a matey & made them walk the plank, the Beast o' the Sea doesn't send anyone to the locker under the next moon.",
       "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court.",
-      "name": "Princess",
-      "other": "If'n the Princess accused the matey who walked the plank under last daylight, the Beast o' the Sea rouses like normal, but doesn't send anyone to the locker."
+      "name": "Mermaid",
+      "other": "If'n the Mermaid accused the matey who walked the plank under last daylight, the Beast o' the Sea rouses like normal, but doesn't send anyone to the locker."
     },
     "professor": {
       "ability": "Once in yer journey, under the moon*, pick a matey in the locker: if they be a Crewmate, they be livin'.",
@@ -1009,13 +1041,13 @@
     },
     "pukka": {
       "ability": "Ev'ry moon, pick a matey: they be seasick. The last player ye made seasick joins the locker, then is whole.",
-      "first": "The Pukka picks a matey. :reminder:",
-      "flavor": "You truly have been kind welcoming me onto your beautiful vessel. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret.",
-      "name": "Pukka",
+      "first": "The Great Wave picks a matey. :reminder:",
+      "flavor": "The tide is in your favour. Today is your lucky day. But when the sun rises tomorrow? Who can say?",
+      "name": "Great Wave",
       "other": "The Pukka picks a matey. :reminder: The matey they previously made seasick joins the locker, then is made whole. :reminder:"
     },
     "puzzlemaster": {
-      "ability": "1 matey be tipsy, even if ye join the locker. If ye guess (once) who it be, learn the matey who be the Beast o' the Sea, but guess wrong and get scurvey.",
+      "ability": "1 matey be tipsy, even if ye join the locker. If ye guess (once) who it be, learn the matey who be the Beast o' the Sea, but guess wrong and get scurvy.",
       "flavor": "If all men fear the sea, and all pirates are men, and all who feel fear drink to ease their woes, and we are at sea, then it follows that the pirate who is tipsy is... a pirate!",
       "name": "Logician"
     },
@@ -1036,9 +1068,10 @@
       "name": "Leveller"
     },
     "riot": {
-      "ability": "During the 3rd daylight, Scallywags become Riot & the accused join the locker but accuse a livin' matey sharp-like. This must happen.",
-      "flavor": "Larga vida a la revolución! Mi revolucion!",
-      "name": "Riot"
+      "ability": "During the 3rd daylight, Scallywags become Chaos & the accused join the locker but accuse a livin' matey sharp-like. This must happen.",
+      "flavor": "47CGtrRlXc u2KOQGRY9 EJXvdEy14x ATQG4zXPIp AUrckPpwdy 1976AfTwTS HtY5o2QKYR gNqt3K4xd8 0mqiyIhEX9 CeK0i7YcPh uZ7Gh6S5Ug wgxVlJY2p6 HNWNRXCGEp uAXYwF9crk hgRbmW67tR",
+      "name": "Chaos",
+      "other": "Change the Chaos memberin' mark to the right sun. :reminder: If it be the 3rd moon, ye can rouse the Scallywahs. Show the *YE BE* & Chaos."
     },
     "sage": {
       "ability": "If'n the Beast o' the Sea sends ye to the locker, ye be told that it be 1 o' 2 mateys.",
@@ -1076,31 +1109,31 @@
     },
     "seamstress": {
       "ability": "Once on yer journey, under the moon, pick 2 mateys (not yerself): ye be told if they be the same loyalty.",
-      "first": "The Seamstress can pick 2 mateys. Nod or shake yer noggin. :reminder:",
-      "flavor": "Did you hear that stranger in the canvas coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes.",
-      "name": "Seamstress",
-      "other": "The Seamstress can pick 2 mateys. Nod or shake yer noggin. :reminder:"
+      "first": "Cupid can pick 2 mateys. Nod or shake yer noggin. :reminder:",
+      "flavor": "To let a fool kiss you is stupid. To let a kiss fool you is worse.",
+      "name": "Cupid",
+      "other": "Cupid can pick 2 mateys. Nod or shake yer noggin. :reminder:"
     },
     "sentinel": {
       "ability": "There mayhaps be 1 more or less Stowaway aboard.",
-      "flavor": "Name, please. Papers, please. Weapons, please.",
-      "name": "Sentinel"
+      "flavor": "liya, luwa, məəŋə məəŋɖa, əc ale, ʈ/ɖaŋ, ɖaik, kayə, tu aɖe, pila iŋ",
+      "name": "Andaman"
     },
     "shabaloth": {
       "ability": "Ev'ry moon*, pick 2 mateys: they join the locker. A matey in the locker ye picked last moon mayhaps be livin'.",
       "flavor": "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-      "name": "Great Whale",
-      "other": "A player picked last moon mayhap be livin. :reminder: The Great Whale picks 2 mateys. :reminder: :reminder:"
+      "name": "Devil Whale",
+      "other": "A player picked last moon mayhap be livin. :reminder: The Devil Whale picks 2 mateys. :reminder: :reminder:"
     },
     "shugenja": {
-      "ability": "Ye join knowin' if yer closest bad'un be left or right. If they be as close either way, ye can be told either.",
-      "first": "Point left or right around the ship.",
-      "flavor": "これは夢。それも夢。すべて夢です。",
-      "name": "Shugenja"
+      "ability": "Ye join knowin' if yer closest bad'un be port or starboard. If they be as close either way, ye can be told either.",
+      "first": "Point port or starboard around the ship.",
+      "flavor": "Beast o' the sea, hard to starboard, captain!",
+      "name": "Navigator"
     },
     "slayer": {
       "ability": "Once on yer journey, in daylight, pick a matey on deck: if they be the Beast o' the Sea, they join the locker.",
-      "flavor": "Die.",
+      "flavor": "Join the locker.",
       "name": "Hunter"
     },
     "snakecharmer": {
@@ -1149,12 +1182,12 @@
       "ability": "Ye get 3 Fool's Marks. Under the 3rd moon, pick a matey: pick a bad'un Beast o' the Sea for them. [No Beast o' the Sea]",
       "first": "Show the *THESE STATIONS BE ASHORE* mark. Show 3 ashore Deckhand marks.",
       "flavor": "By the black tides and the cursed moon, I do call forth from the fathomless deep a terror unseen by mortal eye. Come forth, O Leviathan of shadowed waters, hear my conjuration! Let thy coils rise and thy roar rend the heavens, that these so-called noble mariners know fear as the salt and the brine shall claim their bones. By eldritch vow and sea-witch’s hand, I bind thee to my will.",
-      "name": "Summoner",
-      "other": "Changer the Summoner memberin' mark to the right moon. If it be the 3rd moon, the Summoner picks a mater and a Beast o' the Sea. Send the Summoner to slumber. Rouse the picked matey. Show the *YE BE* mark, a thumbs down, and the picked Beast o' the Sea mark."
+      "name": "Stormcaller",
+      "other": "Change the Stormcaller memberin' mark to the right moon. If it be the 3rd moon, the Stormcaller picks a mater and a Beast o' the Sea. Send the Stormcaller to slumber. Rouse the picked matey. Show the *YE BE* mark, a thumbs down, and the picked Beast o' the Sea mark."
     },
     "sweetheart": {
-      "ability": "If ye join the locker, 1 matey be tipsy for the rest o' yer journey.",
-      "flavor": "I won't forget him. Ne'er.",
+      "ability": "If'n ye join the locker, 1 matey be tipsy for the rest o' yer journey.",
+      "flavor": "If the pirate had been more poetically minded he’d have thought that her eyes were like a thousand emeralds, glittering in a far-off pirate treasure chest. But he wasn’t, so he just thought that she had really really green eyes, a bit like seaweed.",
       "name": "Sweeting",
       "other": "If the Sweeting joined the locker, a matey became tipsy sharp-like. If ye haven't done it yet, do it now. :reminder:"
     },
@@ -1167,8 +1200,8 @@
       "ability": "Ev'ry moon, pick a matey (not yerself): their aye weighs against them in the morrow.",
       "first": "The Thief picks a matey. :reminder:",
       "flavor": "I did nowt wrong! You can't prove it! I didn't nick the Governor's fancy case o' rum! It wouldn't fit through the door!",
-      "name": "Thief",
-      "other": "The Thief picks a matey. :reminder:"
+      "name": "Looter",
+      "other": "The Looter picks a matey. :reminder:"
     },
     "tinker": {
       "ability": "Ye mayhap join the locker at any time.",
@@ -1178,8 +1211,10 @@
     },
     "tor": {
       "ability": "Mateys don't know their station or loyalty. They be told them if they join the locker.",
+      "first": "Don't tell the Ne'erdowells their knowin's.",
       "flavor": "Ah, ye be driftin’ too close to the depths, mate. The tide’s hungry tonight, and I’m hungrier still. Cross me waters, and ye’ll find no bottom, no mercy, and no friendly wind to carry ye home. Mark me words: the sea takes her due, and I’m the one keepin’ tally.",
-      "name": "Davey Jones' Locker"
+      "name": "Davey Jones' Locker",
+      "other": "If'n a matey joined the locker this moon, show the *YE BE* memberin' mark, their station mark, and give 'em a thumb sign."
     },
     "towncrier": {
       "ability": "Ev'ry moon*, ye be told if a Scallywag accused some'n under the last daylight.",
@@ -1191,7 +1226,7 @@
       "ability": "The Beast o' the Sea can pick not to pick and has to at least once on the journey. Bad'uns get their usual knowin's.",
       "first": "Give the Ne'erdowells their knowin's even though there be less than 7 mateys.",
       "flavor": "Is no fun, is no Blinsky!",
-      "name": "Toymaker",
+      "name": "Whittler",
       "other": "If a Beast o' the Sea could end the journey by attacking, and they be marked *LAST MOON: NO PICK*, the Beast o' the Sea doesn't rouse under this moon."
     },
     "undertaker": {
@@ -1200,8 +1235,13 @@
       "name": "Grave-Digger",
       "other": "If'n a matey walked the plank today, show their station mark."
     },
+    "ventriloquist": {
+      "ability": "If'n a matey be addled that they be a potable station when they be accused, they mayhaps don't be sent to the locker if'n they walk the plank under this sun.",
+      "flavor": "Polly want a cracker! Polly want a cracker!",
+      "name": "Parrot"
+    },
     "vigormortis": {
-      "ability": "Ev'ry moon, pick a matey: the join the locker. Scallywags ye send to the locker keep workin' their trade and make a Crewmate bunkmate seasick. [-1 Stowaway]",
+      "ability": "Ev'ry moon, pick a matey: they join the locker. Scallywags ye send to the locker keep workin' their trade and make a Crewmate bunkmate seasick. [-1 Stowaway]",
       "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life.",
       "name": "Rigorrustus",
       "other": "The Vigormortis picks a matey. :reminder: If that matey be a Scallywag, make a crewmate bunkmate seasick. :reminder: :reminder:"
@@ -1227,13 +1267,13 @@
     "vortox": {
       "ability": "Ev'ry Moon*, pick a matey, they join the locker. Crewmate occupations yield scurvy. Each Sun, if'n no matey’s walk the plank, bad’uns prevail.",
       "flavor": "Ye think ye rule the waves? I be the wind, the black water, and the breaker of bones. All that floats, all that breathes, be mine tonight.",
-      "name": "Great Storm",
-      "other": "The Great Storm picks a matey. :reminder:"
+      "name": "Maelstrom",
+      "other": "The Maelstrom picks a matey. :reminder:"
     },
     "voudon": {
       "ability": "Just ye and those in the locker can say aye. They don't need their dead man's treasure to do so. Ye don't need half the crew to concur.",
-      "flavor": "The dead speak, and I hear them. Cross not the tide tonight, or ye’ll answer to their wrath.",
-      "name": "Spirit-Caller"
+      "flavor": "The Roger the flown a ship or an, during early century (latter of Golden of ). The majority such flew motif a skull, “Death's”, often by elements, a field, called \"Head\" or the \"flag\".",
+      "name": "Jolly"
     },
     "washerwoman": {
       "ability": "Ye join knowin' that one o' two mateys be a particular Crewmate.",
@@ -1243,9 +1283,9 @@
     },
     "widow": {
       "ability": "Under yer first moon, look at the map and pick a matey: they be seasick. A good'un knows ye be aboard.",
-      "first": "Show the map for as long as the Widow needs. The Widow picks a matey. :reminder:",
+      "first": "Show the map for as long as the Thalassomancer needs. The Thalassomancer picks a matey. :reminder:",
       "flavor": "\"Will you walk into my parlour?\" said a spider to a fly, \"'Tis the prettiest little parlour that ever did you spy.\"",
-      "name": "Widow"
+      "name": "Thalassomancer"
     },
     "witch": {
       "ability": "Ev'ry moon, pick a matey: if'n they accuse in the morrow, they join the locker. If there be just 3 mateys livin', ye stop workin' this trade.",
@@ -1256,28 +1296,28 @@
     },
     "wizard": {
       "ability": "Once on yer journey, ye can make a wish. If'n it comes try, it mayhap has a cost, and leaves a clue to its self.",
-      "first": "Work the Wizard's trade, if needs be.",
+      "first": "Work the Sorcerer's trade, if needs be.",
       "flavor": "Every man and every woman is a star. Love is the law, love under will.",
-      "name": "Wizard",
-      "other": "Work the Wizard's trade, if needs be."
+      "name": "Sorcerer",
+      "other": "Work the Sorcerer's trade, if needs be."
     },
     "wraith": {
       "ability": "Ye can keep yer peepers open under the moon. Ye rouse with other bad'uns.",
-      "first": "Rouse the Wraith if other bad'uns be roused.",
-      "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
-      "name": "Wraith",
-      "other": "Rouse the Wraith if other bad'uns be roused."
+      "first": "Rouse the Whistler if other bad'uns be roused.",
+      "flavor": "Alrighty, lads, I'll keep lookout tonight, we take the ship on my signal.",
+      "name": "Whistler",
+      "other": "Rouse the Whistler if other bad'uns be roused."
     },
     "xaan": {
       "ability": "Under the Xth moon, all Crewmates be seasick until sun down. [X Stowaways]",
-      "first": "Mark the Xaan with the *FIRST MOON* mark. If X be 1, mark the Xaan with the *X* memberin' mark. :reminder: :reminder:",
+      "first": "Mark the Treasure Map with the *FIRST MOON* mark. If X be 1, mark the Treasure Map with the *X* memberin' mark. :reminder: :reminder:",
       "flavor": "Down ye fall. One by one. By two, by three, by five.",
-      "name": "Xaan",
-      "other": "Change the Xaan memberin' mark to the right moon. If it be the Xth moon, mark the Xaan wi' the *X* memberin' mark. :reminder: :reminder:"
+      "name": "Treasure Map",
+      "other": "Change the Treasure Map memberin' mark to the right moon. If it be the Xth moon, mark the Treasure Map wi' the *X* memberin' mark. :reminder: :reminder:"
     },
     "yaggababble": {
       "ability": "Ye join knowin' a secret phrase. Every time ye said it on deck under the most recent daylight, a matey mayhaps joins the locker.",
-      "first": "Pick a secret phrase. Rouse the Gorgon o' the Gab and tell 'em what it be.",
+      "first": "Pick a secret phrase. Rouse the Ghoul o' the Gab and tell 'em what it be.",
       "flavor": "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!",
       "name": "Ghoul o' the Gab",
       "other": "For ev'ry time the Ghoul o' the Gab gabbed last daylight, ye can pick a matey. They join the locker. :reminder:"
