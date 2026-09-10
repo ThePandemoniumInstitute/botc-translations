@@ -214,7 +214,8 @@
     },
 
     "st-sheet-options": {
-      "display-player-count": "Display Player Count Table"
+      "display-player-count": "Display Player Count Table",
+      "display-compact-night-order": "Display Night Order"
     },
 
     "night-sheet-options": {
