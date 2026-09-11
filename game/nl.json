@@ -501,7 +501,7 @@
       "name": "Mafioso"
     },
     "godofug": {
-      "ability": "Één Ug Hoed. Draag jij Ug Hoed? Jij moet praat in één klank per keer maar stem telt als twee. Als fout, Ug Hoed schuift door.",
+      "ability": "Één Ug Hoed. Draag jij Ug Hoed? Spreek in één klank per keer maar stem telt als twee. Als fout, Ug Hoed schuift door.",
       "flavor": "Gezegend zijn mijn kinderen, want zij zien de schoonheid in eenvoudige dingen."
     },
     "golem": {
@@ -549,21 +549,22 @@
     },
     "huntsman": {
       "flavor": "Mijn hut is warm en stevig. Mijn bijl staat bij de deur, mijn laarzen drogen bij het vuur, en er pruttelt elandstoof op het fornuis… Hoor! Een kreet weergalmt door de vallei! De regen, de modder en de ijskoude wind verbergen de geur van de wolven, maar ik ken het pad en mijn tred is vast. Ik kom eraan.",
-      "name": "Jager"
+      "name": "Jager",
+      "other": "De Huntsman mag een speler kiezen. :herinnering: Als hij de Damsel kiest: laat de Huntsman in slaap vallen. Ontwaak het doelwit. Laat het *JIJ BENT*-informatiefiche en het nieuwe karakterfiche zien."
     },
     "imp": {
-      "ability": "Elke nacht* kies een speler: deze sterft. Als jij jezelf op deze manier dood, wordt een Minion de Imp.",
+      "ability": "Elke nacht*, kies een speler: deze sterft. Als jij jezelf op deze manier dood, wordt een Handlanger de Imp.",
       "flavor": "Houd het verstand scherp en het zwaard scherper. Het kwaad loop rond en keert zich tegen ons, het goede en eenvoudige volk. Ons dorp wordt geruïneerd. Vertrouw niemand. Maar als je iemand wil vertrouwen, vertrouw dan mij.",
       "name": "Imp",
-      "other": "De Imp kiest een speler. :reminder: Als de Imp zichzelf heeft gekozen: verander 1 levende Minion token in de extra Imp token. Laat de oude Imp slapen. Maak de nieuwe Imp wakker. Laat het *JIJ BENT* en het Imp token zien."
+      "other": "De Imp kiest een speler. :reminder: Als de Imp zichzelf heeft gekozen: verander 1 levende Handlanger token in de extra Imp token. Laat de oude Imp slapen. Ontwaak de nieuwe Imp. Laat het *JIJ BENT* fiche en het Imp fiche zien."
     },
     "innkeeper": {
       "name": "Herbergier",
       "other": "De Herbergier kiest 2 spelers. :reminder: :reminder: :reminder:"
     },
     "investigator": {
-      "ability": "Jij start met weten dat 1 van 2 spelers een specifieke Minion is.",
-      "first": "Laat het Minion karakter zien. Wijs zowel de *MINION* als de *FOUTIEVE* speler aan.",
+      "ability": "Jij start met weten dat 1 van 2 spelers een specifieke Handlanger is.",
+      "first": "Laat de Handlangerkarakter zien. Wijs zowel de *HANDLANGER* als de *VERKEERDE* speler aan.",
       "name": "Onderzoeker"
     },
     "judge": {
@@ -574,15 +575,19 @@
       "other": "Geef een vingersignaal."
     },
     "kazali": {
-      "ability": "Elke nacht*, kies een speler: deze sterft. [Jij kiest welke spelers in een specifieke Minion veranderen. -? of +? Buitenstaanders]",
+      "ability": "Elke nacht*, kies een speler: deze sterft. [Jij kiest welke spelers in een specifieke Handlanger veranderen. -? of +? Buitenstaanders]",
+      "first": "De Kazali bepaalt welke spelers welke Handlangers zijn. Ontwaak elk doelwit . Laat de *JIJ BENT*- en Handlanger-fiches zien en steek je duim omlaag.",
+      "flavor": "Gon(z)a7les6. We3s tico- b3doel we3s voorz1chtig. Het m3ch4nisme is omgek33rd. E99ors gev0nden. H3rc0\\{7\\}figu3r3n.",
       "name": "Kazali",
       "other": "De Kazali kiest een speler. :reminder:"
     },
     "king": {
-      "name": "Koning"
+      "first": "Ontwaak de demoon: laat de fiches *DEZE SPELER IS* en ‘King’ zien, en wijs vervolgens naar de King.",
+      "name": "Koning",
+      "other": "Als het aantal doden gelijk is aan of groter is dan het aantal levenden, laat dan het karakterfiche van een levende speler zien."
     },
     "klutz": {
-      "ability": "Als je leert dat je gestorven bent kies je publiekelijk 1 levende speler: als deze slecht is verliest jouw team.",
+      "ability": "Als je leert dat je gestorven bent, kies je publiekelijk 1 levende speler: als deze slecht is, verliest jouw team.",
       "flavor": "Oeps.",
       "name": "Kluns"
     },
@@ -591,23 +596,27 @@
       "name": "Ridder"
     },
     "legion": {
-      "ability": "Elke nacht* kan een speler sterven. Executies mislukken als enkel slechte spelers stemmen. Jij registreert als Demoon en Minion. [De meeste spelers zijn Legioen]",
+      "ability": "Elke nacht*, kan een speler sterven. Executies mislukken als enkel slechte spelers stemmen. Jij registreert als Demoon en Handlanger. [De meeste spelers zijn Legion]",
       "flavor": "Wij zijn de kille wind op een winterdag. Wij zijn de schaduw in de nacht zonder maan. Wij zijn het gif in je kopje en het gefluister in je oor. Wij zijn overal.",
       "name": "Legioen"
     },
     "leviathan": {
+      "first": "Vertel publiekelijk \"De Leviathan zit in het spel\". :herinnering:",
       "flavor": "Tot het einde zal ik met je worstelen. Vanuit het diepst van de hel haal ik je neer. Uit haat spuw ik mijn laatste adem naar je uit.",
-      "name": "Leviathan"
+      "name": "Leviathan",
+      "other": "Pas het Leviathan-herinneringsfiche aan naar de betreffende dag. :reminder: Je mag aankondigen dat de Leviathan in het spel is."
     },
     "librarian": {
       "ability": "Jij start met weten dat 1 van 2 spelers een specifieke Buitenstaander is. (Of dat er geen Buitenstaanders in het spel zitten.)",
-      "first": "Laat het Buitenstaander karakter-token zien. Wijs naar de *BUITENSTAANDER* en de *FOUTIEF* speler.",
+      "first": "Laat het Buitenstaander karakterfiche zien. Wijs naar de *BUITENSTAANDER* en een *VERKEERDE* spelers.",
       "name": "Bibliothecaris"
     },
     "lilmonsta": {
-      "ability": "Elke nacht kiezen de Minions wie op mini-Monster past & \"de Demoon\" is. Elke nacht* mag een speler sterven. [+1 Minion]",
+      "ability": "Elke nacht kiezen de Handlangers wie op Lil' Monsta past & \"de Demoon\" is. Elke nacht*, mag een speler sterven. [+1 Handlanger]",
+      "first": "Ontwaak de Handlangers. Ze kiezen een speler. :herinnering: Breng de Handlangers weer in slaap. Maak het doelwit wakker. Laat de *JIJ BENT- en Lil' Monsta-fiches zien.",
       "flavor": "Stap 1: Skattig zijn. Stap 2: De wereld veroveren. Stap 3: Ompbijt.",
-      "name": "Mini-Monster"
+      "name": "Mini-Monster",
+      "other": "Maak de Handlangers wakker. Ze kiezen een speler. :herinnering: Breng de Handlangers weer in slaap. Maak het doelwit wakker. Laat de *JIJ BENT*- en Lil' Monsta-fiches zien. :herinnering:"
     },
     "lleech": {
       "first": "De Bloedzuiger kiest een speler. :reminder:",
@@ -615,22 +624,25 @@
       "other": "De Bloedzuiger kiest een speler. :reminder:"
     },
     "lordoftyphon": {
-      "ability": "Elke nacht*, kies een speler: deze sterft. [Slechte karakters zitten in een lijn. Jij zit in het midden. +1 Minion. -? of +? Buitenstaanders]",
+      "ability": "Elke nacht*, kies een speler: deze sterft. [Slechte karakters zitten in een lijn. Jij zit ergens in het midden. +1 Handlanger. -? of +? Buitenstaanders]",
+      "first": "Ontwaak de buren van de Lord of Typhon. Laat de *JIJ BENT*- en Handlanger-fiches zien en steek je duim omlaag.",
       "other": "De Heer der Typhon kiest een speler. :reminder:"
     },
     "lunatic": {
       "ability": "Jij denkt dat je de Demoon bent, maar dat ben je niet. De Demoon weet wie jij bent & wie jij 's nachts kiest.",
-      "first": "Als er meer dan 7 spelers zijn maak je de Waanzinnige wakker. Laat de *DIT ZIJN JE MINIONS* token zien. Wijs naar enkele spelers. Laat de *DEZE KARAKTERS ZITTEN NIET IN HET SPEL* token zien en laat 3 goede karakter-tokens zien. Laat de Waanzinnige slapen. Maak de Demoon wakker. Laat de *JIJ BENT* en de Demoon-token zien. Laat de *DEZE SPELER IS* token en de Waanzinnige-token zien en wijs naar de Waanzinnige."
+      "first": "Als er meer dan 7 spelers zijn ontwaak je de Lunatic. Laat de *DIT ZIJN JE HANDLANGERS* fiche zien. Wijs naar enkele spelers. Laat de *DEZE KARAKTERS ZITTEN NIET IN HET SPEL* fiche zien en laat 3 goede karakter-fiches zien. Laat de Lunatic slapen. Maak de Demoon wakker. Laat de *JIJ BENT* en de Demoon-fiche zien. Laat de *DEZE SPELER IS* fiche en de Lunatic-fiche zien en wijs naar de Lunatic."
     },
     "lycanthrope": {
       "other": "De Weerwolf kiest een speler. :reminder:"
     },
     "magician": {
-      "ability": "De Demoon denkt dat jij een Minion bent. De Minions denken dat jij een Demoon bent.",
+      "ability": "De Demoon denkt dat jij een Handlanger bent. De Handlangers denken dat jij een Demoon bent.",
+      "first": "Wijs tijdens ‘Handlanger Info’ naar de Magician en de Demoon. Wijs tijdens ‘Demoon Info’ naar de Magician en de Handlangers.",
       "name": "Magiër"
     },
     "marionette": {
       "ability": "Jij denkt dat je een goed karakter bent, maar dat ben je niet. De Demoon weet wie je bent. [Jij zit naast de Demoon]",
+      "first": "Ontwaak de Demoon. Laat de fiches *DEZE SPELER IS* en Marionette zien. Wijs naar de Marionette.",
       "flavor": "Woorden, woorden. Dat is alles wat je hebt."
     },
     "mastermind": {
@@ -644,35 +656,39 @@
       "flavor": "We moeten onze meningsverschillen opzijzetten en stoppen met dit zinloze geweld. Uiteindelijk zijn we allemaal belastingbetalers. Nou ja… de meesten van ons."
     },
     "mezepheles": {
-      "ability": "Jij start met het leren van 1 geheim woord. De 1e goede speler die dit woord zegt wordt slecht die avond.",
-      "first": "Laat het geschreven woord zien.",
-      "flavor": "Wat recht uit het hart komt, vindt zijn weg naar het hart van een ander."
+      "ability": "Jij start met het leren van 1 geheim woord. De 1e goede speler die dit woord zegt wordt slecht de opkomende nacht.",
+      "first": "Laat het geheime woord zien.",
+      "flavor": "Wat recht uit het hart komt, vindt zijn weg naar het hart van een ander.",
+      "other": "Als een goede speler het geheime woord heeft gezegd, maak de speler dan wakker. Laat het *JIJ BENT*-informatiefiche zien en steek je duim omlaag. :herinnering: :herinnering:"
     },
     "minioninfo": {
-      "name": "Minion informatie"
+      "name": "Handlanger informatie"
     },
     "minstrel": {
-      "ability": "Als een Minion sterft door executie zijn alle andere spelers (behalve de Reizigers) drinken tot de schemering van morgen."
+      "ability": "Als een Handlanger sterft door executie, zijn alle andere spelers (behalve de Reizigers) dronken tot de zonsopgang."
     },
     "monk": {
       "other": "De Monnik kiest een speler. :reminder:"
     },
     "moonchild": {
-      "ability": "Als je leert dat je gestorven bent kies je publiekelijk 1 levende speler. Vannacht, als dit een goede speler was, sterven ze.",
+      "ability": "Als je leert dat je gestorven bent, kies je publiekelijk 1 levende speler. Vannacht, als dit een goede speler was, sterft die.",
       "flavor": "De Schorpioen werpt een schuine blik op de geliefden, en je hebt een keuze te maken. Met een zilveren kruis in de hand zal je lot geopenbaard worden. Met een stalen kruis bij de keel zul je er spijt van krijgen."
     },
     "nightwatchman": {
-      "flavor": "De nacht is koud en verlaten, maar ik heb de maan en de sterren, een zuchtje wind en het zachte geplof van mijn laarzen op de stenen. Daarginds flikkert kaarslicht achter het raam..."
+      "first": "De Nightwatchman mag een speler kiezen. Laat de Nightwatchman in slaap vallen. Ontwaak het doelwit. Laat de fiches *DEZE SPELER IS* en Nightwatchman zien en wijs vervolgens naar de Nightwatchman. :herinnering:",
+      "flavor": "De nacht is koud en verlaten, maar ik heb de maan en de sterren, een zuchtje wind en het zachte geplof van mijn laarzen op de stenen. Daarginds flikkert kaarslicht achter het raam...",
+      "other": "De Nightwatchman mag een speler kiezen. Laat de Nightwatchman in slaap vallen. Ontwaak het doelwit. Laat de fiches *DEZE SPELER IS* en Nightwatchman zien en wijs vervolgens naar de Nightwatchman. :herinnering:"
     },
     "noble": {
       "ability": "Jij start met het weten van 3 spelers, exact 1 hiervan is slecht.",
+      "first": "Wijs naar de 3 spelers gemarkeerd met *WEET*.",
       "flavor": "Sarcasme is de laagste vorm van humor. Maar als ik op uw kritiek reageer, meneer, is het nog altijd een vorm van humor."
     },
     "nodashii": {
       "other": "De No Dashii kiest een speler. :reminder:"
     },
     "ogre": {
-      "first": "De Oger wijst naar een speler. :reminder:",
+      "first": "De Ogre wijst naar een speler. :reminder:",
       "flavor": "\\<grunt\\>\\<grin\\>\\</grunt\\>"
     },
     "ojo": {
@@ -683,37 +699,51 @@
       "other": "Geef een vingersignaal."
     },
     "organgrinder": {
-      "first": "De Orgelman knikt ja om dronken te zijn, of schud nee om nuchter te zijn. :reminder:",
+      "first": "De Organ Grinder knikt ja om dronken te zijn, of schudt nee om nuchter te zijn. :reminder:",
       "flavor": "Rond en rond, het orgelpracht. Hoe meer je danst, hoe minder je lacht."
     },
     "pacifist": {
       "name": "Pacifist"
     },
     "philosopher": {
-      "first": "De Filosoof mag een karakter kiezen. Indien nodig wissel je de karaktertoken om. :reminder:",
-      "other": "De Filosoof mag een karakter kiezen. Indien nodig wissel je de karaktertoken om. :reminder:"
+      "first": "De Philosopher mag een karakter kiezen. Indien nodig wissel je diens karakterfiche om. :reminder:",
+      "other": "De Philosopher mag een karakter kiezen. Indien nodig wissel je diens karakterfiche om. :reminder:"
     },
     "pithag": {
       "flavor": "Rond de ketel ik ga, en de vergiftigde ingewanden sta; een pad die onder koude steen, eenendertig dag en nacht te leen; Gezweet gif in slaap verkregen, in de betoverde pot gelegen.",
-      "other": "De Grotheks kiest een speler & karakter. Laat de Grotheks slapen. Als de Grotheks een karakter heeft gekozen dat niet in het spel zit: maak het doelwit wakker. Laat het *JIJ BENT* token met het nieuwe karakter token zien."
+      "other": "De Pit-Hag kiest een speler & karakter. Laat de Pit-Hag slapen. Als de Pit-Hag een karakter heeft gekozen dat niet in het spel zit: Ontwaak het doelwit. Laat het *JIJ BENT* fiche met het nieuwe karakter fiche zien."
     },
     "pixie": {
-      "ability": "Jij start met het weten van 1 Dorpeling die in het spel zit. Als je tot \"waanzin\" bent als dit karakter, krijg je de vaardigheid als deze Dorpeling sterft.",
+      "ability": "Jij start met het weten van 1 Dorpeling die in het spel zit. Als je tot \"waanzin\" bent als dit karakter, krijg je de vaardigheid als die sterft.",
       "first": "Laat het Townsfolk (dorpeling) token zien dat gemarkeerd staat als *MAD* (gek)."
+    },
+    "plaguedoctor": {
+      "other": "Als de Plague Doctor stierf, kreeg de verteller een Handlanger-vaardigheid. Als je dit nog niet hebt gedaan, doe het dan nu. :herinnering:"
     },
     "po": {
       "flavor": "Wil je ook een bloem? Ik ben zo eenzaam.",
-      "other": "De Po mag een speler kiezen, of 3 als ze de vorige nacht niemand kozen. :reminder: or :reminder: :reminder: :reminder:"
+      "other": "De Po mag een speler kiezen, of 3 als ze de vorige nacht niemand kozen. :reminder: of :reminder: :reminder: :reminder:"
     },
     "poisoner": {
       "first": "De Gifmenger kiest een speler. :reminder:",
       "other": "De Gifmenger kiest een speler. :reminder:"
     },
+    "pope": {
+      "ability": "Er kunnen dezelfde karakters in het spel. Het kunnen ook bluffs zijn.",
+      "flavor": "...Allemachtig.",
+      "name": "Pope"
+    },
     "poppygrower": {
-      "ability": "Minions & Demonen kennen elkaar niet. Als jij sterft leren ze die nacht elkaar kennen."
+      "ability": "Handlangers & Demonen kennen elkaar niet. Als jij sterft, leren ze die nacht elkaar kennen.",
+      "first": "Sla de informatie rond de Handlangers en de Demoon over. Ontwaak de Demoon. Laat het fiche *DEZE KARAKTERS ZIJN NIET IN HET SPEL* zien. Laat 3 fiches van goede karakters zien die niet in het spel zijn.",
+      "other": "Als de Poppy Grower vandaag of vannacht zou overlijden, maak dan alle Handlangers wakker. Laat het *DIT IS DE DEMOON*-fiche zien. Wijs naar de demoon. Breng de Handlangers in slaap. Maak de demoon wakker. Laat het *DIT ZIJN JE HANDLANGERS*-fiche zien. Wijs naar de Handlangers."
     },
     "preacher": {
-      "ability": "Elke nacht, kies een speler: als dit een Minion is leert deze dat ze zijn gekozen. De Minions hebben geen vaardigheid."
+      "ability": "Elke nacht, kies een speler: als dit een Handlanger is, leer je dat ze dat zijn. Gekozen Handlangers hebben geen vaardigheid.",
+      "first": "De Preacher kiest een speler. :herinnering: Als die een Handlanger heeft gekozen: laat de Preach in slaap vallen. Ontwaak het doelwit . Laat de fiches *DIT PERSONAGE HEEFT JOU GEKOZEN* en Preacher zien."
+    },
+    "princess": {
+      "other": "Als de Prinses vandaag een speler heeft genomineerd en geëxectueert heeft, maak de Demoon wakker zoals normaal, maar niemand sterft aan de Demonenkracht."
     },
     "professor": {
       "flavor": "Het proces is eenvoudig. Sluit de hydraulische confabulator aan op de gemodificeerde chi-matrixversterker, voeg 20 cc pseudodorafine toe, houd zijn Z-waarden boven de 20% en je man komt er wel. Nu hebben we alleen nog een blikseminslag nodig.",
