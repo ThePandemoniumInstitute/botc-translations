@@ -1121,7 +1121,7 @@
       "name": "Żołnierz"
     },
     "spiritofivory": {
-      "ability": "Nie może być więcej niż 1 dodatkowy zły gracz.",
+      "ability": "W grze może być maksymalnie 1 dodatkowy zły gracz.",
       "flavor": "Pustkowia wzywają. Kości obrastają mięsem, wtem rozpadają się w pył. Wielki duch rośnie. Wielki duch patrzy. Wielki duch prowadzi. Człowiek słucha, albo człowieka nie ma."
     },
     "spy": {
