@@ -81,12 +81,14 @@
   "export-menu": "exporteer menu",
   "external-image-confirm": "Onofficiële afbeeldingen toestaan? Een kwaadwillende script auteur zou je IP-adres zo kunnen volgen. The Pandemonium Institute heeft geen controle over afbeeldingen van derden.",
   "fabled-and-loric": "Fabled & Loric (legendarische & hoeders)",
+  "filter-showing": "Weergeven",
   "filters": "Filteren",
   "help": "Hulp",
   "import-description": "Klik of sleep om het JSON script te importeren",
   "import-description-kb": "of plak JSON / URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "… of plak URL/JSON hier:",
   "import-json-error": "Het laden van een correct JSON bestand is mislukt",
+  "import-load-json": "JSON laden",
   "import-script": "Importeer script",
   "import-type-error": "Foutief bestandsformaat, bestand niet geladen.",
   "import-typing-error": "Dit veld is er om JSON te plakken op mobiele en touch-apparaten. Typen en toevoegen is niet toegestaan.",
@@ -119,6 +121,56 @@
   "name": "Naam",
   "new-bootlegger-rule": "Nieuwe bootlegger (vrijbrouwer) regel…",
   "new-script": "Nieuw Script",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Pagina's exporteren",
+      "page-size": "Paginagrootte",
+      "us-letter": "US Letter"
+    },
+    "night-sheet": "Nacht Kaart",
+    "night-sheet-options": {
+      "include-travellers": "Reizigers meerekenen"
+    },
+    "page-export-options": "Pagina- en exportopties",
+    "player-sheet-options": {
+      "max-npcs-shown": "Max. aantal weergegeven NPC's",
+      "show-npc-names": "NPC-namen weergeven"
+    },
+    "reset": "Resetten",
+    "restore-defaults": "Standaardinstellingen herstellen",
+    "script": {
+      "landscape-player-sheet": "Overzichtspelerslijst",
+      "player-count": "Spelersaantal"
+    },
+    "script-options": "Script Opties",
+    "st-sheet": "Spelleidersfiche",
+    "st-sheet-options": {
+      "display-compact-night-order": "Nachtorde weergeven",
+      "display-player-count": "Tabel met aantal spelers weergeven"
+    },
+    "theme": {
+      "author-font": "Lettertype van de auteur",
+      "balance": {
+        "infer": "Concluderen",
+        "left": "Links",
+        "none": "Geen",
+        "right": "Rechts"
+      },
+      "balance-columns": "Kolommen in evenwicht brengen",
+      "one-col": "Één kolom",
+      "standard": "Standaard",
+      "theme": "Thema",
+      "title-font": "Titellettertype"
+    },
+    "theme-options": "Thema-instellingen",
+    "tweaks": {
+      "custom-icon-position": "Aangepaste positie van de foto",
+      "custom-icon-size": "Aangepaste fotogrootte",
+      "size-mult": "Groottevermenigvuldigingsfactor"
+    },
+    "tweaks-heading": "Aanpassingen"
+  },
   "print": {
     "ios": "Printen vanuit IOS wordt nog niet ondersteund. Je kan het proberen, maar het kan er slecht uit komen.",
     "not-first-night": "* Niet in de eerste nacht",
@@ -130,6 +182,8 @@
   "read-more": "Lees de almanak/wiki item",
   "recommended-travellers": "Aangeraden Travellers (reizigers)",
   "redo": "Opnieuw uitvoeren",
+  "restore-script": "Herstellen",
+  "restore-script-tooltip": "Een recent verwijderd script herstellen",
   "sao": "SAO",
   "script-name": "Scriptnaam",
   "script-name-placeholder": "Naamloos Script",
@@ -172,6 +226,7 @@
   },
   "toggle-autosort": "aan/uit automatisch sorteren",
   "toggle-quick-input": "aan/uit snelle invoer",
+  "toggle-sidebar-sort": "Sortering op karakters in- of uitschakelen",
   "tour": {
     "add-and-remove-characters-01": "Je kan een {bold}karakter toevoegen{/bold} vanaf het karakter tabblad. Klik op het karakter dat je wilt toevoegen.",
     "add-and-remove-characters-02": "{bold}Verwijder een karakter{/bold}, door er nogmaals op te klikken, of op het pictogram in het script.",
