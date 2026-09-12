@@ -10,8 +10,13 @@
   "export": {
     "copy-json": "Move Jason",
     "download-json": "Remember Jason",
+    "pdf": "Smuggle Out PDF",
     "png": "Sail to Papua New Guinea",
+    "preview-export": "Rigging and Early Copy",
     "screenshot": {
+      "download-player-sheet": "Get Matey's Ledger",
+      "download-st-sheet": "Get Capn's Ledger",
+      "overflow": "The Matey's Ledger couldn't fit all yer stations. Take some off or change yer sizes in the rigging.",
       "save": "Make ledger lastin'",
       "share": "Show some'n yer ledger"
     }
@@ -43,8 +48,16 @@
     "compact-layout": "Keep yer penmanship small",
     "display-and-ui-heading": "How yer ledger pen looks",
     "external-images-heading": "Outside Portraits",
+    "font-size": "Scrawlin' Size",
+    "font-size-larger": "Bigger",
+    "font-size-normal": "Normal",
     "force-one-column": "Write jus' one list",
+    "miscellaneous": "Other",
+    "print-columns": "Number o' Lines",
     "print-options-heading": "How to get a copy",
-    "script-heading": "Ledger rigging"
+    "script-heading": "Ledger rigging",
+    "show-analysis-icons": "Show Guidance",
+    "show-night-sheet": "Show Moon's Ledger",
+    "ui-scaling": "Design size"
   }
 }
