@@ -410,7 +410,7 @@
       "intro_part18": "Ara és el moment de les acusacions.",
       "intro_part19": "Per a acusar un jugador, digueu qui és. Per exemple: «Acuso en Pau». Quan s’acusa un jugador, tothom vota si cal executar-lo o no. El narrador anunciarà que comença la votació i apareixerà l’animació corresponent a la pantalla. L’agulla de votació gira en sentit horari. Utilitzeu la barra espaiadora o els botons «Amunt» i «Avall» del centre de la pantalla per a aixecar o abaixar la mà. Si la teniu aixecada quan l’agulla arriba a la vostra posició, és un vot; si la teniu abaixada, no.",
       "intro_part20": "Cada dia podeu votar tants o tan pocs jugadors com vulgueu, i s’executa qui obtingui més vots. El recompte d’aquest jugador ha d’arribar com a mínim al 50% dels jugadors vius; si no, no hi ha cap execució. En cas d’empat, no s’executa cap dels dos jugadors.",
-      "intro_part21": "Si moriu, continueu tenint un paper important en la partida. Continueu parlant i les càmeres de tots els jugadors continuen ocultes durant la fase de nit. Sobretot, continueu guanyant o perdent amb el vostre equip. De fet, la partida se sol decidir pels vots i les opinions dels jugadors morts. Quan moriu, perdeu l’habilitat del personatge, ja no podeu acusar i només disposeu d’un vot per a la resta de la partida; feu-lo servir amb seny.",
+      "intro_part21": "Si moriu, continueu tenint un paper important en la partida. Continueu parlant i les càmeres de tots els jugadors continuen ocultes durant la fase de nit. Sobretot, continueu guanyant o perdent amb el vostre equip. De fet, la partida se sol decidir pels vots i les opinions dels jugadors morts. Quan moriu, perdeu l’habilitat del personatge, ja no podeu nominar i només disposeu d’un vot per a la resta de la partida; feu-lo servir amb seny.",
       "tab1": "Abans que comenci la partida",
       "tab2": "Abans de la primera acusació",
       "title": "Regles"
@@ -438,11 +438,11 @@
           "title": "Peix gros"
         },
         "focus": {
-          "text": "El jugador acusat té l’atenció del grup.",
-          "title": "Atenció centrada en el jugador acusat"
+          "text": "El jugador nominat té l’atenció del grup.",
+          "title": "Atenció centrada en el jugador nominat"
         },
         "phases": {
-          "text": "Només poden parlar l’acusador i l’acusat.",
+          "text": "Només poden parlar el nominador i el nominat.",
           "title": "Acusació i defensa"
         },
         "regular": {
@@ -454,7 +454,7 @@
       "patreon_link_text": "Ja podeu tancar aquesta finestra.",
       "patreon_link_title": "S’ha vinculat el compte de Patreon",
       "patreon_perks": "Amb una {0} de pagament podeu penjar avatars i fer servir plaques de nom especials.",
-      "patreon_perks2": "subscripció a Patreon",
+      "patreon_perks2": "Subscripció a Patreon",
       "patreon_update": "Actualitza l’estat de Patreon",
       "setting_alignment": "Mostra el bàndol a la plaça del poble",
       "setting_animations": "Mostra les animacions",
