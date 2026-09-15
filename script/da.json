@@ -1,5 +1,6 @@
 {
   "analysis": {
+    "heading": "Manuskriptanalyse",
     "maximum-character-recommendation": "Det anbefalede maksimale antal karakterer er {number}.",
     "maximum-character-recommendation-teensy": "Det anbefalede maksimale antal karakterer i Teensyville er {number}.",
     "no-messages": "Intet at rapportere!",
@@ -8,8 +9,11 @@
     "range-exact-recommendation-full-demon": "Det anbefales at have præcis {number} dæmoner.",
     "too-few-demon": "Ikke nok Dæmoner",
     "too-few-minion": "Ikke nok håndlangere",
+    "too-many-characters": "For mange karakterer",
     "too-many-demon": "For mange Dæmoner",
-    "too-many-minion": "For mange håndlangere"
+    "too-many-minion": "For mange håndlangere",
+    "too-many-outsider": "For mange Outsiders",
+    "too-many-townsfolk": "For mange borgere"
   },
   "export": {
     "copy-json": "Kopier JSON",
@@ -64,6 +68,9 @@
     "print-compact-night-sheet": "Kompakt natark",
     "print-options-heading": "Udskriftsindstillinger",
     "print-player-count-table": "Vis tabel over spillerantal",
+    "script-heading": "Manuskriptindstillinger",
+    "script-scaling": "Manuskript Skalering",
+    "script-type": "Manuskripttype",
     "script-type-standard": "Standard",
     "show-analysis-icons": "Vis analyseikoner",
     "show-night-sheet": "Vis natark",
