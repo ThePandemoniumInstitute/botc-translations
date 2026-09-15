@@ -33,8 +33,11 @@
   },
   "keyword": {
     "demon": "Dæmon|Dæmoner",
+    "fabled": "Myter|Myter",
     "loric": "Loric|Loric",
     "minion": "Håndlanger|Håndlangere",
+    "outsider": "Fremmed|Fremmede",
+    "townsfolk": "Landsbyboer|Landsbyboere",
     "traveller": "Rejsende|Rejsende"
   },
   "print": {
