@@ -15,6 +15,9 @@
     "too-many-outsider": "For mange Outsiders",
     "too-many-townsfolk": "For mange borgere"
   },
+  "edition": {
+    "custom": "Tilpasset"
+  },
   "export": {
     "copy-json": "Kopier JSON",
     "download-json": "Download JSON",
@@ -40,6 +43,7 @@
     "fabled": "Myter|Myter",
     "loric": "Loric|Loric",
     "minion": "Håndlanger|Håndlangere",
+    "other-nights": "Andre Nætter",
     "outsider": "Fremmed|Fremmede",
     "townsfolk": "Landsbyboer|Landsbyboere",
     "traveller": "Rejsende|Rejsende"
