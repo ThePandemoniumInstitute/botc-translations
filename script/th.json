@@ -151,6 +151,7 @@
     "script-options": "ตัวเลือกสคริปต์",
     "st-sheet": "แผ่นข้อมูลนักเล่าเรื่อง",
     "st-sheet-options": {
+      "display-compact-night-order": "แสดงลำดับการตื่น",
       "display-player-count": "แสดงตารางจำนวนผู้เล่น"
     },
     "theme": {
