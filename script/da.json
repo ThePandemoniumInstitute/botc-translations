@@ -33,6 +33,8 @@
       "share": "Del"
     }
   },
+  "external-image-confirm": "Er du sikker på at du vil tillade tilpassede billeder? En ondsindet manuskriptfils forfatter kan spore din IP-adresse på denne måde. The Pandemonium Institute har ingen kontrol over billeder leveret af appens andre brugere.",
+  "help": "Hjælp",
   "interactions": {
     "+choirboy-king": {
       "title": "Kordreng, men ingen Konge"
@@ -47,6 +49,11 @@
     "outsider": "Fremmed|Fremmede",
     "townsfolk": "Landsbyboer|Landsbyboere",
     "traveller": "Rejsende|Rejsende"
+  },
+  "preview": {
+    "st-sheet-options": {
+      "display-player-count": "Vis tabel over spillerantal"
+    }
   },
   "print": {
     "not-first-night": "* ikke den første nat",
@@ -84,6 +91,7 @@
       "term": "Klik på {0} for at se rundvisningen igen."
     }
   },
+  "settings-menu": "Indstillinger",
   "tour": {
     "add-and-remove-characters-01": "Du kan {bold}tilføje en karakter{bold$} fra karakterfanen. Klik på den karakter du ønsker at tilføje.",
     "add-and-remove-characters-02": "For at {bold}fjerne en karakter{bold$}, klik på den her, eller klik på dens ikon i manuskriptet.",
