@@ -72,8 +72,12 @@
     "download-json": "Baixar JSON",
     "pdf": "Imprimir/exportar PDF",
     "png": "Exportar PNG",
+    "preview-export": "Opções de exportação e pré-visualização",
     "screenshot": {
+      "download-player-sheet": "Baixar ficha do jogador",
+      "download-st-sheet": "Baixar ficha do narrador",
       "failed-embed": "Alguns ícones não puderam ser incorporados na imagem exportada",
+      "overflow": "Não coube todos as personagens na ficha do jogador. Remova algumas personagens ou ajuste a escala no menu de opções de exportação.",
       "save": "Salvar",
       "share": "Compartilhar"
     }
@@ -81,12 +85,14 @@
   "export-menu": "Menu de exportação",
   "external-image-confirm": "Tem certeza de que deseja permitir imagens personalizadas? O autor de um arquivo de cenário malicioso pode rastrear seu endereço IP dessa maneira. O The Pandemonium Institute não tem controle sobre as imagens fornecidas por outros usuários do aplicativo.",
   "fabled-and-loric": "Lendas & Mitos",
+  "filter-showing": "Mostrando",
   "filters": "Filtros",
   "help": "Ajuda",
   "import-description": "Clique ou arraste e solte para importar o JSON do cenário",
   "import-description-kb": "ou cole o JSON/URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "... ou cole URL/JSON aqui:",
   "import-json-error": "Não foi possível carregar um JSON válido",
+  "import-load-json": "Carregar JSON",
   "import-script": "Importar cenário",
   "import-type-error": "Tipo de arquivo errado, Arquivo não carregado.",
   "import-typing-error": "Esta caixa existe para permitir colar JSONs em dispositivos móveis e de toque. Não é permitido digitar e enviar.",
@@ -119,6 +125,54 @@
   "name": "Nome",
   "new-bootlegger-rule": "Nova regra do Bootlegger…",
   "new-script": "Novo cenário",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Páginas de exportação",
+      "page-size": "tamanha da página"
+    },
+    "night-sheet": "Ordem da Noite",
+    "night-sheet-options": {
+      "include-travellers": "Incluir Viajantes"
+    },
+    "page-export-options": "Opção de exportação e página",
+    "player-sheet": "Ficha do jogador",
+    "player-sheet-options": {
+      "max-npcs-shown": "Máximo de Modificadores mostrados",
+      "show-npc-names": "Mostrar nomes dos modificadores"
+    },
+    "reset": "Resetar",
+    "restore-defaults": "reverter para o padrão",
+    "script": {
+      "player-count": "Número de jogadores"
+    },
+    "script-options": "Opções de cenário",
+    "st-sheet": "Ficha do narrador",
+    "st-sheet-options": {
+      "display-compact-night-order": "Mostrar Ordem da Noite",
+      "display-player-count": "Mostrar tabela de número de jogadores"
+    },
+    "theme": {
+      "author-font": "Fonte do autor",
+      "balance": {
+        "left": "Esquerda",
+        "none": "Nenhuma",
+        "right": "Direita"
+      },
+      "balance-columns": "Balanceie colunas",
+      "one-col": "Uma coluna",
+      "standard": "Padrão",
+      "theme": "Tema",
+      "title-font": "Fonte do título"
+    },
+    "theme-options": "Opções de tema",
+    "tweaks": {
+      "custom-icon-position": "Posição do ícone específica",
+      "custom-icon-size": "tamanho do ícone específico",
+      "size-mult": "Multiplicador do tamanho"
+    },
+    "tweaks-heading": "Ajustes"
+  },
   "print": {
     "ios": "Ainda não há suporte para a impressão em aparelhos iOS. Você ainda pode tentar se quiser, mas pode ser que a impressão fique mal diagramada.",
     "not-first-night": "* Exceto a primeira noite",
@@ -130,6 +184,7 @@
   "read-more": "Ler a entrada do almanaque ou a página da wiki",
   "recommended-travellers": "Viajantes recomendados",
   "redo": "Refazer",
+  "restore-script": "Restaure",
   "sao": "Ordem Padrão",
   "script-name": "Nome do cenário",
   "script-name-placeholder": "Cenário não nomeado",
@@ -138,6 +193,7 @@
   "search-character": "Procurar personagens…",
   "search-names": "Procurar por nome",
   "settings": {
+    "advanced-heading": "Opções avançadas",
     "allow-external-images": "Permitir imagens externas",
     "bloodstar-image-correction": "Correção de imagens do Bloodstar",
     "bloodstar-image-correction-explanation": "Os ícones que bloodstar.xyz geram tem um pequeno espaçamento extra em baixo, então eles não são exatamente centralizados. Ao habilitar essa configuração compensa esse espaçamento.",
@@ -150,6 +206,7 @@
     "force-one-column": "Forçar coluna única",
     "language": "Idioma",
     "language-select-heading": "Seleção de idioma",
+    "miscellaneous": "Outras",
     "print-columns": "Quantidade de colunas na impressão",
     "print-compact-night-sheet": "Ficha da Noite compacta",
     "print-options-heading": "Opções de impressão",
@@ -161,14 +218,22 @@
     "script-type-teensyville": "Pequena Morte",
     "show-analysis-icons": "Mostrar ícones de problemas",
     "show-night-sheet": "Mostrar Ficha da Noite",
-    "this-language": "Português (Brasil)"
+    "this-language": "Português (Brasil)",
+    "view-tour": {
+      "here": "aqui",
+      "term": "Clique {0} para rever o tour."
+    }
   },
   "settings-menu": "Configurações",
   "show-all": "Todos os personagens",
   "show-script-analytics": "Mostrar problemas do cenário",
   "toast": {
     "cannot-remove-bootlegger": "Como existem personagens caseiros neste cenário, você não pode remover o Bootlegger.",
-    "copied": "Copiado para a área de transferência!"
+    "copied": "Copiado para a área de transferência!",
+    "external-images": "Por questões de segurança, imagens externas não são carregadas por padrão. Você pode escolher permiti-las no menu de confirguração.",
+    "failed-import-script": "Não é possível importar um cenário - {n} cenários já estão carregados. Por favor delete um cenário primeiro pra abrir espaço para mais.",
+    "failed-import-script-link": "Link para importar cenário falhou - {n} cenários já carregados. Por favor delete um cenário e tente de novo.",
+    "failed-write-clipboard": "Não foi possível escrever na área de transferência - seu navegador não tem capacidade ou permissão."
   },
   "toggle-autosort": "Habilitar/desabilitar ordenação automática",
   "toggle-quick-input": "Habilitar/desabilitar entrada rápida",
