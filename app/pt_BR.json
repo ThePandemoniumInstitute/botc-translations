@@ -316,9 +316,11 @@
     },
     "playnice": {
       "button": "Entendi",
+      "terms": "Termos de Uso Online aqui",
       "text1": "Num jogo de falsidades. É importante manter a convivência respeitosa e amigável.",
       "text2": "Se você ver um comportamento que passa dos limites por favor reporte pelo app via {0}.",
-      "text2_email": "email"
+      "text2_email": "email",
+      "title": "Jogue Limpo!"
     },
     "reminder": {
       "custom_favorite": "Favoritado",
@@ -465,6 +467,7 @@
       "setting_avatars": "Mostrar avatares/câmeras na Praça da Cidade",
       "setting_background": "Imagem de plano de fundo",
       "setting_camera": "Câmera",
+      "setting_chat_volume": "Volume da conversa",
       "setting_chroma": "Chroma Key",
       "setting_chroma_label": "Escolher cor de Chroma",
       "setting_clouds": "Mostrar nuvens na Fase da Noite",
@@ -529,6 +532,7 @@
         "modalUsers": "Usuários",
         "modeGather": "Reunir seus jogadores",
         "raiseHand": "Levantar a mão",
+        "reloadApp": "Recarregar app",
         "revealGrimoire": "Revelar Grimório",
         "setTimer": "Colocar temporizador",
         "toggleAudioDeafened": "Silenciar conversas de voz",
@@ -552,6 +556,7 @@
         "chatLeave": "Sair de conversas públicas",
         "countdown": "Contagem regressiva",
         "privateJoin": "Entrar em conversas privadas",
+        "privateLeave": "Sair da conversa particular",
         "privateRequest": "Pedido de conversa privada",
         "timerGong": "Gongo do fim do temporizador",
         "voteCast": "Confirmação de voto",
@@ -856,6 +861,12 @@
       "description_mins": "1 minuto|{n} minutos",
       "description_online": "online"
     },
+    "external": {
+      "button": "Continuar no site externo",
+      "description": "Você está prestes a visitar a seguinte página externa:",
+      "disclaimer": "The Pandemonium Institute não tem controle sobre o conteúdo desse site.",
+      "title": "Atenção: você está saindo do aplicativo de BOTC"
+    },
     "lobby": {
       "bootlegger_title": "Atenção!",
       "bootlegger_warning": "Esta sessão está utilizando o Mito Bootlegger, ou seja, inclui regras ou personagens personalizados que não fazem parte da versão oficial; por isso, é mais indicada para jogadores experientes.\nSe você é iniciante em Blood on the Clocktower, recomendamos conhecer primeiro as regras e personagens padrão, usando um dos cenários base oficiais. O Trouble Brewing é perfeito para a experiência de uma primeira partida!\nDe qualquer forma, boas-vindas — estamos felizes em ter você aqui!\nTem certeza de que deseja entrar nesta sessão?",
@@ -910,13 +921,17 @@
       "social": {
         "complete": "Login completo, você pode fechar essa janela agora!",
         "error": "Um erro aconteceu:",
-        "error_general": "Algo inesperadamente deu errado. Por favor tente de novo.",
-        "error_grant_expired": "O link de autenticação expirou, por favor feche essa janela e tente de novo.",
-        "error_nonce_missing": "Não foi possível verificar a solicitação de autenticação. Feche esta janela e tente novamente.",
+        "error_already_linked": "Esse conta já está vinculada a uma conta social diferente.",
+        "error_code_missing": "A autenticação foi cancelada.",
+        "error_general": "Algo inesperadamente deu errado.",
+        "error_grant_expired": "O link de autenticação expirou.",
+        "error_nonce_missing": "Não foi possível verificar a solicitação de autenticação.",
         "logging_in": "Logando você...",
         "status": "Conta está linkada a {0}",
+        "try_again": "Por favor feche essa janela e tente novamente.",
         "updating_account": "Atualizando sua conta..."
       },
+      "social_login": "Ou logue usando redes sociais:",
       "subscribe": "Inscrever-se na lista de discussão",
       "title": "Boas-vindas ao Blood On the Clocktower Online - Em Desenvolvimento!",
       "username": "Nome de Usuário"
