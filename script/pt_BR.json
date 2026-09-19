@@ -129,11 +129,11 @@
     "export": {
       "a4": "A4",
       "export-pages": "Páginas de exportação",
-      "page-size": "tamanha da página"
+      "page-size": "Tamanho da página"
     },
-    "night-sheet": "Ordem da Noite",
+    "night-sheet": "Ordem da noite",
     "night-sheet-options": {
-      "include-travellers": "Incluir Viajantes"
+      "include-travellers": "Incluir viajantes"
     },
     "page-export-options": "Opção de exportação e página",
     "player-sheet": "Ficha do jogador",
@@ -142,14 +142,14 @@
       "show-npc-names": "Mostrar nomes dos modificadores"
     },
     "reset": "Resetar",
-    "restore-defaults": "reverter para o padrão",
+    "restore-defaults": "Reverter para o padrão",
     "script": {
       "player-count": "Número de jogadores"
     },
     "script-options": "Opções de cenário",
     "st-sheet": "Ficha do narrador",
     "st-sheet-options": {
-      "display-compact-night-order": "Mostrar Ordem da Noite",
+      "display-compact-night-order": "Mostrar ordem da noite",
       "display-player-count": "Mostrar tabela de número de jogadores"
     },
     "theme": {
@@ -168,7 +168,7 @@
     "theme-options": "Opções de tema",
     "tweaks": {
       "custom-icon-position": "Posição do ícone específica",
-      "custom-icon-size": "tamanho do ícone específico",
+      "custom-icon-size": "Tamanho do ícone específico",
       "size-mult": "Multiplicador do tamanho"
     },
     "tweaks-heading": "Ajustes"
