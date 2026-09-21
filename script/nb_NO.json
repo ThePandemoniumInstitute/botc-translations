@@ -151,6 +151,7 @@
     "script-options": "Manuskriptalternativer",
     "st-sheet": "Fortelleroversikt",
     "st-sheet-options": {
+      "display-compact-night-order": "Vis nattrekkefølge",
       "display-player-count": "Vis rollefordelingstabell"
     },
     "theme": {
