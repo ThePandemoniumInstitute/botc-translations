@@ -151,6 +151,7 @@
     "script-options": "Opcje skryptu",
     "st-sheet": "Arkusz Bajarza",
     "st-sheet-options": {
+      "display-compact-night-order": "Pokaż arkusz nocy",
       "display-player-count": "Wyświetl wykaz ilości graczy"
     },
     "theme": {
