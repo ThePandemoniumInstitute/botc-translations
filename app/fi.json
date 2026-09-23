@@ -801,7 +801,7 @@
       "alive": "Elossa",
       "button_gather": "Kerää Pelaajasi",
       "return": "Palaa Loitsukirjaan (Pikanäppäin: {0})",
-      "script_by": "tehnyt {0}",
+      "script_by": "# {0}",
       "text_player": "Tarinankertojan täytyy lisätä pelaajia ennen kuin voitte aloittaa.",
       "text_st": "Aloittaaksesi sinun on ensin {0}",
       "timer_ended": "päättyi",
