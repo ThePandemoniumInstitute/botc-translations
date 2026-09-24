@@ -618,7 +618,7 @@
       "name": "Gangster"
     },
     "gardener": {
-      "ability": "Le Conteur attribue le rôle d'un ou plusieurs joueurs.",
+      "ability": "Le Conteur attribue leur rôle à tous les joueurs.",
       "flavor": "Lorsque la sophistique tourne à la sottise et l'hypocrisie à la cruauté, réfugiez-vous dans le jardin. Les dernières passions des vieillards sont les fleurs et les pierres.",
       "name": "Jardinier"
     },
@@ -1232,6 +1232,11 @@
       "flavor": "Alors, qu’est-ce qu’on a aujourd’hui ? Usure importante au talon de la botte gauche, des restes de pierre à fusil sous la langue... Un militaire, sans aucun doute.",
       "name": "Fossoyeur",
       "other": "Si un joueur est mort par exécution dans la journée, montrez son jeton de rôle au Fossoyeur."
+    },
+    "ventriloquist": {
+      "ability": "Si un joueur est fou d'être un nouveau rôle durant sa nomination, il pourrait ne pas mourir s'il est exécuté aujourd'hui.",
+      "flavor": "Eh bien, mes amis, approchez donc ! Voici mon copain Charlie, et il a une langue si bien pendue qu’il ferait rougir un mulet. Mais ne vous inquiétez pas, c’est moi qui parle… ou peut-être pas ?",
+      "name": "Ventriloque"
     },
     "vigormortis": {
       "ability": "Chaque nuit*, choisissez un joueur : il meurt. Les Sbires que vous tuez gardent leur capacité et empoisonnent 1 Villageois voisin. [-1 Marginal]",
