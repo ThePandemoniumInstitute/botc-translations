@@ -151,6 +151,7 @@
     "script-options": "Options de script",
     "st-sheet": "Fiche Conteur",
     "st-sheet-options": {
+      "display-compact-night-order": "Afficher l'ordre de nuit",
       "display-player-count": "Afficher le tableau du nombre de joueurs"
     },
     "theme": {
