@@ -1,23 +1,23 @@
 {
   "editions": {
     "bmr": {
-      "description": "...on kuoleman loistelias näytös. Demonit tappavat useita kertoja yössä ja Kätyrit nauravat partaansa muiden epätoivoiselle toiminnalle. Hyvät pelaajat voivat ottaa isoja riskejä saadakseen luotettavaa tietoa, mutta saattavat samalla vetää ystävänsä kölin alta. Kaikeksi onneksi taskuista löytyy myös monia tapoja pitää pelaajia elossa, vielä pitkään parasta ennen -päiväysten jälkeenkin. Mikäli hyvä joukkue ei kuitenkaan kykene ajoissa selvittämään mitkä Kätyrit ja Demonit pelissä ovat mukana, kolkuttelee heidän tuhonsa ovella.",
-      "name": "Alla Apean Kuun"
+      "description": "...on kuoleman loistelias näytös. Demonit tappavat useita kertoja yössä ja kätyrit nauravat partaansa muiden epätoivoiselle toiminnalle. Hyvät pelaajat voivat ottaa isoja riskejä saadakseen luotettavaa tietoa, mutta saattavat samalla vetää ystävänsä kölin alta. Kaikeksi onneksi taskuista löytyy myös monia tapoja pitää pelaajia elossa, vielä pitkään parasta ennen -päiväysten jälkeenkin. Mikäli hyvä joukkue ei kuitenkaan kykene ajoissa selvittämään mitkä kätyrit ja demonit pelissä ovat mukana, kolkuttelee heidän tuhonsa ovella.",
+      "name": "Alla apean kuun"
     },
     "custom": {
       "description": "Pelataksesi räätälöityä kässäriä, sinun täytyy poimia haluamasi hahmot virallisessa kässärityökalussa ja sitten ladata luotu \"räätälöity-lista.json\" -tiedosto tänne, tai käyttää URL-linkkiä, joka johtaa vastaavanlaiseen isännöityyn JSON-tiedostoon. Voit myös vetää haluamasi räätälöidyn JSON-tiedoston tähän ruutuun tai liittää sen suoraan leikepöydältäsi.",
-      "name": "Räätälöity Kässäri"
+      "name": "Räätälöity kässäri"
     },
     "homebrew": {
       "name": "Kotipolttoinen"
     },
     "snv": {
       "description": "...on hullunkurisin peruspakkauksen kolmesta versiosta. Hyvät hahmot saavat hämmästyttävää tietoa jok'ikinen ilta. Paha joukkue on kuitenkin monipuolisuudessaan äärimmäisen uhkaava, kyeten jatkuvasti aiheuttamaan valtavaa hämmennystä. Hahmot vaihtavat puolia. Pelaajat vaihtavat hahmoja. Jopa paha joukkue voi hetken hurmiossa kadottaa tajunsa, kuka kukin on. Tämä on myös tahdon mukanaan vievän raivon ensiesiintyminen, mikä osaltaan heittää kaikensorttisia kapuloita kehiin.",
-      "name": "Liljaisia Lahkoja"
+      "name": "Liljaisia lahkoja"
     },
     "tb": {
-      "description": "...sisältää vähän kaikkea. Osa hahmoista saa vain passiivista tietoa, toisten täytyy toimia salapoliiseina, kun taas joillain on vain yksinkertaisesti tarve houkutella Demoni kimppuunsa. Sekä hyvät että pahat voivat saada yliotteen tekemällä tarkkaan ajoitettuja uhrauksia.\nPiru Merrassa on suhteellisen suoraviivainen Demonijahti, mutta pahoilla on hihoissaan useita petollisia temppuja luoda vääristynyttä tietoa, joten hyvien olisi parempi kyseenalaistaa mitä uskovat tietävänsä, mikäli toivovat selviävänsä.",
-      "name": "Piru Merrassa"
+      "description": "...sisältää vähän kaikkea. Osa hahmoista saa vain passiivista tietoa, toisten täytyy toimia salapoliiseina, kun taas joillain on vain yksinkertaisesti tarve houkutella demoni kimppuunsa. Sekä hyvät että pahat voivat saada yliotteen tekemällä tarkkaan ajoitettuja uhrauksia.\nPiru merrassa on suhteellisen suoraviivainen demonijahti, mutta pahoilla on hihoissaan useita petollisia temppuja luoda vääristynyttä tietoa, joten hyvien olisi parempi kyseenalaistaa mitä uskovat tietävänsä, mikäli toivovat selviävänsä.",
+      "name": "Piru merrassa"
     }
   },
   "jinxes": {
