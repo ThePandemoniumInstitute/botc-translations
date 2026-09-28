@@ -39,7 +39,7 @@
       },
       "grimoire": {
         "label": "Avoin Loitsukirja",
-        "title": "Näkevätkö sivustaseuraajat Loitsukirjan",
+        "title": "Näkevätkö katsojat Loitsukirjan",
         "value_0": "Kysy",
         "value_1": "Kyllä",
         "value_2": "Ei"
@@ -117,7 +117,7 @@
     "gong_attention": "Huomiokumistin",
     "gong_recall": "Takaisinkutsu Toriaukiolle",
     "grim_access": "Sinulle on annettu pääsy Loitsukirjaan",
-    "grim_request_user": "Sivustaseuraaja {0} haluaa nähdä Loitsukirjan:",
+    "grim_request_user": "Katsoja {0} haluaa nähdä Loitsukirjan:",
     "help": "Ohje",
     "json_schema": "Kässärin JSON-Skeema",
     "leave": "Poistu Pelistä",
@@ -689,7 +689,7 @@
       "offline": "Offline",
       "st_requested": "Tarinankertojaa Pyydetty",
       "type_player": "Pelaaja|{n} Pelaajaa",
-      "type_spectator": "Sivustaseuraaja|{n} Sivustaseuraajaa",
+      "type_spectator": "katsoja|{n} katsojaa",
       "type_storyteller": "Tarinankertoja|{n} Tarinankertojaa"
     },
     "verification": {
@@ -801,7 +801,7 @@
       "alive": "Elossa",
       "button_gather": "Kerää Pelaajasi",
       "return": "Palaa Loitsukirjaan (Pikanäppäin: {0})",
-      "script_by": "# {0}",
+      "script_by": "– tekijä {0}",
       "text_player": "Tarinankertojan täytyy lisätä pelaajia ennen kuin voitte aloittaa.",
       "text_st": "Aloittaaksesi sinun on ensin {0}",
       "timer_ended": "päättyi",
@@ -824,7 +824,7 @@
       "button_select_player": "Valitse Pelaaja",
       "button_set_highscore": "Aseta Äänestyslukema",
       "button_start": "Aloita",
-      "choose_defense_attorney": "Valitse Puolustusasianajaja!",
+      "choose_defense_attorney": "Valitse puolustusasianajaja!",
       "countdown_go": "Alkaa",
       "defense": "Puolustus",
       "defense_attorney": "Puolustusasianajaja",
@@ -837,10 +837,10 @@
       "secret": "Äänestys on salainen.",
       "secret_vote": "Piiloäänestys",
       "votes": "{0} ääni tasuriin, {1} teloitukseen|{0} ääntä tasuriin, {1} teloitukseen",
-      "warning_shortcuts": "Pikanäppäimet ovat poissa käytöstä!"
+      "warning_shortcuts": "Pikanäppäimet lukittu!"
     },
     "whisper": {
-      "muted": "Tämä pelaaja on mykistetty / hiljennetty äänikeskustelussa.",
+      "muted": "Tämä pelaaja on mykistetty / hiljennetty äänikeskusteluissa.",
       "video_muted": "Tämän pelaajan kamera on pysähtynyt / poissa käytöstä."
     }
   },
@@ -898,7 +898,7 @@
       "players": "Pelaajat",
       "script": "Käsikirjoitus",
       "show_private": "Näytä yksityispelit",
-      "spectators": "Sivustaseuraajat",
+      "spectators": "Katsojat",
       "stats": "{0} käyttäjää on {1} {2} pelissä",
       "stats_public": "julkisessa",
       "storyteller": "Tarinankertoja",
@@ -1047,13 +1047,13 @@
       "title": "Bluffit"
     },
     "character": {
-      "download": "Lataa Käsikirjoituksen JSON",
+      "download": "Lataa kässärin JSON",
       "error_popout": "Ikkunan luonti epäonnistui",
       "error_save": "Virhe tiedoston tallentamisessa",
       "error_size": "Kässärin koko on liian suuri",
       "jinxes": "Kiusaukset",
       "other_nights": "Ei\nekana yönä",
-      "popout": "Hahmovälilehti Ponnahdusikkunaan",
+      "popout": "Ponnauta hahmovälilehti",
       "popout_window": "Hahmovälilehti uuteen ikkunaan"
     },
     "characters": {
@@ -1097,7 +1097,7 @@
       "request_private": "Yksityiskeskustelu",
       "requests": "Keskustelupyynnöt",
       "reset_position": "Nollaa sijainti",
-      "spectator": "Sivustaseuraaja",
+      "spectator": "Katsoja",
       "title": "Ääni"
     },
     "night": {
@@ -1113,14 +1113,14 @@
       "channels": {
         "private": "Yksityinen",
         "public": "Julkinen",
-        "spectator": "Sivustaseuraajat",
+        "spectator": "Katsojat",
         "system": "Istunto"
       },
       "message_blocked": "ei toimitettu",
       "message_to": ">",
       "prompt_private": "Yksityiskeskustelu",
       "prompt_public": "Julkinen ilmoitus",
-      "prompt_spectator": "Sivustaseuraajien keskustelu",
+      "prompt_spectator": "Katsojakeskustelut",
       "prompt_system": "Järjestelmäviestit",
       "prompt_user": "> {0}",
       "sender_blocked": "lähettäjä estetty",
