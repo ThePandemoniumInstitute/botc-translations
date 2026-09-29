@@ -13,7 +13,7 @@
     },
     "snv": {
       "description": "… er den sprøeste av de tre utgavene som er inkludert i basissettet. Gode roller får fantastisk informasjon hver eneste natt. Det onde laget er imidlertid ekstremt variert og truende, og kan skape massiv forvirring. Roller endrer lagtilhørighet. Spillere endrer roller. Selv det onde laget kan miste oversikten over hvem som er hvem. Dette er også den første introduksjonen til galskap, som kaster alle slags kjepper i hjulene.",
-      "name": "Sekter og fioler"
+      "name": "Sekter og blåveiser"
     },
     "tb": {
       "description": "… har litt av hvert. Noen roller mottar passiv informasjon, noen må gjøre noe for å finne ut hvem som er hvem, mens noen rett og slett ønsker å lokke demonen til å angripe dem. Både gode og onde kan få overtaket ved å gjøre offer på riktig tidspunkt.\nTrouble Brewing er en relativt enkel demonjakt, men ondskapen har en rekke triks i ermet, så de gode spillerne bør stille spørsmål ved hva de tror de vet hvis de håper å overleve.",
@@ -764,7 +764,7 @@
     "kazali": {
       "ability": "Hver natt*, velg en spiller: de dør. [Du velger hvilke spillere som er hvilke Minioner. -? til +? Utstøtt]",
       "first": "Kazali velger hvilke spillere som er hvilke Minioner. Vekk hvert Minion. Vis *DU ER*- og Minion-brikken og gi tommelen ned.",
-      "flavor": "Gon(z)a7les6. Vær f0rsikt1g. Hele mek4an4sm1n = iNvert10ed. F3il isy6tem. Omko\\{7\\}fig.",
+      "flavor": "Gon(z)a7les6. Vær f0rsikt1g. Hele mek4an4sm1n = iNvert10ert. F3il isy6tem. Omko\\{7\\}fig.",
       "name": "Kazali",
       "other": "Kazali velger en spiller. :reminder:"
     },
