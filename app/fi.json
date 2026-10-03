@@ -345,7 +345,7 @@
       "reason": {
         "cheating": "Huijaaminen tai luovuttaminen",
         "conduct": "Pelaajan käytös",
-        "fake": "Väärennetty- tai Kaksoistili",
+        "fake": "Väärennetty- tai kaksoistili",
         "feature": "Ominaisuuspyyntö",
         "harassment": "Häirintä tai kiusaaminen",
         "hatespeech": "Vihapuhe tai syrjintä",
@@ -468,7 +468,7 @@
       "setting_avatars": "Näytä avatarit / kamerat toriaukiolla",
       "setting_background": "Taustakuva",
       "setting_camera": "Kamera",
-      "setting_chat_volume": "Keskustelujen Äänenvoimakkuus",
+      "setting_chat_volume": "Keskusteluvoimakkuus",
       "setting_chroma": "Kroma-avain",
       "setting_chroma_label": "Valitse kroma-väri",
       "setting_clouds": "Näytä yövaiheen pilvet",
@@ -478,7 +478,7 @@
       "setting_css": "Mukautetut CSS-säännöt",
       "setting_css_label": "Syötä mukautetut CSS-säännöt",
       "setting_echo_cancellation": "Kaiunpoisto",
-      "setting_english": "Näytä Hahmonimet Englanniksikin",
+      "setting_english": "Näytä hahmonimet englanniksikin",
       "setting_gain": "Äänenvahvistus",
       "setting_general_volume": "Yleinen äänenvoimakkuus",
       "setting_grimoire_offset": "Loitsukirjan poikkeama",
@@ -689,7 +689,7 @@
       "offline": "Offline",
       "st_requested": "Tarinankertojaa pyydetty",
       "type_player": "Pelaaja|{n} pelaajaa",
-      "type_spectator": "katsoja|{n} katsojaa",
+      "type_spectator": "Sivustaseuraaja|{n} sivustaseuraajaa",
       "type_storyteller": "Tarinankertoja|{n} tarinankertojaa"
     },
     "verification": {
@@ -735,11 +735,11 @@
     },
     "firstnight": {
       "bluffs": "Valitse 3 tyhjää \"Demonin Bluffi\" -merkkiä Demonille jaettavaksi.",
-      "button_begin": "Aloita Eka Yövaihe",
+      "button_begin": "Aloita eka yövaihe",
       "gardener_button": "Lähetä hahmot",
       "gardener_text": "Kun olet tyytyväinen hahmovalintoihin, {0} pelaajillesi. Kun olet jakanut ne, voit jatkaa ensimmäisen yön järjestelyillä.",
       "reminders": "Lisää tarvittavat {0} muistutusmerkit.",
-      "title": "Valmistele Eka Yö"
+      "title": "Valmistele eka yö"
     },
     "gatherplayers": {
       "button_add": "Lisää paikka",
@@ -794,7 +794,7 @@
     "rules": {
       "button_select": "Valitse hahmot",
       "text": "Olet valmis {0}",
-      "text2": "Kiertolaiset tulisi yhdistää pelaajiin ennen hahmojen valitsemista.",
+      "text2": "Matkaajat tulisi antaa pelaajilleen ennen pelihahmojen valitsemista.",
       "title": "Valitse hahmot"
     },
     "towninfo": {
