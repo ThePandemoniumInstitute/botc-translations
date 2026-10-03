@@ -106,8 +106,8 @@
       "title": "Metsästäjä, muttei Neitoa"
     },
     "no-outsider-mod": {
-      "msg": "Ilman Hylkiömuutoksia pahat pelaajat eivät voi luotettavasti teeskennellä olevansa Hylkiöitä.",
-      "title": "Ei Hylkiömuutoksia"
+      "msg": "Ilman muukalaismuutoksia pahat pelaajat eivät voi luotettavasti teeskennellä olevansa muukalaisia.",
+      "title": "Ei muukalaismuutoksia"
     }
   },
   "keyword": {
