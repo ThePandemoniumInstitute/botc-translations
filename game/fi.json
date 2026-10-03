@@ -116,7 +116,7 @@
     "lilmonsta-scarletwoman": "Jos Pikku Riiviö kuolee, kun 5 tai enemmän pelaajia on elossa, pitää Syöjätär huolta Pikku Riiviöstä koko loppupelin.",
     "lilmonsta-vizier": "Jos Visiiri vahtii Pikku Riiviötä, hän kuolee tullessaan teloitetuksi.",
     "lleech-mastermind": "Jos Välkky on elossa ja Iilimadon isäntä kuolee teloitukseen, jää Iilimato eloon, mutta ilman kykyään.",
-    "lleech-slayer": "Iilimadon isäntä kuolee, jos Lahtari surmaa tämän.",
+    "lleech-slayer": "Iilimadon isäntä kuolee, jos Surmaaja tappaa tämän.",
     "lordoftyphon-summoner": "Jos Suur-Typerrys rienataan peliin, on tämän vieressä oltava Kätyri & toisestakin naapurista tulee paha Kätyri.",
     "lunatic-mathematician": "Matemaatikko saa tietää, jos Mielipuoli hyökkää eri pelaajan kimppuun kuin oikea Demoni.",
     "magician-marionette": "Jos Taikuri on elossa, Demoni ei tiedä, kumpi hänen naapureistaan on Sätkynukke.",
@@ -131,7 +131,7 @@
     "mayor-riot": "Vouti voi halutessaan pysäyttää mellakan. Jos tällöin vain 1 Mellakka on elossa, hyvä voittaa. Muuten paha voittaa.",
     "monk-riot": "Jos Mellakka nimeää ja teloituttaa Munkin suojeleman pelaajan, hyvä voittaa.",
     "ogre-pithag": "Jos Pata-akka muuttaa pahan pelaajan Möröksi, ei tämä voi kääntyä oman kykynsä vuoksi hyväksi.",
-    "ogre-recluse": "Jos Rastuli näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
+    "ogre-recluse": "Jos Hylkiö näyttäytyy pahana Mörölle, saa Mörkö tietää olevansa paha.",
     "ogre-spy": "Vakooja näyttäytyy pahana Mörölle.",
     "pithag-politician": "Jos Pata-akka muuttaa pahan pelaajan Poliitikoksi, ei tämä voi kääntyä oman kykynsä vuoksi hyväksi.",
     "pithag-summoner": "Jos Rienaaja luo toisen elävän Demonin, kuolemat tänä yönä ovat mielivaltaisia.",
@@ -426,7 +426,7 @@
       "other": "Sisäkkö valitsee 2 elävää pelaajaa. Anna sormimerkki."
     },
     "chef": {
-      "ability": "Aloitat tietäen, kuinka monta paria pahoja pelaajia istuu vierekkäin.",
+      "ability": "Tiedät pelin alussa, kuinka monta paria pahoja pelaajia istuu vierekkäin.",
       "first": "Anna sormimerkki.",
       "flavor": "Illan pöytävaraukset tuntuvat oudoilta. Rouva Mayweather ei ole ikuna kuunaan pitänyt seuraa tuolle Hudson Lane -lurjukselle. Silti, tänä iltana he jakavat pöydän kahdelle. Outoa.",
       "name": "Kokki"
