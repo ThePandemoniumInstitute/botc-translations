@@ -478,7 +478,7 @@
       "setting_css": "Mukautetut CSS-säännöt",
       "setting_css_label": "Syötä mukautetut CSS-säännöt",
       "setting_echo_cancellation": "Kaiunpoisto",
-      "setting_english": "Näytä hahmonimet englanniksikin",
+      "setting_english": "Näytä hahmonimet myös englanniksi",
       "setting_gain": "Äänenvahvistus",
       "setting_general_volume": "Yleinen äänenvoimakkuus",
       "setting_grimoire_offset": "Loitsukirjan poikkeama",
@@ -489,7 +489,7 @@
       "setting_noise_suppression": "Melunvaimennus",
       "setting_player_bluffs": "Pelaaja: näytä bluffilappu",
       "setting_player_night": "Pelaaja: näytä yöjärjestysarkit",
-      "setting_player_reminders": "Pelaaja: salli useat muistutusmerkit",
+      "setting_player_reminders": "Pelaaja: salli useat samanlaiset muistutusmerkit",
       "setting_player_sound": "Pelaaja: keskustelupyyntöjen äänitehosteet yöllä",
       "setting_positioning": "Salli välilehtien liikuttaminen",
       "setting_private_cams": "Näytä pelaajakamerat yksityiskeskusteluissa",
@@ -564,7 +564,7 @@
         "voteTick": "Äänestyskellon tikitys",
         "voteTickShort": "Äänestyskellon tikitys (<1s)"
       },
-      "tab_advanced": "Edistynyt",
+      "tab_advanced": "Lisäasetukset",
       "tab_chat": "Keskustelu",
       "tab_game": "Peli",
       "tab_general": "Yleinen",
@@ -735,11 +735,11 @@
     },
     "firstnight": {
       "bluffs": "Valitse 3 tyhjää \"Demonin Bluffi\" -merkkiä Demonille jaettavaksi.",
-      "button_begin": "Aloita eka yövaihe",
+      "button_begin": "Aloita ensimmäinen yövaihe",
       "gardener_button": "Lähetä hahmot",
       "gardener_text": "Kun olet tyytyväinen hahmovalintoihin, {0} pelaajillesi. Kun olet jakanut ne, voit jatkaa ensimmäisen yön järjestelyillä.",
       "reminders": "Lisää tarvittavat {0} muistutusmerkit.",
-      "title": "Valmistele eka yö"
+      "title": "Valmistele ensimmäinen yö"
     },
     "gatherplayers": {
       "button_add": "Lisää paikka",
@@ -794,7 +794,7 @@
     "rules": {
       "button_select": "Valitse hahmot",
       "text": "Olet valmis {0}",
-      "text2": "Matkaajat tulisi antaa pelaajilleen ennen pelihahmojen valitsemista.",
+      "text2": "Matkaajat tulee antaa pelaajilleen ennen pelihahmojen valitsemista.",
       "title": "Valitse hahmot"
     },
     "towninfo": {
@@ -1171,9 +1171,9 @@
       "loading": "Ladataan tilastoja...",
       "none": "---",
       "player": "Pelejä\npelattu",
-      "player_wins": "{0}% Voittoaste",
+      "player_wins": "{0}% voittoaste",
       "role": "Pelatuimmat\nhahmot",
-      "st_evil_wins": "{0}% Voittoaste pahana",
+      "st_evil_wins": "{0}% voittoaste pahana",
       "storyteller": "Pelejä\ntarinoitu",
       "warning": "Tilastoja luodaan...\nPalaa myöhemmin!"
     },
