@@ -345,7 +345,7 @@
       "reason": {
         "cheating": "Huijaaminen tai luovuttaminen",
         "conduct": "Pelaajan käytös",
-        "fake": "Väärennetty- tai kaksoistili",
+        "fake": "Väärennetty tai kaksoistili",
         "feature": "Ominaisuuspyyntö",
         "harassment": "Häirintä tai kiusaaminen",
         "hatespeech": "Vihapuhe tai syrjintä",
@@ -468,7 +468,7 @@
       "setting_avatars": "Näytä avatarit / kamerat toriaukiolla",
       "setting_background": "Taustakuva",
       "setting_camera": "Kamera",
-      "setting_chat_volume": "Keskusteluvoimakkuus",
+      "setting_chat_volume": "Äänenvoimakkuus",
       "setting_chroma": "Kroma-avain",
       "setting_chroma_label": "Valitse kroma-väri",
       "setting_clouds": "Näytä yövaiheen pilvet",
@@ -689,7 +689,7 @@
       "offline": "Offline",
       "st_requested": "Tarinankertojaa pyydetty",
       "type_player": "Pelaaja|{n} pelaajaa",
-      "type_spectator": "Sivustaseuraaja|{n} sivustaseuraajaa",
+      "type_spectator": "Katsoja|{n} katsojaa",
       "type_storyteller": "Tarinankertoja|{n} tarinankertojaa"
     },
     "verification": {
