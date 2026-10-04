@@ -287,7 +287,7 @@
       "button_upload": "Lataa",
       "button_url": "URL",
       "clear_description": "Tämä tyhjentää Loitsukirjan kaikilta. Oletko varma?",
-      "clear_title": "Tyhjennä Loitsukirja",
+      "clear_title": "Tyhjennä Loitsukirja ja muistutusmerkit",
       "custom_placeholder": "Räätälöidyn käsikirjoituksen URL-osoite",
       "custom_text": "Anna URL-osoite räätälöity-käsikirjoitus.json -tiedostoon",
       "custom_title": "Lataa räätälöity käsikirjoitus",
@@ -468,7 +468,7 @@
       "setting_avatars": "Näytä avatarit / kamerat toriaukiolla",
       "setting_background": "Taustakuva",
       "setting_camera": "Kamera",
-      "setting_chat_volume": "Äänenvoimakkuus",
+      "setting_chat_volume": "Keskustelujen äänenvoimakkuus",
       "setting_chroma": "Kroma-avain",
       "setting_chroma_label": "Valitse kroma-väri",
       "setting_clouds": "Näytä yövaiheen pilvet",
@@ -689,7 +689,7 @@
       "offline": "Offline",
       "st_requested": "Tarinankertojaa pyydetty",
       "type_player": "Pelaaja|{n} pelaajaa",
-      "type_spectator": "Katsoja|{n} katsojaa",
+      "type_spectator": "katsoja|{n} katsojaa",
       "type_storyteller": "Tarinankertoja|{n} tarinankertojaa"
     },
     "verification": {
