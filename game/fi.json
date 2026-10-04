@@ -404,7 +404,7 @@
       "ability": "Valitse joka päivä pelaaja: toisen pelaajan hahmo muuttuu yöllä.",
       "flavor": "Johdin α Johtimeen β. VaLo päällE. SuMMeri pois. Kaazhua! Kädet SUor1na. SorMI 2 nenään. Pyy5yy paikaLLasi. PomPpu-paukKu! Ha-ha-ha!",
       "name": "Kätkäjakki",
-      "other": "Valitse ennen sarastusta pelaaja, jolla ei ole \"EI MINUA\"-merkkiä. Herätä kohde. Näytä *SINÄ OLET*-merkki & hänen uusi hahmomerkkinsä."
+      "other": "Valitse ennen sarastusta pelaaja, jolla ei ole *EI MINUA*-merkkiä. Herätä kohde. Näytä *SINÄ OLET*-merkki & hänen uusi hahmomerkkinsä."
     },
     "cannibal": {
       "ability": "Sinulla on viimeksi teloitetun kyky. Jos tämä on paha, olet myrkytetty siihen saakka, kun hyvä pelaaja kuolee teloitukseen.",
@@ -521,7 +521,7 @@
     "dusk": {
       "first": "Aloita yövaihe.",
       "name": "Iltarusko",
-      "other": "Aloita Yövaihe."
+      "other": "Aloita yövaihe."
     },
     "empath": {
       "ability": "Joka yö saat tietää kuinka moni 2 elävästä naapuristasi on paha.",
@@ -721,7 +721,7 @@
       "other": "Osoita pelaajaa."
     },
     "hindu": {
-      "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi Kulkureiksi.",
+      "ability": "Neljä ensimmäisenä kuolevaa pelaajaa syntyy välittömästi takaisin samaa puolta edustaviksi matkaajiksi.",
       "flavor": "Kun neljä kuoleman syliin kaatuu, neljä matkaajaa ain tilalle nousee",
       "name": "Hindulaine"
     },
@@ -890,7 +890,7 @@
       "name": "Kätyritieto"
     },
     "minstrel": {
-      "ability": "Kun Kätyri teloitetaan, ovat kaikki muut (paitsi Kulkurit) juopuneita huomisiltaan asti.",
+      "ability": "Kun kätyri teloitetaan, ovat kaikki muut (paitsi matkaajat) juopuneita huomisiltaan asti.",
       "flavor": "Ja minä kuulen, vaik kuin pehmeästi askellat ylläni... Ja kaik unistain lämpöisiä ja yhä suloisempia näin ovat... Jos et minulle rakkauttasi tunnustamatta jätä... Uinun minä rauhas, kunnes luokseni palaat.",
       "name": "Trubaduuri"
     },
