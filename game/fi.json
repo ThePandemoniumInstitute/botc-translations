@@ -1261,7 +1261,7 @@
     "vizier": {
       "ability": "Kaikki tietävät, että olet Visiiri. Et voi kuolla päivän aikana. Jos hyvä pelaaja äänesti, voit teloittaa nimitetyn välittömästi.",
       "first": "Ilmoita kuka pelaajista on Visiiri.",
-      "flavor": "Oivallinen valinta, kuten aina, herra. Piispaan tömräämisen kaltainen pikkurikos tosiaan ansaitsee 'oikeudenmukaisuutesi' ja 'armosi'. Käy kävelyllä puutarhoissa. Käy galleriassa tutki Von Straufin veistoksia. Rentoudu, herra. Jätä kaikki... minulle.",
+      "flavor": "Oivallinen valinta, kuten aina, herra. Piispaan törmäämisen kaltainen pikkurikos tosiaan ansaitsee 'oikeudenmukaisuutesi' ja 'armosi'. Käy kävelyllä puutarhoissa. Käy galleriassa ja tutki Von Straufin veistoksia. Rentoutukaa, herra. Jättäkää kaikki... minulle.",
       "name": "Visiiri"
     },
     "vortox": {
