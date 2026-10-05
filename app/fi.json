@@ -734,7 +734,7 @@
       "return": "Palatkaahan takaisin toriaukiolle!"
     },
     "firstnight": {
-      "bluffs": "Valitse 3 tyhjää \"Demonin Bluffi\" -merkkiä Demonille jaettavaksi.",
+      "bluffs": "Täytä 3 tyhjää \"demonin bluffi\" -merkkiä demonille jaettavaksi.",
       "button_begin": "Aloita ensimmäinen yövaihe",
       "gardener_button": "Lähetä hahmot",
       "gardener_text": "Kun olet tyytyväinen hahmovalintoihin, {0} pelaajillesi. Kun olet jakanut ne, voit jatkaa ensimmäisen yön järjestelyillä.",
