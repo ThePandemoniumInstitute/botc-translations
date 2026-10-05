@@ -106,8 +106,8 @@
       "title": "Metsästäjä, muttei Neitoa"
     },
     "no-outsider-mod": {
-      "msg": "Ilman muukalaismuutoksia pahat pelaajat eivät voi luotettavasti teeskennellä olevansa muukalaisia.",
-      "title": "Ei muukalaismuutoksia"
+      "msg": "Ilman muukalaismäärän muutoksia pahat pelaajat eivät voi uskottavasti teeskennellä olevansa muukalaisia.",
+      "title": "Ei muutoksia muukalaismäärässä"
     }
   },
   "keyword": {
