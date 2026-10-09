@@ -485,7 +485,8 @@
       "other": "Lord of Typhon chọn một người. :reminder:"
     },
     "lunatic": {
-      "ability": "Bạn nghĩ bạn là Ác quỷ, nhưng bạn không phải. Ác quỷ biết bạn là ai & người bạn chọn vào ban đêm."
+      "ability": "Bạn nghĩ bạn là Ác quỷ, nhưng bạn không phải. Ác quỷ biết bạn là ai & người bạn chọn vào ban đêm.",
+      "first": "Nếu có 7 người chơi trở lên, đánh thức Lunatic: Cho xem token *ĐÂY LÀ NHỮNG TAY SAI CỦA BẠN*. Chỉ vào người bất kỳ. Cho xem token *NHỮNG NHÂN VẬT SAU KHÔNG CÓ TRONG VÁN CHƠI*. Cho xem 3 token nhân vật tốt. Cho Lunatic đi ngủ. Đánh thức Ác quỷ. Cho xem token thông tin *BẠN LÀ* và token Ác quỷ. Cho xem token *NGƯỜI ĐÓ LÀ* và token Lunatic, rồi chỉ vào Lunatic."
     },
     "lycanthrope": {
       "ability": "Mỗi đêm*, chọn một người sống. Nếu là phe tốt, họ chết & Ác quỷ không giết người tối nay. Một người tốt bị nhìn thấy là phe xấu."
@@ -506,7 +507,7 @@
     },
     "mathematician": {
       "ability": "Mỗi đêm, bạn biết bao nhiêu năng lực của người chơi hoạt động bất thường (kể từ bình minh) do năng lực của nhân vật khác.",
-      "first": "Đưa dấu hiệu bằng ngón tay.",
+      "first": "Giơ một số.",
       "flavor": "Bất kỳ hệ thống chính thức nhất quán x nào, trong đó có thể thực hiện một lượng phép tính số học cơ bản nhất định, đều không nhất quán; nghĩa là, có những phát biểu trong ngôn ngữ của x không thể được chứng minh hoặc bác bỏ trong x. Do đó, bạn say rồi, Ergo ạ.",
       "name": "Mathematician",
       "other": "Đưa dấu hiệu bằng ngón tay."
