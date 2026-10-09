@@ -127,7 +127,7 @@
     "night_info_text": "Tarinankertoja herätti sinut tänä yönä!",
     "night_sheet": "Yöjärjestysarkki",
     "notifications": "Ilmoitukset",
-    "npcs": "Lisää NPC",
+    "npcs": "Lisää EPH",
     "prompt_clear_player": "Oletko varma, että haluat poistaa kaikki pelaajamerkit?",
     "prompt_clear_st": "Tämä tyhjentää Loitsukirjan ja Muistutusmerkit sinulta ja kaikilta muilta. Oletko varma?",
     "prompt_clear_title": "Tyhjennä Loitsukirja ja muistutusmerkit",
@@ -212,7 +212,7 @@
         "missing_roles": "Tämä istunto sisältää räätälöityjä hahmoja, joita ei löydy. Lataa ne ennen liittymistä! Puuttuvat roolit: {0}",
         "missing_roles_title": "Virhe ladattaessa räätälöityjä rooleja",
         "move_player": "Pelaajaa ei voi siirtää",
-        "npcs": "Virhe NPC-päivityksessä",
+        "npcs": "Virhe EPH-päivityksessä",
         "offline": "Tämä palvelin näyttää olevan offline-tilassa",
         "remove_player": "Pelaajaa ei voitu poistaa",
         "remove_storyteller": "Virhe tarinankertojan poistamisessa",
@@ -1107,7 +1107,7 @@
     "npcs": {
       "remove_fabled": "Poista Tarunomainen",
       "remove_loric": "Poista Satuinen",
-      "title": "NPC:t"
+      "title": "EPH:t"
     },
     "text": {
       "channels": {
