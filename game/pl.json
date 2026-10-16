@@ -97,7 +97,7 @@
     "kazali-summoner": "Jeżeli Przyzywacz stworzy drugiego żyjącego Demona, Bajarz wybiera, kto ginie tej nocy.",
     "king-leviathan": "Jeżeli Lewiatan jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
     "king-riot": "Jeżeli Zadyma jest w grze i co najmniej jeden gracz jest martwy, Król dowiaduje się o jednej żywej postaci każdej nocy.",
-    "legion-magician": "Jeżeli w grze jest Magik, podczas informacji dla Demona Legion budzi się w oddzielnych grupach. Każda grupa poznaje dobrych graczy, ale nie dowiaduje się o Magiku.",
+    "legion-magician": "Jeżeli w grze jest Magik, podczas przekazywania Informacji dla Demona Legion budzi się w oddzielnych grupach. Każda grupa poznaje dobrych graczy, ale nie dowiaduje się o Magiku.",
     "legion-minstrel": "Jeżeli Legion zginął dziś w wyniku egzekucji, to Legion zachowuje swoją umiejętność, ale Minstrel może dowiedzieć się, że stracony gracz jest Legionem.",
     "legion-politician": "Polityk może pokazać się Legionowi jako zły.",
     "legion-preacher": "Jeżeli Kaznodzieja wybierze Legion, Legion zachowuje swoją umiejętność, ale Kaznodzieja może dowiedzieć się, że jest Legionem.",
@@ -122,8 +122,8 @@
     "magician-marionette": "Jeżeli Magik żyje, to Demon nie wie, który z jego sąsiadów jest Marionetką.",
     "magician-spy": "Kiedy Szpieg zagląda do Grymuaru, żetony Demona i Magika należy usunąć.",
     "magician-vizier": "Jeżeli Wezyr jest w grze, Magik nie ma umiejętności, ale jest odporny na umiejętność Wezyra.",
-    "magician-widow": "Gdy Wdowa podgląda Grymuar, żetony Demona i Magika należy usunąć.",
-    "magician-wraith": "Po każdej egzekucji, żywy Magik może publicznie zgadnąć, który żywy gracz jest Upiorem. Jeżeli zgadł poprawnie, Demon musi wybrać Upiora tej nocy.",
+    "magician-widow": "Kiedy Wdowa zagląda do Grymuaru, żetony Demona i Magika należy usunąć.",
+    "magician-wraith": "Po każdej egzekucji, żywy Magik może publicznie zgadnąć, który żywy gracz jest Widmem. Jeżeli zgadł poprawnie, Demon musi wybrać Widmo tej nocy.",
     "marionette-mathematician": "Matematyk dowiaduje się, czy Marionetka otrzymała fałszywe informacje lub jej moc zadziałała nieprawidłowo.",
     "marionette-plaguedoctor": "Jeżeli Bajarz uzyskuje umiejętność Marionetki, jeden z dobrych sąsiadów Demona staje się Marionetką.",
     "marionette-summoner": "Jeżeli Marionetka miałaby być w grze, wchodzi do gry po Demonie i musi zacząć grę jako jego sąsiad.",
@@ -403,7 +403,7 @@
     "cacklejack": {
       "ability": "Każdego dnia wybierz gracza: tej nocy inny gracz zostaje zmieniony w inną postać.",
       "flavor": "Przewód α Do przewodu β. WłĄczyć. BrzĘczyK wyłĄczony. ŻEżkUrczę! Ramiona proSt0. Palęc do n0$a. tEraaaZz nie ru$ZaĆ siĘ. BoiNgo-banGo! Ha-ha-ha!",
-      "name": "Majster-Wihajster",
+      "name": "Majster-wihajster",
       "other": "Przed świtem, wybierz gracza nie oznaczonego *NIE JA*. Obudź go, pokaż kartę *JESTEŚ* i jego nowy żeton postaci."
     },
     "cannibal": {
@@ -491,7 +491,7 @@
       "other": "Adwokat diabła wybiera żywego gracza. :reminder:"
     },
     "djinn": {
-      "ability": "Użyj specjalnych zasad Dżina. Wszyscy gracze je znają.",
+      "ability": "Użyj specjalnych zasad Dżinna. Wszyscy gracze je znają.",
       "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
       "name": "Dżinn"
     },
@@ -613,7 +613,7 @@
       "other": "Hazardzista wybiera gracza i postać. :reminder:"
     },
     "gangster": {
-      "ability": "Raz dziennie, możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi.",
+      "ability": "Raz na dzień możesz zdecydować się na zabicie żywego sąsiada, jeżeli twój drugi żywy sąsiad się zgodzi.",
       "flavor": "Ładne masz buty. Szkoda by było, gdyby przydarzył ci się jakiś wypadek i się zniszczyły. Jak już o tym mowa, to spinki do mankietów też masz fajne.",
       "name": "Gangster"
     },
@@ -788,7 +788,7 @@
     "knight": {
       "ability": "Na początku gry poznajesz 2 graczy, którzy nie są Demonem.",
       "first": "Wskaż dwóch graczy oznaczonych *ZNANY*.",
-      "flavor": "Jeśli człowiek skłamie, zabija małą część świata.",
+      "flavor": "Kiedy człowiek kłamie, to morduje część świata.",
       "name": "Rycerz"
     },
     "legion": {
@@ -1136,7 +1136,7 @@
     "snakecharmer": {
       "ability": "Każdej nocy wybierz żywego gracza: wybrany Demon zamienia się z tobą postacią i przynależnością, a następnie zostaje zatruty.",
       "first": "Zaklinacz węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół. Zamień żeton Zaklinacza węży i Demona. Uśpij poprzedniego Zaklinacza węży. Obudź poprzedniego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza węży oraz kciuk w górę. :reminder:",
-      "flavor": "Effendi... jestem tylko skromnym człowiekiem, ale mój flet jest złoty i jedna nuta oswoi najdzikszego dżina, Inshallah. Powiadają, że chciwość powiesiła więcej ludzi niż powróz. Ale nie ja, Effendi... nie ja.",
+      "flavor": "Effendi... jestem tylko skromnym człowiekiem, ale mój flet jest złoty i jedna nuta oswoi najdzikszego dżinna, Inshallah. Powiadają, że chciwość powiesiła więcej ludzi niż powróz. Ale nie ja, Effendi... nie ja.",
       "name": "Zaklinacz węży",
       "other": "Zaklinacz węży wybiera gracza. Jeżeli wybrał Demona: Pokaż kartę *JESTEŚ* i żeton Demona. Pokaż kciuk w dół. Zamień żeton Zaklinacza węży i Demona. Uśpij poprzedniego Zaklinacza węży. Obudź poprzedniego Demona. Pokaż kartę *JESTEŚ* i żeton Zaklinacza węży oraz kciuk w górę. :reminder:"
     },
@@ -1274,7 +1274,7 @@
       "name": "Praczka"
     },
     "widow": {
-      "ability": "Pierwszej nocy po wejściu do gry spójrz w Grymuar i wybierz gracza: jest zatruty. 1 dobry gracz dowiaduje się, że Wdowa jest w grze.",
+      "ability": "Pierwszej nocy po wejściu do gry zajrzyj do Grymuaru i wybierz gracza: jest zatruty. 1 dobry gracz dowiaduje się, że Wdowa jest w grze.",
       "first": "Pokaż Grymuar na tak długo, jak Wdowa potrzebuje. Wdowa wybiera gracza. :reminder: Uśpij Wdowę. Obudź gracza oznaczonego *Wie* i pokaż żeton Wdowy. :reminder:",
       "name": "Wdowa"
     },
