@@ -72,8 +72,12 @@
     "download-json": "JSON 다운로드",
     "pdf": "인쇄 / PDF로 내보내기",
     "png": "PNG로 내보내기",
+    "preview-export": "내보내기 옵션 & 미리보기",
     "screenshot": {
+      "download-player-sheet": "플레이어 시트 다운로드",
+      "download-st-sheet": "이야기꾼 시트 다운로드",
       "failed-embed": "내보낸 이미지에 일부 아이콘을 포함할 수 없습니다",
+      "overflow": "플레이어 시트에 모든 캐릭터를 다 넣을 수 없었습니다. 내보내기 옵션 메뉴에서 일부 캐릭터를 삭제하거나 크기를 조정하세요.",
       "save": "저장",
       "share": "공유"
     }
@@ -81,12 +85,14 @@
   "export-menu": "내보내기 메뉴",
   "external-image-confirm": "커스텀 이미지를 정말 허용하시겠습니까? 악의적인 스크립트 작성자가 이를 통해 당신의 IP 주소를 추적할 수 있습니다. 또한 TPI는 다른 유저가 제공하는 이미지를 통제할 수 없습니다.",
   "fabled-and-loric": "전설 & 설화",
+  "filter-showing": "현재 표시중",
   "filters": "필터",
   "help": "도움말",
   "import-description": "클릭하거나 드래그&드롭하여 스크립트 JSON 불러오기",
   "import-description-kb": "또는 JSON / URL 붙여넣기 (Ctrl+V / ⌘V)",
   "import-description-nokb": "… 또는 여기에 URL/JSON 붙여넣기:",
   "import-json-error": "유효한 JSON 파일을 불러올 수 없음",
+  "import-load-json": "JSON 불러오기",
   "import-script": "스크립트 불러오기",
   "import-type-error": "확장자가 다릅니다. 파일을 불러올 수 없습니다.",
   "import-typing-error": "이 칸은 모바일 및 터치용 기기에서 JSON을 붙여넣는 용도입니다. 직접 작성하는 것은 허용되지 않습니다.",
@@ -119,6 +125,57 @@
   "name": "ㄱㄴㄷ",
   "new-bootlegger-rule": "새로운 밀주업자 규칙…",
   "new-script": "새 스크립트",
+  "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "내보낼 페이지",
+      "page-size": "페이지 크기",
+      "us-letter": "US Letter"
+    },
+    "night-sheet": "밤 시트",
+    "night-sheet-options": {
+      "include-travellers": "여행자 포함"
+    },
+    "page-export-options": "페이지 및 내보내기 옵션",
+    "player-sheet": "플레이어 시트",
+    "player-sheet-options": {
+      "max-npcs-shown": "최대 NPC 표시",
+      "show-npc-names": "NPC 캐릭터 표시"
+    },
+    "reset": "초기화",
+    "restore-defaults": "설정 초기화",
+    "script": {
+      "landscape-player-sheet": "가로형",
+      "player-count": "플레이어 수"
+    },
+    "script-options": "스크립트 옵션",
+    "st-sheet": "이야기꾼 시트",
+    "st-sheet-options": {
+      "display-compact-night-order": "밤 순서 표시",
+      "display-player-count": "플레이어 구성 표시"
+    },
+    "theme": {
+      "author-font": "지은이 폰트",
+      "balance": {
+        "infer": "자동",
+        "left": "왼쪽",
+        "none": "지정 안함",
+        "right": "오른쪽"
+      },
+      "balance-columns": "간격 조정",
+      "one-col": "1열",
+      "standard": "2열",
+      "theme": "테마",
+      "title-font": "제목 폰트"
+    },
+    "theme-options": "테마 옵션",
+    "tweaks": {
+      "custom-icon-position": "커스텀 아이콘 위치",
+      "custom-icon-size": "커스텀 아이콘 크기",
+      "size-mult": "크기 조정"
+    },
+    "tweaks-heading": "조정"
+  },
   "print": {
     "ios": "iOS 기반 기기에서 인쇄는 아직 지원하지 않습니다. 가능하지만, 깔끔하지 않을 수도 있습니다.",
     "not-first-night": "* 첫날 제외",
@@ -130,6 +187,8 @@
   "read-more": "캐릭터 연감 / 위키 항목 읽기",
   "recommended-travellers": "추천 여행자",
   "redo": "다시 실행",
+  "restore-script": "복구",
+  "restore-script-tooltip": "최근 삭제된 스크립트 복구",
   "sao": "SAO",
   "script-name": "스크립트 제목",
   "script-name-placeholder": "제목없는 스크립트",
@@ -138,6 +197,7 @@
   "search-character": "캐릭터 검색 …",
   "search-names": "이름으로 찾기",
   "settings": {
+    "advanced-heading": "고급 설정",
     "allow-external-images": "외부 이미지 허용",
     "bloodstar-image-correction": "Bloodstar 이미지 수정",
     "bloodstar-image-correction-explanation": "bloodstar.xyz가 생성하는 아이콘은 하단에 미세한 여백이 있어 중앙에 위치하지 않습니다. 이 설정을 활성화하면 해당 여백이 상쇄됩니다.",
@@ -150,52 +210,65 @@
     "force-one-column": "한 줄로 배열하기",
     "language": "언어",
     "language-select-heading": "언어 선택",
+    "manage-homebrew-characters": "홈브류 캐릭터",
+    "miscellaneous": "기타",
     "print-columns": "인쇄 열",
     "print-compact-night-sheet": "밤 시트 요약",
     "print-options-heading": "인쇄 설정",
     "print-player-count-table": "플레이어 구성 표시",
     "script-heading": "스크립트 설정",
+    "script-scaling": "스크립트 크기",
     "script-type": "스크립트 유형",
     "script-type-explanation": "틴시빌 스크립트는 작은 플레이어 수(7명 미만)를 위해 특별히 만들어진 스크립트입니다. 보통 일반 스크립트보다 캐릭터 수가 적습니다. 이 설정은 스크립트 분석, 랜덤 및 일부 UI 요소에만 영향을 미칩니다.",
     "script-type-standard": "일반",
     "script-type-teensyville": "틴시빌",
     "show-analysis-icons": "분석 아이콘 표시",
     "show-night-sheet": "밤 시트 표시",
-    "this-language": "한국어"
+    "this-language": "한국어",
+    "ui-scaling": "UI 크기",
+    "view-tour": {
+      "here": "여기",
+      "term": "{0}를 클릭하면 튜토리얼을 다시 볼 수 있습니다."
+    }
   },
   "settings-menu": "설정",
   "show-all": "모든 캐릭터",
   "show-script-analytics": "스크립트 분석 표시",
   "toast": {
     "cannot-remove-bootlegger": "이 스크립트에는 홈브류 캐릭터가 있어 밀주업자를 제거할 수 없습니다.",
-    "copied": "클립보드에 복사 완료!"
+    "copied": "클립보드에 복사 완료!",
+    "external-images": "보안상의 이유로 외부 이미지는 기본적으로 로딩되지 않습니다. 설정 메뉴에서 허용 여부를 선택할 수 있습니다.",
+    "failed-import-script": "스크립트를 가져올 수 없습니다. 이미 {n}개의 스크립트를 불러왔습니다. 스크립트를 삭제하고 다시 시도해 주세요.",
+    "failed-import-script-link": "스크립트 링크를 가져오지 못했습니다. 이미 {n}개의 스크립트를 불러왔습니다. 스크립트를 삭제하고 다시 시도해 주세요.",
+    "failed-write-clipboard": "클립보드에 복사할 수 없습니다. 사용 중인 브라우저에 해당 기능이나 권한이 없습니다."
   },
   "toggle-autosort": "자동 정렬 버튼",
   "toggle-quick-input": "빠른 추가 버튼",
+  "toggle-sidebar-sort": "캐릭터 정렬 버튼",
   "tour": {
-    "add-and-remove-characters-01": "캐릭터 탭에서 {bold}캐릭터를 추가{/bold}할 수 있습니다. 추가하고 싶은 캐릭터를 선택하면 됩니다.",
-    "add-and-remove-characters-02": "{bold}캐릭터를 제거{/bold}하려면, 다시 클릭하거나, 스크립트의 아이콘을 클릭하면 됩니다.",
+    "add-and-remove-characters-01": "캐릭터 탭에서 {bold}캐릭터를 추가{bold$}할 수 있습니다. 추가하고 싶은 캐릭터를 선택하면 됩니다.",
+    "add-and-remove-characters-02": "{bold}캐릭터를 제거{bold$}하려면, 다시 클릭하거나, 스크립트의 아이콘을 클릭하면 됩니다.",
     "add-and-remove-characters-03": "모바일의 경우 오른쪽으로 스와이프하거나 왼쪽 상단의 {menuIcon} 버튼을 눌러 이 탭을 열 수 있습니다. 왼쪽으로 스와이프하여 닫을 수 있습니다.",
     "add-and-remove-characters-04": "{plusIcon} 버튼을 누르고 이름을 입력하여 캐릭터를 빠르게 추가할 수도 있습니다.",
     "add-and-remove-characters-heading": "캐릭터 추가 및 제거",
-    "autosort-01": "기본적으로 모든 스크립트는 자동으로 {link}{sortIcon}{block}SAO 정렬{/block}{/link}됩니다. 심지어 홈브류 캐릭터에서도 작동합니다! 여기서 켜고 끌 수 있습니다.",
+    "autosort-01": "기본적으로 모든 스크립트는 자동으로 {link}{sortIcon}{block}SAO 정렬{block$}{link$}됩니다. 심지어 홈브류 캐릭터에서도 작동합니다! 여기서 켜고 끌 수 있습니다.",
     "autosort-heading": "자동 정렬",
-    "final-01": "튜토리얼은 여기까지입니다! 다시 보고 싶으시면 {block}{settingsIcon} 설정{/block} 메뉴에서 확인하실 수 있습니다.",
+    "final-01": "튜토리얼은 여기까지입니다! 다시 보고 싶으시면 {block}{settingsIcon} 설정{block$} 메뉴에서 확인하실 수 있습니다.",
     "final-heading": "즐겨주세요!",
-    "import-export-share-01": "여기에서 스크립트를 {block}{importIcon} 불러오거나{/block} , {block}{exportIcon} 내보낼 수 있고{/block} , 또는 {block}공유{/block} 할 수 있습니다. 홈브류 캐릭터와 스크립트가 지원됩니다!",
-    "import-export-share-02": "{block}내보내기{/block} 메뉴에서 {block}스크립트 링크 복사{/block}를 클릭하면 누구나 툴에서 바로 스크립트를 볼 수 있는 특별한 '스크립트 링크'를 제공합니다.",
-    "import-export-share-03": "이 튜토리얼은 {block}{settingsIcon} 설정{/block} 메뉴에서 다시 볼 수 있습니다.",
+    "import-export-share-01": "여기에서 스크립트를 {block}{importIcon} 불러오거나{block$} , {block}{exportIcon} 내보낼 수 있고{block$} , 또는 {block}공유{block$} 할 수 있습니다. 홈브류 캐릭터와 스크립트가 지원됩니다!",
+    "import-export-share-02": "{block}내보내기{block$} 메뉴에서 {block}스크립트 링크 복사{block$}를 클릭하면 누구나 툴에서 바로 스크립트를 볼 수 있는 특별한 '스크립트 링크'를 제공합니다.",
+    "import-export-share-03": "이 튜토리얼은 {block}{settingsIcon} 설정{block$} 메뉴에서 다시 볼 수 있습니다.",
     "import-export-share-heading": "불러오기, 내보내기, 공유하기",
-    "multiple-scripts-01": "여기 {heading}스크립트{/heading} 탭을 클릭하면 작업 중인 모든 스크립트를 확인할 수 있습니다.",
-    "multiple-scripts-02": "여기에서 최근에 작업한 {bold}최대 25개의 스크립트{/bold}를 볼 수 있습니다.",
+    "multiple-scripts-01": "여기 {heading}스크립트{heading$} 탭을 클릭하면 작업 중인 모든 스크립트를 확인할 수 있습니다.",
+    "multiple-scripts-02": "여기에서 최근에 작업한 {bold}최대 25개의 스크립트{bold$}를 볼 수 있습니다.",
     "multiple-scripts-heading": "스크립트 여러개 작업하기",
     "script-analytics-01": "스크립트에 문제가 있는 경우 여기에 표시됩니다.",
     "script-analytics-heading": "스크립트 분석",
-    "script-name-and-authors-01": "{bold}스크립트 제목과 지은이{/bold}는 여기서 바꿀 수 있습니다.",
+    "script-name-and-authors-01": "{bold}스크립트 제목과 지은이{bold$}는 여기서 바꿀 수 있습니다.",
     "script-name-and-authors-heading": "스크립트 제목과 지은이",
-    "undo-redo-01": "실수했다면, 걱정마세요! 언제든지 {block}{undoIcon} 실행 취소{/block} 또는 {block}{redoIcon} 다시 실행{/block}할 수 있습니다. {binIcon} 버튼을 클릭하여 스크립트를 비울 수도 있습니다.",
+    "undo-redo-01": "실수했다면, 걱정마세요! 언제든지 {block}{undoIcon} 실행 취소{block$} 또는 {block}{redoIcon} 다시 실행{block$}할 수 있습니다. {binIcon} 버튼을 클릭하여 스크립트를 비울 수도 있습니다.",
     "undo-redo-heading": "실행 취소 & 다시 실행",
-    "welcome-01": "이 곳은 {bold}시계탑에 흐른 피{/bold}의 새로운 스크립트 툴입니다! 이 튜토리얼에서는 기본 기능에 대해 간략히 설명해 드립니다.",
+    "welcome-01": "이 곳은 {bold}시계탑에 흐른 피{bold$}의 새로운 스크립트 툴입니다! 이 튜토리얼에서는 기본 기능에 대해 간략히 설명해 드립니다.",
     "welcome-heading": "환영합니다!"
   },
   "undo": "실행 취소",
