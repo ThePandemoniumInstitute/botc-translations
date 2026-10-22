@@ -100,7 +100,6 @@
     "traveller": "Reisender|Reisende"
   },
   "main-menu": {
-    "block_join": "Ein von dir blockierter Benutzer hat gerade die Runde betreten: {0}",
     "cast_vote": "Abstimmen",
     "change_icon": "Klicken, um Symbol zu ändern",
     "char_sheet": "Charakterbogen",
@@ -117,7 +116,6 @@
     "gong_attention": "Zur Achtung rufen",
     "gong_recall": "Zum Stadtplatz rufen",
     "grim_access": "Du hast Einblick ins Grimoire erhalten",
-    "grim_request_user": "Zuschauer {0} hat um Einblick in das Grimoire gebeten:",
     "help": "Hilfe",
     "json_schema": "JSON-Skript-Schema",
     "leave": "Runde verlassen",
@@ -141,7 +139,6 @@
     "request_private": "Gespräch anfragen",
     "reveal_grim": "Grimoire aufdecken",
     "rules": "Regeln lesen",
-    "session_expires": "Es gibt aktuell keinen Benutzer mit Schergen-Abo in dieser Runde und der Zugriff läuft möglicherweise aus in {0}.",
     "set_timer": "Timer starten",
     "settings": "Einstellungen",
     "show_grim": "Grimoire zeigen",

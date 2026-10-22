@@ -99,7 +99,6 @@
     "traveller": "Traveller (reiziger)|Travellers (reizigers)"
   },
   "main-menu": {
-    "block_join": "Een door jou geblokkeerde gebruiker is binnen gekomen: {0}",
     "cast_vote": "Breng stem uit",
     "change_icon": "Klik om pictogram te wijzigen",
     "char_sheet": "Karakteroverzicht",
@@ -116,7 +115,6 @@
     "gong_attention": "Alarm gong",
     "gong_recall": "Terugroepen naar Town Square (dorpsplein)",
     "grim_access": "Je hebt toegang gekregen tot de Grimoire",
-    "grim_request_user": "Kijker {0} heeft gevraagd om toegang tot de Grimoire:",
     "help": "Help",
     "json_schema": "Script JSON Schema",
     "leave": "Verlaat spel",
@@ -138,7 +136,6 @@
     "request_private": "Privéchat aanvragen",
     "reveal_grim": "Onthul Grimoire",
     "rules": "Lees de regels",
-    "session_expires": "Er zijn op dit moment geen Minion (ondergeschikte) categorie gebruikers in deze sessie. De sessie zou kunnen verlopen om {0}.",
     "set_timer": "Timer Instellen",
     "settings": "Instellingen",
     "show_grim": "Toon Grimoire",

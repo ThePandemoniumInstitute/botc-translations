@@ -99,7 +99,6 @@
     "traveller": "Viajero|Viajeros"
   },
   "main-menu": {
-    "block_join": "Un usuario al que has bloqueado se ha unido a esta sesión: {0}",
     "cast_vote": "Emitir voto",
     "change_icon": "Haz clic para cambiar el icono",
     "char_sheet": "Hoja de personajes",
@@ -116,7 +115,6 @@
     "gong_attention": "Tocar el gong",
     "gong_recall": "Llamar a la plaza",
     "grim_access": "Tienes acceso al Grimorio",
-    "grim_request_user": "El espectador {0} ha solicitado acceso al Grimorio:",
     "help": "Ayuda",
     "json_schema": "Esquema JSON del guion",
     "leave": "Abandonar la partida",
@@ -138,7 +136,6 @@
     "request_private": "Solicitar un chat privado",
     "reveal_grim": "Revelar el Grimorio",
     "rules": "Leer las reglas",
-    "session_expires": "Actualmente no hay ningún usuario con nivel Esbirro en esta sesión y podría caducar a las {0}.",
     "set_timer": "Crear temporizador",
     "settings": "Ajustes",
     "show_grim": "Mostrar el Grimorio",

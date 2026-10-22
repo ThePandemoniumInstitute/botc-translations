@@ -98,7 +98,6 @@
     "traveller": "Du Khách|Các Du Khách"
   },
   "main-menu": {
-    "block_join": "Một người dùng mà bạn đã chặn vừa tham gia phiên chơi này: {0}",
     "cast_vote": "Bỏ Phiếu",
     "change_icon": "Bấm để đổi biểu tượng",
     "char_sheet": "Bảng Nhân Vật",
@@ -137,7 +136,6 @@
     "request_private": "Yêu Cầu Nói Chuyện Riêng",
     "reveal_grim": "Tiết Lộ Cấm Thư",
     "rules": "Đọc Luật Chơi",
-    "session_expires": "Hiện tại không có người dùng với gói Tay Sai nào trong phiên chơi này, và phòng chơi có thể sẽ hết hạn lúc {0}.",
     "set_timer": "Đặt Hẹn Giờ",
     "settings": "Cài Đặt",
     "show_grim": "Cho Thấy Cấm Thư",

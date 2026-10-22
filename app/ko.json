@@ -100,7 +100,6 @@
     "traveller": "여행자|여행자"
   },
   "main-menu": {
-    "block_join": "차단한 유저가 게임에 참여했습니다: {0}",
     "cast_vote": "투표하기",
     "change_icon": "클릭해서 아이콘 바꾸기",
     "char_sheet": "캐릭터 시트",
@@ -117,7 +116,6 @@
     "gong_attention": "주목 알림",
     "gong_recall": "마을 광장으로 부르기",
     "grim_access": "당신은 마도서를 볼 수 있습니다",
-    "grim_request_user": "관전자 {0}이(가) 마도서 열람을 요청했습니다:",
     "help": "지원",
     "json_schema": "스크립트 JSON 스키마",
     "leave": "나가기",
@@ -141,7 +139,6 @@
     "request_private": "밀담 요청",
     "reveal_grim": "마도서 공개",
     "rules": "기본 규칙 읽기",
-    "session_expires": "이 방은 현재 참가 중인 하수인 등급 유저가 없어 {0} 후에 만료될 예정입니다.",
     "set_timer": "타이머 설정",
     "settings": "설정",
     "show_grim": "마도서 보기",

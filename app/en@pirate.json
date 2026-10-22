@@ -100,7 +100,6 @@
     "traveller": "Landlubber|Landlubbers"
   },
   "main-menu": {
-    "block_join": "Someone ye've stowed in the hold came aboard: {0}",
     "cast_vote": "Say Aye",
     "change_icon": "Click if'n ye want to pick a new icon",
     "char_sheet": "Station List",
@@ -117,7 +116,6 @@
     "gong_attention": "Ship's Bell",
     "gong_recall": "Gather on the Upper Deck",
     "grim_access": "The Captain let you see the Map",
-    "grim_request_user": "Onlooker {0} wants to see the Map:",
     "help": "Raise a distress flag",
     "json_schema": "Yer cabin boy Jason",
     "leave": "Abandon ship",
@@ -141,7 +139,6 @@
     "request_private": "Ask t' Talk Alone",
     "reveal_grim": "Show the Map",
     "rules": "Know the code",
-    "session_expires": "There be no Scallywag tier pirates aboard, ship may sink at {0}.",
     "set_timer": "Turn hourglass",
     "settings": "Adjust the Rigging",
     "show_grim": "Reveal the Map",

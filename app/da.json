@@ -100,7 +100,6 @@
     "traveller": "Rejsende|Rejsende"
   },
   "main-menu": {
-    "block_join": "En bruger du har blokeret har sluttet sig til denne session:{0}",
     "cast_vote": "Stem",
     "change_icon": "Klik for at ændre ikon",
     "char_sheet": "Karakterark",
@@ -117,7 +116,6 @@
     "gong_attention": "Opmærksomhedsgong",
     "gong_recall": "Kald tilbage til Bytorvet",
     "grim_access": "Du har fået adgang til Trolddomsbogen",
-    "grim_request_user": "Tilskuer {0} har anmodet om protokol adgang:",
     "help": "Hjælp",
     "json_schema": "Manuskript JSON Skema",
     "leave": "Forlad Spil",
@@ -141,7 +139,6 @@
     "request_private": "Anmod om Privat Samtale",
     "reveal_grim": "Afslør Grimoire",
     "rules": "Læs Reglerne",
-    "session_expires": "Der er i øjeblikket ingen bruger med Håndlangerniveau i denne session, så den kan udløbe ved {0}.",
     "set_timer": "Sæt Timer",
     "settings": "Indstillinger",
     "show_grim": "Vis Grimoire",

@@ -100,7 +100,6 @@
     "traveller": "旅行者"
   },
   "main-menu": {
-    "block_join": "你屏蔽的用户加入了此会话:{0}",
     "cast_vote": "发起投票",
     "change_icon": "点击以切换图标",
     "char_sheet": "角色列表",
@@ -117,7 +116,6 @@
     "gong_attention": "锣声通知",
     "gong_recall": "让大家回到城镇广场",
     "grim_access": "您已获得查看魔典的权限",
-    "grim_request_user": "旁观者 {0} 请求观看魔典：",
     "help": "帮助",
     "json_schema": "剧本JSON结构",
     "leave": "离开游戏",
@@ -141,7 +139,6 @@
     "request_private": "请求私聊",
     "reveal_grim": "揭晓魔典",
     "rules": "阅读游戏规则",
-    "session_expires": "当前游戏房间中不存在 精英爪牙 用户，房间将在 {0} 解散。",
     "set_timer": "设定计时器",
     "settings": "设置",
     "show_grim": "显示魔典",

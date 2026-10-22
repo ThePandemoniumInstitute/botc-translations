@@ -100,7 +100,6 @@
     "traveller": "Viajante|Viajantes"
   },
   "main-menu": {
-    "block_join": "Um usuário que você bloqueou entrou nessa sessão: {0}",
     "cast_vote": "Votar",
     "change_icon": "Clique para mudar o ícone",
     "char_sheet": "Ficha de Personagens",
@@ -117,7 +116,6 @@
     "gong_attention": "Gongo de atenção",
     "gong_recall": "Retornar à Praça da Cidade",
     "grim_access": "Você recebeu acesso ao Grimório",
-    "grim_request_user": "O Espectador {0} pediu acesso ao Grimório:",
     "help": "Ajuda",
     "json_schema": "Esquema JSON de Cenários",
     "leave": "Sair do jogo",
@@ -141,7 +139,6 @@
     "request_private": "Solicitar conversa particular",
     "reveal_grim": "Revelar Grimório",
     "rules": "Ler as regras",
-    "session_expires": "No momento, não há um usuário de Nível Lacaio, e a partida pode expirar às {0}.",
     "set_timer": "Colocar temporizador",
     "settings": "Configurações",
     "show_grim": "Mostrar o Grimório",

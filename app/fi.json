@@ -100,7 +100,6 @@
     "traveller": "Matkaaja|Matkaajat"
   },
   "main-menu": {
-    "block_join": "Estämäsi henkilö on liittynyt tähän istuntoon: {0}",
     "cast_vote": "Äänestää",
     "change_icon": "Napauta vaihtaaksesi kuvaketta",
     "char_sheet": "Hahmoluettelo",
@@ -117,7 +116,6 @@
     "gong_attention": "Huomiokumistin",
     "gong_recall": "Takaisinkutsu toriaukiolle",
     "grim_access": "Sinulle on annettu pääsy Loitsukirjaan",
-    "grim_request_user": "Katsoja {0} haluaa nähdä Loitsukirjan:",
     "help": "Ohje",
     "json_schema": "Kässärin JSON-Skeema",
     "leave": "Poistu pelistä",
@@ -141,7 +139,6 @@
     "request_private": "Yksityiskeskustelu",
     "reveal_grim": "Paljasta Loitsukirja",
     "rules": "Lue säännöt",
-    "session_expires": "Tässä istunnossa ei ole tällä hetkellä Kätyri-tason käyttäjää ja se saattaa vanhentua {0}.",
     "set_timer": "Aseta ajastin",
     "settings": "Asetukset",
     "show_grim": "Näytä Loitsukirja",

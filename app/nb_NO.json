@@ -100,7 +100,6 @@
     "traveller": "Reisende|Reisere"
   },
   "main-menu": {
-    "block_join": "En bruker du har blokkert has blitt med i denne økten: {0}",
     "cast_vote": "Avgi stemme",
     "change_icon": "Klikk for å bytte ikon",
     "char_sheet": "Rolleoversikt",
@@ -117,7 +116,6 @@
     "gong_attention": "Oppmerksomhetsgong",
     "gong_recall": "Kall tilbake til torget",
     "grim_access": "Du har blitt gitt tilgang til Grimoire",
-    "grim_request_user": "Tilskuer {0} har forespurt Grimoire-tilgang:",
     "help": "Hjelp",
     "json_schema": "Skjema for JSON-manuskript",
     "leave": "Forlat spillet",
@@ -141,7 +139,6 @@
     "request_private": "Forespør privat samtale",
     "reveal_grim": "Vis Grimoire",
     "rules": "Les reglene",
-    "session_expires": "Det er for øyeblikket ingen Undersått-brukere i denne sesjonen og den kan automatisk avsluttes {0}.",
     "set_timer": "Start nedtelling",
     "settings": "Innstillinger",
     "show_grim": "Vis Grimoire",

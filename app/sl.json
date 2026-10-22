@@ -99,7 +99,6 @@
     "traveller": "Popotnik|Popotniki"
   },
   "main-menu": {
-    "block_join": "Uporabnik, ki ga imate blokiranega, se želi pridružiti tej seji: {0}",
     "cast_vote": "Glasuj",
     "change_icon": "Klikni da spremeniš sliko",
     "char_sheet": "Seznam likov",
@@ -139,7 +138,6 @@
     "request_private": "Zaprosi za zasebni pogovor",
     "reveal_grim": "Razkrij Čarovniško Knjigo",
     "rules": "Preberi pravila",
-    "session_expires": "Trenutno v seji ni uporabnika z nivojem Podložnika, tako da se igra lahko zaključi ob {0}.",
     "set_timer": "Nastavi časovnik",
     "settings": "Nastavitve",
     "show_grim": "Prikaži Čarovniško Knjigo",

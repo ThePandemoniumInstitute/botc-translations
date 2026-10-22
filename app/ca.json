@@ -100,7 +100,6 @@
     "traveller": "Viatger|Viatgers"
   },
   "main-menu": {
-    "block_join": "Un usuari que heu blocat s’ha unit a aquesta sessió: {0}",
     "cast_vote": "Emet el vot",
     "change_icon": "Feu clic per a canviar la icona",
     "char_sheet": "Full de personatges",
@@ -116,7 +115,6 @@
     "gong_attention": "Gong d’atenció",
     "gong_recall": "Crida a la plaça del poble",
     "grim_access": "Se us ha concedit accés al grimori",
-    "grim_request_user": "L’espectador {0} ha sol·licitat accés al grimori:",
     "help": "Ajuda",
     "json_schema": "Esquema JSON dels guions",
     "leave": "Abandona la partida",
@@ -140,7 +138,6 @@
     "request_private": "Sol·licita un xat privat",
     "reveal_grim": "Revela el grimori",
     "rules": "Llegeix les regles",
-    "session_expires": "Com que ara mateix no hi ha cap usuari de nivell sequaç, és possible que aquesta sessió caduqui a les {0}.",
     "set_timer": "Configura un temporitzador",
     "settings": "Configuració",
     "show_grim": "Mostra el grimori",

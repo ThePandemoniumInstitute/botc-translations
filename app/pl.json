@@ -100,7 +100,6 @@
     "traveller": "Podróżnik|Podróżnicy"
   },
   "main-menu": {
-    "block_join": "Użytkownik, którego zablokowano, dołączył do tej gry: {0}",
     "cast_vote": "Oddaj głos",
     "change_icon": "Kliknij, by zmienić ikonę",
     "char_sheet": "Arkusz postaci",
@@ -117,7 +116,6 @@
     "gong_attention": "Gong",
     "gong_recall": "Zwołaj graczy na rynek",
     "grim_access": "Został Ci przyznany dostęp do Grymuaru",
-    "grim_request_user": "Widz {0} poprosił o dostęp do Grymuaru:",
     "help": "Pomoc",
     "json_schema": "Plik JSON skryptu",
     "leave": "Opuść grę",
@@ -141,7 +139,6 @@
     "request_private": "Poproś o rozmowę prywatną",
     "reveal_grim": "Pokaż Grymuar",
     "rules": "Przeczytaj zasady",
-    "session_expires": "W tym momencie nie ma żadnych graczy z poziomem Sługus, ta sesja może się skończyć za {0}.",
     "set_timer": "Ustaw licznik",
     "settings": "Ustawienia",
     "show_grim": "Pokaż Grymuar",

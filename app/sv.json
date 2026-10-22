@@ -100,7 +100,6 @@
     "traveller": "Resenär|Resenärer"
   },
   "main-menu": {
-    "block_join": "En användare du har blockerat gick med i sessionen: {0}",
     "cast_vote": "Rösta",
     "change_icon": "Ändra ikon",
     "char_sheet": "Rollark",
@@ -117,7 +116,6 @@
     "gong_attention": "Gonggong",
     "gong_recall": "Kalla tillbaka till torget",
     "grim_access": "Du har fått grimoarvy",
-    "grim_request_user": "Åskådaren {0} har begärt grimoarvy.",
     "help": "Hjälp",
     "json_schema": "Schema för JSON-manus",
     "leave": "Lämna sessionen",
@@ -141,7 +139,6 @@
     "request_private": "Begär privat samtal",
     "reveal_grim": "Avslöja grimoaren",
     "rules": "Läs reglerna",
-    "session_expires": "Ingen aktiv användare har Kumpan-nivå, så sessionen kan avslutas {0}.",
     "set_timer": "Ställ in timer",
     "settings": "Inställningar",
     "show_grim": "Visa grimoaren",
