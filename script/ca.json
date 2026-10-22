@@ -72,8 +72,12 @@
     "download-json": "Baixa el JSON",
     "pdf": "Imprimeix/Exporta el PDF",
     "png": "Exporta el PNG",
+    "preview-export": "Opcions d’exportació i previsualització",
     "screenshot": {
+      "download-player-sheet": "Baixa el full de jugador",
+      "download-st-sheet": "Baixa el full del narrador",
       "failed-embed": "No s’han pogut incrustar algunes icones a la imatge exportada",
+      "overflow": "No s’han pogut encabir tots els personatges al full de jugador. Elimineu-ne alguns o ajusteu l’escalat al menú Opcions d’exportació.",
       "save": "Desa",
       "share": "Comparteix"
     }
@@ -81,12 +85,14 @@
   "export-menu": "Menú d’exportació",
   "external-image-confirm": "Segur que voleu permetre imatges personalitzades? Algú amb males intencions que hagi creat un fitxer de guió podria rastrejar la vostra adreça IP d’aquesta manera. The Pandemonium Institute no té cap control sobre les imatges que proporcionen altres usuaris de l’aplicació.",
   "fabled-and-loric": "Faules i lòrics",
+  "filter-showing": "Es mostren",
   "filters": "Filtres",
   "help": "Ajuda",
   "import-description": "Feu clic per seleccionar el JSON del guió o arrossegueu-lo i deixeu-lo anar per importar-lo",
   "import-description-kb": "o enganxeu un JSON o un URL (Ctrl+V / ⌘V)",
   "import-description-nokb": "…o enganxeu aquí un URL o un JSON:",
   "import-json-error": "No s’ha pogut carregar cap JSON vàlid des de",
+  "import-load-json": "Carrega el JSON",
   "import-script": "Importa un guió",
   "import-type-error": "El tipus de fitxer és incorrecte; no s’ha carregat el fitxer.",
   "import-typing-error": "Aquest quadre permet enganxar dades JSON en dispositius mòbils o tàctils. No s’hi permet escriure ni enviar el contingut.",
@@ -120,11 +126,54 @@
   "new-bootlegger-rule": "Nova regla del Contrabandista…",
   "new-script": "Guió nou",
   "preview": {
+    "export": {
+      "a4": "A4",
+      "export-pages": "Exporta les pàgines",
+      "page-size": "Mida de la pàgina",
+      "us-letter": "Carta americana"
+    },
+    "night-sheet": "Full de nit",
+    "night-sheet-options": {
+      "include-travellers": "Inclou els viatgers"
+    },
+    "page-export-options": "Opcions de pàgina i d’exportació",
+    "player-sheet": "Full de jugador",
+    "player-sheet-options": {
+      "max-npcs-shown": "Nombre màxim de PNJ visibles",
+      "show-npc-names": "Mostra els noms dels PNJ"
+    },
+    "reset": "Restableix",
+    "restore-defaults": "Restaura els valors predeterminats",
+    "script": {
+      "landscape-player-sheet": "Full per als jugadors en format horitzontal",
+      "player-count": "Nombre de jugadors"
+    },
+    "script-options": "Opcions del guió",
+    "st-sheet": "Full del narrador",
+    "st-sheet-options": {
+      "display-player-count": "Mostra la taula de recompte de jugadors"
+    },
     "theme": {
+      "author-font": "Tipus de lletra de l’autor",
       "balance": {
-        "none": "Cap"
-      }
-    }
+        "infer": "Automàtic",
+        "left": "Esquerra",
+        "none": "Cap",
+        "right": "Dreta"
+      },
+      "balance-columns": "Equilibra les columnes",
+      "one-col": "Una columna",
+      "standard": "Estàndard",
+      "theme": "Tema",
+      "title-font": "Tipus de lletra del títol"
+    },
+    "theme-options": "Opcions del tema",
+    "tweaks": {
+      "custom-icon-position": "Posició de la icona personalitzada",
+      "custom-icon-size": "Mida de la icona personalitzada",
+      "size-mult": "Factor d’escala"
+    },
+    "tweaks-heading": "Retocs"
   },
   "print": {
     "ios": "Encara no s’admet la impressió des de dispositius iOS. Podeu provar-ho igualment, però és possible que el resultat no quedi bé.",
@@ -137,6 +186,8 @@
   "read-more": "Llegiu l’entrada de l’almanac/del wiki",
   "recommended-travellers": "Viatgers recomanats",
   "redo": "Refés",
+  "restore-script": "Restaura",
+  "restore-script-tooltip": "Restaura un guió eliminat recentment",
   "sao": "SAO",
   "script-name": "Nom del guió",
   "script-name-placeholder": "Guió sense títol",
@@ -145,6 +196,7 @@
   "search-character": "Cerca personatges…",
   "search-names": "Cerca noms",
   "settings": {
+    "advanced-heading": "Configuració avançada",
     "allow-external-images": "Permet imatges externes",
     "bloodstar-image-correction": "Correcció d’imatges de Bloodstar",
     "bloodstar-image-correction-explanation": "Les icones generades per bloodstar.xyz tenen un petit espai a la part inferior i, per això, no queden ben centrades. En activar aquest paràmetre, es compensa aquest espai.",
@@ -157,28 +209,41 @@
     "force-one-column": "Força una sola columna",
     "language": "Idioma",
     "language-select-heading": "Selecció d’idioma",
+    "manage-homebrew-characters": "Personatges casolans",
+    "miscellaneous": "Altres",
     "print-columns": "Imprimeix columnes",
     "print-compact-night-sheet": "Full de nit compacte",
     "print-options-heading": "Opcions d’impressió",
     "print-player-count-table": "Mostra la taula del nombre de jugadors",
     "script-heading": "Configuració del guió",
+    "script-scaling": "Escalat del guió",
     "script-type": "Tipus de guió",
     "script-type-explanation": "Un guió de Teensyville està concebut específicament per a partides amb pocs jugadors (menys de 7). Normalment té menys personatges que un guió estàndard. Aquest paràmetre només afecta l’anàlisi del guió, el generador aleatori i alguns elements de la interfície d’usuari.",
     "script-type-standard": "Estàndard",
     "script-type-teensyville": "Teensyville",
     "show-analysis-icons": "Mostra les icones d’anàlisi",
     "show-night-sheet": "Mostra el full de nit",
-    "this-language": "Català"
+    "this-language": "Català",
+    "ui-scaling": "Escalat de la interfície",
+    "view-tour": {
+      "here": "aquí",
+      "term": "Feu clic {0} per tornar a veure la visita guiada."
+    }
   },
   "settings-menu": "Configuració",
   "show-all": "Tots els personatges",
   "show-script-analytics": "Mostra l’anàlisi del guió",
   "toast": {
     "cannot-remove-bootlegger": "Aquest guió conté personatges casolans; per tant, no podeu eliminar el Contrabandista.",
-    "copied": "S’ha copiat al porta-retalls."
+    "copied": "S’ha copiat al porta-retalls.",
+    "external-images": "Per motius de seguretat, les imatges externes no es carreguen per defecte. Podeu permetre’n la càrrega des del menú de configuració.",
+    "failed-import-script": "No es pot importar el guió: ja hi ha {n} guions carregats. Suprimiu-ne un per deixar espai per a més guions.",
+    "failed-import-script-link": "No s’ha pogut importar el guió des de l’enllaç: ja hi ha {n} guions carregats. Suprimiu-ne un i torneu-ho a provar.",
+    "failed-write-clipboard": "No s’ha pogut escriure al porta-retalls: el navegador no admet aquesta funció o no té els permisos necessaris."
   },
   "toggle-autosort": "Activa o desactiva l’ordenació automàtica",
   "toggle-quick-input": "Mostra o amaga el camp d’entrada ràpida",
+  "toggle-sidebar-sort": "Activa o desactiva l’ordenació dels personatges",
   "tour": {
     "add-and-remove-characters-01": "Podeu {bold}afegir un personatge{bold$} des de la pestanya «Personatges». Feu clic a qualsevol personatge que vulgueu afegir.",
     "add-and-remove-characters-02": "Per {bold}eliminar un personatge{bold$}, torneu a fer-hi clic en aquesta pestanya o feu clic a la seva icona al guió.",
