@@ -129,7 +129,8 @@
     "export": {
       "a4": "A4",
       "export-pages": "Páginas de exportação",
-      "page-size": "Tamanho da página"
+      "page-size": "Tamanho da página",
+      "us-letter": "US Letter"
     },
     "night-sheet": "Ordem da noite",
     "night-sheet-options": {
@@ -185,6 +186,7 @@
   "recommended-travellers": "Viajantes recomendados",
   "redo": "Refazer",
   "restore-script": "Restaure",
+  "restore-script-tooltip": "Recuperar um cenário recentemente removido",
   "sao": "Ordem Padrão",
   "script-name": "Nome do cenário",
   "script-name-placeholder": "Cenário não nomeado",
@@ -206,6 +208,7 @@
     "force-one-column": "Forçar coluna única",
     "language": "Idioma",
     "language-select-heading": "Seleção de idioma",
+    "manage-homebrew-characters": "Personagens caseiros",
     "miscellaneous": "Outras",
     "print-columns": "Quantidade de colunas na impressão",
     "print-compact-night-sheet": "Ficha da Noite compacta",
