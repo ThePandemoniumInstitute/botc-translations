@@ -21,9 +21,9 @@
     "button_send": "Skicka",
     "cookie_policy": "Cookie-policy",
     "cosmetics": {
-      "avatars": "Avatar|Avatarer",
-      "borders": "Namnskylt|Namnskyltar",
-      "emotes": "Emote|Emotes"
+      "avatars": "avatar|avatarer",
+      "borders": "namnskylt|namnskyltar",
+      "emotes": "gest|gester"
     },
     "moderation_policy": "Modereringspolicy",
     "privacy_policy": "Integritetspolicy",
@@ -336,8 +336,8 @@
       "add_friend_placeholder": "Användar-ID",
       "add_friend_text": "Ange användarens app-ID för att skicka en vänförfrågan:",
       "add_friend_title": "Lägg till vän",
-      "ask_to_join": "Be om att få gå med",
-      "asked_to_join": "Vill ansluta till din session.",
+      "ask_to_join": "Försök gå med",
+      "asked_to_join": "Försöker gå med i din session.",
       "filter": "Filtrera",
       "in_other_session": "Just nu i sessionen {0}.",
       "in_private_session": "Just nu i en privat session.",
@@ -795,7 +795,7 @@
     "friend_your_session": "{0} har gått med i din session.",
     "grim_request_user": "Åskådaren {0} har begärt grimoarvy:",
     "invitation_received": "{0} har bjudit in dig till sin session!",
-    "invitation_requested": "{0} har bett om att gå med i din session.",
+    "invitation_requested": "{0} försöker gå med i din session.",
     "new_cosmetic": "Du har låst upp en ny {cosmetic}: {name}",
     "session_expires": "Det är ingen användare på Kumpan-nivå i sessionen. Om ingen ansluter stängs sessionen {0}."
   },
