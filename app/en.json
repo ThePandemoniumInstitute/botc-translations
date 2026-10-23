@@ -266,7 +266,7 @@
         "block_text": "There was an error updating your block list.",
         "block_title": "Error updating block list",
         "friend_text": "There was an error updating your friend list.",
-        "friend_add_text": "This user could not be added to your friend list.",
+        "friend_add_text": "This user could not be added to your friend list. Reason: {0}",
         "friend_title": "Error updating friend list",
         "invite_text": "{0} could not be invited to your session. Reason: {0}",
         "invite_title": "Error inviting friend",
