@@ -43,7 +43,7 @@
       },
       "grimoire": {
         "label": "Grimoire-tilgang",
-        "title": "Om tilskuere har tilgang til Grimoire",
+        "title": "Hvorvidt tilskuere har tilgang til Grimoire",
         "value_0": "Spør",
         "value_1": "Ja",
         "value_2": "Nei"
@@ -331,6 +331,7 @@
       "upload_custom": "Last opp JSON for egendefinert manuskript"
     },
     "friends": {
+      "accept_invitation": "Godta invitasjon",
       "add_friend_placeholder": "Applikasjonbruker-ID",
       "add_friend_text": "Skriv inn en applikasjonbruker-ID for å sende en venneforespørsel:",
       "add_friend_title": "Legg til venn",
@@ -711,6 +712,7 @@
       "title": "Nye oppdateringer:"
     },
     "user": {
+      "button_accept_friend_user": "Godta venn",
       "button_add_st": "Legg til forteller",
       "button_block_user": "Blokker",
       "button_cancel_friend_user": "Avbryt forespørsel",
@@ -788,7 +790,7 @@
     "friend_private_session": "{0} har blitt med i en privat spilløkt.",
     "friend_request": "Du har fått en venneforespørsel fra {0}:",
     "friend_your_session": "{0} har blitt med i din spilløkt.",
-    "grim_request_user": "Tilskueren {0} har spurt om Grimoiretilgang:",
+    "grim_request_user": "Tilskueren {0} har spurt om Grimoire-tilgang:",
     "invitation_received": "{0} har invitert deg til sin spilløkt!",
     "invitation_requested": "{0} har spurt om å bli med i din spilløkt.",
     "new_cosmetic": "Du har ervervet en ny {cosmetic}: {name}",
