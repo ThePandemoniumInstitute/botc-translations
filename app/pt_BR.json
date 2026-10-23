@@ -20,6 +20,9 @@
     "button_search": "Buscar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
+    "cosmetics": {
+      "avatars": "Avatar|Avatares"
+    },
     "moderation_policy": "Política de moderação",
     "privacy_policy": "Política de Privacidade",
     "session-tags": {
@@ -111,6 +114,7 @@
     "error_audio2": "Reprodução automática de voz",
     "error_audio3": "Talvez você precise de {0} no Firefox para ouvir o áudio do aplicativo.",
     "error_audio4": "mudar uma configuração",
+    "friends": "Lista de amigos",
     "fullscreen": "Tela cheia",
     "gather": "Reunir seus jogadores",
     "gong_attention": "Gongo de atenção",
@@ -307,6 +311,13 @@
       "theme_generic": "Tema genérico:",
       "title": "Selecione uma edição:",
       "upload_custom": "Carregar Cenário Personalizado em JSON"
+    },
+    "friends": {
+      "filter": "Filtro",
+      "tab_blocked": "Bloquear usuário ({0})",
+      "tab_friends": "Amigos ({0})",
+      "tab_requests": "Pedidos pendentes ({0})",
+      "title": "Lista de amigos"
     },
     "npc": {
       "title": "Adicionar uma Lenda ou um Mito"
