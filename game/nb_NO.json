@@ -414,7 +414,7 @@
     "cerenovus": {
       "ability": "Hver natt, velg en spiller og en god rolle: de er «gal» om at de er den rollen, hvis ikke kan de bli henrettet.",
       "first": "Cerenoven peker mot en spiller, så på en rolle på rollearket. :reminder: Vekk spilleren, vis dem *DENNE ROLLEN VALGTE DEG* kortet, så Cerenov-brikken. Vis dem den valgte rollebrikken. Om spilleren ikke er gal om at de er den rollen i morgen, kan de henrettes.",
-      "flavor": "Virkeligheten er bare en mening. Mer spesifikt, min mening.",
+      "flavor": "Virkeligheten er bare en oppfatning. Mer spesifikt, min oppfatning.",
       "name": "Cerenov",
       "other": "Cerenoven peker mot en spiller, så på en rolle på rollearket. :reminder: Vekk spilleren, vis dem *DENNE ROLLEN VALGTE DEG* kortet, så Cerenov-brikken. Vis dem den valgte rollebrikken. Om spilleren ikke er gal om at de er den rollen i morgen, kan de henrettes."
     },
@@ -453,7 +453,7 @@
     "cultleader": {
       "ability": "Hver natt får du samme lagtilhørighet som en levende nabo. Hvis alle gode spillere velger å bli med i kulten din, vinner laget ditt.",
       "first": "Kultlederen kan endre lagtilhørighet. Vis i så fall *DU ER*-infobrikken og gi et tommelsignal.",
-      "flavor": "De trodde de var kloke, men ble dårer.",
+      "flavor": "De trodde at de var kloke, men de endte i dårskap.",
       "name": "Kultleder",
       "other": "Kultlederen kan endre lagtilhørighet. Vis i så fall *DU ER*-infobrikken og gi et tommelsignal."
     },
@@ -771,7 +771,7 @@
     "king": {
       "ability": "Hver natt, hvis antall døde er likt som eller flere enn antall levende, lærer du én levende rolle. Demonen vet at du er Kongen.",
       "first": "Vekk Demonen: Vis *DENNE SPILLEREN ER*- og Konge-brikken, og pek deretter på Kongen.",
-      "flavor": "Mellom de ukjente stridighetenes linjer / Og den sykelige natten, søt av mystikk og sorg / Ligger de uhemmede gledene i skjebnens lange og fargerike liv / Hvis hage blomstrer med hvert malte ansikt.",
+      "flavor": "Mellom dødeliges ukjente strid / Og dunkel natt, så søt av ve og mystikk / Fins skjebnens frie fryd i fargerik tid / Der hagen gror for hvert et malt ansikts blikk.",
       "name": "Konge",
       "other": "Hvis det er likt eller flere døde enn levende, vis rollebrikken til en levende spiller."
     },
@@ -891,7 +891,7 @@
     },
     "minstrel": {
       "ability": "Når en Minion dør ved henrettelse, er alle andre spillere (unntatt Reisende) fulle til skumringen i morgen.",
-      "flavor": "Og jeg skal høre, selv om du trår mykt over meg … Og alle mine drømmer vil være varme og søtere … Hvis du ikke unnlater å fortelle meg at du elsker meg … Sover jeg bare i fred til du kommer til meg.",
+      "flavor": "Og jeg skal høre, om du enn så stille trår … Og mine drømmer blir så varme og så søte … Om du vil si at det er meg ditt hjerte får … Så sover jeg i fred til vi igjen skal møtes …",
       "name": "Trubadur"
     },
     "monk": {
@@ -957,7 +957,7 @@
     },
     "pacifist": {
       "ability": "Henrettede gode spillere kan overleve.",
-      "flavor": "Mistro alle som har sterk trang til å straffe.",
+      "flavor": "Mistro alle dem som har en sterk trang til å straffe!",
       "name": "Pasifist"
     },
     "philosopher": {
@@ -969,7 +969,7 @@
     },
     "pithag": {
       "ability": "Hver natt* velger du en spiller og en rolle de blir (hvis de ikke er i spill). Hvis en Demon blir skapt, er dødsfallene i natt tilfeldige.",
-      "flavor": "Rundt om gryten gå; i de forgiftede innvollene kaste; padde, som under kald stein; dager og netter har trettien; svettet gift sovende fikk; kok du først i den forheksede gryten.",
+      "flavor": "Rundt om kjelene på rad; kast i giftig innvollsmat. Padde som i kalde sten lå i dager trettien, mens den svettet gift i søvn, kok du først i trolldoms-ovn!",
       "name": "Trollkjerring",
       "other": "Trollkjerringen velger en spiller og en rolle. Hvis de velger en rolle som ikke er i spill: La Trollkjerringen sove. Vekk den valgte spilleren. Vis *DU ER*-brikken og deres nye rollebrikke."
     },
@@ -1206,8 +1206,8 @@
     "tinker": {
       "ability": "Du kan dø når som helst.",
       "flavor": "Jeg tror jeg skjønner problemet. Heldigvis har jeg en idé! Denne katapulten skyter dobbelt så langt med bare en liten justering …",
-      "name": "Fikler",
-      "other": "Fikleren kan dø. :reminder:"
+      "name": "Kjeleflikker",
+      "other": "Kjeleflikkeren kan dø. :reminder:"
     },
     "tor": {
       "ability": "Spillere kjenner ikke rollen eller lagtilh;righeten sin. De lærer den når de dør.",
@@ -1242,7 +1242,7 @@
     },
     "vigormortis": {
       "ability": "Hver natt*, velg en spiller: de dør. Minioner du dreper beholder egenskapen sin og forgifter 1 Bygdefolk-nabo. [-1 Utstøtt]",
-      "flavor": "Alle dører er én dør. Alle nøkler er én nøkkel. Alle beger er ett beger. Men den som drikker av vannet jeg gir, skal aldri i evighet tørste, men vannet skal bli i ham en kilde som veller frem til evig liv.",
+      "flavor": "Alle dører er én dør. Alle nøkler er én nøkkel. Alle beger er ett beger. Men den som drikker av vannet jeg vil gi, skal aldri mer tørste, men vannet skal bli i ham en kilde som veller frem til evig liv.",
       "name": "Vigormortis",
       "other": "Vigormortis velger en spiller. :reminder: Hvis spilleren er en Minion, forgift en Bygdefolknabo. :reminder: :reminder:"
     },
