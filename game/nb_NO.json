@@ -22,10 +22,10 @@
   },
   "jinxes": {
     "alchemist-boffin": "Hvis Alkymisten har Labrotte-egenskapen, får ikke Alkymisten vite hvilken evne Demonen har.",
-    "alchemist-marionette": "En Alkymist-Marionette har ingen Marionette-egenskap, og Marionetten er i spill.",
+    "alchemist-marionette": "En Alkymist-Marionette har ingen Marionette-evne, og Marionetten er i spill.",
     "alchemist-mastermind": "En Alkymist-Konspiratør har ingen Konspiratør-evne, og Konspiratør er ikke i spill.",
-    "alchemist-organgrinder": "Hvis Alkymisten har egenskapen Lirekassemannen, er Lirekassemannen i spill. Hvis begge er edru, er begge fulle.",
-    "alchemist-spy": "En Alkymist-Spion har ingen Spion-egenskap, og en Spion er i spill. Etter hver henrettelse kan en levende Alkymist-Spion offentlig gjette at en levende spiller er Spionen. Hvis det stemmer, må Demonen velge Spionen i natt.",
+    "alchemist-organgrinder": "Hvis Alkymisten har evnen Lirekassemannen, er Lirekassemannen i spill. Hvis begge er edru, er begge fulle.",
+    "alchemist-spy": "En Alkymist-Spion har ingen Spion-evne, og en Spion er i spill. Etter hver henrettelse kan en levende Alkymist-Spion offentlig gjette at en levende spiller er Spionen. Hvis det stemmer, må Demonen velge Spionen i natt.",
     "alchemist-summoner": "Alkymisten-Åndemaneren får ikke bløffer, og velger hvilken Demon, men ikke hvilken spiller. Hvis de dør før dette skjer, vinner de onde. [Ingen Demon]",
     "alchemist-widow": "En Alkymist-Enke har ingen Enke-egenskap, og en Enke er i spill. Etter hver henrettelse kan en levende Alkymist-Enke offentlig gjette at en levende spiller er Enken. Hvis det stemmer, må Demonen velge Enken i natt.",
     "alchemist-wraith": "En Alkymist-Gjenferd har ingen Gjenferd-egenskap, og et Gjenferd er i spill. Etter hver henrettelse kan en levende Alkymist-Gjenferd offentlig gjette at en levende spiller er Gjenferdet. Hvis det stemmer, må Demonen velge Gjenferdet i natt.",
