@@ -796,7 +796,7 @@
     "grim_request_user": "Åskådaren {0} har begärt grimoarvy:",
     "invitation_received": "{0} har bjudit in dig till sin session!",
     "invitation_requested": "{0} har bett om att gå med i din session.",
-    "new_cosmetic": "Du har låst upp ett nytt {cosmetic}: {name}",
+    "new_cosmetic": "Du har låst upp en ny {cosmetic}: {name}",
     "session_expires": "Det är ingen användare på Kumpan-nivå i sessionen. Om ingen ansluter stängs sessionen {0}."
   },
   "overlays": {
