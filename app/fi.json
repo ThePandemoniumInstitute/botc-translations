@@ -21,7 +21,9 @@
     "button_send": "Lähetä",
     "cookie_policy": "Evästekäytännöt",
     "cosmetics": {
-      "avatars": "Avatar|Avatarit"
+      "avatars": "Avatar|Avatarit",
+      "borders": "Nimilaatta|Nimilaatat",
+      "emotes": "Hymiö|Hymiöt"
     },
     "moderation_policy": "Moderointikäytäntö",
     "privacy_policy": "Tietosuojaseloste",
@@ -711,6 +713,7 @@
       "title": "Uudet päivitykset:"
     },
     "user": {
+      "button_accept_friend_user": "Hyväksy ystävä",
       "button_add_st": "Lisää tarinankertoja",
       "button_block_user": "Estä",
       "button_cancel_friend_user": "Peru pyyntö",
@@ -790,7 +793,9 @@
     "friend_your_session": "{0} liittyi istuntoosi.",
     "grim_request_user": "Katsoja {0} on pyytänyt pääsyä Loitsukirjaan:",
     "invitation_received": "{0} kutsui sinut istuntoonsa!",
-    "invitation_requested": "{0} pyysi saada liittyä istuntoosi."
+    "invitation_requested": "{0} pyysi saada liittyä istuntoosi.",
+    "new_cosmetic": "Olet avannut uuden {cosmetic}: {name}",
+    "session_expires": "Tässä istunnossa ei tällä hetkellä ole Kätyri-tason käyttäjää, joten se saattaa sulkeutua {0}."
   },
   "overlays": {
     "attention": {
@@ -1233,8 +1238,10 @@
     "mute_notifications": "Mykistä ilmoitukset",
     "new_user": "Uusi käyttäjä",
     "note": "Huomio",
+    "private_session": "yksityisistunto",
     "pronouns": "pronominit",
     "registration": "Rekisteröinti",
+    "session": "Pelaamassa",
     "statistics": "Tilastot",
     "stats": {
       "edition": "Pelatuimmat\npainokset",
@@ -1253,11 +1260,14 @@
     "stats_public": "Julkinen",
     "unmute_notifications": "Salli ilmoitukset",
     "upload_avatar": "Lataa avatar",
-    "verified": "Vahvistettu käyttäjä"
+    "verified": "Vahvistettu käyttäjä",
+    "your_session": "istuntosi"
   },
   "version": {
     "character_distribution": "Hahmojakauma",
     "download": "Lataa ja asenna viimeisin {0} -versio täältä.",
+    "notification_connected": "Sinut on yhdistetty ilmoituspalvelimeen.",
+    "notification_error": "Sinua ei ole yhdistetty ilmoituspalvelimeen.",
     "players_alive": "{0} / {1} pelaajaa elossa",
     "reload": "Päivitä näkymä tai tyhjennä välimuisti aktivoidaksesi tuoreimman version.",
     "since": "{0} lähtien",
