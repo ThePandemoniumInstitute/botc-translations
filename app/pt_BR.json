@@ -88,7 +88,7 @@
       "end": "Intervalo entre partidas",
       "first_night": "Primeira Noite",
       "grim_reveal": "Revelação do Grimório",
-      "night": "Primeira Noite|Noite{n}",
+      "night": "Primeira Noite|Noite {n}",
       "other_nights": "Outras Noites",
       "start": "Preparando a Noite 1"
     },
