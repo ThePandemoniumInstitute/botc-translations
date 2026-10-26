@@ -794,7 +794,7 @@
     "grim_request_user": "Katsoja {0} on pyytänyt pääsyä Loitsukirjaan:",
     "invitation_received": "{0} kutsui sinut istuntoonsa!",
     "invitation_requested": "{0} pyysi saada liittyä istuntoosi.",
-    "new_cosmetic": "Olet avannut uuden {cosmetic}-pelaajakosmetiikan: {name}",
+    "new_cosmetic": "Olet saanut uuden {cosmetic}-pelaajakosmetiikan: {name}",
     "session_expires": "Tässä istunnossa ei tällä hetkellä ole Kätyri-tason käyttäjää, joten se saattaa sulkeutua {0}."
   },
   "overlays": {
