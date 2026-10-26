@@ -23,7 +23,7 @@
     "cosmetics": {
       "avatars": "Avatar|Avatarit",
       "borders": "Nimilaatta|Nimilaatat",
-      "emotes": "Hymiö|Hymiöt"
+      "emotes": "Käsimerkki|Käsimerkit"
     },
     "moderation_policy": "Moderointikäytäntö",
     "privacy_policy": "Tietosuojaseloste",
@@ -357,7 +357,7 @@
       "requested_on": "pyyntö lähetetty {0}",
       "tab_blocked": "Estetyt käyttäjät ({0})",
       "tab_friends": "Kaverit ({0})",
-      "tab_requests": "Odottavat pyynnöt ({0})",
+      "tab_requests": "Kaveripyynnöt ({0})",
       "title": "Kaverilista"
     },
     "npc": {
@@ -713,7 +713,7 @@
       "title": "Uudet päivitykset:"
     },
     "user": {
-      "button_accept_friend_user": "Hyväksy ystävä",
+      "button_accept_friend_user": "Hyväksy kaveri",
       "button_add_st": "Lisää tarinankertoja",
       "button_block_user": "Estä",
       "button_cancel_friend_user": "Peru pyyntö",
@@ -794,7 +794,7 @@
     "grim_request_user": "Katsoja {0} on pyytänyt pääsyä Loitsukirjaan:",
     "invitation_received": "{0} kutsui sinut istuntoonsa!",
     "invitation_requested": "{0} pyysi saada liittyä istuntoosi.",
-    "new_cosmetic": "Olet avannut uuden {cosmetic}: {name}",
+    "new_cosmetic": "Olet avannut uuden {cosmetic}-pelaajakosmetiikan: {name}",
     "session_expires": "Tässä istunnossa ei tällä hetkellä ole Kätyri-tason käyttäjää, joten se saattaa sulkeutua {0}."
   },
   "overlays": {
@@ -1238,10 +1238,10 @@
     "mute_notifications": "Mykistä ilmoitukset",
     "new_user": "Uusi käyttäjä",
     "note": "Huomio",
-    "private_session": "yksityisistunto",
+    "private_session": "yksityinen istunto",
     "pronouns": "pronominit",
     "registration": "Rekisteröinti",
-    "session": "Pelaamassa",
+    "session": "Pelaa nyt",
     "statistics": "Tilastot",
     "stats": {
       "edition": "Pelatuimmat\npainokset",
