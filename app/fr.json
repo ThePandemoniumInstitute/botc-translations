@@ -20,6 +20,9 @@
     "button_search": "Rechercher",
     "button_send": "Envoyer",
     "cookie_policy": "Politique relative aux cookies",
+    "cosmetics": {
+      "avatars": "Avatar|Avatars"
+    },
     "moderation_policy": "Politique de modération",
     "privacy_policy": "Politique de Confidentialité",
     "session-tags": {
