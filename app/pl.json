@@ -308,6 +308,10 @@
       "title": "Wybierz skrypt:",
       "upload_custom": "Prześlij plik JSON skryptu niestandardowego"
     },
+    "friends": {
+      "requested_on": "wysłano prośbę o {0}",
+      "tab_requests": "Oczekujące wnioski ({0})"
+    },
     "npc": {
       "title": "Dodaj postać niezależną"
     },
