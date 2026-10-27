@@ -309,8 +309,9 @@
       "upload_custom": "Prześlij plik JSON skryptu niestandardowego"
     },
     "friends": {
-      "requested_on": "wysłano prośbę o {0}",
-      "tab_requests": "Oczekujące wnioski ({0})"
+      "add_friend_text": "Wpisz numer identyfikacyjny użytkownika, aby wysłać mu zaproszenie do znajomych:",
+      "requested_on": "zaproszono {0}",
+      "tab_requests": "Oczekujące zaproszenia ({0})"
     },
     "npc": {
       "title": "Dodaj postać niezależną"
