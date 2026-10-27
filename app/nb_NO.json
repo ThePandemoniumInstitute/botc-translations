@@ -22,7 +22,8 @@
     "cookie_policy": "Retningslinjer for informasjonskapsler",
     "cosmetics": {
       "avatars": "Avatar/Avatarer",
-      "borders": "Navneskilt|Navneskilt"
+      "borders": "Navneskilt|Navneskilt",
+      "emotes": "Gest|Gester"
     },
     "moderation_policy": "Modereringsregler",
     "privacy_policy": "Personvernserklæring",
@@ -337,6 +338,7 @@
       "add_friend_title": "Legg til venn",
       "ask_to_join": "Spør om å bli med",
       "asked_to_join": "Vil bli med i din spilløkt.",
+      "filter": "Filtrer",
       "in_other_session": "Akkurat nå i spilløkten {0}.",
       "in_private_session": "Akkurat nå i en privat spilløkt.",
       "in_your_session": "I din spilløkt!",
@@ -348,6 +350,7 @@
       "no_blocks": "Du har ikke blokkert noen – du kommer overens med alle!",
       "no_friends": "Din venneliste er tom. Finn deg noen venner!",
       "no_requests": "Ingen ventende forespørsler.",
+      "no_results": "Ingen brukere ble funnet for {0}",
       "note": "Kommentar",
       "remove_block_text": "Vil du virkelig oppheve blokkeringen av denne brukeren?",
       "remove_block_title": "Opphev blokkering {0}",
@@ -1228,6 +1231,7 @@
     "error_avatar_text": "Avataren du valgte har en størrelse på {0}MB, men den maksimale størrelsen er {1}MB.",
     "error_avatar_title": "Filstørrelsen er for stor",
     "friend": "Din venn",
+    "friend_on_date_as_name": "siden {0} som {1}",
     "gain": "Volumforsterkning",
     "group_subscription": "Gruppeabonnement",
     "id": "Bruker-ID",
