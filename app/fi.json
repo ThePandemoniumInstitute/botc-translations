@@ -208,6 +208,8 @@
         "friend_text": "Kaverilistasi päivittämisessä tapahtui virhe.",
         "friend_title": "Virhe kaverilistan päivittämisessä",
         "generic": "Tapahtui virhe",
+        "ignore_text": "Sivuutuslistasi päivittämisessä tapahtui virhe.",
+        "ignore_title": "Virhe sivuutuslistan päivittämisessä",
         "invite_request_text": "Kutsun pyytäminen käyttäjältä {0} ei onnistunut. Syy: {0}",
         "invite_request_title": "Virhe kutsua pyydettäessä",
         "invite_text": "Käyttäjää {0} ei voitu kutsua istuntoosi. Syy: {0}",
