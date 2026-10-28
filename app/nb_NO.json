@@ -207,7 +207,7 @@
         "friend_add_text": "Denne brukeren kunne ikke bli lagt til vennelisten din. Årsak: {0}",
         "friend_text": "Oppdatering av vennelisten din feilet.",
         "friend_title": "Feil under oppdatering av venneliste",
-        "generic": "En feil har skjedd",
+        "generic": "En feil har oppstått",
         "ignore_text": "Det oppsto en feil under oppdatering av ignoreringslisten din.",
         "ignore_title": "Feil under oppdatering av ignoreringsliste",
         "invite_request_text": "Det gikk ikke an å spørre {0} om en invitasjon. Årsak: {0}",
@@ -993,7 +993,7 @@
       "register": "Registrer deg",
       "social": {
         "complete": "Innlogging fullført. Du kan lukke dette vinduet nå!",
-        "error": "En feil har skjedd:",
+        "error": "En feil har oppstått:",
         "error_already_linked": "Denne applikasjonkontoen er allerede koblet til en annen sosial medie-login.",
         "error_code_missing": "Autentiseringen ble avbrutt.",
         "error_general": "Noe uventet gikk galt.",
