@@ -20,6 +20,10 @@
     "button_search": "Buscar",
     "button_send": "Enviar",
     "cookie_policy": "Política de Cookies",
+    "cosmetics": {
+      "avatars": "Avatar|Avatares",
+      "borders": "Letrero|Letreros"
+    },
     "moderation_policy": "Política de Moderación",
     "privacy_policy": "Política de Privacidad",
     "session-tags": {
@@ -110,6 +114,7 @@
     "error_audio2": "inicie automáticamente el chat de voz",
     "error_audio3": "Es posible que también tengas que {0} en Firefox para escuchar el audio de la aplicación.",
     "error_audio4": "cambiar algún ajuste",
+    "friends": "Listas de amigos",
     "fullscreen": "Pantalla completa",
     "gather": "Reunir a los jugadores",
     "gong_attention": "Tocar el gong",
