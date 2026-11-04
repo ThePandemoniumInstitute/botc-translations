@@ -9,6 +9,7 @@
     "moderation_policy": "Polisi cymedroli",
     "session-tags": {
       "cameras": {
+        "label": "Camerâu",
         "value_0": "Opsiynol",
         "value_2": "Diffodd"
       },
