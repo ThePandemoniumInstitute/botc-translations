@@ -3,10 +3,13 @@
     "account-levels": {
       "free": "Am Ddim",
       "patreon-minion": "Haen Gwas Tywyll"
-    }
+    },
+    "button_cancel": "Canslo",
+    "button_close": "Cau"
   },
   "modals": {
     "role": {
+      "title_alignment_e": "Drwg",
       "title_alignment_g": "Da",
       "title_type_character": "cymeriad"
     },
