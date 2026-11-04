@@ -6,6 +6,9 @@
     "poisoned": "Gwenwynedig"
   },
   "roles": {
+    "acrobat": {
+      "name": "Acrobat"
+    },
     "angel": {
       "name": "Angel"
     },
