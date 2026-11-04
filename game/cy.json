@@ -6,6 +6,33 @@
     "poisoned": "Gwenwynedig"
   },
   "roles": {
+    "angel": {
+      "name": "Angel"
+    },
+    "apprentice": {
+      "name": "Prentis"
+    },
+    "balloonist": {
+      "name": "Balwnydd"
+    },
+    "barber": {
+      "name": "Barbwr"
+    },
+    "baron": {
+      "name": "Barwn"
+    },
+    "beggar": {
+      "name": "Cardotyn"
+    },
+    "bishop": {
+      "name": "Esgob"
+    },
+    "butcher": {
+      "name": "Cigydd"
+    },
+    "butler": {
+      "name": "Bwtler"
+    },
     "dawn": {
       "name": "Gwawr"
     }
