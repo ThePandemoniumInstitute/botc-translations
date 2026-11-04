@@ -3,5 +3,48 @@
     "account-levels": {
       "free": "Am Ddim"
     }
+  },
+  "modals": {
+    "role": {
+      "title_alignment_g": "Da",
+      "title_type_character": "cymeriad"
+    },
+    "signal": {
+      "cards": {
+        "good": "Da"
+      },
+      "player": "Chwarewr"
+    },
+    "votehistory": {
+      "execution": "Dienyddiad"
+    }
+  },
+  "overlays": {
+    "reveal": {
+      "good": "Da"
+    },
+    "towninfo": {
+      "alive": "Byw"
+    }
+  },
+  "pages": {
+    "lobby": {
+      "script": "Sgript",
+      "stats_public": "cyhoeddus"
+    }
+  },
+  "session": {
+    "visibility_private": "Preifat",
+    "visibility_public": "Cyhoeddus"
+  },
+  "tabs": {
+    "text": {
+      "channels": {
+        "public": "Cyhoeddus"
+      }
+    }
+  },
+  "user": {
+    "stats_public": "Cyhoeddus"
   }
 }
