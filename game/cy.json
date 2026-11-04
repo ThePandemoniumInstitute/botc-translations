@@ -1,1 +1,12 @@
-{}
+{
+  "reminders": {
+    "alive": "Byw",
+    "good": "Da",
+    "poisoned": "Gwenwynedig"
+  },
+  "roles": {
+    "dawn": {
+      "name": "Gwawr"
+    }
+  }
+}
