@@ -1,7 +1,8 @@
 {
   "common": {
     "account-levels": {
-      "free": "Am Ddim"
+      "free": "Am Ddim",
+      "patreon-minion": "Haen Gwas Tywyll"
     }
   },
   "modals": {
