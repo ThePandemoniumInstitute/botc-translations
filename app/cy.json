@@ -5,7 +5,12 @@
       "patreon-minion": "Haen Gwas Tywyll"
     },
     "button_cancel": "Canslo",
-    "button_close": "Cau"
+    "button_close": "Cau",
+    "session-tags": {
+      "travellers": {
+        "value_0": "opsiynol"
+      }
+    }
   },
   "modals": {
     "role": {
