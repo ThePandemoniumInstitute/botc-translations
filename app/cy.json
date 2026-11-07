@@ -7,8 +7,11 @@
     "button_cancel": "Canslo",
     "button_close": "Cau",
     "session-tags": {
+      "cameras": {
+        "value_0": "Opsiynol"
+      },
       "travellers": {
-        "value_0": "opsiynol"
+        "value_0": "Opsiynol"
       }
     }
   },
