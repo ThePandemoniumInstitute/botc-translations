@@ -6,9 +6,11 @@
     },
     "button_cancel": "Canslo",
     "button_close": "Cau",
+    "moderation_policy": "Polisi cymedroli",
     "session-tags": {
       "cameras": {
-        "value_0": "Opsiynol"
+        "value_0": "Opsiynol",
+        "value_2": "Diffodd"
       },
       "travellers": {
         "value_0": "Opsiynol"
