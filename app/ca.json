@@ -50,8 +50,8 @@
         "value_2": "No"
       },
       "streaming": {
-        "label": "La partida es retransmet/s’enregistra",
-        "title": "La sessió es retransmetrà/s’enregistrarà",
+        "label": "La partida es retransmet / s’enregistra",
+        "title": "La sessió es retransmetrà / s’enregistrarà",
         "value_0": "No",
         "value_1": "Sí"
       },
@@ -383,7 +383,7 @@
       "title": "Afegeix una fitxa de recordatori a {0}"
     },
     "report": {
-      "attachment": "Captures de pantalla/Fitxers adjunts (fins a 3)",
+      "attachment": "Captures de pantalla / fitxers adjunts (fins a 3)",
       "button_attachment": "Afegeix fitxers adjunts",
       "description": "Descripció",
       "description2": "Descriviu el problema que teniu o els detalls de la sol·licitud. Inclourem automàticament el nom de la sessió actual, les dades del compte d’usuari i altres metadades tècniques.",
@@ -425,7 +425,7 @@
       "error_traveller": "No s’ha trobat cap viatger que coincideixi amb {0}.",
       "tab_character": "Personatges disponibles",
       "tab_traveller": "Altres viatgers",
-      "title": "Seleccioneu un {type} {alignment} {target}",
+      "title": "Seleccioneu: {type} {alignment} {target}",
       "title_alignment_e": "del bàndol malvat",
       "title_alignment_g": "del bàndol bo",
       "title_alignment_r": "normal",
@@ -445,7 +445,7 @@
     },
     "rules": {
       "intro_part01": "Fa molt de temps",
-      "intro_part02": "a la somnolenta Vila dels Corbs, durant una tempesta infernal, just a mitjanit… sentiu un crit. Correu cap a la plaça del poble per a investigar-ho i hi trobeu el vostre estimat narrador, jo mateix, assassinat… empalat per l’agulla de les hores de la torre del rellotge, mentre la sang regalima sobre les llambordes. Suposeu que és obra d’un dimoni, i teniu raó: un dimoni que mata de nit i adopta forma humana de dia.",
+      "intro_part02": "a la somnolenta Vila dels Corbs, durant una tempesta infernal, just a mitjanit… sentiu un crit. Correu cap a la plaça del poble per a investigar-ho i hi trobeu el vostre estimat narrador assassinat… empalat per l’agulla de les hores de la torre del rellotge, mentre la sang regalima sobre les llambordes. Suposeu que és obra d’un dimoni, i teniu raó: un dimoni que mata de nit i adopta forma humana de dia.",
       "intro_part03": "Esteu a punt de rebre una fitxa vermella o blava. Si és blava, sou del bàndol bo; si és vermella, sou del bàndol malvat. Si sou del bàndol bo, l’objectiu és trobar i executar el dimoni. Si el dimoni mor, guanyen els bons. Si sou del bàndol malvat, l’objectiu és destruir la vila. Si només queden dos jugadors vius, guanyen els malvats.",
       "intro_part04": "La partida es divideix en dues fases: la fase de dia i la fase de nit. Durant el dia, parleu. Cadascú té una identitat secreta: un dels personatges de la llista. En general, els jugadors bons comparteixen tot el que saben i intenten esbrinar qui és qui. La majoria diran la veritat, però alguns tenen motius per mentir. Si sou del bàndol malvat, sens dubte heu de mentir! El millor és triar un personatge bo, fer-vos-hi passar i escampar tanta informació falsa com pugueu.",
       "intro_part05": "Durant la nit, les càmeres dels jugadors queden ocultes i el narrador en desperta alguns perquè facin servir l’habilitat o rebin informació. Quan el narrador us desperti, apareixerà un missatge emergent al centre de la pantalla. Seguiu-ne les instruccions per a comunicar-vos amb el narrador. Si, després de respondre-li, heu de tornar a obrir el missatge durant la nit, feu clic a «Informació de la nit», a l’angle superior dret de la pantalla.",
@@ -456,10 +456,10 @@
       "intro_part10": "Podeu dir el que vulgueu en qualsevol moment.",
       "intro_part11": "És un joc de conversa. Podeu parlar públicament amb el grup o mantenir converses privades, com preferiu.",
       "intro_part12": "No mireu d’amagat.",
-      "intro_part13": "Jugeu amb integritat i no feu servir mai eines ni ajuda externes per a accedir a la vista del grimori, ja que conté tots els personatges de la partida. Si veieu res que no hauríeu de veure, espatllareu la diversió.",
+      "intro_part13": "Jugueu amb integritat i no feu servir mai eines ni ajuda externes per a accedir a la vista del grimori, ja que conté tots els personatges de la partida. Si veieu res que no hauríeu de veure, espatllareu la diversió.",
       "intro_part14": "Feu al narrador totes les preguntes que necessiteu.",
       "intro_part15": "Si us confoneu, no enteneu com funciona el vostre personatge o el personatge que fingiu ser, passa alguna cosa de nit que no compreneu o necessiteu consell estratègic… sigui el que sigui, pregunteu. El narrador és neutral i té la funció d’ajudar-vos a entendre les regles i a passar-vos-ho bé. Digueu-li que teniu una pregunta i parleu-hi en privat perquè ningú no sàpiga què heu preguntat.",
-      "intro_part16": "Jugeu net.",
+      "intro_part16": "Jugueu net.",
       "intro_part17": "És un joc d’enganys i estratagemes; si us plau, tracteu els altres amb respecte i consideració. Mateu amb elegància i moriu amb dignitat.",
       "intro_part18": "Ara és el moment de les nominacions.",
       "intro_part19": "Per a nominar un jugador, digueu qui és. Per exemple: «Nomino en Pau». Quan es nomina un jugador, tothom vota si cal executar-lo o no. El narrador anunciarà que comença la votació i apareixerà l’animació corresponent a la pantalla. L’agulla de votació gira en sentit horari. Utilitzeu la barra espaiadora o els botons «Amunt» i «Avall» del centre de la pantalla per a aixecar o abaixar la mà. Si la teniu aixecada quan l’agulla arriba a la vostra posició, és un vot; si la teniu abaixada, no.",
@@ -488,7 +488,7 @@
       "linked_to": "Heu iniciat la sessió a {0}",
       "nomination": {
         "bigwig": {
-          "text": "Cada nominat tria un jugador: fins que comenci la votació, només pot parlar aquest jugador, que ha d’estar «boig» que el nominat és bo o podria morir.",
+          "text": "Cada nominat tria un jugador: fins que comenci la votació, només aquest jugador pot parlar i ha d’estar «boig» afirmant que el nominat és bo; si no, podria morir.",
           "title": "Peix gros"
         },
         "focus": {
@@ -533,7 +533,7 @@
       "setting_gain": "Guany d’àudio",
       "setting_general_volume": "Volum general",
       "setting_grimoire_offset": "Desplaçament del grimori",
-      "setting_homebrew": "Mostra imatges personalitzades/icones casolanes",
+      "setting_homebrew": "Mostra imatges personalitzades / icones casolanes",
       "setting_microphone": "Micròfon",
       "setting_mute_audio": "Silencia l’àudio",
       "setting_mute_video": "Amaga el vídeo",
@@ -543,7 +543,7 @@
       "setting_player_reminders": "Jugador: permet fitxes de recordatori duplicades",
       "setting_player_sound": "Jugador: reprodueix els efectes de so de les sol·licituds de xat durant la nit",
       "setting_positioning": "Permet moure les pestanyes laterals",
-      "setting_private_cams": "Mostra les càmeres dels jugadors als xats privats",
+      "setting_private_cams": "Mostra les càmeres dels jugadors que són en xats privats",
       "setting_ptt": "Prem per a parlar",
       "setting_reminder_zoom": "Mida de les fitxes de recordatori",
       "setting_reminders": "Apila les fitxes de recordatori",
@@ -575,7 +575,7 @@
         "acceptChat2": "Accepta la sol·licitud de xat 2",
         "acceptChat3": "Accepta la sol·licitud de xat 3",
         "attentionGong": "Crida a plaça / Gong d’atenció",
-        "castVote": "Emet el vot/Marca el jugador",
+        "castVote": "Emet el vot / Marca el jugador",
         "leaveChat": "Surt d’un xat",
         "leaveSession": "Abandona una sessió",
         "modalFriends": "Llistes d’amics",
@@ -589,7 +589,7 @@
         "revealGrimoire": "Revela el grimori",
         "setTimer": "Configura un temporitzador",
         "toggleAudioDeafened": "Desactiva l’àudio del xat de veu",
-        "toggleAudioMuted": "Silencia el micròfon/Prem per a parlar",
+        "toggleAudioMuted": "Silencia el micròfon / Prem per a parlar",
         "toggleEdition": "Selecciona l’edició",
         "toggleFullscreen": "Pantalla completa",
         "toggleNPCs": "Afegeix un personatge no jugador",
@@ -601,7 +601,7 @@
         "toggleTownSquare": "Mostra la plaça del poble",
         "toggleVideoMuted": "Activa/Desactiva la càmera",
         "toggleVoteHistory": "Historial de votacions",
-        "toggleWhisper": "Xat/Missatge de text"
+        "toggleWhisper": "Xat / Missatge de text"
       },
       "sounds": {
         "attentionGong": "Gong d’atenció",
@@ -662,7 +662,7 @@
         "acknowledge": "D’acord",
         "anticlockwise": "En sentit antihorari",
         "bluffs": "Aquests personatges no són a la partida",
-        "choice": "Tria una opció",
+        "choice": "Trieu una opció",
         "claim": "Aquest jugador és",
         "clockwise": "En sentit horari",
         "demon": "Aquest és el dimoni",
@@ -808,7 +808,7 @@
       "bluffs": "Seleccioneu les 3 fitxes «Coartada del dimoni» en blanc per a mostrar-les al dimoni.",
       "button_begin": "Comença la fase de la primera nit",
       "gardener_button": "Envia els personatges",
-      "gardener_text": "Quan la preparació dels personatges us sembli correcta, {0} als jugadors. Un cop repartits, podreu preparar la primera nit.",
+      "gardener_text": "Quan la preparació dels personatges us sembli correcta, feu clic a {0} per a enviar-los als jugadors. Un cop repartits, podreu preparar la primera nit.",
       "reminders": "Afegiu totes les fitxes de recordatori {0} necessàries.",
       "title": "Prepara la primera nit"
     },
@@ -825,7 +825,7 @@
       "shuffle_title": "Assigna els seients aleatòriament",
       "swap": "Intercanvia amb\n{0}",
       "text": "Aquí podeu afegir, mesclar o eliminar seients de jugador.",
-      "text2": "Quan hi hagi prou seients per a tothom, {0}",
+      "text2": "Quan hi hagi prou seients per a tothom, feu clic a {0}",
       "title": "Reuneix els jugadors",
       "warning": "Calen com a mínim 7 jugadors per a una partida normal a la Vila dels Corbs."
     },
@@ -864,7 +864,7 @@
     },
     "rules": {
       "button_select": "Selecciona els personatges",
-      "text": "Ja ho teniu tot a punt per a {0}",
+      "text": "Ja ho teniu tot a punt. Feu clic a {0}.",
       "text2": "Cal assignar els viatgers als jugadors abans de seleccionar els personatges.",
       "title": "Selecciona els personatges"
     },
@@ -874,7 +874,7 @@
       "return": "Torna al grimori (drecera: {0})",
       "script_by": "de {0}",
       "text_player": "El narrador ha d’afegir més jugadors abans de poder començar.",
-      "text_st": "Per a començar, primer heu de {0}",
+      "text_st": "Per a començar, feu clic a {0}.",
       "timer_ended": "acabat",
       "title": "Us donem la benvinguda a {0}."
     },
@@ -895,7 +895,7 @@
       "button_select_player": "Selecciona un jugador",
       "button_set_highscore": "Fixa el màxim de vots",
       "button_start": "Inicia",
-      "choose_defense_attorney": "Tria un advocat defensor",
+      "choose_defense_attorney": "Trieu un advocat defensor",
       "countdown_go": "Som-hi",
       "defense": "Defensa",
       "defense_attorney": "Advocat defensor",
@@ -911,7 +911,7 @@
       "warning_shortcuts": "Les dreceres estan desactivades."
     },
     "whisper": {
-      "muted": "Aquest jugador té el so desactivat o està silenciat al xat de veu.",
+      "muted": "Aquest jugador té el micròfon silenciat o està silenciat al xat de veu.",
       "video_muted": "Aquest jugador té la càmera en pausa o desactivada."
     }
   },
@@ -1024,7 +1024,7 @@
       "error_disposable": "No es poden fer servir adreces electròniques d’un sol ús per a verificar el compte.",
       "error_verified": "El compte ja està verificat",
       "error_wrong": "El codi no és correcte. Torneu-ho a provar.",
-      "link": "Canvieu-lo aquí."
+      "link": "Canvieu-la aquí."
     }
   },
   "player": {
@@ -1043,7 +1043,7 @@
     },
     "name": {
       "blocked": "Heu blocat aquest usuari.",
-      "claim": "Fes clic per a ocupar-lo",
+      "claim": "Feu clic per a ocupar-lo",
       "connecting": "Aquest jugador s’està connectant al xat de veu.",
       "follow": "Esteu seguint aquest jugador.",
       "friend": "Aquest usuari és a la llista d’amics.",
@@ -1053,7 +1053,7 @@
       "remove": "Elimina aquest jugador.",
       "remove_text": "Segur que voleu eliminar el seient {0}?\nAra l’ocupa {1}.",
       "remove_title": "Elimina el seient",
-      "seat_text": "(només ho podreu veure)",
+      "seat_text": "(ningú més no ho podrà veure)",
       "seat_title": "Canvia el nom del seient"
     },
     "overlay": {
@@ -1075,12 +1075,12 @@
       "saved_favorite": "S’ha desat com a preferit"
     },
     "shroud_add": "Aquest sudari no és visible per als jugadors. Torneu-hi a fer clic durant el dia perquè sigui visible.",
-    "shroud_remove": "Aquest sudari encara és visible per als jugadors. Torneu-hi a fer clic durant el dia per ocultar-lo.",
+    "shroud_remove": "Aquest sudari encara és visible per als jugadors. Torneu-hi a fer clic durant el dia per a eliminar-lo.",
     "toggle_status": "Canvia l’estat"
   },
   "session": {
     "access": "Accés",
-    "copy": "Fes clic per a copiar",
+    "copy": "Feu clic per a copiar",
     "created": "Creada fa {0} per {1}.",
     "free": "Gratuïta per a tothom",
     "language": "Llengua del xat",
@@ -1219,7 +1219,7 @@
         "vote": "{0} ha fet servir el seu vot de jugador mort."
       },
       "title": "Text",
-      "tooltip": "Mostra {0} missatges no llegits destinats a {1}"
+      "tooltip": "Mostra els {0} missatges no llegits de la conversa amb {1}"
     }
   },
   "user": {
