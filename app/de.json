@@ -279,6 +279,7 @@
         "leave_text": "Bist du sicher, dass du die aktuelle Runde verlassen und in die Lobby zurückkehren möchtest?",
         "leave_text_player": "Bist du sicher, dass du deinen Sitzplatz verlassen und in die Lobby zurückkehren möchtest?",
         "leave_title": "Zurück zur Lobby",
+        "note_placeholder": "Notiztext",
         "note_text": "Du kannst hier diesem Nutzer eine Notiz hinzufügen\nNur du kannst diese Notiz sehen.",
         "note_title": "Notiz hinzufügen",
         "pronouns_placeholder": "Pronomen",
@@ -579,6 +580,7 @@
         "castVote": "Hand heben / Spieler markieren",
         "leaveChat": "Chat verlassen",
         "leaveSession": "Runde verlassen",
+        "modalFriends": "Freundesliste",
         "modalRules": "Regeln lesen",
         "modalSettings": "Einstellungen",
         "modalShortcuts": "Tastenkürzel",
@@ -715,9 +717,11 @@
       "title": "Neue Updates:"
     },
     "user": {
+      "button_accept_friend_user": "Freundschaftsanfrage akzeptieren",
       "button_add_st": "Erzähler hinzufügen",
       "button_block_user": "Benutzer blockieren",
       "button_cancel_st": "Erzähler-Anfrage abbrechen",
+      "button_ignore_friend_user": "Anfrage Ignorieren",
       "button_kick_user": "Rauswerfen",
       "button_mod_user": "Moderieren",
       "button_remove_st": "Erzähler entfernen",
