@@ -206,6 +206,8 @@
         "friend_text": "Es gab einen Fehler beim aktualisieren deiner Freundesliste",
         "friend_title": "Fehler beim aktualisieren der Freundesliste",
         "generic": "Ein Fehler ist aufgetreten",
+        "invite_text": "{0} konnte nicht zu deiner Runde eingeladen werden. Grund: {0}",
+        "invite_title": "Fehler beim einladen deines Freundes",
         "kick": "Spieler konnte nicht rausgeworfen werden",
         "link_text": "Bei der Verknüpfung mit dem Patreon-Account ist ein Fehler aufgetreten. Bitte versuche es erneut.",
         "link_title": "Fehler bei Verknüpfung mit Patreon",
