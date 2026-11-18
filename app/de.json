@@ -313,6 +313,7 @@
       "upload_custom": "Skript-JSON hochladen"
     },
     "friends": {
+      "accept_invitation": "Einladung annehmen",
       "asked_to_join": "Möchte deiner Runde beitreten.",
       "in_other_session": "Momentan in der Runde {0}.",
       "in_private_session": "Momentan in einer privaten Runde",
@@ -320,6 +321,7 @@
       "invite_text": "Bist du dir sicher du möchtest {0} zu deiner Spielrunde einladen?",
       "invite_title": "Freund einladen",
       "invited": "Eingeladen",
+      "join": "Runde Beitreten",
       "note": "Notiz",
       "tab_blocked": "Blockierte Nutzer ({0})",
       "tab_friends": "Freunde ({0})",
