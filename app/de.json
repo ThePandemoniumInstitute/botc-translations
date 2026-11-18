@@ -1225,6 +1225,7 @@
     }
   },
   "user": {
+    "add_note": "Notiz hinzufügen",
     "avatar_enabled": "Avatar sichtbar",
     "blocked": "Geblockt",
     "blocked_on_date_as_name": "am {0} als {1}",
@@ -1232,12 +1233,15 @@
     "error_avatar_text": "Der hochgeladene Avatar hat eine Dateigröße von {0} MB, aber die Obergrenze liegt bei {1} MB.",
     "error_avatar_title": "Datei zu groß",
     "friend": "Dein Freund",
+    "friend_on_date_as_name": "seit {0} als {1}",
     "gain": "Audio-Verstärkung",
     "group_subscription": "Gruppen-Abonnement",
     "id": "Benutzer-ID",
     "level": "Accountstufe",
     "mic_volume": "Lautstärke",
+    "mute_notifications": "Benachrichtigungen stummschalten",
     "new_user": "Neuer Account",
+    "note": "Notiz",
     "pronouns": "Pronomen",
     "registration": "Registriert am",
     "statistics": "Statistiken",
@@ -1256,6 +1260,7 @@
     "stats_hidden": "Verborgen",
     "stats_private": "Privat",
     "stats_public": "Öffentlich",
+    "unmute_notifications": "Benachrichtigungen aktivieren.",
     "upload_avatar": "Avatar hochladen",
     "verified": "Verifizierter Benutzer"
   },
