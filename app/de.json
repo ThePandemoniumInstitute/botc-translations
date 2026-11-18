@@ -224,6 +224,7 @@
         "move_player": "Spieler konnte nicht verschoben werden",
         "npcs": "Fehler beim Ändern der NPCs",
         "offline": "Der Server scheint offline zu sein",
+        "relation_meta_text": "Es gab einen Fehler beim aktualisieren dieses Nutzers",
         "remove_player": "Spieler konnte nicht entfernt werden",
         "remove_storyteller": "Erzähler konnte nicht entfernt werden",
         "request_grim": "Einsicht in das Grimoire konnte nicht angefragt werden",
