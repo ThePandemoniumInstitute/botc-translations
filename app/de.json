@@ -114,6 +114,7 @@
     "error_audio2": "automatisch Sprache abspielt",
     "error_audio3": "Möglicherweise musst du außerdem in Firefox {0}, um Sprach-Chat in der App zu hören.",
     "error_audio4": "eine Einstellung ändern",
+    "friends": "Freundesliste",
     "fullscreen": "Vollbild",
     "gather": "Sitze verwalten",
     "gong_attention": "Zur Achtung rufen",
@@ -310,6 +311,13 @@
       "theme_generic": "Standard-Aussehen:",
       "title": "Wähle ein Szenario:",
       "upload_custom": "Skript-JSON hochladen"
+    },
+    "friends": {
+      "in_other_session": "Momentan in der Runde {0}.",
+      "in_private_session": "Momentan in einer privaten Runde",
+      "tab_blocked": "Blockierte Nutzer ({0})",
+      "tab_friends": "Freunde ({0})",
+      "title": "Freundesliste"
     },
     "npc": {
       "title": "Nichtspielercharakter hinzufügen"
