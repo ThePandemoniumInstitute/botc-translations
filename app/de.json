@@ -20,6 +20,9 @@
     "button_search": "Suchen",
     "button_send": "Absenden",
     "cookie_policy": "Cookie-Richtlinie",
+    "cosmetics": {
+      "emotes": "Handzeichen"
+    },
     "moderation_policy": "Moderationsrichtlinie",
     "privacy_policy": "Datenschutzbestimmungen",
     "session-tags": {
