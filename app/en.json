@@ -275,7 +275,7 @@
         "friend_title": "Error updating friend list",
         "invite_text": "{0} could not be invited to your session. Reason: {0}",
         "invite_title": "Error inviting friend",
-        "invite_request_text": "Unable to request an invitation from {0}. Reason: {0}",
+        "invite_request_text": "Unable to request an invitation from {0}. Reason: {1}",
         "invite_request_title": "Error requesting invitation",
         "relation_meta_title": "Error updating user",
         "relation_meta_text": "There was an error when updating this user.",
