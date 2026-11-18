@@ -1244,6 +1244,7 @@
     "note": "Notiz",
     "pronouns": "Pronomen",
     "registration": "Registriert am",
+    "session": "Spielt in",
     "statistics": "Statistiken",
     "stats": {
       "edition": "Beliebteste\nSzenarien",
@@ -1262,7 +1263,8 @@
     "stats_public": "Öffentlich",
     "unmute_notifications": "Benachrichtigungen aktivieren.",
     "upload_avatar": "Avatar hochladen",
-    "verified": "Verifizierter Benutzer"
+    "verified": "Verifizierter Benutzer",
+    "your_session": "Deine Runde"
   },
   "version": {
     "character_distribution": "Charakter-Zusammensetzung",
