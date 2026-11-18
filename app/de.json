@@ -273,6 +273,8 @@
         "join_placeholder": "Name der Runde",
         "join_text": "Bitte gib den Namen oder die Nummer der Runde ein, der du beitreten möchtest",
         "join_title": "Runde beitreten",
+        "leave_join_text": "Bist du dir sicher, dass du diese Spielrunde verlassen möchtest um der Runde {0} beizutreten?",
+        "leave_join_text_player": "Bist du dir sicher du möchtest deinen Sitz verlassen um der Runde {0} beizutreten?",
         "leave_text": "Bist du sicher, dass du die aktuelle Runde verlassen und in die Lobby zurückkehren möchtest?",
         "leave_text_player": "Bist du sicher, dass du deinen Sitzplatz verlassen und in die Lobby zurückkehren möchtest?",
         "leave_title": "Zurück zur Lobby",
