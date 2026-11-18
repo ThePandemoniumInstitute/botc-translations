@@ -325,10 +325,12 @@
       "invite_title": "Freund einladen",
       "invited": "Eingeladen",
       "join": "Runde Beitreten",
+      "no_blocks": "Niemand ist auf deiner Blockierliste - du kommst mit allen gut klar!",
       "no_friends": "Deine Freundesliste ist noch leer, geh und mach dir ein paar Freunde!",
       "no_requests": "Keine Ausstehenden Anfragen",
       "no_results": "Keine Einträge stimmen mit der Suche überein: {0}",
       "note": "Notiz",
+      "remove_block_text": "Bist du dir sicher du möchtest diesen Nutzer entblockieren?",
       "tab_blocked": "Blockierte Nutzer ({0})",
       "tab_friends": "Freunde ({0})",
       "title": "Freundesliste"
