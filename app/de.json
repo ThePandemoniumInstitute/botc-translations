@@ -789,6 +789,10 @@
   },
   "notifications": {
     "block_join": "Ein Nutzer auf deiner Blockierliste ist dieser Runde beigetreten: {0}",
+    "friend_confirmed": "Du bist jetzt mit {0} befreundet!",
+    "friend_online": "{0} ist jetzt online.",
+    "friend_private_session": "{0} ist einer privaten Session beigetreten.",
+    "friend_request": "Du hast eine Freundschaftsanfrage von {0} erhalten:",
     "grim_request_user": "Zuschauer {0} möchte Zugriff zum Grimoire:",
     "new_cosmetic": "Du hast ein neues {cosmetic}: {name} freigeschalten",
     "session_expires": "Es gibt momentan keinen Shergen Level Nutzer in dieser Runde und es könnte um {0} auslaufen."
