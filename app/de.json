@@ -787,6 +787,9 @@
       "votes": "Stimmen"
     }
   },
+  "notifications": {
+    "block_join": "Ein Nutzer auf deiner Blockierliste ist dieser Runde beigetreten: {0}"
+  },
   "overlays": {
     "attention": {
       "attention": "Aufmerksamkeit, bitte!",
