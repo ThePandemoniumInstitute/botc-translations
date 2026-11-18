@@ -210,6 +210,7 @@
         "friend_text": "Es gab einen Fehler beim Aktualisieren deiner Freundesliste.",
         "friend_title": "Fehler beim Aktualisieren der Freundesliste",
         "generic": "Ein Fehler ist aufgetreten",
+        "ignore_text": "Es gab einen Fehler beim aktualisieren deiner Ignorierliste.",
         "invite_text": "{0} konnte nicht zu deiner Runde eingeladen werden. Grund: {0}",
         "invite_title": "Fehler beim Einladen deines Freundes",
         "kick": "Spieler konnte nicht rausgeworfen werden",
