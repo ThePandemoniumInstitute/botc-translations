@@ -790,6 +790,7 @@
   "notifications": {
     "block_join": "Ein Nutzer auf deiner Blockierliste ist dieser Runde beigetreten: {0}",
     "grim_request_user": "Zuschauer {0} möchte Zugriff zum Grimoire:",
+    "new_cosmetic": "Du hast ein neues {cosmetic}: {name} freigeschalten",
     "session_expires": "Es gibt momentan keinen Shergen Level Nutzer in dieser Runde und es könnte um {0} auslaufen."
   },
   "overlays": {
