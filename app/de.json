@@ -1273,6 +1273,8 @@
   "version": {
     "character_distribution": "Charakter-Zusammensetzung",
     "download": "Hier kannst du die neueste App-Version für {0} herunterladen und installieren.",
+    "notification_connected": "Du bist mit dem Benachrichtigungsserver verbunden.",
+    "notification_error": "Du bist momentan nicht mit dem Benachrichtigungsserver verbunden.",
     "players_alive": "{0} / {1} lebende Spieler",
     "reload": "Bitte lade die Seite neu oder leere deinen Browser-Cache, um die aktuelle Version zu erhalten.",
     "since": "seit {0}",
