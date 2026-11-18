@@ -314,6 +314,9 @@
     },
     "friends": {
       "accept_invitation": "Einladung annehmen",
+      "add_friend_placeholder": "App Nutzer ID",
+      "add_friend_text": "Gib eine App Nutzer ID ein um die Freundschaftsanfrage zu senden:",
+      "add_friend_title": "Freund hinzufügen",
       "asked_to_join": "Möchte deiner Runde beitreten.",
       "in_other_session": "Momentan in der Runde {0}.",
       "in_private_session": "Momentan in einer privaten Runde",
@@ -322,6 +325,8 @@
       "invite_title": "Freund einladen",
       "invited": "Eingeladen",
       "join": "Runde Beitreten",
+      "no_requests": "Keine Ausstehenden Anfragen",
+      "no_results": "Keine Einträge stimmen mit der Suche überein: {0}",
       "note": "Notiz",
       "tab_blocked": "Blockierte Nutzer ({0})",
       "tab_friends": "Freunde ({0})",
