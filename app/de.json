@@ -794,7 +794,9 @@
     "friend_other_session": "{0} ist der Runde {1} beigetreten",
     "friend_private_session": "{0} ist einer privaten Session beigetreten.",
     "friend_request": "Du hast eine Freundschaftsanfrage von {0} erhalten:",
+    "friend_your_session": "{0} ist deiner Runde beigetreten.",
     "grim_request_user": "Zuschauer {0} möchte Zugriff zum Grimoire:",
+    "invitation_received": "{0} hat dich zu einer Runde eingeladen!",
     "new_cosmetic": "Du hast ein neues {cosmetic}: {name} freigeschalten",
     "session_expires": "Es gibt momentan keinen Shergen Level Nutzer in dieser Runde und es könnte um {0} auslaufen."
   },
