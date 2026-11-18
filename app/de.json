@@ -788,7 +788,9 @@
     }
   },
   "notifications": {
-    "block_join": "Ein Nutzer auf deiner Blockierliste ist dieser Runde beigetreten: {0}"
+    "block_join": "Ein Nutzer auf deiner Blockierliste ist dieser Runde beigetreten: {0}",
+    "grim_request_user": "Zuschauer {0} möchte Zugriff zum Grimoire:",
+    "session_expires": "Es gibt momentan keinen Shergen Level Nutzer in dieser Runde und es könnte um {0} auslaufen."
   },
   "overlays": {
     "attention": {
