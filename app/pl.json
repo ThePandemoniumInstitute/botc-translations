@@ -207,6 +207,7 @@
         "generic": "Wystąpił błąd",
         "ignore_text": "Podczas aktualizacji listy ignorowanych nastąpił błąd.",
         "ignore_title": "Błąd aktualizacji listy ignorowanych",
+        "invite_request_text": "Nie udało się poprosić o zaproszenie od {0}. Powód: {1}",
         "invite_title": "Błąd podczas zapraszania znajomego",
         "kick": "Nie udało się wyrzucić użytkownika",
         "link_text": "Wystąpił błąd przy łączeniu twojego konta z serwisem Patreon. Spróbuj ponownie.",
