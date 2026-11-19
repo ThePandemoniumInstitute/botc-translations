@@ -20,6 +20,11 @@
     "button_search": "ค้นหา",
     "button_send": "ส่ง",
     "cookie_policy": "นโยบายการใช้คุกกี้",
+    "cosmetics": {
+      "avatars": "อวทาร์|อวทาร์",
+      "borders": "ป้ายชื่อ|ป้ายชื่อ",
+      "emotes": "อีโมต|อีโมต"
+    },
     "moderation_policy": "นโยบายการควบคุม",
     "privacy_policy": "นโยบายความเป็นส่วนตัว",
     "session-tags": {
@@ -111,6 +116,7 @@
     "error_audio2": "แชตเสียงอัตโนมัติ",
     "error_audio3": "คุณอาจจะต้องทำ {0} ใน Firefox เพื่อให้ได้ยินเสียงจากแอป",
     "error_audio4": "เปลี่ยนการตั้งค่า",
+    "friends": "รายชื่อเพื่อน",
     "fullscreen": "เต็มจอ",
     "gather": "รวบรวมผู้เล่น",
     "gong_attention": "ระฆังแจ้งเตือน",
@@ -307,6 +313,22 @@
       "theme_generic": "ธีมทั่วไป:",
       "title": "เลือกอิดิชัน:",
       "upload_custom": "อัปโหลดสคริปต์ JSON แบบกำหนดเอง"
+    },
+    "friends": {
+      "asked_to_join": "เชิญให้เข้าร่วมเซสชันของคุณ",
+      "filter": "ตัวกรอง",
+      "in_other_session": "กำลังอยู่ในเซสชัน {0}",
+      "in_private_session": "กำลังอยู่ในเซสชันส่วนตัว",
+      "in_your_session": "กำลังอยู่ในเซสชันของคุณ!",
+      "invite": "เชิญ",
+      "invite_title": "เชิญเพื่อน",
+      "invited": "เชิญแล้ว",
+      "note": "โน้ต",
+      "tab_blocked": "ผู้ถูกบล็อก ({0})",
+      "tab_friends": "เพื่อน ({0})",
+      "tab_requests": "คำขอที่รอตอบรับ ({0})",
+      "title": "รายชื่อเพื่อน",
+      "title_block": "รายชื่อผู้ถูกบล็อก"
     },
     "npc": {
       "title": "เพิ่มตัวละครที่ไม่ใช่ผู้เล่น"
@@ -661,13 +683,13 @@
     },
     "user": {
       "button_add_st": "เพิ่มนักเล่าเรื่อง",
-      "button_block_user": "บล็อกผู้ใช้",
+      "button_block_user": "บล็อก",
       "button_cancel_st": "ยกเลิกคำขอให้เป็นนักเล่าเรื่อง",
-      "button_kick_user": "เตะผู้ใช้",
+      "button_kick_user": "เตะ",
       "button_mod_user": "ผู้ควบคุม",
       "button_remove_st": "นำนักเล่าเรื่องออก",
-      "button_report_user": "รายงานผู้ใช้",
-      "button_unblock_user": "ปลดบล็อกผู้ใช้",
+      "button_report_user": "รายงาน",
+      "button_unblock_user": "ปลดบล็อก",
       "error": "เกิดข้อผิดพลาดในการโหลดรายละเอียดผู้ใช้",
       "grimoire_access_grant": "ให้สิทธิ์การเข้าถึงคัมภีร์",
       "grimoire_access_revoke": "ถอนสิทธิ์การเข้าถึงคัมภีร์",
