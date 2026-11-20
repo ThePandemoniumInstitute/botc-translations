@@ -212,7 +212,13 @@
       "remove_block_title": "Unblock {0}",
       "remove_block_text": "Are you sure you want to unblock this user?",
       "remove_friend_title": "Unfriend {0}",
-      "remove_friend_text": "Are you sure you want to remove this user from your friends list?"
+      "remove_friend_text": "Are you sure you want to remove this user from your friends list?",
+      "status_online": "Online",
+      "status_online_explanation": "Receive notifications and show as online to friends.",
+      "status_dnd": "Do not disturb",
+      "status_dnd_explanation": "Don't receive friend notifications.",
+      "status_invisible": "Invisible",
+      "status_invisible_explanation": "Don't appear online to friends or receive friend notifications."
     },
     "report": {
       "title_general": "Report an issue",
