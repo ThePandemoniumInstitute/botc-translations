@@ -195,7 +195,7 @@
         "chat_title": "Det oppsto en feil med chat-tilkoblingen",
         "claiming": "Feil ved valg av sete",
         "clear_grim": "Kan ikke tømme Grimoire",
-        "clear_history": "Det går ikke an å fjerne spillhistorikken",
+        "clear_history": "Kan ikke fjerne spillhistorikken",
         "connection": "Det oppsto en tilkoblingsfeil",
         "create_generic": "Serveren kunne ikke opprette spilløkten din.",
         "create_rate_limit": "Du må vente noen minutter før du kan opprette en ny spilløkt.",
@@ -221,7 +221,7 @@
         "loading_title": "Feil ved lasting av applikasjondata",
         "missing_edition": "Denne spilløkten inneholder en utgave som ikke blir funnet.",
         "missing_edition_title": "Feil ved lasting av utgave",
-        "missing_roles": "Denne spilløkten inneholder egendefinerte roller som ikke blir funnet. Last dem inn før du blir med! Manglende roller: {0}",
+        "missing_roles": "Denne spilløkten inneholder egendefinerte roller som ikke kan bli funnet. Last dem inn før du blir med! Manglende roller: {0}",
         "missing_roles_title": "Feil ved lasting av egendefinerte roller",
         "move_player": "Kan ikke flytte spiller",
         "npcs": "Feil under oppdatering av statister",
@@ -333,6 +333,7 @@
     },
     "friends": {
       "accept_invitation": "Godta invitasjon",
+      "add_block_title": "Blokker en bruker",
       "add_friend_placeholder": "Applikasjonbruker-ID",
       "add_friend_text": "Skriv inn en applikasjonbruker-ID for å sende en venneforespørsel:",
       "add_friend_title": "Legg til venn",
@@ -357,10 +358,17 @@
       "remove_friend_text": "Vil du virkelig fjerne denne brukeren fra vennelisten din?",
       "remove_friend_title": "Fjern {0} som venn",
       "requested_on": "spurte om {0}",
+      "status_dnd": "Ikke forstyrr",
+      "status_dnd_explanation": "Ikke motta varsler om venner.",
+      "status_invisible": "Usynlig",
+      "status_invisible_explanation": "Ikke vis som online for venner eller motta varsler om venner.",
+      "status_online": "Online",
+      "status_online_explanation": "Få varsler og vis som online for venner.",
       "tab_blocked": "Blokkerte brukere ({0})",
       "tab_friends": "Venner ({0})",
       "tab_requests": "Ventende venneforespørsler ({0})",
-      "title": "Vennelister"
+      "title": "Vennelister",
+      "title_block": "Blokkeringsliste"
     },
     "npc": {
       "title": "Legg til en statist"
@@ -446,7 +454,7 @@
     "rules": {
       "intro_part01": "For lenge siden",
       "intro_part02": "i den rolige byen Ravenswood Bluff, midt i et forferdelig tordenvær, når klokken slår midnatt … hører du et skrik. Du skynder deg til torget for å undersøke, og oppdager at din kjære forteller har blitt drept … spiddet av viseren på klokketårnet, med blod dryppende ned på brosteinen under. Du skjønner at dette er gjort av en demon, og du har helt rett - en demon som dreper om natten og tar menneskeform om dagen.",
-      "intro_part03": "Du kommer snart til å få enten en rød eller en blå spillebrikke. Hvis blå, er du god. Hvis rød, er du ond. Målet i spillet hvis du er god, er å finne og drepe demonen. Hvis demonen dør, vinner det gode laget. Målet hvis du er ond, er å ruinere byen. Hvis bare to spillere er igjen i live, vinner det onde laget.",
+      "intro_part03": "Du kommer snart til å få enten en rød eller en blå spillebrikke. Hvis blå, er du god. Hvis rød, er du ond. Målet i spillet hvis du er god, er å finne og drepe demonen. Hvis demonen dør, vinner det gode laget. Målet hvis du er ond, er å utslette byen. Hvis bare to spillere er igjen i live, vinner det onde laget.",
       "intro_part04": "Spillet er delt i to faser: dag og natt. På dagen prater dere med hverandre. Alle har en hemmelig identitet; en rolle på listen. Generelt så deler de gode spillerne det de vet og forsøker å finne ut hvem som er hvem. De fleste gode spillerne kommer til å snakke sant, men noen har kanskje en god grunn til å lyve. Som ond vil man helt klart lyve! Det er best å velge en god rolle å late som man er, for å spre så mye falsk info som mulig.",
       "intro_part05": "Under natten er kameraene til spillerne slått av, og fortelleren vekker enkelte spillere så de kan bruke sin egenskap eller få informasjon. Når fortelleren vekker deg dukker det opp en boks midt på skjermen. Følg instruksjonene der for å kommunisere med fortelleren. Hvis du vil se boksen igjen i løpet av natten kan du klikke på «Nattinfo» oppe til høyre på skjermen.",
       "intro_part06": "Hvis fortelleren trenger å snakke med deg privat, kan de også be om en stemmesamtale. Invitasjonen vil vises på venstre del av skjermen. Klikk på den for å bli med i samtalen. I samtalen kan du snakke privat med fortelleren. Når du er ferdig kan du trykke på backspace eller delete for å returnere til torget.",
@@ -688,7 +696,7 @@
       "player": "Spiller",
       "player_text": "Velg en spiller ved å klikke på brikken deres i Grimoire.",
       "prompt_custom_placeholder": "Egen melding",
-      "prompt_custom_player": "Hva vil du spørre fortelleren om?",
+      "prompt_custom_player": "Hva vil du spørre Fortelleren om?",
       "prompt_custom_st": "Hva vil du fortelle spilleren?",
       "prompt_custom_title": "Send egen melding",
       "received": "Mottatt",
