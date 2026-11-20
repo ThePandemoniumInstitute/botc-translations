@@ -210,7 +210,7 @@
         "generic": "En feil har oppstått",
         "ignore_text": "Det oppsto en feil under oppdatering av ignoreringslisten din.",
         "ignore_title": "Feil under oppdatering av ignoreringsliste",
-        "invite_request_text": "Det gikk ikke an å spørre {0} om en invitasjon. Årsak: {0}",
+        "invite_request_text": "Det gikk ikke å spørre {0} om en invitasjon. Årsak: {1}",
         "invite_request_title": "Forespørsel om invitasjon feilet",
         "invite_text": "{0} kunne ikke inviteres til din spilløkt. Årsak: {0}",
         "invite_title": "Invitasjon av venn feilet",
