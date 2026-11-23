@@ -183,6 +183,7 @@
         "avatar_pixel": "Votre image est trop grande. Veuillez réduire sa taille en dessous de 4000x4000 avant de réessayer.",
         "avatar_size": "Votre fichier est trop gros. Veuillez réessayer avec une image dont la taille n'excède pas 5 MB.",
         "avatar_type": "Votre fichier n'a pas été reconnu comme étant une image.",
+        "block_duplicate_text": "Cet utilisateur figure déjà sur votre liste de blocage.",
         "block_text": "Une erreur s'est produite en mettant à jour votre liste de blocage.",
         "block_title": "Erreur de la mise à jour de la liste de blocage",
         "bluffs": "Erreur lors de la mise à jour des bluffs",
@@ -201,7 +202,9 @@
         "end": "Erreur lors de la fin de la partie",
         "eyes_close": "Impossible de fermer les yeux",
         "eyes_open": "Impossible d'ouvrir les yeux",
+        "friend_duplicate_text": "Cet utilisateur figure déjà sur votre liste d'amis / de demandes d'amis.",
         "generic": "Une erreur s'est produite",
+        "invite_request_text": "Impossible de demander une invitation à {0}. Raison : {1}",
         "kick": "Impossible d'expulser l'utilisateur",
         "link_text": "Une erreur est survenue en associant votre compte Patreon. Veuillez réessayer.",
         "link_title": "Erreur lors de l'association du compte Patreon",
@@ -310,6 +313,17 @@
       "theme_generic": "Thème générique :",
       "title": "Choisir une édition :",
       "upload_custom": "Charger un JSON de Script Personnalisé"
+    },
+    "friends": {
+      "add_block_text": "Entrez un ID utilisateur de l'application pour l'ajouter à votre liste de blocage :",
+      "add_block_title": "Bloquer un utilisateur",
+      "status_dnd": "Ne pas déranger",
+      "status_dnd_explanation": "Ne pas recevoir de notifications d'amis.",
+      "status_invisible": "Invisible",
+      "status_invisible_explanation": "Ne pas apparaître en ligne auprès de ses amis ou recevoir de notifications d'amis.",
+      "status_online": "En ligne",
+      "status_online_explanation": "Recevoir des notifications et apparaître en ligne auprès de ses amis.",
+      "title_block": "Liste de blocage"
     },
     "npc": {
       "title": "Ajouter un Personnage Non-Joueur"
