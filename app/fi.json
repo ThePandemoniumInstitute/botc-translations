@@ -186,6 +186,7 @@
         "avatar_pixel": "Kuvasi oli liian iso. Pinennä se alle 4000x4000 kokoon, ennen kuin lataat sen uudelleen.",
         "avatar_size": "Tiedostosi oli liian iso. Yritä uudestaan kuvalla, jonka koko on pienempi kuin 5 MB.",
         "avatar_type": "Tiedostoasi ei tunnistettu kuvaksi.",
+        "block_duplicate_text": "Käyttäjä on jo estolistallasi.",
         "block_text": "Estolistasi päivittämisessä tapahtui virhe.",
         "block_title": "Virhe estolistan päivittämisessä",
         "bluffs": "Virhe bluffien päivityksessä",
@@ -205,6 +206,7 @@
         "eyes_close": "Silmien sulkeminen ei onnistu",
         "eyes_open": "Silmien avaaminen ei onnistu",
         "friend_add_text": "Tätä käyttäjää ei voitu lisätä kaverilistallesi. Syy: {0}",
+        "friend_duplicate_text": "Käyttäjä on jo kaverilistallasi / kaveripyyntölistallasi.",
         "friend_text": "Kaverilistasi päivittämisessä tapahtui virhe.",
         "friend_title": "Virhe kaverilistan päivittämisessä",
         "generic": "Tapahtui virhe",
@@ -333,6 +335,8 @@
     },
     "friends": {
       "accept_invitation": "Hyväksy kutsu",
+      "add_block_text": "Syötä käyttäjätunnus lisätäksesi tämän estolistallesi:",
+      "add_block_title": "Estä käyttäjä",
       "add_friend_placeholder": "Käyttäjätunnus",
       "add_friend_text": "Anna käyttäjätunnus lähettääksesi kaveripyynnön:",
       "add_friend_title": "Lisää kaveri",
@@ -357,10 +361,17 @@
       "remove_friend_text": "Haluatko varmasti poistaa tämän käyttäjän kaverilistaltasi?",
       "remove_friend_title": "Poista {0} kavereista",
       "requested_on": "pyyntö lähetetty {0}",
+      "status_dnd": "Älä häiritse",
+      "status_dnd_explanation": "Älä vastaanota kaveri-ilmoituksia.",
+      "status_invisible": "Näkymätön",
+      "status_invisible_explanation": "Älä näyttäydy online tai vastaanota ilmoituksia kavereiltasi.",
+      "status_online": "Online",
+      "status_online_explanation": "Vastaanota ilmoituksia ja näyttäydy kavereillesi online-tilassa.",
       "tab_blocked": "Estetyt käyttäjät ({0})",
       "tab_friends": "Kaverit ({0})",
       "tab_requests": "Kaveripyynnöt ({0})",
-      "title": "Kaverilista"
+      "title": "Kaverilista",
+      "title_block": "Estolista"
     },
     "npc": {
       "title": "Lisää ei-pelaajahahmo"
