@@ -210,7 +210,7 @@
         "generic": "Tapahtui virhe",
         "ignore_text": "Sivuutuslistasi päivittämisessä tapahtui virhe.",
         "ignore_title": "Virhe sivuutuslistan päivittämisessä",
-        "invite_request_text": "Kutsun pyytäminen käyttäjältä {0} ei onnistunut. Syy: {0}",
+        "invite_request_text": "Kutsun pyytäminen käyttäjältä {0} ei onnistunut. Syy: {1}",
         "invite_request_title": "Virhe kutsua pyydettäessä",
         "invite_text": "Käyttäjää {0} ei voitu kutsua istuntoosi. Syy: {0}",
         "invite_title": "Virhe kaveria kutsuttaessa",
