@@ -213,6 +213,8 @@
         "ignore_text": "Podczas aktualizacji listy ignorowanych nastąpił błąd.",
         "ignore_title": "Błąd aktualizacji listy ignorowanych",
         "invite_request_text": "Nie udało się poprosić o zaproszenie od {0}. Powód: {1}",
+        "invite_request_title": "Błąd podczas proszenia o zaproszenie",
+        "invite_text": "{0} nie udało się zaprosić do sesji. Powód: {0}",
         "invite_title": "Błąd podczas zapraszania znajomego",
         "kick": "Nie udało się wyrzucić użytkownika",
         "link_text": "Wystąpił błąd przy łączeniu twojego konta z serwisem Patreon. Spróbuj ponownie.",
@@ -335,10 +337,10 @@
       "accept_invitation": "Przyjmij zaproszenie",
       "add_block_text": "Wprowadź ID użytkownika aby dodać go do listy zablokowanych:",
       "add_block_title": "Zablokuj użytkownika",
-      "add_friend_placeholder": "ID Użytkownika",
+      "add_friend_placeholder": "ID użytkownika",
       "add_friend_text": "Wpisz numer identyfikacyjny użytkownika, aby wysłać mu zaproszenie do znajomych:",
       "add_friend_title": "Dodaj znajomego",
-      "ask_to_join": "Zapytaj aby dołączyć",
+      "ask_to_join": "Poproś o dołączenie",
       "filter": "Filtr",
       "in_other_session": "Obecni w sesji ({0}).",
       "in_private_session": "Obecnie w sesji prywatnej.",
@@ -359,7 +361,7 @@
       "remove_friend_title": "Usuń {0} z listy znajomych.",
       "requested_on": "zaproszono {0}",
       "status_dnd": "Nie przeszkadzać",
-      "status_dnd_explanation": "Nie otrzymuj powiadomień o zjanomych.",
+      "status_dnd_explanation": "Nie otrzymuj powiadomień o znajomych.",
       "status_invisible": "Niewidoczny",
       "status_invisible_explanation": "Ukryj swój status bycia online i nie otrzymuj powiadomień o znajomych.",
       "status_online": "Online",
@@ -730,11 +732,12 @@
       "button_cancel_st": "Anuluj zaproszenie dla nowego Bajarza",
       "button_friend_user": "Dodaj do listy znajomych",
       "button_ignore_friend_user": "Zignoruj zaproszenie",
-      "button_kick_user": "Wykop użytkownika",
+      "button_kick_user": "Wyrzuć",
       "button_mod_user": "Moderuj",
       "button_remove_st": "Usuń Bajarza",
       "button_report_user": "Zgłoś",
       "button_unblock_user": "Odblokuj",
+      "button_unfriend_user": "Usuń z listy znajomych",
       "error": "Wystąpił błąd podczas ładowania szczegółów o użytkowniku.",
       "grimoire_access_grant": "Przyznaj dostęp do Grymuaru",
       "grimoire_access_revoke": "Odbierz dostęp do Grymuaru",
@@ -791,6 +794,13 @@
       "voters": "Głosujący",
       "votes": "Głosy"
     }
+  },
+  "notifications": {
+    "block_join": "Użytkownik z listy zablokowanych dołączył do bieżącej sesji: {0}",
+    "friend_request": "Otrzymano zaproszenie do znajomych od {0}:",
+    "grim_request_user": "Widz {0} prosi o dostęp do Grymuaru:",
+    "new_cosmetic": "Odblokowałeś nową {cosmetic}: {name}",
+    "session_expires": "W bieżącej sesji nie bierze udziału żaden subskrybent na poziomie Sługusa. Sesja wygaśnie o {0}."
   },
   "overlays": {
     "attention": {
