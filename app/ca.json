@@ -210,7 +210,7 @@
         "generic": "S’ha produït un error",
         "ignore_text": "S’ha produït un error en actualitzar la llista d’usuaris ignorats.",
         "ignore_title": "Error en actualitzar la llista d’usuaris ignorats",
-        "invite_request_text": "No s’ha pogut sol·licitar una invitació a {0}. Motiu: {0}",
+        "invite_request_text": "No s’ha pogut sol·licitar una invitació a {0}. Motiu: {1}",
         "invite_request_title": "Error en sol·licitar una invitació",
         "invite_text": "No s’ha pogut convidar {0} a la vostra sessió. Motiu: {0}",
         "invite_title": "Error en convidar un amic",
